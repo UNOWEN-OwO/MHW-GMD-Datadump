@@ -1,0 +1,508 @@
+Quest ID	Quest Name	Quest Target	Fail Condition
+00000	Unavailable	Unavailable	Unavailable
+00001	Unavailable	Unavailable	Unavailable
+00002	Unavailable	Unavailable	Unavailable
+00003	Invalid Message	Invalid Message	Invalid Message
+00004	Invalid Message	Invalid Message	Invalid Message
+00005	Invalid Message	Invalid Message	Invalid Message
+00101	Jagras of the Ancient Forest	Slay 7 Jagras	Time expiresFaint 3 times
+00102	A Kestodon Kerfuffle	Complete the assignment	Time expiresFaint 3 times
+00103	The Great Jagras Hunt	Hunt a Great Jagras	Time expiresFaint 3 times
+00151	Butting Heads with Nature	Slay 12 Kestodon	Time expiresFaint 3 times
+00152	A Thicket of Thugs	Slay 7 Jagras	Time expiresFaint 3 times
+00153	Fungal Flexin' in the Ancient Forest	Deliver 20 Gourmet Shroomcaps	Time expiresFaint 3 times
+00201	Bird-Brained Bandit	Hunt a Kulu-Ya-Ku	Time expiresFaint 3 times
+00205	Urgent: Pukei-Pukei Hunt	Hunt a Pukei-Pukei	Time expiresFaint 3 times
+00241	Learning the Clutch	Learn the mechanics of the clutch claw	Time expiresFaint 3 timesGreat Jagras is hunted
+00251	The Great Glutton	Hunt a Great Jagras	Time expiresFaint 3 times
+00252	Camp Crasher	Hunt a Kulu-Ya-Ku	Time expiresFaint 3 times
+00261	Snatch the Snatcher	Capture a Kulu-Ya-Ku	Time expiresFaint 3 timesKulu-Ya-Ku is slain
+00262	The Pain from Gains	Slay 7 Gajau	Time expiresFaint 3 times
+00263	Exterminator of the Waste	Slay 14 Vespoid	Time expiresFaint 3 times
+00301	The Best Kind of Quest	Complete the assignment	Time expiresFaint 3 times
+00302	Sinister Shadows in the Swamp	Complete the assignment	Time expiresFaint 3 times
+00305	Flying Sparks: Tobi-Kadachi	Hunt a Tobi-Kadachi	Time expiresFaint 3 times
+00306	The Encroaching Anjanath	Hunt an Anjanath	Time expiresFaint 3 times
+00331	Special Arena: Pukei-Pukei	Hunt a Pukei-Pukei	Time expiresFaint 3 times
+00332	Special Arena: Barroth	Hunt a Barroth	Time expiresFaint 3 times
+00333	Special Arena: Tobi-Kadachi	Hunt a Tobi-Kadachi	Time expiresFaint 3 times
+00351	Scatternut Shortage	Hunt a Pukei-Pukei	Time expiresFaint 3 times
+00352	The Current Situation	Hunt a Tobi-Kadachi	Time expiresFaint 3 times
+00361	Mired in the Spire	Hunt a Barroth	Time expiresFaint 3 times
+00362	The Piscine Problem	Hunt a Jyuratodus	Time expiresFaint 3 times
+00363	Prickly Predicament	Deliver 20 Bauble Cactuses	Time expiresFaint 3 times
+00364	Gettin' Yolked in the Waste	Deliver 2 Herbivore Eggs	Time expiresFaint 3 times
+00365	Landing the Landslide Wyvern	Capture a Barroth	Time expiresFaint 3 timesBarroth is slain
+00401	One for the History Books	Complete the assignment	Time expiresFaint 3 times
+00405	Ballooning Problems	Hunt a Paolumu	Time expiresFaint 3 times
+00407	Radobaan Roadblock	Hunt a Radobaan	Time expiresFaint 3 times
+00408	Legiana: Embodiment of Elegance	Hunt a Legiana	Time expiresFaint 3 times
+00431	Special Arena: Anjanath	Hunt an Anjanath	Time expiresFaint 3 times
+00432	Special Arena: Rathian	Hunt a Rathian	Time expiresFaint 3 times
+00433	Special Arena: Paolumu	Hunt a Paolumu	Time expiresFaint 3 times
+00434	Special Arena: Radobaan	Hunt a Radobaan	Time expiresFaint 3 times
+00451	One Helluva Sinus Infection	Hunt an Anjanath	Time expiresFaint 3 times
+00452	Gettin' Yolked in the Forest	Deliver 2 Wyvern Eggs	Time expiresFaint 3 times
+00461	Royal Relocation	Hunt a Rathian	Time expiresFaint 3 times
+00471	It's a Crying Shamos	Slay 11 Shamos	Time expiresFaint 3 times
+00472	A Tzitzi for Science	Hunt a Tzitzi-Ya-Ku	Time expiresFaint 3 times
+00473	Sorry You're Not Invited	Hunt a Paolumu	Time expiresFaint 3 times
+00474	What a Bunch of Abalone	Deliver 10 Super Abalone	Time expiresFaint 3 times
+00475	White Monster for a White Coat	Capture a Paolumu	Time expiresFaint 3 timesPaolumu is slain
+00481	Persistent Pests	Slay 14 Hornetaur	Time expiresFaint 3 times
+00482	A Rotten Thing To Do	Hunt a Great Girros	Time expiresFaint 3 times
+00483	A Bone to Pick	Hunt a Radobaan	Time expiresFaint 3 times
+00484	On Nightmare's Wings	Slay 5 Raphinos	Time expiresFaint 3 times
+00501	Into the Bowels of the Vale	Complete the assignment	Time expiresFaint 3 times
+00502	A Fiery Throne Atop the Forest	Hunt a Rathalos	Time expiresFaint 3 times
+00503	Horned Tyrant Below the Sands	Hunt a Diablos	Time expiresFaint 3 times
+00504	A Colossal Task	Complete the assignment	Time expiresFaint 3 timesFail to guide Zorah Magdaros
+00531	Special Arena: Legiana	Hunt a Legiana	Time expiresFaint 3 times
+00532	Special Arena: Odogaron	Hunt an Odogaron	Time expiresFaint 3 times
+00533	Special Arena: Rathalos	Hunt a Rathalos	Time expiresFaint 3 times
+00534	Special Arena: Diablos	Hunt a Diablos	Time expiresFaint 3 times
+00551	When Desire Becomes an Obsession	Hunt a Rathalos	Time expiresFaint 3 times
+00552	"Redefining the ""Power Couple"""	Hunt all target monsters	Time expiresFaint 3 times
+00561	Twin Spires Upon the Sands	Hunt a Diablos	Time expiresFaint 3 times
+00571	A Humid Headache	Hunt a Legiana	Time expiresFaint 3 times
+00572	Gone in a Flash	Slay a Kirin	Time expiresFaint 3 times
+00581	Scratching the Itch	Hunt an Odogaron	Time expiresFaint 3 times
+00582	Man's Best Fiend	Capture an Odogaron	Time expiresFaint 3 timesOdogaron is slain
+00583	The Meat of the Matter	Deliver 2 Lumps of Meat	Time expiresFaint 3 times
+00601	Invader in the Waste	Hunt a Pukei-Pukei	Time expiresFaint 3 times
+00605	Tickled Pink	Hunt an Anjanath	Time expiresFaint 3 times
+00607	Old World Monster in the New World	Complete the assignment	Time expiresFaint 3 times
+00631	Special Arena: HR Pukei-Pukei	Hunt a Pukei-Pukei	Time expiresFaint 3 times
+00632	Special Arena: HR Barroth	Hunt a Barroth	Time expiresFaint 3 times
+00633	Special Arena: HR Tobi-Kadachi	Hunt a Tobi-Kadachi	Time expiresFaint 3 times
+00634	Special Arena: HR Anjanath	Hunt an Anjanath	Time expiresFaint 3 times
+00635	Special Arena: HR Rathian	Hunt a Rathian	Time expiresFaint 3 times
+00636	Special Arena: HR Paolumu	Hunt a Paolumu	Time expiresFaint 3 times
+00637	Special Arena: HR Radobaan	Hunt a Radobaan	Time expiresFaint 3 times
+00641	Left Quite the Impression	Guide Zorah Magdaros	Time expiresFaint 3 timesFail to guide Zorah Magdaros
+00651	Hard to Swallow	Hunt a Great Jagras	Time expiresFaint 3 times
+00652	Googly-eyed Green Monster	Hunt a Pukei-Pukei	Time expiresFaint 3 times
+00653	A Hair-Raising Experience	Hunt a Tobi-Kadachi	Time expiresFaint 3 times
+00654	It Can't See You if You Don't Move	Hunt an Anjanath	Time expiresFaint 3 times
+00655	The Sleeping Sylvan Queen	Hunt a Rathian	Time expiresFaint 3 times
+00656	Stuck in Their Ways	Capture a Tobi-Kadachi	Time expiresFaint 3 timesTobi-Kadachi is slain
+00661	Keep Your Hands to Yourself!	Hunt a Kulu-Ya-Ku	Time expiresFaint 3 times
+00662	A Crown of Mud and Anger	Hunt a Barroth	Time expiresFaint 3 times
+00663	Pukei-Pukei Ambush	Hunt a Pukei-Pukei	Time expiresFaint 3 times
+00665	Up to Your Waist in the Waste	Hunt a Jyuratodus	Time expiresFaint 3 times
+00666	Brown Desert, Green Queen	Hunt a Rathian	Time expiresFaint 3 times
+00667	Trespassing Troublemaker	Hunt an Anjanath	Time expiresFaint 3 times
+00671	Say Cheese!	Hunt a Tzitzi-Ya-Ku	Time expiresFaint 3 times
+00672	Loop the Paolumu	Hunt a Paolumu	Time expiresFaint 3 times
+00681	A Tingling Taste	Hunt a Great Girros	Time expiresFaint 3 times
+00682	Stuck in a Rut	Hunt a Radobaan	Time expiresFaint 3 times
+00683	Chef Quest! Pumped to Deliver	Deliver 4 Forgotten Fossils	Time expiresFaint 3 times
+00684	Chef Quest! A Rotten Request	Slay 10 Girros	Time expiresFaint 3 times
+00691	A Meow for Help	Slay 13 Gastodon	Time expiresFaint 3 times
+00692	A Scalding Scoop	Slay 5 Barnos	Time expiresFaint 3 times
+00693	Dodogama Drama	Hunt a Dodogama	Time expiresFaint 3 times
+00694	Chef Quest! Gajalaka Lockdown	Defeat 10 Gajalaka	Time expiresFaint 3 times
+00701	A Wound and a Thirst	Slay Nergigante	Time expiresFaint 3 times
+00731	Special Arena: HR Pink Rathian	Hunt a Pink Rathian	Time expiresFaint 3 times
+00732	Special Arena: HR Legiana	Hunt a Legiana	Time expiresFaint 3 times
+00733	Special Arena: HR Odogaron	Hunt an Odogaron	Time expiresFaint 3 times
+00734	Special Arena: HR Uragaan	Hunt an Uragaan	Time expiresFaint 3 times
+00735	Special Arena: HR Rathalos	Hunt a Rathalos	Time expiresFaint 3 times
+00736	Special Arena: HR Azure Rathalos	Hunt an Azure Rathalos	Time expiresFaint 3 times
+00737	Special Arena: HR Diablos	Hunt a Diablos	Time expiresFaint 3 times
+00738	Special Arena: HR Black Diablos	Hunt a Black Diablos	Time expiresFaint 3 times
+00751	Rathalos Rematch	Hunt a Rathalos	Time expiresFaint 3 times
+00752	Rathalos in Blue	Hunt an Azure Rathalos	Time expiresFaint 3 times
+00753	The Red and Blue Crew	Hunt all target monsters	Time expiresFaint 3 times
+00761	Pretty In Pink	Hunt a Pink Rathian	Time expiresFaint 3 times
+00762	Well, That Diablos!	Hunt a Diablos	Time expiresFaint 3 times
+00763	Two-horned Hostility	Hunt a Black Diablos	Time expiresFaint 3 times
+00764	RRRRRumble in the Waste!	Hunt all target monsters	Time expiresFaint 3 times
+00771	A Cherry Wind upon the Reefs	Hunt a Pink Rathian	Time expiresFaint 3 times
+00772	Legiana: Highlands Royalty	Hunt a Legiana	Time expiresFaint 3 times
+00773	A Sore Site	Hunt an Odogaron	Time expiresFaint 3 times
+00774	Talons of Ire and Ice	Hunt all target monsters	Time expiresFaint 3 times
+00781	Odogaron Unleashed	Hunt an Odogaron	Time expiresFaint 3 times
+00791	Lavasioth, Monster of Magma	Hunt a Lavasioth	Time expiresFaint 3 times
+00792	Ore-eating Occupier	Hunt an Uragaan	Time expiresFaint 3 times
+00793	Ruler of the Azure Skies	Hunt an Azure Rathalos	Time expiresFaint 3 times
+00794	Bazelgeuse in the Field of Fire	Hunt a Bazelgeuse	Time expiresFaint 3 times
+00795	A Fiery Convergence	Hunt all target monsters	Time expiresFaint 3 times
+00801	Kushala Daora, Dragon of Steel	Slay Kushala Daora	Time expiresFaint 3 times
+00802	Teostra the Infernal	Slay Teostra	Time expiresFaint 3 times
+00803	Hellish Fiend Vaal Hazak	Slay Vaal Hazak	Time expiresFaint 3 times
+00804	Land of Convergence	Complete the assignment	Time expiresFaint 3 times
+00805	Beyond the Blasting Scales	Hunt two Bazelgeuse	Time expiresFaint 3 times
+00806	Thunderous Rumble in the Highlands	Slay a Kirin	Time expiresFaint 3 times
+00851	A Portent of Disaster	Slay a Kushala Daora	Time expiresFaint 3 times
+00861	A Blaze on the Sand	Slay a Teostra	Time expiresFaint 3 times
+00871	Lightning Strikes Twice	Slay a Kirin	Time expiresFaint 3 times
+00881	Stirrings from the Grave	Slay a Vaal Hazak	Time expiresFaint 3 times
+00891	The Eater of Elders	Slay Nergigante	Time expiresFaint 3 times
+00892	Master of the Gale	Slay a Kushala Daora	Time expiresFaint 3 times
+00893	Hellfire's Stronghold	Slay a Teostra	Time expiresFaint 3 times
+00894	The Eater of Elders	Slay Nergigante	Time expiresFaint 3 times
+00895	The Winds of Wrath Bite Deep	Slay a Kushala Daora	Time expiresFaint 3 times
+00896	The Fires of Hell Bite Deep	Slay a Teostra	Time expiresFaint 3 times
+00961	Beyond the Blasting Scales	Hunt 2 Bazelgeuse	Time expiresFaint 3 times
+00971	Thunderous Rumble in the Highlands	Slay a Kirin	Time expiresFaint 3 times
+00991	A Light Upon the River's Gloom	Slay Xeno'jiiva	Time expiresFaint 3 times
+00992	The White Winds of the New World	Hunt all target monsters	Time expiresFaint 3 times
+00995	The Sapphire Star's Guidance	Slay all target monsters	Time expiresFaint 3 times
+00996	Showdown: the Muck and the Maul	Hunt all target monsters	Time expiresFaint 3 times
+00997	New World Sky, New World Flower	Hunt all target monsters	Time expiresFaint 3 times
+00998	A Summons from Below	Hunt all target monsters	Time expiresFaint 3 times
+01101	Baptism by Ice	Hunt a Beotodus	Time expiresFaint 3 times
+01102	Banbaro Blockade	Hunt a Banbaro	Time expiresFaint 3 times
+01121	Deep Snow Diver	Hunt a Beotodus	Time expiresFaint 3 times
+01122	Taking Charge	Hunt a Banbaro	Time expiresFaint 3 times
+01123	Ice Catch!	Capture a Beotodus	Time expiresFaint 3 timesBeotodus is slain
+01124	Call of the Wild	Slay 10 Wulg	Time expiresFaint 3 times
+01125	Greetings from the Tundra	Deliver 20 Young Butterburs	Time expiresFaint 3 times
+01131	Special Arena: MR Pukei-Pukei	Hunt a Pukei-Pukei	Time expiresFaint 3 times
+01132	Special Arena: MR Barroth	Hunt a Barroth	Time expiresFaint 3 times
+01133	Special Arena: MR Tobi-Kadachi	Hunt a Tobi-Kadachi	Time expiresFaint 3 times
+01134	Special Arena: MR Banbaro	Hunt a Banbaro	Time expiresFaint 3 times
+01151	The Great Jagras Returns!	Hunt a Great Jagras	Time expiresFaint 3 times
+01152	New World Problems	Hunt a Pukei-Pukei	Time expiresFaint 3 times
+01153	Beating Around the Bush	Hunt a Tobi-Kadachi	Time expiresFaint 3 times
+01154	Literary Thief	Hunt a Kulu-Ya-Ku	Time expiresFaint 3 times
+01155	Trapping The Tree Trasher	Capture a Banbaro	Time expiresFaint 3 timesBanbaro is slain
+01161	Wildspire Treasure Hunt	Hunt a Kulu-Ya-Ku	Time expiresFaint 3 times
+01162	Dragged Through the Mud	Hunt a Barroth	Time expiresFaint 3 times
+01163	Jyura In My Way	Hunt a Jyuratodus	Time expiresFaint 3 times
+01164	Taster's Tour	Hunt a Pukei-Pukei	Time expiresFaint 3 times
+01171	All the Wrong Signals	Hunt a Tzitzi-Ya-Ku	Time expiresFaint 3 times
+01181	Grinding my Girros	Hunt a Great Girros	Time expiresFaint 3 times
+01191	Can't Bring Yourself To It	Hunt a Dodogama	Time expiresFaint 3 times
+01192	This Here's Big Horn Country!	Hunt a Banbaro	Time expiresFaint 3 times
+01201	Ready to Strike	Hunt a Viper Tobi-Kadachi	Time expiresFaint 3 times
+01202	No Time for Naps	Hunt a Nightshade Paolumu	Time expiresFaint 3 times
+01203	Play Both Ends	Hunt a Coral Pukei-Pukei	Time expiresFaint 3 times
+01221	Analysis Creates Paralysis	Hunt a Viper Tobi-Kadachi	Time expiresFaint 3 times
+01222	Poison and Paralysis Pinch	Capture a Viper Tobi-Kadachi	Time expiresFaint 3 timesViper Tobi-Kadachi is slain
+01223	Boaboa Constrictor	Defeat 14 Boaboa	Time expiresFaint 3 times
+01224	By Our Powers Combined	Hunt a Beotodus	Time expiresFaint 3 times
+01225	You Scratch Our Backs...	Hunt a Beotodus	Time expiresFaint 3 times
+01231	Special Arena: MR Anjanath	Hunt an Anjanath	Time expiresFaint 3 times
+01232	Special Arena: MR Radobaan	Hunt a Radobaan	Time expiresFaint 3 times
+01233	Special Arena: MR Coral Pukei-Pukei	Hunt a Coral Pukei-Pukei	Time expiresFaint 3 times
+01234	Special Arena: MR Viper Tobi-Kadachi	Hunt a Viper Tobi-Kadachi	Time expiresFaint 3 times
+01235	Special Arena: MR Rathian	Hunt a Rathian	Time expiresFaint 3 times
+01236	Special Arena: MR Pink Rathian	Hunt a Pink Rathian	Time expiresFaint 3 times
+01237	Special Arena: MR Paolumu	Hunt a Paolumu	Time expiresFaint 3 times
+01238	Special Arena: MR Nightshade Paolumu	Hunt a Nightshade Paolumu	Time expiresFaint 3 times
+01251	Anjanath Antics	Hunt an Anjanath	Time expiresFaint 3 times
+01252	Fool's Mate	Hunt a Rathian	Time expiresFaint 3 times
+01253	Nighty Night Nightshade	Capture a Nightshade Paolumu	Time expiresFaint 3 timesNightshade Paolumu is slain
+01261	A Queen At Heart	Hunt a Rathian	Time expiresFaint 3 times
+01262	A Face Nightmares Are Made Of	Hunt a Nightshade Paolumu	Time expiresFaint 3 times
+01263	Stick Your Nose Somewhere Else	Hunt an Anjanath	Time expiresFaint 3 times
+01264	Feisty Girl Talk	Hunt all target monsters	Time expiresFaint 3 times
+01271	The Plight of Paolumu	Hunt a Paolumu	Time expiresFaint 3 times
+01272	Pink Power Grab	Hunt a Pink Rathian	Time expiresFaint 3 times
+01273	Protip: Stay Hydrated	Hunt a Coral Pukei-Pukei	Time expiresFaint 3 times
+01274	Put That Red Cup Away	Hunt a Coral Pukei-Pukei	Time expiresFaint 3 times
+01281	No Laughing Matter	Hunt a Radobaan	Time expiresFaint 3 times
+01282	Bugger Off Bugs!	Slay all target monsters	Time expiresFaint 3 times
+01291	Looking For That Glimmer	Deliver 20 Gaia Ambers	Time expiresFaint 3 times
+01301	Blizzard Blitz	Hunt a Barioth	Time expiresFaint 3 times
+01302	Ever-present Shadow	Hunt a Nargacuga	Time expiresFaint 3 times
+01303	The Scorching Blade	Hunt a Glavenus	Time expiresFaint 3 times
+01304	Absolute Power	Hunt a Tigrex	Time expiresFaint 3 times
+01305	A Smashing Cross Counter	Hunt a Brachydios	Time expiresFaint 3 times
+01306	A Tale of Ice and Fire	Repel Velkhana	Time expiresFaint 3 times
+01321	Remember That One Time?	Hunt a Barioth	Time expiresFaint 3 times
+01322	The Purr-fect Room: Stone	Capture a Tigrex	Time expiresFaint 3 timesTigrex is slain
+01323	Proud White Knight	Hunt a Barioth	Time expiresFaint 3 times
+01331	Special Arena: MR Legiana	Hunt a Legiana	Time expiresFaint 3 times
+01332	Special Arena: MR Odogaron	Hunt an Odogaron	Time expiresFaint 3 times
+01333	Special Arena: MR Uragaan	Hunt an Uragaan	Time expiresFaint 3 times
+01334	Special Arena: MR Rathalos	Hunt a Rathalos	Time expiresFaint 3 times
+01335	Special Arena: MR Diablos	Hunt a Diablos	Time expiresFaint 3 times
+01336	Special Arena: MR Barioth	Hunt a Barioth	Time expiresFaint 3 times
+01337	Special Arena: MR Nargacuga	Hunt a Nargacuga	Time expiresFaint 3 times
+01338	Special Arena: MR Glavenus	Hunt a Glavenus	Time expiresFaint 3 times
+01339	Special Arena: MR Brachydios	Hunt a Brachydios	Time expiresFaint 3 times
+01340	Special Arena: MR Tigrex	Hunt a Tigrex	Time expiresFaint 3 times
+01351	Swoop to a New Low	Hunt a Rathalos	Time expiresFaint 3 times
+01352	Nargacoulda, Shoulda, Woulda	Hunt a Nargacuga	Time expiresFaint 3 times
+01353	The Secret to a Good Slice	Hunt a Glavenus	Time expiresFaint 3 times
+01354	Red and Black Aces	Hunt all target monsters	Time expiresFaint 3 times
+01361	A Line in the Sand	Hunt a Diablos	Time expiresFaint 3 times
+01362	A Flash of the Blade	Hunt a Glavenus	Time expiresFaint 3 times
+01363	Simmer and Slice!	Hunt all target monsters	Time expiresFaint 3 times
+01371	Legiana Left Behind	Hunt a Legiana	Time expiresFaint 3 times
+01372	The Black Wind	Hunt a Nargacuga	Time expiresFaint 3 times
+01373	A Nasty Flesh Wound	Hunt an Odogaron	Time expiresFaint 3 times
+01381	Don't be a Jerk with the Jerky	Hunt an Odogaron	Time expiresFaint 3 times
+01382	A Roar that Shook the Vale	Hunt a Tigrex	Time expiresFaint 3 times
+01383	Runnin', Rollin', and Weepin'	Hunt all target monsters	Time expiresFaint 3 times
+01391	Blast Warning In Effect!	Hunt a Brachydios	Time expiresFaint 3 times
+01392	Everyone's a Critic	Hunt a Lavasioth	Time expiresFaint 3 times
+01393	Begone Uragaan	Hunt an Uragaan	Time expiresFaint 3 times
+01394	Secret of the Ooze	Capture a Brachydios	Time expiresFaint 3 timesBrachydios is slain
+01395	Festival of Explosions!	Hunt all target monsters	Time expiresFaint 3 times
+01401	When the Mist Taketh You	Hunt a Shrieking Legiana	Time expiresFaint 3 times
+01402	The Disintegrating Blade	Hunt an Acidic Glavenus	Time expiresFaint 3 times
+01403	Bad Friends, Great Enemies	Hunt an Ebony Odogaron	Time expiresFaint 3 times
+01404	The Defense of Seliana	Complete the assignment	Time expiresFaint 3 timesFail to defend Seliana
+01405	The Thunderous Troublemaker!	Hunt a Fulgur Anjanath	Time expiresFaint 3 times
+01421	Noblefrost Hunter	Hunt a Shrieking Legiana	Time expiresFaint 3 times
+01422	Tundra Troublemaker	Hunt a Fulgur Anjanath	Time expiresFaint 3 times
+01423	Duet of Rime	Hunt all target monsters	Time expiresFaint 3 times
+01424	Treasure in the Steam	Deliver 2 Hot Spring Stones	Time expiresFaint 3 times
+01431	Special Arena: MR Azure Rathalos	Hunt an Azure Rathalos	Time expiresFaint 3 times
+01432	Special Arena: MR Black Diablos	Hunt a Black Diablos	Time expiresFaint 3 times
+01433	Special Arena: MR Acidic Glavenus	Hunt an Acidic Glavenus	Time expiresFaint 3 times
+01434	Special Arena: MR Ebony Odogaron	Hunt an Ebony Odogaron	Time expiresFaint 3 times
+01435	Special Arena: MR Fulgur Anjanath	Hunt a Fulgur Anjanath	Time expiresFaint 3 times
+01451	These Azure Eyes See All	Hunt an Azure Rathalos	Time expiresFaint 3 times
+01452	Misfortune in the Forest	Hunt an Ebony Odogaron	Time expiresFaint 3 times
+01461	In the Heat of the Moment	Hunt a Black Diablos	Time expiresFaint 3 times
+01462	Piercing Black	Hunt a Black Diablos	Time expiresFaint 3 times
+01471	A Shadowy Offender	Hunt an Ebony Odogaron	Time expiresFaint 3 times
+01481	This Corroded Blade	Hunt an Acidic Glavenus	Time expiresFaint 3 times
+01482	The Purr-fect Room: Light Iron	Capture an Acidic Glavenus	Time expiresFaint 3 timesAcidic Glavenus is slain
+01483	The Purr-fect Room: Dark Iron	Hunt all target monsters	Time expiresFaint 3 times
+01491	Blue Rathalos Blues	Hunt an Azure Rathalos	Time expiresFaint 3 times
+01492	Trap the Thunder Jaw	Capture a Fulgur Anjanath	Time expiresFaint 3 timesFulgur Anjanath is slain
+01501	The Iceborne Wyvern	Slay a Velkhana	Time expiresFaint 3 times
+01502	The Second Coming	Hunt a Seething Bazelgeuse	Time expiresFaint 3 times
+01503	Under the Veil of Death	Slay a Blackveil Vaal Hazak	Time expiresFaint 3 times
+01504	A Light From The Abyss	Slay a Namielle	Time expiresFaint 3 times
+01521	Clashing Swords Upon The Rime	Slay a Velkhana	Time expiresFaint 3 times
+01551	The Harbinger of Clear Skies	Slay a Kushala Daora	Time expiresFaint 3 times
+01552	Here Comes the Deathmaker	Slay a Blackveil Vaal Hazak	Time expiresFaint 3 times
+01561	Royal Audience on the Sand	Slay a Teostra	Time expiresFaint 3 times
+01562	The Tyrant's Banquet	Hunt a Savage Deviljho	Time expiresFaint 3 times
+01571	Lightning Crashes	Slay a Kirin	Time expiresFaint 3 times
+01572	Memories of the Sea God	Slay a Namielle	Time expiresFaint 3 times
+01581	It's the Afterlife for Me	Slay a Blackveil Vaal Hazak	Time expiresFaint 3 times
+01591	Wings of the Wind	Slay a Kushala Daora	Time expiresFaint 3 times
+01592	Mark of the Sun	Slay a Teostra	Time expiresFaint 3 times
+01593	Seething with Anger	Hunt a Seething Bazelgeuse	Time expiresFaint 3 times
+01594	The Purr-fect Room: Silver	Capture a Seething Bazelgeuse	Time expiresFaint 3 timesSeething Bazelgeuse is slain
+01601	To The Guided, A Paean	Complete the assignment	Time expiresFaint 3 times
+01602	Paean of Guidance	Complete the assignment	Time expiresFaint 3 times
+01603	Sleep Now in the Fire	Hunt all target monsters	Time expiresFaint 3 times
+01604	Big Burly Bash	Hunt all target monsters	Time expiresFaint 3 times
+01605	To the Very Ends with You	Slay a Ruiner Nergigante	Time expiresFaint 3 times
+01606	Return of the Crazy One	Hunt a Yian Garuga	Time expiresFaint 3 times
+01631	We Run This Town	Hunt all target monsters	Time expiresFaint 3 times
+01632	Special Arena: MR Zinogre	Hunt a Zinogre	Time expiresFaint 3 times
+01633	Special Arena: MR Yian Garuga	Hunt a Yian Garuga	Time expiresFaint 3 times
+01634	Special Arena: MR Brute Tigrex	Hunt a Brute Tigrex	Time expiresFaint 3 times
+01635	Special Arena: MR Gold Rathian	Hunt a Gold Rathian	Time expiresFaint 3 times
+01636	Special Arena: MR Silver Rathalos	Hunt a Silver Rathalos	Time expiresFaint 3 times
+01641	Faraway Lorelei	Slay a Shara Ishvalda	Time expiresFaint 3 times
+01642	Hymn of Moon and Sun	Hunt all target monsters	Time expiresFaint 3 times
+01651	The Storm Brings the Unexpected	Slay all target monsters	Time expiresFaint 3 times
+01661	One Hot Night in the Spire	Slay a Lunastra	Time expiresFaint 3 times
+01671	Divine Surge	Slay all target monsters	Time expiresFaint 3 times
+01691	Into the Palace of Flame	Slay a Lunastra	Time expiresFaint 3 times
+01692	Master Hunter of the New World	Slay all target monsters	Time expiresFaint 3 times
+03001	Arena Quest 02	Slay a Kulu-Ya-Ku	Time expiresFaint 9 times
+03002	Arena Quest 03	Slay a Rathian	Time expiresFaint 9 times
+03031	Arena Quest 04	Slay a Tzitzi-Ya-Ku	Time expiresFaint 9 times
+03032	Arena Quest 05	Slay a Barroth	Time expiresFaint 9 times
+03033	Arena Quest 06	Slay a Dodogama	Time expiresFaint 9 times
+03034	Arena Quest 07	Slay an Azure Rathalos	Time expiresFaint 9 times
+03051	Arena Quest 08	Slay all target monsters	Time expiresFaint 9 times
+03052	Arena Quest 09	Slay all target monsters	Time expiresFaint 9 times
+03071	Arena Master Quest 02	Slay a Nightshade Paolumu	Time expiresFaint 9 times
+03072	Arena Master Quest 03	Slay a Nargacuga	Time expiresFaint 9 times
+03073	Arena Master Quest 04	Slay an Acidic Glavenus	Time expiresFaint 9 times
+03074	Arena Master Quest 05	Slay all target monsters	Time expiresFaint 9 times
+03091	Arena Master Quest 06	Slay a Zinogre	Time expiresFaint 9 times
+03092	Arena Master Quest 07	Slay all target monsters	Time expiresFaint 9 times
+03101	Arena Quest 01	Slay a Pukei-Pukei	Time expiresFaint 9 times
+03171	Arena Master Quest 01	Slay a Banbaro	Time expiresFaint 9 times
+05003	Troubled Troupers	Hunt 2 Tzitzi-Ya-Ku	Time expiresFaint 3 times
+0	Invalid Message	Invalid Message	Invalid Message
+30000	Unavailable	Unavailable	Unavailable
+30001	Unavailable	Unavailable	Unavailable
+30002	Unavailable	Unavailable	Unavailable
+30003	Unavailable	Unavailable	Unavailable
+30004	Unavailable	Unavailable	Unavailable
+30005	Unavailable	Unavailable	Unavailable
+30006	Unavailable	Unavailable	Unavailable
+30007	Unavailable	Unavailable	Unavailable
+30008	Unavailable	Unavailable	Unavailable
+30009	Unavailable	Unavailable	Unavailable
+50601	A Visitor from Another World	Complete the assignment	Time expiresFaint 3 times
+50701	The Food Chain Dominator	Hunt a Deviljho	Time expiresFaint 3 times
+50702	Invalid Message	Hunt	Faint three times
+50751	Today's Special: Hunter Flambé	Hunt a Deviljho	Time expiresFaint 3 times
+50801	The Blazing Sun	Slay Teostra	Time expiresFaint 3 times
+50802	Pandora's Arena	Complete the assignment	Time expiresFaint 3 times
+50803	No Remorse, No Surrender	Slay all target monsters	Time expiresFaint 3 times
+50831	Unavailable	Unavailable	Unavailable
+50861	Infernal Monarchy	Slay all target monsters	Time expiresFaint 3 times
+50891	Blue Prominence	Slay Lunastra	Time expiresFaint 3 times
+50892	Blue Prominence	Slay Lunastra	Time expiresFaint 3 times
+50901	Banquet in the Earthen Hall	Repel Kulve Taroth	Time expiresFaint 3 times
+50902	The Fury of El Dorado	Repel Kulve Taroth	Time expiresFaint 3 times
+50905	The Legendary Beast	Complete the assignment	Time expiresFaint 9 times
+50906	He Taketh It with His Eyes	Slay the Behemoth	Time expiresFaint 3 times
+50910	Contract: Trouble in the Ancient Forest	Complete the assignment	Time expiresFaint 3 times
+50991	A Visitor from Eorzea	Slay the Behemoth	Time expiresFaint 3 times
+50992	Invalid Message	Hunt	Faint three times
+51601	Reveal Thyself, Destroyer	Complete the assignment	Time expiresFaint 3 times
+51602	Sterling Pride	Slay a Kirin	Time expiresFaint 3 times
+51603	Across the Lost Path	Complete the assignment	Time expiresFaint 3 times
+51604	Point of No Return	Complete the assignment	Time expiresFaint 3 times
+51605	The Red Dragon	Slay Safi'jiiva	Time expiresFaint 3 times
+51606	...And My Rage for All	Slay a Raging Brachydios	Time expiresFaint 3 times
+51607	The Fury Remains	Hunt a Furious Rajang	Time expiresFaint 3 times
+51611	Unavailable	Unavailable	Unavailable
+51612	Unavailable	Unavailable	Unavailable
+51621	Special Arena: MR Stygian Zinogre	Hunt a Stygian Zinogre	Time expiresFaint 3 times
+51622	Achy Brachy Heart	Slay a Raging Brachydios	Time expiresFaint 3 times
+51623	All That Glitters is Furious	Hunt a Furious Rajang	Time expiresFaint 3 times
+51624	Unavailable	Unavailable	Unavailable
+51625	Unavailable	Unavailable	Unavailable
+61101	Up at the Crack of Dawn	Slay 12 Kestodon	Time expiresFaint 3 times
+61103	Where Sun Meets Moon	Hunt all target monsters	Time expiresFaint 3 times
+61104	Timberland Troublemakers	Hunt 2 Anjanath	Time expiresFaint 3 times
+61105	Every Hunter's Dream	Hunt all target monsters	Time expiresFaint 3 times
+61601	Midnight Mayhem	Slay 10 Gastodon	Time expiresFaint 3 times
+61603	A Royal Pain	Hunt all target monsters	Time expiresFaint 3 times
+61604	Kings Know No Fear	Hunt all target monsters	Time expiresFaint 3 times
+61605	Mosswinin' and Dinin'	Slay 5 Mosswine	Time expiresFaint 9 times
+61606	The Greatest Jagras	Hunt a Great Jagras	Time expiresFaint 3 times
+61607	The Name's Lavasioth!	Hunt a Lavasioth	Time expiresFaint 3 times
+61801	Pearl Snatchers	Deliver 6 Pearlspring Macaques	Time expiresFaint 3 times
+61802	Every Hunter's Dream III	Hunt all target monsters	Time expiresFaint 3 times
+61803	Every Hunter's Dream II	Capture a Coral Pukei-Pukei	Time expiresFaint 3 timesCoral Pukei-Pukei is slain
+61805	Duffel Duty	Deliver 8 Duffel Penguins	Time expiresFaint 3 times
+61806	Scores of Ores	Hunt a Brachydios	Time expiresFaint 3 times
+61807	A Chilling Entrance	Slay all target monsters	Time expiresFaint 3 times
+61808	Muscle Monkey Madness	Hunt 2 Rajang	Time expiresFaint 3 times
+61809	Paolumu Lullabies	Hunt a Nightshade Paolumu	Time expiresFaint 9 times
+61811	Flora Frostbite	Deliver 10 Iceblooms	Time expiresFaint 3 times
+61812	Beef is Never a Mi-steak	Hunt all target monsters	Time expiresFaint 3 times
+61813	50 Shades of White	Hunt a Barioth	Time expiresFaint 3 times
+61814	A Shocking Climax	Hunt all target monsters	Time expiresFaint 3 times
+62502	The Deathly Quiet Curtain	Slay Vaal Hazak	Time expiresFaint 3 times
+62503	A Whisper of White Mane	Slay Kirin	Time expiresFaint 3 times
+62504	The Scorn of the Sun	Slay Teostra	Time expiresFaint 3 times
+62505	The Eye of the Storm	Slay Kushala Daora	Time expiresFaint 3 times
+62506	The Heralds of Destruction Cry	Slay Nergigante	Time expiresFaint 3 times
+62511	When Blue Dust Surpasses Red Lust	Slay Lunastra	Time expiresFaint 3 times
+62515	Relish the Moment	Hunt a Deviljho	Time expiresFaint 3 times
+62606	Undying Alpenglow	Guide Zorah Magdaros	Time expiresFaint 3 timesFail to guide Zorah Magdaros
+62607	Like a Moth to the Flame	Slay Xeno'jiiva	Time expiresFaint 3 times
+62608	Gaze Upon the Dawn	Guide Zorah Magdaros	Time expiresFaint 3 timesFail to guide Zorah Magdaros
+62609	Keeper of the Otherworld	Slay Xeno'jiiva	Time expiresFaint 3 times
+63001	Challenge Quest 1: Beginner	Slay all target monsters	Time expiresFaint 9 times
+63002	Challenge Quest 2: Beginner	Slay all target monsters	Time expiresFaint 9 times
+63003	Vespoid Infestation!	Slay 30 Vespoid	Time expiresFaint 9 times
+63004	Down the Dark, Muddy Path	Slay a Barroth	Time expiresFaint 9 times
+63005	USJ Beginners Challenge!	Slay a Kulu-Ya-Ku	Time expiresFaint 9 times
+63006	USJ Expert Challenge!	Slay a Rathian	Time expiresFaint 9 times
+63007	USJ Beginners Challenge!	Slay a Tzitzi-Ya-Ku	Time expiresFaint 9 times
+63008	USJ Expert Challenge!	Slay a Rathalos	Time expiresFaint 9 times
+63009	Down the Dark, Muddy Path	Slay a Barroth	Time expiresFaint 9 times
+63031	Challenge Quest 1: Intermediate	Slay all target monsters	Time expiresFaint 9 times
+63032	Challenge Quest 2: Intermediate	Slay 2 Odogaron	Time expiresFaint 9 times
+63033	Gajalaka Outbreak!	Defeat 10 Gajalaka	Time expiresFaint 9 times
+63034	The Awakened Satsui No Hado I	Slay Nergigante	Time expiresFaint 9 times
+63035	The Awakened Satsui No Hado II	Slay Nergigante	Time expiresFaint 9 times
+63036	The Awakened Satsui No Hado III	Slay Nergigante	Time expiresFaint 9 times
+63037	Empress in Full Bloom I	Slay Pink Rathian	Time expiresFaint 9 times
+63038	Empress in Full Bloom II	Slay Pink Rathian	Time expiresFaint 9 times
+63039	Empress in Full Bloom III	Slay Pink Rathian	Time expiresFaint 9 times
+63051	Challenge Quest 1: Expert	Slay all target monsters	Time expiresFaint 9 times
+63052	Challenge Quest 2: Expert	Slay Nergigante	Time expiresFaint 9 times
+63071	Challenge Quest 1: MR Intermediate	Slay all target monsters	Time expiresFaint 9 times
+63072	Challenge Quest 2: MR Intermediate	Slay all target monsters	Time expiresFaint 9 times
+63073	Challenge Quest 1: MR Expert	Slay a Yian Garuga	Time expiresFaint 9 times
+63074	Challenge Quest 2: MR Expert	Slay a Savage Deviljho	Time expiresFaint 9 times
+63101	Nergigante Slay Event 1	Slay Nergigante	Time expiresFaint 9 times
+63102	Nergigante Slay Event 2	Slay Nergigante	Time expiresFaint 9 times
+63103	Nergigante Slay Event 3	Slay Nergigante	Time expiresFaint 9 times
+63104	Gale & Fangs Slay Event 1	Slay all target monsters	Time expiresFaint 9 times
+63105	Gale & Fangs Slay Event 2	Slay all target monsters	Time expiresFaint 9 times
+63106	Gale & Fangs Slay Event 3	Slay all target monsters	Time expiresFaint 9 times
+63107	Nergigante Slay Event 4	Slay Nergigante	Time expiresFaint 9 times
+63108	Deviljho Slay Event	Slay a Deviljho	Time expiresFaint 9 times
+63109	The Best of the Best	Slay all target monsters	Time expiresFaint 9 times
+63110	What Lurks In The Forest	Slay all target monsters	Time expiresFaint 9 times
+63130	When Law Meets War	Slay a Bazelgeuse	Time expiresFaint 9 times
+63131	The Hunter and The Blue Empress	Slay a Lunastra	Time expiresFaint 9 times
+63142	Farewell to the Frozen	Slay a Velkhana	Time expiresFaint 9 times
+64101	Wicked Wildspire Warfare	Hunt all target monsters	Time expiresFaint 3 times
+64601	Rollin' With The Uragaan	Hunt 2 Uragaan	Time expiresFaint 3 times
+64801	Balloon Fight	Hunt all target monsters	Time expiresFaint 3 times
+64802	Talk About a Party Foul...	Hunt a Seething Bazelgeuse	Time expiresFaint 3 times
+65601	Scrapping with the Shamos	Hunt 13 Shamos	Time expiresFaint 3 times
+65602	A Flash in the Pan	Hunt 3 Tzitzi-Ya-Ku	Time expiresFaint 3 times
+65603	Egg Lovers United	Hunt a Kulu-Ya-Ku	Time expiresFaint 3 times
+65604	Wiggle Me This	Deliver 10 Wigglers	Time expiresFaint 3 times
+65605	Triple Threat Throwdown	Hunt all target monsters	Time expiresFaint 3 times
+65606	A Simple Task	Deliver 10 Gourmet Shroomcap	Time expiresFaint 3 times
+65607	Tracking the Delivery	Deliver 10 Blue Beryl	Time expiresFaint 3 times
+66101	Chew The Fat	Hunt 2 Great Jagras	Time expiresFaint 3 times
+66102	Ya-Ku With That?	Hunt all target monsters	Time expiresFaint 3 times
+66103	Flesh Cleaved to Bone	Hunt all target monsters	Time expiresFaint 3 times
+66104	Kirin The Myth	Slay 2 Kirin	Time expiresFaint 3 times
+66105	The Poison Posse	Hunt all target monsters	Time expiresFaint 3 times
+66106	Greeting the Gluttons	Hunt all target monsters	Time expiresFaint 3 times
+66601	Deep Green Blues	Hunt all target monsters	Time expiresFaint 3 times
+66602	Wildspire Bolero	Hunt all target monsters	Time expiresFaint 3 times
+66603	Coral Waltz	Hunt all target monsters	Time expiresFaint 3 times
+66604	Effluvial Opera	Hunt all target monsters	Time expiresFaint 3 times
+66605	Rock N' Roll Recess	Hunt all target monsters	Time expiresFaint 3 times
+66606	This is How Revolts Start	Hunt all target monsters	Time expiresFaint 3 times
+66607	Snow & Cherry Blossoms	Hunt all target monsters	Time expiresFaint 3 times
+66608	A Nose for an Eye	Hunt all target monsters	Time expiresFaint 3 times
+66609	No Tomorrow for Usurpers	Hunt Bazelgeuse	Time expiresFaint 3 times
+66610	The Thronetaker	Slay all target monsters	Time expiresFaint 3 times
+66801	Trophy Fishin'	Hunt all target monsters	Time expiresFaint 3 times
+66802	The Lord of the Underworld Beckons	Deliver 20 Underground Fruit	Time expiresFaint 3 times
+66803	A Bunch of Sticks in the Mud	Hunt all target monsters	Time expiresFaint 3 times
+66804	Desert Desserts	Deliver 20 Hardfruit	Time expiresFaint 3 times
+66805	A New Troublemaker in Town	Hunt all target monsters	Time expiresFaint 3 times
+66806	Colorful Carnival	Hunt all target monsters	Time expiresFaint 3 times
+66807	Hunter-Blunderer	Hunt all target monsters	Time expiresFaint 3 times
+66808	A Sky & Sea of Fire	Hunt all target monsters	Time expiresFaint 3 times
+66809	A Curious Experiment	Hunt all target monsters	Time expiresFaint 3 times
+66810	Soaked and Shivering	Hunt all target monsters	Time expiresFaint 3 times
+66811	Fired-Up Bruisers	Hunt all target monsters	Time expiresFaint 3 times
+66812	The Desert Dash	Hunt all target monsters	Time expiresFaint 3 times
+66813	In the Depths of the Forest	Hunt all target monsters	Time expiresFaint 3 times
+66814	Servants of the Vale	Hunt all target monsters	Time expiresFaint 3 times
+66815	We Three Kings	Slay all target monsters	Time expiresFaint 3 times
+66816	The Winter Blues	Slay all target monsters	Time expiresFaint 3 times
+66817	A Reason Behind The Hunger	Hunt a Savage Deviljho	Time expiresFaint 3 times
+66818	Moonlit Howl	Hunt a Zinogre	Time expiresFaint 3 times
+66819	I Am Tranquil, I Am Sound	Hunt a Yian Garuga	Time expiresFaint 3 times
+66820	A Roar that Splinters the Sky	Hunt a Brute Tigrex	Time expiresFaint 3 times
+66821	A Glance of Silver	Hunt a Silver Rathalos	Time expiresFaint 3 times
+66822	The Moon is a Harsh Queen	Hunt a Gold Rathian	Time expiresFaint 3 times
+66824	Razzled, Frazzled, and Dazzled	Hunt a Rajang	Time expiresFaint 3 times
+66825	Scars Tell the Whole Story	Hunt a Scarred Yian Garuga	Time expiresFaint 3 times
+66826	Yodeling in the Forest	Hunt all target monsters	Time expiresFaint 3 times
+66827	Heavy Metal in the Waste	Hunt all target monsters	Time expiresFaint 3 times
+66828	Symphony of the Coral	Hunt all target monsters	Time expiresFaint 3 times
+66829	Rotten Canzone	Hunt all target monsters	Time expiresFaint 3 times
+66830	Alt Rock Recess	Hunt all target monsters	Time expiresFaint 3 times
+66831	Ballad of the Hoarfrost	Hunt all target monsters	Time expiresFaint 3 times
+66832	Wolf Out of Hell	Hunt a Stygian Zinogre	Time expiresFaint 3 times
+66834	When the Swift Meets the Roar	Hunt all target monsters	Time expiresFaint 3 times
+66835	The Wrath of Thunder Descends	Hunt a Zinogre	Time expiresFaint 3 times
+66836	Ode to the Destruction	Slay a Ruiner Nergigante	Time expiresFaint 3 times
+67101	The Proving	Hunt an Anjanath	Time expiresFaint 3 times
+67102	Lessons of the Wild	Slay 8 Barnos	Time expiresFaint 3 times
+67103	A Rush of Blood	Hunt 2 Odogaron	Time expiresFaint 3 times
+67105	USJ: Gold Star Treatment	Hunt 3 Great Jagras	Time expiresFaint 3 times
+67106	USJ: Gold Star Treatment	Hunt 3 Great Jagras	Time expiresFaint 3 times
+67603	USJ Blazing Azure Stars!	Hunt all target monsters	Time expiresFaint 3 times
+67604	USJ Blazing Azure Stars!	Hunt all target monsters	Time expiresFaint 3 times
+67605	Code: Red	Hunt all target monsters	Time expiresFaint 3 times
+67606	A Visitor from Eorzea (Extreme)	Slay a Behemoth	Time expiresFaint 3 times
+67607	The Heart of the Nora	Hunt 2 Deviljho	Time expiresFaint 3 times
+67608	SDF: Silent, Deadly, and Fierce	Hunt all target monsters	Time expiresFaint 3 times
+67610	Contract: Woodland Spirit	Slay the Ancient Leshen	Time expiresFaint 3 times
+67801	RE: Return of the Bioweapon	Slay a Blackveil Vaal Hazak	Time expiresFaint 3 times

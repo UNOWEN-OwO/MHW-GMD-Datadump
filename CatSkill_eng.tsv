@@ -1,0 +1,58 @@
+Meal Code	Meal Name	Meal Effect
+CatSkill000_CAT_SKILL	Felyne Polisher	Often speeds up sharpening time.
+CatSkill001_CAT_SKILL	Felyne Rider	Makes it easier to mount monsters.
+CatSkill002_CAT_SKILL	Felyne Heroics	Greatly increases attack whenhealth is dangerously low.
+CatSkill003_CAT_SKILL	Felyne Carver (Hi)	Often increases the numberof times you can carve.
+CatSkill004_CAT_SKILL	Felyne Carver (Lo)	Sometimes increases the numberof times you can carve.
+CatSkill005_CAT_SKILL	Felyne Medic	Increases health recovery fromitems.
+CatSkill006_CAT_SKILL	Felyne Black Belt	Reduces stamina depletionwhen evading, blocking, ordoing certain other actions.
+CatSkill007_CAT_SKILL	Felyne Pyro	Upgrades Large Barrel Bombs toMega Barrel Bombs.
+CatSkill008_CAT_SKILL	Felyne Specialist	Increases the potency ofabnormal status attacks.
+CatSkill009_CAT_SKILL	Felyne Defender (Hi)	Often decreases damage taken.
+CatSkill010_CAT_SKILL	Felyne Defender (Lo)	Sometimes decreases damagetaken.
+CatSkill011_CAT_SKILL	Felyne Harvester	Reduces the time betweengathering point respawns.
+CatSkill012_CAT_SKILL	Felyne Sharpshooter	Increases the power ofnormal shots (Normal S)and normal arrows.
+CatSkill013_CAT_SKILL	Lucky Cat	Sometimes increases the numberof reward items received at theend of a quest.
+CatSkill014_CAT_SKILL	Felyne Deflector	Helps your weapon retainsharpness when attacksare deflected.
+CatSkill015_CAT_SKILL	Felyne Escape Artist	Decreases stamina depletion whenfleeing from large monsters.
+CatSkill016_CAT_SKILL	Felyne Sprinter	Dashing depletes less staminawhen transporting an item.
+CatSkill017_CAT_SKILL	Felynebacker	Prevents being knocked backwhen transporting an item.
+CatSkill018_CAT_SKILL	Felyne Weakener	Large monsters encountered onquests have an increased chanceof being weaker than normal.
+CatSkill019_CAT_SKILL	Felyne Exchanger	Increases the number ofresearch points you receiveat the end of a quest.
+CatSkill020_CAT_SKILL	Felyne Riser (Hi)	Greatly extends theinvulnerability periodwhen getting up.
+CatSkill021_CAT_SKILL	Felyne Riser (Lo)	Extends the invulnerabilityperiod when getting up.
+CatSkill022_CAT_SKILL	Felyne Temper	Increases bowgun damage, butalso increases deviation.
+CatSkill023_CAT_SKILL	Felyne Cliffhanger	Decreases stamina depletionwhen evading on walls or ivy.
+G_CatSkill024_CAT_SKILL	Felyne Gripper	Prevents some attacks fromknocking you off of walls or ivy.
+CatSkill025_CAT_SKILL	Felyne Iron Carver	Prevents knockbacks whilecarving.
+CatSkill026_CAT_SKILL	Felyne Lander	Prevents stumbling when jumpingdown from high places.
+CatSkill027_CAT_SKILL	Felyne Bulldozer	Increases attack powerwhen you strike right afteran attack is deflected.
+CatSkill028_CAT_SKILL	Felyne Foodie	Food effects remain activeeven after you faint in battle.
+CatSkill029_CAT_SKILL	Felyne Slugger	Makes it easier to stun monsters.
+CatSkill030_CAT_SKILL	Felyne Fat Cat	Increases the amount of zennyyou receive at the end of aquest.
+CatSkill031_CAT_SKILL	Felyne Bombardier	Increases ballista, sticky ammo,and gunlance shell damage.
+CatSkill032_CAT_SKILL	Felyne Moxie	Prevents fainting one timewhen damage taken exceedsyour remaining health.
+CatSkill033_CAT_SKILL	Felyne Dungmaster	Increases the likelihood thata monster will flee when hitwith a dung pod.
+CatSkill034_CAT_SKILL	Felyne Groomer	Halves the effect duration ofDefense Down and speeds upblight recovery.
+CatSkill035_CAT_SKILL	Felyne Fur Coating	Prevents or lessens theeffects of blights andenvironmental damage.
+CatSkill036_CAT_SKILL	Felyne Acrobat	Allows the hunter to recoverquickly when sent flying.
+DUMMY000000	Unavailable	Unavailable
+CatSkill038_CAT_SKILL	Felyne Trainer	Speeds up Palico growth.
+CatSkill039_CAT_SKILL	Felyne Booster	Temporarily increases attack anddefense at the start of a quest.
+CatSkill040_CAT_SKILL	Felyne Feet	Prevents you from gettingknocked on your butt.
+CatSkill041_CAT_SKILL	Felyne Fisher	Increases the likelihood thatfish will bite when fishing.
+CatSkill042_CAT_SKILL	Cool Cat	Grants a temporary attackboost when you use the KickBack gesture for a while.
+CatSkill043_CAT_SKILL	Felyne Insurance	Prevents your group frombeing penalized the firsttime a member faints.
+CatSkill044_CAT_SKILL	Felyne Provoker	Draws monsters' attention,increasing the likelihoodof being targeted.
+CatSkill045_CAT_SKILL	Felyne Parting Gift	Restores health to allies inthe area upon fainting.
+CatSkill046_CAT_SKILL	Felyne Researcher	Unlock investigations moreeasily during expeditions.
+CatSkill047_CAT_SKILL	Felyne Weathercat	Foul weather occurs moreoften during a quest.
+CatSkill048_CAT_SKILL	Felyne Cleats	Allows for normal movement speedeven in special terrain.
+CatSkill049_CAT_SKILL	Felyne Tailor	Shortens the cooldown beforespecialized tools can be reused.
+CatSkill050_CAT_SKILL	Felyne Safeguard	Prevents your group frombeing penalized the firsttime a member faints.
+CatSkill051_CAT_SKILL	Felyne Gardener	Reduces the time before certainendemic life reappear.
+CatSkill052_CAT_SKILL	Felyne Scavenger	Causes certain endemic life todrop slinger ammo when caught.
+CatSkill053_CAT_SKILL	Felyne Zoomaster	Makes rare endemic life morelikely to appear.
+CatSkill054_CAT_SKILL	Felyne Biologist	Makes rare endemic life slightlymore likely to appear.
+CatSkill055_CAT_SKILL	Felyne Macrozoologist	Makes large endemic lifeslightly more likely to appear.
+CatSkill056_CAT_SKILL	Felyne Microzoologist	Makes small endemic lifeslightly more likely to appear.

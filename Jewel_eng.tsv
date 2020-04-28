@@ -1,0 +1,402 @@
+Deco ID	Item ID	Deco Name	Slot Size
+0	727	Antidote Jewel 1	1
+1	728	Antipara Jewel 1	1
+2	729	Pep Jewel 1	1
+3	730	Steadfast Jewel 1	1
+4	731	Antiblast Jewel 1	1
+5	732	Suture Jewel 1	1
+6	733	Def Lock Jewel 1	1
+7	734	Earplug Jewel 3	3
+8	735	Wind Resist Jewel 2	2
+9	736	Footing Jewel 2	2
+10	739	Attack Jewel 1	1
+11	740	Defense Jewel 1	1
+12	741	Vitality Jewel 1	1
+13	742	Recovery Jewel 1	1
+14	743	Fire Res Jewel 1	1
+15	744	Water Res Jewel 1	1
+16	745	Ice Res Jewel 1	1
+17	746	Thunder Res Jewel 1	1
+18	747	Dragon Res Jewel 1	1
+19	748	Resistor Jewel 1	1
+20	749	Blaze Jewel 1	1
+21	750	Stream Jewel 1	1
+22	751	Frost Jewel 1	1
+23	752	Bolt Jewel 1	1
+24	753	Dragon Jewel 1	1
+25	754	Venom Jewel 1	1
+26	755	Paralyzer Jewel 1	1
+27	756	Sleep Jewel 1	1
+28	757	Blast Jewel 1	1
+29	758	Poisoncoat Jewel 3	3
+30	759	Paracoat Jewel 3	3
+31	760	Sleepcoat Jewel 3	3
+32	761	Blastcoat Jewel 3	3
+33	763	Release Jewel 3	3
+34	764	Expert Jewel 1	1
+35	765	Critical Jewel 2	2
+36	766	Tenderizer Jewel 2	2
+37	767	Charger Jewel 2	2
+38	768	Handicraft Jewel 3	3
+39	769	Draw Jewel 2	2
+40	770	Destroyer Jewel 2	2
+41	771	KO Jewel 2	2
+42	772	Drain Jewel 1	1
+43	774	Flight Jewel 2	2
+44	775	Throttle Jewel 2	2
+45	776	Challenger Jewel 2	2
+46	777	Flawless Jewel 2	2
+47	778	Potential Jewel 2	2
+48	779	Fortitude Jewel 1	1
+49	780	Furor Jewel 2	2
+50	781	Sonorous Jewel 1	1
+51	782	Magazine Jewel 2	2
+52	783	Trueshot Jewel 1	1
+53	784	Artillery Jewel 1	1
+54	785	Heavy Artillery Jewel 1	1
+55	786	Sprinter Jewel 2	2
+56	787	Physique Jewel 2	2
+57	789	Refresh Jewel 2	2
+58	790	Hungerless Jewel 1	1
+59	791	Evasion Jewel 2	2
+60	792	Jumping Jewel 2	2
+61	793	Ironwall Jewel 1	1
+62	794	Sheath Jewel 1	1
+63	795	Friendship Jewel 1	1
+64	796	Enduring Jewel 1	1
+65	797	Satiated Jewel 1	1
+66	798	Gobbler Jewel 1	1
+67	799	Grinder Jewel 1	1
+68	800	Bomber Jewel 1	1
+69	801	Fungiform Jewel 1	1
+70	808	Protection Jewel 1	1
+71	809	Meowster Jewel 1	1
+72	810	Botany Jewel 1	1
+73	811	Geology Jewel 1	1
+74	812	Mighty Jewel 2	2
+75	813	Stonethrower Jewel 1	1
+76	814	Tip Toe Jewel 1	1
+77	815	Brace Jewel 3	3
+78	819	Smoke Jewel 1	1
+79	820	Mirewalker Jewel 1	1
+80	824	Specimen Jewel 1	1
+81	826	Scent Jewel 1	1
+82	828	Intimidator Jewel 1	1
+83	832	Slider Jewel 2	2
+84	833	Medicine Jewel 1	1
+85	834	Forceshot Jewel 3	3
+86	835	Pierce Jewel 3	3
+87	836	Spread Jewel 3	3
+88	837	Enhancer Jewel 2	2
+89	838	Crisis Jewel 1	1
+90	839	Dragonseal Jewel 3	3
+91	842	Maintenance Jewel 1	1
+92	874	Mighty Bow Jewel 2	2
+93	875	Mind's Eye Jewel 2	2
+94	876	Shield Jewel 2	2
+95	877	Sharp Jewel 2	2
+96	878	Elementless Jewel 2	2
+97	825	Miasma Jewel 1	1
+98	1968	Phoenix Jewel 3	3
+99	1969	Guardian Jewel 2	2
+100	1970	Cooling Jewel 2	2
+101	1971	Fire Res Jewel+ 4	4
+102	1972	Water Res Jewel+ 4	4
+103	1973	Ice Res Jewel+ 4	4
+104	1974	Thunder Res Jewel+ 4	4
+105	1975	Dragon Res Jewel+ 4	4
+106	1976	Blaze Jewel+ 4	4
+107	1977	Stream Jewel+ 4	4
+108	1978	Frost Jewel+ 4	4
+109	1979	Bolt Jewel+ 4	4
+110	1980	Dragon Jewel+ 4	4
+111	1981	Venom Jewel+ 4	4
+112	1982	Paralyzer Jewel+ 4	4
+113	1983	Sleep Jewel+ 4	4
+114	1984	Blast Jewel+ 4	4
+115	1985	Hard Fire Res Jewel 4	4
+116	1986	Hard Water Res Jewel 4	4
+117	1987	Hard Ice Res Jewel 4	4
+118	1988	Hard Thunder Res Jewel 4	4
+119	1989	Hard Dragon Res Jewel 4	4
+120	1990	Antidote Jewel+ 4	4
+121	1991	Antipara Jewel+ 4	4
+122	1992	Pep Jewel+ 4	4
+123	1993	Steadfast Jewel+ 4	4
+124	1994	Antiblast Jewel+ 4	4
+125	1995	Suture Jewel+ 4	4
+126	1996	Def Lock Jewel+ 4	4
+127	1997	Miasma Jewel+ 4	4
+128	1998	Hungerless Jewel+ 4	4
+129	1999	Recovery Jewel+ 4	4
+130	2000	Tip Toe Jewel+ 4	4
+131	2001	Intimidator Jewel+ 4	4
+132	2002	Meowster Jewel+ 4	4
+133	2003	Hard Tip Toe Jewel 4	4
+134	2004	Hard Intimidator Jewel 4	4
+135	2005	Hard Meowster Jewel 4	4
+136	2006	Trueshot Jewel+ 4	4
+137	2007	Heavy Artillery Jewel+ 4	4
+138	2008	Botany Jewel+ 4	4
+139	2009	Geology Jewel+ 4	4
+140	2010	Survival Jewel+ 4	4
+141	2011	Mirewalker Jewel+ 4	4
+142	2012	Specimen Jewel+ 4	4
+143	2013	Sonorous Jewel+ 4	4
+144	2014	Hard Botany Jewel+ 4	4
+145	2015	Hard Geology Jewel 4	4
+146	2016	Hard Survival Jewel 4	4
+147	2017	Hard Specimen Jewel 4	4
+148	2018	Enduring Jewel+ 4	4
+149	2019	Defense Jewel+ 4	4
+150	2020	Hard Enduring Jewel 4	4
+151	2021	Hard Defense Jewel 4	4
+152	2022	Artillery Jewel+ 4	4
+153	2023	Earplug Jewel+ 4	4
+154	2024	Wind Resist Jewel+ 4	4
+155	2025	Attack Jewel+ 4	4
+156	2026	Expert Jewel+ 4	4
+157	2027	Handicraft Jewel+ 4	4
+158	2028	Throttle Jewel+ 4	4
+159	2029	Challenger Jewel+ 4	4
+160	2030	Potential Jewel+ 4	4
+161	2031	Furor Jewel+ 4	4
+162	2032	Physique Jewel+ 4	4
+163	2033	Evasion Jewel+ 4	4
+164	2034	Ironwall Jewel+ 4	4
+165	2035	Friendship Jewel+ 4	4
+166	2036	Drain/Physique Jewel 4	4
+167	2037	Fortitude/Physique Jewel 4	4
+168	2038	Crisis/Physique Jewel 4	4
+169	2039	Ironwall/Physique Jewel 4	4
+170	2040	Friendship/Physique Jewel 4	4
+171	2041	Satiated/Physique Jewel 4	4
+172	2042	Stonethrower/Physique Jewel 4	4
+173	2043	Resistor/Physique Jewel 4	4
+174	2044	Flight/Physique Jewel 4	4
+175	2045	Sprinter/Physique Jewel 4	4
+176	2046	Refresh/Physique Jewel 4	4
+177	2047	Jumping/Physique Jewel 4	4
+178	2048	Sheath/Physique Jewel 4	4
+179	2049	Gobbler/Physique Jewel 4	4
+180	2050	Grinder/Physique Jewel 4	4
+181	2051	Bomber/Physique Jewel 4	4
+182	2052	Fungiform/Physique Jewel 4	4
+183	2053	Slider/Physique Jewel 4	4
+184	2054	Guardian/Physique Jewel 4	4
+185	2055	Drain/Evasion Jewel 4	4
+186	2056	Fortitude/Evasion Jewel 4	4
+187	2057	Crisis/Evasion Jewel 4	4
+188	2058	Ironwall/Evasion Jewel 4	4
+189	2059	Friendship/Evasion Jewel 4	4
+190	2060	Satiated/Evasion Jewel 4	4
+191	2061	Stonethrower/Evasion Jewel 4	4
+192	2062	Resistor/Evasion Jewel 4	4
+193	2063	Flight/Evasion Jewel 4	4
+194	2064	Sprinter/Evasion Jewel 4	4
+195	2065	Refresh/Evasion Jewel 4	4
+196	2066	Jumping/Evasion Jewel 4	4
+197	2067	Sheath/Evasion Jewel 4	4
+198	2068	Gobbler/Evasion Jewel 4	4
+199	2069	Grinder/Evasion Jewel 4	4
+200	2070	Bomber/Evasion Jewel 4	4
+201	2071	Fungiform/Evasion Jewel 4	4
+202	2072	Slider/Evasion Jewel 4	4
+203	2073	Guardian/Evasion Jewel 4	4
+204	2074	Drain/Attack Jewel 4	4
+205	2075	Fortitude/Attack Jewel 4	4
+206	2076	Crisis/Attack Jewel 4	4
+207	2077	Ironwall/Attack Jewel 4	4
+208	2078	Friendship/Attack Jewel 4	4
+209	2079	Satiated/Attack Jewel 4	4
+210	2080	Stonethrower/Attack Jewel 4	4
+211	2081	Resistor/Attack Jewel 4	4
+212	2082	Flight/Attack Jewel 4	4
+213	2083	Sprinter/Attack Jewel 4	4
+214	2084	Refresh/Attack Jewel 4	4
+215	2085	Jumping/Attack Jewel 4	4
+216	2086	Sheath/Attack Jewel 4	4
+217	2087	Gobbler/Attack Jewel 4	4
+218	2088	Grinder/Attack Jewel 4	4
+219	2089	Bomber/Attack Jewel 4	4
+220	2090	Fungiform/Attack Jewel 4	4
+221	2091	Slider/Attack Jewel 4	4
+222	2092	Guardian/Attack Jewel 4	4
+223	2093	Drain/Expert Jewel 4	4
+224	2094	Fortitude/Expert Jewel 4	4
+225	2095	Crisis/Expert Jewel 4	4
+226	2096	Ironwall/Expert Jewel 4	4
+227	2097	Friendship/Expert Jewel 4	4
+228	2098	Satiated/Expert Jewel 4	4
+229	2099	Stonethrower/Expert Jewel 4	4
+230	2100	Resistor/Expert Jewel 4	4
+231	2101	Flight/Expert Jewel 4	4
+232	2102	Sprinter/Expert Jewel 4	4
+233	2103	Refresh/Expert Jewel 4	4
+234	2104	Jumping/Expert Jewel 4	4
+235	2105	Sheath/Expert Jewel 4	4
+236	2106	Gobbler/Expert Jewel 4	4
+237	2107	Grinder/Expert Jewel 4	4
+238	2108	Bomber/Expert Jewel 4	4
+239	2109	Fungiform/Expert Jewel 4	4
+240	2110	Slider/Expert Jewel 4	4
+241	2111	Guardian/Expert Jewel 4	4
+242	2112	Drain/Release Jewel 4	4
+243	2113	Fortitude/Release Jewel 4	4
+244	2114	Crisis/Release Jewel 4	4
+245	2115	Ironwall/Release Jewel 4	4
+246	2116	Friendship/Release Jewel 4	4
+247	2117	Satiated/Release Jewel 4	4
+248	2118	Stonethrower/Release Jewel 4	4
+249	2119	Resistor/Release Jewel 4	4
+250	2120	Flight/Release Jewel 4	4
+251	2121	Sprinter/Release Jewel 4	4
+252	2122	Refresh/Release Jewel 4	4
+253	2123	Jumping/Release Jewel 4	4
+254	2124	Sheath/Release Jewel 4	4
+255	2125	Gobbler/Release Jewel 4	4
+256	2126	Grinder/Release Jewel 4	4
+257	2127	Bomber/Release Jewel 4	4
+258	2128	Fungiform/Release Jewel 4	4
+259	2129	Slider/Release Jewel 4	4
+260	2130	Guardian/Release Jewel 4	4
+261	2131	Drain/Handicraft Jewel 4	4
+262	2132	Fortitude/Handicraft Jewel 4	4
+263	2133	Crisis/Handicraft Jewel 4	4
+264	2134	Ironwall/Handicraft Jewel 4	4
+265	2135	Friendship/Handicraft Jewel 4	4
+266	2136	Satiated/Handicraft Jewel 4	4
+267	2137	Stonethrower/Handicraft Jewel 4	4
+268	2138	Resistor/Handicraft Jewel 4	4
+269	2139	Flight/Handicraft Jewel 4	4
+270	2140	Sprinter/Handicraft Jewel 4	4
+271	2141	Refresh/Handicraft Jewel 4	4
+272	2142	Jumping/Handicraft Jewel 4	4
+273	2143	Sheath/Handicraft Jewel 4	4
+274	2144	Gobbler/Handicraft Jewel 4	4
+275	2145	Grinder/Handicraft Jewel 4	4
+276	2146	Bomber/Handicraft Jewel 4	4
+277	2147	Fungiform/Handicraft Jewel 4	4
+278	2148	Slider/Handicraft Jewel 4	4
+279	2149	Guardian/Handicraft Jewel 4	4
+280	2150	Footing/Protection Jewel 4	4
+281	2151	Charger/Protection Jewel 4	4
+282	2152	Enhancer/Protection Jewel 4	4
+283	2153	Destroyer/Protection Jewel 4	4
+284	2154	KO/Protection Jewel 4	4
+285	2155	Potential/Protection Jewel 4	4
+286	2156	Wind Resist/Protection Jewel 4	4
+287	2157	Draw/Protection Jewel 4	4
+288	2158	Throttle/Protection Jewel 4	4
+289	2159	Challenger/Protection Jewel 4	4
+290	2160	Flawless/Protection Jewel 4	4
+291	2161	Furor/Protection Jewel 4	4
+292	2162	Mighty/Protection Jewel 4	4
+293	2163	Brace/Protection Jewel 4	4
+294	2164	Phoenix/Protection Jewel 4	4
+295	2165	Earplug/Protection Jewel 4	4
+296	2166	Critical/Protection Jewel 4	4
+297	2167	Tenderizer/Protection Jewel 4	4
+298	2168	Handicraft/Protection Jewel 4	4
+299	2169	Release/Protection Jewel 4	4
+300	2170	Footing/Medicine Jewel 4	4
+301	2171	Charger/Medicine Jewel 4	4
+302	2172	Enhancer/Medicine Jewel 4	4
+303	2173	Destroyer/Medicine Jewel 4	4
+304	2174	KO/Medicine Jewel 4	4
+305	2175	Potential/Medicine Jewel 4	4
+306	2176	Wind Resist/Medicine Jewel 4	4
+307	2177	Draw/Medicine Jewel 4	4
+308	2178	Throttle/Medicine Jewel 4	4
+309	2179	Challenger/Medicine Jewel 4	4
+310	2180	Flawless/Medicine Jewel 4	4
+311	2181	Furor/Medicine Jewel 4	4
+312	2182	Mighty/Medicine Jewel 4	4
+313	2183	Brace/Medicine Jewel 4	4
+314	2184	Phoenix/Medicine Jewel 4	4
+315	2185	Earplug/Medicine Jewel 4	4
+316	2186	Critical/Medicine Jewel 4	4
+317	2187	Tenderizer/Medicine Jewel 4	4
+318	2188	Handicraft/Medicine Jewel 4	4
+319	2189	Release/Medicine Jewel 4	4
+320	2190	Footing/Vitality Jewel 4	4
+321	2191	Charger/Vitality Jewel 4	4
+322	2192	Enhancer/Vitality Jewel 4	4
+323	2193	Destroyer/Vitality Jewel 4	4
+324	2194	KO/Vitality Jewel 4	4
+325	2195	Potential/Vitality Jewel 4	4
+326	2196	Wind Resist/Vitality Jewel 4	4
+327	2197	Draw/Vitality Jewel 4	4
+328	2198	Throttle/Vitality Jewel 4	4
+329	2199	Challenger/Vitality Jewel 4	4
+330	2200	Flawless/Vitality Jewel 4	4
+331	2201	Furor/Vitality Jewel 4	4
+332	2202	Mighty/Vitality Jewel 4	4
+333	2203	Brace/Vitality Jewel 4	4
+334	2204	Phoenix/Vitality Jewel 4	4
+335	2205	Earplug/Vitality Jewel 4	4
+336	2206	Critical/Vitality Jewel 4	4
+337	2207	Tenderizer/Vitality Jewel 4	4
+338	2208	Handicraft/Vitality Jewel 4	4
+339	2209	Release/Vitality Jewel 4	4
+340	2210	Footing/Maintenance Jewel 4	4
+341	2211	Charger/Maintenance Jewel 4	4
+342	2212	Enhancer/Maintenance Jewel 4	4
+343	2213	Destroyer/Maintenance Jewel 4	4
+344	2214	KO/Maintenance Jewel 4	4
+345	2215	Potential/Maintenance Jewel 4	4
+346	2216	Wind Resist/Maintenance Jewel 4	4
+347	2217	Draw/Maintenance Jewel 4	4
+348	2218	Throttle/Maintenance Jewel 4	4
+349	2219	Challenger/Maintenance Jewel 4	4
+350	2220	Flawless/Maintenance Jewel 4	4
+351	2221	Furor/Maintenance Jewel 4	4
+352	2222	Mighty/Maintenance Jewel 4	4
+353	2223	Brace/Maintenance Jewel 4	4
+354	2224	Phoenix/Maintenance Jewel 4	4
+355	2225	Earplug/Maintenance Jewel 4	4
+356	2226	Critical/Maintenance Jewel 4	4
+357	2227	Tenderizer/Maintenance Jewel 4	4
+358	2228	Handicraft/Maintenance Jewel 4	4
+359	2229	Release/Maintenance Jewel 4	4
+360	2230	Footing/Physique Jewel 4	4
+361	2231	Charger/Physique Jewel 4	4
+362	2232	Enhancer/Physique Jewel 4	4
+363	2233	Destroyer/Physique Jewel 4	4
+364	2234	KO/Physique Jewel 4	4
+365	2235	Potential/Physique Jewel 4	4
+366	2236	Wind Resist/Physique Jewel 4	4
+367	2237	Draw/Physique Jewel 4	4
+368	2238	Throttle/Physique Jewel 4	4
+369	2239	Challenger/Physique Jewel 4	4
+370	2240	Flawless/Physique Jewel 4	4
+371	2241	Furor/Physique Jewel 4	4
+372	2242	Mighty/Physique Jewel 4	4
+373	2243	Brace/Physique Jewel 4	4
+374	2244	Phoenix/Physique Jewel 4	4
+375	2245	Earplug/Physique Jewel 4	4
+376	2246	Critical/Physique Jewel 4	4
+377	2247	Tenderizer/Physique Jewel 4	4
+378	2248	Handicraft/Physique Jewel 4	4
+379	2249	Release/Physique Jewel 4	4
+380	2250	Footing/Evasion Jewel 4	4
+381	2251	Charger/Evasion Jewel 4	4
+382	2252	Enhancer/Evasion Jewel 4	4
+383	2253	Destroyer/Evasion Jewel 4	4
+384	2254	KO/Evasion Jewel 4	4
+385	2255	Potential/Evasion Jewel 4	4
+386	2256	Wind Resist/Evasion Jewel 4	4
+387	2257	Draw/Evasion Jewel 4	4
+388	2258	Throttle/Evasion Jewel 4	4
+389	2259	Challenger/Evasion Jewel 4	4
+390	2260	Flawless/Evasion Jewel 4	4
+391	2261	Furor/Evasion Jewel 4	4
+392	2262	Mighty/Evasion Jewel 4	4
+393	2263	Brace/Evasion Jewel 4	4
+394	2264	Phoenix/Evasion Jewel 4	4
+395	2265	Earplug/Evasion Jewel 4	4
+396	2266	Critical/Evasion Jewel 4	4
+397	2267	Tenderizer/Evasion Jewel 4	4
+398	2268	Handicraft/Evasion Jewel 4	4
+399	2269	Release/Evasion Jewel 4	4
+400	2272	Warming Jewel 2	2

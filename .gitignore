@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+__pycache__
+build
+dist
+chunk/common/*
+!chunk/common/RESERVED.md
+*.spec
+*.tsv
+!*eng.tsv
+*.exe

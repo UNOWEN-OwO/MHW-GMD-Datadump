@@ -1,0 +1,21 @@
+Askill ID	Askill Code	Askill Name	Askill Upgrade Name	Askill Desc
+0	ASkill001	Ghillie Mantle	Ghillie Mantle+	Conceals you from enemy viewtemporarily. The effect expiresif you perform an attack or takedamage.
+1	ASkill002	Temporal Mantle	Temporal Mantle+	Nullifies damage from powerfulattacks by automatically evading.
+2	ASkill003	Health Booster	Health Booster+	Places a smoker that graduallyrestores your health.
+3	ASkill004	Rocksteady Mantle	Rocksteady Mantle+	Eliminates damage reactions,prevents wind effects, protectsyour hearing, and grants tremorresistance. You also receiveless damage from attacks.
+4	ASkill005	Challenger Mantle	Challenger Mantle+	Prompts monsters to target youmore often and makes themeasier to lure. The effectexpires if you are attacked.
+5	ASkill006	Vitality Mantle	Vitality Mantle+	Negates a fixed amount ofdamage, after which theeffect expires.
+6	ASkill007	Fireproof Mantle	Fireproof Mantle+	Reduces fire damage, nullifiesfireblight and blastblight,and prevents damage fromhot environments.
+7	ASkill008	Waterproof Mantle	Waterproof Mantle+	Reduces water damage, nullifieswaterblight, reduces mobilityrestrictions in muck and negatesthem entirely for deep water.
+8	ASkill009	Iceproof Mantle	Iceproof Mantle+	Reduces ice damage and nullifiesiceblight.
+9	ASkill010	Thunderproof Mantle	Thunderproof Mantle+	Reduces thunder damage andnullifies thunderblight andparalysis.
+10	ASkill011	Dragonproof Mantle	Dragonproof Mantle+	Reduces dragon damage, nullifiesdragonblight, and powers up yourweapon's dragon properties.
+11	ASkill012	Cleanser Booster	Cleanser Booster+	Places a smoker that removesany abnormal status effects andelemental blights.
+14	ASkill015	Glider Mantle	Glider Mantle+	Increases jump airtime andgrants the power to ridestrong winds. Also makes iteasier to mount monsters.
+15	ASkill016	Evasion Mantle	Evasion Mantle+	Increases the invulnerabilitywindow while evading andgrants a temporary attackboost for evading a monsterattack at the very last moment.
+16	ASkill017	Impact Mantle	Impact Mantle+	Adds a stun effect to mostattacks or increases thepotency of an existing stuneffect.
+17	ASkill018	Apothecary Mantle	Apothecary Mantle+	Increases the probability oftriggering status buildupwhen attacking with weaponsthat induce abnormal statuses.
+18	ASkill019	Immunity Mantle	Immunity Mantle+	Removes and nullifies allabnormal status effectsfor the duration of the effect.
+19	ASkill020	Affinity Booster	Affinity Booster+	Places a smoker that increasesaffinity.
+20	ASkill021	Bandit Mantle	Bandit Mantle+	Causes monsters to drop raretrade-in items when you attackthem.
+21	ASkill022	Assassin's Hood	Assassin's Hood+	Increases movement speed and allowsyou to hide quicker. Deals bigdamage to a monster caughtunaware, then the effect ends.

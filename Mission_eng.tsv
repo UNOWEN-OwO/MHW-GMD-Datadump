@@ -1,0 +1,185 @@
+Mission ID	Mission Name	Mission Desc
+0	Field Research: Mining Outcrops	Mine 6 times at mining outcrops.
+1	Field Research: Mining Outcrops	Mine 12 times at mining outcrops.
+2	Field Research: Bonepiles	Gather 6 times at bonepiles.
+3	Field Research: Bonepiles	Gather 12 times at bonepiles.
+4	Field Research: Flora	Gather plants 4 times.
+5	Field Research: Flora	Gather plants 7 times.
+6	Field Research: Mushrooms	Gather mushrooms 4 times.
+7	Field Research: Mushrooms	Gather mushrooms 7 times.
+8	Field Research: Entomology	Gather insects 3 times.
+9	Field Research: Entomology	Gather insects 5 times.
+10	Field Research: Honey	Gather honey 3 times.
+11	Field Research: Honey	Gather honey 5 times.
+12	Ecology Survey: Large Monster Hunt	Hunt 2 large monsters.
+13	Ecology Survey: Large Monster Hunt	Hunt 1 large monster.
+14	Ecology Survey: Large Monster Capture	Capture 1 large monster.
+15	Ecology Survey: Small Monster Culling	Slay 8 small monsters.
+16	Ecology Survey: Small Monster Culling	Slay 16 small monsters.
+17	Research Progress: Ancient Forest	Complete 2 quests in the Ancient Forest.
+18	Research Progress: Ancient Forest	Complete 3 quests in the Ancient Forest.
+19	Research Progress: Wildspire Waste	Complete 2 quests in the Wildspire Waste.
+20	Research Progress: Wildspire Waste	Complete 3 quests in the Wildspire Waste.
+21	Field Research: Mining Outcrops	Mine 9 times at mining outcrops.
+22	Field Research: Mining Outcrops	Mine 15 times at mining outcrops.
+23	Field Research: Bonepiles	Gather 9 times at bonepiles.
+24	Field Research: Bonepiles	Gather 15 times at bonepiles.
+25	Field Research: Flora	Gather plants 5 times.
+26	Field Research: Flora	Gather plants 8 times.
+27	Field Research: Mushrooms	Gather mushrooms 5 times.
+28	Field Research: Mushrooms	Gather mushrooms 8 times.
+29	Field Research: Entomology	Gather insects 4 times.
+30	Field Research: Entomology	Gather insects 7 times.
+31	Field Research: Honey	Gather honey 4 times.
+32	Field Research: Honey	Gather honey 7 times.
+33	Ecology Survey: Large Monster Hunt	Hunt 3 large monsters.
+34	Ecology Survey: Large Monster Hunt	Hunt 2 large monsters.
+35	Ecology Survey: Large Monster Capture	Capture 2 large monsters.
+36	Ecology Survey: Large Monster Capture	Capture 1 large monster.
+37	Ecology Survey: Small Monster Culling	Slay 10 small monsters.
+38	Ecology Survey: Small Monster Culling	Slay 20 small monsters.
+39	Ecology Survey: Fanged Wyvern Hunt	Hunt 2 large fanged wyverns.
+40	Ecology Survey: Fanged Wyvern Capture	Capture 1 large fanged wyvern.
+41	Ecology Survey: Bird Wyvern Hunt	Hunt 2 large bird wyverns.
+42	Ecology Survey: Bird Wyvern Capture	Capture 1 large bird wyvern.
+43	Ecology Survey: Brute Wyvern Hunt	Hunt 2 large brute wyverns.
+44	Ecology Survey: Brute Wyvern Capture	Capture 1 large brute wyvern.
+45	Ecology Survey: Flying Wyvern Hunt	Hunt 2 large flying wyverns.
+46	Ecology Survey: Flying Wyvern Capture	Capture 1 large flying wyvern.
+47	Research Progress: Ancient Forest	Complete 2 quests in the Ancient Forest.
+48	Research Progress: Ancient Forest	Complete 3 quests in the Ancient Forest.
+49	Research Progress: Wildspire Waste	Complete 2 quests in the Wildspire Waste.
+50	Research Progress: Wildspire Waste	Complete 3 quests in the Wildspire Waste.
+51	Research Progress: Coral Highlands	Complete 2 quests in the Coral Highlands.
+52	Research Progress: Coral Highlands	Complete 3 quests in the Coral Highlands.
+53	Research Progress: Rotten Vale	Complete 2 quests in the Rotten Vale.
+54	Research Progress: Rotten Vale	Complete 3 quests in the Rotten Vale.
+55	Research Progress: Investigations	Complete 2 investigations.
+56	Research Progress: Investigations	Complete 3 investigations.
+57	Ecology Survey: Large Monster Hunt	Hunt 2 high rank large monsters.
+58	Ecology Survey: Large Monster Capture	Capture 1 high rank large monster.
+59	Ecology Survey: Small Monster Culling	Slay 10 high rank small monsters.
+60	Research Progress: Ancient Forest	Complete 2 high rank quests in theAncient Forest.
+61	Research Progress: Wildspire Waste	Complete 2 high rank quests in theWildspire Waste.
+62	Research Progress: Coral Highlands	Complete 2 high rank quests in theCoral Highlands.
+63	Research Progress: Rotten Vale	Complete 2 high rank quests in theRotten Vale.
+64	Research Progress: Investigations	Complete 2 high rank investigations.
+65	Field Research: Mining Outcrops	Mine 15 times at mining outcrops.
+66	Field Research: Bonepiles	Gather 15 times at bonepiles.
+67	Field Research: Flora	Gather plants 8 times.
+68	Field Research: Mushrooms	Gather mushrooms 8 times.
+69	Field Research: Entomology	Gather insects 7 times.
+70	Field Research: Honey	Gather honey 7 times.
+71	Ecology Survey: Large Monster Hunt	Hunt 3 high rank large monsters.
+72	Ecology Survey: Large Monster Capture	Capture 2 high rank large monsters.
+73	Ecology Survey: Small Monster Culling	Slay 20 high rank small monsters.
+74	Ecology Survey: Fanged Wyvern Hunt	Hunt 2 large high rankfanged wyverns.
+75	Ecology Survey: Fanged Wyvern Capture	Capture 1 large high rankfanged wyvern.
+76	Ecology Survey: Bird Wyvern Hunt	Hunt 2 large high rankbird wyverns.
+77	Ecology Survey: Bird Wyvern Capture	Capture 1 large high rankbird wyvern.
+78	Ecology Survey: Brute Wyvern Hunt	Hunt 2 large high rankbrute wyverns.
+79	Ecology Survey: Brute Wyvern Capture	Capture 1 large high rankbrute wyvern.
+80	Ecology Survey: Flying Wyvern Hunt	Hunt 2 large high rankflying wyverns.
+81	Ecology Survey: Flying Wyvern Capture	Capture 1 large high rankflying wyvern.
+82	Ecology Survey: Piscine Wyvern Hunt	Hunt 2 large high rankpiscine wyverns.
+83	Ecology Survey: Piscine Wyvern Capture	Capture 1 large high rankpiscine wyvern.
+84	Research Progress: Ancient Forest	Complete 3 high rank quests in theAncient Forest.
+85	Research Progress: Wildspire Waste	Complete 3 high rank quests in theWildspire Waste.
+86	Research Progress: Coral Highlands	Complete 3 high rank quests in theCoral Highlands.
+87	Research Progress: Rotten Vale	Complete 3 high rank quests in theRotten Vale.
+88	Research Progress: Elder's Recess	Complete 3 high rank quests in theElder's Recess.
+89	Research Progress: Investigations	Complete 3 high rank investigations.
+90	Ecology Survey: Elder Dragon Culling	Slay 2 high rank elder dragons.
+91	Field Research: Mining Outcrops	Mine 21 times at mining outcrops.
+92	Field Research: Bonepiles	Gather 21 times at bonepiles.
+93	Field Research: Flora	Gather plants 12 times.
+94	Field Research: Mushrooms	Gather mushrooms 12 times.
+95	Field Research: Entomology	Gather insects 10 times.
+96	Field Research: Honey	Gather honey 10 times.
+97	Ecology Survey: Large Monster Hunt	Hunt 4 high rank large monsters.
+98	Ecology Survey: Large Monster Capture	Capture 3 high rank large monsters.
+99	Ecology Survey: Small Monster Culling	Slay 30 high rank small monsters.
+100	Ecology Survey: Fanged Wyvern Hunt	Hunt 3 large high rankfanged wyverns.
+101	Ecology Survey: Fanged Wyvern Capture	Capture 2 large high rankfanged wyverns.
+102	Ecology Survey: Bird Wyvern Hunt	Hunt 3 large high rankbird wyverns.
+103	Ecology Survey: Bird Wyvern Capture	Capture 2 large high rankbird wyverns.
+104	Ecology Survey: Brute Wyvern Hunt	Hunt 3 large high rankbrute wyverns.
+105	Ecology Survey: Brute Wyvern Capture	Capture 2 large high rankbrute wyverns.
+106	Ecology Survey: Flying Wyvern Hunt	Hunt 3 large high rankflying wyverns.
+107	Ecology Survey: Flying Wyvern Capture	Capture 2 large high rankflying wyverns.
+108	Ecology Survey: Piscine Wyvern Hunt	Hunt 3 large high rankpiscine wyverns.
+109	Ecology Survey: Piscine Wyvern Capture	Capture 2 large high rankpiscine wyverns.
+110	Ecology Survey: Elder Dragon Culling	Slay 3 high rank elder dragons.
+111	Research Progress: Ancient Forest	Complete 4 high rank quests in theAncient Forest.
+112	Research Progress: Wildspire Waste	Complete 4 high rank quests in theWildspire Waste.
+113	Research Progress: Coral Highlands	Complete 4 high rank quests in theCoral Highlands.
+114	Research Progress: Rotten Vale	Complete 4 high rank quests in theRotten Vale.
+115	Research Progress: Elder's Recess	Complete 4 high rank quests in theElder's Recess.
+116	Research Progress: Investigations	Complete 4 high rank investigations.
+117	Cultural Exchange: Wildspire Waste	Capture 3 Protectors
+118	Cultural Exchange: Wildspire Waste II	Report to the Protectors at their settlement.
+119	Cultural Exchange: Gajalaka Linguistics	Collect 10 Gajalaka tracks.
+120	Cultural Exchange: Gajalaka Linguistics II	Discover the Gajalaka settlement.
+121	Research Help: Pink Parexus Capture	Capture a Pink Parexus.
+122	Research Help: Sushifish Capture	Capture a Sushifish.
+123	Research Help: Gunpowderfish Capture	Capture a Gunpowderfish.
+124	Research Help: Goldenfish Capture	Capture a Goldenfish.
+125	Research Help: Platinumfish Capture	Capture a Platinumfish.
+126	Research Help: Woodland Pteryx Capture	Capture a Woodland Pteryx.
+127	Research Help: Carrier Ant Capture	Capture 9 Carrier Ants.
+128	Research Help: Wiggler Capture	Capture 3 Wigglers.
+129	Research Help: Scavantula Capture	Capture 5 Scavantula.
+130	Research Help: Bomb Beetle Capture	Capture a Bomb Beetle.
+131	Research Help: Capture The Ancient	Capture endemic life known as the ancientcreature of the New World.
+132	Research Help: Phantom Bird	Capture endemic life known as the phantombird.
+133	Rebuild the Ancient Forest Camp	Secure the campsite.
+134	Research Help: Creature Capture	Capture a creature from another world.(Hint: Check your Monster Field Guide.)
+135	Research Help: Glass Parexus Capture	Capture a Glass Parexus.
+136	Research Help: Mysterious Fish Capture	Capture a mysterious fishfrom the Hoarfrost Reach.
+137	Research Help: Duffel Penguin Capture	Capture 3 Duffel Penguins.
+138	Research Help: Mysterious Animal Capture	Capture a mysterious endemic lifeform from the Hoarfrost Reach.
+139	Research Help: Whetfish Capture	Capture a gold crown Whetfish.
+140	Research Help: Burst Arowana Capture	Capture a gold crown Burst Arowana.
+141	Research Help: Glass Parexus Capture	Capture a gold crown Glass Parexus.
+142	Research Help: Augurfly Capture	Capture a gold crown Augurfly.
+143	Research Help: Dapper Coralbird Capture	Capture a gold crown Dapper Coralbird.
+144	Research Help: Duffel Penguin Capture	Capture a gold crown Duffel Penguin.
+145	Field Research: Mining Outcrops	Mine 12 times at mining outcrops.
+146	Field Research: Bonepiles	Gather 12 times at bonepiles.
+147	Field Research: Flora	Gather plants 8 times.
+148	Field Research: Mushrooms	Gather mushrooms 8 times.
+149	Field Research: Entomology	Gather insects 6 times.
+150	Field Research: Honey	Gather honey 6 times.
+151	Ecology Survey: Large Monster Hunt	Hunt 3 master rank large monsters.
+152	Ecology Survey: Large Monster Capture	Capture 3 master rank large monsters.
+153	Ecology Survey: Small Monster Culling	Slay 10 master rank small monsters.
+154	Ecology Survey: Fanged Wyvern Hunt	Hunt 2 large master rankfanged wyverns.
+155	Ecology Survey: Fanged Wyvern Capture	Capture 2 large master rank fanged wyverns.
+156	Ecology Survey: Bird Wyvern Hunt	Hunt 2 large master rankbird wyverns.
+157	Ecology Survey: Bird Wyvern Capture	Capture 2 large master rank bird wyverns.
+158	Ecology Survey: Brute Wyvern Hunt	Hunt 2 large master rankbrute wyverns.
+159	Ecology Survey: Brute Wyvern Capture	Capture 2 large master rank brute wyverns.
+160	Ecology Survey: Piscine Wyvern Hunt	Hunt 2 large master rankpiscine wyverns.
+161	Ecology Survey: Piscine Wyvern Capture	Capture 2 large master rank piscine wyverns.
+162	Research Progress: Ancient Forest	Complete 2 master rank questsin the Ancient Forest.
+163	Research Progress: Wildspire Waste	Complete 2 master rank questsin the Wildspire Waste.
+164	Research Progress: Coral Highlands	Complete 2 master rank questsin the Coral Highlands.
+165	Research Progress: Rotten Vale	Complete 2 master rank questsin the Rotten Vale.
+166	Research Progress: Elder's Recess	Complete 2 master rank questsin the Elder's Recess.
+167	Research Progress: Investigations	Complete 2 master rank investigations.
+168	Research Progress: Hoarfrost Reach	Complete 2 master rank questsin the Hoarfrost Reach.
+169	Ecology Survey: Flying Wyvern Hunt	Hunt 2 large master rankflying wyverns.
+170	Ecology Survey: Flying Wyvern Capture	Capture 2 large master rank flying wyverns.
+171	Ecology Survey: Large Monster Hunt	Hunt 6 large master rankmonsters.
+172	Ecology Survey: Fanged Wyvern Hunt	Hunt 4 large master rankfanged wyverns.
+173	Ecology Survey: Bird Wyvern Hunt	Hunt 4 large master rankbird wyverns.
+174	Ecology Survey: Brute Wyvern Hunt	Hunt 4 large master rankbrute wyverns.
+175	Ecology Survey: Flying Wyvern Hunt	Hunt 4 large master rankflying wyverns.
+176	Ecology Survey: Piscine Wyvern Hunt	Hunt 4 large master rankpiscine wyverns.
+177	Ecology Survey: Elder Dragon Culling	Slay 2 master rank elder dragons.
+178	Ecology Survey: Elder Dragon Culling	Slay 4 master rank elder dragons.
+179	Ecology Survey: Tempered Monster Hunt	Hunt 2 large master ranktempered monsters.
+180	Ecology Survey: Tempered Monster Hunt	Hunt 4 large master ranktempered monsters.
+181	Cultural Exchange: Hoarfrost Reach	Go on an expedition in the Hoarfrost Reachand hunt one large monster.
+182	Cultural Exchange: Hoarfrost Reach II	Go to the Boaboa's lair and attendtheir council meeting.
+183	Cultural Exchange: Hoarfrost Reach III	Complete the M2<ICON STAR_1> questBy Our Powers Combined.

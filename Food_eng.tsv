@@ -1,0 +1,115 @@
+Food Code	Food Name	Food Desc
+MEAT_00_ID	Wyvern Thigh	Meat that helps trigger Courage food skills.A long time in the stew makes it very chewy.
+MEAT_01_ID	Wyvern Skirt Steak	Meat that helps trigger Courage food skills.Best served thinly sliced and grilled overcharcoal.
+MEAT_02_ID	Wyvern Egg	Meat that helps trigger Courage food skills.A precious plunder from a wyvern's nest.
+MEAT_03_ID	Wyvern Tail	Meat that helps trigger Courage food skills.The tail from a flying wyvern. Worth tryingat least once.
+MEAT_04_ID	Wyvern Head	Meat that helps trigger Courage food skills.A staple of haute cuisine, it also occasionallyfeatures in celebratory feasts.
+MEAT_05_ID	Wyvern Filet	Meat that helps trigger Courage food skills.The most highly valued cut of wyvern meatavailable.
+MEAT_06_ID	Tough Meat	Meat that helps trigger Resilience food skills.Working your way through this chewy meat hasthe added benefit of strengthening your jaw.
+MEAT_07_ID	Thorny Meat	Meat that helps trigger Resilience food skills.Still attached to the thorny scales from whichit was cut, it calls for slow, careful eating.
+MEAT_08_ID	Bullion Meat	Meat that helps trigger Resilience food skills.Relatively expensive, but sometimes you'vejust gotta treat yourself.
+MEAT_09_ID	Steeled Meat	Meat that helps trigger Resilience food skills.Hard enough to break a tooth, but the proteinand vitamins it packs almost makes it worth it.
+MEAT_10_ID	Wild Chicken	Meat that helps trigger Resilience food skills.Best enjoyed by savagely cutting into it andshoveling into your mouth with abandon.
+MEAT_11_ID	Marinated Carpaccio	Meat that helps trigger Resilience food skills.Steeped in a secret sauce, this raw meat isliterally dripping with flavor.
+MEAT_12_ID	Aptonoth Meat	Meat that helps trigger Vigor food skills.A staple of any hunter's diet which is usedin a wide variety of meat dishes.
+MEAT_13_ID	Apceroast	Meat that helps trigger Vigor food skills.Almost always served in large potions, thismeat is a favorite among ravenous hunters.
+MEAT_14_ID	Diced Steak	Meat that helps trigger Vigor food skills.Relatively good quality meat cut into small,bite-sized pieces.
+MEAT_15_ID	Giant Sirloin	Meat that helps trigger Vigor food skills.A lovely slice of Aptonoth meat that'stasty and filling.
+MEAT_16_ID	Big Bite Burger	Meat that helps trigger Vigor food skills.A burger prepared the way it was meant tobe: almost too big to fit in your mouth.
+MEAT_17_ID	Giga Steak	Meat that helps trigger Vigor food skills.Well-marbled steak so delectable that it's hardto put down even long after you've been full.
+MEAT_18_ID	White Liver	Meat that helps trigger Acumen food skills.Loved for its goopy texture.
+MEAT_19_ID	Barbecued Short Rib	Meat that helps trigger Acumen food skills.Mostly fat, this flavorful meat can bedangerously addictive.
+MEAT_20_ID	Tangy Tripe	Meat that helps trigger Acumen food skills.A stomachful of this makes it oddly difficultto sit still.
+MEAT_21_ID	Hot Heart	Meat that helps trigger Acumen food skills.A cut of meat prized for its texture, enjoyedbest when devoured piping hot.
+MEAT_22_ID	Rich Rump	Meat that helps trigger Acumen food skills.An exceptionally rich cut of meat from oneof a monster's most prized body parts.
+MEAT_23_ID	Grand Foie Gras	Meat that helps trigger Acumen food skills.Its creamy texture and rich taste make it amuch sought-after ingredient.
+MEAT_24_ID	Peon Turkey	Meat that helps trigger Artillery food skills.Sadly, it's more bone than meat.
+MEAT_25_ID	Great Mutton	Meat that helps trigger Artillery food skills.Highly versatile, it's used in a wide varietyof dishes.
+MEAT_26_ID	Herbivore Egg	Meat that helps trigger Artillery food skills.An omelette made from this could feedseveral hungry families.
+MEAT_27_ID	King Turkey	Meat that helps trigger Artillery food skills.Its meatiness makes it more than worthy ofits moniker. Puts Peon Turkey to shame.
+MEAT_28_ID	Magma Mutton	Meat that helps trigger Artillery food skills.Succulent mutton that grows even richer intaste the longer it's stewed.
+MEAT_29_ID	Kaiser Turkey	Meat that helps trigger Artillery food skills.A leg so imperially meaty that even KingTurkey pales in comparison.
+FISH_00_ID	Ridgemane Tuna	Fish that helps trigger Courage food skills.Its meat is as tasty as its mane is audacious.
+FISH_01_ID	Serpentine Salmon	Fish that helps trigger Courage food skills.Twisty and curvy, it looks more like a snakethan a fish.
+FISH_02_ID	Courageous Eel	Fish that helps trigger Courage food skills.One bite and you'll be brimming with courage.
+FISH_03_ID	Sushifish	Fish that helps trigger Courage food skills.Delicious, with just the right amount of fat.Well-liked near and far.
+FISH_04_ID	Ancient Seabream	Fish that helps trigger Courage food skills.Gourmet fish that has been prized as adelicacy since ancient times.
+FISH_05_ID	Boorish Yellowtail	Fish that helps trigger Courage food skills.Though criticized for its vulgar appearance,this fish is actually the epitome of courage.
+FISH_06_ID	Jumbo Whelk	Fish that helps trigger Resilience food skills.Larger shells fetch a higher price.
+FISH_07_ID	Scallop Chips	Fish that helps trigger Resilience food skills.Scallops dried for preservation. They can alsobe used to make a tasty soup.
+FISH_08_ID	Choice Abalone	Fish that helps trigger Resilience food skills.First-rate in size and taste.
+FISH_09_ID	Violet Abalone	Fish that helps trigger Resilience food skills.Its aroma and flavor have transformed as muchas its coloration.
+FISH_10_ID	Precious Abalone	Fish that helps trigger Resilience food skills.Hailed as a delicacy among delicacies.
+FISH_11_ID	Large-horned Turban	Fish that helps trigger Resilience food skills.Study of its biology has not yet uncovered theuse for its large horns.
+FISH_12_ID	Squad Sardine	Fish that helps trigger Vigor food skills.They form into regiment-like schools toprotect their territory.
+FISH_13_ID	Samurai Tuna	Fish that helps trigger Vigor food skills.Notable for the patterns on its headresembling a samurai helmet.
+FISH_14_ID	Gajau Gill	Fish that helps trigger Vigor food skills.Needs to be cooked for a long time, butthe wait is definitely worth it.
+FISH_15_ID	Gajau Liver	Fish that helps trigger Vigor food skills.Packed with good fats, it's bothdelicious and nutritious.
+FISH_16_ID	Shogun Tuna	Fish that helps trigger Vigor food skills.Markings along its entire body evoke theimage of a full suit of samurai armor.
+FISH_17_ID	Fiery Seabream	Fish that helps trigger Vigor food skills.This blazingly red fish looks as though it'sperpetually aflame.
+FISH_18_ID	Bent-backed Shrimp	Fish that helps trigger Acumen food skills.Its distinctively contorted body makes thisshrimp difficult to eat.
+FISH_19_ID	Armor Crab	Fish that helps trigger Acumen food skills.A crustacean with a shell that looks likea suit of armor and is just as tough.
+FISH_20_ID	Coral Shrimp	Fish that helps trigger Acumen food skills.Petite, but with a dazzling rose-colored shell.
+FISH_21_ID	Fortress Crab	Fish that helps trigger Acumen food skills.It attracts symbiotes to live on its shell,making its body seem larger than it is.
+FISH_22_ID	Queen Shrimp	Fish that helps trigger Acumen food skills.Reigns over other shrimp as their queen.
+FISH_23_ID	Millenary Crab	Fish that helps trigger Acumen food skills.A magnificent crab said to live for a thousandyears.
+FISH_24_ID	Osseoctopus	Fish that helps trigger Artillery food skills.It has a brittle texture that's almost likechewing on bone.
+FISH_25_ID	Pink Caviar	Fish that helps trigger Artillery food skills.Brilliantly pink fish eggs, lightly pickled in salt.
+FISH_26_ID	Lily Squid	Fish that helps trigger Artillery food skills.Said to bring on flashes of insight.
+FISH_27_ID	Ballerina Octopus	Fish that helps trigger Artillery food skills.Cooking it makes its legs curl up like a dancer.
+FISH_28_ID	Soulful Caviar	Fish that helps trigger Artillery food skills.Fish eggs so delicious they move the soul.
+FISH_29_ID	Sovereign Squid	Fish that helps trigger Artillery food skills.A squid whose size practically demandsthat it be regarded as a ruler of something.
+VEGE_00_ID	Magnicelery	Veggie that helps trigger Courage food skills.Once you develop a taste for it, you'll find ithard to resist.
+VEGE_01_ID	Rapscallion	Veggie that helps trigger Courage food skills.Eaten raw, its flavor is so sharp that even aDeviljho might shed a tear.
+VEGE_02_ID	Jewel Cactus	Veggie that helps trigger Courage food skills.Large and packed with juicy, fleshy meat.
+VEGE_03_ID	Dragonbloom	Veggie that helps trigger Courage food skills.A flower with fruit as tough as wyvern scales.
+VEGE_04_ID	Kingly Cactus	Veggie that helps trigger Courage food skills.A cactus of majestic, almost king-like, quality.
+VEGE_05_ID	Fatty Tomato	Veggie that helps trigger Courage food skills.A gourmet tomato bursting with sweet juices.
+VEGE_06_ID	Stonecorn	Veggie that helps trigger Resilience food skills.A stalk of corn that takes almost superhumanstrength to shuck.
+VEGE_07_ID	Steadfast Spud	Veggie that helps trigger Resilience food skills.The tenacious roots it spreads make for back-breaking work come harvesting time.
+VEGE_08_ID	Exquisite Shroomcap	Veggie that helps trigger Resilience food skills.A delectable mushroom that even chefs are wontto pop into their mouths while cooking.
+VEGE_09_ID	Moonlit Mushroom	Veggie that helps trigger Resilience food skills.A mushroom that glows faintly like the moon.
+VEGE_10_ID	Spirit Shroomcap	Veggie that helps trigger Resilience food skills.The glow of this mushroom can only be describedas otherworldly.
+VEGE_11_ID	Soiled Shroomcap	Veggie that helps trigger Resilience food skills.Surprisingly difficult to find, they were oncethought to be only a legend.
+VEGE_12_ID	Plumpkin	Veggie that helps trigger Vigor food skills.An imposing, gorgeously proportionedpumpkin. Its taste is almost irrelevant.
+VEGE_13_ID	Cudgel Onion	Veggie that helps trigger Vigor food skills.As its name suggests, its sharp taste andrough appearance are almost ogreish.
+VEGE_14_ID	Shinebloom	Veggie that helps trigger Vigor food skills.Its aroma paints the mind with an image ofsoft, dappled sunlight.
+VEGE_15_ID	Sunkissed Grass	Veggie that helps trigger Vigor food skills.An herb claimed to have broad remedial powers.
+VEGE_16_ID	Goldbloom	Veggie that helps trigger Vigor food skills.A flower that radiates golden beauty.
+VEGE_17_ID	King Truffle	Veggie that helps trigger Vigor food skills.Even a pinch of this adds volumes of delightfularomas to any dish.
+VEGE_18_ID	Aromaticelery	Veggie that helps trigger Acumen food skills.Its aroma varies greatly depending on howit's prepared.
+VEGE_19_ID	Prismatic Paprika	Veggie that helps trigger Acumen food skills.Its coloration varies greatly depending on howit's prepared.
+VEGE_20_ID	Tainted Fruit	Veggie that helps trigger Acumen food skills.A fruit that's ripened in spite of the extremeconditions of the Rotten Vale.
+VEGE_21_ID	Heavenberry	Veggie that helps trigger Acumen food skills.Its flavor is praised as a taste of heaven.
+VEGE_22_ID	Elysian Fruit	Veggie that helps trigger Acumen food skills.It has an aroma so magical it seems to comefrom another world.
+VEGE_23_ID	Millionfold Cabbage	Veggie that helps trigger Acumen food skills.It boasts a phenomenal texture thanks to itsinnumerable layers of leaves.
+VEGE_24_ID	Kut-Ku Bean	Veggie that helps trigger Artillery food skills.The occasional bean is hot enough to haveyou spouting fire like a Yian Kut-Ku.
+VEGE_25_ID	Molten Mango	Veggie that helps trigger Artillery food skills.A mango that ripens quickly after it's picked,and continues to seethe with heat long after.
+VEGE_26_ID	Rockfruit	Veggie that helps trigger Artillery food skills.A fruit with a tough, rock-like rind.
+VEGE_27_ID	Divineapple	Veggie that helps trigger Artillery food skills.A tropical fruit that's tricky to grow.
+VEGE_28_ID	Wildfruit	Veggie that helps trigger Artillery food skills.Its wild taste is a favorite among gourmets.
+VEGE_29_ID	Emerald Durian	Veggie that helps trigger Artillery food skills.A rare fruit that shines like an emerald, andis almost as valuable.
+LIQUOR_00_ID	Tater Mud	Alcohol that helps trigger Perception food skills.A drink that goes down as easy as it sounds.
+LIQUOR_01_ID	Dragon Ale	Alcohol that helps trigger Perception food skills.Strong enough to knock out a wyvern, thoughhow that was tested is left up to the imagination.
+LIQUOR_02_ID	Demontater Brew	Alcohol that helps trigger Perception food skills.Bitter enough to put a hole through a Deviljho'sstomach.
+LIQUOR_03_ID	Wyvern Amber Ale	Alcohol that helps trigger Perception food skills.An aromatic, full-bodied brew.
+LIQUOR_04_ID	Goldenfish Brew	Alcohol that helps trigger Perception food skills.Consider yourself lucky to get your hands onthis holy grail of brews.
+LIQUOR_05_ID	Dragonkiller Sake	Alcohol that helps trigger Perception food skills.Rice wine distilled according to a long-researchedprocess. The epitome of sake.
+LIQUOR_06_ID	Hunter's Brew	Alcohol that helps trigger Fortune food skills.The perfect refreshment after a long hunt.
+LIQUOR_07_ID	Star Brandy	Alcohol that helps trigger Fortune food skills.Its bottle features the Research Commission'sfamous sapphire star on its label.
+LIQUOR_08_ID	Master Ale	Alcohol that helps trigger Fortune food skills.Brewed with roasted malt, this rich, velvety brewis popular with beer aficionados.
+LIQUOR_09_ID	Ratha Whiskey	Alcohol that helps trigger Fortune food skills.Whiskey aged in a barrel scorched by aRathalos's fiery breath.
+LIQUOR_10_ID	Astera Beer	Alcohol that helps trigger Fortune food skills.The local brew of the Research Commission.Perfect for celebratory toasts.
+LIQUOR_11_ID	Blessed Wine	Alcohol that helps trigger Fortune food skills.It holds the record for the longest time at thetop of the rankings in Wine Hunter's Monthly.
+LIQUOR_12_ID	Greathorn's Gulp	Alcohol that helps trigger Preparation food skills.Made with the powdered horns of animalsnative to Hoarfrost Reach.
+LIQUOR_13_ID	Auspicious Ale	Alcohol that helps trigger Preparation food skills.Traditionally gifted to travelers as a good-luck charm for the road.
+LIQUOR_14_ID	Butterbrew	Alcohol that helps trigger Preparation food skills.A bracing brew made by fermenting fresh-picked butterbur from the Reach.
+LIQUOR_15_ID	Fortified Honeywine	Alcohol that helps trigger Preparation food skills.The carefully selected natural ingredients in this brew warm the body to its core.
+LIQUOR_16_ID	Entrancing Alembic	Alcohol that helps trigger Preparation food skills.This fruity spirit's sweet aroma bewitches any who catch a whiff.
+LIQUOR_17_ID	Tequila de Locos	Alcohol that helps trigger Preparation food skills.An insanely potent spirit drunk by foolhardy hunters to prove their mettle.
+LIQUOR_18_ID	Glacial Vodka	Alcohol that helps trigger Trailblazer food skills.The Canteen's elevated vodka on the rocks,now served boldly atop an icicle.
+LIQUOR_19_ID	Toasting Tequila	Alcohol that helps trigger Trailblazer food skills.A cheery vintage used to celebrate a successfulhunt and other happy occasions.
+LIQUOR_20_ID	Snowmelt Snifter	Alcohol that helps trigger Trailblazer food skills.The clean taste of freshly melted snow makes this a tradition for post-fight make-up toasting.
+LIQUOR_21_ID	Frostpeak Fizz	Alcohol that helps trigger Trailblazer food skills.A luxurious drink served over silvery shards of ultra-dense ice.
+LIQUOR_22_ID	Crystal Quaff	Alcohol that helps trigger Trailblazer food skills.A delicate drink so clear it looks as if bubbles are rising up out of an empty glass.
+LIQUOR_23_ID	Searing Spirit	Alcohol that helps trigger Trailblazer food skills.A single sip of this potent brew starts a fire racing from the belly to every extremity.

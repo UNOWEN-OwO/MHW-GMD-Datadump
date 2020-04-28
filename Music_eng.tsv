@@ -1,0 +1,100 @@
+Music Code	Music Level	Music Name
+HUD_HUE_00	-	Self-improvement
+HUD_HUE_00_S	0	Movement Speed Up
+HUD_HUE_00_W	1	Attack Up + Deflected Attack Prevention
+HUD_HUE_01	-	Attack Up (S)
+HUD_HUE_02	-	Attack Up (L)
+HUD_HUE_02_W	1	Attack Up (XL)
+HUD_HUE_03	-	Health Boost (S)
+HUD_HUE_04	-	Health Boost (L)
+HUD_HUE_04_W	1	Health Boost Extended
+HUD_HUE_05	-	Stamina Use Reduced (S)
+HUD_HUE_06	-	Stamina Use Reduced (L)
+HUD_HUE_06_W	1	Stamina Use Reduction Extended
+HUD_HUE_07	-	Wind Pressure Negated
+HUD_HUE_08	-	All Wind Pressure Negated
+HUD_HUE_08_W	1	All Wind Pressure Negation Extended
+HUD_HUE_09	-	Defense Up (S)
+HUD_HUE_10	-	Defense Up (L)
+HUD_HUE_10_W	1	Defense Up (XL)
+HUD_HUE_11	-	Tool Use Drain Reduced (S)
+HUD_HUE_12	-	Tool Use Drain Reduced (L)
+HUD_HUE_12_W	1	Tool Use Drain Reduction Extended
+HUD_HUE_13	-	Health Rec. (S)
+HUD_HUE_14	-	Health Rec. (L)
+HUD_HUE_15	-	Health Rec. (S) + Antidote
+HUD_HUE_16	-	Health Rec. (M) + Antidote
+HUD_HUE_17	-	Recovery Speed (S)
+HUD_HUE_18	-	Recovery Speed (L)
+HUD_HUE_18_W	1	Recovery Speed Extended
+HUD_HUE_19	-	Divine Protection
+HUD_HUE_19_W	1	Divine Protection Extended
+HUD_HUE_20	-	Scoutfly Power Up
+HUD_HUE_20_S	0	Scoutfly Level +1
+HUD_HUE_20_W	1	Scoutfly Level +1 Extended
+HUD_HUE_21	-	Muck Res
+HUD_HUE_21_W	1	Muck Res Extended
+HUD_HUE_22	-	Envir. Damage Negated
+HUD_HUE_22_W	1	Envir. Damage Negation Extended
+HUD_HUE_23	-	Earplugs (S)
+HUD_HUE_24	-	Earplugs (L)
+HUD_HUE_24_W	1	Earplugs (L) Extended
+HUD_HUE_25	-	Stun Negated
+HUD_HUE_25_W	1	Stun Negation Extended
+HUD_HUE_26	-	Paralysis Negated
+HUD_HUE_26_W	1	Paralysis Negation Extended
+HUD_HUE_27	-	Tremors Negated
+HUD_HUE_27_W	1	Tremor Negation Extended
+HUD_HUE_28	-	Fire Res Boost (S)
+HUD_HUE_29	-	Fire Res Boost (L)
+HUD_HUE_29_W	1	Fire Res Boost (XL)
+HUD_HUE_30	-	Water Res Boost (S)
+HUD_HUE_31	-	Water Res Boost (L)
+HUD_HUE_31_W	1	Water Res Boost (XL)
+HUD_HUE_32	-	Thunder Res Boost (S)
+HUD_HUE_33	-	Thunder Res Boost (L)
+HUD_HUE_33_W	1	Thunder Res Boost (XL)
+HUD_HUE_34	-	Ice Res Boost (S)
+HUD_HUE_35	-	Ice Res Boost (L)
+HUD_HUE_35_W	1	Ice Res Boost (XL)
+HUD_HUE_36	-	Dragon Res Boost (S)
+HUD_HUE_37	-	Dragon Res Boost (L)
+HUD_HUE_37_W	1	Dragon Res Boost (XL)
+HUD_HUE_38	-	Elemental Attack Boost
+HUD_HUE_38_S	0	Elemental Attack Boost (S)
+HUD_HUE_38_W	1	Elemental Attack Boost (L)
+HUD_HUE_39	-	Sonic Waves
+HUD_HUE_40	-	All Melody Effects Extended
+HUD_HUE_41	-	Knockbacks Negated
+HUD_HUE_42	-	Attack and Defense Up (S)
+HUD_HUE_42_S	0	Attack and Defense Up (S)
+HUD_HUE_42_W	1	Attack Up (L) / Defense Up (L)
+HUD_HUE_43	-	Affinity Up and Health Rec. (S)
+HUD_HUE_43_S	0	Affinity Up (S) / Health Rec. (S)
+HUD_HUE_43_W	1	Affinity Up (L) / Health Rec. (S)
+HUD_HUE_44	-	Abnormal Status Atk. Increased
+HUD_HUE_44_S	0	Abnormal Status Atk. Up (S)
+HUD_HUE_44_W	1	Abnormal Status Atk. Up (L)
+HUD_HUE_45	-	All Ailments Negated
+HUD_HUE_45_W	1	Ailment Negation Extended
+HUD_HUE_46	-	Blight Res Up
+HUD_HUE_46_S	0	Blight Res Up (S)
+HUD_HUE_46_W	1	Blight Res Up (L)
+HUD_HUE_47	-	Blight Negated
+HUD_HUE_47_W	1	Blight Negation Extended
+HUD_HUE_48	-	Earplugs (S) / Wind Pressure Negated
+HUD_HUE_48_S	0	Earplugs (S) / Wind Pressure Negated
+HUD_HUE_48_W	1	Earplugs (S) / Wind Pressure Negation Extended
+HUD_HUE_49	-	Health Recovery (M)
+HUD_HUE_23_W	1	Earplugs (S) Extended
+HUD_HUE_07_W	1	Wind Pressure Negation Extended
+HUD_HUE_41_W	1	Knockback Negation Extended
+HUD_HUE_50	-	Impact Echo Wave
+HUD_HUE_51	-	"Echo Wave ""Dragon"""
+HUD_HUE_52	-	Max Stamina Up + Recovery
+HUD_HUE_53	-	Extended Health Recovery
+HUD_HUE_54	-	Speed Boost + Evade Window Up
+HUD_HUE_55	-	Elemental Effectiveness Up
+HUD_HUE_56	-	Evade Window Up
+HUD_HUE_21_G	-	Muck/Water/Deep Snow Res
+HUD_HUE_21_W_G	-	Muck/Water/Deep Snow Res Extended
