@@ -6,3 +6,4 @@ chunk/common/*
 !chunk/common/RESERVED.md
 *.spec
 *.exe
+desktop.ini
