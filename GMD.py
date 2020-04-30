@@ -1,7 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# In[1]:
+
+
 # By Jodo and Ice
+
+
+# In[2]:
 
 
 import sys
@@ -11,8 +17,11 @@ import csv
 import blowfish
 import glob
 from sys import argv
-import pyexcel
+from collections import defaultdict
 from pyexcel.cookbook import merge_all_to_a_book
+
+
+# In[3]:
 
 
 def find_file(file,folder):
@@ -24,13 +33,22 @@ def find_file(file,folder):
     return None
 
 
+# In[4]:
+
+
 def read_uint32(f):
     return ord(f.read(1)) + (ord(f.read(1)) << 8) + (ord(f.read(1)) << 16) + (ord(f.read(1)) << 24)
+
+
+# In[5]:
 
 
 def read_uint16(f):
     return ord(f.read(1)) + (ord(f.read(1)) << 8)
     
+
+
+# In[6]:
 
 
 def read_str(f):
@@ -40,6 +58,9 @@ def read_str(f):
         total += tmp
         tmp = f.read(1)
     return total.decode(encoding = 'utf-8').replace('\r\n', '')
+
+
+# In[7]:
 
 
 def read_gmd(path):
@@ -71,10 +92,21 @@ def read_gmd(path):
     
 
 
+# In[8]:
+
+
 def remove_style(lst):
     return [re.sub(r'<(?:\/STYL|STYL \w+)>', '',e) for e in lst]
     
 
+
+# In[ ]:
+
+
+
+
+
+# In[9]:
 
 
 def read_Askill(lang='eng', path='chunk/', out='ASkill_', filename='a_skill_'):
@@ -95,12 +127,15 @@ def read_Askill(lang='eng', path='chunk/', out='ASkill_', filename='a_skill_'):
         [e[1] for e in gmd if e[0].endswith('EXPLAIN')]
     ))
     
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
 
     return rows
+
+
+# In[50]:
 
 
 def read_Animal(lang='eng', path='chunk/', out='Animal_', filename=''):
@@ -114,11 +149,11 @@ def read_Animal(lang='eng', path='chunk/', out='Animal_', filename=''):
     fields = ['生物ID','副ID','物品ID','名称'] if lang in ['chT', 'chS'] else ['EC ID','EC SubID','Item ID','EC Name']
     
     if lang not in ['chT', 'chS']:
-        item = read_Item(lang)
+        item = read_Item(lang, path, 'temp')
         for i in item:
             if i[0] in item_id:
                 chT[item_id.index(i[0])] = i[1]
-
+    
     rows = list(zip(
         animal_id,
         animal_subid,
@@ -126,12 +161,15 @@ def read_Animal(lang='eng', path='chunk/', out='Animal_', filename=''):
         chT
     ))
     
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
 
     return rows
+
+
+# In[11]:
 
 
 def read_Armor(lang='eng', path='chunk/', out='Armor_', filename='armor_'):
@@ -177,12 +215,64 @@ def read_Armor(lang='eng', path='chunk/', out='Armor_', filename='armor_'):
             rows.append([armor_type, part_name[armor_type], set_id, info_list[id_list.index(key)] if key in id_list else 'Unavailable', series_id, defense, rare, ('pl%03d_%04d%s' % (model_main_id,model_sub_id,gender[gender_id])) if gender_id and armor_type < 5 else gender[0]])
             
 
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
 
     return rows
+
+
+# In[12]:
+
+
+def read_ArmorSer(lang='eng', path='chunk/', out='ArmorSer_', filename='armor_series_'):
+    out = out + lang + '.tsv'
+    filename = find_file(filename + lang + '.gmd', path)
+    if not filename:
+        return
+    
+    _, info_list = read_gmd(filename)
+    
+    gender = ['无', ' (男性限定)', ' (女性限定)', ''] if lang in ['chT', 'chS'] else ['None', ' (Male Only)', ' (Female Only)', '']
+    
+    data = defaultdict(lambda:[])
+    
+    with open(find_file('armor.am_dat', path),'rb') as armor:
+        armor.read(6)
+        cnt = read_uint32(armor)
+        for i in range(cnt):
+            idx = read_uint32(armor)
+            order = armor.read(2)
+            rank = armor.read(1)
+            series_id = read_uint16(armor)
+            is_layered = armor.read(1)
+            armor_type = ord(armor.read(1))
+            defense = read_uint16(armor)
+            model_main_id = read_uint16(armor)
+            model_sub_id = read_uint16(armor)
+            armor.read(3)
+            rare = ord(armor.read(1))
+            armor.read(28)
+            gender_id = read_uint32(armor)
+            set_id = read_uint16(armor)
+            armor.read(5)
+            
+            data[series_id] = [model_main_id, model_sub_id, gender_id]
+            
+        fields = ['防具系列ID / 幻化ID','防具系列名称','模型地址'] if lang in ['chT', 'chS'] else ['Equip Series ID / Transmog ID','Equip Name','Model Path']
+        rows = [[i, info_list[i], ('pl%03d_%04d%s' % (data[i][0], data[i][1], gender[data[i][2]])) if data[i] and data[i][2] else gender[0]] for i in range(len(info_list))]
+        
+    with open(out, 'w') as csvfile:
+        csvwriter = csv.writer(csvfile, delimiter='\t')
+        csvwriter.writerow(fields)
+        csvwriter.writerows(rows)
+
+    return rows
+        
+
+
+# In[13]:
 
 
 def read_catSkill(lang='eng', path='chunk/', out='CatSkill_', filename='catSkill_'):
@@ -197,12 +287,15 @@ def read_catSkill(lang='eng', path='chunk/', out='CatSkill_', filename='catSkill
     
     rows = list(zip(id_list[0::2],info_list[0::2],info_list[1::2]))
     
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
 
     return rows
+
+
+# In[14]:
 
 
 def read_Food(lang='eng', path='chunk/', out='Food_', filename='food_'):
@@ -217,12 +310,15 @@ def read_Food(lang='eng', path='chunk/', out='Food_', filename='food_'):
     
     rows = list(zip(id_list[0::2],info_list[0::2],info_list[1::2]))
     
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
 
     return rows
+
+
+# In[15]:
 
 
 def read_Gallery(lang='eng', path='chunk/', out='Gallery_', filename='cm_gallery_'):
@@ -237,12 +333,15 @@ def read_Gallery(lang='eng', path='chunk/', out='Gallery_', filename='cm_gallery
     fields = ['回放ID','回放名称','回放描述'] if lang in ['chT', 'chS'] else ['Gallery ID', 'Gallery Name','Gallery Desc']
     rows = [[e[0], e[1], gmd[id_list.index(e[0]+'_INFO')][1]] for e in gmd if 'EVC' in e[0] and not e[0].endswith('INFO')]
     
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
 
     return rows
+
+
+# In[16]:
 
 
 def read_Item(lang='eng', path='chunk/', out='Item_', filename='item_'):
@@ -284,7 +383,7 @@ def read_Item(lang='eng', path='chunk/', out='Item_', filename='item_'):
         item_rare,
         info_list[1::2]))
     
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
@@ -292,9 +391,12 @@ def read_Item(lang='eng', path='chunk/', out='Item_', filename='item_'):
     return rows
 
 
+# In[44]:
+
+
 def read_Jewel(lang='eng', path='chunk/', out='Jewel_', filename='item_'):
     out = out + lang + '.tsv'
-    item_data = read_Item(lang, path)
+    item_data = read_Item(lang, path, 'temp')
     if not item_data:
         return
     
@@ -314,13 +416,16 @@ def read_Jewel(lang='eng', path='chunk/', out='Jewel_', filename='item_'):
             skill2_lv = read_uint32(jewelData)
             rows.append([jewel_id, item_id, item_data[item_id][1], size])
 
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
 
     return rows
     
+
+
+# In[18]:
 
 
 def read_lDelivery(lang='eng', path='chunk/', out='Delivery_', filename='l_delivery_'):
@@ -334,12 +439,15 @@ def read_lDelivery(lang='eng', path='chunk/', out='Delivery_', filename='l_deliv
     fields = ['交货委托ID','交货委托名称','交货委托回报'] if lang in ['chT', 'chS'] else ['Delivery ID', 'Delivery Name', 'Delivery Reward']
     rows = list(zip(range(len(info_list)),info_list[0::5],info_list[4::5]))
     
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
 
     return rows
+
+
+# In[19]:
 
 
 def read_lMission(lang='eng', path='chunk/', out='Mission_', filename='l_mission_'):
@@ -353,12 +461,15 @@ def read_lMission(lang='eng', path='chunk/', out='Mission_', filename='l_mission
     fields = ['奖金任务ID','奖金任务名称','奖金任务目标'] if lang in ['chT', 'chS'] else ['Mission ID', 'Mission Name','Mission Desc']
     rows = list(zip(range(len(info_list)),info_list[0::2],remove_style(info_list[1::2])))
     
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
 
     return rows
+
+
+# In[20]:
 
 
 def read_Medal(lang='eng', path='chunk/', out='Achievement_', filename='cm_medal_'):
@@ -378,12 +489,15 @@ def read_Medal(lang='eng', path='chunk/', out='Achievement_', filename='cm_medal
         [e[1] for e in gmd[1::3]],
     ))
     
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
 
     return rows
+
+
+# In[21]:
 
 
 def read_Monster(lang='eng', path='chunk/', out='Monster_', filename='em_names_'):
@@ -398,12 +512,15 @@ def read_Monster(lang='eng', path='chunk/', out='Monster_', filename='em_names_'
     fields = ['怪物ID','怪物代码','怪物名称'] if lang in ['chT', 'chS'] else ['Monster ID', 'Monster Code', 'Monster Name']
     rows = [[e[0], e[1][0], e[1][1]] for e in list(zip(list(range(len(gmd)//2)),gmd[0::2]))]
     
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
 
     return rows
+
+
+# In[22]:
 
 
 def read_Music(lang='eng', path='chunk/', out='Music_', filename='music_skill_'):
@@ -417,13 +534,16 @@ def read_Music(lang='eng', path='chunk/', out='Music_', filename='music_skill_')
     fields = ['音乐代码','音乐等级','音乐技能'] if lang in ['chT', 'chS'] else ['Music Code', 'Music Level','Music Name']
     rows = [[e[0], 0 if e[0].endswith('_S') else 1 if e[0].endswith('_W') else '-',e[1]] for e in gmd]
     
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
 
     return rows
     
+
+
+# In[23]:
 
 
 def read_OtArmor(lang='eng', path='chunk/', out='OtArmor_', filename='ot_armor_'):
@@ -456,13 +576,16 @@ def read_OtArmor(lang='eng', path='chunk/', out='OtArmor_', filename='ot_armor_'
             
             rows.append([armor_type, part_name[armor_type], armor_id, gmd[name_id][1], 'otomo/equip/ot%03d/%s' % (file_id,part_path[armor_type])])
 
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
 
     return rows
     
+
+
+# In[24]:
 
 
 def read_OtWeapon(lang='eng', path='chunk/', out='OtWeapon_', filename='ot_weapon_'):
@@ -496,12 +619,54 @@ def read_OtWeapon(lang='eng', path='chunk/', out='OtWeapon_', filename='ot_weapo
             
             rows.append([weapon_id, gmd[name_id][1], 'otomo/wp/ot_we%03d' % file_id])
     
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
 
     return rows
+
+
+# In[39]:
+
+
+def read_Pendant(lang='eng', path='chunk/', out='Pendant_', filename='charm_'):
+    out = out + lang + '.tsv'
+    filename = filename + lang + '.gmd'
+    if not filename:
+        return
+        
+    fields = ['吊坠ID','吊坠代码','吊坠名称','模型地址'] if lang in ['chT', 'chS'] else ['Pendant ID','Pendant Code','Pendant Name','Model']
+    rows = []
+        
+    with open(find_file('charm.ch_dat', path),'rb') as charm:
+        charm.read(6)
+        cnt = read_uint32(charm)
+        
+        id_list = info_list = None
+        for root, dirs, files in os.walk(path):
+            if filename in files:
+                p = root+'/'+filename
+                id_list, info_list = read_gmd(p)
+                if (len(id_list) > cnt):
+                    break
+        
+        for i in range(cnt):
+            index = read_uint32(charm)
+            charm.read(2)
+            file_id = ord(charm.read(1))
+            charm.read(20)
+            
+            rows.append([index, id_list[i], info_list[i], 'charm%03d' % file_id])
+
+    with open(out, 'w') as csvfile:
+        csvwriter = csv.writer(csvfile, delimiter='\t')
+        csvwriter.writerow(fields)
+        csvwriter.writerows(rows)
+    
+
+
+# In[26]:
 
 
 def read_Pugee(lang='eng', path='chunk/', out='Pugee_', filename='cm_pugee_'):
@@ -515,13 +680,16 @@ def read_Pugee(lang='eng', path='chunk/', out='Pugee_', filename='cm_pugee_'):
     fields = ['小猪服装ID','小猪服装名'] if lang in ['chT', 'chS'] else ['Pugee Cloth ID', 'Pugee Cloth Name']
     rows = [[e[0].replace('PUGEE_CLOTH_NAME_', ''),e[1]] for e in gmd if 'PUGEE_CLOTH_NAME_' in e[0]]
     
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
 
     return rows
     
+
+
+# In[27]:
 
 
 def read_Quests(lang='eng', path='chunk/', out='Quests_', filename='q'):
@@ -537,13 +705,16 @@ def read_Quests(lang='eng', path='chunk/', out='Quests_', filename='q'):
     fields = ['任务ID','任务名称','任务目标','任务失败条件'] if lang in ['chT', 'chS'] else ['Quest ID','Quest Name','Quest Target','Fail Condition']
     rows = [[quest[0]]+read_gmd(quest[1])[1][:3] for quest in quest_list]
     
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
 
     return rows
     
+
+
+# In[28]:
 
 
 def read_Skill(lang='eng', path='chunk/', out='Skill_', filename='skill_pt_'):
@@ -562,13 +733,16 @@ def read_Skill(lang='eng', path='chunk/', out='Skill_', filename='skill_pt_'):
         remove_style(info_list[2::3]),
     ))
     
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
 
     return rows
     
+
+
+# In[29]:
 
 
 def read_Stage(lang='eng', path='chunk/', out='Stage_', filename='other_names_'):
@@ -577,19 +751,21 @@ def read_Stage(lang='eng', path='chunk/', out='Stage_', filename='other_names_')
     if not filename:
         return
     
-    id_list, info_list = read_gmd(filename)
-    gmd = list(zip(id_list, info_list))
+    gmd = list(zip(*read_gmd(filename)))
         
     fields = ['场景ID','场景名称'] if lang in ['chT', 'chS'] else ['Stage ID','Stage Name']
     rows = [[e[0].replace('_NAME', ''), e[1]] for e in gmd if '_NAME' in e[0]]
     
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
     
     return rows
     
+
+
+# In[30]:
 
 
 def read_Weapon(lang='eng', path='chunk/', out='Weapon_', filename=''):
@@ -648,7 +824,7 @@ def read_Weapon(lang='eng', path='chunk/', out='Weapon_', filename=''):
                              'wp/%s/parts/op_%s%03d' % (weapon_path[wp_type_id],weapon_path[wp_type_id],comb_model_sub) if comb_model_sub < 65535 else ''
                             ])
     
-    with open(out, 'w', newline='',encoding='utf-8') as csvfile:
+    with open(out, 'w') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter='\t')
         csvwriter.writerow(fields)
         csvwriter.writerows(rows)
@@ -656,7 +832,96 @@ def read_Weapon(lang='eng', path='chunk/', out='Weapon_', filename=''):
     return rows
 
 
-# print('MHW 数据一键生成表格 V1.0 - 冰块\n')
+# In[31]:
+
+
+def read_Insect(lang='eng', path='chunk/', out='Insect_', filename='rod_insect_'):
+    out = out + lang + '.tsv'
+    filename = find_file(filename + lang + '.gmd', path)
+    if not filename:
+        return
+        
+    id_list, info_list = read_gmd(filename)
+        
+    fields = ['猎虫ID','猎虫代码','猎虫名称','模型地址'] if lang in ['chT', 'chS'] else ['Insect ID','Insect Code','Insect Name','Model']
+    rows = []
+    
+    encrypt = find_file('rod_insect.rod_inse', path)
+    with open(encrypt,'rb') as en, open(encrypt+'_d', 'wb') as de:
+        cipher = blowfish.Cipher(b'SFghFQVFJycHnypExurPwut98ZZq1cwvm7lpDpASeP4biRhstQgULzlb',byte_order = 'little')
+        de.write(b''.join(cipher.decrypt_ecb_cts(en.read())))
+        
+    with open(find_file('rod_insect.rod_inse_d', path),'rb') as insect:
+        insect.read(6)
+        cnt = read_uint32(insect)
+        for i in range(cnt):
+            index = read_uint32(insect)
+            insect.read(3)
+            file_id = ord(insect.read(1))
+            insect.read(20)
+            
+            rows.append([index, id_list[i], info_list[i], 'mus%03d' % file_id])
+
+    with open(out, 'w') as csvfile:
+        csvwriter = csv.writer(csvfile, delimiter='\t')
+        csvwriter.writerow(fields)
+        csvwriter.writerows(rows)
+    
+
+
+# In[ ]:
+
+
+
+
+lang = 'eng'
+path = 'chunk/'
+read_list = [
+    [ read_Askill, '特殊装备'],
+    [ read_Animal, '环境生物'],
+    [ read_Armor, '防具'],
+    [ read_ArmorSer, '防具系列'],
+    [ read_catSkill, '猫饭'],
+    [ read_Food, '食材'],
+    [ read_Gallery, '画廊'],
+    [ read_Item, '物品'],
+    [ read_Jewel, '装饰珠'],
+    [ read_lDelivery, '交货任务'],
+    [ read_lMission, '登录奖金'],
+    [ read_Medal, '成就'],
+    [ read_Monster, '怪物'],
+    [ read_Music, '旋律'],
+    [ read_OtArmor, '猫猫防具'],
+    [ read_OtWeapon, '猫猫武器'],
+    [ read_Pendant, '吊坠'],
+    [ read_Pugee, '噗吱猪'],
+    [ read_Quests, '任务'],
+    [ read_Skill, '技能'],
+    [ read_Stage, '场景'],
+    [ read_Weapon, '武器'],
+    [ read_Insect, '猎虫'],
+]
+if lang in ['chT', 'chS']:
+    for r, out in read_list:
+        r(lang,path,out)
+else:
+    for r, out in read_list:
+        r(lang,path)
+        
+temp = 'temp'+lang+'.tsv'
+if os.path.exists(temp):
+    os.remove(temp)
+merge_all_to_a_book([e for e in glob.glob('*.tsv') if lang in e], 'MHW '+ lang +'_GMD Data.xlsx')
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
 print('MHW Data to Excel V1.0 - Ice\n')
 path = 'chunk/'
 lang = 'eng'
@@ -674,6 +939,7 @@ read_list = [
     [ read_Askill, '特殊装备'],
     [ read_Animal, '环境生物'],
     [ read_Armor, '防具'],
+    [ read_ArmorSer, '防具系列'],
     [ read_catSkill, '猫饭'],
     [ read_Food, '食材'],
     [ read_Gallery, '画廊'],
@@ -686,11 +952,13 @@ read_list = [
     [ read_Music, '旋律'],
     [ read_OtArmor, '猫猫防具'],
     [ read_OtWeapon, '猫猫武器'],
+    [ read_Pendant, '吊坠'],
     [ read_Pugee, '噗吱猪'],
     [ read_Quests, '任务'],
     [ read_Skill, '技能'],
     [ read_Stage, '场景'],
     [ read_Weapon, '武器'],
+    [ read_Insect, '猎虫'],
 ]
 
 if lang in ['chT', 'chS']:
@@ -699,13 +967,23 @@ if lang in ['chT', 'chS']:
 else:
     for r, out in read_list:
         r(lang,path)
-
+        
+temp = 'temp'+lang+'.tsv'
+if os.path.exists(temp):
+    os.remove(temp)
 merge_all_to_a_book([e for e in glob.glob('*.tsv') if lang in e], 'MHW '+ lang +'_GMD Data.xlsx')
 
 print('\nMHW '+ lang +'_GMD Data.xlsx Generated!\n')
 
 
-# re.sub(r'<(?:\/STYL|STYL \w+)>', '', 'LINE')
+# In[ ]:
+
+
+
+
+re.sub(r'<(?:\/STYL|STYL \w+)>', '', 'LINE')
+# In[ ]:
+
 
 
 
