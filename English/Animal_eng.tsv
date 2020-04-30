@@ -1,110 +1,110 @@
 EC ID	EC SubID	Item ID	EC Name
 0	0	-1	Unavailable
-1	0	659	繞行兔
-1	1	660	嚮導兔
-2	0	661	叢林始祖鳥
-2	1	662	始祖鳥的使者
-3	0	663	鈷閃蝶
-3	1	664	幽閃蝶
-4	0	665	淚之龜殼攀鱸
-5	0	666	森林蜥蜴
-5	1	667	蟻窩蜥蜴
-5	2	668	黑暗蜥蜴
-5	3	669	月光蜥蜴
-6	0	670	霞霧女郎
-6	1	671	斯卡班傑拉
-7	0	672	憎恨鳥
-7	1	673	桃源鄉
-7	2	1792	哨冰鸟
-8	0	674	預兆蜻蜓
-8	1	675	吉兆蜻蜓
-9	0	676	鱗片打擊手
-9	1	945	金色的鱗片打擊手
-10	0	677	糞金龜
-10	1	678	爆彈甲蟲
-10	2	1793	雪球虫
-11	0	679	粉色異形魚
-11	1	680	上等粉色異形魚
-12	0	681	破裂龍魚
-12	1	682	爆裂龍魚
-12	2	683	上等破裂龍魚
-12	3	684	上等爆裂龍魚
-13	0	685	雅緻珊瑚鳥
-13	1	686	伶俐珊瑚鳥
-14	0	687	行燈魚
-15	0	688	柔毛秧雞
-15	1	689	粗毛秧雞
-16	0	690	蛇麻古比魚
-17	0	691	化石湯釜
-18	0	692	麻痺瓦斯蛙
-18	1	693	睡眠瓦斯蛙
-18	2	694	爆炸瓦斯蛙
-19	0	695	搖曳鰻
-19	1	696	搖曳鰻女王
-20	0	697	回復蜜蟲
-20	1	698	大回復蜜蟲
-21	0	699	飛天烏帽
-22	0	700	搬運蟻
-23	0	701	大獨角仙
-23	1	702	金色獨角仙
-23	2	703	虹色大獨角仙
-24	0	704	皇帝蚱蜢
-24	1	705	暴君蚱蜢
-25	0	706	閃光翅蟲
+1	0	659	Shepherd Hare
+1	1	660	Pilot Hare
+2	0	661	Woodland Pteryx
+2	1	662	Forest Pteryx
+3	0	663	Cobalt Flutterfly
+3	1	664	Phantom Flutterfly
+4	0	665	Climbing Joyperch
+5	0	666	Forest Gekko
+5	1	667	Wildspire Gekko
+5	2	668	Gloom Gekko
+5	3	669	Moonlight Gekko
+6	0	670	Vaporonid
+6	1	671	Scavantula
+7	0	672	Revolture
+7	1	673	Blissbill
+7	2	1792	Stonebill
+8	0	674	Omenfly
+8	1	675	Augurfly
+9	0	676	Scalebat
+9	1	945	Gold Scalebat
+10	0	677	Dung Beetle
+10	1	678	Bomb Beetle
+10	2	1793	Rime Beetle
+11	0	679	Pink Parexus
+11	1	680	Great Pink Parexus
+12	0	681	Burst Arowana
+12	1	682	Bomb Arowana
+12	2	683	Great Burst Arowana
+12	3	684	Great Bomb Arowana
+13	0	685	Elegant Coralbird
+13	1	686	Dapper Coralbird
+14	0	687	Andangler
+15	0	688	Downy Crake
+15	1	689	Bristly Crake
+16	0	690	Hopguppy
+17	0	691	Petricanths
+18	0	692	Paratoad
+18	1	693	Sleeptoad
+18	2	694	Nitrotoad
+19	0	695	Wiggler
+19	1	696	Wiggler Queen
+20	0	697	Vigorwasp
+20	1	698	Giant Vigorwasp
+21	0	699	Flying Meduso
+22	0	700	Carrier Ant
+23	0	701	Hercudrome
+23	1	702	Gold Hercudrome
+23	2	703	Prism Hercudrome
+24	0	704	Emperor Hopper
+24	1	705	Tyrant Hopper
+25	0	706	Flashfly
 26	0	-1	羽虫
 27	0	-1	ハエ
 28	0	-1	ハチ
 29	0	-1	蛍
-30	0	707	遠古鬼蝠魟
-31	0	708	鐵鱟
-31	1	709	軍團鱟
-31	2	710	綠寶石鱟
-31	3	946	金箔鱟
-31	4	947	純金鱟
+30	0	707	Grandfather Mantagrell
+31	0	708	Iron Helmcrab
+31	1	709	Soldier Helmcrab
+31	2	710	Emerald Helmcrab
+31	3	946	Gold Helmcrab
+31	4	947	Shiny Gold Helmcrab
 32	1	-1	苦蟲
 32	2	-1	光蟲
 32	3	-1	不死蟲
 32	4	-1	雷光蟲
 32	5	-1	佳餚蟲
-33	0	711	堅硬竹筴魚
-33	1	712	大堅硬竹筴魚
-34	0	713	貪吃鮪魚
-34	1	714	貪吃鮪魚王
-35	0	715	大王旗魚
-35	1	716	帝王旗魚
+33	0	711	Whetfish
+33	1	712	Great Whetfish
+34	0	713	Gastronome Tuna
+34	1	714	Great Gastronome Tuna
+35	0	715	King Marlin
+35	1	716	Great King Marlin
 36	0	-1	楔虫
-37	0	717	黃金魚
-37	1	718	白金魚
-37	2	719	大黃金魚
-37	3	720	大白金魚
-38	0	721	小金魚
-38	1	722	小金魚王
-39	0	723	刺身魚
-39	1	724	大刺身魚
-40	0	725	火藥金魚
-40	1	726	大火藥金魚
-41	0	948	銅饅頭蟹
-41	1	949	金饅頭蟹
-42	0	950	土龍
-43	0	968	幼小仙人掌
-43	1	951	仙人掌
-43	2	967	幼小仙人花
-44	0	958	孽鬼
-50	0	1455	溫泉銀猴
-50	1	1456	溫泉金猴
-51	0	1458	異形甲蟲
-52	0	1459	望月水母
-53	0	1460	胖衣企鵝
-54	0	1461	道標壁虎
-55	0	1462	小藍歌
-56	0	1463	神帶魚
-57	0	1464	玻璃異形魚
-57	1	1473	上等玻璃異形魚
-58	0	1465	月羽天母
-59	0	1466	毛吉
-59	1	1467	青苔毛吉
-59	2	1468	掘土毛吉
-59	3	1469	茸茸毛吉
-59	4	1470	刺針毛吉
-59	5	1471	火爆毛吉
-59	6	1472	白絲毛吉
+37	0	717	Goldenfish
+37	1	718	Platinumfish
+37	2	719	Great Goldenfish
+37	3	720	Great Platinumfish
+38	0	721	Goldenfry
+38	1	722	Great Goldenfry
+39	0	723	Sushifish
+39	1	724	Great Sushifish
+40	0	725	Gunpowderfish
+40	1	726	Great Gunpowderfish
+41	0	948	Copper Calappa
+41	1	949	Gold Calappa
+42	0	950	Tsuchinoko
+43	0	968	Cactuar
+43	1	951	Cactuar Cutting
+43	2	967	Flowering Cactuar Cutting
+44	0	958	Nekker
+50	0	1455	Pearlspring Macaque
+50	1	1456	Goldspring Macaque
+51	0	1458	Crowned Prawn
+52	0	1459	Moon Slug
+53	0	1460	Duffel Penguin
+54	0	1461	Arrowhead Gekko
+55	0	1462	Blue Diva
+56	0	1463	Sealord's Crestfish
+57	0	1464	Glass Parexus
+57	1	1473	Great Glass Parexus
+58	0	1465	Wintermoon Nettle
+59	0	1466	Moly
+59	1	1467	Mossy Moly
+59	2	1468	Rocky Moly
+59	3	1469	Fluffy Moly
+59	4	1470	Spiny Moly
+59	5	1471	Rowdy Moly
+59	6	1472	Frosty Moly
