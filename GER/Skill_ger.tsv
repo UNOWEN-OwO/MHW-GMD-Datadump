@@ -1,0 +1,225 @@
+Skill ID	Skill Code	Skill Name	Skill Desc
+0	DUMMY000000	Unavailable	Unavailable
+1	G_PT_POISON_RESIST_SKILL_PT	Giftwiderstand	Verringert den Schaden beiVergiftungen.
+2	PT_PARALYSIS_RESIST_SKILL_PT	Lähmungswiderstand	Reduziert die Dauer von Lähmungen.
+3	PT_SLEEP_RESIST_SKILL_PT	Schlafwiderstand	Verringert die Dauer von Schlaf.
+4	PT_STUN_RESIST_SKILL_PT	Betäubungswiderst.	Reduziert die Dauer vonBetäubungen.
+5	PT_DARUMA_RESIST_SKILL_PT	Mist-Widerstand	Reduziert Bewegungseinschränkungen,wenn du in Monstermist feststeckst.
+6	PT_BOMB_RES_SKILL_PT	Explosionswiderstand	Gewährt Schutz gegen Explosionspest.
+7	PT_PT_SCAR_RES_SKILL_PT	Blutungswiderstand	Gewährt Schutz gegen Blutungen.
+8	PT_DEFDOWN_RESIST_SKILL_PT	Eisenhaut	Gewährt Schutz gegen VerringerteVerteidigung.
+9	DUMMY000003	Unavailable	Unavailable
+10	DUMMY000006	Unavailable	Unavailable
+11	PT_EARPLUG_SKILL_PT	Ohrstöpsel	Gewährt Schutz gegen das Brüllengroßer Monster. 
+12	PT_HUUATU_SKILL_PT	Windsicher	Gewährt Schutz gegen Winddruck.
+13	PT_EATHQUAKE_RESIST_SKILL_PT	Erschütterungswidst.	Gewährt Schutz gegen Erschütterungen.
+14	PT_UNKO_SKILL_PT	Dungmeister	Monster, die per Schleuder von einerDungkapsel getroffen werden, rennenmit einer höheren Wahrscheinlichkeit weg.
+15	DUMMY000009	Unavailable	Unavailable
+16	PT_MIASMA_ADAPT_SKILL_PT	Miasmaexperte	Negiert oder reduziert Umgebungs-schaden im Tal der Verwesung.
+17	PT_ADAPT_SKILL_PT	Hitzeschutz	Negiert Hitzeschaden.
+18	DUMMY000012	Unavailable	Unavailable
+19	PT_ATK_SKILL_PT	Angriffsboost	Verbessert den Angriff – und beihöheren Stufen zusätzlich dieAffinität. 
+20	PT_DEF_SKILL_PT	Verteidigungsboost	Verbessert die Verteidigung. Erhöhedie Stufe, um auch die Widerständezu verbessern. 
+21	PT_VIT_SKILL_PT	Gesundheitsboost	Verbessert deine Gesundheit.
+22	PT_HEEL_SKILL_PT	Erholung hoch	Erhöht die Menge der wiederher-gestellten Gesundheit. 
+23	PT_HEEL_SPEED_SKILL_PT	Erholungsgeschwindigk.	Erlaubt die schnellere Heilung vonerholbarem Schaden (der roteAbschnitt des Gesundheitsbalkens).
+24	PT_FIRE_RESIST_SKILL_PT	Feuerwiderstand	Erhöht den Feuerwiderstand –und bei höheren Stufen zusätzlichdie Verteidigung.
+25	PT_WATER_RESIST_SKILL_PT	Wasserwiderstand	Erhöht den Wasserwiderstand.Auf höheren Stufen wird auchdie Verteidigung verbessert.
+26	PT_ICE_RESIST_SKILL_PT	Eiswiderstand	Erhöht den Eiswiderstand.Erhöhe die Stufe, um auch dieVerteidigung zu verbessern.
+27	PT_THUNDER_RESIST_SKILL_PT	Donnerwiderstand	Erhöht den Donnerwiderstand.Auf höheren Stufen wird auchdie Verteidigung verbessert.
+28	PT_DRAGON_RESIST_SKILL_PT	Drachenwiderstand	Erhöht den Drachenwiderstand –und bei höheren Stufen zusätzlichdie Verteidigung. 
+29	PT_ATT_RESIST_SKILL_PT	Pestwiderstand	Gewährt Schutz gegen alleelementbasierten Pestarten.
+30	PT_FIRE_ATK_SKILL_PT	Feuerangriff	Verbessert die Kraft von Feuerelement-Angriffen. Die Elementangriffskraft hateine Obergrenze.
+31	PT_WATER_ATK_SKILL_PT	Wasserangriff	Verbessert die Kraft von Wasserelement-Angriffen. Die Elementangriffskraft hateine Obergrenze.
+32	PT_ICE_ATK_SKILL_PT	Eisangriff	Verbessert die Kraft von Eiselement-Angriffen. Die Elementangriffskraft hateine Obergrenze.
+33	PT_THUNDER_ATK_SKILL_PT	Donnerangriff	Verbessert die Kraft von Donnerelement-Angriffen. Die Elementangriffskraft hateine Obergrenze.
+34	PT_DRAGON_ATK_SKILL_PT	Drachenangriff	Verbessert die Kraft von Drachenelement-Angriffen. Die Elementangriffskraft hateine Obergrenze.
+35	PT_POISON_ATK_SKILL_PT	Giftangriff	Erhöht die Rate der Gift-Ansammlung.Die Elementansammlung hat eineObergrenze.
+36	PT_PARALYSIS_ATK_SKILL_PT	Lähmungsangriff	Erhöht die Rate der Lähmung-Ansammlung.Die Elementansammlung hat eineObergrenze.
+37	PT_SLEEP_ATK_SKILL_PT	Schlafangriff	Erhöht die Rate der Schlaf-Ansammlung.Die Elementansammlung hat eineObergrenze.
+38	PT_BLAST_ATK_SKILL_PT	Explosionsangriff	Erhöht die Rate der Explosion-Ansammlung.Die Elementansammlung hat eineObergrenze.
+39	PT_NORMAL_UP_SKILL_PT	Standardboost	Erhöht die Angriffskraftvon Standardmunitionund Standardpfeilen.
+40	PT_PIERCE_UP_SKILL_PT	Perforierboost	Erhöht die Angriffskraftvon Perforiermunitionund Drachentöter.
+41	PT_SPREAD_UP_G_SKILL_PT	Schrot/Kraftschuss	Erhöht die Angriffskraft von Schrot-munition, Kraftschuss-Pfeilenund Tausend Drachen.
+42	PT_ADD_POISONBIN_SKILL_PT	Giftbeschichtung	Ermöglicht das Auftragen vonGiftbeschichtungen.
+43	PT_ADD_PARALYSISBIN_SKILL_PT	Lähmungsbeschicht.	Ermöglicht das Auftragen vonLähmungsbeschichtungen.
+44	PT_ADD_SLEEPBIN_SKILL_PT	Schlafbeschichtung	Ermöglicht das Auftragen vonSchlafbeschichtungen.
+45	DUMMY000015	Unavailable	Unavailable
+46	PT_ADD_BOMBBIN_SKILL_PT	Explosionsbeschicht.	Ermöglicht das Auftragen vonExplosionsbeschichtungen.
+47	PT_AWAKE_SKILL_PT	Superwaffe	Schaltet das Verborgene Element deiner Waffefrei und erhöht die Ladekapazität des Bogen-gewehrs. (Die Ladekapazität hat ein Limit.)
+48	PT_CRI_SKILL_PT	Kritischer Blick	Erhöht die Affinität.
+49	PT_SUPER_CRI_SKILL_PT	Kritischer Boost	Erhöht den Schaden durchkritische Treffer.
+50	PT_WEAK_ATK_SKILL_PT	Schwächevorteil	Erhöht die Affinität von Angriffen,die den Schwachpunkt einesMonsters ausnutzen.
+51	DUMMY000018	Unavailable	Unavailable
+52	PT_CONCENTRATION_SKILL_PT	Fokus	Erhöht das Fülltempo von Waffen mitBalken und die Ladegeschwindigkeit vonWaffen mit aufgeladenen Angriffen.
+53	PT_KEEP_SKILL_PT	Kraftverlängerung	Langschwerter, Doppelklingen, Insekten-glefen, Morph-Äxte und Energieklingenbleiben länger verstärkt.
+54	PT_TAKUMI_SKILL_PT	Handwerk	Erweitert den Waffenschärfebalken,allerdings nicht bis jenseits desMaximums.
+55	PT_BATTO_WAZA_SKILL_PT	Kritisches Ziehen	Erhöht die Affinität beimAusführen von Zug-Angriffen.
+56	PT_CRUSH_SKILL_PT	Teilezerstörer	Erleichtert das Brechen oderAbtrennen von Teilen großerMonster.
+57	PT_KO_SKILL_PT	Lähmer	Erleichtert das Betäuben von Monstern.
+58	PT_STAMINA_DMG_SKILL_PT	Ausdauerdieb	Erhöht die Fähigkeit bestimmterAngriffe, Monster zu ermüden.
+59	PT_NORI_SKILL_PT	Rittmeister	Erleichtert das Aufsteigen aufMonster.
+60	PT_HIEN_SKILL_PT	Luftherrschaft	Erhöht den Schaden durchgesprungene Angriffe.
+61	PT_POWER_AWAKE_SKILL_PT	Latente Kraft	Erhöht vorübergehend die Affinität undverringert den Ausdauerverbrauchunter bestimmten Bedingungen.
+62	PT_CHALLENGER_SKILL_PT	Aufhetzer	Erhöht Angriffskraft und Affinität,wenn große Monster wütend werden.
+63	PT_FULL_CHARGE_SKILL_PT	Höchstleistung	Verbessert den Angriff, wenn deinGesundheitsbalken gefüllt ist.
+64	PT_KAZIBA_SKILL_PT	Heldentat	Erhöht die Angriffskraft und dieVerteidigung, wenn deine Gesundheitbei 35% oder weniger ist.
+65	PT_HUKUTU_G_SKILL_PT	Kräftigen	Erhöht bis zu zweimal deine Verteidigung unddeinen Angriff, wenn du in Ohnmacht fällst.
+66	PT_SAKAURAMI_SKILL_PT	Groll	Erhöht den Angriff, wenn du erhol-baren Schaden erlitten hast (der roteAbschnitt des Gesundheitsbalkens).
+67	PT_KATSU_SKILL_PT	Wiederbelebung	Verbessert Ausweichen undreduziert den Ausdauerverbrauchbei anomalen Statuseffekten.
+68	PT_HUE_SKILL_PT	Horn-Maestro	Verlängert die Effektdauervon Jagdhornmelodien. 
+69	PT_LOAD_UP_SKILL_PT	Kapazitätsboost	Erhöht die Munitionskapazität derGewehrlanze und die Phiolenkapazitätder Energieklinge.
+70	PT_EXBULLET_UP_G_SKILL_PT	Spezialmunitionboost	Verstärkt die Spezialmunitionvon Bogengewehren sowie denDrachentöter und Tausend Drachen.
+71	PT_CANNON_SKILL_PT	Artillerie	Verstärkt Explosivangriffe: Wyvernfeuer,Patronen der Gewehrlanze, Detonation-Munitionund Phiolenangriffe der Energieklinge.
+72	PT_GUNNER_SKILL_PT	Schwere Artillerie	Verbessert die Feuerkraftvon Ballisten und Kanonen.
+73	PT_RUNNER_SKILL_PT	Marathon-Läufer	Verlangsamt den Ausdauerverbrauchvon Aktionen, die andauernd Aus-dauer erschöpfen (etwa Sprinten).
+74	PT_GYM_SKILL_PT	Konstitution	Verringert den Ausdauer-verbrauch beim Ausweichenund ähnlichen Aktionen.
+75	PT_JUMP_SKILL_PT	Schicksalssprung	Erlaubt es dir, großen Monstern perlangem Hechtsprung auszuweichen,indem du auf sie zuspringst.
+76	PT_STAMINA_SPEED_SKILL_PT	Ausdauererholung	Beschleunigt die Ausdauerregeneration.
+77	G_PT_HUNGER_SKILL_PT	Hungerwiderstand	Reduziert die Abnahme der maximalenAusdauer. Wirkt nicht gegen kalteUmgebungen, die Ausdauer verringern.
+78	PT_AVOID_UP_SKILL_PT	Unverwundbarkeit	Du bist beim Ausweichen längerunverwundbar. 
+79	PT_AVOID_DISTANCE_SKILL_PT	Ausweichdistanz	Erhöht die Ausweichdistanz. 
+80	PT_GUARD_UP_SKILL_PT	Blocken	Reduziert Rückwürfe und denAusdauerverbrauch beim Blocken.
+81	PT_NOUTOU_SPEED_SKILL_PT	SchnellesWegstecken	Beschleunigt das Wegstecken von Waffen.
+82	PT_WIDE_SKILL_PT	Wirkbereich	Teilt einige Objekteffekte mitbenachbarten Verbündeten. 
+83	PT__ITEM_UP_SKILL_PT	Objektverlängerung	Verlängert die Dauer einigerObjekteffekte.
+84	PT_MANZOK_SKILL_PT	Freie Mahlzeit	Nahrungsmittel können mit einerbestimmten Wahrscheinlichkeitkostenlos verzehrt werden.
+85	PT_HAYAGUI_SKILL_PT	Schnellessen	Beschleunigt den Verzehr von Fleischund den Verbrauch von Objekten.
+86	PT_TOISI_SPEED_SKILL_PT	Schnelles Schärfen	Beschleunigt das Schärfen von Waffenbei der Verwendung eines Wetzsteins.
+87	DUMMY000021	Unavailable	Unavailable
+88	PT_BOMBER_SKILL_PT	Bombardier	Erhöht den Schaden durchexplosive Objekte.
+89	DUMMY000024	Unavailable	Unavailable
+90	PT_KINOKO_LOVER_SKILL_PT	Mykologie	Erlaubt die Verdauung von Pilzen, diesonst ungenießbar wären, wodurch duderen Bonuseffekte erhältst.
+91	PT_FISHING_SKILL_PT	Meisterfischer	Verbessert dein Angelgeschick.
+92	PT_STEAK_SKILL_PT	Grillspießmeister	Verbessert deine Fähigkeit,Fleisch zuzubereiten.
+93	PT_TRANSPORTER_SKILL_PT	Profikurier	Du bist beim Transportieren vonObjekten schneller und lässt sieseltener fallen.
+94	PT_SAISYU_SKILL_PT	Meistersammler	Beschleunigt das Sammeln undverhindert Angriffe, wenn dudabei zurückgestoßen wirst.
+95	PT_HONEY_HUNTER_SKILL_PT	Honigjäger	Erhöht die Menge an Honig, die du beimSammeln erhältst.
+96	PT_HAGI_IRON_SKILL_PT	Zerleger-Profi	Verhindert, dass du beim Zerlegendurch Angriffe zurückgeworfen wirst. 
+97	PT_BREATH_SKILL_PT	Göttlicher Segen	Verringert den von dir erlittenen Schadenmit einer bestimmten Wahrscheinlichkeit.
+98	PT_OTOMO_LEADER_SKILL_PT	Palico-Versammlung	Stärkt Palicos.
+99	PT_BOTANY_SKILL_PT	Botaniker	Erhöht die Menge an Kräutern und anderenVerbrauchsobjekten, die du sammelst.
+100	PT_GEOLOGY_SKILL_PT	Geologe	Lässt dich häufiger an einemSammelplatz sammeln.
+101	G_PT_KONSHIN_SKILL_PT	Höchstmacht	Erhöht die Affinität, solangeder Ausdauerbalken für einebestimmte Zeit voll ist.
+102	G_PT_SLING_B_PLUS_SKILL_PT	Schleuderkapazität	Erhöht die Ladekapazität für im Feld ge-sammelte Schleudermunition. Begrenzt dieMunitionsmenge für bestimmten Schüssen.
+103	PT_MIUSINAI_SKILL_PT	Tarnung	Monster verlieren dich einfacheraus den Augen.
+104	PT_NOKEZORI_SKILL_PT	Unbeeindruckt	Verhindert das Zurückwerfen sowie andereReaktionen auf geringen Schaden.
+105	PT_GUIDE_LONG_SKILL_PT	Spähkäfer-Reichweite	Erweitert die Erkennungsreichweiteder Spähkäfer.
+106	PT_SYAGAMI_SPEED_SKILL_PT	Schnellrobben	Erhöht deine Bewegungs-geschwindigkeit in der Hocke.
+107	PT_JUMP_DISTANCE_SKILL_PT	Sprungmeister	Verhindert, dass du im Sprung durchAngriffe zurückgeworfen wirst.
+108	PT_HEEL_SMOKE_G_SKILL_PT	Überlebensexperte	Erhöht die wiederhergestellte Gesundheitbeim Interagieren mit Dingen wie Sporen-bäusche und Ausdauer-Insektenlarven.
+109	PT_NAGAGUTU_G_SKILL_PT	Wasser-/Polarbeweglichkeit	Ermöglicht freiere Bewegung im Wasser.Auch Terraineffekte wie tiefer Schneeverlangsamen nicht mehr.
+110	DUMMY000027	Unavailable	Unavailable
+111	PT_CLIMBER_G_SKILL_PT	Kletterer	Verringert den Ausdauerverlust, wenn duan Wänden oder Efeu ausweichst oderdich an einem Gegner hängend bewegst.
+112	PT_FLASH_UP_SKILL_PT	Überraschungsangriff	Erhöht die Effektivität von Blitzangriffenund -objekten.
+113	DUMMY000030	Unavailable	Unavailable
+114	PT_LAB_SKILL_PT	Gelehrter	Beschleunigt den Fortschritt von For-schungsstufen und besonderen Untersu-chungen; siehe Quest-Ergebnisbildschirm.
+115	PT_MUSIHAGI_SKILL_PT	Entomologe	Die Körper kleiner Insektenmonsterwerden seltener zerstört und könnenso öfter für Materialien zerlegt werden.
+116	PT_MIST_RESIST_SKILL_PT	Miasma-Widerstand	Baut einen Widerstand gegenMiasma-Ansammlung auf.
+117	PT_SMELL_SKILL_PT	Spürhund	Erhöht das Fülltempo des Spähkäfer-balkens, wenn du Spuren und andereÜberreste von Monstern findest.
+118	PT_RARE_POP_HIT_SKILL_PT	Wildbeuterglück	Erhöht die Wahrscheinlichkeit, selteneSammelpunkte zu finden.
+119	PT_RARE_POP_LOCATE_SKILL_PT	Detektor	Zeigt seltene Sammelpunkte auf derGebietskarte.
+120	PT_MONOMOTI_SKILL_PT	Werkzeugspezialist	Reduziert die Wartezeit,bis Spezialwerkzeuge erneutbenutzt werden können.
+121	DUMMY000033	Unavailable	Unavailable
+122	PT_SLIDING_UP_SKILL_PT	Affinitätsschlittern	Schlittern steigert deine Affinitätkurzzeitig.
+123	PT_DRASEAL_UP_SKILL_PT	Ältestensiegel-Boost	Verbessert das Ältestensiegelvon Waffen und Drachenmunition.
+124	PT_4SOKU_SKILL_PT	Einschüchtern	Verringert die Wahrscheinlichkeit, dass dichkleine Monster angreifen, wenn sie dichsehen. (Kein Effekt auf bestimmte Monster.)
+125	PT_NEWZYUURYU_1_SKILL_PT	Anjanath-Macht	Unavailable
+126	PT_NEWMAIN_SKILL_PT	Nergigante-Hunger	Unavailable
+127	PT_DRAGONZOMBIE_SKILL_PT	Vaal-Hazak-Lebenskraft	Unavailable
+128	PT_REUSU_SKILL_PT	Rathalos-Macht	Unavailable
+129	PT_DIABROS_SKILL_PT	Diablos-Kraft	Unavailable
+130	PT_KIRIN_SKILL_PT	Kirin-Segen	Unavailable
+131	PT_REIA_ASHU_SKILL_PT	RosaRathianMeisterung	Unavailable
+132	PT_NEWZYUURYU_S_SKILL_PT	Anjanath-Wille	Unavailable
+133	DUMMY000044	Unavailable	Unavailable
+134	DUMMY000047	Unavailable	Unavailable
+135	PT_REUSU_S_SKILL_PT	Rathalos-Meisterung	Unavailable
+136	PT_DIABROS_S_SKILL_PT	Diablos-Meisterung	Unavailable
+137	PT_KIRIN_S_SKILL_PT	Kirin-Gefallen	Unavailable
+138	PT_GANKIN_SKILL_PT	Uragaan-Schutz	Unavailable
+139	DUMMY000054	Unavailable	Unavailable
+140	DUMMY000057	Unavailable	Unavailable
+141	DUMMY000060	Unavailable	Unavailable
+142	PT_NEWARASHI_SKILL_PT	Bazelgeuse-Schutz	Unavailable
+143	PT_TEO_SKILL_PT	Teostra-Technik	Unavailable
+144	PT_KUSHA_SKILL_PT	Kushala-Daora-Flug	Unavailable
+145	PT_MUKURO_SKILL_PT	Xeno'jiiva-Göttlichkeit	Unavailable
+146	DUMMY000067	Unavailable	Unavailable
+147	PT_KAZANRYU_SKILL_PT	ZorahMagdarosMeisterung	Unavailable
+148	DUMMY000071	Unavailable	Unavailable
+149	PT_GUILDX_SKILL_PT	Gildenführung	Unavailable
+150	PT_SEEKER_SKILL_PT	Kommissionsführung	Unavailable
+151	PT_FUFYO_SKILL_PT	Legiana-Segen	Unavailable
+152	PT_FUFYO_S_SKILL_PT	Legiana-Gefallen	Unavailable
+153	PT_ZANSO_SKILL_PT	Odogaron-Macht	Unavailable
+154	PT_ZANSO_S_SKILL_PT	Odogaron-Meisterung	Unavailable
+155	PT_ARROW_CHARGE2_SKILL_PT	Sehnenkraft	Erhöht die maximale Aufladestufedes Bogens um eins.
+156	PT_SHINGAN2_SKILL_PT	Inneres Auge/Ballistik	Verhindert das Abprallen von Angriffen.Verkürzt die Distanz, bevor Munitionund Pfeile maximale Kraft erreichen.
+157	PT_EXGUARD2_SKILL_PT	Blocken hoch	Ermöglicht die Abwehr vonnormalerweise nicht zublockenden Angriffen.
+158	PT_GOJIN2_SKILL_PT	Schutzpolitur	Die Waffenschärfe sinkt füreine bestimmte Zeit nachdem Schärfen nicht.
+159	PT_BLANK_UP2_SKILL_PT	Nicht-Element-Boost	Verstärkt ausgerüstete nicht-elementbasierte Waffen.
+160	PT_NANA_01_SKILL_PT	Stehvermögen	Verhindert, dass du von einem einzigenAngriff ohnmächtig wirst, solange dueine bestimmte Menge Gesundheit hast.
+161	PT_NANA_02_SKILL_PT	Schnelle Erholung	Regeneriert Gesundheit, solange dukontinuierlich ein Monster angreifst.Erholung hängt von der Waffe ab.
+162	PT_NANA_03_SKILL_PT	Scharfschwert/Extraschuss	Halbiert Schärfeverlust. Ermöglichtgelegentlich Schüsse ohne Munitions-oder Beschichtungsverbrauch.
+163	PT_NANA_S_SKILL_PT	Lunastra-Vorteil	Unavailable
+164	PT_FF_S_SKILL_PT	Dragoon-Kristall	Unavailable
+165	PT_MAMM1_SKILL_PT	Kritisches Element	Erhöht den Elementschaden (Feuer,Wasser, Donner, Eis, Drache) durchkritische Treffer.
+166	PT_MAMM2_SKILL_PT	Kritischer Status	Erhöht den Schaden von anomalenStatuseffekten (Lähmung, Gift, Schlaf,Explosion) durch kritische Treffer.
+167	PT_WITCHER_SKILL_PT	Hexerwissen	Unavailable
+168	PT_ANNIVERSARY_SKILL_PT	Astera-Segen	Unavailable
+169	PT_ZINOGRE_SKILL_PT	Zinogre-Essenz	Unavailable
+170	PT_TIGREX_SKILL_PT	Tigrex-Essenz	Unavailable
+171	PT_NARGACUGA_SKILL_PT	Nargacuga-Essenz	Unavailable
+172	PT_BRACCHIDIOS_SKILL_PT	Brachydios-Essenz	Unavailable
+173	PT_DINOVALDE_SKILL_PT	Glavenus-Essenz	Unavailable
+174	PT_SILVER_SKILL_PT	Silberner-Rathalos-Essenz	Unavailable
+175	PT_GOLD_SKILL_PT	Goldene-Rathian-Essenz	Unavailable
+176	PT_EARTH_SKILL_PT	Shara-Ishvalda-Göttlichkeit	Unavailable
+177	PT_NERO_SKILL_PT	Namielle-Göttlichkeit	Unavailable
+178	PT_HIVER_SKILL_PT	Velkhana-Göttlichkeit	Unavailable
+179	PT_UNDECIDED1_SKILL_PT	Uralte Göttlichkeit	Unavailable
+180	PT_UNDECIDED2_SKILL_PT	Kommissionsalchemie	Unavailable
+181	PT_UNDECIDED3_SKILL_PT	Ausbilderführung	Unavailable
+182	PT_UNDECIDED4_SKILL_PT	Anjanath-Dominanz	Unavailable
+183	PT_UNDECIDED5_SKILL_PT	Rathian-Essenz	Unavailable
+184	PT_GUST_SKILL_PT	Provozierer	Erhöht die beim Angreifen einesMonsters erweckte Aufmerksamkeit.
+185	PT_KNIGHT_SKILL_PT	Offensive Abwehr	Erhöht nach dem Ausführeneiner perfekt getimten Abwehrvorübergehend die Angriffskraft.
+186	PT_DISASTER_SKILL_PT	Verschmelzung	Verbessert nach der Erholungvon Pest und anomalen Status-Effekten vorübergehend Angriffe.
+187	PT_EXDODGE_SKILL_PT	Sichere Landung	Verkürzt die Erholungszeit von schwerenAngriffen, durch die du zurückgerworfenwurdest, wenn deine Waffe gezogen ist.
+188	PT_EX06_SKILL_PT	Geheime Barioth-Kunst	Unavailable
+189	PT_EX07_SKILL_PT	Rathalos-Essenz	Unavailable
+190	PT_EX08_SKILL_PT	Diablos-Ehrgeiz	Unavailable
+191	PT_EX09_SKILL_PT	Legiana-Ehrgeiz	Unavailable
+192	PT_EX10_SKILL_PT	Odogaron-Essenz	Unavailable
+193	PT_EX11_SKILL_PT	Uragaan-Ehrgeiz	Unavailable
+194	PT_EX12_SKILL_PT	Bazelgeuse-Ehrgeiz	Unavailable
+195	PT_EX13_SKILL_PT	Dämonjho-Essenz	Unavailable
+196	PT_EX14_SKILL_PT	Vaal-Seelenader	Unavailable
+197	DUMMY000108	Unavailable	Unavailable
+198	DUMMY000111	Unavailable	Unavailable
+199	PT_EX17_SKILL_PT	Kirin-Göttlichkeit	Unavailable
+200	PT_EX18_SKILL_PT	Gildenstolz	Unavailable
+201	PT_EX19_SKILL_PT	Zorah-Magdaros-Essenz	Unavailable
+202	PT_EX20_SKILL_PT	Lunastra-Essenz	Unavailable
+203	PT_EX21_SKILL_PT	Nergigante-Ehrgeiz	Unavailable
+204	DUMMY000119	Unavailable	Unavailable
+205	PT_DONKI_SKILL_PT	Prügler	Erhöht Angriff bei Schärfeverlust.Verstärkt Nahkampfangriffe von Distanz-waffen und die Chance, Ziele zu betäuben.
+206	PT_STAMINA_PINCH_SKILL_PT	Adrenalin	Reduziert die Ausdauerabnahmevorübergehend, wenn die Gesund-heit bei 40% oder weniger liegt.
+207	PT_COLD_RES_SKILL_PT	Kälteschutz	Negiert die Wirkung vonkaltem Wetter.
+208	PT_EX22_SKILL_PT	Rajangs Rage	Unavailable
+209	PT_HORIZON_SKILL_PT	Energiezelle	Unavailable
+210	PT_RE_SKILL_PT	Überlebender	Unavailable
+211	PT_MUFET_SKILL_PT	Safi'jiiva-Siegel	Unavailable
+212	PT_WINTER_SKILL_PT	Lunar-Dankbarkeit	Unavailable
+213	PT_ANNIVERSARY_S_SKILL_PT	Astral-Dankbarkeit	Unavailable
+214	PT_SPRING_SKILL_PT	Flor-Segen	Unavailable
+215	DUMMY000129	Unavailable	Unavailable
+216	DUMMY000132	Unavailable	Unavailable
+217	PT_EX23_SKILL_PT	Rajang-Wille	Unavailable
+218	PT_EX24_SKILL_PT	Brachydios-Wille	Unavailable
+219	PT_EX25_SKILL_PT	Kulve-Taroth-Essenz	Unavailable
+220	DUMMY000138	Unavailable	Unavailable
+221	DUMMY000141	Unavailable	Unavailable
+222	DUMMY000144	Unavailable	Unavailable
+223	DUMMY000147	Unavailable	Unavailable

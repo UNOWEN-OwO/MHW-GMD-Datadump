@@ -1,0 +1,21 @@
+Askill ID	Askill Code	Askill Name	Askill Upgrade Name	Askill Desc
+0	ASkill001	Manto de Camuflagem	Manto de Camuflagem+	Oculta você temporariamenteda visão inimiga. O efeito acabase você atacar ou receber dano.
+1	ASkill002	Manto Temporal	Manto Temporal+	Anula dano de ataques poderososesquivando automaticamente.
+2	ASkill003	Reforço de Vida	Reforço de Vida+	Aplica uma cortina de fumaça querecupera aos poucos sua vida.
+3	ASkill004	Manto Rochafirme	Manto Rochafirme+	Elimina reações a dano, previneefeitos de vento, protegesua audição e dá resistênciaa tremor. Você também recebemenos dano de ataques.
+4	ASkill005	Manto do Desafiante	Manto do Desafiante+	Faz monstros atacarem com maisfrequência e os atrai com maisfacilidade. O efeito acabaao receber um ataque.
+5	ASkill006	Manto da Vitalidade	Manto da Vitalidade+	Anula uma quantia fixa de dano.Depois disso, o efeito acaba.
+6	ASkill007	Manto Antifogo	Manto Antifogo+	Reduz dano por fogo, anulaflagelo de fogo e explosão,e impede dano causado porambientes quentes.
+7	ASkill008	Manto Antiágua	Manto Antiágua+	Reduz dano de água, anulaflagelo de água, diminuirestrições de mobilidade emmuco e as anula completamenteem águas profundas.
+8	ASkill009	Manto Antigelo	Manto Antigelo+	Reduz dano por gelo e anulaflagelo de gelo.
+9	ASkill010	Manto Antirraio	Manto Antirraio+	Reduz dano por raio e anulaflagelo de raio e paralisia.
+10	ASkill011	Manto Antidragão	Manto Antidragão+	Reduz dano de dragão, anulaflagelo de dragão e fortaleceos atributos de dragão da arma.
+11	ASkill012	Reforço de Limpeza	Reforço de Limpeza+	Aplica uma cortina de fumaça queremove efeitos de status anormale flagelos de elemento.
+14	ASkill015	Manto Planador	Manto Planador+	Aumenta a duração do salto epermite planar em ventos fortes.Facilita montar em monstros.
+15	ASkill016	Manto de Evasão	Manto de Evasão+	Aumenta a invulnerabilidade naevasão e reforça temporariamenteo ataque ao evadir-se do ataquede monstros no último momento.
+16	ASkill017	Manto de Impacto	Manto de Impacto+	Adiciona um efeito atordoanteà maioria dos ataques ou aumentaa potência de umefeito de atordoamento.
+17	ASkill018	Manto de Boticário	Manto de Boticário+	Aumenta a probabilidade deacumular status ao atacarcom armas que induzemstatus anormais.
+18	ASkill019	Manto de Imunidade	Manto de Imunidade+	Remove e anula efeitosde status anormaisenquanto durar o efeito.
+19	ASkill020	Reforço de Afinidade	Reforço de Afinidade+	Aplica uma cortina de fumaçaque aumenta a afinidade.
+20	ASkill021	Manto de Bandido	Manto de Bandido+	Faz com que os monstros deixemitens de troca rarosdurante ataques.
+21	ASkill022	Capuz do Assassino	Capuz do Assassino+	Acelera a movimentação e permitese esconder mais rápido. Causamuito dano a um monstro pego desurpresa, encerrando o efeito.

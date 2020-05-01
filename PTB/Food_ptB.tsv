@@ -1,0 +1,115 @@
+Food Code	Food Name	Food Desc
+MEAT_00_ID	Sobrecoxa de Serpe	Carne que ajuda a ativar as habilidades culinárias de Coragem.Muito tempo cozinhando no ensopado a deixa muito dura.
+MEAT_01_ID	Fraldinha de Serpe	Carne que ajuda a ativar as habilidades culináriasde Coragem. O melhor jeito de servir é cortarfininha e assar no carvão.
+MEAT_02_ID	Ovo de Serpe	Carne que ajuda a ativar as habilidades culináriasde Coragem. O resultado precioso de roubaro ninho de uma serpe.
+MEAT_03_ID	Rabo de serpe	Carne que ajuda a ativar as habilidades culináriasde Coragem. O rabo de uma serpe voadora.Vale a pena provar pelo menos uma vez.
+MEAT_04_ID	Cabeça de Serpe	Carne que ajuda a ativar as habilidades culináriasde Coragem. É um item da alta gastronomiaque às vezes aparece em festas comemorativas.
+MEAT_05_ID	Filé de Serpe	Carne que ajuda a ativar as habilidades culináriasde Coragem. O corte disponível mais apreciadoda carne de serpe.
+MEAT_06_ID	Carne Dura	Carne que ajuda a ativar as habilidades culináriasde Resiliência. Se puder comer esta carne difícilde mastigar, ainda vai fortalecer a mandíbula.
+MEAT_07_ID	Carne Espinhosa	Carne que ajuda a ativar as habilidades culináriasde Resiliência. Como há espinhos ainda nas escamas,é preciso comê-la devagar e com cuidado.
+MEAT_08_ID	Carne de Lingote	Carne que ajuda a ativar as habilidades culináriasde Resiliência. Relativamente caro, mas às vezesvocê precisa se fazer um agrado.
+MEAT_09_ID	Carne Endurecida	Carne que ajuda a ativar as habilidades culináriasde Resiliência. Dura o bastante para quebrar dentes,mas suas proteínas e vitaminas fazem valer a pena.
+MEAT_10_ID	Galinha Selvagem	Carne que ajuda a ativar as habilidades culináriasde Resiliência. O melhor jeito de comer é cortarcom vontade e enfiar na boca sem cerimônias.
+MEAT_11_ID	Carpaccio Marinado	Carne que ajuda a ativar as habilidades culináriasde Resiliência. Embebida em um molho secreto, esta carne crua derrete na boca de tão saborosa.
+MEAT_12_ID	Carne Aptonote	Carne que ajuda a ativar as habilidades culináriasde Vigor. Um item na dieta de qualquer caçador,usado em uma grande variedade de pratos com carne.
+MEAT_13_ID	Apceros Assado	Carne que ajuda a ativar as habilidades culináriasde Vigor. Quase sempre servida em porções fartas,é uma das carnes favoritas de caçadores famintos.
+MEAT_14_ID	Bife em Cubinhos	Carne que ajuda a ativar as habilidades culináriasde Vigor. Um corte de carne de qualidaderelativamente boa, cortado em cubinhos.
+MEAT_15_ID	Filé Gigante	Carne que ajuda a ativar as habilidades culináriasde Vigor. Uma bela fatia de carne de Aptonote,é gostosa e enche a barriga.
+MEAT_16_ID	Ogroburguer	Carne que ajuda a ativar as habilidades culináriasde Vigor. Um hambúrguer preparado como se deve:quase grande demais para caber na boca.
+MEAT_17_ID	Gigabife	Carne que ajuda a ativar as habilidades culináriasde Vigor. Um filé com a gordura tão equilibradaque é difícil parar de comer mesmo satisfeito.
+MEAT_18_ID	Fígado Branco	Carne que ajuda a ativar as habilidades culináriasde Perspicácia. Adorado pela textura viscosa.
+MEAT_19_ID	Costelinha Grelhada	Carne que ajuda a ativar as habilidades culináriasde Perspicácia. Com bastante gordura, estacarne saborosa pode ser perigosamente viciante.
+MEAT_20_ID	Dobradinha Picante	Carne que ajuda a ativar as habilidades culináriasde Perspicácia. Depois de comer, você não vai nem conseguir sentar direito.
+MEAT_21_ID	Coração Ardente	Carne que ajuda a ativar as habilidades culináriasde Perspicácia. Um corte apreciado pela textura,a melhor maneira de saboreá-lo é ainda pelando.
+MEAT_22_ID	Alcatra Suculenta	Carne que ajuda a ativar as habilidades culináriasde Perspicácia. Um corte excepcional de uma das partes mais apreciadas de um monstro.
+MEAT_23_ID	Foie Gras Esplêndido	Carne que ajuda a ativar as habilidades culináriasde Perspicácia. Graças à textura cremosa e aogosto forte, é um ingrediente muito procurado.
+MEAT_24_ID	Peru à Moda do Peão	Carne que ajuda a ativar as habilidades culináriasde Artilharia. Infelizmente, é mais osso que carne.
+MEAT_25_ID	Carneiro Assado	Carne que ajuda a ativar as habilidades culináriasde Artilharia. Por ser altamente versátil,utiliza-se em uma grande variedade de pratos.
+MEAT_26_ID	Ovo Herbívoro	Carne que ajuda a ativar as habilidades culináriasde Artilharia. Fazendo-se um omelete comum desses, é possível alimentar várias famílias.
+MEAT_27_ID	Peru-rei	Carne que ajuda a ativar as habilidades culináriasde Artilharia. O teor de carne faz jus ao seuapelido. Deixa no chinelo o peru à moda do peão.
+MEAT_28_ID	Carneiro Magma	Carne que ajuda a ativar as habilidades culináriasde Artilharia. Carne de carneiro suculenta que,quanto mais refogada, mais gostosa fica.
+MEAT_29_ID	Peru-imperador	Carne que ajuda a ativar as habilidades culináriasde Artilharia. Uma coxa tão imperialmente carnudaque até o Peru-rei fica sem gosto na comparação.
+FISH_00_ID	Atum Jubanca	Peixe que ajuda a ativar as habilidadesculinárias de Coragem. Tem a carne tãosaborosa quanto a audácia de sua juba.
+FISH_01_ID	Salmão Sinuoso	Fruto do mar que ajuda a ativar as habilidadesculinárias de Coragem. Retorcido e curvilíneo,parece mais uma cobra que um fruto do mar.
+FISH_02_ID	Enguia Audaz	Fruto do mar que ajuda a ativar as habilidades culinárias de Coragem. Com uma simplesmordida, você se encherá de coragem.
+FISH_03_ID	Peixushi	Fruto do mar que ajuda a ativar as habilidadesculinárias de Coragem. Delicioso, com a quantidadecerta de gordura. Muito apreciado aqui e acolá.
+FISH_04_ID	Pargo Ancestral	Fruto do mar que ajuda a ativar as habilidadesculinárias de Coragem. Fruto do mar gourmet,apreciado como iguaria desde a antiguidade.
+FISH_05_ID	Olho de Aboirrecido	Fruto do mar que ajuda a ativar as habilidadesculinárias de Coragem. Criticado pela aparênciavulgar, este fruto do mar é a síntese da coragem.
+FISH_06_ID	Búzio Gigante	Fruto do mar que ajuda a ativar as habilidadesculinárias de Resiliência.As conchas maiores são mais caras.
+FISH_07_ID	Iscas de Vieira	Fruto do mar que ajuda a ativar as habilidadesculinárias de Resiliência. Vieiras ressecadaspara conservação. Também dão uma sopa saborosa.
+FISH_08_ID	Haliote Favorito	Fruto do mar que ajuda a ativar as habilidadesculinárias de Resiliência.Sabor e quantidade de primeira linha.
+FISH_09_ID	Haliote Violeta	Fruto do mar que ajuda a ativar as habilidadesculinárias de Resiliência. Por causa da coloração,seu aroma e seu sabor mudaram muito.
+FISH_10_ID	Haliote Precioso	Fruto do mar que ajuda a ativar as habilidadesculinárias de Resiliência. Aclamado comoa iguaria entre as iguarias.
+FISH_11_ID	Caracol-turbante Chifrudo	Fruto do mar que ajuda a ativar as habilidadesculinárias de Resiliência. A utilidade de seus grandes chifres ainda é desconhecida.
+FISH_12_ID	Cardume de Sardinhas	Fruto do mar que ajuda a ativar as habilidadesculinárias de Vigor. Alinham-se em cardumesvolumosos para proteger seu território.
+FISH_13_ID	Atum Samurai	Peixe que ajuda a ativar as habilidadesculinárias de Vigor. Famoso pelos padrõesna cabeça que lembram o elmo de um samurai.
+FISH_14_ID	Guelra de Gajau	Fruto do mar que ajuda a ativar as habilidadesculinárias de Vigor. Requer um longo tempode cozimento, mas com certeza vale a pena.
+FISH_15_ID	Fígado de Gajau	Fruto do mar que ajuda a ativar as habilidadesculinárias de Vigor. Repleto de gorduras ricas;é tanto gostoso quanto nutritivo.
+FISH_16_ID	Atum Xogum	Fruto do mar que ajuda a ativar as habilidades culinárias de Vigor. As marcas ao longo deseu corpo lembram a armadura de um samurai.
+FISH_17_ID	Pargo Ardente	Peixe que ajuda a ativar as habilidadesculinárias de Vigor. Este peixe vermelhoparece estar sempre pegando fogo.
+FISH_18_ID	Camarão Corcunda	Fruto do mar que ajuda a ativar as habilidadesculinárias de Perspicácia. Seu corpo bastanteretorcido o torna um camarão difícil de comer.
+FISH_19_ID	Caranguejo Armadura	Fruto do mar que ajuda a ativar as habilidadesculinárias de Perspicácia. Um crustáceo decarapaça resistente que parece uma armadura.
+FISH_20_ID	Camarão Coral	Fruto do mar que ajuda a ativar as habilidadesculinárias de Perspicácia. Delicado, mas a corrosada de sua carcaça é deslumbrante.
+FISH_21_ID	Caranguejo Fortaleza	Fruto do mar que ajuda a ativar as habilidadesculinárias de Perspicácia. Seres simbióticos emsua carapaça fazem-no parecer maior do que é.
+FISH_22_ID	Camarão-rainha	Fruto do mar que ajuda a ativar as habilidadesculinárias de Perspicácia. Reina como rainhaentre os demais camarões.
+FISH_23_ID	Caranguejo Milenar	Fruto do mar que ajuda a ativar as habilidadesculinárias de Perspicácia. Diz-se que estecaranguejo magnífico vive por mil anos.
+FISH_24_ID	Polvosso	Fruto do mar que ajuda a ativar as habilidadesculinárias de Artilharia. Sua textura quebradiçadá a impressão de estar mastigando osso.
+FISH_25_ID	Caviar Rosado	Fruto do mar que ajuda a ativar as habilidadesculinárias de Artilharia. Ovas de peixe rosadase brilhantes, conservadas com um pouco de sal.
+FISH_26_ID	Lula-lírio	Fruto do mar que ajuda a ativar as habilidadesculinárias de Artilharia. Diz-se estimularmomentos de inspiração.
+FISH_27_ID	Polvo Bailarina	Fruto do mar que ajuda a ativar as habilidadesculinárias de Artilharia. Quando cozidos, seustentáculos se enrolam como uma dançarina.
+FISH_28_ID	Caviar Comovente	Fruto do mar que ajuda a ativar as habilidadesculinárias de Artilharia. Ovas de peixesdeliciosas ao ponto de comover.
+FISH_29_ID	Lula Soberana	Fruto do mar que ajuda a ativar as habilidadesculinárias de Artilharia. O tamanho desta lulaquase exige que a consideremos soberana de algo.
+VEGE_00_ID	Aiponífico	Vegetal que ajuda a ativar as habilidadesculinárias de Coragem. Se você criar gostopor ele, vai ser difícil resistir.
+VEGE_01_ID	Rapolinha	Vegetal que ajuda a ativar as habilidadesculinárias de Coragem. Seu sabor cru étão acentuado pode fazer um Deviljho chorar.
+VEGE_02_ID	Cacto-joia	Vegetal que ajuda a ativar as habilidadesculinárias de Coragem. Grande e cheio deuma polpa suculenta e carnuda.
+VEGE_03_ID	Dracorescência	Vegetal que ajuda a ativar as habilidadesculinárias de Coragem. Uma flor de frutostão duros quanto as escamas de uma serpe.
+VEGE_04_ID	Cacto-real	Vegetal que ajuda a ativar as habilidadesculinárias de Coragem. Um cacto de qualidade majestosa, quase como a de um rei.
+VEGE_05_ID	Tomate Polpudo	Vegetal que ajuda a ativar as habilidadesculinárias de Coragem. Um tomate gourmetrepleto de um sumo adocicado.
+VEGE_06_ID	Milho-pedra	Vegetal que ajuda a ativar as habilidadesculinárias de Resiliência. Uma espiga que exigeforça quase sobre-humana para debulhar.
+VEGE_07_ID	Batata Intrépida	Vegetal que ajuda a ativar as habilidadesculinárias de Resiliência. As raízes persistentesdão muito trabalho na colheita.
+VEGE_08_ID	Chapéu de Cogumelo Primor	Vegetal que ajuda a ativar as habilidadesculinárias de Resiliência. Cogumelo delicioso queaté chefs querem saborear enquanto cozinham.
+VEGE_09_ID	Cogumelo Enluarado	Vegetal que ajuda a ativar as habilidadesculinárias de Resiliência. Um cogumelo comum brilho fraco que lembra o da lua.
+VEGE_10_ID	Chapéu de Cogumelo Espírito	Vegetal que ajuda a ativar as habilidadesculinárias de Resiliência. Cogumelo cujo brilhosó pode ser descrito como de outro mundo.
+VEGE_11_ID	Cogumelo Sujo	Vegetal que ajuda a ativar as habilidadesculinárias de Resiliência. Tão difícil de acharque acreditava-se ser somente um mito.
+VEGE_12_ID	Fofóbora	Vegetal que ajuda a ativar as habilidadesculinárias de Vigor. Uma abóbora de tamanhotão imponente que o sabor é quase irrelevante.
+VEGE_13_ID	Bastão de Cebola	Vegetal que ajuda a ativar as habilidadesculinárias de Vigor. Como o nome sugere,o sabor e a aparênciasão bem rudimentares.
+VEGE_14_ID	Resplendorência	Vegetal que ajuda a ativar as habilidadesculinárias de Vigor. Seu aroma traz uma imagemmental mesclada de tons ensolarados.
+VEGE_15_ID	Relva Beijada pelo Sol	Vegetal que ajuda a ativar as habilidadesculinárias de Vigor. Diz-se ser uma folhagemcom amplos poderes terapêuticos.
+VEGE_16_ID	Aurescência	Vegetal que ajuda a ativar as habilidadesculinárias de Vigor. Esta flor irradiauma beleza dourada.
+VEGE_17_ID	Trufa-rei	Vegetal que ajuda a ativar as habilidadesculinárias de Vigor. Até mesmo uma pitadinhaagrega aromas deliciosos a qualquer prato.
+VEGE_18_ID	Aiporomático	Vegetal que ajuda a ativar as habilidadesculinárias de Perspicácia. O aroma varia muitodependendo da maneira como é preparado.
+VEGE_19_ID	Páprica Multicor	Vegetal que ajuda a ativar as habilidadesculinárias de Perspicácia. A coloração variamuito dependendo da maneira como é preparada.
+VEGE_20_ID	Fruta Estragada	Vegetal que ajuda a ativar as habilidadesculinárias de Perspicácia. Uma fruta que amadureceuapesar das condições extremas do Vale Putrefato.
+VEGE_21_ID	Fruto Celeste	Vegetal que ajuda a ativar as habilidadesculinárias de Perspicácia. Aclamada por terum sabor tido como celestial.
+VEGE_22_ID	Fruto Elisiano	Vegetal que ajuda a ativar as habilidadesculinárias de Perspicácia. Tem um aromatão mágico que parece vir de outro mundo.
+VEGE_23_ID	Repolho Mil-folhas	Vegetal que ajuda a ativar as habilidadesculinárias de Perspicácia. Conta com uma texturafenomenal graças às inúmeras camadas de folhas.
+VEGE_24_ID	Fava Kut-ku	Vegetal que ajuda a ativar as habilidadesculinárias de Artilharia. O sabor apimentado da favavai te fazer cuspir fogo como um Yian Kut-ku.
+VEGE_25_ID	Manga Fulminante	Vegetal que ajuda a ativar as habilidadesculinárias de Artilharia. Logo que colhida, a mangaamadurece rápido, mas não deixa de fervilhar.
+VEGE_26_ID	Pedrefruto	Vegetal que ajuda a ativar as habilidadesculinárias de Artilharia. Uma fruta de casca dura,parecida com uma pedra.
+VEGE_27_ID	Divinabacaxi	Vegetal que ajuda a ativar as habilidadesculinárias de Artilharia. Uma fruta tropicalcomplicada de cultivar.
+VEGE_28_ID	Fruta Silvestre	Vegetal que ajuda a ativar as habilidadesculinárias de Artilharia. Seu sabor selvagemé um dos favoritos entre os gourmets.
+VEGE_29_ID	Durião Esmeralda	Vegetal que ajuda a ativar as habilidadesculinárias de Artilharia. Esta fruta rara brilhacomo uma esmeralda e é quase tão valiosa.
+LIQUOR_00_ID	Lama de Batata	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Percepção. Uma bebida quedesce tão fácil quanto parece.
+LIQUOR_01_ID	Chope de Dragão	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Percepção. Forte o suficiente paramatar uma serpe; não queira saber como foi o teste.
+LIQUOR_02_ID	Fermentado de Batata-demônio	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Percepção. Amargo o suficientepara abrir um rombo no estômago de um Deviljho.
+LIQUOR_03_ID	Chope de Serpe Âmbar	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Percepção. Uma bebida fermentada,aromática e encorpada.
+LIQUOR_04_ID	Fermentado de Peixe-dourado	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Percepção. Sorte sua se puseras mãos no santo graal das bebidas fermentadas.
+LIQUOR_05_ID	Saquê Mata-dragão	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Percepção. Vinho destilado de arrozque segue um tradição bastante antiga.
+LIQUOR_06_ID	Fermentado de Caçador	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Sorte. O refresco perfeitodepois de uma longa caçada.
+LIQUOR_07_ID	Conhaque Estrela	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Sorte. Traz a famosa estrela de safirada Comissão de Pesquisa no rótulo da garrafa.
+LIQUOR_08_ID	Chope-mestre	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Sorte. Fermentada em malte torradoe muito popular entre os entusiastas de cerveja.
+LIQUOR_09_ID	Rathauísque	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Sorte. Uísque envelhecido em barrilqueimado pelo sopro flamejante do Rathalos.
+LIQUOR_10_ID	Cerveja de Astera	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Sorte. A bebida fermentada localda Comissão de Pesquisa. Perfeita para brindes.
+LIQUOR_11_ID	Vinho Abençoado	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Sorte. Ele mantém o recorde de maiortempo no topo da classificação de Vinho do Caçador.
+LIQUOR_12_ID	Cachaça de Chifraço	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Preparação. Feita com chifresmoídos de animais nativos da Fronteira Glacial.
+LIQUOR_13_ID	Chope Promissor	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Preparação. Presente tradicionalpara viajantes, para dar boa sorte na jornada.
+LIQUOR_14_ID	Petacerva	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Preparação. Líquido revigorantefeito de petasites frescas fermentadas.
+LIQUOR_15_ID	Vinhomel Reforçado	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Preparação. Os ingredientesnaturais desta bebida são escolhidos a dedo eesquentam profundamente o corpo.
+LIQUOR_16_ID	Bagaço Cativante	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Preparação. O doce aroma frutíferodesta bebida encanta todos que o sentem.
+LIQUOR_17_ID	Tequila de Locos	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Preparação. Um destiladoabsurdamente forte tomado por caçadoresirresponsáveis que querem provar sua garra.
+LIQUOR_18_ID	Vodca Glacial	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Desbravador. A versão aprimorada davodca com gelo da Cantina, servida em um sincelo.
+LIQUOR_19_ID	Tequila de Brindar	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Desbravador. Usada para celebrar boascaçadas e outras ocasiões felizes.
+LIQUOR_20_ID	Dose Derretida	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Desbravador. O gosto limpo da nevederretida é ideal para fazer as pazes após brigar.
+LIQUOR_21_ID	Espumante Enregelado	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Desbravador. Um drinque luxuososervido em lascas prateadas de gelo ultradenso.
+LIQUOR_22_ID	Champanhe Cristalino	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Desbravador. Um drinque delicado e tãolímpido que parece bolhas em um copo vazio.
+LIQUOR_23_ID	Absinto Abrasador	Bebida alcoólica que ajuda a ativar as habilidadesculinárias de Desbravador. Um único gole destabebida potente faz um calor se espalhar da barrigapara cada canto do corpo.

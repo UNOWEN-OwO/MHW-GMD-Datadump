@@ -1,0 +1,115 @@
+Food Code	Food Name	Food Desc
+MEAT_00_ID	Muslo de wyvern	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.El largo tiempo de cocción lo hace muy jugoso.
+MEAT_01_ID	Falda de wyvern	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.La mejor elaboración de esta carne esa rodajas y sobre una barbacoa de carbón.
+MEAT_02_ID	Huevo de wyvern	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.Un precioso botín encontrado en el nidode un wyvern.
+MEAT_03_ID	Cola de wyvern	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.La cola de un wyvern volador.Hay que probarla al menos una vez.
+MEAT_04_ID	Cabeza de wyvern	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.Habitual en la alta cocina, y a vecesincluso en banquetes de celebración.
+MEAT_05_ID	Entrecot de wyvern	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.El más apreciado de todos los cortesde carne de wyvern.
+MEAT_06_ID	Carne correosa	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.Conseguir terminarte toda esta carne tieneuna ventaja añadida: refuerza tu mandíbula.
+MEAT_07_ID	Carne espinosa	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.Aún tiene las espinas de donde se la cortó,así que más vale comerla con cuidado.
+MEAT_08_ID	Estofado de carne	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.Es más bien caro, pero a veces hayque darse un capricho.
+MEAT_09_ID	Carne especiada	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.Su sabor picante puede pegar fuerte,pero es justo lo que la hace tan adictiva.
+MEAT_10_ID	Pollo salvaje	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.Se disfruta mejor cortando un buen tajoy engulléndolo sin preocupaciones.
+MEAT_11_ID	Carpaccio marinado	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.Crudo y macerado en una salsa secretaque lo llena de sabor.
+MEAT_12_ID	Carne de Aptonoth	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.Base de la dieta de todo cazador, yaque abunda en gran cantidad de platos.
+MEAT_13_ID	Apcerosbif	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.Servido siempre en abundancia, haciendode esta carne una favorita de los glotones.
+MEAT_14_ID	Filete troceado	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.De relativamente buena calidad y cortadoen trozos pequeños y masticables.
+MEAT_15_ID	Solomillo real	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.Una deliciosa porción de Aptonoth,¡sabrosa y muy suculenta!
+MEAT_16_ID	Hamburguesa gruesa	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.Hamburguesa hecha como debe ser:casi tan grande que no cabe en la boca.
+MEAT_17_ID	Megafiletón	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.Un filete tan delicioso que es difícil dejar decomerlo, aún después de quedar saciado.
+MEAT_18_ID	Hígado blanco	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.Apreciado por su textura cremosa.
+MEAT_19_ID	Costillas a la barbacoa	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.Aunque la mayor parte es grasa, su saborintenso las hacen peligrosamente adictivas.
+MEAT_20_ID	Callos en salsa agria	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.Llenarte el estómago con ellos hace quequedarse quieto sea extrañamente difícil.
+MEAT_21_ID	Corazón ardiente	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.El corazón es muy apreciado por su textura,y debe comerse ardiente como una brasa.
+MEAT_22_ID	Joroba suculenta	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.Un corte sumamente grueso de una de laspartes más exquisitas de todo monstruo.
+MEAT_23_ID	Foie gras de lujo	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.Su textura cremosa y complejo sabor hacendel foie gras un ingrediente muy cotizado.
+MEAT_24_ID	Pavo salvaje	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.Por desgracia, tiene más huesos que carne.
+MEAT_25_ID	Gran carnero	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.Muy versátil, se utiliza en gran cantidadde platos.
+MEAT_26_ID	Huevo de herbívoro	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.Una tortilla hecha con él podría alimentara varias familias hambrientas.
+MEAT_27_ID	Pavo real	"Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.Tiene muy merecido en nombre de ""real"":deja el pavo salvaje a la altura del betún."
+MEAT_28_ID	Cordero en magma	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.Cordero jugoso cuyo sabor aumentacuanto más tiempo pasa cocinándose.
+MEAT_29_ID	Pavo emperador	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.Un muslo tan cargado de carne que hastael pavo real palidece en comparación.
+FISH_00_ID	Atún melenudo	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.Su carne es tan sabrosa como atrevidoes el aspecto de su melena.
+FISH_01_ID	Salmón serpenteante	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.Largo y retorcido sobre sí mismo, suaspecto parece más serpiente que pez.
+FISH_02_ID	Anguila valerosa	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.Un mordisco y tu corazón rebosaráde valentía renovada.
+FISH_03_ID	Pez sushi	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.Delicioso, con la cantidad justa de grasa.Apreciado en el Viejo Mundo y en el nuevo.
+FISH_04_ID	Besugo añejo	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.Pescado para gourmets que se considerauna delicia desde tiempos inmemoriales.
+FISH_05_ID	Bacalao poco salao	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.Si bien es criticado por su aspecto vulgar,este pescado nutre un espíritu valeroso.
+FISH_06_ID	Mejillón jumbo	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.Los más grandes, lógicamente, se cotizana precios más elevados.
+FISH_07_ID	Vieiras secas	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.Vieiras deshidratadas para su conserva.También sirven para una sopa buenísima.
+FISH_08_ID	Abulón selecto	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.De primera clase, tanto en tamaño comoen sabor.
+FISH_09_ID	Abulón violeta	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.Su aroma y sabor se han transformadotanto como su color.
+FISH_10_ID	Abulón precioso	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.Reconocido como una delicia entre lasmejores delicias.
+FISH_11_ID	Caracola cornuda	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.El estudio de su biología aún no ha logradodescubrir la función de sus cuernos.
+FISH_12_ID	Sardina colectiva	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.Protegen su territorio agrupándoseen bancos como batallones militares.
+FISH_13_ID	Atún samurái	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.Muy curioso, ya que el patrón de colores desu cabeza recuerda al casco de un samurái.
+FISH_14_ID	Agallas de Gajau	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.Necesitan cocinarlas durante mucho tiempo,pero desde luego el resultado vale la pena.
+FISH_15_ID	Hígado de Gajau	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.Lleno de grasa de la buena, tan deliciosocomo nutritivo.
+FISH_16_ID	Atún Shogún	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.Las marcas a lo largo de su cuerpo parecenlas de una armadura de samurái completa.
+FISH_17_ID	Besugo encendido	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.El color rojo brillante de este pescado haceque parezca que siempre está en llamas.
+FISH_18_ID	Gamba encorvada	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.Su cuerpo retorcido hace a estas gambasmuy llamativas, aunque difíciles de comer.
+FISH_19_ID	Cangrejo armadura	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.Un crustáceo con una cáscara del aspectoy dureza de una armadura completa.
+FISH_20_ID	Gamba de coral	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.Gamba pequeña pero de un espectacularcolor rosado.
+FISH_21_ID	Cangrejo fortaleza	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.Atrae a criaturas simbióticas que viven ensu cascarón, por lo que parece más grande.
+FISH_22_ID	Gambón	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.Reina sobre todas las demás gambascomo la mejor, sin duda.
+FISH_23_ID	Cangrejo milenario	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.Un magnífico cangrejo del que se diceque puede vivir mil años.
+FISH_24_ID	Pulpóseo	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.De textura rígida y quebradiza, al comerloparece que uno está masticando huesos.
+FISH_25_ID	Caviar rosa	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.Huevas de pescado de color rosa brillante,encurtidas ligeramente en sal.
+FISH_26_ID	Calamar líreo	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.Se dice que comerlo da breves peroreveladoras visiones.
+FISH_27_ID	Pulpo bailarín	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.Al cocinarlo sus patas se rizan comosi fuera un bailarín.
+FISH_28_ID	Caviar del alma	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.Huevas de pescado tan deliciosas quea uno le llegan directamente al alma.
+FISH_29_ID	Calamar soberano	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.El tamaño de este calamar obliga areferirse a él como soberano de algo.
+VEGE_00_ID	Monarcapio	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.Un vegetal irresistible en cuanto uno seacostumbra a su sabor.
+VEGE_01_ID	Cebordelletas	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.De comerlas crudas, son tan pungentes quehasta a un Deviljho le saltarían las lágrimas.
+VEGE_02_ID	Cactus joya	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.Voluminoso y con una parte carnosaverde y suculenta.
+VEGE_03_ID	Dracoflor	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.Una flor de fruta tan dura como lasescamas de un wyvern.
+VEGE_04_ID	Cactus regio	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.Un cactus de planta majestuosa, tantocomo la de un rey.
+VEGE_05_ID	Tomate gordo	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>coraje</STYL>.Un rico tomate rebosante de dulce jugo.
+VEGE_06_ID	Maíz pétreo	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.Una panocha de maíz que requiere de unafuerza casi sobrehumana para desgranarla.
+VEGE_07_ID	Patata garrapata	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.Sus raíces se agarran con fuerza a la tierra.Cosecharla supone duros días de trabajo.
+VEGE_08_ID	Seta exquisita	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.Una exquisita seta que hace que hasta loschefs quieran echársela a la boca al cocinar.
+VEGE_09_ID	Seta lunar	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.Una seta que reluce tenuemente,como la luna.
+VEGE_10_ID	Seta espiritual	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.El brillo de esta seta ciertamente parecede otro mundo.
+VEGE_11_ID	Seta manchada	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>tesón</STYL>.Hallar una es muy difícil, así que tiempoatrás se creía que eran solo una leyenda.
+VEGE_12_ID	Calabazón	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.Una calabaza de preciosa forma y tamañogigantesco. Su sabor es casi lo de menos.
+VEGE_13_ID	Cebollogro	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.Su sabor y apariencia poco grácil hacenque parezca sacado del jardín de un ogro.
+VEGE_14_ID	Flor de luz	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.Su aroma evoca en la mente imágenesde luz del sol suave y anaranjada.
+VEGE_15_ID	Hierba solar	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.Hierba aromática que, según los rumores,tiene numerosas propiedades curativas.
+VEGE_16_ID	Flor de oro	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.Una flor que irradia belleza dorada.
+VEGE_17_ID	Trufa real	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>vigor</STYL>.Un pellizquito de esta trufa añadeun mundo de aromas a cualquier plato.
+VEGE_18_ID	Aromapio	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.Su aroma varía considerablementesegún cuál sea su preparación.
+VEGE_19_ID	Pimiento prismático	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.Su coloración varía considerablementesegún cuál sea su preparación.
+VEGE_20_ID	Fruto impuro	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.Una fruta que logra madurar pese alinhóspito entorno del Valle Putrefacto.
+VEGE_21_ID	Cielobaya	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.Su sabor se ha descrito como un trocitode cielo en la tierra.
+VEGE_22_ID	Fruto elíseo	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.Su aroma es tan mágico que parece venidode otro mundo.
+VEGE_23_ID	Col milhojas	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>ingenio</STYL>.Tiene una textura fenomenal, gracias alas innumerables capas de sus hojas.
+VEGE_24_ID	Judía Kut-Ku	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.Una de cada pocas pica tanto como parahacerte escupir fuego cual Yian Kut-Ku.
+VEGE_25_ID	Mango derretido	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.Un mango que madura tras cosecharlo,y sigue deshaciéndose con el calor.
+VEGE_26_ID	Roquípero	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.Una fruta con una vaina dura como una roca.
+VEGE_27_ID	Piña celestial	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.Fruta tropical de difícil cultivo.
+VEGE_28_ID	Silvípero	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.Su sabor silvestre es el favorito de muchosgourmets.
+VEGE_29_ID	Durian esmeralda	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>artillería</STYL>.Rara fruta que brilla como una esmeralda,y que tiene prácticamente el mismo valor.
+LIQUOR_00_ID	Lodopapa	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>percepción</STYL>.Una bebida con la facilidad de tragoque sugiere su nombre.
+LIQUOR_01_ID	Licor de dragón	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>percepción</STYL>.Capaz de noquear a un wyvern, pero noestá claro cómo ni quién lo ha comprobado.
+LIQUOR_02_ID	Demonopapa	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>percepción</STYL>.Es tan amargo que agujerearía el estómagode un Deviljho.
+LIQUOR_03_ID	Cerveza roja de wyvern	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>percepción</STYL>.Una cerveza aromática y con mucho cuerpo.
+LIQUOR_04_ID	Licor de pez dorado	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>percepción</STYL>.La fortuna te sonríe si has podido hacertecon este santo grial de los licores.
+LIQUOR_05_ID	Sake matadragones	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>percepción</STYL>.Licor de arroz destilado en un proceso largoy depurado. El mejor de todos los sakes.
+LIQUOR_06_ID	Cerveza de cazador	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>fortuna</STYL>.El refresco perfecto tras un largo día de caza.
+LIQUOR_07_ID	Vino de quema	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>fortuna</STYL>.En la botella aparece la famosa Estrella Azulde la comisión de investigación.
+LIQUOR_08_ID	Cerveza Extra	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>fortuna</STYL>.Destilada a partir de malta tostada.Rica y aterciopelada, para buenos bebedores.
+LIQUOR_09_ID	Ratha Whiskey	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>fortuna</STYL>.Whiskey madurado en barricas tostadasbajo el aliento abrasador de un Rathalos.
+LIQUOR_10_ID	Cerveza de Astera	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>fortuna</STYL>.Cerveza local de la comisión de investigación.Perfecta para brindis y celebraciones.
+LIQUOR_11_ID	Vino bendito	"Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>fortuna</STYL>.Tiene el récord de mayor tiempo en la cimadel ránking de la revista ""cazador de vinos""."
+LIQUOR_12_ID	Trago del gran cuerno	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>preparación</STYL>.Hecha con cuernos pulverizadosde animales del Arroyo de Escarcha.
+LIQUOR_13_ID	Cerveza auspiciosa	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>preparación</STYL>.Tradicionalmente, se daba a los viajeroscomo amuleto de buena suerte para el camino.
+LIQUOR_14_ID	Birrasite	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>preparación</STYL>.Un brebaje vigorizante hecho fermentandopetasites recién recogidos en el Arroyo.
+LIQUOR_15_ID	Vinomiel enriquecido	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>preparación</STYL>.Los ingredientes naturales de esta bebidacalientan el cuerpo hasta los huesos.
+LIQUOR_16_ID	Alambique encantador	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>preparación</STYL>.El dulce aroma de este licor afrutadoembruja a quien lo huele.
+LIQUOR_17_ID	Tequila de locos	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>preparación</STYL>.Un licor increíblemente potente que bebencazadores temerarios como prueba de su coraje.
+LIQUOR_18_ID	Vodka glacial	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>aventura</STYL>.El sublime vodka con hielo de la cantina,servido con osadía sobre un témpano.
+LIQUOR_19_ID	Tequila de brindis	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>aventura</STYL>.Un vino festivo que se usa para celebrar unacacería exitosa y otras ocasiones alegres.
+LIQUOR_20_ID	Licor derritenieve	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>aventura</STYL>.El sabor puro a fresca nieve fundida hace quesea tradicional en el brindis tras la lucha.
+LIQUOR_21_ID	Cava pico helado	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>aventura</STYL>.Una lujosa bebida servida sobre fragmentosplateados de hielo superdenso.
+LIQUOR_22_ID	Aguardiente de cristal	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>aventura</STYL>.Es tan delicada y clara que parece quelas burbujas asciendan en un vaso vacío.
+LIQUOR_23_ID	Licor abrasador	Sirve para activar habilidades de <STYL MOJI_YELLOW_DEFAULT>aventura</STYL>.Un trago de este potente destilado enciendeun fuego que recorre todo el cuerpo.

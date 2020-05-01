@@ -1,0 +1,58 @@
+Meal Code	Meal Name	Meal Effect
+CatSkill000_CAT_SKILL	Felin Szlifierz	Często skraca czas ostrzenia.
+CatSkill001_CAT_SKILL	Felin Jeździec	Ułatwia dosiadanie potworów.
+CatSkill002_CAT_SKILL	Felin Waleczny	Znacznie wzmacnia atak przyniebezpiecznie niskim zdrowiu.
+CatSkill003_CAT_SKILL	Felin Wycinacz (Wys.)	Często pozwala wyciąć częścipotwora więcej razy.
+CatSkill004_CAT_SKILL	Felin Wycinacz (Nis.)	Czasem pozwala wyciąć częścipotwora więcej razy.
+CatSkill005_CAT_SKILL	Felin Medyk	Zwiększa regenerację zdrowiaprzy użyciu przedmiotów.
+CatSkill006_CAT_SKILL	Felin Czarny Pas	Zmniejsza spadek wytrzymałościw trakcie wykonywania m.in.: uników i bloków.
+CatSkill007_CAT_SKILL	Felin Piroman	Ulepsza duże bomby beczkowedo megabomb beczkowych.
+CatSkill008_CAT_SKILL	Felin Specjalista	Zwiększa siłę atakównakładających szkodliwe efekty.
+CatSkill009_CAT_SKILL	Felin Obrońca (Wys.)	Często zmniejszadoznawane obrażenia.
+CatSkill010_CAT_SKILL	Felin Obrońca (Nis.)	Czasem zmniejszadoznawane obrażenia.
+CatSkill011_CAT_SKILL	Felin Zbieracz	Skraca czas regeneracjipunktów pozyskiwania zasobów.
+CatSkill012_CAT_SKILL	Felin Sokole Oko	Zwiększa moc normalnychstrzałów (S normalny)i normalnych strzał.
+CatSkill013_CAT_SKILL	Kot Szczęścia	Czasem zwiększa liczbęprzedmiotów otrzymywanychw nagrodę na koniec zadania.
+CatSkill014_CAT_SKILL	Felin Odbijacz	Pomaga zachować ostrość broniprzy odbijaniu ataków.
+CatSkill015_CAT_SKILL	Felin Uciekacz	Zmniejsza spadek wytrzymałościpodczas ucieczki przeddużymi potworami.
+CatSkill016_CAT_SKILL	Felin Sprinter	Zryw zużywa mniej wytrzymałościpodczas niesienia przedmiotu.
+CatSkill017_CAT_SKILL	Felin Niewywrotny	Zapobiega powaleniu podczasniesienia przedmiotu.
+CatSkill018_CAT_SKILL	Felin Osłabiacz	Zwiększa szanse, że duże potworyspotykane w trakcie zadań będą słabsze niż zwykle
+CatSkill019_CAT_SKILL	Felin Wymieniacz	Zwiększa liczbę punktówbadawczych otrzymywanychna koniec zadania.
+CatSkill020_CAT_SKILL	Felin Wstawacz (Wys.)	Znacznie wydłuża okresnietykalności podczas wstawania.
+CatSkill021_CAT_SKILL	Felin Wstawacz (Nis.)	Wydłuża okresnietykalności podczas wstawania.
+CatSkill022_CAT_SKILL	Felin Nerwus	Zwiększa obrażenia łukodziałekkosztem większego odchylenia.
+CatSkill023_CAT_SKILL	Felin Ścianołaz	Zmniejsza spadek wytrzymałościpodczas uników na ścianachi bluszczu.
+G_CatSkill024_CAT_SKILL	Felin Chwytacz	Niektóre ataki nie zrzucą cięze ściany lub bluszczu.
+CatSkill025_CAT_SKILL	Felin Żelazny Wycinacz	Zapobiega odepchnięciom podczaswycinania części potworów.
+CatSkill026_CAT_SKILL	Felin Lądujący	Zapobiega potknięciom przyzeskakiwaniu z wysokich miejsc.
+CatSkill027_CAT_SKILL	Felin Buldożer	Zwiększa siłę ataku, kiedyzadasz cios zaraz po odbiciu ataku.
+CatSkill028_CAT_SKILL	Felin Smakosz	Efekty działania żywności trwająnawet po omdleniu w walce.
+CatSkill029_CAT_SKILL	Felin Powalacz	Ułatwia ogłuszanie potworów.
+CatSkill030_CAT_SKILL	Felin Bogacz	Zwiększa sumę zeniotrzymywanych na koniec zadania.
+CatSkill031_CAT_SKILL	Felin Bombardier	Zwiększa obrażenia zadawaneprzez balistę oraz amunicjęprzylepną i lancopału.
+CatSkill032_CAT_SKILL	Felin z Biglem	Jednorazowo zapobiega zemdleniu po obrażeniach przekraczającychpozostały poziom zdrowia.
+CatSkill033_CAT_SKILL	Felin Gnojomistrz	Zwiększa prawdopodobieństwoucieczki potwora potrafieniu go gnojowym strąkiem.
+CatSkill034_CAT_SKILL	Felin Opiekun	Skraca o połowę trwanie efektuSpadku Obrony oraz przyśpiesza uwolnienie się od plagi.
+CatSkill035_CAT_SKILL	Felin Mocna Sierść	Likwiduje lub zmniejsza skutkidziałania plag i obrażeńwywołanych przez otoczenie.
+CatSkill036_CAT_SKILL	Felin Akrobata	Umożliwia szybkie odzyskanierównowagi łowcy wyrzuconemuw powietrze.
+DUMMY000000	Unavailable	Unavailable
+CatSkill038_CAT_SKILL	Felin Trener	Przyśpiesza wzrost koleżkota.
+CatSkill039_CAT_SKILL	Felin Wzmacniacz	Czasowo wzmacnia obronę i atakna początku zadania.
+CatSkill040_CAT_SKILL	Felin Niezachwiany	Zapobiega powaleniu na cztery litery.
+CatSkill041_CAT_SKILL	Felin Rybak	Zwiększa prawdopodobieństwo,że ryba weźmie podczas połowu.
+CatSkill042_CAT_SKILL	Przekot	Czasowo wzmocnia atak, gdy używasz przez jakiś czasgestu Na Luzie.
+CatSkill043_CAT_SKILL	Felin Ubezpieczony	Chroni grupę przed karą przypierwszym zemdleniujej członka.
+CatSkill044_CAT_SKILL	Felin Prowokator	Przyciąga uwagę potworów,zwiększając prawdopodobieństwoznalezienia się na celu.
+CatSkill045_CAT_SKILL	Felin na Pożegnanie	Przywraca zdrowie sojusznikom w okolicy, gdy mdleją.
+CatSkill046_CAT_SKILL	Felin Badacz	Ułatwia odblokowanie śledztww czasie ekspedycji.
+CatSkill047_CAT_SKILL	Felin Meteorolog	Podczas zadań częściej jestbrzydka pogoda.
+CatSkill048_CAT_SKILL	Felińskie raki	Umożliwiają poruszanie się znormalną prędkością nawet naspecjalnym terenie.
+CatSkill049_CAT_SKILL	Felin Krawiec	Skraca czas przed ponownymużyciem narzędzispecjalistycznych.
+CatSkill050_CAT_SKILL	Felińska Ochrona	Chroni grupę przed karą przypierwszym zemdleniujej członka.
+CatSkill051_CAT_SKILL	Felin Ogrodnik	Skraca czas odnawiania sięczęści lokalnej fauny.
+CatSkill052_CAT_SKILL	Felin Odzyskiwacz	Powoduje, że niektóre gatunkilokalnej fauny po złapaniuupuszczają amunicję do procy.
+CatSkill053_CAT_SKILL	Felin Faunista	Zwiększa częstość występowaniarzadkiej lokalnej fauny.
+CatSkill054_CAT_SKILL	Felin Biolog	Nieco zwiększa częstośćwystępowania rzadkiej lokalnejfauny.
+CatSkill055_CAT_SKILL	Felin Makrozoolog	Nieco zwiększa częstośćwystępowania dużej lokalnejfauny.
+CatSkill056_CAT_SKILL	Felin Mikrozoolog	Nieco zwiększa częstośćwystępowania małej lokalnejfauny.

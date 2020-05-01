@@ -1,0 +1,508 @@
+Quest ID	Quest Name	Quest Target	Fail Condition
+00000	Unavailable	Unavailable	Unavailable
+00001	Unavailable	Unavailable	Unavailable
+00002	Unavailable	Unavailable	Unavailable
+00003	Invalid Message	Invalid Message	Invalid Message
+00004	Invalid Message	Invalid Message	Invalid Message
+00005	Invalid Message	Invalid Message	Invalid Message
+00101	Jagras da Floresta Ancestral	Mate 7 Jagras	Tempo expirarDesmaiar 3 vezes
+00102	Uma Questão Kestodonte	Conclua o serviço	Tempo expirarDesmaiar 3 vezes
+00103	Caça ao Grande Jagras	Cace um Grande Jagras	Tempo expirarDesmaiar 3 vezes
+00151	Bater Cabeça com a Natureza	Mate 12 Kestodontes	Tempo expirarDesmaiar 3 vezes
+00152	Matadores na Moita	Mate 7 Jagras	Tempo expirarDesmaiar 3 vezes
+00153	Fungos na Floresta Ancestral	Entregue 20 Chap Cogum Gourmets	Tempo expirarDesmaiar 3 vezes
+00201	Bandido Cabeça de Passarinho	Cace um Kulu-Ya-Ku	Tempo expirarDesmaiar 3 vezes
+00205	Urgente: Caça ao Pukei-Pukei	Cace um Pukei-Pukei	Tempo expirarDesmaiar 3 vezes
+00241	Aprendendo a Prendedora	Aprenda a mecânica da prendedora	Tempo expirarDesmaiar 3 vezesGrande Jagras caçado
+00251	O Grande Glutão	Cace um Grande Jagras	Tempo expirarDesmaiar 3 vezes
+00252	Esmagador de Acampamentos	Cace um Kulu-Ya-Ku	Tempo expirarDesmaiar 3 vezes
+00261	Apanhe o Apanhador	Capture um Kulu-Ya-Ku	Tempo expirarDesmaiar 3 vezesKulu-Ya-Ku ser abatido
+00262	Ganhos Não Têm Descanso	Mate 7 Gajaus	Tempo expirarDesmaiar 3 vezes
+00263	Exterminador dos Ermos	Mate 14 Vespoideas	Tempo expirarDesmaiar 3 vezes
+00301	O Melhor Tipo de Missão	Conclua o serviço	Tempo expirarDesmaiar 3 vezes
+00302	Sombras Sinistras no Pântano	Conclua o serviço	Tempo expirarDesmaiar 3 vezes
+00305	Faíscas Voando: Tobi-Kadachi	Cace um Tobi-Kadachi	Tempo expirarDesmaiar 3 vezes
+00306	O Anjanath Invasor	Cace um Anjanath	Tempo expirarDesmaiar 3 vezes
+00331	Arena Especial: Pukei-Pukei	Cace um Pukei-Pukei	Tempo expirarDesmaiar 3 vezes
+00332	Arena Especial: Barroth	Cace um Barroth	Tempo expirarDesmaiar 3 vezes
+00333	Arena Especial: Tobi-Kadachi	Cace um Tobi-Kadachi	Tempo expirarDesmaiar 3 vezes
+00351	Escassez de Nozes de Dispersão	Cace um Pukei-Pukei	Tempo expirarDesmaiar 3 vezes
+00352	A Situação Atual	Cace um Tobi-Kadachi	Tempo expirarDesmaiar 3 vezes
+00361	Em Apuros na Agulha	Cace um Barroth	Tempo expirarDesmaiar 3 vezes
+00362	O Problema Písceo	Cace um Jyuratodus	Tempo expirarDesmaiar 3 vezes
+00363	Encrenca Espinhosa	Entregue 20 Cactos-miçanga	Tempo expirarDesmaiar 3 vezes
+00364	Marombando nos Ermos	Entregue 2 Ovos Herbívoros	Tempo expirarDesmaiar 3 vezes
+00365	A Serpe dos Deslizamentos	Capture um Barroth	Tempo expirarDesmaiar 3 vezesBarroth ser abatido
+00401	Para Entrar para a História	Conclua o serviço	Tempo expirarDesmaiar 3 vezes
+00405	Problemas com Balões	Cace um Paolumu	Tempo expirarDesmaiar 3 vezes
+00407	Obstáculo Radobaan	Cace um Radobaan	Tempo expirarDesmaiar 3 vezes
+00408	Legiana: Elegância Encarnada	Cace um Legiana	Tempo expirarDesmaiar 3 vezes
+00431	Arena Especial: Anjanath	Cace um Anjanath	Tempo expirarDesmaiar 3 vezes
+00432	Arena Especial: Rathian	Cace uma Rathian	Tempo expirarDesmaiar 3 vezes
+00433	Arena Especial: Paolumu	Cace um Paolumu	Tempo expirarDesmaiar 3 vezes
+00434	Arena Especial: Radobaan	Cace um Radobaan	Tempo expirarDesmaiar 3 vezes
+00451	Uma Infecção Infernal	Cace um Anjanath	Tempo expirarDesmaiar 3 vezes
+00452	Marombando na Floresta	Entregue 2 Ovos de Serpe	Tempo expirarDesmaiar 3 vezes
+00461	Reassentamento Régio	Cace uma Rathian	Tempo expirarDesmaiar 3 vezes
+00471	É uma Pena, Shamos	Mate 11 Shamos	Tempo expirarDesmaiar 3 vezes
+00472	Um Tzitzi pela Ciência	Cace um Tzitzi-Ya-Ku	Tempo expirarDesmaiar 3 vezes
+00473	Você Não Está Na Lista	Cace um Paolumu	Tempo expirarDesmaiar 3 vezes
+00474	Que Bando de Haliotes	Entregue 10 Super Haliotes	Tempo expirarDesmaiar 3 vezes
+00475	Monstro Branco, Jaqueta Idem	Capture um Paolumu	Tempo expirarDesmaiar 3 vezesPaolumu ser abatido
+00481	Pestes Persistentes	Mate 14 Chifrotauros	Tempo expirarDesmaiar 3 vezes
+00482	Algo de Podre para Fazer	Cace um Grande Girros	Tempo expirarDesmaiar 3 vezes
+00483	Ossos no Armário	Cace um Radobaan	Tempo expirarDesmaiar 3 vezes
+00484	Nas Asas do Pesadelo	Mate 5 Raphinos	Tempo expirarDesmaiar 3 vezes
+00501	Dentro das Vísceras do Vale	Conclua o serviço	Tempo expirarDesmaiar 3 vezes
+00502	Um Trono Ardente na Floresta	Cace um Rathalos	Tempo expirarDesmaiar 3 vezes
+00503	Chifres Tiranos sob a Areia	Cace um Diablos	Tempo expirarDesmaiar 3 vezes
+00504	Uma Tarefa Colossal	Conclua o serviço	Tempo expirarDesmaiar 3 vezesNão guiar Zorah Magdaros
+00531	Arena Especial: Legiana	Cace um Legiana	Tempo expirarDesmaiar 3 vezes
+00532	Arena Especial: Odogaron	Cace um Odogaron	Tempo expirarDesmaiar 3 vezes
+00533	Arena Especial: Rathalos	Cace um Rathalos	Tempo expirarDesmaiar 3 vezes
+00534	Arena Especial: Diablos	Cace um Diablos	Tempo expirarDesmaiar 3 vezes
+00551	Quando Vontade Vira Obsessão	Cace um Rathalos	Tempo expirarDesmaiar 3 vezes
+00552	Redefinindo o Casal Poderoso	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+00561	Agulhas Gêmeas nas Areias	Cace um Diablos	Tempo expirarDesmaiar 3 vezes
+00571	Dor de Cabeça Úmida	Cace um Legiana	Tempo expirarDesmaiar 3 vezes
+00572	E se foi com um Lampejo	Mate um Kirin	Tempo expirarDesmaiar 3 vezes
+00581	Matando a Vontade	Cace um Odogaron	Tempo expirarDesmaiar 3 vezes
+00582	O Melhor Demônio do Homem	Capture um Odogaron	Tempo expirarDesmaiar 3 vezesOdogaron ser abatido
+00583	A Carne da Questão	Entregue 2 Pedaços de Carne	Tempo expirarDesmaiar 3 vezes
+00601	Invasor nos Ermos	Cace um Pukei-Pukei	Tempo expirarDesmaiar 3 vezes
+00605	Rosa-Cócegas	Cace um Anjanath	Tempo expirarDesmaiar 3 vezes
+00607	Monstro Velho no Novo Mundo	Conclua o serviço	Tempo expirarDesmaiar 3 vezes
+00631	Arena Especial: Pukei-Pukei RE	Cace um Pukei-Pukei	Tempo expirarDesmaiar 3 vezes
+00632	Arena Especial: Barroth RE	Cace um Barroth	Tempo expirarDesmaiar 3 vezes
+00633	Arena Especial: Tobi-Kadachi RE	Cace um Tobi-Kadachi	Tempo expirarDesmaiar 3 vezes
+00634	Arena Especial: Anjanath RE	Cace um Anjanath	Tempo expirarDesmaiar 3 vezes
+00635	Arena Especial: Rathian RE	Cace uma Rathian	Tempo expirarDesmaiar 3 vezes
+00636	Arena Especial: Paolumu RE	Cace um Paolumu	Tempo expirarDesmaiar 3 vezes
+00637	Arena Especial: Radobaan RE	Cace um Radobaan	Tempo expirarDesmaiar 3 vezes
+00641	Deixou uma Bela Impressão	Guie Zorah Magdaros	Tempo expirarDesmaiar 3 vezesNão guiar Zorah Magdaros
+00651	Difícil de Engolir	Cace um Grande Jagras	Tempo expirarDesmaiar 3 vezes
+00652	Monstro Verde Vesgo	Cace um Pukei-Pukei	Tempo expirarDesmaiar 3 vezes
+00653	Uma Experiência de Arrepiar	Cace um Tobi-Kadachi	Tempo expirarDesmaiar 3 vezes
+00654	Não se Mexa e Ele Não te Vê	Cace um Anjanath	Tempo expirarDesmaiar 3 vezes
+00655	A Rainha Rural Adormecida	Cace uma Rathian	Tempo expirarDesmaiar 3 vezes
+00656	Preso aos Hábitos	Capture um Tobi-Kadachi	Tempo expirarDesmaiar 3 vezesCaçar um Tobi-Kadashi
+00661	Nada de Mão-boba!	Cace um Kulu-Ya-Ku	Tempo expirarDesmaiar 3 vezes
+00662	Coroa de Lama e Fúria	Cace um Barroth	Tempo expirarDesmaiar 3 vezes
+00663	Emboscada de Pukei-Pukei	Cace um Pukei-Pukei	Tempo expirarDesmaiar 3 vezes
+00665	Até a Cintura nos Ermos	Cace um Jyuratodus	Tempo expirarDesmaiar 3 vezes
+00666	Deserto Marrom, Rainha Verde	Cace uma Rathian	Tempo expirarDesmaiar 3 vezes
+00667	Encrenqueiro Desordeiro	Cace um Anjanath	Tempo expirarDesmaiar 3 vezes
+00671	"Diga ""Xis""!"	Cace um Tzitzi-Ya-Ku	Tempo expirarDesmaiar 3 vezes
+00672	Lace o Paolumu	Cace um Paolumu	Tempo expirarDesmaiar 3 vezes
+00681	Um Gosto Formigante	Cace um Grande Girros	Tempo expirarDesmaiar 3 vezes
+00682	Rotina Depressiva	Cace um Radobaan	Tempo expirarDesmaiar 3 vezes
+00683	Missão Chef! É pra já	Entregue 4 Fósseis Esquecidos	Tempo expirarDesmaiar 3 vezes
+00684	Missão Chef! Pedido Podre	Mate 10 Girros	Tempo expirarDesmaiar 3 vezes
+00691	Um Miado de Ajuda	Mate 13 Gastodontes	Tempo expirarDesmaiar 3 vezes
+00692	Concha Escaldante	Mate 5 Barnos	Tempo expirarDesmaiar 3 vezes
+00693	Drama Dodogama	Cace um Dodogama	Tempo expirarDesmaiar 3 vezes
+00694	Missão Chef! Cerco Gajalaka	Derrote 10 Gajalaka	Tempo expirarDesmaiar 3 vezes
+00701	A Ferida e a Sede	Mate o Nergigante	Tempo expirarDesmaiar 3 vezes
+00731	Arena Especial: Rathian Rosa RE	Cace uma Rathian Rosa	Tempo expirarDesmaiar 3 vezes
+00732	Arena Especial: Legiana RE	Cace um Legiana	Tempo expirarDesmaiar 3 vezes
+00733	Arena Especial: Odogaron RE	Cace um Odogaron	Tempo expirarDesmaiar 3 vezes
+00734	Arena Especial: Uragaan RE	Cace um Uragaan	Tempo expirarDesmaiar 3 vezes
+00735	Arena Especial: Rathalos RE	Cace um Rathalos	Tempo expirarDesmaiar 3 vezes
+00736	Arena Especial: R. Lazúli RE	Cace um Rathalos Lazúli	Tempo expirarDesmaiar 3 vezes
+00737	Arena Especial: Diablos RE	Cace um Diablos	Tempo expirarDesmaiar 3 vezes
+00738	Arena Especial: D. Negra RE	Cace uma Diablos Negra	Tempo expirarDesmaiar 3 vezes
+00751	Revanche de Rathalos	Cace um Rathalos	Tempo expirarDesmaiar 3 vezes
+00752	Rathalos em Azul	Cace um Rathalos Lazúli	Tempo expirarDesmaiar 3 vezes
+00753	O Bando Vermelho e Azul	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+00761	Rosa Choque	Cace uma Rathian Rosa	Tempo expirarDesmaiar 3 vezes
+00762	Ora, que Diablos!	Cace um Diablos	Tempo expirarDesmaiar 3 vezes
+00763	Dois Chifres Hostis	Cace uma Diablos Negra	Tempo expirarDesmaiar 3 vezes
+00764	Brrrriga nos Ermos!	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+00771	Vento Cereja nas Velas	Cace uma Rathian Rosa	Tempo expirarDesmaiar 3 vezes
+00772	Legiana: Realeza Planaltina	Cace um Legiana	Tempo expirarDesmaiar 3 vezes
+00773	Um Local Dolorido	Cace um Odogaron	Tempo expirarDesmaiar 3 vezes
+00774	Garras de Ira e Gelo	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+00781	Odogaron à Solta	Cace um Odogaron	Tempo expirarDesmaiar 3 vezes
+00791	Lavasioth, Monstro de Magma	Cace um Lavasioth	Tempo expirarDesmaiar 3 vezes
+00792	Posseiro Papa-minério	Cace um Uragaan	Tempo expirarDesmaiar 3 vezes
+00793	Soberano dos Céus Lazúli	Cace um Rathalos Lazúli	Tempo expirarDesmaiar 3 vezes
+00794	Bazelgeuse no Campo de Fogo	Cace um Bazelgeuse	Tempo expirarDesmaiar 3 vezes
+00795	Convergência Ardente	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+00801	Kushala Daora, Dragão de Aço	Mate o Kushala Daora	Tempo expirarDesmaiar 3 vezes
+00802	Teostra, o Infernal	Mate o Teostra	Tempo expirarDesmaiar 3 vezes
+00803	Vaal Hazak, Demônio Infernal	Mate o Vaal Hazak	Tempo expirarDesmaiar 3 vezes
+00804	Terra da Convergência	Conclua o serviço	Tempo expirarDesmaiar 3 vezes
+00805	Além das Escamas Explosivas	Cace dois Bazelgeuses	Tempo expirarDesmaiar 3 vezes
+00806	Briga Trovejante no Planalto	Mate um Kirin	Tempo expirarDesmaiar 3 vezes
+00851	Prenúncio de Desastre	Mate um Kushala Daora	Tempo expirarDesmaiar 3 vezes
+00861	Chamas na Areia	Mate um Teostra	Tempo expirarDesmaiar 3 vezes
+00871	Raio Cai Duas Vezes	Mate um Kirin	Tempo expirarDesmaiar 3 vezes
+00881	Distúrbios da Sepultura	Mate um Vaal Hazak	Tempo expirarDesmaiar 3 vezes
+00891	O Devorador de Anciões	Mate o Nergigante	Tempo expirarDesmaiar 3 vezes
+00892	Mestre da Ventania	Mate um Kushala Daora	Tempo expirarDesmaiar 3 vezes
+00893	Fortaleza do Fogo Infernal	Mate um Teostra	Tempo expirarDesmaiar 3 vezes
+00894	O Devorador de Anciões	Mate o Nergigante	Tempo expirarDesmaiar 3 vezes
+00895	A Mordida dos Ventos da Ira	Mate um Kushala Daora	Tempo expirarDesmaiar 3 vezes
+00896	A Mordida do Fogo do Inferno	Mate um Teostra	Tempo expirarDesmaiar 3 vezes
+00961	Além das Escamas Explosivas	Cace 2 Bazelgeuses	Tempo expirarDesmaiar 3 vezes
+00971	Briga Trovejante no Planalto	Mate um Kirin	Tempo expirarDesmaiar 3 vezes
+00991	Uma Luz nas Trevas do Rio	Mate o Xeno'jiiva	Tempo expirarDesmaiar 3 vezes
+00992	Ventos Brancos do Novo Mundo	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+00995	Orientação da Estrela Safira	Mate todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+00996	Confronto: o Lodo e o Malho	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+00997	Céu e Flor do Novo Mundo	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+00998	Convocação do Submundo	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+01101	Batismo de Gelo	Cace um Beotodus	Tempo expirarDesmaiar 3 vezes
+01102	Bloqueio de Banbaro	Cace um Banbaro	Tempo expirarDesmaiar 3 vezes
+01121	Mergulhador de Neve Profunda	Cace um Beotodus	Tempo expirarDesmaiar 3 vezes
+01122	Avançando com Tudo	Cace um Banbaro	Tempo expirarDesmaiar 3 vezes
+01123	Fria Fisgada!	Capture um Beotodus	Tempo expirarDesmaiar 3 vezesBeotodus ser abatido
+01124	Chamado da Natureza	Mate 10 Wulgs	Tempo expirarDesmaiar 3 vezes
+01125	Saudações da Tundra	Entregue 20 Petasites Jovens	Tempo expirarDesmaiar 3 vezes
+01131	Arena Especial: Pukei-Pukei RM	Cace um Pukei-Pukei	Tempo expirarDesmaiar 3 vezes
+01132	Arena Especial: Barroth RM	Cace um Barroth	Tempo expirarDesmaiar 3 vezes
+01133	Arena Especial: Tobi-Kadachi RM	Cace um Tobi-Kadachi	Tempo expirarDesmaiar 3 vezes
+01134	Arena Especial: Banbaro RM	Cace um Banbaro	Tempo expirarDesmaiar 3 vezes
+01151	A Volta do Grande Jagras!	Cace um Grande Jagras	Tempo expirarDesmaiar 3 vezes
+01152	Problemas do Novo Mundo	Cace um Pukei-Pukei	Tempo expirarDesmaiar 3 vezes
+01153	Ficando na Moita	Cace um Tobi-Kadachi	Tempo expirarDesmaiar 3 vezes
+01154	Ladrão Literário	Cace um Kulu-Ya-Ku	Tempo expirarDesmaiar 3 vezes
+01155	Prendendo o Destruidor de Árvores	Capture um Banbaro	Tempo expirarDesmaiar 3 vezesBanbaro ser abatido
+01161	Caça ao Tesouro na Selvagulha	Cace um Kulu-Ya-Ku	Tempo expirarDesmaiar 3 vezes
+01162	Arrastado na Lama	Cace um Barroth	Tempo expirarDesmaiar 3 vezes
+01163	Um Jyura em Meu Caminho	Cace um Jyuratodus	Tempo expirarDesmaiar 3 vezes
+01164	Excursão de Degustação	Cace um Pukei-Pukei	Tempo expirarDesmaiar 3 vezes
+01171	Todos os Sinais Errados	Cace um Tzitzi-Ya-Ku	Tempo expirarDesmaiar 3 vezes
+01181	Um Girros Incomoda Muita Gente	Cace um Grande Girros	Tempo expirarDesmaiar 3 vezes
+01191	Não Dá para Caçar	Cace um Dodogama	Tempo expirarDesmaiar 3 vezes
+01192	Aqui é o País do Chifre Grande!	Cace um Banbaro	Tempo expirarDesmaiar 3 vezes
+01201	Preparado para Atacar	Cace um Tobi-Kadachi Vípero	Tempo expirarDesmaiar 3 vezes
+01202	Sem Tempo de Cochilar	Cace um Paolumu Beladona	Tempo expirarDesmaiar 3 vezes
+01203	Dos Dois Lados	Cace um Pukei-Pukei Coralino	Tempo expirarDesmaiar 3 vezes
+01221	Paralisia Analítica	Cace um Tobi-Kadachi Vípero	Tempo expirarDesmaiar 3 vezes
+01222	Pitada de Veneno e Paralisia	Capture um Tobi-Kadachi Vípero	Tempo expirarDesmaiar 3 vezesTobi-Kadachi Vípero ser abatido
+01223	Boaboa Constritora	Derrote 14 Boaboas	Tempo expirarDesmaiar 3 vezes
+01224	Pelos Nossos Poderes Combinados	Cace um Beotodus	Tempo expirarDesmaiar 3 vezes
+01225	Uma Mão Lava a...	Cace um Beotodus	Tempo expirarDesmaiar 3 vezes
+01231	Arena Especial: Anjanath RM	Cace um Anjanath	Tempo expirarDesmaiar 3 vezes
+01232	Arena Especial: Radobaan RM	Cace um Radobaan	Tempo expirarDesmaiar 3 vezes
+01233	Arena Especial: Pukei-Pukei Coralino RM	Cace um Pukei-Pukei Coralino	Tempo expirarDesmaiar 3 vezes
+01234	Arena Especial: Tobi-Kadachi Vípero RM	Cace um Tobi-Kadachi Vípero	Tempo expirarDesmaiar 3 vezes
+01235	Arena Especial: Rathian RM	Cace uma Rathian	Tempo expirarDesmaiar 3 vezes
+01236	Arena Especial: Rathian Rosa RM	Cace uma Rathian Rosa	Tempo expirarDesmaiar 3 vezes
+01237	Arena Especial: Paolumu RM	Cace um Paolumu	Tempo expirarDesmaiar 3 vezes
+01238	Arena Especial: Paolumu Beladona RM	Cace um Paolumu Beladona	Tempo expirarDesmaiar 3 vezes
+01251	Anjanath Atarantado	Cace um Anjanath	Tempo expirarDesmaiar 3 vezes
+01252	Paixão Errada	Cace uma Rathian	Tempo expirarDesmaiar 3 vezes
+01253	Beladona Boa Noite	Capture um Paolumu Beladona	Tempo expirarDesmaiar 3 vezesPaolumu Beladona ser abatido
+01261	Rainha por Natureza	Cace uma Rathian	Tempo expirarDesmaiar 3 vezes
+01262	Um Rosto de Causar Pesadelos	Cace um Paolumu Beladona	Tempo expirarDesmaiar 3 vezes
+01263	Meta Seu Nariz em Outro Lugar	Cace um Anjanath	Tempo expirarDesmaiar 3 vezes
+01264	Papo de Garotas Agitadas	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+01271	O Problema do Paolumu	Cace um Paolumu	Tempo expirarDesmaiar 3 vezes
+01272	Realeza Rosa	Cace uma Rathian Rosa	Tempo expirarDesmaiar 3 vezes
+01273	Dica: Beba Água	Cace um Pukei-Pukei Coralino	Tempo expirarDesmaiar 3 vezes
+01274	Beba com Moderação!	Cace um Pukei-Pukei Coralino	Tempo expirarDesmaiar 3 vezes
+01281	Coisa Séria	Cace um Radobaan	Tempo expirarDesmaiar 3 vezes
+01282	Sumam, Insetos!	Mate todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+01291	Procurando Aquele Brilho	Entregue 20 Âmbares Gaia	Tempo expirarDesmaiar 3 vezes
+01301	Guerra Gelada	Cace um Barioth	Tempo expirarDesmaiar 3 vezes
+01302	Sombra Onipresente	Cace um Nargacuga	Tempo expirarDesmaiar 3 vezes
+01303	A Lâmina Escaldante	Cace um Glavenus	Tempo expirarDesmaiar 3 vezes
+01304	Poder Absoluto	Cace um Tigrex	Tempo expirarDesmaiar 3 vezes
+01305	Um Contragolpe Esmagador	Cace um Brachydios	Tempo expirarDesmaiar 3 vezes
+01306	Um Conto de Fogo e Gelo	Afugente Velkhana	Tempo expirarDesmaiar 3 vezes
+01321	Lembra Daquela Vez?	Cace um Barioth	Tempo expirarDesmaiar 3 vezes
+01322	O Quarto Perrrfeito: Pedra	Capture um Tigrex	Tempo expirarDesmaiar 3 vezesTigrex ser abatido
+01323	Orgulhoso Cavaleiro Branco	Cace um Barioth	Tempo expirarDesmaiar 3 vezes
+01331	Arena Especial: Legiana RM	Cace um Legiana	Tempo expirarDesmaiar 3 vezes
+01332	Arena Especial: Odogaron RM	Cace um Odogaron	Tempo expirarDesmaiar 3 vezes
+01333	Arena Especial: Uragaan RM	Cace um Uragaan	Tempo expirarDesmaiar 3 vezes
+01334	Arena Especial: Rathalos RM	Cace um Rathalos	Tempo expirarDesmaiar 3 vezes
+01335	Arena Especial: Diablos RM	Cace um Diablos	Tempo expirarDesmaiar 3 vezes
+01336	Arena Especial: Barioth RM	Cace um Barioth	Tempo expirarDesmaiar 3 vezes
+01337	Arena Especial: Nargacuga RM	Cace um Nargacuga	Tempo expirarDesmaiar 3 vezes
+01338	Arena Especial: Glavenus RM	Cace um Glavenus	Tempo expirarDesmaiar 3 vezes
+01339	Arena Especial: Brachydios RM	Cace um Brachydios	Tempo expirarDesmaiar 3 vezes
+01340	Arena Especial: Tigrex RM	Cace um Tigrex	Tempo expirarDesmaiar 3 vezes
+01351	Rasante Irritante	Cace um Rathalos	Tempo expirarDesmaiar 3 vezes
+01352	Narga Muda os Erros Passados	Cace um Nargacuga	Tempo expirarDesmaiar 3 vezes
+01353	O Segredo do Corte Perfeito	Cace um Glavenus	Tempo expirarDesmaiar 3 vezes
+01354	Ases Vermelho e Negro	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+01361	Areia Traiçoeira	Cace um Diablos	Tempo expirarDesmaiar 3 vezes
+01362	O Brilho da Lâmina	Cace um Glavenus	Tempo expirarDesmaiar 3 vezes
+01363	Ferver e Fatiar!	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+01371	O Último dos Legianas	Cace um Legiana	Tempo expirarDesmaiar 3 vezes
+01372	O Vento Negro	Cace um Nargacuga	Tempo expirarDesmaiar 3 vezes
+01373	Uma Ferida Repugnante	Cace um Odogaron	Tempo expirarDesmaiar 3 vezes
+01381	Por Baixo da Carne Seca	Cace um Odogaron	Tempo expirarDesmaiar 3 vezes
+01382	Um Rugido que Abalou o Vale	Cace um Tigrex	Tempo expirarDesmaiar 3 vezes
+01383	Correr, Rolar e Chorar	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+01391	Olha a Explosão!	Cace um Brachydios	Tempo expirarDesmaiar 3 vezes
+01392	Todos Sabem Criticar	Cace um Lavasioth	Tempo expirarDesmaiar 3 vezes
+01393	Fora, Uragaan	Cace um Uragaan	Tempo expirarDesmaiar 3 vezes
+01394	Segredo da Gosma	Capture um Brachydios	Tempo expirarDesmaiar 3 vezesBrachydios ser abatido
+01395	Festival de Explosões!	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+01401	Quando a Névoa Levar-te	Cace um Legiana Estridente	Tempo expirarDesmaiar 3 vezes
+01402	A Lâmina Desintegradora	Cace um Glavenus Ácido	Tempo expirarDesmaiar 3 vezes
+01403	Maus Amigos, Ótimos Inimigos	Cace um Odogaron Negro	Tempo expirarDesmaiar 3 vezes
+01404	A Defesa de Seliana	Conclua o serviço	Tempo expirarDesmaiar 3 vezesNão defender Seliana
+01405	O Encrenqueiro Trovejante!	Cace um Anjanath Fulgurante	Tempo expirarDesmaiar 3 vezes
+01421	Caçador do Gelo Nobre	Cace um Legiana Estridente	Tempo expirarDesmaiar 3 vezes
+01422	Encrenqueiro da Tundra	Cace um Anjanath Fulgurante	Tempo expirarDesmaiar 3 vezes
+01423	Dueto da Geada	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+01424	Tesouro no Vapor	Entregue 2 Pedras da Fonte Termal	Tempo expirarDesmaiar 3 vezes
+01431	Arena Especial: Rathalos Lazúli RM	Cace um Rathalos Lazúli	Tempo expirarDesmaiar 3 vezes
+01432	Arena Especial: Diablos Negra RM	Cace uma Diablos Negra	Tempo expirarDesmaiar 3 vezes
+01433	Arena Especial: Glavenus Ácido RM	Cace um Glavenus Ácido	Tempo expirarDesmaiar 3 vezes
+01434	Arena Especial: Odogaron Negro RM	Cace um Odogaron Negro	Tempo expirarDesmaiar 3 vezes
+01435	Arena Especial: Anjanath Fulgurante RM	Cace um Anjanath Fulgurante	Tempo expirarDesmaiar 3 vezes
+01451	Olhos Lazúli que Tudo Veem	Cace um Rathalos Lazúli	Tempo expirarDesmaiar 3 vezes
+01452	Infortúnio na Floresta	Cace um Odogaron Negro	Tempo expirarDesmaiar 3 vezes
+01461	No Calor do Momento	Cace uma Diablos Negra	Tempo expirarDesmaiar 3 vezes
+01462	Negro Perfurante	Cace uma Diablos Negra	Tempo expirarDesmaiar 3 vezes
+01471	Um Transgressor Sombrio	Cace um Odogaron Negro	Tempo expirarDesmaiar 3 vezes
+01481	Essa Lâmina Corroída	Cace um Glavenus Ácido	Tempo expirarDesmaiar 3 vezes
+01482	O Quarto Perrrfeito: Ferro Claro	Capture um Glavenus Ácido	Tempo expirarDesmaiar 3 vezesGlavenus Ácido ser abatido
+01483	O Quarto Perrrfeito: Ferro Escuro	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+01491	Blues do Rathalos Azul	Cace um Rathalos Lazúli	Tempo expirarDesmaiar 3 vezes
+01492	Prenda o Mandíbula de Trovão	Capture um Anjanath Fulgurante	Tempo expirarDesmaiar 3 vezesAnjanath Fulgurante ser abatido
+01501	A Serpe Nascida do Gelo	Mate um Velkhana	Tempo expirarDesmaiar 3 vezes
+01502	A Segunda Vinda	Cace um Bazelgeuse Vulcânico	Tempo expirarDesmaiar 3 vezes
+01503	Sob o Véu da Morte	Mate um Vaal Hazak Velado	Tempo expirarDesmaiar 3 vezes
+01504	Uma Luz do Abismo	Mate um Namielle	Tempo expirarDesmaiar 3 vezes
+01521	Duelo de Lâminas na Geada	Mate um Velkhana	Tempo expirarDesmaiar 3 vezes
+01551	O Arauto do Céu Limpo	Mate um Kushala Daora	Tempo expirarDesmaiar 3 vezes
+01552	Lá Vem a Morte	Mate um Vaal Hazak Velado	Tempo expirarDesmaiar 3 vezes
+01561	Audiência Real na Areia	Mate um Teostra	Tempo expirarDesmaiar 3 vezes
+01562	O Banquete do Tirano	Cace um Deviljho Selvagem	Tempo expirarDesmaiar 3 vezes
+01571	O Cair do Raio	Mate um Kirin	Tempo expirarDesmaiar 3 vezes
+01572	Memórias do Deus do Mar	Mate um Namielle	Tempo expirarDesmaiar 3 vezes
+01581	Uma Vida Após a Morte pra Mim!	Mate um Vaal Hazak Velado	Tempo expirarDesmaiar 3 vezes
+01591	Asas do Vento	Mate um Kushala Daora	Tempo expirarDesmaiar 3 vezes
+01592	Marca do Sol	Mate um Teostra	Tempo expirarDesmaiar 3 vezes
+01593	Fervendo de Raiva	Cace um Bazelgeuse Vulcânico	Tempo expirarDesmaiar 3 vezes
+01594	O Quarto Perrrfeito: Prata	Capture um Bazelgeuse Vulcânico	Tempo expirarDesmaiar 3 vezesBazelgeuse Vulcânico ser abatido
+01601	Uma Fanfarra aos Guiados	Conclua o serviço	Tempo expirarDesmaiar 3 vezes
+01602	Fanfarra Orientadora	Conclua o serviço	Tempo expirarDesmaiar 3 vezes
+01603	Durma Agora no Fogo	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+01604	Festa dos Fortões	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+01605	Com Você Até o Fim	Mate um Nergigante Ferrenho	Tempo expirarDesmaiar 3 vezes
+01606	O Retorno do Louco	Cace um Yian Garuga	Tempo expirarDesmaiar 3 vezes
+01631	A Cidade é Nossa	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+01632	Arena Especial: Zinogre RM	Cace um Zinogre	Tempo expirarDesmaiar 3 vezes
+01633	Arena Especial: Yian Garuga RM	Cace um Yian Garuga	Tempo expirarDesmaiar 3 vezes
+01634	Arena Especial: Tigrex Bruto RM	Cace um Tigrex Bruto	Tempo expirarDesmaiar 3 vezes
+01635	Arena Especial: Rathian Dourada RM	Cace uma Rathian Dourada	Tempo expirarDesmaiar 3 vezes
+01636	Arena Especial: Rathalos Prateado RM	Cace um Rathalos Prateado	Tempo expirarDesmaiar 3 vezes
+01641	Lorelei Distante	Mate um Shara Ishvalda	Tempo expirarDesmaiar 3 vezes
+01642	Hino do Sol e da Lua	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+01651	A Tempestade Traz o Inesperado	Mate todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+01661	Uma Noite Quente no Ermo	Mate uma Lunastra	Tempo expirarDesmaiar 3 vezes
+01671	Surto Divino	Mate todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+01691	No Palácio das Chamas	Mate uma Lunastra	Tempo expirarDesmaiar 3 vezes
+01692	Caçador Mestre do Novo Mundo	Mate todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+03001	Missão de Arena 02	Mate um Kulu-Ya-Ku	Tempo expirarDesmaiar 9 vezes
+03002	Missão de Arena 03	Mate uma Rathian	Tempo expirarDesmaiar 9 vezes
+03031	Missão de Arena 04	Mate um Tzitzi-Ya-Ku	Tempo expirarDesmaiar 9 vezes
+03032	Missão de Arena 05	Mate um Barroth	Tempo expirarDesmaiar 9 vezes
+03033	Missão de Arena 06	Mate um Dodogama	Tempo expirarDesmaiar 9 vezes
+03034	Missão de Arena 07	Mate um Rathalos Lazúli	Tempo expirarDesmaiar 9 vezes
+03051	Missão de Arena 08	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
+03052	Missão de Arena 09	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
+03071	Missão Mestre da Arena 02	Mate um Paolumu Beladona	Tempo expirarDesmaiar 9 vezes
+03072	Missão Mestre da Arena 03	Mate um Nargacuga	Tempo expirarDesmaiar 9 vezes
+03073	Missão Mestre da Arena 04	Mate um Glavenus Ácido	Tempo expirarDesmaiar 9 vezes
+03074	Missão Mestre da Arena 05	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
+03091	Missão Mestre da Arena 06	Mate um Zinogre	Tempo expirarDesmaiar 9 vezes
+03092	Missão Mestre da Arena 07	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
+03101	Missão de Arena 01	Mate um Pukei-Pukei	Tempo expirarDesmaiar 9 vezes
+03171	Missão Mestre da Arena 01	Mate um Banbaro	Tempo expirarDesmaiar 9 vezes
+05003	Trupes Atrapalhadas	Cace 2 Tzitzi-Ya-Ku	Tempo expirarDesmaiar 3 vezes
+0	Invalid Message	Invalid Message	Invalid Message
+30000	Unavailable	Unavailable	Unavailable
+30001	Unavailable	Unavailable	Unavailable
+30002	Unavailable	Unavailable	Unavailable
+30003	Unavailable	Unavailable	Unavailable
+30004	Unavailable	Unavailable	Unavailable
+30005	Unavailable	Unavailable	Unavailable
+30006	Unavailable	Unavailable	Unavailable
+30007	Unavailable	Unavailable	Unavailable
+30008	Unavailable	Unavailable	Unavailable
+30009	Unavailable	Unavailable	Unavailable
+50601	Visitante de Outro Mundo	Conclua o serviço	Tempo expirarDesmaiar 3 vezes
+50701	Dominador da Cadeia Alimentar	Cace um Deviljho	Tempo expirarDesmaiar 3 vezes
+50702	Invalid Message	Invalid Message	Invalid Message
+50751	Especial do dia: Caça Flambada	Cace um Deviljho	Tempo expirarDesmaiar 3 vezes
+50801	O Sol Escaldante	Mate o Teostra	Tempo expirarDesmaiar 3 vezes
+50802	Arena de Pandora	Conclua o serviço	Tempo expirarDesmaiar 3 vezes
+50803	Sem Remorso, Sem Rendição	Mate todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+50831	Unavailable	Unavailable	Unavailable
+50861	Monarquia Infernal	Mate todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+50891	Proeminência Azul	Mate a Lunastra	Tempo expirarDesmaiar 3 vezes
+50892	Proeminência Azul	Mate a Lunastra	Tempo expirarDesmaiar 3 vezes
+50901	Banquete no Salão de Terra	Afugente a Kulve Taroth	Tempo expirarDesmaiar 3 vezes
+50902	A Fúria de El Dorado	Afugente a Kulve Taroth	Tempo expirarDesmaiar 3 vezes
+50905	A Lendária Fera	Conclua o serviço	Tempo expirarDesmaiar 9 vezes
+50906	Ele Tira com os Olhos	Mate o Behemoth	Tempo expirarDesmaiar 3 vezes
+50910	Contrato: Encrenca na Floresta Ancestral	Conclua o serviço	Tempo expirarDesmaiar 3 vezes
+50991	Visitante de Eorzea	Mate o Behemoth	Tempo expirarDesmaiar 3 vezes
+50992	Invalid Message	Invalid Message	Invalid Message
+51601	Revela-te, Destruidor	Conclua o serviço	Tempo expirarDesmaiar 3 vezes
+51602	Orgulho Inabalado	Mate um Kirin	Tempo expirarDesmaiar 3 vezes
+51603	Pelo Caminho Perdido	Conclua o serviço	Tempo expirarDesmaiar 3 vezes
+51604	Ponto sem Volta	Conclua o serviço	Tempo expirarDesmaiar 3 vezes
+51605	O Dragão Vermelho	Mate Safi'jiiva	Tempo expirarDesmaiar 3 vezes
+51606	Minha Cólera Contra Todos	Mate um Brachydios Colérico	Tempo expirarDesmaiar 3 vezes
+51607	A Fúria Permanece	Cace um Rajang Furioso	Tempo expirarDesmaiar 3 vezes
+51611	Unavailable	Unavailable	Unavailable
+51612	Unavailable	Unavailable	Unavailable
+51621	Arena Especial: Zinogre Tenebroso RM	Cace um Zinogre Tenebroso	Tempo expirarDesmaiar 3 vezes
+51622	Explosão de Sentimentos	Mate um Brachydios Colérico	Tempo expirarDesmaiar 3 vezes
+51623	Tudo o que Brilha é Furioso	Cace um Rajang Furioso	Tempo expirarDesmaiar 3 vezes
+51624	Unavailable	Unavailable	Unavailable
+51625	Unavailable	Unavailable	Unavailable
+61101	Acordar com o Canto do Galo	Mate 12 Kestodontes	Tempo expirarDesmaiar 3 vezes
+61103	Encontro entre Sol e Lua	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+61104	Encrenqueiros da Floresta	Cace 2 Anjanath	Tempo expirarDesmaiar 3 vezes
+61105	Sonho de Todo Caçador	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+61601	Caos da Meia-noite	Mate 10 Gastodontes	Tempo expirarDesmaiar 3 vezes
+61603	Dor Real	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+61604	Reis Não Temem	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+61605	Musgoinando no Jantar	Mate 5 Musgoínos	Tempo expirarDesmaiar 9 vezes
+61606	O Maior Jagras	Cace um Grande Jagras	Tempo expirarDesmaiar 3 vezes
+61607	O Nome é Lavasioth!	Cace um Lavasioth	Tempo expirarDesmaiar 3 vezes
+61801	Apanhadores de Pérolas	Entregue 6 Macacos-da-fonte-pérola	Tempo expirarDesmaiar 3 vezes
+61802	Sonho de Todo Caçador III	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+61803	Sonho de Todo Caçador II	Capture um Pukei-Pukei Coralino	Tempo expirarDesmaiar 3 vezesPukei-Pukei Coralino ser abatido
+61805	Função Felpuda	Entregue 8 Pinguins Felpudos	Tempo expirarDesmaiar 3 vezes
+61806	Inúmeros Minérios	Cace um Brachydios	Tempo expirarDesmaiar 3 vezes
+61807	Uma Entrada de Dar Calafrios	Mate todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+61808	Maluquice Musculosa	Cace 2 Rajang	Tempo expirarDesmaiar 3 vezes
+61809	Acalantos de Paolumu	Cace um Paolumu Beladona	Tempo expirarDesmaiar 9 vezes
+61811	Frigidez Floral	Entregue 10 Gelerescências	Tempo expirarDesmaiar 3 vezes
+61812	Um Bife a Mais Nunca é Demais	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+61813	50 Tons de Branco	Cace um Barioth	Tempo expirarDesmaiar 3 vezes
+61814	Um Clímax Chocante	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+62502	A Cortina Mortalmente Silenciosa	Mate o Vaal Hazak	Tempo expirarDesmaiar 3 vezes
+62503	Sussurro de Juba Branca	Mate o Kirin	Tempo expirarDesmaiar 3 vezes
+62504	Escárnio do Sol	Mate o Teostra	Tempo expirarDesmaiar 3 vezes
+62505	Olho da Tempestade	Mate o Kushala Daora	Tempo expirarDesmaiar 3 vezes
+62506	Os Arautos da Destruição Choram	Mate o Nergigante	Tempo expirarDesmaiar 3 vezes
+62511	Pó Azul Supera Luxúria Vermelha	Mate a Lunastra	Tempo expirarDesmaiar 3 vezes
+62515	Aproveite o Momento	Cace um Deviljho	Tempo expirarDesmaiar 3 vezes
+62606	Crepúsculo Imortal	Guie Zorah Magdaros	Tempo expirarDesmaiar 3 vezesNão guiar Zorah Magdaros
+62607	Mariposa Atraída pela Chama	Mate o Xeno'jiiva	Tempo expirarDesmaiar 3 vezes
+62608	Observe a Aurora	Guie Zorah Magdaros	Tempo expirarDesmaiar 3 vezesNão guiar Zorah Magdaros
+62609	Guardião do Outro Mundo	Mate o Xeno'jiiva	Tempo expirarDesmaiar 3 vezes
+63001	Missão de Desafio 1: Iniciante	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
+63002	Missão de Desafio 2: Iniciante	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
+63003	Infestação Vespoidea!	Mate 30 Vespoideas	Tempo expirarDesmaiar 9 vezes
+63004	Pelo Caminho Escuro e Enlameado	Mate um Barroth	Tempo expirarDesmaiar 9 vezes
+63005	Desafio dos Iniciantes dos USJ!	Mate um Kulu-Ya-Ku	Tempo expirarDesmaiar 9 vezes
+63006	Desafio dos Peritos dos USJ!	Mate uma Rathian	Tempo expirarDesmaiar 9 vezes
+63007	Desafio dos Iniciantes dos USJ!	Mate um Tzitzi-Ya-Ku	Tempo expirarDesmaiar 9 vezes
+63008	Desafio dos Peritos dos USJ!	Mate um Rathalos	Tempo expirarDesmaiar 9 vezes
+63009	Pelo Caminho Escuro e Enlameado	Mate um Barroth	Tempo expirarDesmaiar 9 vezes
+63031	Missão de Desafio 1: Intermed.	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
+63032	Missão de Desafio 2: Intermed.	Mate 2 Odogaron	Tempo expirarDesmaiar 9 vezes
+63033	Surto de Gajalaka!	Derrote 10 Gajalaka	Tempo expirarDesmaiar 9 vezes
+63034	O Satsui No Hado Desperto I	Mate o Nergigante	Tempo expirarDesmaiar 9 vezes
+63035	O Satsui No Hado Desperto II	Mate o Nergigante	Tempo expirarDesmaiar 9 vezes
+63036	O Satsui No Hado Desperto III	Mate o Nergigante	Tempo expirarDesmaiar 9 vezes
+63037	Imperatriz em Pleno Esplendor I	Mate a Rathian Rosa	Tempo expirarDesmaiar 9 vezes
+63038	Imperatriz em Pleno Esplendor II	Mate a Rathian Rosa	Tempo expirarDesmaiar 9 vezes
+63039	Imperatriz em Pleno Esplendor III	Mate a Rathian Rosa	Tempo expirarDesmaiar 9 vezes
+63051	Missão de Desafio 1: Perito	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
+63052	Missão de Desafio 2: Perito	Mate o Nergigante	Tempo expirarDesmaiar 9 vezes
+63071	Missão de Desafio 1: Intermed. RM	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
+63072	Missão de Desafio 2: Intermed. RM	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
+63073	Missão de Desafio 1: Perito RM	Mate um Yian Garuga	Tempo expirarDesmaiar 9 vezes
+63074	Missão de Desafio 2: Perito RM	Mate um Deviljho Selvagem	Tempo expirarDesmaiar 9 vezes
+63101	Evento Mate o Nergigante 1	Mate o Nergigante	Tempo expirarDesmaiar 9 vezes
+63102	Evento Mate o Nergigante 2	Mate o Nergigante	Tempo expirarDesmaiar 9 vezes
+63103	Evento Mate o Nergigante 3	Mate o Nergigante	Tempo expirarDesmaiar 9 vezes
+63104	Evento Mate Legiana e Odogaron 1	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
+63105	Evento Mate Legiana e Odogaron 2	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
+63106	Evento Mate Legiana e Odogaron 3	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
+63107	Evento Mate o Nergigante 4	Mate o Nergigante	Tempo expirarDesmaiar 9 vezes
+63108	Evento Mate o Deviljho	Mate um Deviljho	Tempo expirarDesmaiar 9 vezes
+63109	O Melhor entre os Melhores	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
+63110	Aquilo que Espreita na Floresta	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
+63130	Quando a Lei Encontra a Guerra	Mate o Bazelgeuse	Tempo expirarDesmaiar 9 vezes
+63131	O Caçador e a Imperatriz Azul	Mate a Lunastra	Tempo expirarDesmaiar 9 vezes
+63142	Adeus ao Congelado	Mate um Velkhana	Tempo expirarDesmaiar 9 vezes
+64101	Guerra Cruel na Selvagulha	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+64601	Rolê com o Uragaan	Cace 2 Uragaans	Tempo expirarDesmaiar 3 vezes
+64801	Briga de Balões	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+64802	Que Estraga-festa...	Cace um Bazelgeuse Vulcânico	Tempo expirarDesmaiar 3 vezes
+65601	Arranhando com o Shamos	Cace 13 Shamos	Tempo expirarDesmaiar 3 vezes
+65602	Um Sucesso Fugaz	Cace 3 Tzitzi-Ya-Kus	Tempo expirarDesmaiar 3 vezes
+65603	Amantes de Ovos Unidos	Cace um Kulu-Ya-Ku	Tempo expirarDesmaiar 3 vezes
+65604	Tremendão, Tremendão	Entregue 10 Treme-tremes	Tempo expirarDesmaiar 3 vezes
+65605	Ameaça Tripla	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+65606	Uma Tarefa Simples	Entregue 10 Chap Cogum Gourmets	Tempo expirarDesmaiar 3 vezes
+65607	Rastreando a Encomenda	Entregue 10 Berilos Azuis	Tempo expirarDesmaiar 3 vezes
+66101	Jogar Conversa Fora	Cace 2 Grande Jagras	Tempo expirarDesmaiar 3 vezes
+66102	Ya-Ku-o-quê Mesmo?	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66103	Carne com Osso	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66104	Kirin, o Mito	Mate 2 Kirins	Tempo expirarDesmaiar 3 vezes
+66105	A Gangue do Veneno	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66106	Recebendo os Glutões	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66601	O Blues do Verde Profundo	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66602	Bolero da Selvagulha	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66603	Valsa Coralina	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66604	Ópera Efluvial	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66605	Recesso de Rock n' Roll	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66606	É Assim que as Revoltas Começam	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66607	Neve e Flores de Cerejeira	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66608	Nariz por Olho	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66609	Usurpadores Não Têm Futuro	Cace o Bazelgeuse	Tempo expirarDesmaiar 3 vezes
+66610	O Usurpador	Mate todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66801	Pesque mas não Coma	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66802	O Chamado do Senhor do Submundo	Entregue 20 Frutas do Subsolo	Tempo expirarDesmaiar 3 vezes
+66803	Jogo Sujo	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66804	Delícias do Deserto	Entregue 20 Frutas-duras	Tempo expirarDesmaiar 3 vezes
+66805	Um Novo Encrenqueiro no Pedaço	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66806	Carnaval Colorido	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66807	Travadores de Caçadores	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66808	Mar e Céu de Fogo	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66809	Um Experimento Peculiar	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66810	Encharcada e Congelada	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66811	Fogo Bruto	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66812	Dérbi do Deserto	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66813	Nas Profundezas da Floresta	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66814	Servos do Vale	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66815	Os Três Reis	Mate todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66816	Blues Invernal	Mate todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66817	O Motivo da Fome	Cace um Deviljho Selvagem	Tempo expirarDesmaiar 3 vezes
+66818	Uivo Enluarado	Cace um Zinogre	Tempo expirarDesmaiar 3 vezes
+66819	Tudo Tranquilo, Tudo na Paz	Cace um Yian Garuga	Tempo expirarDesmaiar 3 vezes
+66820	Um Rugido que Estilhaça o Céu	Cace um Tigrex Bruto	Tempo expirarDesmaiar 3 vezes
+66821	Um Vislumbre Prateado	Cace um Rathalos Prateado	Tempo expirarDesmaiar 3 vezes
+66822	A Lua é uma Rainha Cruel	Cace uma Rathian Dourada	Tempo expirarDesmaiar 3 vezes
+66824	Agitado, Esgotado e Fascinado	Cace um Rajang	Tempo expirarDesmaiar 3 vezes
+66825	Cicatrizes Contam a História	Cace um Yian Garuga Escoriado	Tempo expirarDesmaiar 3 vezes
+66826	Cantando à Tirolesa na Floresta	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66827	Heavy Metal nos Ermos	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66828	Sinfonia Coralina	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66829	Madrigal Putrefato	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66830	Fenda do Rock Alternativo	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66831	Balada Glacial	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66832	Lobo do Inferno	Cace um Zinogre Tenebroso	Tempo expirarDesmaiar 3 vezes
+66834	Quando o Veloz Encara o Rugidor	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66835	A Fúria do Trovão Descende	Cace um Zinogre	Tempo expirarDesmaiar 3 vezes
+66836	Ode à Destruição	Mate um Nergigante Ferrenho	Tempo expirarDesmaiar 3 vezes
+67101	A Provação	Cace um Anjanath	Tempo expirarDesmaiar 3 vezes
+67102	Lições da Natureza	Mate 8 Barnos	Tempo expirarDesmaiar 3 vezes
+67103	Rush de Sangue	Cace 2 Odogarons	Tempo expirarDesmaiar 3 vezes
+67105	USJ: Tratamento Estrela de Ouro	Cace 3 Grande Jagras	Tempo expirarDesmaiar 3 vezes
+67106	USJ: Tratamento Estrela de Ouro	Cace 3 Grande Jagras	Tempo expirarDesmaiar 3 vezes
+67603	Estrelas Escaldantes Lazúli USJ!	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+67604	Estrelas Escaldantes Lazúli USJ!	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+67605	Código: Vermelho	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+67606	Visitante de Eorzea (Extremo)	Mate um Behemoth	Tempo expirarDesmaiar 3 vezes
+67607	O Coração de Nora	Cace 2 Deviljhos	Tempo expirarDesmaiar 3 vezes
+67608	QMF: Quieto, Mortal e Feroz	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+67610	Contrato: Espírito do Bosque	Mate o liche ancião	Tempo expirarDesmaiar 3 vezes
+67801	RE: Retorno da Arma Biológica	Mate um Vaal Hazak Velado	Tempo expirarDesmaiar 3 vezes

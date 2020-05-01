@@ -1,0 +1,402 @@
+Deco ID	Item ID	Deco Name	Slot Size
+0	727	Klejnot antidotum 1	1
+1	728	Klejnot antyparaliżu 1	1
+2	729	Klejnot rozbudzenia 1	1
+3	730	Klejnot niezłomności 1	1
+4	731	Klejnot antywybuchowy 1	1
+5	732	Klejnot szwów 1	1
+6	733	Klejnot trwałej obrony 1	1
+7	734	Klejnot zatyczek 3	3
+8	735	Klejnot wiatroodporności 2	2
+9	736	Klejnot równowagi 2	2
+10	739	Klejnot ataku 1	1
+11	740	Klejnot obrony 1	1
+12	741	Klejnot żywotności 1	1
+13	742	Klejnot regeneracji 1	1
+14	743	Klejnot ognioodporności 1	1
+15	744	Klejnot wodoodporności 1	1
+16	745	Klejnot lodoodporności 1	1
+17	746	Klejnot gromoodporności 1	1
+18	747	Klejnot smokoodporności 1	1
+19	748	Klejnot plagoodporności 1	1
+20	749	Klejnot pożogi 1	1
+21	750	Klejnot strumienia 1	1
+22	751	Klejnot mrozu 1	1
+23	752	Klejnot gromu 1	1
+24	753	Klejnot smoka 1	1
+25	754	Klejnot jadu 1	1
+26	755	Klejnot paraliżu 1	1
+27	756	Klejnot snu 1	1
+28	757	Klejnot wybuchu 1	1
+29	758	Klejnot trującej powłoki 3	3
+30	759	Klejnot powłoki paraliżu 3	3
+31	760	Klejnot powłoki snu 3	3
+32	761	Klejnot powłoki wybuchu 3	3
+33	763	Klejnot wyładowania 3	3
+34	764	Klejnot eksperta 1	1
+35	765	Klejnot krytyczny 2	2
+36	766	Klejnot zmiękczający 2	2
+37	767	Klejnot ładujący 2	2
+38	768	Klejnot rękodzieła 3	3
+39	769	Klejnot dobycia broni 2	2
+40	770	Klejnot niszczyciela 2	2
+41	771	Klejnot nokautu 2	2
+42	772	Klejnot wyssania 1	1
+43	774	Klejnot lotu 2	2
+44	775	Klejnot przyśpieszenia 2	2
+45	776	Klejnot prowokatora 2	2
+46	777	Klejnot perfekcji 2	2
+47	778	Klejnot potencjału 2	2
+48	779	Klejnot hartu 1	1
+49	780	Klejnot poruszenia 2	2
+50	781	Klejnot dźwięku 1	1
+51	782	Klejnot magazynka 2	2
+52	783	Klejnot celnego strzału 1	1
+53	784	Klejnot artylerii 1	1
+54	785	Klejnot ciężkiej artylerii 1	1
+55	786	Klejnot sprintera 2	2
+56	787	Klejnot sylwetki 2	2
+57	789	Klejnot orzeźwienia 2	2
+58	790	Klejnot niegłodnego 1	1
+59	791	Klejnot uniku 2	2
+60	792	Klejnot skoków 2	2
+61	793	Klejnot żelaznego muru 1	1
+62	794	Klejnot futerału 1	1
+63	795	Klejnot przyjaźni 1	1
+64	796	Klejnot wytrwałości 1	1
+65	797	Klejnot nasycenia 1	1
+66	798	Klejnot żarłoka 1	1
+67	799	Klejnot ostrzenia 1	1
+68	800	Klejnot bombowy 1	1
+69	801	Grzybny klejnot 1	1
+70	808	Klejnot ochrony 1	1
+71	809	Klejnot miaustrza 1	1
+72	810	Klejnot botaniki 1	1
+73	811	Klejnot geologii 1	1
+74	812	Klejnot mocy 2	2
+75	813	Klejnot ciskacza kamieni 1	1
+76	814	Klejnot skradania 1	1
+77	815	Klejnot gotowości 3	3
+78	819	Klejnot dymu 1	1
+79	820	Klejnot bagnołaza 1	1
+80	824	Klejnot okazu 1	1
+81	826	Klejnot zapachu 1	1
+82	828	Klejnot zastraszacza 1	1
+83	832	Klejnot ślizgacza 2	2
+84	833	Klejnot medycyny 1	1
+85	834	Klejnot silnego strzału 3	3
+86	835	Klejnot przebicia 3	3
+87	836	Klejnot rozrzutu 3	3
+88	837	Klejnot wydłużacza 2	2
+89	838	Klejnot kryzysu 1	1
+90	839	Klejnot smoczej pieczęci 3	3
+91	842	Klejnot konserwacji 1	1
+92	874	Klejnot potężnego łuku 2	2
+93	875	Klejnot oka umysłu 2	2
+94	876	Klejnot tarczy 2	2
+95	877	Ostry klejnot 2	2
+96	878	Bezżywiołowy klejnot 2	2
+97	825	Klejnot miazmatów 1	1
+98	1968	Klejnot feniksa 3	3
+99	1969	Klejnot strażnika 2	2
+100	1970	Klejnot chłodzący 2	2
+101	1971	Klejnot ognioodporności+ 4	4
+102	1972	Klejnot wodoodporności+ 4	4
+103	1973	Klejnot lodoodporności+ 4	4
+104	1974	Klejnot gromoodporności+ 4	4
+105	1975	Klejnot smokoodporności+ 4	4
+106	1976	Klejnot pożogi+ 4	4
+107	1977	Klejnot strumienia+ 4	4
+108	1978	Klejnot mrozu+ 4	4
+109	1979	Klejnot gromu+ 4	4
+110	1980	Klejnot smoka+ 4	4
+111	1981	Klejnot jadu+ 4	4
+112	1982	Klejnot paraliżu+ 4	4
+113	1983	Klejnot snu+ 4	4
+114	1984	Klejnot wybuchu+ 4	4
+115	1985	Twardy klejnot ognioodporności 4	4
+116	1986	Twardy klejnot wodoodporności 4	4
+117	1987	Twardy klejnot lodoodporności 4	4
+118	1988	Twardy klejnot gromoodporności 4	4
+119	1989	Twardy klejnot smokoodporności 4	4
+120	1990	Klejnot antidotum+ 4	4
+121	1991	Klejnot antyparaliżu+ 4	4
+122	1992	Klejnot rozbudzenia+ 4	4
+123	1993	Klejnot niezłomności+ 4	4
+124	1994	Klejnot antywybuchowy+ 4	4
+125	1995	Klejnot szwów+ 4	4
+126	1996	Klejnot trwałej obrony+ 4	4
+127	1997	Klejnot miazmatów+ 4	4
+128	1998	Klejnot niegłodnego+ 4	4
+129	1999	Klejnot regeneracji+ 4	4
+130	2000	Klejnot skradania+ 4	4
+131	2001	Klejnot zastraszacza+ 4	4
+132	2002	Klejnot miaustrza+ 4	4
+133	2003	Twardy klejnot skradania 4	4
+134	2004	Twardy klejnot zastraszacza 4	4
+135	2005	Twardy klejnot miaustrza 4	4
+136	2006	Klejnot celnego strzału+ 4	4
+137	2007	Klejnot ciężkiej artylerii+ 4	4
+138	2008	Klejnot botaniki+ 4	4
+139	2009	Klejnot geologii+ 4	4
+140	2010	Klejnot przetrwania+ 4	4
+141	2011	Klejnot bagnołaza+ 4	4
+142	2012	Klejnot okazu+ 4	4
+143	2013	Klejnot dźwięku+ 4	4
+144	2014	Twardy klejnot botaniki+ 4	4
+145	2015	Twardy klejnot geologii 4	4
+146	2016	Twardy klejnot przetrwania 4	4
+147	2017	Twardy klejnot okazu 4	4
+148	2018	Klejnot wytrwałości+ 4	4
+149	2019	Klejnot obrony+ 4	4
+150	2020	Twardy klejnot wytrwałości 4	4
+151	2021	Twardy klejnot obrony 4	4
+152	2022	Klejnot artylerii+ 4	4
+153	2023	Klejnot zatyczek+ 4	4
+154	2024	Klejnot wiatroodporności+ 4	4
+155	2025	Klejnot ataku+ 4	4
+156	2026	Klejnot eksperta+ 4	4
+157	2027	Klejnot rękodzieła+ 4	4
+158	2028	Klejnot przyspieszenia+ 4	4
+159	2029	Klejnot prowokatora+ 4	4
+160	2030	Klejnot potencjału+ 4	4
+161	2031	Klejnot poruszenia+ 4	4
+162	2032	Klejnot sylwetki+ 4	4
+163	2033	Klejnot uniku+ 4	4
+164	2034	Klejnot żelaznego muru+ 4	4
+165	2035	Klejnot przyjaźni+ 4	4
+166	2036	Klejnot wyssania/sylwetki 4	4
+167	2037	Klejnot hartu/sylwetki 4	4
+168	2038	Klejnot kryzysu/sylwetki 4	4
+169	2039	Klejnot żelaznego muru/sylwetki 4	4
+170	2040	Klejnot przyjaźni/sylwetki 4	4
+171	2041	Klejnot nasycenia/sylwetki 4	4
+172	2042	Klejn. ciskacza kamieni/sylwetki 4	4
+173	2043	Klejnot plagoodporności/sylwetki 4	4
+174	2044	Klejnot lotu/sylwetki 4	4
+175	2045	Klejnot sprintera/sylwetki 4	4
+176	2046	Klejnot orzeźwienia/sylwetki 4	4
+177	2047	Klejnot skoków/sylwetki 4	4
+178	2048	Klejnot futerału/sylwetki 4	4
+179	2049	Klejnot żarłoka/sylwetki 4	4
+180	2050	Klejnot ostrzenia/sylwetki 4	4
+181	2051	Klejnot bombowy/sylwetki 4	4
+182	2052	Klejnot grzybny/sylwetki 4	4
+183	2053	Klejnot ślizgacza/sylwetki 4	4
+184	2054	Klejnot strażnika/sylwetki 4	4
+185	2055	Klejnot wyssania/uniku 4	4
+186	2056	Klejnot hartu/uniku 4	4
+187	2057	Klejnot kryzysu/uniku 4	4
+188	2058	Klejnot żelaznego muru/uniku 4	4
+189	2059	Klejnot przyjaźni/uniku 4	4
+190	2060	Klejnot nasycenia/uniku 4	4
+191	2061	Klejnot ciskacza kamieni/uniku 4	4
+192	2062	Klejnot plagoodporności/uniku 4	4
+193	2063	Klejnot lotu/uniku 4	4
+194	2064	Klejnot sprintera/uniku 4	4
+195	2065	Klejnot orzeźwienia/uniku 4	4
+196	2066	Klejnot skoków/uniku 4	4
+197	2067	Klejnot futerału/uniku 4	4
+198	2068	Klejnot żarłoka/uniku 4	4
+199	2069	Klejnot ostrzenia/uniku 4	4
+200	2070	Klejnot bombowy/uniku 4	4
+201	2071	Klejnot grzybny/uniku 4	4
+202	2072	Klejnot ślizgacza/uniku 4	4
+203	2073	Klejnot strażnika/uniku 4	4
+204	2074	Klejnot wyssania/ataku 4	4
+205	2075	Klejnot hartu/ataku 4	4
+206	2076	Klejnot kryzysu/ataku 4	4
+207	2077	Klejnot żelaznego muru/ataku 4	4
+208	2078	Klejnot przyjaźni/ataku 4	4
+209	2079	Klejnot nasycenia/ataku 4	4
+210	2080	Klejnot ciskacza kamieni/ataku 4	4
+211	2081	Klejnot plagoodporności/ataku 4	4
+212	2082	Klejnot lotu/ataku 4	4
+213	2083	Klejnot sprintera/ataku 4	4
+214	2084	Klejnot orzeźwienia/ataku 4	4
+215	2085	Klejnot skoków/ataku 4	4
+216	2086	Klejnot futerału/ataku 4	4
+217	2087	Klejnot żarłoka/ataku 4	4
+218	2088	Klejnot ostrzenia/ataku 4	4
+219	2089	Klejnot bombowy/ataku 4	4
+220	2090	Klejnot grzybny/ataku 4	4
+221	2091	Klejnot ślizgacza/ataku 4	4
+222	2092	Klejnot strażnika/ataku 4	4
+223	2093	Klejnot wyssania/eksperta 4	4
+224	2094	Klejnot hartu/eksperta 4	4
+225	2095	Klejnot kryzysu/eksperta 4	4
+226	2096	Klejnot żelaznego muru/eksperta 4	4
+227	2097	Klejnot przyjaźni/eksperta 4	4
+228	2098	Klejnot nasycenia/eksperta 4	4
+229	2099	Klejn. ciskacza kamieni/eksperta 4	4
+230	2100	Klejnot plagoodporności/eksperta 4	4
+231	2101	Klejnot lotu/eksperta 4	4
+232	2102	Klejnot sprintera/eksperta 4	4
+233	2103	Klejnot orzeźwienia/eksperta 4	4
+234	2104	Klejnot skoków/eksperta 4	4
+235	2105	Klejnot futerału/eksperta 4	4
+236	2106	Klejnot żarłoka/eksperta 4	4
+237	2107	Klejnot ostrzenia/eksperta 4	4
+238	2108	Klejnot bombowy/eksperta 4	4
+239	2109	Klejnot grzybny/eksperta 4	4
+240	2110	Klejnot ślizgacza/eksperta 4	4
+241	2111	Klejnot strażnika/eksperta 4	4
+242	2112	Klejnot wyssania/wyładowania 4	4
+243	2113	Klejnot hartu/wyładowania 4	4
+244	2114	Klejnot kryzysu/wyładowania 4	4
+245	2115	Klej. żelaznego muru/wyładowania 4	4
+246	2116	Klejnot przyjaźni/wyładowania 4	4
+247	2117	Klejnot nasycenia/wyładowania 4	4
+248	2118	Kl. ciskacza kamieni/wyładowania 4	4
+249	2119	Kl. plagoodporności/wyładowania 4	4
+250	2120	Klejnot lotu/wyładowania 4	4
+251	2121	Klejnot sprintera/wyładowania 4	4
+252	2122	Klejnot orzeźwienia/wyładowania 4	4
+253	2123	Klejnot skoków/wyładowania 4	4
+254	2124	Klejnot futerału/wyładowania 4	4
+255	2125	Klejnot żarłoka/wyładowania 4	4
+256	2126	Klejnot ostrzenia/wyładowania 4	4
+257	2127	Klejnot bombowy/wyładowania 4	4
+258	2128	Klejnot grzybny/wyładowania 4	4
+259	2129	Klejnot ślizgacza/wyładowania 4	4
+260	2130	Klejnot strażnika/wyładowania 4	4
+261	2131	Klejnot wyssania/rękodzieła 4	4
+262	2132	Klejnot hartu/rękodzieła 4	4
+263	2133	Klejnot kryzysu/rękodzieła 4	4
+264	2134	Klejn. żelaznego muru/rękodzieła 4	4
+265	2135	Klejnot przyjaźni/rękodzieła 4	4
+266	2136	Klejnot nasycenia/rękodzieła 4	4
+267	2137	Kl. ciskacza kamieni/rękodzieła 4	4
+268	2138	Kl. plagoodporności/rękodzieła 4	4
+269	2139	Klejnot lotu/rękodzieła 4	4
+270	2140	Klejnot sprintera/rękodzieła 4	4
+271	2141	Klejnot orzeźwienia/rękodzieła 4	4
+272	2142	Klejnot skoków/rękodzieła 4	4
+273	2143	Klejnot futerału/rękodzieła 4	4
+274	2144	Klejnot żarłoka/rękodzieła 4	4
+275	2145	Klejnot ostrzenia/rękodzieła 4	4
+276	2146	Klejnot bombowy/rękodzieła 4	4
+277	2147	Klejnot grzybny/rękodzieła 4	4
+278	2148	Klejnot ślizgacza/rękodzieła 4	4
+279	2149	Klejnot strażnika/rękodzieła 4	4
+280	2150	Klejnot równowagi/ochrony 4	4
+281	2151	Klejnot ładujący/ochrony 4	4
+282	2152	Klejnot wydłużacza/ochrony 4	4
+283	2153	Klejnot niszczyciela/ochrony 4	4
+284	2154	Klejnot nokautu/ochrony 4	4
+285	2155	Klejnot potencjału/ochrony 4	4
+286	2156	Klejnot wiatroodporności/ochrony 4	4
+287	2157	Klejnot dobycia broni/ochrony 4	4
+288	2158	Klejnot przyspieszenia/ochrony 4	4
+289	2159	Klejnot prowokatora/ochrony 4	4
+290	2160	Klejnot perfekcji/ochrony 4	4
+291	2161	Klejnot poruszenia/ochrony 4	4
+292	2162	Klejnot mocy/ochrony 4	4
+293	2163	Klejnot gotowości/ochrony 4	4
+294	2164	Klejnot feniksa/ochrony 4	4
+295	2165	Klejnot zatyczek/ochrony 4	4
+296	2166	Klejnot krytyczny/ochrony 4	4
+297	2167	Klejnot zmiękczający/ochrony 4	4
+298	2168	Klejnot rękodzieła/ochrony 4	4
+299	2169	Klejnot wyładowania/ochrony 4	4
+300	2170	Klejnot równowagi/medycyny 4	4
+301	2171	Klejnot ładujący/medycyny 4	4
+302	2172	Klejnot wydłużacza/medycyny 4	4
+303	2173	Klejnot niszczyciela/medycyny 4	4
+304	2174	Klejnot nokautu/medycyny 4	4
+305	2175	Klejnot potencjału/medycyny 4	4
+306	2176	Klejnot wiatroodp./medycyny 4	4
+307	2177	Klejnot dobycia broni/medycyny 4	4
+308	2178	Klejnot przyspieszenia/medycyny 4	4
+309	2179	Klejnot prowokatora/medycyny 4	4
+310	2180	Klejnot perfekcji/medycyny 4	4
+311	2181	Klejnot poruszenia/medycyny 4	4
+312	2182	Klejnot mocy/medycyny 4	4
+313	2183	Klejnot gotowości/medycyny 4	4
+314	2184	Klejnot feniksa/medycyny 4	4
+315	2185	Klejnot zatyczek/medycyny 4	4
+316	2186	Klejnot krytyczny/medycyny 4	4
+317	2187	Klejnot zmiękczający/medycyny 4	4
+318	2188	Klejnot rękodzieła/medycyny 4	4
+319	2189	Klejnot wyładowania/medycyny 4	4
+320	2190	Klejnot równowagi/żywotności 4	4
+321	2191	Klejnot ładujący/żywotności 4	4
+322	2192	Klejnot wydłużacza/żywotności 4	4
+323	2193	Klejnot niszczyciela/żywotności 4	4
+324	2194	Klejnot nokautu/żywotności 4	4
+325	2195	Klejnot potencjału/żywotności 4	4
+326	2196	Klejnot wiatroodp./żywotności 4	4
+327	2197	Klejnot dobycia broni/żywotności 4	4
+328	2198	Klejnot przyspiesz./żywotności 4	4
+329	2199	Klejnot prowokatora/żywotności 4	4
+330	2200	Klejnot perfekcji/żywotności 4	4
+331	2201	Klejnot poruszenia/żywotności 4	4
+332	2202	Klejnot mocy/żywotności 4	4
+333	2203	Klejnot gotowości/żywotności 4	4
+334	2204	Klejnot feniksa/żywotności 4	4
+335	2205	Klejnot zatyczek/żywotności 4	4
+336	2206	Klejnot krytyczny/żywotności 4	4
+337	2207	Klejnot zmiękczający/żywotności 4	4
+338	2208	Klejnot rękodzieła/żywotności 4	4
+339	2209	Klejnot wyładowania/żywotności 4	4
+340	2210	Klejnot równowagi/konserwacji 4	4
+341	2211	Klejnot ładujący/konserwacji 4	4
+342	2212	Klejnot wydłużacza/konserwacji 4	4
+343	2213	Klejnot niszczyciela/konserwacji 4	4
+344	2214	Klejnot nokautu/konserwacji 4	4
+345	2215	Klejnot potencjału/konserwacji 4	4
+346	2216	Klejnot wiatroodp./konserwacji 4	4
+347	2217	Klejnot dobycia br./konserwacji 4	4
+348	2218	Klejnot przyspiesz./konserwacji 4	4
+349	2219	Klejnot prowokatora/konserwacji 4	4
+350	2220	Klejnot perfekcji/konserwacji 4	4
+351	2221	Klejnot poruszenia/konserwacji 4	4
+352	2222	Klejnot mocy/konserwacji 4	4
+353	2223	Klejnot gotowości/konserwacji 4	4
+354	2224	Klejnot feniksa/konserwacji 4	4
+355	2225	Klejnot zatyczek/konserwacji 4	4
+356	2226	Klejnot krytyczny/konserwacji 4	4
+357	2227	Klejnot zmiękczający/konserwacji 4	4
+358	2228	Klejnot rękodzieła/konserwacji 4	4
+359	2229	Klejnot wyładowania/konserwacji 4	4
+360	2230	Klejnot równowagi/sylwetki 4	4
+361	2231	Klejnot ładujący/sylwetki 4	4
+362	2232	Klejnot wydłużacza/sylwetki 4	4
+363	2233	Klejnot niszczyciela/sylwetki 4	4
+364	2234	Klejnot nokautu/sylwetki 4	4
+365	2235	Klejnot potencjału/sylwetki 4	4
+366	2236	Klejnot wiatroodp./sylwetki 4	4
+367	2237	Klejnot dobycia broni/sylwetki 4	4
+368	2238	Klejnot przyspieszenia/sylwetki 4	4
+369	2239	Klejnot prowokatora/sylwetki 4	4
+370	2240	Klejnot perfekcji/sylwetki 4	4
+371	2241	Klejnot poruszenia/sylwetki 4	4
+372	2242	Klejnot mocy/sylwetki 4	4
+373	2243	Klejnot gotowości/sylwetki 4	4
+374	2244	Klejnot feniksa/sylwetki 4	4
+375	2245	Klejnot zatyczek/sylwetki 4	4
+376	2246	Klejnot krytyczny/sylwetki 4	4
+377	2247	Klejnot zmiękczający/sylwetki 4	4
+378	2248	Klejnot rękodzieła/sylwetki 4	4
+379	2249	Klejnot wyładowania/sylwetki 4	4
+380	2250	Klejnot równowagi/uniku 4	4
+381	2251	Klejnot ładujący/uniku 4	4
+382	2252	Klejnot wydłużacza/uniku 4	4
+383	2253	Klejnot niszczyciela/uniku 4	4
+384	2254	Klejnot nokautu/uniku 4	4
+385	2255	Klejnot potencjału/uniku 4	4
+386	2256	Klejnot wiatroodporności/uniku 4	4
+387	2257	Klejnot dobycia broni/uniku 4	4
+388	2258	Klejnot przyspieszenia/uniku 4	4
+389	2259	Klejnot prowokatora/uniku 4	4
+390	2260	Klejnot perfekcji/uniku 4	4
+391	2261	Klejnot poruszenia/uniku 4	4
+392	2262	Klejnot mocy/uniku 4	4
+393	2263	Klejnot gotowości/uniku 4	4
+394	2264	Klejnot feniksa/uniku 4	4
+395	2265	Klejnot zatyczek/uniku 4	4
+396	2266	Klejnot krytyczny/uniku 4	4
+397	2267	Klejnot zmiękczający/uniku 4	4
+398	2268	Klejnot rękodzieła/uniku 4	4
+399	2269	Klejnot wyładowania/uniku 4	4
+400	2272	Klejnot ocieplenia 2	2

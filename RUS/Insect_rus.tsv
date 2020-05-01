@@ -1,0 +1,106 @@
+Insect ID	Insect Code	Insect Name	Model
+0	ROD_INSECT_000_NAME	Трутень-убийца 1	mus001
+1	ROD_INSECT_001_NAME	Трутень-убийца 2	mus001
+2	ROD_INSECT_002_NAME	Трутень-убийца 3	mus001
+3	ROD_INSECT_003_NAME	Алуканид 1	mus003
+4	ROD_INSECT_004_NAME	Алуканид 2	mus003
+5	ROD_INSECT_005_NAME	Алуканид 3	mus003
+6	ROD_INSECT_006_NAME	Алуканид-монарх 1	mus004
+7	ROD_INSECT_007_NAME	Алуканид-монарх 2	mus004
+8	ROD_INSECT_008_NAME	Алуканид-монарх 3	mus004
+9	ROD_INSECT_009_NAME	Крыло императрицы 1	mus005
+10	ROD_INSECT_010_NAME	Крыло императрицы 2	mus005
+11	ROD_INSECT_011_NAME	Крыло императрицы 3	mus005
+12	ROD_INSECT_012_NAME	Ригипрайн 1	mus006
+13	ROD_INSECT_013_NAME	Ригипрайн 2	mus006
+14	ROD_INSECT_014_NAME	Ригипрайн 3	mus006
+15	ROD_INSECT_015_NAME	Канкадаман 1	mus007
+16	ROD_INSECT_016_NAME	Канкадаман 2	mus007
+17	ROD_INSECT_017_NAME	Канкадаман 3	mus007
+18	ROD_INSECT_018_NAME	Брикс-обманщик 1	mus008
+19	ROD_INSECT_019_NAME	Брикс-обманщик 2	mus008
+20	ROD_INSECT_020_NAME	Брикс-обманщик 3	mus008
+21	ROD_INSECT_021_NAME	Ветролом 1	mus009
+22	ROD_INSECT_022_NAME	Ветролом 2	mus009
+23	ROD_INSECT_023_NAME	Ветролом 3	mus009
+24	ROD_INSECT_024_NAME	Гранкатар 1	mus010
+25	ROD_INSECT_025_NAME	Гранкатар 2	mus010
+26	ROD_INSECT_026_NAME	Гранкатар 3	mus010
+27	ROD_INSECT_027_NAME	Псевдокат 1	mus011
+28	ROD_INSECT_028_NAME	Псевдокат 2	mus011
+29	ROD_INSECT_029_NAME	Псевдокат 3	mus011
+30	ROD_INSECT_030_NAME	Трутень-кувалда 1	mus012
+31	ROD_INSECT_031_NAME	Трутень-кувалда 2	mus012
+32	ROD_INSECT_032_NAME	Трутень-кувалда 3	mus012
+33	ROD_INSECT_033_NAME	Врагожук 1	mus014
+34	ROD_INSECT_034_NAME	Врагожук 2	mus014
+35	ROD_INSECT_035_NAME	Врагожук 3	mus014
+36	ROD_INSECT_036_NAME	Жук-мясник 1	mus015
+37	ROD_INSECT_037_NAME	Жук-мясник 2	mus015
+38	ROD_INSECT_038_NAME	Жук-мясник 3	mus015
+39	ROD_INSECT_039_NAME	Боннетфиль 1	mus016
+40	ROD_INSECT_040_NAME	Боннетфиль 2	mus016
+41	ROD_INSECT_041_NAME	Боннетфиль 3	mus016
+42	ROD_INSECT_042_NAME	Круглощит 1	mus017
+43	ROD_INSECT_043_NAME	Круглощит 2	mus017
+44	ROD_INSECT_044_NAME	Круглощит 3	mus017
+45	ROD_INSECT_045_NAME	Павеза 1	mus018
+46	ROD_INSECT_046_NAME	Павеза 2	mus018
+47	ROD_INSECT_047_NAME	Павеза 3	mus018
+48	ROD_INSECT_048_NAME	Аркдева 1	mus019
+49	ROD_INSECT_049_NAME	Аркдева 2	mus019
+50	ROD_INSECT_050_NAME	Аркдева 3	mus019
+51	ROD_INSECT_051_NAME	Галлшад 1	mus020
+52	ROD_INSECT_052_NAME	Галлшад 2	mus020
+53	ROD_INSECT_053_NAME	Галлшад 3	mus020
+54	ROD_INSECT_054_NAME	Бычье облако 1	mus021
+55	ROD_INSECT_055_NAME	Бычье облако 2	mus021
+56	ROD_INSECT_056_NAME	Бычье облако 3	mus021
+57	ROD_INSECT_057_NAME	Оса-шептун 1	mus022
+58	ROD_INSECT_058_NAME	Оса-шептун 2	mus022
+59	ROD_INSECT_059_NAME	Оса-шептун 3	mus022
+60	ROD_INSECT_190_NAME	Душа дракона	mus023
+61	ROD_INSECT_191_NAME	Душа истинного дракона	mus023
+62	ROD_INSECT_060_NAME	Визирь 1 Быстрый	mus024
+63	ROD_INSECT_061_NAME	Визирь 2 Быстрый	mus024
+64	ROD_INSECT_062_NAME	Визирь 3 Быстрый	mus024
+65	ROD_INSECT_063_NAME	Визирь 1 Сильный	mus024
+66	ROD_INSECT_064_NAME	Визирь 2 Сильный	mus024
+67	ROD_INSECT_065_NAME	Визирь 3 Сильный	mus024
+68	ROD_INSECT_066_NAME	Бильбобрикс 1 Быстрый	mus025
+69	ROD_INSECT_067_NAME	Бильбобрикс 2 Быстрый	mus025
+70	ROD_INSECT_068_NAME	Бильбобрикс 3 Быстрый	mus025
+71	ROD_INSECT_069_NAME	Бильбобрикс 1 Сильный	mus025
+72	ROD_INSECT_070_NAME	Бильбобрикс 2 Сильный	mus025
+73	ROD_INSECT_071_NAME	Бильбобрикс 3 Сильный	mus025
+74	ROD_INSECT_072_NAME	Листвоед 1 Целебный	mus026
+75	ROD_INSECT_073_NAME	Листвоед 2 Целебный	mus026
+76	ROD_INSECT_074_NAME	Листвоед 3 Целебный	mus026
+77	ROD_INSECT_075_NAME	Листвоед 1 Сильный	mus026
+78	ROD_INSECT_076_NAME	Листвоед 2 Сильный	mus026
+79	ROD_INSECT_077_NAME	Листвоед 3 Сильный	mus026
+80	ROD_INSECT_078_NAME	Эльскараб 1	mus002
+81	ROD_INSECT_079_NAME	Эльскараб 2	mus002
+82	ROD_INSECT_080_NAME	Эльскараб 3	mus002
+83	ROD_INSECT_081_NAME	Блескожук 1 Быстрый	mus027
+84	ROD_INSECT_082_NAME	Блескожук 2 Быстрый	mus027
+85	ROD_INSECT_083_NAME	Блескожук 3 Быстрый	mus027
+86	ROD_INSECT_084_NAME	Блескожук 1 Целебный	mus027
+87	ROD_INSECT_085_NAME	Блескожук 2 Целебный	mus027
+88	ROD_INSECT_086_NAME	Блескожук 3 Целебный	mus027
+89	ROD_INSECT_087_NAME	Ледиба 1 Сильная	mus028
+90	ROD_INSECT_088_NAME	Ледиба 2 Сильная	mus028
+91	ROD_INSECT_089_NAME	Ледиба 3 Сильная	mus028
+92	ROD_INSECT_090_NAME	Ледиба 1 Быстрая	mus028
+93	ROD_INSECT_091_NAME	Ледиба 2 Быстрая	mus028
+94	ROD_INSECT_092_NAME	Ледиба 3 Быстрая	mus028
+95	ROD_INSECT_093_NAME	Смелокрыл 1 Сильный	mus029
+96	ROD_INSECT_094_NAME	Смелокрыл 2 Сильный	mus029
+97	ROD_INSECT_095_NAME	Смелокрыл 3 Сильный	mus029
+98	ROD_INSECT_096_NAME	Смелокрыл 1 Целебный	mus029
+99	ROD_INSECT_097_NAME	Смелокрыл 2 Целебный	mus029
+100	ROD_INSECT_098_NAME	Смелокрыл 3 Целебный	mus029
+101	ROD_INSECT_099_NAME	Аргинесс 1	mus013
+102	ROD_INSECT_100_NAME	Аргинесс 2	mus013
+103	ROD_INSECT_101_NAME	Аргинесс 3	mus013
+104	ROD_INSECT_192_NAME	Душа дракона истока	mus023

@@ -1,0 +1,185 @@
+Mission ID	Mission Name	Mission Desc
+0	Feldforschung: Förderplätze	Sammle sechsmal an Förderplätzen.
+1	Feldforschung: Förderplätze	Sammle zwölfmal an Förderplätzen.
+2	Feldforschung: Knochenhaufen	Sammle sechsmal an Knochenhaufen.
+3	Feldforschung: Knochenhaufen	Sammle zwölfmal an Knochenhaufen.
+4	Feldforschung: Flora	Sammle vier Pflanzen.
+5	Feldforschung: Flora	Sammle sieben Pflanzen.
+6	Feldforschung: Pilze	Sammle vier Pilze.
+7	Feldforschung: Pilze	Sammle sieben Pilze.
+8	Feldforschung: Entomologie	Sammle drei Insekten.
+9	Feldforschung: Entomologie	Sammle fünf Insekten.
+10	Feldforschung: Honig	Sammle dreimal Honig.
+11	Feldforschung: Honig	Sammle fünfmal Honig.
+12	Gutachten: Große Monster erjagen	Erjage zwei große Monster.
+13	Gutachten: Große Monster erjagen	Erjage ein großes Monster.
+14	Gutachten: Große Monster fangen	Fange ein großes Monster.
+15	Gutachten: Kleine Monster töten	Töte acht kleine Monster.
+16	Gutachten: Kleine Monster töten	Töte 16 kleine Monster.
+17	Forschung: Uralter Wald	Schließe zwei Questsim Uralten Wald ab.
+18	Forschung: Uralter Wald	Schließe drei Questsim Uralten Wald ab.
+19	Forschung: Wildturm-Ödnis	Schließe zwei Quests inder Wildturm-Ödnis ab.
+20	Forschung: Wildturm-Ödnis	Schließe drei Quests inder Wildturm-Ödnis ab.
+21	Feldforschung: Förderplätze	Sammle neunmal an Förderplätzen.
+22	Feldforschung: Förderplätze	Sammle 15-mal an Förderplätzen.
+23	Feldforschung: Knochenhaufen	Sammle neunmal an Knochenhaufen.
+24	Feldforschung: Knochenhaufen	Sammle 15-mal an Knochenhaufen.
+25	Feldforschung: Flora	Sammle fünf Pflanzen.
+26	Feldforschung: Flora	Sammle acht Pflanzen.
+27	Feldforschung: Pilze	Sammle fünf Pilze.
+28	Feldforschung: Pilze	Sammle acht Pilze.
+29	Feldforschung: Entomologie	Sammle vier Insekten.
+30	Feldforschung: Entomologie	Sammle sieben Insekten.
+31	Feldforschung: Honig	Sammle viermal Honig.
+32	Feldforschung: Honig	Sammle siebenmal Honig.
+33	Gutachten: Große Monster erjagen	Erjage drei große Monster.
+34	Gutachten: Große Monster erjagen	Erjage zwei große Monster.
+35	Gutachten: Große Monster fangen	Fange zwei große Monster.
+36	Gutachten: Große Monster fangen	Fange ein großes Monster.
+37	Gutachten: Kleine Monster töten	Töte zehn kleine Monster.
+38	Gutachten: Kleine Monster töten	Töte 20 kleine Monster.
+39	Gutachten: Reißzahn-Wyvern erjagen	Erjage zwei große Reißzahn-Wyvern.
+40	Gutachten: Reißzahn-Wyvern fangen	Fange einen großen Reißzahn-Wyvern.
+41	Gutachten: Vogelwyvern erjagen	Erjage zwei große Vogelwyvern.
+42	Gutachten: Vogelwyvern fangen	Fange einen großen Vogelwyvern.
+43	Gutachten: Kampfwyvern erjagen	Erjage zwei große Kampfwyvern.
+44	Gutachten: Kampfwyvern fangen	Fange einen großen Kampfwyvern.
+45	Gutachten: Flugwyvern erjagen	Erjage zwei große Flugwyvern.
+46	Gutachten: Flugwyvern fangen	Fange einen großen Flugwyvern.
+47	Forschung: Uralter Wald	Schließe zwei Questsim Uralten Wald ab.
+48	Forschung: Uralter Wald	Schließe drei Questsim Uralten Wald ab.
+49	Forschung: Wildturm-Ödnis	Schließe zwei Quests inder Wildturm-Ödnis ab.
+50	Forschung: Wildturm-Ödnis	Schließe drei Quests inder Wildturm-Ödnis ab.
+51	Forschung: Korallenhochland	Schließe zwei Questsim Korallenhochland ab.
+52	Forschung: Korallenhochland	Schließe drei Questsim Korallenhochland ab.
+53	Forschung: Tal der Verwesung	Schließe zwei Questsim Tal der Verwesung ab.
+54	Forschung: Tal der Verwesung	Schließe drei Questsim Tal der Verwesung ab.
+55	Forschung: Untersuchungen	Schließe zwei Untersuchungen ab.
+56	Forschung: Untersuchungen	Schließe drei Untersuchungen ab.
+57	Gutachten: Große Monster erjagen	Erjage zwei hochrangigegroße Monster.
+58	Gutachten: Große Monster fangen	Fange ein hochrangigesgroßes Monster.
+59	Gutachten: Kleine Monster töten	Töte zehn hochrangigekleine Monster.
+60	Forschung: Uralter Wald	Schließe zwei hochrangigeQuests im Uralten Wald ab.
+61	Forschung: Wildturm-Ödnis	Schließe zwei hochrangigeQuests in der Wildturm-Ödnis ab.
+62	Forschung: Korallenhochland	Schließe zwei hochrangigeQuests im Korallenhochland ab.
+63	Forschung: Tal der Verwesung	Schließe zwei hochrangigeQuests im Tal der Verwesung ab.
+64	Forschung: Untersuchungen	Schließe zwei hochrangigeUntersuchungen ab.
+65	Feldforschung: Förderplätze	Sammle 15-mal an Förderplätzen.
+66	Feldforschung: Knochenhaufen	Sammle 15-mal an Knochenhaufen.
+67	Feldforschung: Flora	Sammle acht Pflanzen.
+68	Feldforschung: Pilze	Sammle acht Pilze.
+69	Feldforschung: Entomologie	Sammle sieben Insekten.
+70	Feldforschung: Honig	Sammle siebenmal Honig.
+71	Gutachten: Große Monster erjagen	Erjage drei hochrangige große Monster.
+72	Gutachten: Große Monster fangen	Fange zwei hochrangige große Monster.
+73	Gutachten: Kleine Monster töten	Töte 20 hochrangige kleine Monster.
+74	Gutachten: Reißzahn-Wyvern erjagen	Erjage zwei hochrangigeReißzahn-Wyvern.
+75	Gutachten: Reißzahn-Wyvern fangen	Fange einen großenhochrangigen Reißzahn-Wyvern.
+76	Gutachten: Vogelwyvern erjagen	Erjage zwei großehochrangige Vogelwyvern.
+77	Gutachten: Vogelwyvern fangen	Fange einen großenhochrangigen Vogelwyvern.
+78	Gutachten: Kampfwyvern erjagen	Erjage zwei großehochrangige Kampfwyvern.
+79	Gutachten: Kampfwyvern fangen	Fange einen großenhochrangigen Kampfwyvern.
+80	Gutachten: Flugwyvern erjagen	Erjage zwei großehochrangige Flugwyvern.
+81	Gutachten: Flugwyvern fangen	Fange einen großenhochrangigen Flugwyvern.
+82	Gutachten: Fischwyvern erjagen	Erjage zwei großehochrangige Fischwyvern.
+83	Gutachten: Fischwyvern fangen	Fange einen großenhochrangigen Fischwyvern.
+84	Forschung: Uralter Wald	Schließe drei hochrangigeQuests im Uralten Wald ab.
+85	Forschung: Wildturm-Ödnis	Schließe drei hochrangigeQuests in der Wildturm-Ödnis ab.
+86	Forschung: Korallenhochland	Schließe drei hochrangigeQuests im Korallenhochland ab.
+87	Forschung: Tal der Verwesung	Schließe drei hochrangigeQuests im Tal der Verwesung ab.
+88	Forschung: Heimat der Ältesten	Schließe drei hochrangigeQuests in der Heimat der Ältesten ab.
+89	Forschung: Untersuchungen	Schließe drei hochrangigeUntersuchungen ab.
+90	Gutachten: Drachenälteste töten	Töte zwei hochrangige Drachenälteste.
+91	Feldforschung: Förderplätze	Sammle 21-mal an Förderplätzen.
+92	Feldforschung: Knochenhaufen	Sammle 21-mal an Knochenhaufen.
+93	Feldforschung: Flora	Sammle zwölf Pflanzen.
+94	Feldforschung: Pilze	Sammle zwölf Pilze.
+95	Feldforschung: Entomologie	Sammle zehn Insekten.
+96	Feldforschung: Honig	Sammle zehnmal Honig.
+97	Gutachten: Große Monster erjagen	Erjage vier hochrangige große Monster.
+98	Gutachten: Große Monster fangen	Fange drei hochrangige große Monster.
+99	Gutachten: Kleine Monster töten	Töte 30 hochrangige kleine Monster.
+100	Gutachten: Reißzahn-Wyvern erjagen	Erjage drei großehochrangige Reißzahn-Wyvern.
+101	Gutachten: Reißzahn-Wyvern fangen	Fange zwei großehochrangige Reißzahn-Wyvern.
+102	Gutachten: Vogelwyvern erjagen	Erjage drei großehochrangige Vogelwyvern.
+103	Gutachten: Vogelwyvern fangen	Fange zwei großehochrangige Vogelwyvern.
+104	Gutachten: Kampfwyvern erjagen	Erjage drei großehochrangige Kampfwyvern.
+105	Gutachten: Kampfwyvern fangen	Fange zwei großehochrangige Kampfwyvern.
+106	Gutachten: Flugwyvern erjagen	Erjage drei großehochrangige Flugwyvern.
+107	Gutachten: Flugwyvern fangen	Fange zwei großehochrangige Flugwyvern.
+108	Gutachten: Fischwyvern erjagen	Erjage drei großehochrangige Fischwyvern.
+109	Gutachten: Fischwyvern fangen	Fange zwei großehochrangige Fischwyvern.
+110	Gutachten: Drachenälteste töten	Töte drei hochrangige Drachenälteste.
+111	Forschung: Uralter Wald	Schließe vier hochrangigeQuests im Uralten Wald ab.
+112	Forschung: Wildturm-Ödnis	Schließe vier hochrangigeQuests in der Wildturm-Ödnis ab.
+113	Forschung: Korallenhochland	Schließe vier hochrangigeQuests im Korallenhochland ab.
+114	Forschung: Tal der Verwesung	Schließe vier hochrangigeQuests im Tal der Verwesung ab.
+115	Forschung: Heimat der Ältesten	Schließe vier hochrangigeQuests in der Heimat der Ältesten ab.
+116	Forschung: Untersuchungen	Schließe vier hochrangigeUntersuchungen ab.
+117	Kulturaustausch: Wildturm-Ödnis	Fange drei Beschützer.
+118	Kulturaustausch: Wildturm-Ödnis II	Gehe zu den Beschützern in deren Siedlung.
+119	Kulturaustausch: Gajalaka-Sprachforschung	Sammle zehn Gajalaka-Spuren.
+120	Kulturaustausch: Gajalaka-SprachforschungII	Entdecke die Gajalaka-Siedlung.
+121	Forschungshilfe: Rosa Parexus fangen	Fange einen Rosa Parexus.
+122	Forschungshilfe: Sushifisch fangen	Fange einen Sushifisch.
+123	Forschungshilfe: Schießpulverfisch fangen	Fange einen Schießpulverfisch.
+124	Forschungshilfe: Goldenfisch fangen	Fange einen Goldenfisch.
+125	Forschungshilfe: Platinfisch fangen	Fange einen Platinfisch.
+126	Forschungshilfe: Unterholz-Pteryx fangen	Fange einen Unterholz-Pteryx.
+127	Forschungshilfe: Trägerameisen fangen	Fange neun Trägerameisen.
+128	Forschungshilfe: Wackelwürmer fangen	Fange drei Wackelwürmer.
+129	Forschungshilfe: Skavanteln fangen	Fange fünf Skavanteln.
+130	Forschungshilfe: Bombenkäfer fangen	Fange einen Bombenkäfer.
+131	Forschungshilfe: Uralte Kreatur	"Fange ein als ""Uralte Kreatur der NeuenWelt"" bekanntes einheimisches Wesen."
+132	Forschungshilfe: Phantom-Vogel	"Fange ein als ""Phantom-Vogel""bekanntes einheimisches Wesen."
+133	Lager im Uralten Wald aufbauen	Sichere den Lagerplatz.
+134	Forschungshilfe: Kreaturenfang	Fange eine Kreatur aus einer anderen Welt.(Hinweis: Sieh in dein Monsterlexikon.)
+135	Forschungshilfe: Glas-Parexus fangen	Fange einen Glas-Parexus.
+136	Forschungshilfe: Geheimnisvollen Fisch fangen	Fange einen geheimnisvollenFisch in der Raureif-Weite.
+137	Forschungshilfe: Bauschpinguin fangen	Fange drei Bauschpinguine.
+138	Forschungshilfe: Geheimnisvolles Tier fangen	Fange ein geheimnisvolles einhei-misches Wesen in der Raureif-Weite.
+139	Forschungshilfe: Wetzfisch fangen	Fange einen goldkronengroßen Wetzfisch.
+140	Forschungshilfe: Berst-Arowana fangen	Fange einen goldkronengroßen Berst-Arowana.
+141	Forschungshilfe: Glas-Parexus fangen	Fange einen goldkronengroßen Glas-Parexus.
+142	Forschungshilfe: Augurfliege fangen	Fange eine goldkronengroße Augurfliege.
+143	Forschungshilfe: Adretten Korallenvogel fangen	Fange einen goldkronengroßenAdretten Korallenvogel.
+144	Forschungshilfe: Bauschpinguin fangen	Fange einen goldkronen-großen Bauschpinguin.
+145	Feldforschung: Förderplätze	Sammle zwölfmal an Förderplätzen.
+146	Feldforschung: Knochenhaufen	Sammle zwölfmal an Knochenhaufen.
+147	Feldforschung: Flora	Sammle acht Pflanzen.
+148	Feldforschung: Pilze	Sammle acht Pilze.
+149	Feldforschung: Entomologie	Sammle sechs Insekten.
+150	Feldforschung: Honig	Sammle sechsmal Honig.
+151	Gutachten: Große Monster erjagen	Erjage drei großeMeisterrang-Monster.
+152	Gutachten: Große Monster fangen	Fange drei großeMeisterrang-Monster.
+153	Gutachten: Kleine Monster töten	Töte zehn kleineMeisterrang-Monster.
+154	Gutachten: Reißzahn-Wyvern erjagen	Erjage zwei Meisterrang-Reißzahn-Wyvern.
+155	Gutachten: Reißzahn-Wyvern fangen	Fange zwei Meisterrang-Reißzahn-Wyvern.
+156	Gutachten: Vogelwyvern erjagen	Erjage zwei großeMeisterrang-Vogelwyvern.
+157	Gutachten: Vogelwyvern fangen	Fange zwei großeMeisterrang-Vogelwyvern.
+158	Gutachten: Kampfwyvern erjagen	Erjage zwei großeMeisterrang-Kampfwyvern.
+159	Gutachten: Kampfwyvern fangen	Fange zwei großeMeisterrang-Kampfwyvern.
+160	Gutachten: Fischwyvern erjagen	Erjage zwei großeMeisterrang-Fischwyvern.
+161	Gutachten: Fischwyvern fangen	Fange zwei großeMeisterrang-Fischwyvern.
+162	Forschung: Uralter Wald	Schließe zwei Meisterrang-Questsim Uralten Wald ab.
+163	Forschung: Wildturm-Ödnis	Schließe zwei Meisterrang-Questsin der Wildturm-Ödnis ab.
+164	Forschung: Korallenhochland	Schließe zwei Meisterrang-Questsim Korallenhochland ab.
+165	Forschung: Tal der Verwesung	Schließe zwei Meisterrang-Questsim Tal der Verwesung ab.
+166	Forschung: Heimat der Ältesten	Schließe zwei Meisterrang-Questsin der Heimat der Ältesten ab.
+167	Forschung: Untersuchungen	Schließe zwei Meisterrang-Untersuchungen ab.
+168	Forschung: Raureif-Weite	Schließe zwei Meisterrang-Quests in der Raureif-Weite ab.
+169	Gutachten: Flugwyvern erjagen	Erjage zwei großeMeisterrang-Flugwyvern.
+170	Gutachten: Flugwyvern fangen	Fange zwei großeMeisterrang-Flugwyvern.
+171	Gutachten: Große Monster erjagen	Erjage sechs großeMeisterrang-Monster.
+172	Gutachten: Reißzahn-Wyvern erjagen	Erjage vier Meisterrang-Reißzahn-Wyvern.
+173	Gutachten: Vogelwyvern erjagen	Erjage vier großeMeisterrang-Vogelwyvern.
+174	Gutachten: Kampfwyvern erjagen	Fange vier großeMeisterrang-Kampfwyvern.
+175	Gutachten: Flugwyvern erjagen	Erjage vier großeMeisterrang-Flugwyvern.
+176	Gutachten: Fischwyvern erjagen	Erjage vier großeMeisterrang-Fischwyvern.
+177	Gutachten: Drachenälteste töten	Töte zwei Meisterrang-Drachenälteste.
+178	Gutachten: Drachenälteste töten	Töte vier Meisterrang-Drachenälteste.
+179	Gutachten: Gehärtete Monster erjagen	Erjage zwei große, gehärteteMeisterrang-Monster.
+180	Gutachten: Gehärtete Monster erjagen	Erjage vier große, gehärteteMeisterrang-Monster.
+181	Kulturaustausch: Raureif-Weite	Begib dich auf eine Expedition in dieRaureif-Weite und erjage ein großes Monster.
+182	Kulturaustausch: Raureif-Weite II	Begib dich ins Lager der Boaboaund nimm an ihrer Ratssitzung teil.
+183	Kulturaustausch: Raureif-Weite III	Schließe die M2-<ICON STAR_1>-QuestMit vereinter Kraft ab.

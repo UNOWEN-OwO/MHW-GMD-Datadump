@@ -1,0 +1,100 @@
+Music Code	Music Level	Music Name
+HUD_HUE_00	-	Selbstverbesserung
+HUD_HUE_00_S	0	Bewegungsgeschwindigkeit hoch
+HUD_HUE_00_W	1	Angriff hoch + Angriffsablenkungsschutz
+HUD_HUE_01	-	Angriff hoch (S)
+HUD_HUE_02	-	Angriff hoch (L)
+HUD_HUE_02_W	1	Angriff hoch (XL)
+HUD_HUE_03	-	Gesundheitsboost (S)
+HUD_HUE_04	-	Gesundheitsboost (L)
+HUD_HUE_04_W	1	Gesundheitsboost Zeitbonus
+HUD_HUE_05	-	Ausdauernutzung reduziert (S)
+HUD_HUE_06	-	Ausdauernutzung reduziert (L)
+HUD_HUE_06_W	1	Ausdauernutzung reduziert Zeitbonus
+HUD_HUE_07	-	Winddruck negiert
+HUD_HUE_08	-	Jeden Winddruck negiert
+HUD_HUE_08_W	1	Jeden Winddruck negiert Zeitbonus
+HUD_HUE_09	-	Verteidigung hoch (S)
+HUD_HUE_10	-	Verteidigung hoch (L)
+HUD_HUE_10_W	1	Verteidigung hoch (XL)
+HUD_HUE_11	-	Werkzeugverbrauch reduziert (S)
+HUD_HUE_12	-	Werkzeugverbrauch reduziert (L)
+HUD_HUE_12_W	1	Werkzeugverbrauch reduziert Zeitbonus
+HUD_HUE_13	-	Gesundheitserholung (S)
+HUD_HUE_14	-	Gesundheitserholung (L)
+HUD_HUE_15	-	Gesundheitserholung (S) + Gegengift
+HUD_HUE_16	-	Gesundheitserholung (M) + Gegengift
+HUD_HUE_17	-	Erholungsgeschwindigkeit (S)
+HUD_HUE_18	-	Erholungsgeschwindigkeit (L)
+HUD_HUE_18_W	1	Erholungsgeschwindigkeit Zeitbonus
+HUD_HUE_19	-	Göttlicher Schutz
+HUD_HUE_19_W	1	Göttlicher Schutz Zeitbonus
+HUD_HUE_20	-	Spähkäfer-Kraft hoch
+HUD_HUE_20_S	0	Spähkäfer-Stufe +1
+HUD_HUE_20_W	1	Spähkäfer-Stufe +1 Zeitbonus
+HUD_HUE_21	-	Schlamm-Widerstand
+HUD_HUE_21_W	1	Schlamm-Widerstand Zeitbonus
+HUD_HUE_22	-	Umgebungsschaden negiert
+HUD_HUE_22_W	1	Umgebungsschaden negiert Zeitbonus
+HUD_HUE_23	-	Ohrstöpsel (S)
+HUD_HUE_24	-	Ohrstöpsel (L)
+HUD_HUE_24_W	1	Ohrstöpsel (L) Zeitbonus
+HUD_HUE_25	-	Betäuben negiert
+HUD_HUE_25_W	1	Betäuben negiert Zeitbonus
+HUD_HUE_26	-	Lähmung negiert
+HUD_HUE_26_W	1	Lähmung negiert Zeitbonus
+HUD_HUE_27	-	Erschütterungen negiert
+HUD_HUE_27_W	1	Erschütterungen negiert Zeitbonus
+HUD_HUE_28	-	Feuerwiderstand-Boost (S)
+HUD_HUE_29	-	Feuerwiderstand-Boost (L)
+HUD_HUE_29_W	1	Feuerwiderstand-Boost (XL)
+HUD_HUE_30	-	Wasserwiderstand-Boost (S)
+HUD_HUE_31	-	Wasserwiderstand-Boost (L)
+HUD_HUE_31_W	1	Wasserwiderstand-Boost (XL)
+HUD_HUE_32	-	Donnerwiderstand-Boost (S)
+HUD_HUE_33	-	Donnerwiderstand-Boost (L)
+HUD_HUE_33_W	1	Donnerwiderstand-Boost (XL)
+HUD_HUE_34	-	Eiswiderstand-Boost (S)
+HUD_HUE_35	-	Eiswiderstand-Boost (L)
+HUD_HUE_35_W	1	Eiswiderstand-Boost (XL)
+HUD_HUE_36	-	Drachenwiderstand-Boost (S)
+HUD_HUE_37	-	Drachenwiderstand-Boost (L)
+HUD_HUE_37_W	1	Drachenwiderstand-Boost (XL)
+HUD_HUE_38	-	Elementangriff-Boost
+HUD_HUE_38_S	0	Elementangriff-Boost (S)
+HUD_HUE_38_W	1	Elementangriff-Boost (L)
+HUD_HUE_39	-	Schallwellen
+HUD_HUE_40	-	Alle Medodie-Effekte Zeitbonus
+HUD_HUE_41	-	Rückschläge negiert
+HUD_HUE_42	-	Angriff und Verteidigung hoch (S)
+HUD_HUE_42_S	0	Angriff und Verteidigung hoch (S)
+HUD_HUE_42_W	1	Angriff hoch (L) / Verteidigung hoch (L)
+HUD_HUE_43	-	Affinität hoch / Gesundheitserholung (S)
+HUD_HUE_43_S	0	Affinität hoch (S) / Gesundheitserholung (S)
+HUD_HUE_43_W	1	Affinität hoch (L) / Gesundheitserholung (S)
+HUD_HUE_44	-	Anormaler Statusangriff verbessert
+HUD_HUE_44_S	0	Anormaler Statusangriff hoch (S)
+HUD_HUE_44_W	1	Anormaler Statusangriff hoch (L)
+HUD_HUE_45	-	Alle anorm. Status negiert
+HUD_HUE_45_W	1	Anorm. Status negiert Zeitbonus
+HUD_HUE_46	-	Pestwiderstand hoch
+HUD_HUE_46_S	0	Pestwiderstand hoch (S)
+HUD_HUE_46_W	1	Pestwiderstand hoch (L)
+HUD_HUE_47	-	Pest negiert
+HUD_HUE_47_W	1	Pest negiert Zeitbonus
+HUD_HUE_48	-	Ohrstöpsel (S) / Winddruck negiert
+HUD_HUE_48_S	0	Ohrstöpsel (S) / Winddruck negiert
+HUD_HUE_48_W	1	Ohrstöpsel (S) / Winddruck negiert Zeitbonus
+HUD_HUE_49	-	Gesundheitserholung (M)
+HUD_HUE_23_W	1	Ohrstöpsel (S) Zeitbonus
+HUD_HUE_07_W	1	Winddruck negiert Zeitbonus
+HUD_HUE_41_W	1	Rückschläge negiert Zeitbonus
+HUD_HUE_50	-	Einschlagsecho-Welle
+HUD_HUE_51	-	"Echo-Welle ""Drachen"""
+HUD_HUE_52	-	Max. Ausdauer hoch + Erholung
+HUD_HUE_53	-	Verbesserte Gesundheitserholung
+HUD_HUE_54	-	Geschw-Boost + Unverwundbarkeit hoch
+HUD_HUE_55	-	Elementeffektivität hoch
+HUD_HUE_56	-	Unverwundbarkeit hoch
+HUD_HUE_21_G	-	Schlamm/Wasser/Schnee-Widerstand
+HUD_HUE_21_W_G	-	Schlamm/Wasser/Schnee-Widerstand-Zeitbonus

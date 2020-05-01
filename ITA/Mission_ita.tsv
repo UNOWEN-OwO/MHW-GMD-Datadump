@@ -1,0 +1,185 @@
+Mission ID	Mission Name	Mission Desc
+0	Raccolta: depositi minerari	Raccogli dai depositi minerari per 6 volte.
+1	Raccolta: depositi minerari	Raccogli dai depositi minerari per 12 volte.
+2	Raccolta: resti di ossa	Raccogli dai resti di ossa per 6 volte.
+3	Raccolta: resti di ossa	Raccogli dai resti di ossa per 12 volte.
+4	Raccolta: piante	Raccogli delle piante per 4 volte.
+5	Raccolta: piante	Raccogli delle piante per 7 volte.
+6	Raccolta: funghi	Raccogli dei funghi per 4 volte.
+7	Raccolta: funghi	Raccogli dei funghi per 7 volte.
+8	Raccolta: insetti	Raccogli degli insetti per 3 volte.
+9	Raccolta: insetti	Raccogli degli insetti per 5 volte.
+10	Raccolta: miele	Raccogli del miele per 3 volte.
+11	Raccolta: miele	Raccogli del miele per 5 volte.
+12	Biologia: caccia mostri grandi	Caccia 2 mostri grandi.
+13	Biologia: caccia mostri grandi	Caccia 1 mostro grande.
+14	Biologia: cattura mostri grandi	Cattura 1 mostro grande.
+15	Biologia: uccidi mostri piccoli	Uccidi 8 mostri piccoli.
+16	Biologia: uccidi mostri piccoli	Uccidi 16 mostri piccoli.
+17	Progressi di ricerca: Foresta antica	Completa 2 missioni nella Foresta antica.
+18	Progressi di ricerca: Foresta antica	Completa 3 missioni nella Foresta antica.
+19	Progressi di ricerca: Guglie selvagge	Completa 2 missioni alle Guglie selvagge.
+20	Progressi di ricerca: Guglie selvagge	Completa 3 missioni alle Guglie selvagge.
+21	Raccolta: depositi minerari	Raccogli dai depositi minerari per 9 volte.
+22	Raccolta: depositi minerari	Raccogli dai depositi minerari per 15 volte.
+23	Raccolta: resti di ossa	Raccogli dai resti di ossa per 9 volte.
+24	Raccolta: resti di ossa	Raccogli dai resti di ossa per 15 volte.
+25	Raccolta: piante	Raccogli delle piante per 5 volte.
+26	Raccolta: piante	Raccogli delle piante per 8 volte.
+27	Raccolta: funghi	Raccogli dei funghi per 5 volte.
+28	Raccolta: funghi	Raccogli dei funghi per 8 volte.
+29	Raccolta: insetti	Raccogli degli insetti per 4 volte.
+30	Raccolta: insetti	Raccogli degli insetti per 7 volte.
+31	Raccolta: miele	Raccogli del miele per 4 volte.
+32	Raccolta: miele	Raccogli del miele per 7 volte.
+33	Biologia: caccia mostri grandi	Caccia 3 mostri grandi.
+34	Biologia: caccia mostri grandi	Caccia 2 mostri grandi.
+35	Biologia: cattura mostri grandi	Cattura 2 mostri grandi.
+36	Biologia: cattura mostri grandi	Cattura 1 mostro grande.
+37	Biologia: uccidi mostri piccoli	Uccidi 10 mostri piccoli.
+38	Biologia: uccidi mostri piccoli	Uccidi 20 mostri piccoli.
+39	Biologia: caccia wyvern zannuti	Caccia 2 wyvern zannuti grandi.
+40	Biologia: cattura wyvern zannuti	Cattura 1 wyvern zannuto grande.
+41	Biologia: caccia wyvern rapaci	Caccia 2 wyvern rapaci grandi.
+42	Biologia: cattura wyvern rapaci	Cattura 1 wyvern rapace grande.
+43	Biologia: caccia wyvern brutali	Caccia 2 wyvern brutali grandi.
+44	Biologia: cattura wyvern brutali	Cattura 1 wyvern brutale grande.
+45	Biologia: caccia wyvern volanti	Caccia 2 wyvern volanti grandi.
+46	Biologia: cattura wyvern volanti	Cattura 1 wyvern volante grande.
+47	Progressi di ricerca: Foresta antica	Completa 2 missioni nella Foresta antica.
+48	Progressi di ricerca: Foresta antica	Completa 3 missioni nella Foresta antica.
+49	Progressi di ricerca: Guglie selvagge	Completa 2 missioni alle Guglie selvagge.
+50	Progressi di ricerca: Guglie selvagge	Completa 3 missioni alle Guglie selvagge.
+51	Progressi di ricerca: Altipiani corallini	Completa 2 missioni agli Altipiani corallini.
+52	Progressi di ricerca: Altipiani corallini	Completa 3 missioni agli Altipiani corallini.
+53	Progressi di ricerca: Valle putrefatta	Completa 2 missioni nella Valle putrefatta.
+54	Progressi di ricerca: Valle putrefatta	Completa 3 missioni nella Valle putrefatta.
+55	Progressi di ricerca: taglie	Completa 2 taglie.
+56	Progressi di ricerca: taglie	Completa 3 taglie.
+57	Biologia: caccia mostri grandi	Caccia 2 mostri grandi di alto grado.
+58	Biologia: cattura mostri grandi	Cattura 1 mostro grande di alto grado.
+59	Biologia: uccidi mostri piccoli	Uccidi 10 mostri piccoli di alto grado.
+60	Progressi di ricerca: Foresta antica	Completa 2 missioni di alto grado nella Foresta antica.
+61	Progressi di ricerca: Guglie selvagge	Completa 2 missioni di alto grado alle Guglie selvagge.
+62	Progressi di ricerca: Altipiani corallini	Completa 2 missioni di alto grado agli Altipiani corallini.
+63	Progressi di ricerca: Valle putrefatta	Completa 2 missioni di alto grado nella Valle putrefatta.
+64	Progressi di ricerca: taglie	Completa 2 taglie di alto grado.
+65	Raccolta: depositi minerari	Raccogli dai depositi minerari per 15 volte.
+66	Raccolta: resti di ossa	Raccogli dai resti di ossa per 15 volte.
+67	Raccolta: piante	Raccogli delle piante per 8 volte.
+68	Raccolta: funghi	Raccogli dei funghi per 8 volte.
+69	Raccolta: insetti	Raccogli degli insetti per 7 volte.
+70	Raccolta: miele	Raccogli del miele per 7 volte.
+71	Biologia: caccia mostri grandi	Caccia 3 mostri grandi di alto grado.
+72	Biologia: cattura mostri grandi	Cattura 2 mostri grandi di alto grado.
+73	Biologia: uccidi mostri piccoli	Uccidi 20 mostri piccoli di alto grado.
+74	Biologia: caccia wyvern zannuti	Caccia 2 wyvern zannuti grandi di alto grado.
+75	Biologia: cattura wyvern zannuti	Cattura 1 wyvern zannuto grande di alto grado.
+76	Biologia: caccia wyvern rapaci	Caccia 2 wyvern rapaci grandi di alto grado.
+77	Biologia: cattura wyvern rapaci	Cattura 1 wyvern rapace grande di alto grado.
+78	Biologia: caccia wyvern brutali	Caccia 2 wyvern brutali grandi di alto grado.
+79	Biologia: cattura wyvern brutali	Cattura 1 wyvern brutale grande di alto grado.
+80	Biologia: caccia wyvern volanti	Caccia 2 wyvern volanti grandi di alto grado.
+81	Biologia: cattura wyvern volanti	Cattura 1 wyvern volante grande di alto grado.
+82	Biologia: caccia wyvern acquatici	Caccia 2 wyvern acquatici grandi di alto grado.
+83	Biologia: cattura wyvern acquatici	Cattura 1 wyvern acquatico grande di alto grado.
+84	Progressi di ricerca: Foresta antica	Completa 3 missioni di alto grado nella Foresta antica.
+85	Progressi di ricerca: Guglie selvagge	Completa 3 missioni di alto grado alle Guglie selvagge.
+86	Progressi di ricerca: Altipiani corallini	Completa 3 missioni di alto grado agli Altipiani corallini.
+87	Progressi di ricerca: Valle putrefatta	Completa 3 missioni di alto grado nella Valle putrefatta.
+88	Progressi di ricerca: Landa dei cristalli	Completa 3 missioni di alto grado nella Landa dei cristalli.
+89	Progressi di ricerca: taglie	Completa 3 taglie di alto grado.
+90	Biologia: uccidi draghi anziani	Uccidi 2 draghi anziani di alto grado.
+91	Raccolta: depositi minerari	Raccogli dai depositi minerari per 21 volte.
+92	Raccolta: resti di ossa	Raccogli dai resti di ossa per 21 volte.
+93	Raccolta: piante	Raccogli delle piante per 12 volte.
+94	Raccolta: funghi	Raccogli dei funghi per 12 volte.
+95	Raccolta: insetti	Raccogli degli insetti per 10 volte.
+96	Raccolta: miele	Raccogli del miele per 10 volte.
+97	Biologia: caccia mostri grandi	Caccia 4 mostri grandi di alto grado.
+98	Biologia: cattura mostri grandi	Cattura 3 mostri grandi di alto grado.
+99	Biologia: uccidi mostri piccoli	Uccidi 30 mostri piccoli di alto grado.
+100	Biologia: caccia wyvern zannuti	Caccia 3 wyvern zannuti grandi di alto grado.
+101	Biologia: cattura wyvern zannuti	Cattura 2 wyvern zannuti grandi di alto grado.
+102	Biologia: caccia wyvern rapaci	Caccia 3 wyvern rapaci grandi di alto grado.
+103	Biologia: cattura wyvern rapaci	Cattura 2 wyvern rapaci grandi di alto grado.
+104	Biologia: caccia wyvern brutali	Caccia 3 wyvern brutali grandi di alto grado.
+105	Biologia: cattura wyvern brutali	Cattura 2 wyvern brutali grandi di alto grado.
+106	Biologia: caccia wyvern volanti	Caccia 3 wyvern volanti grandi di alto grado.
+107	Biologia: cattura wyvern volanti	Cattura 2 wyvern volanti grandi di alto grado.
+108	Biologia: caccia wyvern acquatici	Caccia 3 wyvern acquatici grandi di alto grado.
+109	Biologia: cattura wyvern acquatici	Cattura 2 wyvern acquatici grandi di alto grado.
+110	Biologia: uccidi draghi anziani	Uccidi 3 draghi anziani di alto grado.
+111	Progressi di ricerca: Foresta antica	Completa 4 missioni di alto grado nella Foresta antica.
+112	Progressi di ricerca: Guglie selvagge	Completa 4 missioni di alto grado alle Guglie selvagge.
+113	Progressi di ricerca: Altipiani corallini	Completa 4 missioni di alto grado agli Altipiani corallini.
+114	Progressi di ricerca: Valle putrefatta	Completa 4 missioni di alto grado nella Valle putrefatta.
+115	Progressi di ricerca: Landa dei cristalli	Completa 4 missioni di alto grado nella Landa dei cristalli.
+116	Progressi di ricerca: taglie	Completa 4 taglie di alto grado.
+117	Scambio culturale: Guglie selvagge	Cattura 3 Guardiani
+118	Scambio culturale: Guglie selvagge II	Fai rapporto ai Guardiani al loro insediamento.
+119	Scambio culturale: lingua Gajalaka	Raccogli 10 tracce di Gajalaka.
+120	Scambio culturale: lingua Gajalaka II	Scopri l'insediamento Gajalaka.
+121	Obiettivo ricerca: Parexus rosa	Cattura 1 Parexus rosa.
+122	Obiettivo ricerca: Pesce-sushi	Cattura 1 Pesce-sushi.
+123	Obiettivo ricerca: Pesce pirico	Cattura 1 Pesce pirico.
+124	Obiettivo ricerca: Pesce dorato	Cattura 1 Pesce dorato.
+125	Obiettivo ricerca: Pesce platinato	Cattura 1 Pesce platinato.
+126	Obiettivo ricerca: Pteryx silvae	Cattura 1 Pteryx silvae.
+127	Obiettivo ricerca: Formica portatrice	Cattura 9 Formiche portatrici.
+128	Obiettivo ricerca: Tremogliola	Cattura 3 Tremogliole.
+129	Obiettivo ricerca: Necrantola	Cattura 5 Necrantole.
+130	Obiettivo ricerca: Scarabombo	Cattura 1 Scarabombo.
+131	Obiettivo ricerca: il fossile vivente	Cattura il cosiddetto fossile viventedel Nuovo Mondo.
+132	Obiettivo ricerca: l'uccello leggendario	Cattura la forma di vita conosciutacome l'uccello leggendario.
+133	Accampamento della Foresta antica	Rendi sicuro l'accampamento.
+134	Obiettivo ricerca: Creatura sconosciuta	Cattura una creatura di un altro mondo.Consulta la guida dei mostri per un aiuto.
+135	Ricerca: Parexus vitreo	Cattura 1 Parexus vitreo.
+136	Ricerca: Pesce misterioso	Cattura un pesce misteriosonelle Distese brinose.
+137	Ricerca: Pinguino batuffolo	Cattura 3 Pinguini batuffolo.
+138	Ricerca: Creatura misteriosa	Cattura una creatura misteriosanelle Distese brinose.
+139	Ricerca: Sgombro-coltello oro	Cattura 1 Sgombro-coltello (corona d'oro grande).
+140	Ricerca: Arowana scoppio oro	Cattura 1 Arowana scoppio (corona d'oro grande).
+141	Ricerca: Parexus vitreo oro	Cattura 1 Parexus vitreo (corona d'oro grande).
+142	Ricerca: Libellula augurale oro	Cattura 1 Libellula augurale (corona d'oro grande).
+143	Ricerca: Corallodola elegante oro	Cattura 1 Corallodola elegante (corona d'oro grande).
+144	Ricerca: Pinguino batuffolo oro	Cattura 1 Pinguino batuffolo (corona d'oro grande).
+145	Raccolta: depositi minerari	Raccogli dai depositi minerari per 12 volte.
+146	Raccolta: resti di ossa	Raccogli dai resti di ossa per 12 volte.
+147	Raccolta: piante	Raccogli delle piante per 8 volte.
+148	Raccolta: funghi	Raccogli dei funghi per 8 volte.
+149	Raccolta: insetti	Raccogli degli insetti per 6 volte.
+150	Raccolta: miele	Raccogli del miele per 6 volte.
+151	Biologia: caccia mostri grandi	Caccia 3 mostri grandi di grado maestro.
+152	Biologia: cattura mostri grandi	Cattura 3 mostri grandi di grado maestro.
+153	Biologia: uccidi mostri piccoli	Uccidi 10 mostri piccoli di grado maestro.
+154	Biologia: caccia wyvern zannuti	Caccia 2 wyvern zannuti grandi di grado maestro.
+155	Biologia: cattura wyvern zannuti	Cattura 2 wyvern zannuti grandi di grado maestro.
+156	Biologia: caccia wyvern rapaci	Caccia 2 wyvern rapaci grandi di grado maestro.
+157	Biologia: cattura wyvern rapaci	Cattura 2 wyvern rapaci grandi di grado maestro.
+158	Biologia: caccia wyvern brutali	Caccia 2 wyvern brutali grandi di grado maestro.
+159	Biologia: cattura wyvern brutali	Cattura 2 wyvern brutali grandi di grado maestro.
+160	Biologia: caccia wyvern acquatici	Caccia 2 wyvern acquatici grandi di grado maestro.
+161	Biologia: cattura wyvern acquatici	Cattura 2 wyvern acquatici grandi di grado maestro.
+162	Progressi di ricerca: Foresta antica	Completa 2 missioni di grado maestronella Foresta antica.
+163	Progressi di ricerca: Guglie selvagge	Completa 2 missioni di grado maestronelle Guglie selvagge.
+164	Progressi di ricerca: Altipiani corallini	Completa 2 missioni di grado maestrosugli Altipiani corallini.
+165	Progressi di ricerca: Valle putrefatta	Completa 2 missioni di grado maestronella Valle putrefatta.
+166	Progressi di ricerca: Landa dei cristalli	Completa 2 missioni di grado maestronella Landa dei cristalli.
+167	Progressi di ricerca: taglie	Completa 2 taglie di grado maestro.
+168	Progressi di ricerca: Distese brinose	Completa 2 missioni di grado maestronelle Distese brinose.
+169	Biologia: caccia wyvern volanti	Caccia 2 wyvern volanti grandi di grado maestro.
+170	Biologia: cattura wyvern volanti	Cattura 2 wyvern volanti grandi di grado maestro.
+171	Biologia: caccia mostri grandi	Caccia 6 mostri grandi di grado maestro.
+172	Biologia: caccia wyvern zannuti	Caccia 4 wyvern zannuti grandi di grado maestro.
+173	Biologia: caccia wyvern rapaci	Caccia 4 wyvern rapaci grandi di grado maestro.
+174	Biologia: caccia wyvern brutali	Caccia 4 wyvern brutali grandi di grado maestro.
+175	Biologia: caccia wyvern volanti	Caccia 4 wyvern volanti grandi di grado maestro.
+176	Biologia: caccia wyvern acquatici	Caccia 4 wyvern acquatici grandi di grado maestro.
+177	Biologia: uccidi draghi anziani	Uccidi 2 draghi anziani di grado maestro.
+178	Biologia: uccidi draghi anziani	Uccidi 4 draghi anziani di grado maestro.
+179	Biologia: caccia mostri temprati	Caccia 2 mostri temprati grandi di grado maestro.
+180	Biologia: caccia mostri temprati	Caccia 4 mostri temprati grandi di grado maestro.
+181	Scambio culturale: Distese brinose	Parti per una spedizione nelle Distese brinosee caccia un mostro grande.
+182	Scambio culturale: Distese brinose II	Raggiungi la tana dei Boaboa e assistia una riunione del loro consiglio.
+183	Scambio culturale: Distese brinose III	Completa la missione M2<ICON STAR_1> L'unione fa la forza.

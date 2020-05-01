@@ -1,0 +1,324 @@
+Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
+0	Helmet	1	Chapéu de Couro Felyno	otomo/equip/ot001/helm
+0	Helmet	28	Elmo Ósseo Felyno	otomo/equip/ot028/helm
+0	Helmet	29	Elmo de Liga Leve Felyno	otomo/equip/ot029/helm
+0	Helmet	2	Elmo de Jagras Felyno	otomo/equip/ot002/helm
+0	Helmet	3	Turbante de Kulu Felyno	otomo/equip/ot003/helm
+0	Helmet	4	Capelo de Pukei Felyno	otomo/equip/ot004/helm
+0	Helmet	5	Elmo de Barroth Felyno	otomo/equip/ot005/helm
+0	Helmet	6	Elmo de Jyura Felyno	otomo/equip/ot006/helm
+0	Helmet	7	Capelo de Kadachi Felyno	otomo/equip/ot007/helm
+0	Helmet	8	Elmo de Anja Felyno	otomo/equip/ot008/helm
+0	Helmet	11	Chapéu de Lumu Felyno	otomo/equip/ot011/helm
+0	Helmet	9	Elmo de Rathian Felyno	otomo/equip/ot009/helm
+0	Helmet	13	Elmo de Baan Felyno	otomo/equip/ot013/helm
+0	Helmet	30	Touca de Joaninha Felyna	otomo/equip/ot030/helm
+0	Helmet	12	Elmo de Legiana Felyno	otomo/equip/ot012/helm
+0	Helmet	14	Elmo de Odogaron Felyno	otomo/equip/ot014/helm
+0	Helmet	16	Elmo de Rathalos Felyno	otomo/equip/ot016/helm
+0	Helmet	17	Elmo de Diablos Felyno	otomo/equip/ot017/helm
+0	Helmet	18	Chifre de Kirin Felyno	otomo/equip/ot018/helm
+0	Helmet	27	Capelo Necrarma Felyno	otomo/equip/ot027/helm
+0	Helmet	32	Chapéu de Couro Felyno<ICON ALPHA>	otomo/equip/ot001/helm
+0	Helmet	33	Elmo Ósseo Felyno<ICON ALPHA>	otomo/equip/ot028/helm
+0	Helmet	34	Elmo Liga Leve Felyno<ICON ALPHA>	otomo/equip/ot029/helm
+0	Helmet	35	Elmo de Jagras Felyno<ICON ALPHA>	otomo/equip/ot002/helm
+0	Helmet	36	Turbante Kulu Felyno<ICON ALPHA>	otomo/equip/ot003/helm
+0	Helmet	37	Capelo Pukei Felyno<ICON ALPHA>	otomo/equip/ot004/helm
+0	Helmet	38	Elmo de Barroth Felyno<ICON ALPHA>	otomo/equip/ot005/helm
+0	Helmet	39	Elmo de Jyura Felyno<ICON ALPHA>	otomo/equip/ot006/helm
+0	Helmet	40	Capelo Kadachi Felyno<ICON ALPHA>	otomo/equip/ot007/helm
+0	Helmet	19	Coroa de Zorah Felyna<ICON ALPHA>	otomo/equip/ot019/helm
+0	Helmet	41	Elmo de Anja Felyno<ICON ALPHA>	otomo/equip/ot008/helm
+0	Helmet	42	Chapéu de Lumu Felyno<ICON ALPHA>	otomo/equip/ot011/helm
+0	Helmet	43	Elmo Rathian Felyno<ICON ALPHA>	otomo/equip/ot009/helm
+0	Helmet	44	Elmo de Baan Felyno<ICON ALPHA>	otomo/equip/ot013/helm
+0	Helmet	45	Touca Joaninha Felyna<ICON ALPHA>	otomo/equip/ot030/helm
+0	Helmet	46	Elmo de Legiana Felyno<ICON ALPHA>	otomo/equip/ot012/helm
+0	Helmet	47	Elmo Odogaron Felyno<ICON ALPHA>	otomo/equip/ot014/helm
+0	Helmet	48	Elmo Rathalos Felyno<ICON ALPHA>	otomo/equip/ot016/helm
+0	Helmet	49	Elmo de Diablos Felyno<ICON ALPHA>	otomo/equip/ot017/helm
+0	Helmet	50	Chifre de Kirin Felyno<ICON ALPHA>	otomo/equip/ot018/helm
+0	Helmet	20	Elmo Lavasioth Felyno<ICON ALPHA>	otomo/equip/ot020/helm
+0	Helmet	21	Elmo Uragaan Felyno<ICON ALPHA>	otomo/equip/ot021/helm
+0	Helmet	26	Elmo de Bazel Felyno<ICON ALPHA>	otomo/equip/ot026/helm
+0	Helmet	51	Capelo Necrarma Felyno<ICON ALPHA>	otomo/equip/ot027/helm
+0	Helmet	52	Másc. Gajalaka Felyna<ICON ALPHA>	otomo/equip/ot031/helm
+0	Helmet	10	Elmo Nergigante Felyno<ICON ALPHA>	otomo/equip/ot010/helm
+0	Helmet	15	Caveira Vaal Felyna<ICON ALPHA>	otomo/equip/ot015/helm
+0	Helmet	22	Cetro Kaiser Felyno<ICON ALPHA>	otomo/equip/ot022/helm
+0	Helmet	23	Rosnado Daora Felyno<ICON ALPHA>	otomo/equip/ot023/helm
+0	Helmet	24	Véu de Xeno Felyno<ICON ALPHA>	otomo/equip/ot024/helm
+0	Helmet	25	Cabeça de Nekker<ICON ALPHA>	otomo/equip/ot073/helm
+0	Helmet	100	Chapéu de Couro Felyno	otomo/equip/ot000/helm
+0	Helmet	101	Chapéu Borboleta Felyno	otomo/equip/ot040/helm
+0	Helmet	102	Chap. Palha Aloha Felyno	otomo/equip/ot041/helm
+0	Helmet	103	Más. Miauloween Fel.	otomo/equip/ot042/helm
+0	Helmet	104	Cabeça Felyna de Neve	otomo/equip/ot043/helm
+0	Helmet	105	Cabeça Estrela Felyna	otomo/equip/ot044/helm
+0	Helmet	55	Pelo Kulve Felyno<ICON ALPHA>	otomo/equip/ot025/helm
+0	Helmet	56	Elmo Vangis Felyno<ICON ALPHA>	otomo/equip/ot033/helm
+0	Helmet	57	Adorno Eliza Felyno<ICON ALPHA>	otomo/equip/ot034/helm
+0	Helmet	58	Elmo do Mega Man	otomo/equip/ot035/helm
+0	Helmet	59	HARDUMMY	otomo/equip/ot036/helm
+0	Helmet	60	Coroa Est. Laz. Felyna	otomo/equip/ot037/helm
+0	Helmet	61	Cabeça de Moogle<ICON ALPHA>	otomo/equip/ot038/helm
+0	Helmet	62	Elmo Samurai Felyno<ICON ALPHA>	otomo/equip/ot039/helm
+0	Helmet	63	Chapéu Borbol. Felyno<ICON ALPHA>	otomo/equip/ot040/helm
+0	Helmet	64	Ch. Palha Aloha Felyno<ICON ALPHA>	otomo/equip/ot041/helm
+0	Helmet	65	Más. Miauloween Fel.<ICON ALPHA>	otomo/equip/ot042/helm
+0	Helmet	66	Cabeça Felyna de Neve<ICON ALPHA>	otomo/equip/ot043/helm
+0	Helmet	67	Cabeça Estrela Felyna<ICON ALPHA>	otomo/equip/ot044/helm
+0	Helmet	110	Capuz Felpudo Felyno<ICON ALPHA>+	otomo/equip/ot060/helm
+0	Helmet	111	Elmo Ósseo Felyno<ICON ALPHA>+	otomo/equip/ot028/helm
+0	Helmet	112	Elmo Liga Leve Felyno<ICON ALPHA>+	otomo/equip/ot029/helm
+0	Helmet	113	Elmo de Jagras Felyno<ICON ALPHA>+	otomo/equip/ot002/helm
+0	Helmet	114	Turbante Kulu Felyno<ICON ALPHA>+	otomo/equip/ot003/helm
+0	Helmet	115	Capelo Pukei Felyno<ICON ALPHA>+	otomo/equip/ot004/helm
+0	Helmet	116	Elmo Barroth Felyno<ICON ALPHA>+	otomo/equip/ot005/helm
+0	Helmet	117	Elmo de Jyura Felyno<ICON ALPHA>+	otomo/equip/ot006/helm
+0	Helmet	118	Óculos Beo Felyno<ICON ALPHA>+	otomo/equip/ot051/helm
+0	Helmet	119	Capuz Kadachi Felyno<ICON ALPHA>+	otomo/equip/ot007/helm
+0	Helmet	120	Capuz Banbaro Felyno<ICON ALPHA>+	otomo/equip/ot052/helm
+0	Helmet	121	Elmo de Anja Felyno<ICON ALPHA>+	otomo/equip/ot008/helm
+0	Helmet	122	Elmo Rathian Felyno<ICON ALPHA>+	otomo/equip/ot009/helm
+0	Helmet	123	Chapéu de Lumu Felyno<ICON ALPHA>+	otomo/equip/ot011/helm
+0	Helmet	124	Elmo de Baan Felyno<ICON ALPHA>+	otomo/equip/ot013/helm
+0	Helmet	125	Touca Joaninha Felyna<ICON ALPHA>+	otomo/equip/ot030/helm
+0	Helmet	126	Capelo Necrarma Felyno<ICON ALPHA>+	otomo/equip/ot027/helm
+0	Helmet	127	Elmo de Barioth Felyno<ICON ALPHA>+	otomo/equip/ot046/helm
+0	Helmet	128	Elmo de Rathalos Felyno<ICON ALPHA>+	otomo/equip/ot016/helm
+0	Helmet	129	Elmo Diablos Felyno<ICON ALPHA>+	otomo/equip/ot017/helm
+0	Helmet	130	Elmo Legiana Felyno<ICON ALPHA>+	otomo/equip/ot012/helm
+0	Helmet	131	Elmo de Odogaron Felyno<ICON ALPHA>+	otomo/equip/ot014/helm
+0	Helmet	132	Elmo de Lavasioth Felyno<ICON ALPHA>+	otomo/equip/ot020/helm
+0	Helmet	133	Elmo Uragaan Felyno<ICON ALPHA>+	otomo/equip/ot021/helm
+0	Helmet	134	Elmo de Narga Felyno<ICON ALPHA>+	otomo/equip/ot047/helm
+0	Helmet	135	Elmo Glavenus Felyno<ICON ALPHA>+	otomo/equip/ot048/helm
+0	Helmet	136	Elmo Brachy Felyno<ICON ALPHA>+	otomo/equip/ot049/helm
+0	Helmet	137	Elmo de Tigrex Felyno<ICON ALPHA>+	otomo/equip/ot050/helm
+0	Helmet	138	Elmo Brado Gl. Felyno<ICON ALPHA>+	otomo/equip/ot056/helm
+0	Helmet	139	Núcleo Artian Felyno<ICON ALPHA>+	otomo/equip/ot061/helm
+0	Helmet	140	Másc. Gajalaka Felyna<ICON ALPHA>+	otomo/equip/ot031/helm
+0	Helmet	141	Máscara Boaboa Felyna<ICON ALPHA>+	otomo/equip/ot062/helm
+0	Helmet	142	Elmo Geadefesa Felyno<ICON ALPHA>+	otomo/equip/ot053/helm
+0	Helmet	143	Elmo Orgulho Felyno<ICON ALPHA>+	otomo/equip/ot059/helm
+0	Helmet	144	Caveira Espectral Felyna<ICON ALPHA>+	otomo/equip/ot057/helm
+0	Helmet	145	Capuz Nami Felyno<ICON ALPHA>+	otomo/equip/ot054/helm
+0	Helmet	146	Coroa Kaiser Felyno<ICON ALPHA>+	otomo/equip/ot022/helm
+0	Helmet	147	Rosnado Daora Felyno<ICON ALPHA>+	otomo/equip/ot023/helm
+0	Helmet	148	Chifre Kirin Felyno<ICON ALPHA>+	otomo/equip/ot018/helm
+0	Helmet	149	Coroa Ishvalda Felyna<ICON ALPHA>+	otomo/equip/ot055/helm
+0	Helmet	150	Elmo Ferrenho Felyno<ICON ALPHA>+	otomo/equip/ot058/helm
+0	Helmet	151	Máscara Voraz Felyna<ICON ALPHA>+	otomo/equip/ot069/helm
+0	Helmet	152	Elmo Caçador Felyno<ICON ALPHA>+	otomo/equip/ot072/helm
+0	Helmet	153	Capuz Garuga Felyno<ICON ALPHA>+	otomo/equip/ot064/helm
+0	Helmet	154	Elmo Zinogre Felyno<ICON ALPHA>+	otomo/equip/ot065/helm
+0	Helmet	155	Coroa de Zorah Felyna<ICON ALPHA>+	otomo/equip/ot019/helm
+0	Helmet	156	Máscara Titereiro Felyna<ICON ALPHA>+	otomo/equip/ot066/helm
+0	Helmet	157	Tiara Grandiosa Felyna<ICON ALPHA>+	otomo/equip/ot071/helm
+0	Helmet	158	Elmo Esmagador Felyno<ICON ALPHA>+	otomo/equip/ot070/helm
+0	Helmet	159	Coroa Safi Felyna<ICON ALPHA>+	otomo/equip/ot067/helm
+0	Helmet	160	Chapéu de Couro Felyno	otomo/equip/ot000/helm
+0	Helmet	161	Coroa Eliza Felyna<ICON ALPHA>+	otomo/equip/ot034/helm
+0	Helmet	162	Pelo Kulve Felyno<ICON ALPHA>+	otomo/equip/ot025/helm
+0	Helmet	163	Elmo do Mega Man<ICON ALPHA>+	otomo/equip/ot035/helm
+0	Helmet	164	Cabeça de Moogle<ICON ALPHA>+	otomo/equip/ot038/helm
+0	Helmet	165	HARDUMMY	otomo/equip/ot037/helm
+0	Helmet	166	HARDUMMY	otomo/equip/ot036/helm
+0	Helmet	167	Elmo Samurai Felyno<ICON ALPHA>+	otomo/equip/ot039/helm
+0	Helmet	168	Chapéu Borboleta Felyno<ICON ALPHA>+	otomo/equip/ot040/helm
+0	Helmet	169	Chapéu de Couro Felyno	otomo/equip/ot000/helm
+0	Helmet	170	Chapéu de Couro Felyno	otomo/equip/ot000/helm
+0	Helmet	171	Cabeça Felyna de Neve<ICON ALPHA>+	otomo/equip/ot043/helm
+0	Helmet	172	Cabeça Estrela Felyna<ICON ALPHA>+	otomo/equip/ot044/helm
+0	Helmet	173	Chapéu de Couro Felyno<ICON ALPHA>+	otomo/equip/ot001/helm
+0	Helmet	174	Elmo de Bazel Felyno<ICON ALPHA>+	otomo/equip/ot026/helm
+0	Helmet	175	Elmo Vangis Felyno<ICON ALPHA>+	otomo/equip/ot033/helm
+0	Helmet	176	Elmo Nergigante Felyno<ICON ALPHA>+	otomo/equip/ot010/helm
+0	Helmet	177	Caveira Vaal Felyna<ICON ALPHA>+	otomo/equip/ot015/helm
+0	Helmet	178	Véu de Xeno Felyno<ICON ALPHA>+	otomo/equip/ot024/helm
+0	Helmet	179	Chapéu Guilda Felyno<ICON ALPHA>+	otomo/equip/ot063/helm
+0	Helmet	180	Elmo de Rosa Felyno<ICON ALPHA>+	otomo/equip/ot075/helm
+0	Helmet	181	Chapéu de Couro Felyno	otomo/equip/ot000/helm
+0	Helmet	182	Chapéu de Couro Felyno	otomo/equip/ot000/helm
+0	Helmet	183	Cabeça Shishi-mai Felyna<ICON ALPHA>+	otomo/equip/ot078/helm
+0	Helmet	184	Elmo Espacial Felyno<ICON ALPHA>+	otomo/equip/ot079/helm
+0	Helmet	185	Chapéu de Couro Felyno	otomo/equip/ot000/helm
+0	Helmet	186	Chapéu de Couro Felyno	otomo/equip/ot000/helm
+0	Helmet	187	Chapéu de Couro Felyno	otomo/equip/ot000/helm
+0	Helmet	188	HARDUMMY	otomo/equip/ot080/helm
+0	Helmet	189	HARDUMMY	otomo/equip/ot081/helm
+0	Helmet	190	Cabeça Treme-treme Felyna<ICON ALPHA>+	otomo/equip/ot082/helm
+0	Helmet	191	Chapéu de Couro Felyno	otomo/equip/ot000/helm
+0	Helmet	192	Chapéu de Couro Felyno	otomo/equip/ot000/helm
+0	Helmet	193	Chapéu de Couro Felyno	otomo/equip/ot000/helm
+0	Helmet	194	Chapéu de Couro Felyno	otomo/equip/ot000/helm
+0	Helmet	195	Cabelo Maestro Felyno<ICON ALPHA>+	otomo/equip/ot085/helm
+0	Helmet	196	Chapéu de Couro Felyno	otomo/equip/ot000/helm
+0	Helmet	197	Cabeça de Nekker<ICON ALPHA>+	otomo/equip/ot073/helm
+0	Helmet	198	Chapéu de Couro Felyno	otomo/equip/ot000/helm
+0	Helmet	199	Chapéu de Couro Felyno	otomo/equip/ot000/helm
+0	Helmet	200	Chapéu de Couro Felyno	otomo/equip/ot000/helm
+1	Armor	1	Veste de Couro Felyna	otomo/equip/ot001/body
+1	Armor	28	Armadura Óssea Felyna	otomo/equip/ot028/body
+1	Armor	29	Armad. Liga Leve Felyna	otomo/equip/ot029/body
+1	Armor	2	Armadura Jagras Felyna	otomo/equip/ot002/body
+1	Armor	3	Veste de Kulu Felyna	otomo/equip/ot003/body
+1	Armor	4	Manto de Pukei Felyno	otomo/equip/ot004/body
+1	Armor	5	Armadura Barroth Felyna	otomo/equip/ot005/body
+1	Armor	6	Armadura de Jyura Felyna	otomo/equip/ot006/body
+1	Armor	7	Traje de Kadachi Felyno	otomo/equip/ot007/body
+1	Armor	8	Armadura de Anja Felyna	otomo/equip/ot008/body
+1	Armor	11	Capa de Lumu Felyna	otomo/equip/ot011/body
+1	Armor	9	Armadura Rathian Felyna	otomo/equip/ot009/body
+1	Armor	13	Traje de Baan Felyno	otomo/equip/ot013/body
+1	Armor	30	Asas de Joaninha Felynas	otomo/equip/ot030/body
+1	Armor	12	Armadura Legiana Felyna	otomo/equip/ot012/body
+1	Armor	14	Armadura Odogaron Felyna	otomo/equip/ot014/body
+1	Armor	16	Armadura Rathalos Felyna	otomo/equip/ot016/body
+1	Armor	17	Armadura Diablos Felyna	otomo/equip/ot017/body
+1	Armor	18	Veste de Kirin Felyna	otomo/equip/ot018/body
+1	Armor	27	Capuz Necrarma Felyno	otomo/equip/ot027/body
+1	Armor	32	Veste de Couro Felyna<ICON ALPHA>	otomo/equip/ot001/body
+1	Armor	33	Armadura Óssea Felyna<ICON ALPHA>	otomo/equip/ot028/body
+1	Armor	34	Arm. Liga Leve Felyna<ICON ALPHA>	otomo/equip/ot029/body
+1	Armor	35	Armadura Jagras Felyna<ICON ALPHA>	otomo/equip/ot002/body
+1	Armor	36	Veste de Kulu Felyna<ICON ALPHA>	otomo/equip/ot003/body
+1	Armor	37	Manto de Pukei Felyno<ICON ALPHA>	otomo/equip/ot004/body
+1	Armor	38	Armad. Barroth Felyna<ICON ALPHA>	otomo/equip/ot005/body
+1	Armor	39	Armadura Jyura Felyna<ICON ALPHA>	otomo/equip/ot006/body
+1	Armor	40	Traje Kadachi Felyno<ICON ALPHA>	otomo/equip/ot007/body
+1	Armor	19	Traje de Zorah Felyno<ICON ALPHA>	otomo/equip/ot019/body
+1	Armor	41	Armadura Anja Felyna<ICON ALPHA>	otomo/equip/ot008/body
+1	Armor	42	Capa de Lumu Felyna<ICON ALPHA>	otomo/equip/ot011/body
+1	Armor	43	Armad. Rathian Felyna<ICON ALPHA>	otomo/equip/ot009/body
+1	Armor	44	Traje de Baan Felyno<ICON ALPHA>	otomo/equip/ot013/body
+1	Armor	45	Asas Joaninha Felynas<ICON ALPHA>	otomo/equip/ot030/body
+1	Armor	46	Armad. Legiana Felyna<ICON ALPHA>	otomo/equip/ot012/body
+1	Armor	47	Armad. Odogaron Felyna<ICON ALPHA>	otomo/equip/ot014/body
+1	Armor	48	Armad. Rathalos Felyna<ICON ALPHA>	otomo/equip/ot016/body
+1	Armor	49	Armad. Diablos Felyna<ICON ALPHA>	otomo/equip/ot017/body
+1	Armor	50	Veste de Kirin Felyna<ICON ALPHA>	otomo/equip/ot018/body
+1	Armor	20	Arm. Lavasioth Felyna<ICON ALPHA>	otomo/equip/ot020/body
+1	Armor	21	Armad. Uragaan Felyna<ICON ALPHA>	otomo/equip/ot021/body
+1	Armor	26	Armadura Bazel Felyna<ICON ALPHA>	otomo/equip/ot026/body
+1	Armor	51	Manto Necrarma Felyno<ICON ALPHA>	otomo/equip/ot027/body
+1	Armor	52	Capote Gajalaka Felyno<ICON ALPHA>	otomo/equip/ot031/body
+1	Armor	10	Arm. Nergigante Felyna<ICON ALPHA>	otomo/equip/ot010/body
+1	Armor	15	Ossos de Vaal Felynos<ICON ALPHA>	otomo/equip/ot015/body
+1	Armor	22	Robe de Kaiser Felyno<ICON ALPHA>	otomo/equip/ot022/body
+1	Armor	23	Vise de Daora Felyno<ICON ALPHA>	otomo/equip/ot023/body
+1	Armor	24	Roupa de Xeno Felyna<ICON ALPHA>	otomo/equip/ot024/body
+1	Armor	25	Corpo de Nekker<ICON ALPHA>	otomo/equip/ot073/body
+1	Armor	53	Unavailable	otomo/equip/ot032/body
+1	Armor	100	Chapéu de Couro Felyno	otomo/equip/ot000/body
+1	Armor	101	Veste Borboleta Felyna	otomo/equip/ot040/body
+1	Armor	102	Camisa Aloha Felyna	otomo/equip/ot041/body
+1	Armor	103	Veste Fantasma Felyna	otomo/equip/ot042/body
+1	Armor	104	Traje Felyno de Neve	otomo/equip/ot043/body
+1	Armor	105	Traje Estrela Felyna	otomo/equip/ot044/body
+1	Armor	55	Traje Kulve Felyno<ICON ALPHA>	otomo/equip/ot025/body
+1	Armor	56	Arm. Vangis Felyna<ICON ALPHA>	otomo/equip/ot033/body
+1	Armor	57	Rufo Eliza Felyno<ICON ALPHA>	otomo/equip/ot034/body
+1	Armor	58	Traje do Mega Man	otomo/equip/ot035/body
+1	Armor	59	HARDUMMY	otomo/equip/ot036/body
+1	Armor	60	Armad. Est. Laz. Felyna	otomo/equip/ot037/body
+1	Armor	61	Corpo de Moogle<ICON ALPHA>	otomo/equip/ot038/body
+1	Armor	62	Arm. Samurai Felyna<ICON ALPHA>	otomo/equip/ot039/body
+1	Armor	63	Veste Borboleta Felyna<ICON ALPHA>	otomo/equip/ot040/body
+1	Armor	64	Camisa Aloha Felyna<ICON ALPHA>	otomo/equip/ot041/body
+1	Armor	65	Veste Fantasma Felyna<ICON ALPHA>	otomo/equip/ot042/body
+1	Armor	66	Traje Felyno de Neve<ICON ALPHA>	otomo/equip/ot043/body
+1	Armor	67	Traje Estrela Felyna<ICON ALPHA>	otomo/equip/ot044/body
+1	Armor	110	Jaqueta Felpuda Felyna<ICON ALPHA>+	otomo/equip/ot060/body
+1	Armor	111	Armadura Óssea Felyna<ICON ALPHA>+	otomo/equip/ot028/body
+1	Armor	112	Arm. Liga Leve Felyna<ICON ALPHA>+	otomo/equip/ot029/body
+1	Armor	113	Armad. Jagras Felyna<ICON ALPHA>+	otomo/equip/ot002/body
+1	Armor	114	Veste de Kulu Felyna<ICON ALPHA>+	otomo/equip/ot003/body
+1	Armor	115	Manto de Pukei Felyno<ICON ALPHA>+	otomo/equip/ot004/body
+1	Armor	116	Armad. Barroth Felyna<ICON ALPHA>+	otomo/equip/ot005/body
+1	Armor	117	Armadura Jyura Felyna<ICON ALPHA>+	otomo/equip/ot006/body
+1	Armor	118	Equipam. Beo Felyno<ICON ALPHA>+	otomo/equip/ot051/body
+1	Armor	119	Traje Kadachi Felyno<ICON ALPHA>+	otomo/equip/ot007/body
+1	Armor	120	Traje Banbaro Felyno<ICON ALPHA>+	otomo/equip/ot052/body
+1	Armor	121	Armadura Anja Felyna<ICON ALPHA>+	otomo/equip/ot008/body
+1	Armor	122	Armad. Rathian Felyna<ICON ALPHA>+	otomo/equip/ot009/body
+1	Armor	123	Capa de Lumu Felyna<ICON ALPHA>+	otomo/equip/ot011/body
+1	Armor	124	Traje de Baan Felyno<ICON ALPHA>+	otomo/equip/ot013/body
+1	Armor	125	Asas de Joaninha Felynas<ICON ALPHA>+	otomo/equip/ot030/body
+1	Armor	126	Manto Necrarma Felyno<ICON ALPHA>+	otomo/equip/ot027/body
+1	Armor	127	Arm. Barioth Felyna<ICON ALPHA>+	otomo/equip/ot046/body
+1	Armor	128	Armadura Rathalos Felyna<ICON ALPHA>+	otomo/equip/ot016/body
+1	Armor	129	Armad. Diablos Felyna<ICON ALPHA>+	otomo/equip/ot017/body
+1	Armor	130	Armad. Legiana Felyna<ICON ALPHA>+	otomo/equip/ot012/body
+1	Armor	131	Armadura Odogaron Felyna<ICON ALPHA>+	otomo/equip/ot014/body
+1	Armor	132	Arm. Lavasioth Felyna<ICON ALPHA>+	otomo/equip/ot020/body
+1	Armor	133	Armad. Uragaan Felyna<ICON ALPHA>+	otomo/equip/ot021/body
+1	Armor	134	Armadura Narga Felyna<ICON ALPHA>+	otomo/equip/ot047/body
+1	Armor	135	Arm. Glavenus Felyna<ICON ALPHA>+	otomo/equip/ot048/body
+1	Armor	136	Luvas Brachy Felynas<ICON ALPHA>+	otomo/equip/ot049/body
+1	Armor	137	Armad. Tigrex Felyna<ICON ALPHA>+	otomo/equip/ot050/body
+1	Armor	138	Arm. Br. Glacial Felyna<ICON ALPHA>+	otomo/equip/ot056/body
+1	Armor	139	Armad. Artian Felyna<ICON ALPHA>+	otomo/equip/ot061/body
+1	Armor	140	Capote Gajalaka Felyno<ICON ALPHA>+	otomo/equip/ot031/body
+1	Armor	141	Jaqueta Boaboa Felyna<ICON ALPHA>+	otomo/equip/ot062/body
+1	Armor	142	Armadura Geadefesa Felyna<ICON ALPHA>+	otomo/equip/ot053/body
+1	Armor	143	Arm. Orgulho Felyna<ICON ALPHA>+	otomo/equip/ot059/body
+1	Armor	144	Jaqueta Espectral Felyna<ICON ALPHA>+	otomo/equip/ot057/body
+1	Armor	145	Traje Nami Felyno<ICON ALPHA>+	otomo/equip/ot054/body
+1	Armor	146	Robe de Kaiser Felyno<ICON ALPHA>+	otomo/equip/ot022/body
+1	Armor	147	Vise de Daora Felyno<ICON ALPHA>+	otomo/equip/ot023/body
+1	Armor	148	Veste de Kirin Felyna<ICON ALPHA>+	otomo/equip/ot018/body
+1	Armor	149	Vestuário Ishvalda Felyno<ICON ALPHA>+	otomo/equip/ot055/body
+1	Armor	150	Arm. Ferrenha Felyna<ICON ALPHA>+	otomo/equip/ot058/body
+1	Armor	151	Traje Voraz Felyno<ICON ALPHA>+	otomo/equip/ot069/body
+1	Armor	152	Arm. Caçador Felyna<ICON ALPHA>+	otomo/equip/ot072/body
+1	Armor	153	Robe Garuga Felyno<ICON ALPHA>+	otomo/equip/ot064/body
+1	Armor	154	Arm. Zinogre Felyna<ICON ALPHA>+	otomo/equip/ot065/body
+1	Armor	155	Traje de Zorah Felyno<ICON ALPHA>+	otomo/equip/ot019/body
+1	Armor	156	Veste Titereiro Felyna<ICON ALPHA>+	otomo/equip/ot066/body
+1	Armor	157	Armadura Grandiosa Felyna<ICON ALPHA>+	otomo/equip/ot071/body
+1	Armor	158	Luvas Esmagador Felyno<ICON ALPHA>+	otomo/equip/ot070/body
+1	Armor	159	Armadura Safi Felyna<ICON ALPHA>+	otomo/equip/ot067/body
+1	Armor	160	Chapéu de Couro Felyno	otomo/equip/ot000/body
+1	Armor	161	Rufo Eliza Felyno<ICON ALPHA>+	otomo/equip/ot034/body
+1	Armor	162	Traje Kulve Felyno<ICON ALPHA>+	otomo/equip/ot025/body
+1	Armor	163	Traje do Mega Man<ICON ALPHA>+	otomo/equip/ot035/body
+1	Armor	164	Corpo de Moogle<ICON ALPHA>+	otomo/equip/ot038/body
+1	Armor	165	HARDUMMY	otomo/equip/ot037/body
+1	Armor	166	HARDUMMY	otomo/equip/ot036/body
+1	Armor	167	Arm. Samurai Felyna<ICON ALPHA>+	otomo/equip/ot039/body
+1	Armor	168	Veste Borboleta Felyna<ICON ALPHA>+	otomo/equip/ot040/body
+1	Armor	169	Chapéu de Couro Felyno	otomo/equip/ot000/body
+1	Armor	170	Chapéu de Couro Felyno	otomo/equip/ot000/body
+1	Armor	171	Traje Felyno de Neve<ICON ALPHA>+	otomo/equip/ot043/body
+1	Armor	172	Traje Estrela Felyna<ICON ALPHA>+	otomo/equip/ot044/body
+1	Armor	173	Veste de Couro Felyna<ICON ALPHA>+	otomo/equip/ot001/body
+1	Armor	174	Armadura Bazel Felyna<ICON ALPHA>+	otomo/equip/ot026/body
+1	Armor	175	Arm. Vangis Felyna<ICON ALPHA>+	otomo/equip/ot033/body
+1	Armor	176	Arm. Nergigante Felyna<ICON ALPHA>+	otomo/equip/ot010/body
+1	Armor	177	Ossos de Vaal Felynos<ICON ALPHA>+	otomo/equip/ot015/body
+1	Armor	178	Roupa de Xeno Felyna<ICON ALPHA>+	otomo/equip/ot024/body
+1	Armor	179	Jaqueta Guilda Felyna<ICON ALPHA>+	otomo/equip/ot063/body
+1	Armor	180	Vestido de Rosa Felyno<ICON ALPHA>+	otomo/equip/ot075/body
+1	Armor	181	Chapéu de Couro Felyno	otomo/equip/ot000/body
+1	Armor	182	Chapéu de Couro Felyno	otomo/equip/ot000/body
+1	Armor	183	Corpo Shishi-mai Felyno<ICON ALPHA>+	otomo/equip/ot078/body
+1	Armor	184	Traje Espacial Felyno<ICON ALPHA>+	otomo/equip/ot079/body
+1	Armor	185	Chapéu de Couro Felyno	otomo/equip/ot000/body
+1	Armor	186	Chapéu de Couro Felyno	otomo/equip/ot000/body
+1	Armor	187	Chapéu de Couro Felyno	otomo/equip/ot000/body
+1	Armor	188	HARDUMMY	otomo/equip/ot080/body
+1	Armor	189	HARDUMMY	otomo/equip/ot081/body
+1	Armor	190	Vaso Treme-treme Felyno<ICON ALPHA>+	otomo/equip/ot082/body
+1	Armor	191	Chapéu de Couro Felyno	otomo/equip/ot000/body
+1	Armor	192	Chapéu de Couro Felyno	otomo/equip/ot000/body
+1	Armor	193	Chapéu de Couro Felyno	otomo/equip/ot000/body
+1	Armor	194	Chapéu de Couro Felyno	otomo/equip/ot000/body
+1	Armor	195	Traje Maestro Felyno<ICON ALPHA>+	otomo/equip/ot085/body
+1	Armor	196	Armadura Noz Felyna<ICON ALPHA>+	otomo/equip/ot086/body
+1	Armor	197	Corpo de Nekker<ICON ALPHA>+	otomo/equip/ot073/body
+1	Armor	198	Chapéu de Couro Felyno	otomo/equip/ot000/body
+1	Armor	199	Chapéu de Couro Felyno	otomo/equip/ot000/body
+1	Armor	200	Chapéu de Couro Felyno	otomo/equip/ot000/body

@@ -1,0 +1,185 @@
+Mission ID	Mission Name	Mission Desc
+0	Pesq. de Campo: Aflor. Rochosos	Minere 6 vezes em afloramentos rochosos.
+1	Pesq. de Campo: Aflor. Rochosos	Minere 12 vezes em afloramentos rochosos.
+2	Pesq. de Campo: Pilha de ossos	Colete 6 vezes em pilhas de ossos.
+3	Pesq. de Campo: Pilha de ossos	Colete 12 vezes em pilhas de ossos.
+4	Pesq. de Campo: Flora	Colete plantas 4 vezes.
+5	Pesq. de Campo: Flora	Colete plantas 7 vezes.
+6	Pesq. de Campo: Cogumelos	Colete cogumelos 4 vezes
+7	Pesq. de Campo: Cogumelos	Colete cogumelos 7 vezes
+8	Pesq. de Campo: Entomologia	Colete insetos 3 vezes.
+9	Pesq. de Campo: Entomologia	Colete insetos 5 vezes.
+10	Pesq. de Campo: Mel	Colete mel 3 vezes.
+11	Pesq. de Campo: Mel	Cace 3 serpássaros (G) de ranque elevado.
+12	Ecobusca: Caça a Monstros (G)	Cace 2 monstros grandes.
+13	Ecobusca: Caça a Monstros (G)	Cace 1 monstro grande.
+14	Ecobusca: Captura de Monstro (G)	Capture 1 monstro grande.
+15	Ecobusca: Abate de Monstro (P)	Mate 8 monstros pequenos.
+16	Ecobusca: Abate de Monstro (P)	Mate 16 monstros pequenos.
+17	Avanço Pesq.: Floresta Ancestral	Conclua 2 missões na Floresta Ancestral.
+18	Avanço Pesq.: Floresta Ancestral	Conclua 3 missões na Floresta Ancestral.
+19	Avanço Pesq.: Ermo Selvagulha	Conclua 2 missões no Ermo Selvagulha.
+20	Avanço Pesq.: Ermo Selvagulha	Conclua 3 missões no Ermo Selvagulha.
+21	Pesq. de Campo: Aflor. Rochosos	Colete em 9 afloramentos rochosos.
+22	Pesq. de Campo: Aflor. Rochosos	Minere 15 vezes em afloramentos rochosos.
+23	Pesq. de Campo: Pilha de ossos	Colete 9 vezes em pilhas de ossos.
+24	Pesq. de Campo: Pilha de ossos	Colete 15 vezes em pilhas de ossos.
+25	Pesq. de Campo: Flora	Colete plantas 5 vezes.
+26	Pesq. de Campo: Flora	Colete plantas 8 vezes.
+27	Pesq. de Campo: Cogumelos	Colete cogumelos 5 vezes
+28	Pesq. de Campo: Cogumelos	Colete cogumelos 8 vezes
+29	Pesq. de Campo: Entomologia	Colete insetos 4 vezes.
+30	Pesq. de Campo: Entomologia	Colete insetos 7 vezes.
+31	Pesq. de Campo: Mel	Colete mel 4 vezes.
+32	Pesq. de Campo: Mel	Colete mel 7 vezes.
+33	Ecobusca: Caça a Monstros (G)	Cace 3 monstros grandes.
+34	Ecobusca: Caça a Monstros (G)	Cace 2 monstros grandes.
+35	Ecobusca: Captura de Monstro (G)	Capture 2 monstros grandes.
+36	Ecobusca: Captura de Monstro (G)	Capture 1 monstro grande.
+37	Ecobusca: Abate de Monstro (P)	Mate 10 monstros pequenos.
+38	Ecobusca: Abate de Monstro (P)	Mate 20 monstros pequenos.
+39	Ecobusca: Caça à Serpe de Presas	Cace 2 serpes de presas grandes.
+40	Ecobusca: Cap. Serpe de Presas	Capture 1 serpe de presas grande.
+41	Ecobusca: Caça ao Serpássaro	Cace 2 serpássaros grandes.
+42	Ecobusca: Captura do Serpássaro	Capture 1 serpássaro grande.
+43	Ecobusca: Caça à Serpe Bruta	Cace 2 serpes brutas grandes.
+44	Ecobusca: Captura da Serpe Bruta	Capture 1 serpe bruta grande.
+45	Ecobusca: Caça à Serpe Alada	Cace 2 serpes aladas grandes.
+46	Ecobusca: Captura da Serpe Alada	Capture 1 serpe alada grande.
+47	Avanço Pesq.: Floresta Ancestral	Conclua 2 missões na Floresta Ancestral.
+48	Avanço Pesq.: Floresta Ancestral	Conclua 3 missões na Floresta Ancestral.
+49	Avanço Pesq.: Ermo Selvagulha	Conclua 2 missões no Ermo Selvagulha.
+50	Avanço Pesq.: Ermo Selvagulha	Conclua 3 missões no Ermo Selvagulha.
+51	Avanço Pesq.: Planaltos Coralinos	Conclua 2 missões nos Planaltos Coralinos.
+52	Avanço Pesq: Planaltos Coralinos	Conclua 3 missões nos Planaltos Coralinos.
+53	Avanço Pesq.: Vale Putrefato	Conclua 2 missões no Vale Putrefato.
+54	Avanço Pesq.: Vale Putrefato	Conclua 3 missões no Vale Putrefato.
+55	Avanço Pesq.: Investigações	Conclua 2 investigações.
+56	Avanço Pesq.: Investigações	Conclua 3 investigações.
+57	Ecobusca: Caça a Monstros (G)	Cace 2 monstros (G) de ranque elevado.
+58	Ecobusca: Captura de Monstro (G)	Capture 1 monstro (G) de ranque elevado.
+59	Ecobusca: Abate de Monstro (P)	Mate 10 monstros (P) de ranque elevado.
+60	Avanço Pesq.: Floresta Ancestral	Conclua 2 missões de ranque elevado na Floresta Ancestral.
+61	Avanço Pesq.: Ermo Selvagulha	Conclua 2 missões de ranque elevado no Ermo Selvagulha.
+62	Avanço Pesq: Planaltos Coralinos	Conclua 2 missões de ranque elevado nos Planaltos Coralinos.
+63	Avanço Pesq.: Vale Putrefato	Conclua 2 missões de ranque elevado no Vale Putrefato.
+64	Avanço Pesq.: Investigações	Conclua 2 investigações de ranque elevado.
+65	Pesq. de Campo: Aflor. Rochosos	Minere 15 vezes em afloramentos rochosos.
+66	Pesq. de Campo: Pilha de ossos	Colete 15 vezes em pilhas de ossos.
+67	Pesq. de Campo: Flora	Colete plantas 8 vezes.
+68	Pesq. de Campo: Cogumelos	Colete cogumelos 8 vezes
+69	Pesq. de Campo: Entomologia	Colete insetos 7 vezes.
+70	Pesq. de Campo: Mel	Colete mel 7 vezes.
+71	Ecobusca: Caça a Monstros (G)	Cace 3 monstros (G) de ranque elevado.
+72	Ecobusca: Captura de Monstro (G)	Capture 2 monstros (G) de ranque elevado.
+73	Ecobusca: Abate de Monstro (P)	Mate 20 monstros (P) de ranque elevado.
+74	Ecobusca: Caça à Serpe de Presas	Cace 2 serpes de presas (G) de ranque elevado.
+75	Ecobusca: Cap. Serpe de Presas	Capture 1 serpe de presas (G) de ranque elevado.
+76	Ecobusca: Caça ao Serpássaro	Cace 2 serpássaros (G) de ranque elevado.
+77	Ecobusca: Captura do Serpássaro	Capture 1 serpássaro (G) de ranque elevado.
+78	Ecobusca: Caça à Serpe Bruta	Cace 2 serpes brutas (G) de ranque elevado.
+79	Ecobusca: Captura da Serpe Bruta	Capture 1 serpe bruta (G) de ranque elevado.
+80	Ecobusca: Caça à Serpe Alada	Cace 2 serpes aladas (G) de ranque elevado.
+81	Ecobusca: Captura da Serpe Alada	Capture 1 serpe alada (G) de ranque elevado.
+82	Ecobusca: Caça à Hidroserpe	Cace 2 hidroserpes (G) de ranque elevado.
+83	Ecobusca: Captura da Hidroserpe	Capture 1 hidroserpe (G) de ranque elevado.
+84	Avanço Pesq.: Floresta Ancestral	Conclua 3 missões de ranque elevado na Floresta Ancestral.
+85	Avanço Pesq.: Ermo Selvagulha	Conclua 3 missões de ranque elevado no Ermo Selvagulha.
+86	Avanço Pesq: Planaltos Coralinos	Conclua 3 missões de ranque elevado nos Planaltos Coralinos.
+87	Avanço Pesq.: Vale Putrefato	Conclua 3 missões de ranque elevado no Vale Putrefato.
+88	Avanço Pesq.: Fenda do Ancião	Conclua 3 missões de ranque elevado na Fenda do Ancião.
+89	Avanço Pesq.: Investigações	Conclua 3 investigações de ranque elevado.
+90	Ecobusca: Abate Dragão Ancião	Mate 2 dragões anciões de ranque elevado.
+91	Pesq. de Campo: Aflor. Rochosos	Minere 21 vezes em afloramentos rochosos.
+92	Pesq. de Campo: Pilha de ossos	Colete 21 vezes em pilhas de ossos.
+93	Pesq. de Campo: Flora	Colete plantas 12 vezes.
+94	Pesq. de Campo: Cogumelos	Colete cogumelos 12 vezes
+95	Pesq. de Campo: Entomologia	Colete insetos 10 vezes.
+96	Pesq. de Campo: Mel	Colete mel 10 vezes.
+97	Ecobusca: Caça a Monstros (G)	Cace 4 monstros (G) de ranque elevado.
+98	Ecobusca: Captura de Monstro (G)	Capture 3 monstros (G) de ranque elevado.
+99	Ecobusca: Abate de Monstro (P)	Mate 30 monstros pequenos de ranque elevado.
+100	Ecobusca: Caça à Serpe de Presas	Cace 3 serpes de presas (G) de ranque elevado.
+101	Ecobusca: Cap. Serpe de Presas	Capture 2 serpes de presas (G) de ranque elevado.
+102	Ecobusca: Caça ao Serpássaro	Cace 3 serpássaros (G) de ranque elevado.
+103	Ecobusca: Captura do Serpássaro	Capture 2 serpássaros (G) de ranque elevado.
+104	Ecobusca: Caça à Serpe Bruta	Cace 3 serpes brutas (G) de ranque elevado.
+105	Ecobusca: Captura da Serpe Bruta	Capture 2 serpes brutas (G) de ranque elevado.
+106	Ecobusca: Caça à Serpe Alada	Cace 3 serpes aladas (G) de ranque elevado.
+107	Ecobusca: Captura da Serpe Alada	Capture 2 serpes aladas (G) de ranque elevado.
+108	Ecobusca: Caça à Hidroserpe	Cace 3 hidroserpes (G) de ranque elevado.
+109	Ecobusca: Captura da Hidroserpe	Capture 2 hidroserpes (G) de ranque elevado.
+110	Ecobusca: Abate Dragão Ancião	Cace 3 serpes brutas (G) de ranque elevado.
+111	Avanço Pesq.: Floresta Ancestral	Cace 3 serpes aladas (G) de ranque elevado.
+112	Avanço Pesq.: Ermo Selvagulha	Cace 3 hidroserpes (G) de ranque elevado.
+113	Avanço Pesq.: Planaltos Coralinos	Conclua 4 missões de ranque elevado nos Planaltos Coralinos.
+114	Avanço Pesq.: Vale Putrefato	Conclua 4 missões de ranque elevado no Vale Putrefato.
+115	Avanço Pesq.: Fenda do Ancião	Conclua 4 missões de ranque elevado na Fenda do Ancião.
+116	Avanço Pesq.: Investigações	Conclua 4 investigações de ranque elevado.
+117	Câmbio Cult: Ermo Selvagulha	Capture 3 Protetores.
+118	Câmbio Cult: Ermo Selvagulha II	Apresente-se aos Protetores na colônia.
+119	Câmbio Cult: Língua Gajalaka	Colete 10 rastros de Gajalaka.
+120	Câmbio Cult: Língua Gajalaka II	Descubra a colônia Gajalaka.
+121	Aux. Pesq.: Cap. Parexus Rosa	Capture um Parexus Rosa.
+122	Aux. Pesq.: Cap. Peixushi	Capture um Peixushi.
+123	Aux. Pesq.: Cap. Peixe-pólvora	Capture um Peixe-pólvora.
+124	Aux. Pesq.: Cap. Peixe-dourado	Capture um Peixe-dourado.
+125	Aux. Pesq.: Cap. Peixe-platinado	Capture um Peixe-platinado.
+126	Aux. Pesq.: Cap. Pteryx do Bosque	Capture um Pteryx do Bosque.
+127	Aux. Pesq.: Cap. Formiga Portadora	Capture 9 Formigas Portadoras.
+128	Aux. Pesq.: Cap. Treme-treme	Capture 3 Treme-tremes.
+129	Aux. Pesq.: Cap. Necrântula	Capture 5 Necrântulas.
+130	Aux. Pesq.: Cap. Besouro-bomba	Capture um Besouro-bomba.
+131	Aux. Pesq.: Captura Ancestral	Capture a vida nativa conhecida como criatura ancestral do Novo Mundo.
+132	Aux. Pesq.: Pássaro Fantasma	Capture a vida nativa conhecida como pássaro fantasma.
+133	Recriar camping na Fl. Ancestral	Proteger o local do acampamento.
+134	Aux. Pesq.: Captura de Criatura	Capture uma criatura de outro mundo.(Dica: veja seu Bestiário.)
+135	Aux. Pesq.: Captura de Parexus Vítreo	Capture um Parexus Vítreo.
+136	Aux. Pesq.: Captura de Peixe Misterioso	Capture um peixe misterioso daFronteira Glacial.
+137	Aux. Pesq.: Captura de Pinguim Felpudo	Capture 3 Pinguins Felpudos.
+138	Aux. Pesq.: Captura de Animal Misterioso	Capture uma vida nativa misteriosa daFronteira Glacial.
+139	Aux. Pesq.: Captura de Peixe-amola	Capture um Peixe-amola coroa de ouro.
+140	Aux. Pesq.: Captura de Aruanã Explosivo	Capture um Aruanã Explosivo coroa de ouro.
+141	Aux. Pesq.: Captura de Parexus Vítreo	Capture um Parexus Vítreo coroa de ouro.
+142	Aux. Pesq.: Captura de Moscaugúrio	Capture um Moscaugúrio coroa de ouro.
+143	Aux. Pesq.: Captura de Coralve Garbosa	Capture uma Coralve Garbosa coroa de ouro.
+144	Aux. Pesq.: Captura de Pinguim Felpudo	Capture um Pinguim Felpudo coroa de ouro.
+145	Pesq. de Campo: Aflor. Rochosos	Minere 12 vezes em afloramentos rochosos.
+146	Pesq. de Campo: Pilhas de Ossos	Colete 12 vezes em pilhas de ossos.
+147	Pesquisa de Campo: Flora	Colete plantas 8 vezes.
+148	Pesquisa de Campo: Cogumelos	Colete cogumelos 8 vezes.
+149	Pesquisa de Campo: Entomologia	Colete insetos 6 vezes.
+150	Pesquisa de Campo: Mel	Colete mel 6 vezes.
+151	Ecobusca: Caçar Monstro Grande	Cace 3 monstros grandes de ranque mestre.
+152	Ecobusca: Capturar Monstro Grande	Capture 3 monstros grandes de ranque mestre.
+153	Ecobusca: Abater Monstro Pequeno	Mate 10 monstros pequenos de ranque mestre.
+154	Ecobusca: Caçar Serpe de Presas	Cace 2 serpes de presas grandes de ranque mestre.
+155	Ecobusca: Capturar Serpe de Presas	Capture 2 serpes de presas grandes de ranque mestre.
+156	Ecobusca: Caçar Serpássaro	Cace 2 serpássaros grandes de ranque mestre.
+157	Ecobusca: Capturar Serpássaro	Capture 2 serpássaros grandes de ranque mestre.
+158	Ecobusca: Caçar Serpe Bruta	Cace 2 serpes brutas grandes de ranque mestre.
+159	Ecobusca: Capturar Serpe Bruta	Capture 2 serpes brutas grandes de ranque mestre.
+160	Ecobusca: Caçar Hidroserpe	Cace 2 hidroserpes grandes de ranque mestre.
+161	Ecobusca: Capturar Hidroserpe	Capture 2 hidroserpes grandes de ranque mestre.
+162	Avanço Pesq.: Floresta Ancestral	Conclua 2 missões de ranque mestre na Floresta Ancestral.
+163	Avanço Pesq.: Ermo Selvagulha	Conclua 2 missões de ranque mestre no Ermo Selvagulha.
+164	Avanço Pesq.: Planaltos Coralinos	Conclua 2 missões de ranque mestre nos Planaltos Coralinos.
+165	Avanço Pesq.: Vale Putrefato	Conclua 2 missões de ranque mestre no Vale Putrefato.
+166	Avanço Pesq.: Fenda do Ancião	Conclua 2 missões de ranque mestre na Fenda do Ancião.
+167	Avanço Pesq.: Investigações	Conclua 2 investigações de ranque mestre.
+168	Avanço Pesq.: Fronteira Glacial	Conclua 2 missões de ranque mestre na Fronteira Glacial.
+169	Ecobusca: Caçar Serpe Alada	Cace 2 serpes aladas grandes de ranque mestre.
+170	Ecobusca: Capturar Serpe Alada	Capture 2 serpes aladas grandes de ranque mestre.
+171	Ecobusca: Caçar Monstro Grande	Cace 6 monstros grandes de ranque mestre.
+172	Ecobusca: Caçar Serpe de Presas	Cace 4 serpes de presas grandes de ranque mestre.
+173	Ecobusca: Caçar Serpássaro	Cace 4 serpássaros grandes de ranque mestre.
+174	Ecobusca: Caçar Serpe Bruta	Cace 4 serpes brutas grandes de ranque mestre.
+175	Ecobusca: Caçar Serpe Alada	Cace 4 serpes aladas grandes de ranque mestre.
+176	Ecobusca: Caçar Hidroserpe	Cace 4 hidroserpes grandes de ranque mestre.
+177	Ecobusca: Abater Dragão Ancião	Mate 2 dragões anciões de ranque mestre.
+178	Ecobusca: Abater Dragão Ancião	Mate 4 dragões anciões de ranque mestre.
+179	Ecobusca: Caçar Monstro Aguerrido	Cace 2 monstros aguerridos grandes de ranque mestre.
+180	Ecobusca: Caçar Monstro Aguerrido	Cace 4 monstros aguerridos grandes de ranque mestre.
+181	Câmbio Cultural: Fronteira Glacial	Parta em uma expedição à Fronteira Glacial ecace um monstro grande.
+182	Câmbio Cultural: Fronteira Glacial II	Vá à toca dos Boaboa e participe dareunião do conselho.
+183	Câmbio Cultural: Fronteira Glacial III	Complete a missão M2<ICON STAR_1>Pelos Nossos Poderes Combinados.

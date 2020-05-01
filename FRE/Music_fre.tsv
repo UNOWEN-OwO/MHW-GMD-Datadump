@@ -1,0 +1,100 @@
+Music Code	Music Level	Music Name
+HUD_HUE_00	-	Auto-amélioration
+HUD_HUE_00_S	0	Vitesse de déplacement +
+HUD_HUE_00_W	1	Annule déviation attaque / Bonus attaque
+HUD_HUE_01	-	Bonus attaque (P)
+HUD_HUE_02	-	Bonus attaque (G)
+HUD_HUE_02_W	1	Bonus attaque (MAX)
+HUD_HUE_03	-	Bonus vie (P)
+HUD_HUE_04	-	Bonus vie (G)
+HUD_HUE_04_W	1	Bonus vie : durée étendue
+HUD_HUE_05	-	Endurance illimitée (P)
+HUD_HUE_06	-	Endurance illimitée (G)
+HUD_HUE_06_W	1	Endurance illimitée : durée étendue
+HUD_HUE_07	-	Anti-bourrasque
+HUD_HUE_08	-	Anti-bourrasque total
+HUD_HUE_08_W	1	Anti-bourrasque total : durée étendue
+HUD_HUE_09	-	Bonus défense (P)
+HUD_HUE_10	-	Bonus défense (G)
+HUD_HUE_10_W	1	Bonus défense (MAX)
+HUD_HUE_11	-	Durabilité outils (P)
+HUD_HUE_12	-	Durabilité outils (G)
+HUD_HUE_12_W	1	Durabilité outils : durée étendue
+HUD_HUE_13	-	Récupération vie (P)
+HUD_HUE_14	-	Récupération vie (G)
+HUD_HUE_15	-	Récup. vie (P) / Antidote
+HUD_HUE_16	-	Récup. vie (M) / Antidote
+HUD_HUE_17	-	Vitesse récupération (P)
+HUD_HUE_18	-	Vitesse récupération (G)
+HUD_HUE_18_W	1	Vitesse récupération : durée étendue
+HUD_HUE_19	-	Protection divine
+HUD_HUE_19_W	1	Protection divine : durée étendue
+HUD_HUE_20	-	Bonus naviciole
+HUD_HUE_20_S	0	Niveau naviciole +1
+HUD_HUE_20_W	1	Niveau naviciole +1 : durée étendue
+HUD_HUE_21	-	Immunité à la boue
+HUD_HUE_21_W	1	Immunité à la boue : durée étendue
+HUD_HUE_22	-	Dégâts environ. annulés
+HUD_HUE_22_W	1	Dégâts environ. annulés : durée étendue
+HUD_HUE_23	-	Protection ouïe (P)
+HUD_HUE_24	-	Protection ouïe (G)
+HUD_HUE_24_W	1	Protection ouïe (G) : durée étendue
+HUD_HUE_25	-	Anti-étourdissement
+HUD_HUE_25_W	1	Anti-étourdissement : durée étendue
+HUD_HUE_26	-	Anti-paralysie
+HUD_HUE_26_W	1	Anti-paralysie : durée étendue
+HUD_HUE_27	-	Anti-séisme
+HUD_HUE_27_W	1	Anti-séisme : durée étendue
+HUD_HUE_28	-	Bonus résistance feu (P)
+HUD_HUE_29	-	Bonus résistance feu (G)
+HUD_HUE_29_W	1	Bonus résistance feu (MAX)
+HUD_HUE_30	-	Bonus résistance eau (P)
+HUD_HUE_31	-	Bonus résistance eau (G)
+HUD_HUE_31_W	1	Bonus résistance eau (MAX)
+HUD_HUE_32	-	Bonus résistance foudre (P)
+HUD_HUE_33	-	Bonus résistance foudre (G)
+HUD_HUE_33_W	1	Bonus résistance foudre (MAX)
+HUD_HUE_34	-	Bonus résistance glace (P)
+HUD_HUE_35	-	Bonus résistance glace (G)
+HUD_HUE_35_W	1	Bonus résistance glace (MAX)
+HUD_HUE_36	-	Bonus résistance dragon (P)
+HUD_HUE_37	-	Bonus résistance dragon (G)
+HUD_HUE_37_W	1	Bonus résistance dragon (MAX)
+HUD_HUE_38	-	Bonus attaque élémentaire
+HUD_HUE_38_S	0	Bonus attaque élémentaire (P)
+HUD_HUE_38_W	1	Bonus attaque élémentaire (G)
+HUD_HUE_39	-	Ondes soniques
+HUD_HUE_40	-	Bonus durée des mélodies
+HUD_HUE_41	-	Anti-chutes
+HUD_HUE_42	-	Bonus attaque + défense (P)
+HUD_HUE_42_S	0	Bonus attaque + défense (P)
+HUD_HUE_42_W	1	Bonus attaque + défense (G)
+HUD_HUE_43	-	Bonus affinité / Récup. vie (P)
+HUD_HUE_43_S	0	Bonus affinité (P) / Récup. vie (P)
+HUD_HUE_43_W	1	Bonus affinité (G) / Récup. vie (P)
+HUD_HUE_44	-	Bonus afflictions
+HUD_HUE_44_S	0	Bonus afflictions (P)
+HUD_HUE_44_W	1	Bonus afflictions (G)
+HUD_HUE_45	-	Anti-afflictions
+HUD_HUE_45_W	1	Anti-afflictions : durée étendue
+HUD_HUE_46	-	Bonus résistance fléaux
+HUD_HUE_46_S	0	Bonus résistance fléaux (P)
+HUD_HUE_46_W	1	Bonus résistance fléaux (G)
+HUD_HUE_47	-	Anti-fléau
+HUD_HUE_47_W	1	Anti-fléau : durée étendue
+HUD_HUE_48	-	Protection ouïe (P) / Anti-bourrasque
+HUD_HUE_48_S	0	Protection ouïe (P) / Anti-bourrasque
+HUD_HUE_48_W	1	Protection ouïe (P) / Anti-bourrasque : durée étendue
+HUD_HUE_49	-	Récupération vie (M)
+HUD_HUE_23_W	1	Protection ouïe (P) : durée étendue
+HUD_HUE_07_W	1	Anti-bourrasque : durée étendue
+HUD_HUE_41_W	1	Anti-chutes : durée étendue
+HUD_HUE_50	-	Onde d'écho à impact
+HUD_HUE_51	-	"Onde d'écho ""Dragon"""
+HUD_HUE_52	-	Bonus : endurance max / récupération vie
+HUD_HUE_53	-	Récupération vie : durée étendue
+HUD_HUE_54	-	Bonus : vitesse / invulnérabilité
+HUD_HUE_55	-	Bonus : efficacité élémentaire
+HUD_HUE_56	-	Bonus : invulnérabilité
+HUD_HUE_21_G	-	Immunité boue/eau/neige
+HUD_HUE_21_W_G	-	Immunité boue/eau/neige : durée étendue

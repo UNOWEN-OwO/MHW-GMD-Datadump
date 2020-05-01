@@ -1,0 +1,185 @@
+Pendant ID	Pendant Code	Pendant Name	Model
+0	CHARM_000_NAME	Бронзовая медаль гильдии	charm002
+1	CHARM_001_NAME	Серебряная медаль гильдии	charm002
+2	CHARM_002_NAME	Золотая медаль гильдии	charm002
+3	CHARM_003_NAME	Шарф с бронз. знаком (крас.)	charm003
+4	CHARM_004_NAME	Шарф с бронз. знаком (желт.)	charm003
+5	CHARM_005_NAME	Шарф с бронз. знаком (син.)	charm003
+6	CHARM_006_NAME	Шарф с бронз. знаком (роз.)	charm003
+7	CHARM_007_NAME	Шарф с бронз. знаком (зел.)	charm003
+8	CHARM_008_NAME	Шарф с бронз. знаком (сер.)	charm003
+9	CHARM_009_NAME	Шарф с бронз. знаком (кор.)	charm003
+10	CHARM_010_NAME	Шарф с сереб. знаком (бел.)	charm003
+11	CHARM_011_NAME	Шарф с сереб. знаком (крас.)	charm003
+12	CHARM_012_NAME	Шарф с сереб. знаком (зел.)	charm003
+13	CHARM_013_NAME	Шарф с сереб. знаком (циан.)	charm003
+14	CHARM_014_NAME	Шарф с сереб. знаком (фиол.)	charm003
+15	CHARM_015_NAME	Шарф с сереб. знаком (роз.)	charm003
+16	CHARM_016_NAME	Шарф с сереб. знаком (оран.)	charm003
+17	CHARM_017_NAME	Шарф с зол. знаком (кор.)	charm003
+18	CHARM_018_NAME	Шарф с зол. знаком (бел.)	charm003
+19	CHARM_019_NAME	Шарф с зол. знаком (т-зел.)	charm003
+20	CHARM_020_NAME	Шарф с зол. знаком (с-зел.)	charm003
+21	CHARM_021_NAME	Шарф с зол. знаком (фиол.)	charm003
+22	CHARM_022_NAME	Шарф с зол. знаком (оран.)	charm003
+23	CHARM_023_NAME	Шарф с зол. знаком (син.)	charm003
+24	CHARM_024_NAME	Путеводный изумруд. кристалл	charm004
+25	CHARM_025_NAME	Путеводный зеленый кристалл	charm004
+26	CHARM_026_NAME	Путеводный солнеч. кристалл	charm004
+27	CHARM_027_NAME	Путеводный закатный кристалл	charm004
+28	CHARM_028_NAME	Путеводный морган. кристалл	charm004
+29	CHARM_029_NAME	Путеводный целест. кристалл	charm004
+30	CHARM_030_NAME	Путеводный цитр. кристалл	charm004
+31	CHARM_031_NAME	Путеводный алмазный кристалл	charm004
+32	CHARM_032_NAME	Путеводный багровый кристалл	charm004
+33	CHARM_033_NAME	Путеводный гематит. кристалл	charm004
+34	CHARM_034_NAME	Путеводный ледник. кристалл	charm004
+35	CHARM_035_NAME	Путеводный танзан. кристалл	charm004
+36	CHARM_036_NAME	Путеводная лесная звезда	charm001
+37	CHARM_037_NAME	Путеводная звезда пустоши	charm001
+38	CHARM_038_NAME	Путеводная коралловая звезда	charm001
+39	CHARM_039_NAME	Путеводная миазмовая звезда	charm001
+40	CHARM_040_NAME	Путеводная магмовая звезда	charm001
+41	CHARM_041_NAME	Путеводная инеистая звезда	charm001
+42	CHARM_042_NAME	Бронзовый символ охотника	charm005
+43	CHARM_043_NAME	Серебряный символ охотника	charm005
+44	CHARM_044_NAME	Золотой символ охотника	charm005
+45	CHARM_045_NAME	Алмазный символ охотника	charm005
+46	CHARM_046_NAME	Рубиновый символ мастера	charm005
+47	CHARM_047_NAME	Изумрудный символ мастера	charm005
+48	CHARM_048_NAME	Янтарный символ мастера	charm005
+49	CHARM_049_NAME	Сапфировый символ мастера	charm005
+50	CHARM_050_NAME	Топазовый символ мастера	charm005
+51	CHARM_051_NAME	Аметистовый символ мастера	charm005
+52	CHARM_052_NAME	Червонный символ мастера	charm005
+53	CHARM_053_NAME	Сине-золотой символ мастера	charm005
+54	CHARM_054_NAME	Бронзовый символ мастера	charm005
+55	CHARM_055_NAME	Сине-ледяной символ мастера	charm005
+56	CHARM_056_NAME	Фиолетовый символ мастера	charm005
+57	CHARM_057_NAME	Обсидиановый символ мастера	charm005
+58	CHARM_058_NAME	Красн. символ мастера ратал.	charm005
+59	CHARM_059_NAME	Синий символ мастера ратианы	charm005
+60	CHARM_060_NAME	Роз. символ мастера ратианы	charm005
+61	CHARM_061_NAME	Цветущий букет	charm006
+62	DUMMY000000	Unavailable	charm001
+63	DUMMY000001	Unavailable	charm001
+64	CHARM_064_NAME	Алый тигр удачи	charm009
+65	CHARM_065_NAME	Лазурное живое серебро	charm010
+66	CHARM_066_NAME	Когти раянга	charm011
+67	CHARM_067_NAME	Рог взбешенного раянга	charm012
+68	CHARM_068_NAME	Когти стигийского зиногра	charm013
+69	CHARM_069_NAME	Героический красный рог	charm014
+70	CHARM_070_NAME	Оск. неистового брахидиоса	charm015
+71	DUMMY000002	Unavailable	charm001
+72	CHARM_072_NAME	Когти золотой ратианы	charm017
+73	CHARM_073_NAME	Когти серебристого раталоса	charm018
+74	DUMMY000003	Unavailable	charm001
+75	DUMMY000004	Unavailable	charm001
+76	DUMMY000005	Unavailable	charm001
+77	DUMMY000006	Unavailable	charm001
+78	DUMMY000007	Unavailable	charm001
+79	DUMMY000008	Unavailable	charm001
+80	DUMMY000009	Unavailable	charm001
+81	DUMMY000010	Unavailable	charm001
+82	CHARM_082_NAME	Архизакал. осколок намиэль	charm027
+83	DUMMY000011	Unavailable	charm001
+84	DUMMY000012	Unavailable	charm001
+85	DUMMY000013	Unavailable	charm001
+86	CHARM_086_NAME	HARDUMMY	charm031
+87	CHARM_087_NAME	HARDUMMY	charm032
+88	CHARM_088_NAME	R.P.D.	charm033
+89	CHARM_089_NAME	Амбрелла	charm034
+90	CHARM_090_NAME	Кулон кротта - удача	charm035
+91	CHARM_091_NAME	Кулон кротта - здоровье	charm036
+92	CHARM_092_NAME	Кулон кротта - безопасность	charm037
+93	CHARM_093_NAME	Кулон кротта - любовь	charm038
+94	CHARM_094_NAME	Кулон кротта - защита	charm039
+95	CHARM_095_NAME	Кулон кротта - гнев	charm040
+96	CHARM_096_NAME	Кулон кротта - мир	charm041
+97	CHARM_097_NAME	Плюшевый котт	charm042
+98	CHARM_098_NAME	HARDUMMY	charm044
+99	CHARM_099_NAME	HARDUMMY	charm045
+100	CHARM_100_NAME	HARDUMMY	charm043
+101	CHARM_101_NAME	Цветущий букет (розовый)	charm006
+102	CHARM_102_NAME	Цветущий букет (оранжевый)	charm006
+103	CHARM_103_NAME	Цветущий букет (красный)	charm006
+104	CHARM_104_NAME	Цветущий букет (синий)	charm006
+105	DUMMY000014	Unavailable	charm001
+106	DUMMY000015	Unavailable	charm001
+107	DUMMY000016	Unavailable	charm001
+108	DUMMY000017	Unavailable	charm001
+109	DUMMY000018	Unavailable	charm001
+110	DUMMY000019	Unavailable	charm001
+111	DUMMY000020	Unavailable	charm001
+112	DUMMY000021	Unavailable	charm001
+113	CHARM_113_NAME	Персиковый тигр удачи	charm009
+114	CHARM_114_NAME	Зеленый тигр удачи	charm009
+115	CHARM_115_NAME	Фиолетовый тигр удачи	charm009
+116	CHARM_116_NAME	Лазурный тигр удачи	charm009
+117	CHARM_117_NAME	Персиковое живое серебро	charm010
+118	CHARM_118_NAME	Красное живое серебро	charm010
+119	CHARM_119_NAME	Синее живое серебро	charm010
+120	CHARM_120_NAME	Зеленое живое серебро	charm010
+121	DUMMY000022	Unavailable	charm001
+122	CHARM_122_NAME	Цветущий букет (зеленый)	charm006
+123	CHARM_123_NAME	Цветущий букет (фиолетовый)	charm006
+124	DUMMY000023	Unavailable	charm001
+125	DUMMY000024	Unavailable	charm001
+126	DUMMY000025	Unavailable	charm001
+127	DUMMY000026	Unavailable	charm001
+128	CHARM_128_NAME	Темно-зеленый тигр удачи	charm009
+129	CHARM_129_NAME	Оранжевый тигр удачи	charm009
+130	CHARM_130_NAME	Пурпурное живое серебро	charm010
+131	CHARM_131_NAME	Ониксовое живое серебро	charm010
+132	CHARM_132_NAME	Выживший Тофу	charm047
+133	CHARM_133_NAME	Красная священная вуаль	charm048
+134	CHARM_134_NAME	Красная вуаль бездны	charm049
+135	CHARM_135_NAME	Белый плюшевый котт	charm042
+136	CHARM_136_NAME	Плюшевый мелинкс	charm053
+137	CHARM_137_NAME	Розовый плюшевый котт	charm042
+138	CHARM_138_NAME	Лиловый плюшевый котт	charm042
+139	CHARM_139_NAME	Мятный плюшевый котт	charm042
+140	CHARM_140_NAME	Оранжевый плюшевый котт	charm042
+141	CHARM_141_NAME	Зеленая священная вуаль	charm048
+142	CHARM_142_NAME	Голубая священная вуаль	charm048
+143	CHARM_143_NAME	Лазурная священная вуаль	charm048
+144	CHARM_144_NAME	Пурпурная священная вуаль	charm048
+145	CHARM_145_NAME	Оранжевая священная вуаль	charm048
+146	CHARM_146_NAME	Розовая священная вуаль	charm048
+147	CHARM_147_NAME	Зеленая вуаль бездны	charm049
+148	CHARM_148_NAME	Голубая вуаль бездны	charm049
+149	CHARM_149_NAME	Лазурная вуаль бездны	charm049
+150	CHARM_150_NAME	Пурпурная вуаль бездны	charm049
+151	CHARM_151_NAME	Оранжевая вуаль бездны	charm049
+152	CHARM_152_NAME	Розовая вуаль бездны	charm049
+153	CHARM_153_NAME	Ремешок поки	charm052
+154	CHARM_154_NAME	Ремешок кораллового поки	charm056
+155	CHARM_155_NAME	Паолуму	charm050
+156	CHARM_156_NAME	Ночной паолуму	charm054
+157	CHARM_157_NAME	Рыскающий раянг	charm055
+158	CHARM_158_NAME	Рыскающий взбешенный раянг	charm051
+159	CHARM_159_NAME	Летающая медуза	charm057
+160	CHARM_160_NAME	Красный шар	charm058
+161	CHARM_161_NAME	Красные и белые шары	charm058
+162	CHARM_162_NAME	Радужные шары	charm058
+163	CHARM_163_NAME	Колония летающих медуз	charm057
+164	CHARM_164_NAME	Амулет одинокой звезды	charm069
+165	CHARM_165_NAME	Позолоченный кулон кулве	charm059
+166	CHARM_166_NAME	Позолоченный имперский кулон	charm060
+167	CHARM_167_NAME	Изумрудное сердце кулве	charm061
+168	CHARM_168_NAME	Рубиновое сердце кулве	charm061
+169	CHARM_169_NAME	Хрустальное сердце кулве	charm061
+170	CHARM_170_NAME	Топазовое сердце кулве	charm062
+171	CHARM_171_NAME	Сапфировое сердце кулве	charm062
+172	CHARM_172_NAME	Сердце кулве из самоцв. роз	charm062
+173	DUMMY000027	Unavailable	charm001
+174	DUMMY000028	Unavailable	charm001
+175	DUMMY000029	Unavailable	charm001
+176	DUMMY000030	Unavailable	charm001
+177	DUMMY000031	Unavailable	charm001
+178	DUMMY000032	Unavailable	charm001
+179	DUMMY000033	Unavailable	charm001
+180	DUMMY000034	Unavailable	charm001
+181	DUMMY000035	Unavailable	charm001
+182	DUMMY000036	Unavailable	charm001
+183	DUMMY000037	Unavailable	charm001

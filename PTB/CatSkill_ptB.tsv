@@ -1,0 +1,58 @@
+Meal Code	Meal Name	Meal Effect
+CatSkill000_CAT_SKILL	Polidor Felyno	Costuma reduzir o temponecessário para afiar uma arma.
+CatSkill001_CAT_SKILL	Montador Felyno	Facilita montar em monstros.
+CatSkill002_CAT_SKILL	Heroísmo Felyno	Aumenta bastante o ataquequando sua barra de vidaestá muito baixa.
+CatSkill003_CAT_SKILL	Talhador Felyno (Sup)	Costuma aumentar o númerode talhos possíveis.
+CatSkill004_CAT_SKILL	Talhador Felyno (Inf)	Às vezes aumenta o númerode talhos possíveis.
+CatSkill005_CAT_SKILL	Médico Felyno	Aumenta a regeneração de vidaproveniente de itens.
+CatSkill006_CAT_SKILL	Faixa Preta Felyna	Reduz o consumo de vigorao esquivar, bloquearou fazer certas ações.
+CatSkill007_CAT_SKILL	Piromania Felyna	Melhora Superbombas de Barrilpara Megabombas de Barril.
+CatSkill008_CAT_SKILL	Especialista Felyno	Aumenta a potência deataques com status anormais.
+CatSkill009_CAT_SKILL	Defensor Felyno (Sup)	Costuma reduziro dano recebido.
+CatSkill010_CAT_SKILL	Defensor Felyno (Inf)	Às vezes reduzo dano recebido.
+CatSkill011_CAT_SKILL	Coletor Felyno	Reduz o tempo de reaparecimentodos pontos de coleta.
+CatSkill012_CAT_SKILL	Franco-atirador Felyno	Aumenta a potência de disparosnormais (munição Normal)e flechas normais.
+CatSkill013_CAT_SKILL	Gato da Sorte	Às vezes aumenta o númerode prêmios recebidosao fim da missão.
+CatSkill014_CAT_SKILL	Defletor Felyno	Ajuda a manter sua arma afiadaapós defletir ataques.
+CatSkill015_CAT_SKILL	Fujão Felyno	Reduz o consumo de vigorao fugir de monstros grandes.
+CatSkill016_CAT_SKILL	Corredor Felyno	Reduz o consumo de vigor aocorrer enquanto transportaum item.
+CatSkill017_CAT_SKILL	Suporte Felyno	Evita empurrões aotransportar itens.
+CatSkill018_CAT_SKILL	Debilitante Felyno	Aumenta a chance de monstrosgrandes, encontrados em missões,serem mais fracos que o normal.
+CatSkill019_CAT_SKILL	Permutador Felyno	Aumenta a quantidade de pontosde pesquisa recebidosao fim da missão.
+CatSkill020_CAT_SKILL	Amparador Felyno (Sup)	Prolonga bastante o tempode invulnerabilidadeao se levantar.
+CatSkill021_CAT_SKILL	Amparador Felyno (Inf)	Prolonga o tempo deinvulnerabilidadeao se levantar.
+CatSkill022_CAT_SKILL	Temperamento Felyno	Aumenta o dano do fuzilarco,mas também aumenta o desvio.
+CatSkill023_CAT_SKILL	Gancho Felyno	Reduz o consumo de vigor aodesviar enquanto escalaparedes ou heras.
+G_CatSkill024_CAT_SKILL	Garra Felyna	Impede que alguns ataquesderrubem você de paredesou heras.
+CatSkill025_CAT_SKILL	Talhador de Ferro Felyno	Evita empurrões ao talhar.
+CatSkill026_CAT_SKILL	Pousador Felyno	Evita tropeços ao pularde lugares altos.
+CatSkill027_CAT_SKILL	Escavadeira Felyna	Aumenta o poder de ataqueao golpear logo apósdefletir um ataque.
+CatSkill028_CAT_SKILL	Comilão Felyno	Efeitos de comidas não se perdemao desmaiar em combate.
+CatSkill029_CAT_SKILL	Atordoante Felyno	Monstros são atordoadosmais facilmente.
+CatSkill030_CAT_SKILL	Empreendedor Felyno	Aumenta a quantidade de zennysrecebidos ao fim da missão.
+CatSkill031_CAT_SKILL	Bombardeiro Felyno	Aumenta o dano da balista,da munição pegajosa edos morteiros da lançarma.
+CatSkill032_CAT_SKILL	Esperteza Felyna	Evita que o personagem desmaieuma vez ao receber um danomaior que sua vida restante.
+CatSkill033_CAT_SKILL	Mestre do Esterco Felyno	Aumenta a chance de um monstrotentar fugir quando atingidopor uma cápsula de esterco.
+CatSkill034_CAT_SKILL	Esteticista Felyno	Corta pela metade a duraçãode Defesa Reduzida e aceleraa recuperação de flagelo.
+CatSkill035_CAT_SKILL	Casaco de Pelos Felyno	Previne ou reduz os efeitosde flagelos e dano de ambiente.
+CatSkill036_CAT_SKILL	Acrobata Felyno	Permite se recuperar rapidamenteao ser lançado no ar.
+DUMMY000000	Unavailable	Unavailable
+CatSkill038_CAT_SKILL	Treinador Felyno	Acelera o crescimento dosAmigatos.
+CatSkill039_CAT_SKILL	Reforço Felyno	Aumenta temporariamente ataque edefesa no começo de uma missão.
+CatSkill040_CAT_SKILL	Pata Felyna	Evita que você caia debunda no chão.
+CatSkill041_CAT_SKILL	Pescador Felyno	Aumenta a chance de umpeixe morder a isca.
+CatSkill042_CAT_SKILL	Gato Descolado	Concede um reforço temporáriode ataque ao usar o gestoChutar para Trás.
+CatSkill043_CAT_SKILL	Seguro Felyno	O grupo não é mais penalizadona primeira vez queum membro desmaiar.
+CatSkill044_CAT_SKILL	Provocador Felyno	Atrai a atenção dos monstros,aumentando as chancesde ser alvejado.
+CatSkill045_CAT_SKILL	Lembrancinha Felyna	Ao desmaiar, recupera vidade aliados ao redor.
+CatSkill046_CAT_SKILL	Pesquisador Felyno	Desbloqueie investigações maisfacilmente durante expedições.
+CatSkill047_CAT_SKILL	Gato do Tempo Felyno	Mau tempo ocorre com maisfrequência durante uma missão.
+CatSkill048_CAT_SKILL	Aderência Felyna	Permite mover-se normalmentemesmo em terrenos especiais.
+CatSkill049_CAT_SKILL	Alfaiate Felyno	Diminui a espera para reusarFerramentas Especiais.
+CatSkill050_CAT_SKILL	Proteção Felyna	O grupo não é mais penalizadona primeira vez queum membro desmaiar.
+CatSkill051_CAT_SKILL	Jardineiro Felyno	Reduz o tempo de ressurgimentode certas vidas nativas.
+CatSkill052_CAT_SKILL	Vasculhador Felyno	Faz certas vidas nativassoltarem munição de atiradeiraquando são capturadas.
+CatSkill053_CAT_SKILL	Zoomestre Felyno	Faz vidas nativas rarasaparecerem com mais frequência.
+CatSkill054_CAT_SKILL	Biólogo Felyno	Faz vidas nativas rarasaparecerem com um pouco maisde frequência.
+CatSkill055_CAT_SKILL	Macrozoólogo Felyno	Faz vidas nativas de grandeporte aparecerem com umpouco mais de frequência.
+CatSkill056_CAT_SKILL	Microzoólogo Felyno	Faz vidas nativas de pequenoporte aparecerem com umpouco mais de frequência.

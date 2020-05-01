@@ -1,0 +1,100 @@
+Music Code	Music Level	Music Name
+HUD_HUE_00	-	Automiglioramento
+HUD_HUE_00_S	0	Aumenta velocità movimenti
+HUD_HUE_00_W	1	Aumenta attacco / Annulla respinta attacchi
+HUD_HUE_01	-	Aumenta attacco (S)
+HUD_HUE_02	-	Aumenta attacco (L)
+HUD_HUE_02_W	1	Aumenta attacco (XL)
+HUD_HUE_03	-	Aumenta salute (S)
+HUD_HUE_04	-	Aumenta salute (L)
+HUD_HUE_04_W	1	Aumenta salute (estensione)
+HUD_HUE_05	-	Riduce consumo resistenza (S)
+HUD_HUE_06	-	Riduce consumo resistenza (L)
+HUD_HUE_06_W	1	Riduce consumo resistenza (estensione)
+HUD_HUE_07	-	Annulla pressione vento
+HUD_HUE_08	-	Annulla pressione vento totale
+HUD_HUE_08_W	1	Annulla pressione vento totale (estensione)
+HUD_HUE_09	-	Aumenta DIF Fisica (S)
+HUD_HUE_10	-	Aumenta DIF Fisica (L)
+HUD_HUE_10_W	1	Aumenta DIF Fisica (XL)
+HUD_HUE_11	-	Riduzione consumo strumenti (S)
+HUD_HUE_12	-	Riduzione consumo strumenti (L)
+HUD_HUE_12_W	1	Riduce consumo strumenti (estensione)
+HUD_HUE_13	-	Recupero salute (S)
+HUD_HUE_14	-	Recupero salute (L)
+HUD_HUE_15	-	Recupero salute (S) + Resistenza veleno
+HUD_HUE_16	-	Recupero salute (M) + Resistenza veleno
+HUD_HUE_17	-	Velocità di recupero (S)
+HUD_HUE_18	-	Velocità di recupero (L)
+HUD_HUE_18_W	1	Velocità di recupero (estensione)
+HUD_HUE_19	-	Protezione divina
+HUD_HUE_19_W	1	Protezione divina (estensione)
+HUD_HUE_20	-	Potenzia insetti guida
+HUD_HUE_20_S	0	Livello insetti guida +1
+HUD_HUE_20_W	1	Livello insetti guida +1 (estensione)
+HUD_HUE_21	-	Resistenza melma
+HUD_HUE_21_W	1	Resistenza melma (estensione)
+HUD_HUE_22	-	Annulla danni ambientali
+HUD_HUE_22_W	1	Annulla danni ambientali (estensione)
+HUD_HUE_23	-	Protezione udito (S)
+HUD_HUE_24	-	Protezione udito (L)
+HUD_HUE_24_W	1	Protezione udito (L) (estensione)
+HUD_HUE_25	-	Annulla stordimento
+HUD_HUE_25_W	1	Annulla stordimento (estensione)
+HUD_HUE_26	-	Annulla paralisi
+HUD_HUE_26_W	1	Annulla paralisi (estensione)
+HUD_HUE_27	-	Annulla sisma
+HUD_HUE_27_W	1	Annulla sisma (estensione)
+HUD_HUE_28	-	Aumenta DIF Fuoco (S)
+HUD_HUE_29	-	Aumenta DIF Fuoco (L)
+HUD_HUE_29_W	1	Aumenta DIF Fuoco (XL)
+HUD_HUE_30	-	Aumenta DIF Acqua (S)
+HUD_HUE_31	-	Aumenta DIF Acqua (L)
+HUD_HUE_31_W	1	Aumenta DIF Acqua (XL)
+HUD_HUE_32	-	Aumenta DIF Tuono (S)
+HUD_HUE_33	-	Aumenta DIF Tuono (L)
+HUD_HUE_33_W	1	Aumenta DIF Tuono (XL)
+HUD_HUE_34	-	Aumenta DIF Ghiaccio (S)
+HUD_HUE_35	-	Aumenta DIF Ghiaccio (L)
+HUD_HUE_35_W	1	Aumenta DIF Ghiaccio (XL)
+HUD_HUE_36	-	Aumenta DIF Drago (S)
+HUD_HUE_37	-	Aumenta DIF Drago (L)
+HUD_HUE_37_W	1	Aumenta DIF Drago (XL)
+HUD_HUE_38	-	Aumenta attacco elementale
+HUD_HUE_38_S	0	Aumenta attacco elementale (S)
+HUD_HUE_38_W	1	Aumenta attacco elementale (L)
+HUD_HUE_39	-	Onde sonore
+HUD_HUE_40	-	Estensione effetti melodie
+HUD_HUE_41	-	Annulla respinta
+HUD_HUE_42	-	Aumenta attacco e difesa (S)
+HUD_HUE_42_S	0	Aumenta attacco e difesa (S)
+HUD_HUE_42_W	1	Aumenta attacco (L) / difesa (L)
+HUD_HUE_43	-	Aumenta affinità / Recupero salute (S)
+HUD_HUE_43_S	0	Aumenta affinità (S) / Recupero salute (S)
+HUD_HUE_43_W	1	Aumenta affinità (L) / Recupero salute (S)
+HUD_HUE_44	-	Aumenta attacco stato
+HUD_HUE_44_S	0	Aumenta attacco stato (S)
+HUD_HUE_44_W	1	Aumenta attacco stato (L)
+HUD_HUE_45	-	Annulla alterazioni di stato
+HUD_HUE_45_W	1	Annulla alterazioni di stato (estensione)
+HUD_HUE_46	-	Aumenta resistenza malus
+HUD_HUE_46_S	0	Aumenta resistenza malus (S)
+HUD_HUE_46_W	1	Aumenta resistenza malus (L)
+HUD_HUE_47	-	Annulla malus
+HUD_HUE_47_W	1	Annulla malus (estensione)
+HUD_HUE_48	-	Protezione udito (S) / Annulla pressione vento
+HUD_HUE_48_S	0	Protezione udito (S) / Annulla pressione vento
+HUD_HUE_48_W	1	Protezione udito (S) / Annulla pressione vento
+HUD_HUE_49	-	Recupero salute (M)
+HUD_HUE_23_W	1	Protezione udito (S) (estensione)
+HUD_HUE_07_W	1	Annulla pressione vento (estensione)
+HUD_HUE_41_W	1	Annulla respinta (estensione)
+HUD_HUE_50	-	Onda eco impatto
+HUD_HUE_51	-	"Onda eco ""drago”"
+HUD_HUE_52	-	Bonus resistenza massima + recupero
+HUD_HUE_53	-	Recupero salute (estensione)
+HUD_HUE_54	-	Bonus velocità + schivata
+HUD_HUE_55	-	Bonus efficacia elementale
+HUD_HUE_56	-	Bonus schivata
+HUD_HUE_21_G	-	Resistenza melma/acqua/neve
+HUD_HUE_21_W_G	-	Resistenza melma/acqua/neve (estensione)

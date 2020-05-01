@@ -1,0 +1,185 @@
+Pendant ID	Pendant Code	Pendant Name	Model
+0	CHARM_000_NAME	Bronze-Gildenmedaille	charm002
+1	CHARM_001_NAME	Silber-Gildenmedaille	charm002
+2	CHARM_002_NAME	Gold-Gildenmedaille	charm002
+3	CHARM_003_NAME	Bronzesiegel-Tuch (rot)	charm003
+4	CHARM_004_NAME	Bronzesiegel-Tuch (gelb)	charm003
+5	CHARM_005_NAME	Bronzesiegel-Tuch (blau)	charm003
+6	CHARM_006_NAME	Bronzesiegel-Tuch (pink)	charm003
+7	CHARM_007_NAME	Bronzesiegel-Tuch (grün)	charm003
+8	CHARM_008_NAME	Bronzesiegel-Tuch (grau)	charm003
+9	CHARM_009_NAME	Bronzesiegel-Tuch (braun)	charm003
+10	CHARM_010_NAME	Silbersiegel-Tuch (weiß)	charm003
+11	CHARM_011_NAME	Silbersiegel-Tuch (rot)	charm003
+12	CHARM_012_NAME	Silbersiegel-Tuch (grün)	charm003
+13	CHARM_013_NAME	Silbersiegel-Tuch (blau)	charm003
+14	CHARM_014_NAME	Silbersiegel-Tuch (lila)	charm003
+15	CHARM_015_NAME	Silbersiegel-Tuch (pink)	charm003
+16	CHARM_016_NAME	Silbersiegel-Tuch (orange)	charm003
+17	CHARM_017_NAME	Goldsiegel-Tuch (braun)	charm003
+18	CHARM_018_NAME	Goldsiegel-Tuch (weiß)	charm003
+19	CHARM_019_NAME	Goldsiegel-Tuch (dunkelgrün)	charm003
+20	CHARM_020_NAME	Goldsiegel-Tuch (hellgrün)	charm003
+21	CHARM_021_NAME	Goldsiegel-Tuch (lila)	charm003
+22	CHARM_022_NAME	Goldsiegel-Tuch (orange)	charm003
+23	CHARM_023_NAME	Goldsiegel-Tuch (blau)	charm003
+24	CHARM_024_NAME	Leitsmaragd-Kristall	charm004
+25	CHARM_025_NAME	Leitgrün-Kristall	charm004
+26	CHARM_026_NAME	Leitsonnen-Kristall	charm004
+27	CHARM_027_NAME	Leitdämmerung-Kristall	charm004
+28	CHARM_028_NAME	Leitmorganit-Kristall	charm004
+29	CHARM_029_NAME	Leitzölestin-Kristall	charm004
+30	CHARM_030_NAME	Leitzitrin-Kristall	charm004
+31	CHARM_031_NAME	Leitdiamant-Kristall	charm004
+32	CHARM_032_NAME	Leitkarmesin-Kristall	charm004
+33	CHARM_033_NAME	Leithämatit-Kristall	charm004
+34	CHARM_034_NAME	Leitgletscher-Kristall	charm004
+35	CHARM_035_NAME	Leittansanit-Kristall	charm004
+36	CHARM_036_NAME	Leitwald-Stern	charm001
+37	CHARM_037_NAME	Leitödland-Stern	charm001
+38	CHARM_038_NAME	Leitkorallen-Stern	charm001
+39	CHARM_039_NAME	Leitmiasma-Stern	charm001
+40	CHARM_040_NAME	Leitmagma-Stern	charm001
+41	CHARM_041_NAME	Leitreif-Stern	charm001
+42	CHARM_042_NAME	Bronze-Jägersymbol	charm005
+43	CHARM_043_NAME	Silber-Jägersymbol	charm005
+44	CHARM_044_NAME	Gold-Jägersymbol	charm005
+45	CHARM_045_NAME	Diamant-Meistersymbol	charm005
+46	CHARM_046_NAME	Rubin-Meistersymbol	charm005
+47	CHARM_047_NAME	Smaragd-Meistersymbol	charm005
+48	CHARM_048_NAME	Bernstein-Meistersymbol	charm005
+49	CHARM_049_NAME	Saphir-Meistersymbol	charm005
+50	CHARM_050_NAME	Topas-Meistersymbol	charm005
+51	CHARM_051_NAME	Amethyst-Meistersymbol	charm005
+52	CHARM_052_NAME	Gold-Rot-Meistersymbol	charm005
+53	CHARM_053_NAME	Gold-Blau-Meistersymbol	charm005
+54	CHARM_054_NAME	Bronze-Meistersymbol	charm005
+55	CHARM_055_NAME	Eisblau-Meistersymbol	charm005
+56	CHARM_056_NAME	Violett-Meistersymbol	charm005
+57	CHARM_057_NAME	Obsidian-Meistersymbol	charm005
+58	CHARM_058_NAME	Rathalos-Meistersymbol (rot)	charm005
+59	CHARM_059_NAME	Rathian-Meistersymbol (grün)	charm005
+60	CHARM_060_NAME	Rathian-Meistersymbol (rosa)	charm005
+61	CHARM_061_NAME	Flor-Bouquet (klassisch)	charm006
+62	DUMMY000000	Unavailable	charm001
+63	DUMMY000001	Unavailable	charm001
+64	CHARM_064_NAME	Glückstiger (karmesin)	charm009
+65	CHARM_065_NAME	Astralornament (himmelblau)	charm010
+66	CHARM_066_NAME	Rajang-Klauen	charm011
+67	CHARM_067_NAME	Zorniger-Rajang-Hörner	charm012
+68	CHARM_068_NAME	Höllen-Zinogre-Klauen	charm013
+69	CHARM_069_NAME	Safi'Jiiva-Klauen	charm014
+70	CHARM_070_NAME	Wütiger-Brachydios-Klaue	charm015
+71	DUMMY000002	Unavailable	charm001
+72	CHARM_072_NAME	Goldene-Rathian-Klauen	charm017
+73	CHARM_073_NAME	Silberner-Rathalos-Klauen	charm018
+74	DUMMY000003	Unavailable	charm001
+75	DUMMY000004	Unavailable	charm001
+76	DUMMY000005	Unavailable	charm001
+77	DUMMY000006	Unavailable	charm001
+78	DUMMY000007	Unavailable	charm001
+79	DUMMY000008	Unavailable	charm001
+80	DUMMY000009	Unavailable	charm001
+81	DUMMY000010	Unavailable	charm001
+82	CHARM_082_NAME	Kampfgehärteter-Namielle-Scherbe	charm027
+83	DUMMY000011	Unavailable	charm001
+84	DUMMY000012	Unavailable	charm001
+85	DUMMY000013	Unavailable	charm001
+86	CHARM_086_NAME	HARDUMMY	charm031
+87	CHARM_087_NAME	HARDUMMY	charm032
+88	CHARM_088_NAME	R.P.D.	charm033
+89	CHARM_089_NAME	Umbrella	charm034
+90	CHARM_090_NAME	Mauli (Glück)	charm035
+91	CHARM_091_NAME	Mauli (Gesundheit)	charm036
+92	CHARM_092_NAME	Mauli (Sicherheit)	charm037
+93	CHARM_093_NAME	Mauli (Liebe)	charm038
+94	CHARM_094_NAME	Mauli (Schutz)	charm039
+95	CHARM_095_NAME	Mauli (Leidenschaft)	charm040
+96	CHARM_096_NAME	Mauli (Friede)	charm041
+97	CHARM_097_NAME	Felynen-Teddy (klassisch)	charm042
+98	CHARM_098_NAME	HARDUMMY	charm044
+99	CHARM_099_NAME	HARDUMMY	charm045
+100	CHARM_100_NAME	HARDUMMY	charm043
+101	CHARM_101_NAME	Flor-Bouquet (pink)	charm006
+102	CHARM_102_NAME	Flor-Bouquet (zitrus)	charm006
+103	CHARM_103_NAME	Flor-Bouquet (rot)	charm006
+104	CHARM_104_NAME	Flor-Bouquet (blau)	charm006
+105	DUMMY000014	Unavailable	charm001
+106	DUMMY000015	Unavailable	charm001
+107	DUMMY000016	Unavailable	charm001
+108	DUMMY000017	Unavailable	charm001
+109	DUMMY000018	Unavailable	charm001
+110	DUMMY000019	Unavailable	charm001
+111	DUMMY000020	Unavailable	charm001
+112	DUMMY000021	Unavailable	charm001
+113	CHARM_113_NAME	Glückstiger (pfirsisch)	charm009
+114	CHARM_114_NAME	Glückstiger (grün)	charm009
+115	CHARM_115_NAME	Glückstiger (lila)	charm009
+116	CHARM_116_NAME	Glückstiger (himmelblau)	charm009
+117	CHARM_117_NAME	Astralornament (pfirsisch)	charm010
+118	CHARM_118_NAME	Astralornament (rot)	charm010
+119	CHARM_119_NAME	Astralornament (blau)	charm010
+120	CHARM_120_NAME	Astralornament (grün)	charm010
+121	DUMMY000022	Unavailable	charm001
+122	CHARM_122_NAME	Flor-Bouquet (grün)	charm006
+123	CHARM_123_NAME	Flor-Bouquet (lila)	charm006
+124	DUMMY000023	Unavailable	charm001
+125	DUMMY000024	Unavailable	charm001
+126	DUMMY000025	Unavailable	charm001
+127	DUMMY000026	Unavailable	charm001
+128	CHARM_128_NAME	Glückstiger (dunkelgrün)	charm009
+129	CHARM_129_NAME	Glückstiger (orange)	charm009
+130	CHARM_130_NAME	Astralornament (lila)	charm010
+131	CHARM_131_NAME	Astralornament (onyx)	charm010
+132	CHARM_132_NAME	Tofu	charm047
+133	CHARM_133_NAME	Heilsschleier (rot)	charm048
+134	CHARM_134_NAME	Unheilsschleier (rot)	charm049
+135	CHARM_135_NAME	Felynen-Teddy (weiß)	charm042
+136	CHARM_136_NAME	Melynx-Teddy (klassisch)	charm053
+137	CHARM_137_NAME	Felynen-Teddy (rosa)	charm042
+138	CHARM_138_NAME	Felynen-Teddy (lila)	charm042
+139	CHARM_139_NAME	Felynen-Teddy (blaugrün)	charm042
+140	CHARM_140_NAME	Felynen-Teddy (orange)	charm042
+141	CHARM_141_NAME	Heilsschleier (grün)	charm048
+142	CHARM_142_NAME	Heilsschleier (blau)	charm048
+143	CHARM_143_NAME	Heilsschleier (himmelblau)	charm048
+144	CHARM_144_NAME	Heilsschleier (lila)	charm048
+145	CHARM_145_NAME	Heilsschleier (orange)	charm048
+146	CHARM_146_NAME	Heilsschleier (rosa)	charm048
+147	CHARM_147_NAME	Unheilsschleier (grün)	charm049
+148	CHARM_148_NAME	Unheilsschleier (blau)	charm049
+149	CHARM_149_NAME	Unheilsschleier (himmelblau)	charm049
+150	CHARM_150_NAME	Unheilsschleier (lila)	charm049
+151	CHARM_151_NAME	Unheilsschleier (orange)	charm049
+152	CHARM_152_NAME	Unheilsschleier (rosa)	charm049
+153	CHARM_153_NAME	Häkel-Pukei	charm052
+154	CHARM_154_NAME	Häkel-Korallen-Pukei	charm056
+155	CHARM_155_NAME	Häkel-Paolumu	charm050
+156	CHARM_156_NAME	Häkel-Nachtschatten-Paolumu	charm054
+157	CHARM_157_NAME	Häkel-Rajang	charm055
+158	CHARM_158_NAME	Häkel-Zorniger-Rajang	charm051
+159	CHARM_159_NAME	Qualle	charm057
+160	CHARM_160_NAME	Roter Ballon	charm058
+161	CHARM_161_NAME	Roter & weißer Ballon	charm058
+162	CHARM_162_NAME	Regenbogen-Ballons	charm058
+163	CHARM_163_NAME	Quallen	charm057
+164	CHARM_164_NAME	Einsamer-Stern-Amulett	charm069
+165	CHARM_165_NAME	Kulve-Goldanhänger	charm059
+166	CHARM_166_NAME	Kjárr-Goldanhänger	charm060
+167	CHARM_167_NAME	Kulve-Smaragdherz	charm061
+168	CHARM_168_NAME	Kulve-Rubinherz	charm061
+169	CHARM_169_NAME	Kulve-Kristallherz	charm061
+170	CHARM_170_NAME	Kulve-Topasherz	charm062
+171	CHARM_171_NAME	Kulve-Saphirherz	charm062
+172	CHARM_172_NAME	Kulve-Turmalinherz	charm062
+173	DUMMY000027	Unavailable	charm001
+174	DUMMY000028	Unavailable	charm001
+175	DUMMY000029	Unavailable	charm001
+176	DUMMY000030	Unavailable	charm001
+177	DUMMY000031	Unavailable	charm001
+178	DUMMY000032	Unavailable	charm001
+179	DUMMY000033	Unavailable	charm001
+180	DUMMY000034	Unavailable	charm001
+181	DUMMY000035	Unavailable	charm001
+182	DUMMY000036	Unavailable	charm001
+183	DUMMY000037	Unavailable	charm001

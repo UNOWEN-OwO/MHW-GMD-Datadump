@@ -1,0 +1,753 @@
+Equip Series ID / Transmog ID	Equip Name	Model Path
+0	Unavailable	None
+1	Cuero	pl001_0000
+2	Cazador	pl002_0000
+3	Anja	pl020_0000
+4	Jagras	pl008_0000
+5	Hueso	pl003_0000
+6	Aleación	pl004_0000
+7	Kestodon	pl005_0000
+8	Gajau	pl006_0000
+9	Vespoid	pl007_0000
+10	Kulu	pl009_0000
+11	Pukei	pl010_0000
+12	Jyura	pl011_0000
+13	Barroth	pl012_0000
+14	Kadachi	pl013_0000
+15	Malla	pl014_0000
+16	Unavailable	None
+17	Hornetaur	pl017_0000
+18	Unavailable	None
+19	Rey escarabajo	pl019_0000 (Male Only)
+20	Rathian	pl021_0000
+21	Girros	pl022_0000
+22	Tzitzi	pl023_0000
+23	Lumu	pl024_0000
+24	Megametal	pl025_0000
+25	Pestilente	pl026_0000
+26	Legiana	pl027_0000
+27	Baan	pl028_0000
+28	Odogaron	pl029_0000
+29	Unavailable	None
+30	Lingotes	pl031_0000
+31	Unavailable	None
+32	Rathalos	pl033_0000
+33	Diablos	pl034_0000
+34	Kirin	pl035_0000
+35	Brigada	pl036_0000
+36	Unavailable	pl037_0000
+37	Cuero <ICON ALPHA>	pl001_0000
+38	Cuero <ICON BETA>	pl001_0000
+39	Malla <ICON ALPHA>	pl014_0000
+40	Malla <ICON BETA>	pl014_0000
+41	Cazador <ICON ALPHA>	pl002_0000
+42	Cazador <ICON BETA>	pl002_0010
+43	Hueso <ICON ALPHA>	pl003_0000
+44	Hueso <ICON BETA>	pl003_0000
+45	Aleación <ICON ALPHA>	pl004_0000
+46	Aleación <ICON BETA>	pl004_0000
+47	Gajau <ICON ALPHA>	pl006_0000
+48	Gajau <ICON BETA>	pl006_0000
+49	Kestodon <ICON ALPHA>	pl005_0000
+50	Kestodon <ICON BETA>	pl005_0000
+51	Vespoid <ICON ALPHA>	pl007_0000
+52	Vespoid <ICON BETA>	pl007_0000
+53	Gastodon <ICON ALPHA>	pl015_0000
+54	Gastodon <ICON BETA>	pl015_0000
+55	Barnos <ICON ALPHA>	pl016_0000
+56	Barnos <ICON BETA>	pl016_0000
+57	Hornetaur <ICON ALPHA>	pl017_0000
+58	Hornetaur <ICON BETA>	pl017_0000
+59	Unavailable	None
+60	Unavailable	None
+61	Jagras <ICON ALPHA>	pl008_0000
+62	Jagras <ICON BETA>	pl008_0000
+63	Kulu <ICON ALPHA>	pl009_0000
+64	Kulu <ICON BETA>	pl009_0000
+65	Pukei <ICON ALPHA>	pl010_0000
+66	Pukei <ICON BETA>	pl010_0010
+67	Jyura <ICON ALPHA>	pl011_0000
+68	Jyura <ICON BETA>	pl011_0000
+69	Barroth <ICON ALPHA>	pl012_0000
+70	Barroth <ICON BETA>	pl012_0000
+71	Kadachi <ICON ALPHA>	pl013_0000
+72	Kadachi <ICON BETA>	pl013_0000
+73	Rathian <ICON ALPHA>	pl021_0000
+74	Rathian <ICON BETA>	pl021_0010
+75	Girros <ICON ALPHA>	pl022_0000
+76	Girros <ICON BETA>	pl022_0000
+77	Tzitzi <ICON ALPHA>	pl023_0000
+78	Tzitzi <ICON BETA>	pl023_0000
+79	Lumu <ICON ALPHA>	pl024_0000
+80	Lumu <ICON BETA>	pl024_0000
+81	Odogaron <ICON ALPHA>	pl029_0000
+82	Odogaron <ICON BETA>	pl029_0010
+83	Dodogama <ICON ALPHA>	pl039_0000
+84	Dodogama <ICON BETA>	pl039_0000
+85	Lavasioth <ICON ALPHA>	pl040_0000
+86	Lavasioth <ICON BETA>	pl040_0010
+87	Corazón Rath <ICON ALPHA>	pl021_0100
+88	Corazón Rath <ICON BETA>	pl021_0110
+89	Megametal <ICON ALPHA>	pl025_0000
+90	Megametal <ICON BETA>	pl025_0000
+91	Lingote <ICON ALPHA>	pl031_0000
+92	Lingote <ICON BETA>	pl031_0000
+93	Anja <ICON ALPHA>	pl020_0000
+94	Anja <ICON BETA>	pl020_0010
+95	Legiana <ICON ALPHA>	pl027_0000
+96	Legiana <ICON BETA>	pl027_0010
+97	Baan <ICON ALPHA>	pl028_0000
+98	Baan <ICON BETA>	pl028_0010
+99	Vaal Hazak <ICON ALPHA>	pl032_0000
+100	Vaal Hazak <ICON BETA>	pl032_0010
+101	Rathalos <ICON ALPHA>	pl033_0000
+102	Rathalos <ICON BETA>	pl033_0010
+103	Diablos <ICON ALPHA>	pl034_0000
+104	Diablos <ICON BETA>	pl034_0010
+105	Kirin <ICON ALPHA>	pl035_0000
+106	Kirin <ICON BETA>	pl035_0010
+107	Nergigante <ICON ALPHA>	pl030_0000
+108	Nergigante <ICON BETA>	pl030_0010
+109	Uragaan <ICON ALPHA>	pl041_0000
+110	Uragaan <ICON BETA>	pl041_0010
+111	Alma Rath <ICON ALPHA>	pl033_0100
+112	Alma Rath <ICON BETA>	pl033_0110
+113	Diablos Negra <ICON ALPHA>	pl034_0100
+114	Diablos Negra <ICON BETA>	pl034_0110
+115	Bazel <ICON ALPHA>	pl042_0000
+116	Bazel <ICON BETA>	pl042_0010
+117	Rey escarabajo <ICON ALPHA>	pl019_0000 (Male Only)
+118	Rey escarabajo <ICON BETA>	pl019_0000 (Male Only)
+119	Brigada <ICON ALPHA>	pl036_0000
+120	Brigada <ICON BETA>	pl036_0000
+121	Damasco <ICON ALPHA>	pl043_0000
+122	Damasco <ICON BETA>	pl043_0010
+123	Dober <ICON ALPHA>	pl044_0000
+124	Dober <ICON BETA>	pl044_0000
+125	Xeno'jiiva <ICON ALPHA>	pl045_0000
+126	Xeno'jiiva <ICON BETA>	pl045_0010
+127	Káiser <ICON ALPHA>	pl046_0000
+128	Káiser <ICON BETA>	pl046_0010
+129	Kushala <ICON ALPHA>	pl047_0000
+130	Kushala <ICON BETA>	pl047_0010
+131	Calavera <ICON ALPHA>	pl054_0000
+132	Calavera <ICON BETA>	pl001_0000
+133	Pestilente <ICON ALPHA>	pl026_0000
+134	Pestilente <ICON BETA>	pl026_0000
+135	Cruz gremial <ICON ALPHA>	pl048_0000
+136	Cruz gremial <ICON BETA>	pl048_0000
+137	Unavailable	pl001_0000
+138	Unavailable	pl001_0000
+139	Zorah <ICON ALPHA>	pl038_0000
+140	Zorah <ICON BETA>	pl038_0010
+141	Comisión <ICON ALPHA>	pl053_0000
+142	Comisión <ICON BETA>	pl053_0000
+143	Unavailable	pl001_0000
+144	Unavailable	pl001_0000
+145	Brigada	pl036_0000
+146	Cruz gremial	pl048_0000
+147	Flores	pl074_0000
+148	Buceo	pl075_0000
+149	Cosecha	pl076_0000
+150	Orión	pl077_0000
+151	Falso Felyne <ICON ALPHA>	pl055_0000
+152	Careta Musgorrino <ICON ALPHA>	pl056_0000
+153	Traje de gala	pl078_0000
+154	HARDUMMY	pl068_0000
+155	HARDUMMY	pl069_0000
+156	HARDUMMY	pl070_0000
+157	"Bushi ""Sabi"""	pl001_0000
+158	"Bushi ""Sabi"""	pl001_0000
+159	Bayek	pl120_0000
+160	"Bushi ""Sabi"""	pl001_0000
+161	Shamos	pl058_0000
+162	Shamos <ICON ALPHA>	pl058_0000
+163	Shamos <ICON BETA>	pl058_0000
+164	Mariposa	pl019_0000 (Female Only)
+165	Mariposa <ICON ALPHA>	pl019_0000 (Female Only)
+166	Mariposa <ICON BETA>	pl019_0000 (Female Only)
+167	"Bushi ""Sabi"""	None
+168	"Bushi ""Sabi"""	None
+169	Origen	pl018_0000
+170	"Bushi ""Homare"""	pl001_0000
+171	"Bushi ""Homare"""	pl001_0000
+172	"Bushi ""Homare"""	pl001_0000
+173	"Bushi ""Homare"""	pl001_0000
+174	"Bushi ""Homare"""	pl059_0000
+175	Unavailable	pl001_0000
+176	Estratega <ICON ALPHA>	pl060_0000
+177	Unavailable	pl001_0000
+178	Rey dragón <ICON ALPHA>	pl061_0000
+179	Unavailable	pl001_0000
+180	Unavailable	pl001_0000
+181	Unavailable	pl001_0000
+182	Unavailable	pl001_0000
+183	Kulve Taroth <ICON ALPHA>	pl049_0000
+184	Kulve Taroth <ICON BETA>	pl049_0010
+185	Flores	pl074_0000
+186	Buceo	pl075_0000
+187	Cosecha	pl076_0000
+188	Orión	pl077_0000
+189	Traje de gala	pl078_0000
+190	Samurái	pl067_0000
+191	Deviljho <ICON ALPHA>	pl050_0000
+192	Deviljho <ICON BETA>	pl050_0010
+193	Unavailable	pl001_0000
+194	"Bushi ""Sabi"""	pl066_0000
+195	"Bushi ""Homare"""	pl066_0010
+196	Drachen <ICON ALPHA>	pl073_0000
+197	Flores <ICON ALPHA>	pl074_0000
+198	Buceo <ICON ALPHA>	pl075_0000
+199	Cosecha <ICON ALPHA>	pl076_0000
+200	Orión <ICON ALPHA>	pl077_0000
+201	Traje de gala <ICON ALPHA>	pl078_0000
+202	Mariposa	pl057_0000 (Male Only)
+203	Mariposa <ICON ALPHA>	pl057_0000 (Male Only)
+204	Mariposa <ICON BETA>	pl057_0010 (Male Only)
+205	Reina escarabajo	pl057_0000 (Female Only)
+206	Reina escarabajo <ICON ALPHA>	pl057_0000 (Female Only)
+207	Reina escarabajo <ICON BETA>	pl057_0000 (Female Only)
+208	Vaal Hazak <ICON GAMMA>	pl032_0020
+209	Kirin <ICON GAMMA>	pl035_0020
+210	Káiser <ICON GAMMA>	pl046_0020
+211	Kushala <ICON GAMMA>	pl047_0020
+212	Nergigante <ICON GAMMA>	pl030_0020
+213	Zorah <ICON GAMMA>	pl038_0020
+214	Xeno'jiiva <ICON GAMMA>	pl045_0020
+215	HARDUMMY	pl068_0000
+216	HARDUMMY	pl069_0000
+217	HARDUMMY	pl069_0000
+218	HARDUMMY	pl070_0000
+219	Rey celestial <ICON ALPHA>	pl072_0000
+220	Dante <ICON ALPHA>	pl071_0000
+221	Lunastra <ICON ALPHA>	pl051_0000
+222	Lunastra <ICON BETA>	pl051_0010
+223	Parche de ojo <ICON ALPHA>	pl063_0000
+224	Gafas oscuras <ICON ALPHA>	pl062_0000
+225	Cabeza Kulu-Ya-Ku <ICON ALPHA>	pl065_0000
+226	Cabeza de gorgasia <ICON ALPHA>	pl064_0000
+227	Mariposa	pl117_0000
+228	Pestilente	pl026_0000
+229	Gafas oscuras	pl062_0000
+230	Dante	pl071_0000
+231	Drachen	pl073_0000
+232	Careta musgorrino	pl056_0000
+233	Falso Felyne	pl055_0000
+234	Comisión	pl053_0000
+235	Parche en el ojo	pl063_0000
+236	Cabeza de gorgasia	pl064_0000
+237	Origen	pl018_0000
+238	Escarabajo	pl116_0000
+239	Unavailable	pl001_0000
+240	Máscara calavérica	pl054_0000
+241	Cabeza de Kulu-Ya-Ku	pl065_0000
+242	HARDUMMY	pl068_0000
+243	Lunastra <ICON GAMMA>	pl051_0020
+244	Geralt <ICON ALPHA>	pl118_0000
+245	Ciri <ICON ALPHA>	pl119_0000
+246	Geralt de Rivia	pl118_0000
+247	Ciri	pl119_0000
+248	Kulve Taroth <ICON GAMMA>	pl049_0020
+249	Defensor <ICON ALPHA>	pl121_0000
+250	Lobo blanco+	pl105_0000
+251	Unavailable	None
+252	Hueso <ICON ALPHA>+	pl003_0000
+253	Hueso <ICON BETA>+	pl003_0000
+254	Aleación <ICON ALPHA>+	pl004_0000
+255	Aleación <ICON BETA>+	pl004_0000
+256	Vespoid <ICON ALPHA>+	pl007_0001
+257	Vespoid <ICON BETA>+	pl007_0001
+258	Hornetaur <ICON ALPHA>+	pl017_0001
+259	Hornetaur <ICON BETA>+	pl017_0001
+260	Kestodon <ICON ALPHA>+	pl005_0000
+261	Kestodon <ICON BETA>+	pl005_0000
+262	Gajau <ICON ALPHA>+	pl006_0000
+263	Gajau <ICON BETA>+	pl006_0000
+264	Shamos <ICON ALPHA>+	pl058_0000
+265	Shamos <ICON BETA>+	pl058_0000
+266	Gastodon <ICON ALPHA>+	pl015_0000
+267	Gastodon <ICON BETA>+	pl015_0000
+268	Barnos <ICON ALPHA>+	pl016_0000
+269	Barnos <ICON BETA>+	pl016_0000
+270	Wulg <ICON ALPHA>+	pl102_0000
+271	Wulg <ICON BETA>+	pl102_0000
+272	Kertos <ICON ALPHA>+	pl103_0000
+273	Kertos <ICON BETA>+	pl103_0000
+274	Jagras <ICON ALPHA>+	pl008_0001
+275	Jagras <ICON BETA>+	pl008_0001
+276	Tzitzi <ICON ALPHA>+	pl023_0001
+277	Tzitzi <ICON BETA>+	pl023_0001
+278	Girros <ICON ALPHA>+	pl022_0001
+279	Girros <ICON BETA>+	pl022_0001
+280	Dodogama <ICON ALPHA>+	pl039_0001
+281	Dodogama <ICON BETA>+	pl039_0001
+282	Kulu <ICON ALPHA>+	pl009_0001
+283	Kulu <ICON BETA>+	pl009_0001
+284	Pukei <ICON ALPHA>+	pl010_0001
+285	Pukei <ICON BETA>+	pl010_0001
+286	Barroth <ICON ALPHA>+	pl012_0001
+287	Barroth <ICON BETA>+	pl012_0001
+288	Jyura <ICON ALPHA>+	pl011_0001
+289	Jyura <ICON BETA>+	pl011_0001
+290	Beo <ICON ALPHA>+	pl110_0000
+291	Beo <ICON BETA>+	pl110_0000
+292	Kadachi <ICON ALPHA>+	pl013_0001
+293	Kadachi <ICON BETA>+	pl013_0001
+294	Megametal <ICON ALPHA>+	pl025_0000
+295	Megametal <ICON BETA>+	pl025_0000
+296	Banbaro <ICON ALPHA>+	pl084_0000
+297	Banbaro <ICON BETA>+	pl084_0010
+298	Anja <ICON ALPHA>+	pl020_0001
+299	Anja <ICON BETA>+	pl020_0011
+300	Rathian <ICON ALPHA>+	pl021_0001
+301	Rathian <ICON BETA>+	pl021_0011
+302	Corazón Rath <ICON ALPHA>+	pl021_0101
+303	Corazón Rath <ICON BETA>+	pl021_0111
+304	Lumu <ICON ALPHA>+	pl024_0001
+305	Lumu <ICON BETA>+	pl024_0001
+306	Fantasmal <ICON ALPHA>+	pl024_0101
+307	Fantasmal <ICON BETA>+	pl024_0101
+308	Coralino <ICON ALPHA>+	pl010_0101
+309	Coralino <ICON BETA>+	pl010_0101
+310	Vípero <ICON ALPHA>+	pl013_0101
+311	Vípero <ICON BETA>+	pl013_0101
+312	Baan <ICON ALPHA>+	pl028_0001
+313	Baan <ICON BETA>+	pl028_0001
+314	Cuero	pl001_0000
+315	Malla	pl014_0000
+316	Cazador <ICON ALPHA>	pl002_0000
+317	Cazador <ICON BETA>	pl002_0010
+318	Hueso	pl003_0000
+319	Aleación	pl004_0000
+320	Vespoid	pl007_0000
+321	Hornetaur	pl017_0000
+322	Kestodon	pl005_0000
+323	Gajau	pl006_0000
+324	Unavailable	pl095_0000
+325	Unavailable	None
+326	Shamos	pl058_0000
+327	Unavailable	None
+328	Lingotes <ICON ALPHA>+	pl031_0000
+329	Lingotes <ICON BETA>+	pl031_0000
+330	Barioth <ICON ALPHA>+	pl089_0000
+331	Barioth <ICON BETA>+	pl089_0010
+332	Rathalos <ICON ALPHA>+	pl033_0001
+333	Rathalos <ICON BETA>+	pl033_0011
+334	Diablos <ICON ALPHA>+	pl034_0001
+335	Diablos <ICON BETA>+	pl034_0011
+336	Legiana <ICON ALPHA>+	pl027_0001
+337	Legiana <ICON BETA>+	pl027_0011
+338	Odogaron <ICON ALPHA>+	pl029_0001
+339	Odogaron <ICON BETA>+	pl029_0011
+340	Lavasioth <ICON ALPHA>+	pl040_0001
+341	Lavasioth <ICON BETA>+	pl040_0001
+342	Uragaan <ICON ALPHA>+	pl041_0001
+343	Uragaan <ICON BETA>+	pl041_0001
+344	Nargacuga <ICON ALPHA>+	pl080_0000
+345	Nargacuga <ICON BETA>+	pl080_0010
+346	Glavenus <ICON ALPHA>+	pl081_0000
+347	Glavenus <ICON BETA>+	pl081_0010
+348	Brachydios <ICON ALPHA>+	pl082_0000
+349	Brachydios <ICON BETA>+	pl082_0010
+350	Tigrex <ICON ALPHA>+	pl083_0000
+351	Tigrex <ICON BETA>+	pl083_0010
+352	Fulgúreo <ICON ALPHA>+	pl020_0101
+353	Fulgúreo <ICON BETA>+	pl020_0111
+354	Jagras	pl008_0000
+355	Kulu	pl009_0000
+356	Cinturón negro <ICON ALPHA>+	pl093_0000
+357	Cinturón negro <ICON BETA>+	pl093_0000
+358	Parche rey dragón	pl061_0000
+359	Lentes de estratega	pl060_0000
+360	Pluma pulverizante	pl037_0000
+361	Tzitzi	pl023_0000
+362	Girros	pl022_0000
+363	Aullador <ICON ALPHA>+	pl027_0500
+364	Aullador <ICON BETA>+	pl027_0510
+365	Alma Rath <ICON ALPHA>+	pl033_0101
+366	Alma Rath <ICON BETA>+	pl033_0111
+367	Diablos Negra <ICON ALPHA>+	pl034_0101
+368	Diablos Negra <ICON BETA>+	pl034_0111
+369	Ébano <ICON ALPHA>+	pl029_0101
+370	Ébano <ICON BETA>+	pl029_0111
+371	Acídico <ICON ALPHA>+	pl081_0100
+372	Acídico <ICON BETA>+	pl081_0110
+373	Artiano <ICON ALPHA>+	pl091_0000
+374	Artiano <ICON BETA>+	pl091_0000
+375	Unavailable	None
+376	Pukei <ICON ALPHA>	pl010_0000
+377	Pukei <ICON BETA>	pl010_0010
+378	Dober <ICON ALPHA>+	pl044_0000
+379	Dober <ICON BETA>+	pl044_0000
+380	Damasco <ICON ALPHA>+	pl043_0000
+381	Damasco <ICON BETA>+	pl043_0010
+382	Velkhana <ICON ALPHA>+	pl085_0000
+383	Velkhana <ICON BETA>+	pl085_0010
+384	Magma <ICON ALPHA>+	pl042_0500
+385	Magma <ICON BETA>+	pl042_0510
+386	Espóreo <ICON ALPHA>+	pl032_0500
+387	Espóreo <ICON BETA>+	pl032_0510
+388	Káiser <ICON ALPHA>+	pl046_0001
+389	Káiser <ICON BETA>+	pl046_0011
+390	Kushala <ICON ALPHA>+	pl047_0001
+391	Kushala <ICON BETA>+	pl047_0011
+392	Kirin <ICON ALPHA>+	pl035_0001
+393	Kirin <ICON BETA>+	pl035_0011
+394	Namielle <ICON ALPHA>+	pl086_0000
+395	Namielle <ICON BETA>+	pl086_0010
+396	Unavailable	None
+397	Barroth	pl012_0000
+398	Triunfal <ICON ALPHA>+	pl094_0000
+399	Triunfal <ICON BETA>+	pl094_0000
+400	Mecánico <ICON ALPHA>+	pl104_0000
+401	Mecánico <ICON BETA>+	pl104_0000
+402	Cristal colgante	pl059_0000
+403	Regio <ICON ALPHA>+	pl030_0500
+404	Regio <ICON BETA>+	pl030_0510
+405	Shara Ishvalda <ICON ALPHA>+	pl088_0000
+406	Shara Ishvalda <ICON BETA>+	pl088_0010
+407	Salvaje <ICON ALPHA>+	pl050_0500
+408	Salvaje <ICON BETA>+	pl050_0510
+409	Anja <ICON ALPHA>	pl020_0000
+410	Anja <ICON BETA>	pl020_0010
+411	Taberna lunar <ICON ALPHA>+	pl092_0000
+412	Taberna lunar <ICON BETA>+	pl092_0000
+413	Unavailable	pl095_0010
+414	Luna dorada <ICON ALPHA>+	pl021_0200
+415	Luna dorada <ICON BETA>+	pl021_0210
+416	Sol plateado <ICON ALPHA>+	pl033_0200
+417	Sol plateado <ICON BETA>+	pl033_0210
+418	Jyura	pl011_0000
+419	Kadachi	pl013_0000
+420	Zinogre <ICON ALPHA>+	pl107_0000
+421	Zinogre <ICON BETA>+	pl107_0010
+422	Zinogre Estigio <ICON ALPHA>+	pl107_0100
+423	Zinogre Estigio <ICON BETA>+	pl107_0110
+424	Yian Garuga <ICON ALPHA>+	pl108_0000
+425	Yian Garuga <ICON BETA>+	pl108_0010
+426	Zorah <ICON ALPHA>+	pl038_0000
+427	Zorah <ICON BETA>+	pl038_0010
+428	Rajang <ICON ALPHA>+	pl109_0000
+429	Rajang <ICON BETA>+	pl109_0010
+430	Rajang Rabioso <ICON ALPHA>+	pl109_0500
+431	Rajang Rabioso <ICON BETA>+	pl109_0510
+432	Brach Colérico <ICON ALPHA>+	pl082_0500
+433	Brach Colérico <ICON BETA>+	pl082_0510
+434	Safi'jiiva <ICON ALPHA>+	pl087_0000
+435	Safi'jiiva <ICON BETA>+	pl087_0010
+436	Unavailable	None
+437	Unavailable	None
+438	Sudario de dragón <ICON ALPHA>+	pl100_0000
+439	Orejas wyverianas <ICON ALPHA>+	pl101_0000
+440	Unavailable	None
+441	Cabeza de pingüino <ICON ALPHA>+	pl098_0000
+442	Lunastra <ICON ALPHA>+	pl051_0001
+443	Lunastra <ICON BETA>+	pl051_0011
+444	Kulve Taroth <ICON ALPHA>+	pl049_0001
+445	Kulve Taroth <ICON BETA>+	pl049_0011
+446	Rosas <ICON ALPHA>+	pl124_0000
+447	Lumu	pl024_0000
+448	Unavailable	None
+449	Rathian <ICON ALPHA>	pl021_0000
+450	Unavailable	None
+451	Rathian <ICON BETA>	pl021_0010
+452	Feng Huo <ICON ALPHA>+	pl127_0000
+453	Radobaan <ICON ALPHA>	pl028_0000
+454	Astral <ICON ALPHA>+	pl128_0000
+455	Radobaan <ICON BETA>	pl028_0010
+456	Rosas	pl124_0000
+457	Unavailable	None
+458	Unavailable	None
+459	Feng Huo	pl127_0000
+460	Astral	pl128_0000
+461	Megametal	pl025_0000
+462	Termal	pl106_0000
+463	Unavailable	None
+464	Carrao algodón	pl112_0000
+465	Termargénteo <ICON ALPHA>+	pl113_0000
+466	Unavailable	None
+467	Cuerpo fuerte <ICON ALPHA>+	pl115_0000
+468	Pardo <ICON ALPHA>+	pl083_0100
+469	Pardo <ICON BETA>+	pl083_0110
+470	Guardián <ICON ALPHA>+	pl121_0000
+471	Yukumo	pl122_0000
+472	Caballero de plata	pl123_0000
+473	HARDUMMY	pl068_0010
+474	Namielle <ICON GAMMA>+	pl086_0020
+475	HARDUMMY	pl072_0000
+476	HARDUMMY	pl072_0001
+477	Unavailable	None
+478	Unavailable	None
+479	Unavailable	None
+480	Unavailable	None
+481	Unavailable	None
+482	HARDUMMY	pl068_0020
+483	Unavailable	None
+484	Leon <ICON ALPHA>+	pl130_0000
+485	Claire <ICON ALPHA>+	pl131_0000
+486	Unavailable	None
+487	Unavailable	None
+488	Gastodon	pl015_0000
+489	Barnos	pl016_0000
+490	Dodogama	pl039_0000
+491	Lingotes	pl031_0000
+492	Corazón Rath <ICON ALPHA>	pl021_0100
+493	Corazón Rath <ICON BETA>	pl021_0110
+494	Lavasioth <ICON ALPHA>	pl040_0000
+495	Lavasioth <ICON BETA>	pl040_0010
+496	Legiana <ICON ALPHA>	pl027_0000
+497	Legiana <ICON BETA>	pl027_0010
+498	Odogaron <ICON ALPHA>	pl029_0000
+499	Odogaron <ICON BETA>	pl029_0010
+500	Rathalos <ICON ALPHA>	pl033_0000
+501	Rathalos <ICON BETA>	pl033_0010
+502	Alma Rath <ICON ALPHA>	pl033_0100
+503	Alma Rath <ICON BETA>	pl033_0110
+504	Diablos <ICON ALPHA>	pl034_0000
+505	Diablos <ICON BETA>	pl034_0010
+506	Diablos Negra <ICON ALPHA>	pl034_0100
+507	Diablos Negra <ICON BETA>	pl034_0110
+508	Uragaan <ICON ALPHA>	pl041_0000
+509	Uragaan <ICON BETA>	pl041_0010
+510	Bazelgeuse <ICON ALPHA>	pl042_0000
+511	Bazelgeuse <ICON BETA>	pl042_0010
+512	Deviljho <ICON ALPHA>	pl050_0000
+513	Deviljho <ICON BETA>	pl050_0010
+514	Dober <ICON ALPHA>	pl044_0000
+515	Dober <ICON BETA>	pl044_0000
+516	Damasco <ICON ALPHA>	pl043_0000
+517	Damasco <ICON BETA>	pl043_0010
+518	Zorah <ICON ALPHA>	pl038_0000
+519	Zorah <ICON BETA>	pl038_0010
+520	Zorah <ICON GAMMA>	pl038_0020
+521	Nergigante <ICON ALPHA>	pl030_0000
+522	Nergigante <ICON BETA>	pl030_0010
+523	Nergigante <ICON GAMMA>	pl030_0020
+524	Káiser <ICON ALPHA>	pl046_0000
+525	Káiser <ICON BETA>	pl046_0010
+526	Káiser <ICON GAMMA>	pl046_0020
+527	Kushala <ICON ALPHA>	pl047_0000
+528	Kushala <ICON BETA>	pl047_0010
+529	Kushala <ICON GAMMA>	pl047_0020
+530	Vaal Hazak <ICON ALPHA>	pl032_0000
+531	Vaal Hazak <ICON BETA>	pl032_0010
+532	Vaal Hazak <ICON GAMMA>	pl032_0020
+533	Kirin <ICON ALPHA>	pl035_0000
+534	Kirin <ICON BETA>	pl035_0010
+535	Kirin <ICON GAMMA>	pl035_0020
+536	Xeno <ICON ALPHA>	pl045_0000
+537	Xeno <ICON BETA>	pl045_0010
+538	Xeno <ICON GAMMA>	pl045_0020
+539	Lunastra <ICON ALPHA>	pl051_0000
+540	Lunastra <ICON BETA>	pl051_0010
+541	Lunastra <ICON GAMMA>	pl051_0020
+542	Kulve <ICON ALPHA>	pl049_0000
+543	Kulve <ICON BETA>	pl049_0010
+544	Kulve <ICON GAMMA>	pl049_0020
+545	Vigilante	pl121_0000
+546	Unavailable	None
+547	Unavailable	None
+548	Unavailable	None
+549	Unavailable	None
+550	Unavailable	None
+551	Unavailable	None
+552	Unavailable	None
+553	Unavailable	None
+554	Unavailable	None
+555	Unavailable	None
+556	Unavailable	None
+557	Unavailable	None
+558	Unavailable	None
+559	Unavailable	None
+560	Unavailable	None
+561	Unavailable	None
+562	Unavailable	None
+563	Unavailable	None
+564	Unavailable	None
+565	Unavailable	None
+566	Unavailable	None
+567	Unavailable	None
+568	Unavailable	None
+569	Unavailable	None
+570	Unavailable	None
+571	Unavailable	None
+572	Unavailable	None
+573	Unavailable	None
+574	Unavailable	None
+575	Artiano	pl091_0000
+576	Unavailable	None
+577	Unavailable	None
+578	Unavailable	None
+579	Unavailable	None
+580	Unavailable	None
+581	Unavailable	None
+582	Unavailable	None
+583	Unavailable	None
+584	Unavailable	None
+585	Unavailable	None
+586	Unavailable	None
+587	Unavailable	None
+588	Unavailable	None
+589	Unavailable	None
+590	Unavailable	None
+591	Unavailable	None
+592	Unavailable	None
+593	Unavailable	None
+594	Unavailable	None
+595	Unavailable	None
+596	Unavailable	None
+597	Unavailable	None
+598	Unavailable	None
+599	Unavailable	None
+600	Unavailable	None
+601	Unavailable	None
+602	Unavailable	None
+603	Unavailable	None
+604	Unavailable	None
+605	Unavailable	None
+606	Unavailable	None
+607	Unavailable	None
+608	Cinturón negro	pl093_0000
+609	Unavailable	None
+610	Unavailable	None
+611	Unavailable	None
+612	Unavailable	None
+613	Unavailable	None
+614	Unavailable	None
+615	Unavailable	None
+616	Unavailable	None
+617	Unavailable	None
+618	Unavailable	None
+619	Unavailable	None
+620	Unavailable	None
+621	Unavailable	None
+622	Unavailable	None
+623	Unavailable	None
+624	Unavailable	None
+625	Unavailable	None
+626	Acróbata	pl095_0000
+627	Artista	pl095_0010
+628	Unavailable	None
+629	Unavailable	None
+630	Unavailable	None
+631	Unavailable	None
+632	Unavailable	None
+633	Unavailable	None
+634	Unavailable	None
+635	Unavailable	None
+636	Unavailable	None
+637	Unavailable	None
+638	Unavailable	None
+639	Unavailable	None
+640	Unavailable	None
+641	Unavailable	None
+642	Unavailable	None
+643	Unavailable	None
+644	Unavailable	None
+645	Unavailable	None
+646	Unavailable	None
+647	Unavailable	None
+648	Unavailable	None
+649	Unavailable	None
+650	Unavailable	None
+651	Unavailable	None
+652	Unavailable	None
+653	Unavailable	None
+654	Unavailable	None
+655	Unavailable	None
+656	Unavailable	None
+657	Unavailable	None
+658	Unavailable	None
+659	Unavailable	None
+660	Unavailable	None
+661	Unavailable	None
+662	Unavailable	None
+663	Unavailable	None
+664	Unavailable	None
+665	Unavailable	None
+666	Unavailable	None
+667	Unavailable	None
+668	Unavailable	None
+669	Unavailable	None
+670	Unavailable	None
+671	Unavailable	None
+672	Unavailable	None
+673	Unavailable	None
+674	Unavailable	None
+675	Unavailable	None
+676	Unavailable	None
+677	Unavailable	None
+678	Unavailable	None
+679	Unavailable	None
+680	Unavailable	None
+681	Unavailable	None
+682	Unavailable	None
+683	Unavailable	None
+684	Unavailable	None
+685	Unavailable	None
+686	Unavailable	None
+687	Unavailable	None
+688	Unavailable	None
+689	Unavailable	None
+690	Unavailable	None
+691	Unavailable	None
+692	Unavailable	None
+693	Unavailable	None
+694	Unavailable	None
+695	Unavailable	None
+696	Unavailable	None
+697	Unavailable	None
+698	Unavailable	None
+699	Unavailable	None
+700	Unavailable	None
+701	Unavailable	None
+702	Unavailable	None
+703	Unavailable	None
+704	Unavailable	None
+705	Unavailable	None
+706	Unavailable	None
+707	Unavailable	None
+708	Unavailable	None
+709	Unavailable	None
+710	Unavailable	None
+711	Unavailable	None
+712	Unavailable	None
+713	Unavailable	None
+714	Unavailable	None
+715	Unavailable	None
+716	Unavailable	None
+717	Unavailable	None
+718	Unavailable	None
+719	Unavailable	None
+720	Unavailable	None
+721	Unavailable	None
+722	Unavailable	None
+723	Unavailable	None
+724	Unavailable	None
+725	Unavailable	None
+726	Unavailable	None
+727	Unavailable	None
+728	Unavailable	None
+729	Unavailable	None
+730	Unavailable	None
+731	Unavailable	None
+732	Unavailable	None
+733	Unavailable	None
+734	Unavailable	None
+735	Unavailable	None
+736	Unavailable	None
+737	Unavailable	None
+738	Unavailable	None
+739	Unavailable	None
+740	Unavailable	None
+741	Unavailable	None
+742	Unavailable	None
+743	Unavailable	None
+744	Unavailable	None
+745	Unavailable	None
+746	Unavailable	None
+747	Unavailable	None
+748	Unavailable	None
+749	Unavailable	None
+750	Unavailable	None
+751	Unavailable	None

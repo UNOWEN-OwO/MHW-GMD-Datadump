@@ -1,0 +1,100 @@
+Music Code	Music Level	Music Name
+HUD_HUE_00	-	Automejora
+HUD_HUE_00_S	0	Movimiento veloz
+HUD_HUE_00_W	1	Anti rebote de ataques y ataque mejorado
+HUD_HUE_01	-	Mejora de ataque (P)
+HUD_HUE_02	-	Mejora de ataque (G)
+HUD_HUE_02_W	1	Mejora de ataque (XG)
+HUD_HUE_03	-	Bonus salud (P)
+HUD_HUE_04	-	Bonus salud (G)
+HUD_HUE_04_W	1	Bonus salud extend.
+HUD_HUE_05	-	Anti gasto de resistencia (P)
+HUD_HUE_06	-	Anti gasto de resistencia (G)
+HUD_HUE_06_W	1	Anti gasto de resistencia extend.
+HUD_HUE_07	-	Niega ráfagas de viento
+HUD_HUE_08	-	Niega toda ráfaga de viento
+HUD_HUE_08_W	1	Niega toda ráfaga de viento extend.
+HUD_HUE_09	-	Mejora de defensa (P)
+HUD_HUE_10	-	Mejora de defensa (G)
+HUD_HUE_10_W	1	Mejora de defensa (XG)
+HUD_HUE_11	-	Uso reducido herramienta (P)
+HUD_HUE_12	-	Uso reducido herramienta (G)
+HUD_HUE_12_W	1	Uso reducido herramienta extend.
+HUD_HUE_13	-	Recuperación salud (P)
+HUD_HUE_14	-	Recuperación salud (G)
+HUD_HUE_15	-	Recup. salud (P) + antídoto
+HUD_HUE_16	-	Recup. salud (M) + antídoto
+HUD_HUE_17	-	Recuperación rápida (P)
+HUD_HUE_18	-	Recuperación rápida (G)
+HUD_HUE_18_W	1	Recuperación rápida extend.
+HUD_HUE_19	-	Protección divina
+HUD_HUE_19_W	1	Protección divina extendida
+HUD_HUE_20	-	Mejora de Lafarillos
+HUD_HUE_20_S	0	Nv. de Lafarillos +1
+HUD_HUE_20_W	1	Nv. de Lafarillos +1 extendido
+HUD_HUE_21	-	Anti fango
+HUD_HUE_21_W	1	Anti fango extendido
+HUD_HUE_22	-	Niega daño entorno
+HUD_HUE_22_W	1	Niega daño entorno extend.
+HUD_HUE_23	-	Anti rugidos (P)
+HUD_HUE_24	-	Anti rugidos (G)
+HUD_HUE_24_W	1	Anti rugidos (G) extendido
+HUD_HUE_25	-	Niega aturdimiento
+HUD_HUE_25_W	1	Niega aturdimiento extendido
+HUD_HUE_26	-	Niega parálisis
+HUD_HUE_26_W	1	Niega parálisis extendido
+HUD_HUE_27	-	Niega temblores
+HUD_HUE_27_W	1	Niega temblores extendido
+HUD_HUE_28	-	Bonus resistencia al fuego (P)
+HUD_HUE_29	-	Bonus resistencia al fuego (G)
+HUD_HUE_29_W	1	Bonus resistencia al fuego (XG)
+HUD_HUE_30	-	Bonus resistencia al agua (P)
+HUD_HUE_31	-	Bonus resistencia al agua (G)
+HUD_HUE_31_W	1	Bonus resistencia al agua (XG)
+HUD_HUE_32	-	Bonus resistencia al rayo (P)
+HUD_HUE_33	-	Bonus resistencia al rayo (G)
+HUD_HUE_33_W	1	Bonus resistencia al rayo (XG)
+HUD_HUE_34	-	Bonus resistencia al hielo (P)
+HUD_HUE_35	-	Bonus resistencia al hielo (G)
+HUD_HUE_35_W	1	Bonus resistencia al hielo (XG)
+HUD_HUE_36	-	Bonus resistencia al draco (P)
+HUD_HUE_37	-	Bonus resistencia al draco (G)
+HUD_HUE_37_W	1	Bonus resistencia al draco (XG)
+HUD_HUE_38	-	Bonus ataques elementales
+HUD_HUE_38_S	0	Bonus ataques elementales (P)
+HUD_HUE_38_W	1	Bonus ataques elementales (G)
+HUD_HUE_39	-	Ondas sónicas
+HUD_HUE_40	-	Efecto de melodías extendido
+HUD_HUE_41	-	Anti empuje al recibir ataques
+HUD_HUE_42	-	Mejora ataque/defensa (P)
+HUD_HUE_42_S	0	Mejora ataque/defensa (P)
+HUD_HUE_42_W	1	Mejora ataque (G)/defensa (G)
+HUD_HUE_43	-	Recup. afinidad/salud (P)
+HUD_HUE_43_S	0	Recup. afinidad (P)/salud (P)
+HUD_HUE_43_W	1	Recup. afinidad (G)/salud (P)
+HUD_HUE_44	-	Mejora ataques estados alterados
+HUD_HUE_44_S	0	Mejora ataq. estado alterado (P)
+HUD_HUE_44_W	1	Mejora ataq. estado alterado (G)
+HUD_HUE_45	-	Anti estados alterados
+HUD_HUE_45_W	1	Anti estados alterados extend.
+HUD_HUE_46	-	Mejora la resistencia a plagas
+HUD_HUE_46_S	0	Mejora resistencia a plagas (P)
+HUD_HUE_46_W	1	Mejora resistencia a plagas (G)
+HUD_HUE_47	-	Niega plagas
+HUD_HUE_47_W	1	Anti plagas extendido
+HUD_HUE_48	-	Anti rugidos (P)/Niega ráfagas viento
+HUD_HUE_48_S	0	Anti rugidos (P)/Niega ráfagas viento
+HUD_HUE_48_W	1	Anti rugidos (P)/Niega viento extend.
+HUD_HUE_49	-	Recupera salud (M)
+HUD_HUE_23_W	1	Anti rugidos (P) extendido
+HUD_HUE_07_W	1	Niega ráfagas de viento extend.
+HUD_HUE_41_W	1	Anti empujes extendido
+HUD_HUE_50	-	Onda sónica de impacto
+HUD_HUE_51	-	"Onda sónica ""Dragón"""
+HUD_HUE_52	-	Recuperación + resistencia máxima+
+HUD_HUE_53	-	Recuperación de salud extendida
+HUD_HUE_54	-	Bonus velocidad + int. de evasión+
+HUD_HUE_55	-	Efectividad elemental+
+HUD_HUE_56	-	Intervalo de evasión+
+HUD_HUE_21_G	-	Anti fango/agua/nieve profunda
+HUD_HUE_21_W_G	-	Anti fango/agua/nieve profunda ext.

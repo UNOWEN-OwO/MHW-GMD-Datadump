@@ -1,0 +1,508 @@
+Quest ID	Quest Name	Quest Target	Fail Condition
+00000	Unavailable	Unavailable	Unavailable
+00001	Unavailable	Unavailable	Unavailable
+00002	Unavailable	Unavailable	Unavailable
+00003	Invalid Message	Invalid Message	Invalid Message
+00004	Invalid Message	Invalid Message	Invalid Message
+00005	Invalid Message	Invalid Message	Invalid Message
+00101	Jagras de la Forêt ancienne	Abattre 7 Jagras	Temps imparti écouléS'évanouir 3 fois
+00102	Cacophonie de Kestodon	Compléter la mission	Temps imparti écouléS'évanouir 3 fois
+00103	La chasse au Grand Jagras	Chasser un Grand Jagras	Temps imparti écouléS'évanouir 3 fois
+00151	Une herbe plus verte	Tuer 12 Kestodon	Temps imparti écouléS'évanouir 3 fois
+00152	Au fond des trous	Abattre 7 Jagras	Temps imparti écouléS'évanouir 3 fois
+00153	Chasse aux champis (Forêt ancienne)	Apporter 20 champignons délicats	Temps imparti écouléS'évanouir 3 fois
+00201	Tête de piaf chapardeuse	Chasser un Kulu-Ya-Ku	Temps imparti écouléS'évanouir 3 fois
+00205	Urgent : Chasse au Pukei-Pukei	Chasser un Pukei-Pukei	Temps imparti écouléS'évanouir 3 fois
+00241	Tout nouveau, tout beau	Apprendre à manier le grappin	Temps imparti écouléS'évanouir 3 foisGrand Jagras chassé
+00251	Le grand glouton	Chasser un Grand Jagras	Temps imparti écouléS'évanouir 3 fois
+00252	Casseur de camp	Chasser un Kulu-Ya-Ku	Temps imparti écouléS'évanouir 3 fois
+00261	Pris la griffe dans le sac	Capturer un Kulu-Ya-Ku	Temps imparti écouléS'évanouir 3 foisKulu-Ya-Ku tué
+00262	Poissons à crocs	Abattre 7 Gajau	Temps imparti écouléS'évanouir 3 fois
+00263	Extermination dans le désert	Abattre 14 Vespoid	Temps imparti écouléS'évanouir 3 fois
+00301	Sous bonne escorte	Compléter la mission	Temps imparti écouléS'évanouir 3 fois
+00302	Marécage mortel	Compléter la mission	Temps imparti écouléS'évanouir 3 fois
+00305	Étincelles : Tobi-Kadachi	Chasser un Tobi-Kadachi	Temps imparti écouléS'évanouir 3 fois
+00306	Un Anjanath envahissant	Chasser un Anjanath	Temps imparti écouléS'évanouir 3 fois
+00331	Arène spéciale : Pukei-Pukei	Chasser un Pukei-Pukei	Temps imparti écouléS'évanouir 3 fois
+00332	Arène spéciale : Barroth	Chasser un Barroth	Temps imparti écouléS'évanouir 3 fois
+00333	Arène spéciale : Tobi-Kadachi	Chasser un Tobi-Kadachi	Temps imparti écouléS'évanouir 3 fois
+00351	Pénurie de frag-noix	Chasser un Pukei-Pukei	Temps imparti écouléS'évanouir 3 fois
+00352	Situation électrique	Chasser un Tobi-Kadachi	Temps imparti écouléS'évanouir 3 fois
+00361	Bourbier dans le désert	Chasser un Barroth	Temps imparti écouléS'évanouir 3 fois
+00362	Pince-mi et Pince-moi	Chasser un Jyuratodus	Temps imparti écouléS'évanouir 3 fois
+00363	Situation épineuse	Livrer 20 cactus nains	Temps imparti écouléS'évanouir 3 fois
+00364	Costaud du Désert	Livrer 2 œufs d'herbivore	Temps imparti écouléS'évanouir 3 fois
+00365	Barrage au Barroth	Capturer un Barroth	Temps imparti écouléS'évanouir 3 foisBarroth tué
+00401	Tenter l'impossible	Compléter la mission	Temps imparti écouléS'évanouir 3 fois
+00405	Vole, Paolumu !	Chasser un Paolumu	Temps imparti écouléS'évanouir 3 fois
+00407	Radobaan récalcitrant	Chasser un Radobaan	Temps imparti écouléS'évanouir 3 fois
+00408	Sus au Legiana	Chasser un Legiana	Temps imparti écouléS'évanouir 3 fois
+00431	Arène spéciale : Anjanath	Chasser un Anjanath	Temps imparti écouléS'évanouir 3 fois
+00432	Arène spéciale : Rathian	Chasser une Rathian	Temps imparti écouléS'évanouir 3 fois
+00433	Arène spéciale : Paolumu	Chasser un Paolumu	Temps imparti écouléS'évanouir 3 fois
+00434	Arène spéciale : Radobaan	Chasser un Radobaan	Temps imparti écouléS'évanouir 3 fois
+00451	Sacrée sinusite	Chasser un Anjanath	Temps imparti écouléS'évanouir 3 fois
+00452	Costaud de la Forêt	Livrer 2 œufs de wyverne	Temps imparti écouléS'évanouir 3 fois
+00461	Déménagement royal	Chasser une Rathian	Temps imparti écouléS'évanouir 3 fois
+00471	Shamos à bosses	Abattre 11 Shamos	Temps imparti écouléS'évanouir 3 fois
+00472	Tout sur le Tzitzi	Chasser un Tzitzi-Ya-Ku	Temps imparti écouléS'évanouir 3 fois
+00473	Fête privée	Chasser un Paolumu	Temps imparti écouléS'évanouir 3 fois
+00474	Ormeaux à gogo	Livrer 10 ormeaux nacrés	Temps imparti écouléS'évanouir 3 fois
+00475	Monstre blanc et blanc manteau	Capturer un Paolumu	Temps imparti écouléS'évanouir 3 foisPaolumu tué
+00481	Nuisibles nocifs	Abattre 14 Hornetaur	Temps imparti écouléS'évanouir 3 fois
+00482	Tour pendable	Chasser un Grand Girros	Temps imparti écouléS'évanouir 3 fois
+00483	Tombés sur un os	Chasser un Radobaan	Temps imparti écouléS'évanouir 3 fois
+00484	Des cauchemars et des ailes	Abattre 5 Raphinos	Temps imparti écouléS'évanouir 3 fois
+00501	Dans les entrailles du Val	Compléter la mission	Temps imparti écouléS'évanouir 3 fois
+00502	Un trône ardent dans les cimes	Chasser un Rathalos	Temps imparti écouléS'évanouir 3 fois
+00503	Tyran à cornes sous le sable	Chasser un Diablos	Temps imparti écouléS'évanouir 3 fois
+00504	Une tâche colossale	Compléter la mission	Temps imparti écouléS'évanouir 3 foisZorah Magdaros non guidé
+00531	Arène spéciale : Legiana	Chasser un Legiana	Temps imparti écouléS'évanouir 3 fois
+00532	Arène spéciale : Odogaron	Chasser un Odogaron	Temps imparti écouléS'évanouir 3 fois
+00533	Arène spéciale : Rathalos	Chasser un Rathalos	Temps imparti écouléS'évanouir 3 fois
+00534	Arène spéciale : Diablos	Chasser un Diablos	Temps imparti écouléS'évanouir 3 fois
+00551	Envie ou obsession ?	Chasser un Rathalos	Temps imparti écouléS'évanouir 3 fois
+00552	Équipe de choc	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+00561	Deux flèches sur le sable	Chasser un Diablos	Temps imparti écouléS'évanouir 3 fois
+00571	Migraine moite	Chasser un Legiana	Temps imparti écouléS'évanouir 3 fois
+00572	Disparu en un éclair	Abattre un Kirin	Temps imparti écouléS'évanouir 3 fois
+00581	Soulagement	Chasser un Odogaron	Temps imparti écouléS'évanouir 3 fois
+00582	Le meilleur ennemi de l'homme	Capturer un Odogaron	Temps imparti écouléS'évanouir 3 foisOdogaron tué
+00583	Échec et matériaux	Livrer 2 morceaux de viande	Temps imparti écouléS'évanouir 3 fois
+00601	Intrusion dans le Désert	Chasser un Pukei-Pukei	Temps imparti écouléS'évanouir 3 fois
+00605	La vie en rose	Chasser un Anjanath	Temps imparti écouléS'évanouir 3 fois
+00607	Vestige du Vieux Monde	Compléter la mission	Temps imparti écouléS'évanouir 3 fois
+00631	Arène spéciale : Pukei-Pukei	Chasser un Pukei-Pukei	Temps imparti écouléS'évanouir 3 fois
+00632	Arène spéciale : Barroth	Chasser un Barroth	Temps imparti écouléS'évanouir 3 fois
+00633	Arène spéciale : Tobi-Kadachi	Chasser un Tobi-Kadachi	Temps imparti écouléS'évanouir 3 fois
+00634	Arène spéciale : Anjanath	Chasser un Anjanath	Temps imparti écouléS'évanouir 3 fois
+00635	Arène spéciale : Rathian	Chasser une Rathian	Temps imparti écouléS'évanouir 3 fois
+00636	Arène spéciale : Paolumu	Chasser un Paolumu	Temps imparti écouléS'évanouir 3 fois
+00637	Arène spéciale : Radobaan	Chasser un Radobaan	Temps imparti écouléS'évanouir 3 fois
+00641	D'un Z qui veut dire Zorah	Guider le Zorah Magdaros	Temps imparti écouléS'évanouir 3 foisZorah Magdaros non guidé
+00651	Dur à avaler	Chasser un Grand Jagras	Temps imparti écouléS'évanouir 3 fois
+00652	Monstre vert aux gros yeux	Chasser un Pukei-Pukei	Temps imparti écouléS'évanouir 3 fois
+00653	Une expérience hérissante	Chasser un Tobi-Kadachi	Temps imparti écouléS'évanouir 3 fois
+00654	Immobile ? Invisible !	Chasser un Anjanath	Temps imparti écouléS'évanouir 3 fois
+00655	La reine endormie	Chasser une Rathian	Temps imparti écouléS'évanouir 3 fois
+00656	Aucune prudence	Capturer un Tobi-Kadachi	Temps imparti écouléS'évanouir 3 foisTobi-Kadachi tué
+00661	Bas les pattes !	Chasser un Kulu-Ya-Ku	Temps imparti écouléS'évanouir 3 fois
+00662	Une couronne de boue et de furie	Chasser un Barroth	Temps imparti écouléS'évanouir 3 fois
+00663	Embuscade de Pukei-Pukei	Chasser un Pukei-Pukei	Temps imparti écouléS'évanouir 3 fois
+00665	Boue mouvante	Chasser un Jyuratodus	Temps imparti écouléS'évanouir 3 fois
+00666	Désert brun, reine verte	Chasser une Rathian	Temps imparti écouléS'évanouir 3 fois
+00667	Intolérable intrus	Chasser un Anjanath	Temps imparti écouléS'évanouir 3 fois
+00671	Dites Ouistiti !	Chasser un Tzitzi-Ya-Ku	Temps imparti écouléS'évanouir 3 fois
+00672	Chasse au Paolumu	Chasser un Paolumu	Temps imparti écouléS'évanouir 3 fois
+00681	Comme pétrifié	Chasser un Grand Girros	Temps imparti écouléS'évanouir 3 fois
+00682	Roulé-boulé	Chasser un Radobaan	Temps imparti écouléS'évanouir 3 fois
+00683	Quête Cuistot : Gonflette à gogo	Livrer 4 fossiles oubliés	Temps imparti écouléS'évanouir 3 fois
+00684	Quête Cuistot : Procédure putride	Abattre 10 Girros	Temps imparti écouléS'évanouir 3 fois
+00691	Aidez-miaou !	Abattre 13 Gastodon	Temps imparti écouléS'évanouir 3 fois
+00692	Actualité ardente	Abattre 5 Barnos	Temps imparti écouléS'évanouir 3 fois
+00693	Opération Dodogama	Chasser un Dodogama	Temps imparti écouléS'évanouir 3 fois
+00694	Quête Cuistot : Objectif Gajalaka	Battre 10 Gajalaka	Temps imparti écouléS'évanouir 3 fois
+00701	L'instant de vérité	Tuer le Nergigante	Temps imparti écouléS'évanouir 3 fois
+00731	Arène spéciale : Rathian sakura	Chasser une Rathian sakura	Temps imparti écouléS'évanouir 3 fois
+00732	Arène spéciale : Legiana	Chasser un Legiana	Temps imparti écouléS'évanouir 3 fois
+00733	Arène spéciale : Odogaron	Chasser un Odogaron	Temps imparti écouléS'évanouir 3 fois
+00734	Arène spéciale : Uragaan	Chasser un Uragaan	Temps imparti écouléS'évanouir 3 fois
+00735	Arène spéciale : Rathalos	Chasser un Rathalos	Temps imparti écouléS'évanouir 3 fois
+00736	Arène spéciale : Rathalos azur	Chasser un Rathalos azur	Temps imparti écouléS'évanouir 3 fois
+00737	Arène spéciale : Diablos	Chasser un Diablos	Temps imparti écouléS'évanouir 3 fois
+00738	Arène spéciale : Diablos noire	Chasser une Diablos noire	Temps imparti écouléS'évanouir 3 fois
+00751	Rathalos, le retour	Chasser un Rathalos	Temps imparti écouléS'évanouir 3 fois
+00752	Apocalypse azur	Chasser un Rathalos azur	Temps imparti écouléS'évanouir 3 fois
+00753	En rouge et bleu	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+00761	Nuances de rose	Chasser une Rathian sakura	Temps imparti écouléS'évanouir 3 fois
+00762	Petit diable, va !	Chasser un Diablos	Temps imparti écouléS'évanouir 3 fois
+00763	Bis-cornu	Chasser une Diablos noire	Temps imparti écouléS'évanouir 3 fois
+00764	Désordre désertique	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+00771	Vent rouge sur les récifs	Chasser une Rathian sakura	Temps imparti écouléS'évanouir 3 fois
+00772	Legiana, le roi des hauts-plateaux	Chasser un Legiana	Temps imparti écouléS'évanouir 3 fois
+00773	Gros casse-pied	Chasser un Odogaron	Temps imparti écouléS'évanouir 3 fois
+00774	D'ire et de glace	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+00781	Odogaron en vadrouille	Chasser un Odogaron	Temps imparti écouléS'évanouir 3 fois
+00791	Lavasioth, monstre de magma	Chasser un Lavasioth	Temps imparti écouléS'évanouir 3 fois
+00792	Croque-minerai	Chasser un Uragaan	Temps imparti écouléS'évanouir 3 fois
+00793	Souverain des cieux	Chasser un Rathalos azur	Temps imparti écouléS'évanouir 3 fois
+00794	Champ de flammes	Chasser un Bazelgeuse	Temps imparti écouléS'évanouir 3 fois
+00795	Rencontre enflammée	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+00801	Kushala Daora, dragon d'acier	Abattre le Kushala Daora	Temps imparti écouléS'évanouir 3 fois
+00802	Teostra, roi des flammes	Abattre le Teostra	Temps imparti écouléS'évanouir 3 fois
+00803	Vaal Hazak, faucheur de l'ombre	Tuer le Vaal Hazak	Temps imparti écouléS'évanouir 3 fois
+00804	Là où tout converge	Compléter la mission	Temps imparti écouléS'évanouir 3 fois
+00805	Face aux écailles explosives	Chasser 2 Bazelgeuse	Temps imparti écouléS'évanouir 3 fois
+00806	Tonnerre sur le plateau	Abattre un Kirin	Temps imparti écouléS'évanouir 3 fois
+00851	Mauvais présage	Abattre un Kushala Daora	Temps imparti écouléS'évanouir 3 fois
+00861	Flambée ensablée	Abattre un Teostra	Temps imparti écouléS'évanouir 3 fois
+00871	La foudre frappe deux fois	Abattre un Kirin	Temps imparti écouléS'évanouir 3 fois
+00881	Depuis l'au-delà	Abattre un Vaal Hazak	Temps imparti écouléS'évanouir 3 fois
+00891	Le dévoreur d'anciens	Tuer le Nergigante	Temps imparti écouléS'évanouir 3 fois
+00892	Maître du vent	Abattre un Kushala Daora	Temps imparti écouléS'évanouir 3 fois
+00893	Forteresse infernale	Abattre un Teostra	Temps imparti écouléS'évanouir 3 fois
+00894	Le dévoreur d'anciens	Tuer le Nergigante	Temps imparti écouléS'évanouir 3 fois
+00895	Les vents de la colère	Abattre un Kushala Daora	Temps imparti écouléS'évanouir 3 fois
+00896	Les flammes de l'enfer	Abattre un Teostra	Temps imparti écouléS'évanouir 3 fois
+00961	Face aux écailles explosives	Chasser 2 Bazelgeuse	Temps imparti écouléS'évanouir 3 fois
+00971	Tonnerre sur le plateau	Tuer un Kirin	Temps imparti écouléS'évanouir 3 fois
+00991	Une lueur sur la rivière morose	Abattre le Xeno'jiiva	Temps imparti écouléS'évanouir 3 fois
+00992	Les vents blancs du Nouveau Monde	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+00995	Guidé par l'Étoile de saphir	Tuer tous les monstres	Temps imparti écouléS'évanouir 3 fois
+00996	Duel : La boue et le maillet	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+00997	Ciel et fleur du Nouveau Monde	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+00998	Invocation d'outre-tombe	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+01101	Baptême par la glace	Chasser un Beotodus	Temps imparti écouléS'évanouir 3 fois
+01102	Barrage Banbaro	Chasser un Banbaro	Temps imparti écouléS'évanouir 3 fois
+01121	Plongée en neige profonde	Chasser un Beotodus	Temps imparti écouléS'évanouir 3 fois
+01122	Par les cornes	Chasser un Banbaro	Temps imparti écouléS'évanouir 3 fois
+01123	Complètement givré	Capturer un Beotodus	Temps imparti écouléS'évanouir 3 foisBeotodus tué
+01124	L'appel de la nature	Tuer 10 Wulg	Temps imparti écouléS'évanouir 3 fois
+01125	Bons baisers de la toundra	Livrer 20 jeunes pétasites	Temps imparti écouléS'évanouir 3 fois
+01131	Arène spéciale : Pukei-Pukei	Chasser un Pukei-Pukei	Temps imparti écouléS'évanouir 3 fois
+01132	Arène spéciale : Barroth	Chasser un Barroth	Temps imparti écouléS'évanouir 3 fois
+01133	Arène spéciale : Tobi-Kadachi	Chasser un Tobi-Kadachi	Temps imparti écouléS'évanouir 3 fois
+01134	Arène spéciale : Banbaro	Chasser un Banbaro	Temps imparti écouléS'évanouir 3 fois
+01151	Le retour du Grand Jagras !	Chasser un Grand Jagras	Temps imparti écouléS'évanouir 3 fois
+01152	Poison nostalgique	Chasser un Pukei-Pukei	Temps imparti écouléS'évanouir 3 fois
+01153	Paresse infuse	Chasser un Tobi-Kadachi	Temps imparti écouléS'évanouir 3 fois
+01154	Copie comique	Chasser un Kulu-Ya-Ku	Temps imparti écouléS'évanouir 3 fois
+01155	Le déracineur	Capturer un Banbaro	Temps imparti écouléS'évanouir 3 foisBanbaro tué
+01161	Partie de chasse dans le désert	Chasser un Kulu-Ya-Ku	Temps imparti écouléS'évanouir 3 fois
+01162	Hou la gadoue !	Chasser un Barroth	Temps imparti écouléS'évanouir 3 fois
+01163	Les pieds dans la boue	Chasser un Jyuratodus	Temps imparti écouléS'évanouir 3 fois
+01164	Un appétit monstre	Chasser un Pukei-Pukei	Temps imparti écouléS'évanouir 3 fois
+01171	Le petit oiseau va sortir !	Chasser un Tzitzi-Ya-Ku	Temps imparti écouléS'évanouir 3 fois
+01181	Le Girros me monte au nez	Chasser un Grand Girros	Temps imparti écouléS'évanouir 3 fois
+01191	La beauté est subjective	Chasser un Dodogama	Temps imparti écouléS'évanouir 3 fois
+01192	Little Big Horn	Chasser un Banbaro	Temps imparti écouléS'évanouir 3 fois
+01201	Le cerbère des neiges	Chasser un Tobi-Kadachi vipère	Temps imparti écouléS'évanouir 3 fois
+01202	Pas le temps de dormir	Chasser un Paolumu belladone	Temps imparti écouléS'évanouir 3 fois
+01203	Jouer sur les deux tableaux	Chasser un Pukei-Pukei corail	Temps imparti écouléS'évanouir 3 fois
+01221	Morsure imminente	Chasser un Tobi-Kadachi vipère	Temps imparti écouléS'évanouir 3 fois
+01222	Aux grands maux les grands remèdes	Capturer un Tobi-Kadachi vipère	Temps imparti écouléS'évanouir 3 foisTobi-Kadachi vipère tué
+01223	Boa constrictor	Vaincre 14 Boaboa	Temps imparti écouléS'évanouir 3 fois
+01224	Par nos pouvoirs unis	Chasser un Beotodus	Temps imparti écouléS'évanouir 3 fois
+01225	Visite de courtoisie	Chasser un Beotodus	Temps imparti écouléS'évanouir 3 fois
+01231	Arène spéciale : Anjanath	Chasser un Anjanath	Temps imparti écouléS'évanouir 3 fois
+01232	Arène spéciale : Radobaan	Chasser un Radobaan	Temps imparti écouléS'évanouir 3 fois
+01233	Arène spéciale : Pukei-Pukei corail	Chasser un Pukei-Pukei corail	Temps imparti écouléS'évanouir 3 fois
+01234	Arène spéciale : Tobi-Kadachi vipère	Chasser un Tobi-Kadachi vipère	Temps imparti écouléS'évanouir 3 fois
+01235	Arène spéciale : Rathian	Chasser une Rathian	Temps imparti écouléS'évanouir 3 fois
+01236	Arène spéciale : Rathian sakura	Chasser une Rathian sakura	Temps imparti écouléS'évanouir 3 fois
+01237	Arène spéciale : Paolumu	Chasser un Paolumu	Temps imparti écouléS'évanouir 3 fois
+01238	Arène spéciale : Paolumu belladone	Chasser un Paolumu belladone	Temps imparti écouléS'évanouir 3 fois
+01251	Attention danger !	Chasser un Anjanath	Temps imparti écouléS'évanouir 3 fois
+01252	L'amour est aveugle	Chasser une Rathian	Temps imparti écouléS'évanouir 3 fois
+01253	Bonne nuit les petits	Capturer un Paolumu belladone	Temps imparti écouléS'évanouir 3 foisPaolumu belladone tué
+01261	Le repos d'une reine	Chasser une Rathian	Temps imparti écouléS'évanouir 3 fois
+01262	Un regard cauchemardesque	Chasser un Paolumu belladone	Temps imparti écouléS'évanouir 3 fois
+01263	Va donc voir ailleurs !	Chasser un Anjanath	Temps imparti écouléS'évanouir 3 fois
+01264	Quintessence royale	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+01271	Vole Paolumu, vole !	Chasser un Paolumu	Temps imparti écouléS'évanouir 3 fois
+01272	Pas de rose sans épines	Chasser une Rathian sakura	Temps imparti écouléS'évanouir 3 fois
+01273	L'eau, c'est la vie	Chasser un Pukei-Pukei corail	Temps imparti écouléS'évanouir 3 fois
+01274	À consommer avec modération	Chasser un Pukei-Pukei corail	Temps imparti écouléS'évanouir 3 fois
+01281	La science dans la peau	Chasser un Radobaan	Temps imparti écouléS'évanouir 3 fois
+01282	À fleurets mouchetés	Tuer tous les monstres	Temps imparti écouléS'évanouir 3 fois
+01291	Une question de radiance	Livrer 20 ambres de Gaïa	Temps imparti écouléS'évanouir 3 fois
+01301	Bizzard, blizzard	Chasser un Barioth	Temps imparti écouléS'évanouir 3 fois
+01302	Ombre omniprésente	Chasser un Nargacuga	Temps imparti écouléS'évanouir 3 fois
+01303	Marquage au fer rouge	Chasser un Glavenus	Temps imparti écouléS'évanouir 3 fois
+01304	Pouvoir absolu	Chasser un Tigrex	Temps imparti écouléS'évanouir 3 fois
+01305	Opération coup de poing	Chasser un Brachydios	Temps imparti écouléS'évanouir 3 fois
+01306	La glace et le feu	Repousser le Velkhana	Temps imparti écouléS'évanouir 3 fois
+01321	Souvenirs, souvenirs	Chasser un Barioth	Temps imparti écouléS'évanouir 3 fois
+01322	Une chambre parfaite, partie 1	Capturer un Tigrex	Temps imparti écouléS'évanouir 3 foisTigrex tué
+01323	Le preux chevalier blanc	Chasser un Barioth	Temps imparti écouléS'évanouir 3 fois
+01331	Arène spéciale : Legiana	Chasser un Legiana	Temps imparti écouléS'évanouir 3 fois
+01332	Arène spéciale : Odogaron	Chasser un Odogaron	Temps imparti écouléS'évanouir 3 fois
+01333	Arène spéciale : Uragaan	Chasser un Uragaan	Temps imparti écouléS'évanouir 3 fois
+01334	Arène spéciale : Rathalos	Chasser un Rathalos	Temps imparti écouléS'évanouir 3 fois
+01335	Arène spéciale : Diablos	Chasser un Diablos	Temps imparti écouléS'évanouir 3 fois
+01336	Arène spéciale : Barioth	Chasser un Barioth	Temps imparti écouléS'évanouir 3 fois
+01337	Arène spéciale : Nargacuga	Chasser un Nargacuga	Temps imparti écouléS'évanouir 3 fois
+01338	Arène spéciale : Glavenus	Chasser un Glavenus	Temps imparti écouléS'évanouir 3 fois
+01339	Arène spéciale : Brachydios	Chasser un Brachydios	Temps imparti écouléS'évanouir 3 fois
+01340	Arène spéciale : Tigrex	Chasser un Tigrex	Temps imparti écouléS'évanouir 3 fois
+01351	Tomber du ciel	Chasser un Rathalos	Temps imparti écouléS'évanouir 3 fois
+01352	Wyverne du vent	Chasser un Nargacuga	Temps imparti écouléS'évanouir 3 fois
+01353	Une lame parfaite	Chasser un Glavenus	Temps imparti écouléS'évanouir 3 fois
+01354	En rouge et noir	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+01361	Traversée du désert	Chasser un Diablos	Temps imparti écouléS'évanouir 3 fois
+01362	Lame fatale	Chasser un Glavenus	Temps imparti écouléS'évanouir 3 fois
+01363	En petits morceaux	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+01371	Legiana abandonné	Chasser un Legiana	Temps imparti écouléS'évanouir 3 fois
+01372	Le vent noir	Chasser un Nargacuga	Temps imparti écouléS'évanouir 3 fois
+01373	Le temps des malheurs	Chasser un Odogaron	Temps imparti écouléS'évanouir 3 fois
+01381	Les yeux plus gros que le ventre	Chasser un Odogaron	Temps imparti écouléS'évanouir 3 fois
+01382	Un rugissement dans le val	Chasser un Tigrex	Temps imparti écouléS'évanouir 3 fois
+01383	Une course détonante	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+01391	Une rencontre explosive	Chasser un Brachydios	Temps imparti écouléS'évanouir 3 fois
+01392	C'est du grand art	Chasser un Lavasioth	Temps imparti écouléS'évanouir 3 fois
+01393	Qui sème le vent récolte l'Uragaan	Chasser un Uragaan	Temps imparti écouléS'évanouir 3 fois
+01394	Un secret visqueux	Capturer un Brachydios	Temps imparti écouléS'évanouir 3 foisBrachydios tué
+01395	Un festival explosif	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+01401	Autant en emporte la brume	Chasser un Legiana blizzard	Temps imparti écouléS'évanouir 3 fois
+01402	Lame de désintégration	Chasser un Glavenus acide	Temps imparti écouléS'évanouir 3 fois
+01403	Mauvais amis, bons ennemis	Chasser un Odogaron désastre	Temps imparti écouléS'évanouir 3 fois
+01404	La défense de Seliana	Compléter la Mission	Temps imparti écouléS'évanouir 3 foisSeliana non défendue
+01405	Fauteur de trouble tonitruant	Chasser un Anjanath tonnerre	Temps imparti écouléS'évanouir 3 fois
+01421	Chasseur de glace	Chasser un Legiana blizzard	Temps imparti écouléS'évanouir 3 fois
+01422	Zizanie dans la toundra	Chasser un Anjanath tonnerre	Temps imparti écouléS'évanouir 3 fois
+01423	À deux, c'est mieux	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+01424	Trésor dans la vapeur	Livrer 2 geysérites	Temps imparti écouléS'évanouir 3 fois
+01431	Arène spéciale : Rathalos azur	Chasser un Rathalos azur	Temps imparti écouléS'évanouir 3 fois
+01432	Arène spéciale : Diablos noire	Chasser une Diablos noire	Temps imparti écouléS'évanouir 3 fois
+01433	Arène spéciale : Glavenus acide	Chasser un Glavenus acide	Temps imparti écouléS'évanouir 3 fois
+01434	Arène spéciale : Odogaron désastre	Chasser un Odogaron désastre	Temps imparti écouléS'évanouir 3 fois
+01435	Arène spéciale : Anjanath tonnerre	Chasser un Anjanath tonnerre	Temps imparti écouléS'évanouir 3 fois
+01451	Les yeux azur voient tout	Chasser un Rathalos azur	Temps imparti écouléS'évanouir 3 fois
+01452	Malchance forestière	Chasser un Odogaron désastre	Temps imparti écouléS'évanouir 3 fois
+01461	Un amour imaginaire	Chasser une Diablos noire	Temps imparti écouléS'évanouir 3 fois
+01462	Noir c'est noir	Chasser une Diablos noire	Temps imparti écouléS'évanouir 3 fois
+01471	Offense ténébreuse	Chasser un Odogaron désastre	Temps imparti écouléS'évanouir 3 fois
+01481	Cette lame rongée	Chasser un Glavenus acide	Temps imparti écouléS'évanouir 3 fois
+01482	Une chambre parfaite, partie 2	Capturer un Glavenus acide	Temps imparti écouléS'évanouir 3 foisGlavenus acide tué
+01483	Une chambre parfaite, partie 3	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+01491	Le blues du Rathalos bleu	Chasser un Rathalos azur	Temps imparti écouléS'évanouir 3 fois
+01492	Il y a de l'orage dans l'air	Capturer un Anjanath tonnerre	Temps imparti écouléS'évanouir 3 foisAnjanath tonnerre tué
+01501	La wyverne de glace	Tuer un Velkhana	Temps imparti écouléS'évanouir 3 fois
+01502	Une impression de déjà-vu	Chasser un Bazelgeuse vulcan	Temps imparti écouléS'évanouir 3 fois
+01503	Sous le voile de la mort	Tuer un Vaal Hazak fléau	Temps imparti écouléS'évanouir 3 fois
+01504	La lueur des abysses	Tuer un Namielle	Temps imparti écouléS'évanouir 3 fois
+01521	Fracas d'épées sur le givre	Tuer un Velkhana	Temps imparti écouléS'évanouir 3 fois
+01551	Le messager des cieux	Abattre un Kushala Daora	Temps imparti écouléS'évanouir 3 fois
+01552	Quand la mort frappe à la porte	Tuer un Vaal Hazak fléau	Temps imparti écouléS'évanouir 3 fois
+01561	Audience royale sur le sable	Abattre un Teostra	Temps imparti écouléS'évanouir 3 fois
+01562	Le banquet du tyran	Chasser un Deviljho carnage	Temps imparti écouléS'évanouir 3 fois
+01571	La foudre frappe	Tuer un Kirin	Temps imparti écouléS'évanouir 3 fois
+01572	Souvenirs du Dieu de la mer	Tuer un Namielle	Temps imparti écouléS'évanouir 3 fois
+01581	Le dévoreur de mort	Tuer un Vaal Hazak fléau	Temps imparti écouléS'évanouir 3 fois
+01591	Les ailes du vent	Abattre un Kushala Daora	Temps imparti écouléS'évanouir 3 fois
+01592	La marque du soleil	Abattre un Teostra	Temps imparti écouléS'évanouir 3 fois
+01593	Bouillonnant de colère	Chasser un Bazelgeuse vulcan	Temps imparti écouléS'évanouir 3 fois
+01594	Une chambre parfaite, partie 4	Capturer un Bazelgeuse vulcan	Temps imparti écouléS'évanouir 3 foisBazelgeuse vulcan tué
+01601	L'ode aux élus	Compléter la mission	Temps imparti écouléS'évanouir 3 fois
+01602	Le dernier chant	Compléter la mission	Temps imparti écouléS'évanouir 3 fois
+01603	Sommeil de feu	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+01604	Branle-bas de combat	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+01605	Qui s'y frotte s'y pique	Abattre un Nergigante chaos	Temps imparti écouléS'évanouir 3 fois
+01606	Le retour du monstre fou	Chasser un Yian Garuga	Temps imparti écouléS'évanouir 3 fois
+01631	Les seigneurs	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+01632	Arène spéciale : Zinogre	Chasser un Zinogre	Temps imparti écouléS'évanouir 3 fois
+01633	Arène spéciale : Yian Garuga	Chasser un Yian Garuga	Temps imparti écouléS'évanouir 3 fois
+01634	Arène spéciale : Tigrex berserk	Chasser un Tigrex berserk	Temps imparti écouléS'évanouir 3 fois
+01635	Arène spéciale : Rathian d'or	Chasser une Rathian d'or	Temps imparti écouléS'évanouir 3 fois
+01636	Arène spéciale : Rathalos d'argent	Chasser un Rathalos d'argent	Temps imparti écouléS'évanouir 3 fois
+01641	Lointaine Lorelei	Tuer un Shara Ishvalda	Temps imparti écouléS'évanouir 3 fois
+01642	L'hymne à la lune et au soleil	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+01651	Une tempête dans un verre d'eau	Tuer tous les monstres	Temps imparti écouléS'évanouir 3 fois
+01661	Chaude nuit dans le désert	Tuer une Lunastra	Temps imparti écouléS'évanouir 3 fois
+01671	Afflux divin	Tuer tous les monstres	Temps imparti écouléS'évanouir 3 fois
+01691	Dans le palais des flammes	Tuer une Lunastra	Temps imparti écouléS'évanouir 3 fois
+01692	Maître chasseur du Nouveau Monde	Tuer tous les monstres	Temps imparti écouléS'évanouir 3 fois
+03001	Quête Arène 02	Tuer un Kulu-Ya-Ku	Temps imparti écouléS'évanouir 9 fois
+03002	Quête Arène 03	Tuer une Rathian	Temps imparti écouléS'évanouir 9 fois
+03031	Quête Arène 04	Tuer un Tzitzi-Ya-Ku	Temps imparti écouléS'évanouir 9 fois
+03032	Quête Arène 05	Tuer un Barroth	Temps imparti écouléS'évanouir 9 fois
+03033	Quête Arène 06	Tuer un Dodogama	Temps imparti écouléS'évanouir 9 fois
+03034	Quête Arène 07	Tuer un Rathalos azur	Temps imparti écouléS'évanouir 9 fois
+03051	Quête Arène 08	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
+03052	Quête Arène 09	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
+03071	Quête Arène 02 - Rang Maître	Tuer un Paolumu belladone	Temps imparti écouléS'évanouir 9 fois
+03072	Quête Arène 03 - Rang Maître	Tuer un Nargacuga	Temps imparti écouléS'évanouir 9 fois
+03073	Quête Arène 04 - Rang Maître	Tuer un Glavenus acide	Temps imparti écouléS'évanouir 9 fois
+03074	Quête Arène 05 - Rang Maître	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
+03091	Quête Arène 06 - Rang Maître	Tuer un Zinogre	Temps imparti écouléS'évanouir 9 fois
+03092	Quête Arène 07 - Rang Maître	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
+03101	Quête Arène 01	Tuer un Pukei-Pukei	Temps imparti écouléS'évanouir 9 fois
+03171	Quête Arène 01 - Rang Maître	Tuer un Banbaro	Temps imparti écouléS'évanouir 9 fois
+05003	Minoustrels en détresse	Chasser 2 Tzitzi-Ya-Ku	Temps imparti écouléS'évanouir 3 fois
+0	Invalid Message	Invalid Message	Invalid Message
+30000	Unavailable	Unavailable	Unavailable
+30001	Unavailable	Unavailable	Unavailable
+30002	Unavailable	Unavailable	Unavailable
+30003	Unavailable	Unavailable	Unavailable
+30004	Unavailable	Unavailable	Unavailable
+30005	Unavailable	Unavailable	Unavailable
+30006	Unavailable	Unavailable	Unavailable
+30007	Unavailable	Unavailable	Unavailable
+30008	Unavailable	Unavailable	Unavailable
+30009	Unavailable	Unavailable	Unavailable
+50601	Visiteur d'un autre monde	Compléter la mission	Temps imparti écouléS'évanouir 3 fois
+50701	Le tyran de la chaîne alimentaire	Chasser un Deviljho	Temps imparti écouléS'évanouir 3 fois
+50702	Invalid Message	Invalid Message	Invalid Message
+50751	Plat du jour : Brochette de chasseur	Chasser un Deviljho	Temps imparti écouléS'évanouir 3 fois
+50801	Soleil de feu	Tuer le Teostra	Temps imparti écouléS'évanouir 3 fois
+50802	L'Arène de Pandore	Compléter la mission	Temps imparti écouléS'évanouir 3 fois
+50803	Absolutum dominium	Tuer tous les monstres	Temps imparti écouléS'évanouir 3 fois
+50831	Unavailable	Unavailable	Unavailable
+50861	Monarchie infernale	Tuer tous les monstres	Temps imparti écouléS'évanouir 3 fois
+50891	Souveraine bleue	Tuer la Lunastra	Temps imparti écouléS'évanouir 3 fois
+50892	Souveraine bleue	Tuer la Lunastra	Temps imparti écouléS'évanouir 3 fois
+50901	Banquet de la Déesse mère	Repousser la Kulve Taroth	Temps imparti écouléS'évanouir 3 fois
+50902	La colère d'El Dorado	Repousser la Kulve Taroth	Temps imparti écouléS'évanouir 3 fois
+50905	La bête légendaire	Compléter la mission	Temps imparti écouléS'évanouir 9 fois
+50906	Défi : contre-traque	Tuer le Béhémoth	Temps imparti écouléS'évanouir 3 fois
+50910	Contrat : Imbroglio dans la Forêt ancienne	Compléter la Mission Spéciale	Temps imparti écouléS'évanouir 3 fois
+50991	Le visiteur d'Éorzéa	Tuer le Béhémoth	Temps imparti écouléS'évanouir 3 fois
+50992	Invalid Message	Invalid Message	Invalid Message
+51601	Montre ton visage, Destructeur	Compléter la mission	Temps imparti écouléS'évanouir 3 fois
+51602	On achève bien les chevaux	Tuer un Kirin	Temps imparti écouléS'évanouir 3 fois
+51603	Sortir des sentiers battus	Compléter la mission	Temps imparti écouléS'évanouir 3 fois
+51604	Point de non-retour	Compléter la mission	Temps imparti écouléS'évanouir 3 fois
+51605	Le Dragon rouge	Tuer le Safi'jiiva	Temps imparti écouléS'évanouir 3 fois
+51606	Qui sème le vent récolte la tempête	Tuer un Brachydios tempête	Temps imparti écouléS'évanouir 3 fois
+51607	De l’orage dans l’air	Chasser un Rajang orage	Temps imparti écouléS'évanouir 3 fois
+51611	Unavailable	Unavailable	Unavailable
+51612	Unavailable	Unavailable	Unavailable
+51621	Arène spéciale : Zinogre stygien	Chasser un Zinogre stygien	Temps imparti écouléS'évanouir 3 fois
+51622	Cœur blessé	Tuer un Brachydios tempête	Temps imparti écouléS'évanouir 3 fois
+51623	Tout ce qui brille n'est pas d'or	Chasser un Rajang orage	Temps imparti écouléS'évanouir 3 fois
+51624	Unavailable	Unavailable	Unavailable
+51625	Unavailable	Unavailable	Unavailable
+61101	Réveil à l'aube	Tuer 12 Kestodon	Temps imparti écouléS'évanouir 3 fois
+61103	Soleil et lune	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+61104	Zizanie dans la forêt	Chasser 2 Anjanath	Temps imparti écouléS'évanouir 3 fois
+61105	Le rêve de tous les chasseurs	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+61601	Chaos de minuit	Tuer 10 Gastodon	Temps imparti écouléS'évanouir 3 fois
+61603	Tracas royal	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+61604	Le roi sans peur	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+61605	La Saint Cochon	Tuer 5 Mosswine	Temps imparti écouléS'évanouir 9 fois
+61606	Le plus grand des Jagras	Chasser un Grand Jagras	Temps imparti écouléS'évanouir 3 fois
+61607	Mon nom est Lavasioth !	Chasser un Lavasioth	Temps imparti écouléS'évanouir 3 fois
+61801	L'argent n'a pas d'odeur	Livrer 6 singes d'argent	Temps imparti écouléS'évanouir 3 fois
+61802	Le rêve de tous les chasseurs III	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+61803	Le rêve de tous les chasseurs II	Capturer un Pukei-Pukei corail	Temps imparti écouléS'évanouir 3 foisPukei-Pukei corail tué
+61805	S'y prendre comme un manchot	Livrer 8 manchots fourre-tout	Temps imparti écouléS'évanouir 3 fois
+61806	Une bonne pioche	Chasser un Brachydios	Temps imparti écouléS'évanouir 3 fois
+61807	Le froid et la frayeur	Tuer tous les monstres	Temps imparti écouléS'évanouir 3 fois
+61808	La folie des muscles	Chasser 2 Rajang	Temps imparti écouléS'évanouir 3 fois
+61809	Berceuse Paolumu	Chasser un Paolumu belladone	Temps imparti écouléS'évanouir 9 fois
+61811	Fleur de neige	Livrer 10 fleurs de glace	Temps imparti écouléS'évanouir 3 fois
+61812	C'est du tout cuit !	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+61813	Cinquante nuances de blanc	Chasser un Barioth	Temps imparti écouléS'évanouir 3 fois
+61814	L'éclair et la foudre	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+62502	L'ombre silencieuse de la mort	Tuer le Vaal Hazak	Temps imparti écouléS'évanouir 3 fois
+62503	Crinière blanche	Tuer le Kirin	Temps imparti écouléS'évanouir 3 fois
+62504	Le dédain du soleil	Tuer le Teostra	Temps imparti écouléS'évanouir 3 fois
+62505	L'œil du cyclone	Tuer le Kushala Daora	Temps imparti écouléS'évanouir 3 fois
+62506	Le héraut de la destruction	Tuer le Nergigante	Temps imparti écouléS'évanouir 3 fois
+62511	Passion bleue et volupté rouge	Tuer la Lunastra	Temps imparti écouléS'évanouir 3 fois
+62515	Un souvenir impérissable	Chasser un Deviljho	Temps imparti écouléS'évanouir 3 fois
+62606	Crépuscule éternel	Guider le Zorah Magdaros	Temps imparti écouléS'évanouir 3 foisZorah Magdaros non guidé
+62607	Comme un papillon vers une flamme	Tuer le Xeno'jiiva	Temps imparti écouléS'évanouir 3 fois
+62608	Regard sur l'aube	Guider le Zorah Magdaros	Temps imparti écouléS'évanouir 3 foisZorah Magdaros non guidé
+62609	Gardien d'Outre-tombe	Abattre le Xeno'jiiva	Temps imparti écouléS'évanouir 3 fois
+63001	Quête Défi 1 : Débutant	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
+63002	Quête Défi 2 : Débutant	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
+63003	Infestation de Vespoid !	Tuer 30 Vespoid	Temps imparti écouléS'évanouir 9 fois
+63004	De boue, le poing levé	Tuer un Barroth	Temps imparti écouléS'évanouir 9 fois
+63005	Défi USJ : Débutant	Tuer un Kulu-Ya-Ku	Temps imparti écouléS'évanouir 9 fois
+63006	Défi USJ : Expert	Tuer une Rathian	Temps imparti écouléS'évanouir 9 fois
+63007	Défi USJ : Débutant	Tuer un Tzitzi-Ya-Ku	Temps imparti écouléS'évanouir 9 fois
+63008	Défi USJ : Expert	Tuer un Rathalos	Temps imparti écouléS'évanouir 9 fois
+63009	De boue, le poing levé	Tuer un Barroth	Temps imparti écouléS'évanouir 9 fois
+63031	Quête Défi 1 : Intermédiaire	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
+63032	Quête Défi 2 : Intermédiaire	Tuer 2 Odogaron	Temps imparti écouléS'évanouir 9 fois
+63033	Gajalaka à gogo	Vaincre 10 Gajalaka	Temps imparti écouléS'évanouir 9 fois
+63034	Le véritable satsui no hado	Tuer le Nergigante	Temps imparti écouléS'évanouir 9 fois
+63035	Le véritable satsui no hado II	Tuer le Nergigante	Temps imparti écouléS'évanouir 9 fois
+63036	Le véritable satsui no hado III	Tuer le Nergigante	Temps imparti écouléS'évanouir 9 fois
+63037	Impératrice en fleur	Tuer la Rathian sakura	Temps imparti écouléS'évanouir 9 fois
+63038	Impératrice en fleur II	Tuer la Rathian sakura	Temps imparti écouléS'évanouir 9 fois
+63039	Impératrice en fleur III	Tuer la Rathian sakura	Temps imparti écouléS'évanouir 9 fois
+63051	Quête Défi 1 : Expert	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
+63052	Quête Défi 2 : Expert	Tuer le Nergigante	Temps imparti écouléS'évanouir 9 fois
+63071	Quête Défi 1 : Intermédiaire (Rang Maître)	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
+63072	Quête Défi 2 : Intermédiaire (Rang Maître)	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
+63073	Quête Défi 1 : Expert (Rang Maître)	Tuer un Yian Garuga	Temps imparti écouléS'évanouir 9 fois
+63074	Quête Défi 2 : Expert (Rang Maître)	Tuer un Deviljho carnage	Temps imparti écouléS'évanouir 9 fois
+63101	Arrêt de mort : Nergigante	Tuer le Nergigante	Temps imparti écouléS'évanouir 9 fois
+63102	Arrêt de mort : Nergigante 2	Tuer le Nergigante	Temps imparti écouléS'évanouir 9 fois
+63103	Arrêt de mort : Nergigante 3	Tuer le Nergigante	Temps imparti écouléS'évanouir 9 fois
+63104	Arrêt de mort : Vent et griffes 1	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
+63105	Arrêt de mort : Vent et griffes 2	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
+63106	Arrêt de mort : Vent et griffes 3	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
+63107	Arrêt de mort : Nergigante 4	Tuer le Nergigante	Temps imparti écouléS'évanouir 9 fois
+63108	Arrêt de mort : Deviljho	Tuer un Deviljho	Temps imparti écouléS'évanouir 9 fois
+63109	Best of the Best	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
+63110	Celui qui rôde dans la forêt	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
+63130	La loi de la guerre	Tuer un Bazelgeuse	Temps imparti écouléS'évanouir 9 fois
+63131	La chasse à l'Impératrice bleue	Tuer une Lunastra	Temps imparti écouléS'évanouir 9 fois
+63142	Adieu à la glace	Tuer un Velkhana	Temps imparti écouléS'évanouir 9 fois
+64101	Désert en désordre	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+64601	Autant en emporte l'Uragaan	Chasser 2 Uragaan	Temps imparti écouléS'évanouir 3 fois
+64801	À fond les ballons !	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+64802	Ménage de printemps	Chasser un bazelgeuse vulcan	Temps imparti écouléS'évanouir 3 fois
+65601	Shamos à chamoiser	Chasser 13 Shamos	Temps imparti écouléS'évanouir 3 fois
+65602	À l'épreuve des flashs	Chasser 3 Tzitzi-Ya-Ku	Temps imparti écouléS'évanouir 3 fois
+65603	Le cercle des amateurs d'œufs	Chasser un Kulu-Ya-Ku	Temps imparti écouléS'évanouir 3 fois
+65604	Il n'y a pas à tortiller	Livrer 10 tortilleurs	Temps imparti écouléS'évanouir 3 fois
+65605	Menace triple	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+65606	Une tâche aisée	Livrer 10 champignons délicats	Temps imparti écouléS'évanouir 3 fois
+65607	Suivi de livraison	Livrer 10 béryls bleus	Temps imparti écouléS'évanouir 3 fois
+66101	Gras-double	Chasser 2 Grands Jagras	Temps imparti écouléS'évanouir 3 fois
+66102	Ya-Ku... y a quoi ?	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66103	Un autre tas d'os à ronger	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66104	Un Kirin peut en cacher un autre	Tuer 2 Kirin	Temps imparti écouléS'évanouir 3 fois
+66105	Poisons volants	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66106	Pas de pitié pour les gloutons	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66601	Blues au vert	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66602	Boléro du désert	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66603	Valse de corail	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66604	Opéra miasmique	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66605	Rock'n'Roll Attitude	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66606	Vive la révolution !	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66607	Neige et fleurs de cerisiers	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66608	La loi du talion	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66609	Pas de pitié pour les imposteurs	Chasser un Bazelgeuse	Temps imparti écouléS'évanouir 3 fois
+66610	L'usurpateur	Tuer tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66801	Le bon et le mauvais pêcheur	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66802	Le fruit défendu	Livrer 20 fruits souterrains	Temps imparti écouléS'évanouir 3 fois
+66803	Adaptation naturelle	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66804	Desserts du désert	Livrer 20 fruits fibreux	Temps imparti écouléS'évanouir 3 fois
+66805	Ça va cogner	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66806	Carnaval de couleurs	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66807	Tu parles d'un boulet !	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66808	Dans le feu de l'action	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66809	Une expérience curieuse	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66810	C'est une belle journée	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66811	Gros mais costauds !	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66812	La traversée du désert	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66813	L'arbre qui cache la forêt	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66814	Guerre sans merci	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66815	Le Triumvirat	Tuer tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66816	Mélancolie d'hiver	Tuer tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66817	L'estomac dans les talons	Chasser un Deviljho carnage	Temps imparti écouléS'évanouir 3 fois
+66818	Hurlement au clair de lune	Chasser un Zinogre	Temps imparti écouléS'évanouir 3 fois
+66819	Motus et bouche cousue !	Chasser un Yian Garuga	Temps imparti écouléS'évanouir 3 fois
+66820	Métal hurlant	Chasser un Tigrex berserk	Temps imparti écouléS'évanouir 3 fois
+66821	La couleur de l'argent	Chasser un Rathalos d'argent	Temps imparti écouléS'évanouir 3 fois
+66822	La lune est une reine cruelle	Chasser une Rathian d'or	Temps imparti écouléS'évanouir 3 fois
+66824	Foudre de guerre	Chasser un Rajang	Temps imparti écouléS'évanouir 3 fois
+66825	Pas d'héroïsme sans cicatrices	Chasser un Yian Garuga balafré	Temps imparti écouléS'évanouir 3 fois
+66826	Yodel forestier	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66827	Heavy metal dans le désert	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66828	Symphonie corallienne	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66829	Canzone du val	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66830	Rock alternatif à l'ancienne	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66831	Ballade de glace	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66832	Le coup de foudre	Chasser un Zinogre stygien	Temps imparti écouléS'évanouir 3 fois
+66834	Vitesse et rugissement	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66835	La colère du tonnerre	Chasser un Zinogre	Temps imparti écouléS'évanouir 3 fois
+66836	Ode à la destruction	Tuer un Nergigante chaos	Temps imparti écouléS'évanouir 3 fois
+67101	L'Éclosion	Chasser un Anjanath	Temps imparti écouléS'évanouir 3 fois
+67102	Leçon des terres sauvages	Tuer 8 Barnos	Temps imparti écouléS'évanouir 3 fois
+67103	Sang pour Sang	Chasser 2 Odogaron	Temps imparti écouléS'évanouir 3 fois
+67105	USJ : Traitement de star	Chasser 3 Grands Jagras	Temps imparti écouléS'évanouir 3 fois
+67106	USJ : Traitement de star	Chasser 3 Grands Jagras	Temps imparti écouléS'évanouir 3 fois
+67603	Les étoiles flamboyantes d'USJ !	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+67604	Les étoiles flamboyantes d'USJ !	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+67605	Code rouge	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+67606	Le visiteur d'Éorzéa (extrême)	Tuer le Béhémoth	Temps imparti écouléS'évanouir 3 fois
+67607	Le cœur des Noras	Chasser 2 Deviljho	Temps imparti écouléS'évanouir 3 fois
+67608	Silencieux, mortel, et intense	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+67610	Contrat : esprit de la forêt	Tuer le vieux leshen	Temps imparti écouléS'évanouir 3 fois
+67801	RE : Retour de l'arme biologique	Tuer un Vaal Hazak fléau	Temps imparti écouléS'évanouir 3 fois

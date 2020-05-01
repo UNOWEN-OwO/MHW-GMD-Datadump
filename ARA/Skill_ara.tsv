@@ -1,0 +1,225 @@
+Skill ID	Skill Code	Skill Name	Skill Desc
+0	DUMMY000000	Unavailable	Unavailable
+1	G_PT_POISON_RESIST_SKILL_PT	مقاومة السم	تقلل الضرر عند الإصابة بالسم.
+2	PT_PARALYSIS_RESIST_SKILL_PT	مقاومة الشلل	تقلل فترة الإصابة بالشلل.
+3	PT_SLEEP_RESIST_SKILL_PT	مقاومة النوم	تقلل فترة النوم.
+4	PT_STUN_RESIST_SKILL_PT	مقاومة الصعق	تقلل فترة تأثير الصعق.
+5	PT_DARUMA_RESIST_SKILL_PT	مقاومة الوحل	تقلل ضعف الحركةأثناء الصعق في وحل الوحش.
+6	PT_BOMB_RES_SKILL_PT	مقاومة الانفجار	توفر الحماية من الانفجار.
+7	PT_PT_SCAR_RES_SKILL_PT	مقاومة النزيف	توفر الوقاية من النزيف.
+8	PT_DEFDOWN_RESIST_SKILL_PT	الجلد الحديدي	توفر الوقاية من إضعاف الدفاع.
+9	DUMMY000003	Unavailable	Unavailable
+10	DUMMY000006	Unavailable	Unavailable
+11	PT_EARPLUG_SKILL_PT	سدادات الأذن	توفر الحماية من بعضأصوات زئير الوحوش الضخمة.
+12	PT_HUUATU_SKILL_PT	صد الرياح	توفر الحماية من ضغط الرياح.
+13	PT_EATHQUAKE_RESIST_SKILL_PT	مقاومة الزلزال	توفر الحماية من الهزّات الأرضية.
+14	PT_UNKO_SKILL_PT	سيد الروث	تتسبب في فرار الوحوشعند إصابتهم بـكبسولاتالروث بـنبلة المعصم.
+15	DUMMY000009	Unavailable	Unavailable
+16	PT_MIASMA_ADAPT_SKILL_PT	خبير الروائح	تبطل تأثير الأضرار البيئيةأو تقللها في الوادي المتعفن.
+17	PT_ADAPT_SKILL_PT	تصدي الحرارة	تبطل الضرر الناجم عن الحرارة.
+18	DUMMY000012	Unavailable	Unavailable
+19	PT_ATK_SKILL_PT	تعزيز الهجوم	تزيد من قوة الهجوم.وتحسن النسبة في مستويات أعلى.
+20	PT_DEF_SKILL_PT	تعزيز الدفاع	تزيد من الهجمات.انتقل إلى المستوى التاليلتحسين المقاومة كذلك.
+21	PT_VIT_SKILL_PT	تعزيز الصحة	تزيد من الصحة.
+22	PT_HEEL_SKILL_PT	زيادة التعافي	تزيد من النسبة المستردّةعند استعادة الصحة.
+23	PT_HEEL_SPEED_SKILL_PT	سرعة التعافي	تسرّع الشفاء من الضررالقابل للتعافي (الجزء الأحمر منمقياس الصحة).
+24	PT_FIRE_RESIST_SKILL_PT	مقاومة النار	تزيد مقاومة النار.وتحسن الدفاع في مستويات أعلى.
+25	PT_WATER_RESIST_SKILL_PT	مقاومة الماء	تزيد مقاومة الماء.وتحسن الدفاع في مستويات أعلى.
+26	PT_ICE_RESIST_SKILL_PT	مقاومة الثلج	تزيد مقاومة الثلج.وتحسن الدفاع في مستويات أعلى.
+27	PT_THUNDER_RESIST_SKILL_PT	مقاومة الرعد	تزيد مقاومة الرعد.وتحسن الدفاع في مستويات أعلى.
+28	PT_DRAGON_RESIST_SKILL_PT	مقاومة التنين	تزيد مقاومة التنين.وتحسن الدفاع في مستويات أعلى.
+29	PT_ATT_RESIST_SKILL_PT	مقاومة الوباء	توفر الحماية من كلالأوبئة العنصرية.
+30	PT_FIRE_ATK_SKILL_PT	هجوم النار	يزيد من قوة هجوم عنصر النار.(للاشتداد العنصري حد أقصى.)
+31	PT_WATER_ATK_SKILL_PT	هجوم الماء	يزيد من قوة هجوم عنصر الماء.(للاشتداد العنصري حد أقصى.)
+32	PT_ICE_ATK_SKILL_PT	هجوم الثلج	تزيد من قوة هجمات الثلج.
+33	PT_THUNDER_ATK_SKILL_PT	هجوم الرعد	تزيد من قوة هجمات الرعد.
+34	PT_DRAGON_ATK_SKILL_PT	هجوم التنين	تزيد من قوة هجمات التنين.
+35	PT_POISON_ATK_SKILL_PT	هجوم السم	يزيد من اشتداد السم.(للاشتداد العنصري حد أقصى.)
+36	PT_PARALYSIS_ATK_SKILL_PT	هجوم الشلل	يزيد من معدل اشتداد الشلل.(للاشتداد العنصري حد أقصى.)
+37	PT_SLEEP_ATK_SKILL_PT	هجوم النوم	يزيد من اشتداد النوم.
+38	PT_BLAST_ATK_SKILL_PT	هجوم الانفجار	يزيد من اشتداد الانفجار.
+39	PT_NORMAL_UP_SKILL_PT	طلقات عادية	تزيد من قوة هجوم الذخيرةالعادية والسهام العادية.
+40	PT_PIERCE_UP_SKILL_PT	طلقات الثقب	تزيد قوة هجوم ذخيرة الثقبوثاقب التنين.
+41	PT_SPREAD_UP_G_SKILL_PT	طلقات القوة/الانتشار	تزيد قوة هجوم الذخيرةالمنتشرة وسهام طلقة القوةوالألف تنين.
+42	PT_ADD_POISONBIN_SKILL_PT	خاصية السم	تتيح لك استخدام أغطية السم.
+43	PT_ADD_PARALYSISBIN_SKILL_PT	خاصية الشلل	تتيح لك استخدام أغطية الشلل.
+44	PT_ADD_SLEEPBIN_SKILL_PT	خاصية النوم	تتيح لك استخدام أغطية النوم.
+45	DUMMY000015	Unavailable	Unavailable
+46	PT_ADD_BOMBBIN_SKILL_PT	خاصية الانفجار	تتيح لك استخدام أغطية الانفجار.
+47	PT_AWAKE_SKILL_PT	عنصر حرّ/زيادة الذخيرة	تفتح عنصر سلاحك الخفي. وأيضًاتزيد من سعة تلقيم بندقية القوسالخاصة بك.(هناك حد أقصى لسعة التلقيم.)
+48	PT_CRI_SKILL_PT	عين الحسم	تزيد من النسبة.
+49	PT_SUPER_CRI_SKILL_PT	تعزيز الحسم	يزيد من أضرار الضربات الخطيرة.
+50	PT_WEAK_ATK_SKILL_PT	استغلال نقاط الضعف	تزيد من نسبة الهجماتالتي تستغل نقاط ضعف الوحش.
+51	DUMMY000018	Unavailable	Unavailable
+52	PT_CONCENTRATION_SKILL_PT	التركيز	تزيد من معدّل حشو الأسلحةذات المقاييس ومعدّل الشحنفي الأسلحة ذات الهجمات المشحونة.
+53	PT_KEEP_SKILL_PT	إطالة أمد القوة	تسمح ببقاء السيوف الطويلة والنصال المزدوجةوسيوف الحشرات عريضة النصال وفؤوس السيفوالنصال المشحونة مفعّلة لفترة أطول.
+54	PT_TAKUMI_SKILL_PT	حرفية	تزيد من مقياس شحذ الأسلحة.إلا أنها لن تؤدي إلى تجاوزالمقياس للحد الأقصى.
+55	PT_BATTO_WAZA_SKILL_PT	السحب الحرج	تزيد من النسبة عند شنهجمات السحب.
+56	PT_CRUSH_SKILL_PT	كاسر الأجزاء	تسهّل عملية قطعوبتر أجزاء الوحوش الضخمة.
+57	PT_KO_SKILL_PT	الملاكم الشرس	تسهّل من صعق الوحوش.
+58	PT_STAMINA_DMG_SKILL_PT	سرقة قوة التحمل	تزيد من قوة هجمات محددةلإنهاك الوحوش.
+59	PT_NORI_SKILL_PT	سيد الامتطاء	تسهّل من امتطاء الوحوش.
+60	PT_HIEN_SKILL_PT	هجمات جوّية	تزيد من الضرر الناجمعن هجمات أثناء القفز.
+61	PT_POWER_AWAKE_SKILL_PT	القوة الكامنة	تزيد مؤقتًا من النسبة وتقلل مناستنزاف قوة التحمل عنداستيفاء بعض الشروط.
+62	PT_CHALLENGER_SKILL_PT	المشاغب	تزيد من قوة الهجوم والنسبةعند إثارة غضب الوحوش الضخمة.
+63	PT_FULL_CHARGE_SKILL_PT	ذروة الأداء	تزيد من الهجوم عنداكتمال مقياس صحتك.
+64	PT_KAZIBA_SKILL_PT	أعمال بطولية	تزيد من قوة الهجوم ومن الدفاععند انخفاض مقياس الصحةإلى 35% أو أقل.
+65	PT_HUKUTU_G_SKILL_PT	التحصّن	تزيد من الهجوم والدفاع مؤقتًاكلما فقدت الوعي.مرتان كحد أقصى.
+66	PT_SAKAURAMI_SKILL_PT	الاستياء	تزيد من الهجوم عند إصابتكبضرر قابل للتعافي (الجزء الأحمرمن مقياس الصحة الخاص بك).
+67	PT_KATSU_SKILL_PT	الإعاشة	تزيد من التفادي وتقللمن استنزاف قوة التحمل عند التعرضلتأثيرات غريبة للوضعية.
+68	PT_HUE_SKILL_PT	قرن الملحّن	تطيل مدة تأثير ألحانقرن الصيد.
+69	PT_LOAD_UP_SKILL_PT	تعزيز السعة	تزيد من سعة قذيفةبندقية الرمح وسعةقارورة النصل المشحون.
+70	PT_EXBULLET_UP_G_SKILL_PT	تعزيز الذخيرة الخاصة	زيادة قوة الذخيرة الخاصةببندقية القوس وثاقب التنينوالألف تنين.
+71	PT_CANNON_SKILL_PT	المدفعية	تعزز الهجمات المتفجرة مثل قذائف بندقيةالرماح، ونيران التنين المجنح، وهجماتقارورة النصل المشحون، والذخيرة اللزجة.
+72	PT_GUNNER_SKILL_PT	المدفعية الثقيلة	تزيد من القوة النارية للباليستاوالمدافع.
+73	PT_RUNNER_SKILL_PT	عداء ماراثون	يبطئ استنزاف قوة التحملفي الحركات التي تستنزفقوة التحمل باستمرار (مثل الاندفاع).
+74	PT_GYM_SKILL_PT	بنية الجسم	تقلل استنزاف قوة التحملعند أداء حركات استنزاف قوةالتحمل مثل التفادي، الخ.
+75	PT_JUMP_SKILL_PT	قفزة الثقة	تتيح لك التملص من الوحوش الضخمةعن طريق القفز تجاههم، كما تزيدمن مسافة القفزة.
+76	PT_STAMINA_SPEED_SKILL_PT	اندفاع قوة التحمل	تسرّع استعادة قوة التحمل.
+77	G_PT_HUNGER_SKILL_PT	مقاومة الجوع	تقلل استنزاف قوة التحمل القصوى بمرورالوقت. ولكن لا تعمل ضدالبيئات الباردة التي تقلل من قوة التحمل.
+78	PT_AVOID_UP_SKILL_PT	فترة التفادي	تطيل مدةالمناعة عند التفادي.
+79	PT_AVOID_DISTANCE_SKILL_PT	توسيع مدى التفادي	تزيد من مدى التفادي.
+80	PT_GUARD_UP_SKILL_PT	التصدي	يقلل من التراجع واستنزافقوة التحمل أثناء الدفاع.
+81	PT_NOUTOU_SPEED_SKILL_PT	الغمد السريع	تسرّع غمد السلاح.
+82	PT_WIDE_SKILL_PT	المدى الكبير	تجعل تأثيرات بعض العناصرتشمل الحلفاء المجاورين.
+83	PT__ITEM_UP_SKILL_PT	تمديد العنصر	تطيل مدة بعض تأثيرات العناصر.
+84	PT_MANZOK_SKILL_PT	وجبة مجانية	تمنحك فرصة محددة سلفًالاستهلاك عنصر طعامأو شراب مجانًا.
+85	PT_HAYAGUI_SKILL_PT	الأكل السريع	تزيد من سرعة تناول اللحمواستهلاك العناصر.
+86	PT_TOISI_SPEED_SKILL_PT	الشحذ السريع	تسرّع شحذ الأسلحةعند استخدام حجر الشحذ.
+87	DUMMY000021	Unavailable	Unavailable
+88	PT_BOMBER_SKILL_PT	المدفعي	تزيد من ضرر العناصر المتفجرة.
+89	DUMMY000024	Unavailable	Unavailable
+90	PT_KINOKO_LOVER_SKILL_PT	آكل الفطر	تسمح لك بهضم الفطر الذيلولا ذلك يكون غير قابل للأكلوربح تأثيراته المتميزة.
+91	PT_FISHING_SKILL_PT	صيّاد السمك المُعلّم	تحسّن من مهارة صيد السمك.
+92	PT_STEAK_SKILL_PT	سيد الشواء	تحسّن من مهارة طهي اللحم.
+93	PT_TRANSPORTER_SKILL_PT	الناقل المحترف	تزيد من سرعتك أثناءنقل العناصر وتقلل مناحتمالية إسقاطها.
+94	PT_SAISYU_SKILL_PT	الجامع المُعلّم	تسمح لك بالجمع أسرعوتمنع الهجمات من إطاحتكإلى الخلف أثناء الجمع.
+95	PT_HONEY_HUNTER_SKILL_PT	صيّاد العسل	تزيد من كمية العسلالمتلقى عند التجميع من الحقل.
+96	PT_HAGI_IRON_SKILL_PT	محترف التقطيع	تمنع التراجععن الهجمات أثناء التقطيع.
+97	PT_BREATH_SKILL_PT	المباركة المقدسة	تمنح فرصة محددة سلفًالتقليل تأثير الضرر الذي يصيبك.
+98	PT_OTOMO_LEADER_SKILL_PT	حشد باليكو	زيادة قوة الباليكو
+99	PT_BOTANY_SKILL_PT	عالمة النبات	تزيد من كمية الأعشابوالعناصر الاستهلاكية الأخرىالتي تجمعها.
+100	PT_GEOLOGY_SKILL_PT	الجيولوجي	تزيد عدد مرات استخدام نقاط التجمع.
+101	G_PT_KONSHIN_SKILL_PT	القوة القصوى	تزيد النسبة ما دامتقوة التحمل كاملة لفترة من الزمن.
+102	G_PT_SLING_B_PLUS_SKILL_PT	سعة نبلة المعصم	يزيد من سعة تلقيم ذخيرة نبلة المعصم التيتم الحصول عليها في الميدان. يحد من كميةالذخيرة المستخدمة عند إطلاق طلقات معينة.
+103	PT_MIUSINAI_SKILL_PT	التسلل	تسهّل من تضليل رؤيةالوحوش لك.
+104	PT_NOKEZORI_SKILL_PT	الثبات	تمنع التراجعوردود فعل أخرى لضرر صغير.
+105	PT_GUIDE_LONG_SKILL_PT	نطاق ذبابة الاستطلاع	توسع من نطاق بحثذباب الاستطلاع.
+106	PT_SYAGAMI_SPEED_SKILL_PT	سرعة الزحف	تزيد من سرعة الحركةأثناء الجثوم.
+107	PT_JUMP_DISTANCE_SKILL_PT	القفزة البارعة	تمنع الهجمات من إطاحتكإلى الخلف أثناء القفز.
+108	PT_HEEL_SMOKE_G_SKILL_PT	خبير النجاة	يتم استرجاع صحة إضافية منعناصر التفاعل البيئية مثلنفحات الحبوب أو يرقة الدودة.
+109	PT_NAGAGUTU_G_SKILL_PT	حركة مائية/قطبية	تسمح لك بالتحرك بحرية أكثر في الماء.تمنع أيضًا الإبطاء الناتجعن تأثيرات التضاريس كالثلج الكثيف.
+110	DUMMY000027	Unavailable	Unavailable
+111	PT_CLIMBER_G_SKILL_PT	خطاف	يقلل من استنزاف قوة التحمل عند التفاديأثناء التشبث بالجدران أو اللبلاب أو عندالتحرك أثناء استخدام الخطاف على عدو.
+112	PT_FLASH_UP_SKILL_PT	المباغت	تُحسن من كفاءةهجمات وعناصر الوميض المفاجئة.
+113	DUMMY000030	Unavailable	Unavailable
+114	PT_LAB_SKILL_PT	العالم	يسرّع من التقدم في مستويات البحثوالاستقصاءات الخاصة. (يطبق التأثيرفي شاشة نتائج المهمة.)
+115	PT_MUSIHAGI_SKILL_PT	عالم حشرات	تقلل من فرص تدميرأجسام وحوش حشرات صغيرةكي يُسمح بتقطيعها.
+116	PT_MIST_RESIST_SKILL_PT	مقاومة الروائح	تكتسب مقاومة لاشتدادالروائح.
+117	PT_SMELL_SKILL_PT	سينتهاوند	تزيد من معدل امتلاءمقياس ذباب الاستطلاعحين تعثر على علامات الوحوش.
+118	PT_RARE_POP_HIT_SKILL_PT	حظ الباحث عن الطعام	تزيد من احتمالية العثورعلى نقاط التجمع النادرة.
+119	PT_RARE_POP_LOCATE_SKILL_PT	الكاشف	تعرض نقاط جمع نادرةعلى خريطة الحياة البرية.
+120	PT_MONOMOTI_SKILL_PT	مختص الأدوات	تقلل فترة الشحنللأدوات المخصصة.
+121	DUMMY000033	Unavailable	Unavailable
+122	PT_SLIDING_UP_SKILL_PT	انزلاق النسبة	يزيد الانزلاق من النسبةالخاصة بك لوقت قصير.
+123	PT_DRASEAL_UP_SKILL_PT	تعزيز قوة التنين	يزيد من قوة المعمّرللأسلحة وذخيرة التنين.
+124	PT_4SOKU_SKILL_PT	المخيف	تقلل من فرص هجومالوحوش الصغيرةبعد رصدهم لك. (لا تؤثر على بعض الوحوش.)
+125	PT_NEWZYUURYU_1_SKILL_PT	قوة أنجاناث	Unavailable
+126	PT_NEWMAIN_SKILL_PT	نهم النيرغي	Unavailable
+127	PT_DRAGONZOMBIE_SKILL_PT	حيوية فال هازاك	Unavailable
+128	PT_REUSU_SKILL_PT	قوة راذالوس	Unavailable
+129	PT_DIABROS_SKILL_PT	قوة ديابلوس	Unavailable
+130	PT_KIRIN_SKILL_PT	مباركة كيرين	Unavailable
+131	PT_REIA_ASHU_SKILL_PT	تفوق راثيان الوردية	Unavailable
+132	PT_NEWZYUURYU_S_SKILL_PT	إرادة أنجاناث	Unavailable
+133	DUMMY000044	Unavailable	Unavailable
+134	DUMMY000047	Unavailable	Unavailable
+135	PT_REUSU_S_SKILL_PT	تفوق راذالوس	Unavailable
+136	PT_DIABROS_S_SKILL_PT	تفوق ديابلوس	Unavailable
+137	PT_KIRIN_S_SKILL_PT	خدمة كيرين	Unavailable
+138	PT_GANKIN_SKILL_PT	حماية أوراغان	Unavailable
+139	DUMMY000054	Unavailable	Unavailable
+140	DUMMY000057	Unavailable	Unavailable
+141	DUMMY000060	Unavailable	Unavailable
+142	PT_NEWARASHI_SKILL_PT	حماية بازيلغيس	Unavailable
+143	PT_TEO_SKILL_PT	أسلوب تيوسترا	Unavailable
+144	PT_KUSHA_SKILL_PT	رحلة كوشالا داورا	Unavailable
+145	PT_MUKURO_SKILL_PT	عظمة زينوجيفا	Unavailable
+146	DUMMY000067	Unavailable	Unavailable
+147	PT_KAZANRYU_SKILL_PT	تفوق زوراه ماغداروس	Unavailable
+148	DUMMY000071	Unavailable	Unavailable
+149	PT_GUILDX_SKILL_PT	إرشاد النقابة	Unavailable
+150	PT_SEEKER_SKILL_PT	إرشاد اللجنة	Unavailable
+151	PT_FUFYO_SKILL_PT	مباركة ليغيانا	Unavailable
+152	PT_FUFYO_S_SKILL_PT	خدمة ليغيانا	Unavailable
+153	PT_ZANSO_SKILL_PT	قوة أودوغارون	Unavailable
+154	PT_ZANSO_S_SKILL_PT	إتقان أودوغارون	Unavailable
+155	PT_ARROW_CHARGE2_SKILL_PT	مضاعفة قوة انطلاق السهم	تزيد من مستوىقوة انطلاق السهم القصوىبمقدار 1.
+156	PT_SHINGAN2_SKILL_PT	عين العقل/حركة القذائف	تمنع الهجمات من الانحراف.وتقلل المسافة قبل وصول الذخيرةوالسهام للقوة القصوى.
+157	PT_EXGUARD2_SKILL_PT	زيادة التصدي	تتيح لك التصديللهجمات غير القابلةللتصدي في العادة.
+158	PT_GOJIN2_SKILL_PT	ملمّع حماية	لا تقل حدة السلاحلفترة محددة من الزمنبعد شحذها.
+159	PT_BLANK_UP2_SKILL_PT	تعزيز الأسلحة غير العنصرية	تقوم بتفعيل الأسلحةغير العنصرية التي تزوّدت بها.
+160	PT_NANA_01_SKILL_PT	وميض النجاة	عندما تتخطى الصحة حدًا معينًا،سيمكن تحمُل هجوم قاتلفي المعتاد (مرة واحدة).
+161	PT_NANA_02_SKILL_PT	التعافي السريع	تجدِّد الصحةعند مهاجمة وحش باستمرار.ويختلف التعافي وفقًا للسلاح.
+162	PT_NANA_03_SKILL_PT	شحذ حاد/طلقة إضافية	تقسِّم فقدان الحدّة. وهكذا قد لا تستهلكالطلقات الذخيرة أو الأغطيةفي الأقواس وبنادق القوس.
+163	PT_NANA_S_SKILL_PT	هدية لوناسترا	Unavailable
+164	PT_FF_S_SKILL_PT	روح الرّماح	Unavailable
+165	PT_MAMM1_SKILL_PT	العناصر الحرجة	تزيد من الأضرار العنصرية(النار، الماء، الرعد، الثلج، التنين)عند تنفيذ ضربات خطيرة.
+166	PT_MAMM2_SKILL_PT	الوضعية الحرجة	تزيد من ضرر التأثير الغريب للوضعية(الشلل، السم، النوم، الانفجار) عندتنفيذ ضربات خطيرة.
+167	PT_WITCHER_SKILL_PT	عِلم الويتشر	Unavailable
+168	PT_ANNIVERSARY_SKILL_PT	مباركة أستيرا	Unavailable
+169	PT_ZINOGRE_SKILL_PT	عصارة زينغر	Unavailable
+170	PT_TIGREX_SKILL_PT	عصارة تغريكس	Unavailable
+171	PT_NARGACUGA_SKILL_PT	عصارة نارغاكوغا	Unavailable
+172	PT_BRACCHIDIOS_SKILL_PT	عصارة براكيديوس	Unavailable
+173	PT_DINOVALDE_SKILL_PT	عصارة غلافنيوس	Unavailable
+174	PT_SILVER_SKILL_PT	عصارة راذالوس فضي	Unavailable
+175	PT_GOLD_SKILL_PT	عصارة راثيان ذهبية	Unavailable
+176	PT_EARTH_SKILL_PT	عظمة شارا إشفالدا	Unavailable
+177	PT_NERO_SKILL_PT	عظمة ناميال	Unavailable
+178	PT_HIVER_SKILL_PT	عظمة فيلكانا	Unavailable
+179	PT_UNDECIDED1_SKILL_PT	عظمة قديمة	Unavailable
+180	PT_UNDECIDED2_SKILL_PT	كيمياء اللجنة	Unavailable
+181	PT_UNDECIDED3_SKILL_PT	إرشاد المُعلم	Unavailable
+182	PT_UNDECIDED4_SKILL_PT	سيطرة أنجاناث	Unavailable
+183	PT_UNDECIDED5_SKILL_PT	عصارة راثيان	Unavailable
+184	PT_GUST_SKILL_PT	المحرّض	تزيد من الانتباه عند الهجوم على وحش.
+185	PT_KNIGHT_SKILL_PT	التصدي للهجمات	تزيد من قوة الهجوم مؤقتًابعد تنفيذ تصدٍتوقيته مثالي.
+186	PT_DISASTER_SKILL_PT	الالتحام	تُحسن الهجوم مؤقتًابعد التعافي من الأوبئة أوالوضعيات الغريبة.
+187	PT_EXDODGE_SKILL_PT	الهبوط الآمن	تُتيح التعافي السريع من الضربات القويةالتي تضربك عندما يكون سلاحك غير مُغمد.
+188	PT_EX06_SKILL_PT	فن باريوث المخفي	Unavailable
+189	PT_EX07_SKILL_PT	عصارة راذالوس	Unavailable
+190	PT_EX08_SKILL_PT	طموح ديابلوس	Unavailable
+191	PT_EX09_SKILL_PT	طموح ليغيانا	Unavailable
+192	PT_EX10_SKILL_PT	عصارة أودوغارون	Unavailable
+193	PT_EX11_SKILL_PT	طموح أوراغان	Unavailable
+194	PT_EX12_SKILL_PT	طموح بازيلغيس	Unavailable
+195	PT_EX13_SKILL_PT	عصارة ديفيلجو	Unavailable
+196	PT_EX14_SKILL_PT	عِرق فال	Unavailable
+197	DUMMY000108	Unavailable	Unavailable
+198	DUMMY000111	Unavailable	Unavailable
+199	PT_EX17_SKILL_PT	عظمة كيرين	Unavailable
+200	PT_EX18_SKILL_PT	كبرياء النقابة	Unavailable
+201	PT_EX19_SKILL_PT	عصارة زوراه ماغداروس	Unavailable
+202	PT_EX20_SKILL_PT	عصارة لوناسترا	Unavailable
+203	PT_EX21_SKILL_PT	طموح نيرغي	Unavailable
+204	DUMMY000119	Unavailable	Unavailable
+205	PT_DONKI_SKILL_PT	مستخدم النبوت	تزيد من الهجمات حين يفقد سلاحكحدته. أيضًا تعزز من هجمات اشتباكالسلاح بعيد المدى والصعق.
+206	PT_STAMINA_PINCH_SKILL_PT	أدرينالين	تقلل استهلاك قوة التحمل مؤقتًاحين تكون الصحة 40% أو أقل.
+207	PT_COLD_RES_SKILL_PT	مقاوم للبرد	تبطل تأثيراتالطقس البارد.
+208	PT_EX22_SKILL_PT	غيظ راجانغ	Unavailable
+209	PT_HORIZON_SKILL_PT	خلية طاقة	Unavailable
+210	PT_RE_SKILL_PT	النجاة	Unavailable
+211	PT_MUFET_SKILL_PT	ختم صافيجيفا	Unavailable
+212	PT_WINTER_SKILL_PT	مباركة البهجة	Unavailable
+213	PT_ANNIVERSARY_S_SKILL_PT	مباركة التقدير	Unavailable
+214	PT_SPRING_SKILL_PT	مباركة الازدهار الكامل	Unavailable
+215	DUMMY000129	Unavailable	Unavailable
+216	DUMMY000132	Unavailable	Unavailable
+217	PT_EX23_SKILL_PT	إرادة راجانغ	Unavailable
+218	PT_EX24_SKILL_PT	إرادة براكيديوس	Unavailable
+219	PT_EX25_SKILL_PT	عصارة كولف تاروث	Unavailable
+220	DUMMY000138	Unavailable	Unavailable
+221	DUMMY000141	Unavailable	Unavailable
+222	DUMMY000144	Unavailable	Unavailable
+223	DUMMY000147	Unavailable	Unavailable

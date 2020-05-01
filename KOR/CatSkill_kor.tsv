@@ -1,0 +1,58 @@
+Meal Code	Meal Name	Meal Effect
+CatSkill000_CAT_SKILL	야옹 연마술	숫돌을 이용한 연마 시간이 단축될확률이 높아진다.
+CatSkill001_CAT_SKILL	야옹 탑승 고수	몬스터에게 탑승하기가 쉬워진다.
+CatSkill002_CAT_SKILL	야옹 재난대처능력	남은 체력이 조금밖에 없을 때공격력이 크게 상승한다.
+CatSkill003_CAT_SKILL	야옹 해체술【대】	갈무리 횟수가 높은 확률로증가한다.
+CatSkill004_CAT_SKILL	야옹 해체술【소】	갈무리 횟수가 낮은 확률로증가한다.
+CatSkill005_CAT_SKILL	야옹 의료술	체력 회복량이 증가한다.
+CatSkill006_CAT_SKILL	야옹 체술	회피 등 고정적으로 스태미나를소비하는 행동의 스태미나소비량이 감소한다.
+CatSkill007_CAT_SKILL	야옹 화약술	대형나무통폭탄이대형나무통폭탄G로 강화된다.
+CatSkill008_CAT_SKILL	야옹 특수공격술	상태 이상 공격이 강해진다.
+CatSkill009_CAT_SKILL	야옹 방어술【대】	플레이어가 받는 데미지를높은 확률로 감소시킨다.
+CatSkill010_CAT_SKILL	야옹 방어술【소】	플레이어가 받는 데미지를낮은 확률로 감소시킨다.
+CatSkill011_CAT_SKILL	야옹 수확제	채취 포인트의 재출현 시간이단축된다.
+CatSkill012_CAT_SKILL	야옹 사격술	통상탄, 통상화살의 데미지가증가한다.
+CatSkill013_CAT_SKILL	복고양이의 행운	퀘스트 보수로 받는 아이템의 수가늘어날 확률이 높아진다.
+CatSkill014_CAT_SKILL	야옹 튕겨내기 고수	몬스터가 공격을 튕겨냈을 때예리도가 적게 소모된다.
+CatSkill015_CAT_SKILL	야옹 도주술	대형 몬스터에게서 도망칠 때스태미나 소비량이 감소한다.
+CatSkill016_CAT_SKILL	야옹 배달술	운반 중 대시했을 때의스태미나 소비가 줄어든다.
+CatSkill017_CAT_SKILL	야옹 운반 철인	운반 중에는 공격을 받아도움츠리지 않는다.
+CatSkill018_CAT_SKILL	야옹! 약한놈덤벼!	퀘스트에 출현하는 대형 몬스터가약해질 확률이 높아진다.
+CatSkill019_CAT_SKILL	야옹 환산술	결과 화면에서 취득하는조사 포인트가 증가한다.
+CatSkill020_CAT_SKILL	야옹 오뚝이술【대】	일어날 때의 무적 시간이꽤 길어진다.
+CatSkill021_CAT_SKILL	야옹 오뚝이술【소】	일어날 때의 무적 시간이길어진다.
+CatSkill022_CAT_SKILL	야옹 폭격	탄의 데미지가 증가하는 대신사격 시 흔들림이 증가한다.
+CatSkill023_CAT_SKILL	야옹 넝쿨타기 달인	벽이나 넝쿨에 매달린 상태에서회피 행동으로 소비되는스태미나양이 감소한다.
+G_CatSkill024_CAT_SKILL	야옹 매달리기 철인	벽이나 넝쿨에 매달린 상태에서공격을 받아도 어느 정도버틸 수 있다.
+CatSkill025_CAT_SKILL	야옹 해체 철인	갈무리 도중에 공격을 받아도움츠리지 않는다.
+CatSkill026_CAT_SKILL	야옹 착지술	높은 곳에서 뛰어내려도 바닥에손을 대지 않게 된다.
+CatSkill027_CAT_SKILL	야옹 억지술	공격이 튕겨나간 뒤 곧바로 이어지는공격은 공격력이 상승한다.
+CatSkill028_CAT_SKILL	야옹 보너스술	힘이 다해도 식사 효과가사라지지 않는다.
+CatSkill029_CAT_SKILL	야옹 KO술	몬스터를 기절 상태로 만들확률이 높아진다.
+CatSkill030_CAT_SKILL	복고양이의 금전운	퀘스트 클리어 시 보수금이늘어난다.
+CatSkill031_CAT_SKILL	야옹 포격술	발리스타의 데미지나 철갑유탄의폭발, 건랜스의 포격 데미지가상승한다.
+CatSkill032_CAT_SKILL	야옹 근성	체력이 일정량 이상 있을 때체력을 초과하는 데미지를 받아도힘이 다하지 않는다(1번만).
+CatSkill033_CAT_SKILL	야옹 비료옥 달인	슬링어 거름탄을 맞힌 몬스터는도망칠 확률이 높아진다.
+CatSkill034_CAT_SKILL	야옹 몸단장 고수	방어력 DOWN 효과 시간이 절반으로줄고 속성 피해가 빨리 회복된다.
+CatSkill035_CAT_SKILL	야옹 장화술	지형에 의한 데미지나 피해를줄이고 무효화한다.
+CatSkill036_CAT_SKILL	야옹 낙법술	공격을 받아 날아갈 때 자세를고쳐 세운다.
+DUMMY000000	Unavailable	Unavailable
+CatSkill038_CAT_SKILL	야옹 동반자 지도술	동반자의 성장이 빨라진다.
+CatSkill039_CAT_SKILL	야옹 단기최면술	식사 후, 잠시 공격력과 방어력이증가한다.
+CatSkill040_CAT_SKILL	야옹 버티기술	엉덩방아를 찧지 않게 된다.
+CatSkill041_CAT_SKILL	야옹 낚시 고수	물고기를 잡을 확률이 높아진다.
+CatSkill042_CAT_SKILL	야옹 휴식술	'앉기' 제스처를 일정 시간 실시하면일시적으로 공격력이 상승한다.
+CatSkill043_CAT_SKILL	야옹 보수금 보험	퀘스트 동료 누군가의 힘이 다한 경우,처음 1회는 무효 처리된다.
+CatSkill044_CAT_SKILL	야옹 미움받기 고수	몬스터의 주의를 끌어서 표적이 될확률이 높아진다.
+CatSkill045_CAT_SKILL	야옹! 뒤는 맡겨 둬!	힘이 다했을 때, 범위 안에 있는동료의 체력을 회복한다.
+CatSkill046_CAT_SKILL	야옹 탐색하기 좋은 날	탐색으로 조사 보고서를 입수할확률이 높아진다.
+CatSkill047_CAT_SKILL	야옹 일기예보	출발한 퀘스트가 악천후가 될확률이 높아진다.
+CatSkill048_CAT_SKILL	야옹 스파이크 장화	특수 지형에서도 이동 속도가느려지지 않는다.
+CatSkill049_CAT_SKILL	야옹 재봉술	특수 장비의 재사용 시간이조금 짧아진다.
+CatSkill050_CAT_SKILL	야옹 생명 보험	퀘스트 멤버 누군가의 힘이 다했을 때처음 1회는 무효 처리된다.
+CatSkill051_CAT_SKILL	야옹 원예술	일부 환경생물의 재출현시간이 조금 짧아진다.
+CatSkill052_CAT_SKILL	야옹 혜택술	일부 환경생물을 포획할 때슬링어 탄을 떨어뜨리게 한다.
+CatSkill053_CAT_SKILL	야옹 생물 박사	희귀한 환경생물이 나오기 쉬워진다.
+CatSkill054_CAT_SKILL	야옹 생물학자	희귀한 환경생물이 나타나기가조금 쉬워진다.
+CatSkill055_CAT_SKILL	야옹 크기 자랑	큰 환경생물이 나타나기가조금 쉬워진다.
+CatSkill056_CAT_SKILL	야옹 작기 자랑	작은 환경생물이 나타나기가조금 쉬워진다.

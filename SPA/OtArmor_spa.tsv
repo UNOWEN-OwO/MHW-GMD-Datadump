@@ -1,0 +1,324 @@
+Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
+0	Helmet	1	Cubrecabeza cuero F	otomo/equip/ot001/helm
+0	Helmet	28	Yelmo de hueso F	otomo/equip/ot028/helm
+0	Helmet	29	Yelmo de aleación F	otomo/equip/ot029/helm
+0	Helmet	2	Yelmo de Jagras F	otomo/equip/ot002/helm
+0	Helmet	3	Turbante Kulu F	otomo/equip/ot003/helm
+0	Helmet	4	Capucha Pukei F	otomo/equip/ot004/helm
+0	Helmet	5	Yelmo de Barroth F	otomo/equip/ot005/helm
+0	Helmet	6	Yelmo de Jyura F	otomo/equip/ot006/helm
+0	Helmet	7	Capucha Kadachi F	otomo/equip/ot007/helm
+0	Helmet	8	Yelmo de Anja F	otomo/equip/ot008/helm
+0	Helmet	11	Gorro de Lumu F	otomo/equip/ot011/helm
+0	Helmet	9	Yelmo de Rathian F	otomo/equip/ot009/helm
+0	Helmet	13	Yelmo de Baan F	otomo/equip/ot013/helm
+0	Helmet	30	Gorro de mariquita F	otomo/equip/ot030/helm
+0	Helmet	12	Yelmo de Legiana F	otomo/equip/ot012/helm
+0	Helmet	14	Yelmo de Odogaron F	otomo/equip/ot014/helm
+0	Helmet	16	Yelmo de Rathalos F	otomo/equip/ot016/helm
+0	Helmet	17	Yelmo de Diablos F	otomo/equip/ot017/helm
+0	Helmet	18	Cuerno de Kirin F	otomo/equip/ot018/helm
+0	Helmet	27	Capucha muerte F	otomo/equip/ot027/helm
+0	Helmet	32	Cubrecabeza cuero F <ICON ALPHA>	otomo/equip/ot001/helm
+0	Helmet	33	Yelmo de hueso F <ICON ALPHA>	otomo/equip/ot028/helm
+0	Helmet	34	Yelmo de aleación F <ICON ALPHA>	otomo/equip/ot029/helm
+0	Helmet	35	Yelmo de Jagras F <ICON ALPHA>	otomo/equip/ot002/helm
+0	Helmet	36	Turbante Kulu F <ICON ALPHA>	otomo/equip/ot003/helm
+0	Helmet	37	Capucha Pukei F <ICON ALPHA>	otomo/equip/ot004/helm
+0	Helmet	38	Yelmo de Barroth F <ICON ALPHA>	otomo/equip/ot005/helm
+0	Helmet	39	Yelmo de Jyura F <ICON ALPHA>	otomo/equip/ot006/helm
+0	Helmet	40	Capucha Kadachi F <ICON ALPHA>	otomo/equip/ot007/helm
+0	Helmet	19	Corona de Zorah F <ICON ALPHA>	otomo/equip/ot019/helm
+0	Helmet	41	Yelmo de Anja F <ICON ALPHA>	otomo/equip/ot008/helm
+0	Helmet	42	Gorro de Lumu F <ICON ALPHA>	otomo/equip/ot011/helm
+0	Helmet	43	Yelmo de Rathian F <ICON ALPHA>	otomo/equip/ot009/helm
+0	Helmet	44	Yelmo de Baan F <ICON ALPHA>	otomo/equip/ot013/helm
+0	Helmet	45	Gorro de mariquita F <ICON ALPHA>	otomo/equip/ot030/helm
+0	Helmet	46	Yelmo de Legiana F <ICON ALPHA>	otomo/equip/ot012/helm
+0	Helmet	47	Yelmo de Odogaron F <ICON ALPHA>	otomo/equip/ot014/helm
+0	Helmet	48	Yelmo de Rathalos F <ICON ALPHA>	otomo/equip/ot016/helm
+0	Helmet	49	Yelmo de Diablos F <ICON ALPHA>	otomo/equip/ot017/helm
+0	Helmet	50	Cuerno de Kirin F <ICON ALPHA>	otomo/equip/ot018/helm
+0	Helmet	20	Yelmo de Lavasioth F <ICON ALPHA>	otomo/equip/ot020/helm
+0	Helmet	21	Yelmo de Uragaan F <ICON ALPHA>	otomo/equip/ot021/helm
+0	Helmet	26	Yelmo de Bazel F <ICON ALPHA>	otomo/equip/ot026/helm
+0	Helmet	51	Capucha de muerte F <ICON ALPHA>	otomo/equip/ot027/helm
+0	Helmet	52	Máscara Gajalaka F <ICON ALPHA>	otomo/equip/ot031/helm
+0	Helmet	10	Yelmo Nergigante F <ICON ALPHA>	otomo/equip/ot010/helm
+0	Helmet	15	Cráneo Vaal F <ICON ALPHA>	otomo/equip/ot015/helm
+0	Helmet	22	Corona de Káiser F <ICON ALPHA>	otomo/equip/ot022/helm
+0	Helmet	23	Rugido Daora F <ICON ALPHA>	otomo/equip/ot023/helm
+0	Helmet	24	Velo Xeno F <ICON ALPHA>	otomo/equip/ot024/helm
+0	Helmet	25	Cabeza de nekker <ICON ALPHA>	otomo/equip/ot073/helm
+0	Helmet	100	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	101	Sombrero primaveral F	otomo/equip/ot040/helm
+0	Helmet	102	Sombrero hawaiano F	otomo/equip/ot041/helm
+0	Helmet	103	Máscara Mialloween F	otomo/equip/ot042/helm
+0	Helmet	104	Cabeza gato nival F	otomo/equip/ot043/helm
+0	Helmet	105	Cabeza de estrella F	otomo/equip/ot044/helm
+0	Helmet	55	Pelaje Kulve F <ICON ALPHA>	otomo/equip/ot025/helm
+0	Helmet	56	Yelmo de Vangis F <ICON ALPHA>	otomo/equip/ot033/helm
+0	Helmet	57	Peluca Elisa F <ICON ALPHA>	otomo/equip/ot034/helm
+0	Helmet	58	Casco de Mega Man	otomo/equip/ot035/helm
+0	Helmet	59	HARDUMMY	otomo/equip/ot036/helm
+0	Helmet	60	Corona estr. celeste F	otomo/equip/ot037/helm
+0	Helmet	61	Cabeza de moguri <ICON ALPHA>	otomo/equip/ot038/helm
+0	Helmet	62	Yelmo samurái F <ICON ALPHA>	otomo/equip/ot039/helm
+0	Helmet	63	Sombrero primaveral F <ICON ALPHA>	otomo/equip/ot040/helm
+0	Helmet	64	Sombrero hawaiano F <ICON ALPHA>	otomo/equip/ot041/helm
+0	Helmet	65	Máscara Mialloween F <ICON ALPHA>	otomo/equip/ot042/helm
+0	Helmet	66	Cabeza gato nival F <ICON ALPHA>	otomo/equip/ot043/helm
+0	Helmet	67	Cabeza de estrella F <ICON ALPHA>	otomo/equip/ot044/helm
+0	Helmet	110	Capucha lanuda F <ICON ALPHA>+	otomo/equip/ot060/helm
+0	Helmet	111	Yelmo de hueso F <ICON ALPHA>+	otomo/equip/ot028/helm
+0	Helmet	112	Yelmo de aleación F <ICON ALPHA>+	otomo/equip/ot029/helm
+0	Helmet	113	Yelmo de Jagras F <ICON ALPHA>+	otomo/equip/ot002/helm
+0	Helmet	114	Turbante Kulu F <ICON ALPHA>+	otomo/equip/ot003/helm
+0	Helmet	115	Capucha Pukei F <ICON ALPHA>+	otomo/equip/ot004/helm
+0	Helmet	116	Yelmo de Barroth F <ICON ALPHA>+	otomo/equip/ot005/helm
+0	Helmet	117	Yelmo de Jyura F <ICON ALPHA>+	otomo/equip/ot006/helm
+0	Helmet	118	Gafas de Beo F <ICON ALPHA>+	otomo/equip/ot051/helm
+0	Helmet	119	Capucha Kadachi F <ICON ALPHA>+	otomo/equip/ot007/helm
+0	Helmet	120	Capucha Banbaro F <ICON ALPHA>+	otomo/equip/ot052/helm
+0	Helmet	121	Yelmo de Anja F <ICON ALPHA>+	otomo/equip/ot008/helm
+0	Helmet	122	Yelmo de Rathian F <ICON ALPHA>+	otomo/equip/ot009/helm
+0	Helmet	123	Gorro de Lumu F <ICON ALPHA>+	otomo/equip/ot011/helm
+0	Helmet	124	Yelmo de Baan F <ICON ALPHA>+	otomo/equip/ot013/helm
+0	Helmet	125	Gorro de mariquita F <ICON ALPHA>+	otomo/equip/ot030/helm
+0	Helmet	126	Capucha de muerte F <ICON ALPHA>+	otomo/equip/ot027/helm
+0	Helmet	127	Yelmo de Barioth F <ICON ALPHA>+	otomo/equip/ot046/helm
+0	Helmet	128	Yelmo de Rathalos F <ICON ALPHA>+	otomo/equip/ot016/helm
+0	Helmet	129	Yelmo de Diablos F <ICON ALPHA>+	otomo/equip/ot017/helm
+0	Helmet	130	Yelmo de Legiana F <ICON ALPHA>+	otomo/equip/ot012/helm
+0	Helmet	131	Yelmo de Odogaron F <ICON ALPHA>+	otomo/equip/ot014/helm
+0	Helmet	132	Yelmo de Lavasioth F <ICON ALPHA>+	otomo/equip/ot020/helm
+0	Helmet	133	Yelmo de Uragaan F <ICON ALPHA>+	otomo/equip/ot021/helm
+0	Helmet	134	Yelmo de Narga F <ICON ALPHA>+	otomo/equip/ot047/helm
+0	Helmet	135	Yelmo de Glavenus F <ICON ALPHA>+	otomo/equip/ot048/helm
+0	Helmet	136	Yelmo de Brachy F <ICON ALPHA>+	otomo/equip/ot049/helm
+0	Helmet	137	Yelmo de Tigrex F <ICON ALPHA>+	otomo/equip/ot050/helm
+0	Helmet	138	Yelmo aullador F <ICON ALPHA>+	otomo/equip/ot056/helm
+0	Helmet	139	Núcleo Artiano F <ICON ALPHA>+	otomo/equip/ot061/helm
+0	Helmet	140	Máscara Gajalaka F <ICON ALPHA>+	otomo/equip/ot031/helm
+0	Helmet	141	Máscara Boaboa F <ICON ALPHA>+	otomo/equip/ot062/helm
+0	Helmet	142	Yelmo de escarcha F <ICON ALPHA>+	otomo/equip/ot053/helm
+0	Helmet	143	Yelmo Magma F <ICON ALPHA>+	otomo/equip/ot059/helm
+0	Helmet	144	Cráneo espectral F <ICON ALPHA>+	otomo/equip/ot057/helm
+0	Helmet	145	Capucha Nami F <ICON ALPHA>+	otomo/equip/ot054/helm
+0	Helmet	146	Corona de Káiser F <ICON ALPHA>+	otomo/equip/ot022/helm
+0	Helmet	147	Rugido Daora F <ICON ALPHA>+	otomo/equip/ot023/helm
+0	Helmet	148	Cuerno de Kirin F <ICON ALPHA>+	otomo/equip/ot018/helm
+0	Helmet	149	Corona Ishvalda F <ICON ALPHA>+	otomo/equip/ot055/helm
+0	Helmet	150	Yelmo regio F <ICON ALPHA>+	otomo/equip/ot058/helm
+0	Helmet	151	Máscara voraz F <ICON ALPHA>+	otomo/equip/ot069/helm
+0	Helmet	152	Yelmo Maestro caz. F <ICON ALPHA>+	otomo/equip/ot072/helm
+0	Helmet	153	Capucha de Garuga F <ICON ALPHA>+	otomo/equip/ot064/helm
+0	Helmet	154	Yelmo de Zinogre F <ICON ALPHA>+	otomo/equip/ot065/helm
+0	Helmet	155	Corona de Zorah F <ICON ALPHA>+	otomo/equip/ot019/helm
+0	Helmet	156	Másc. titiritero F <ICON ALPHA>+	otomo/equip/ot066/helm
+0	Helmet	157	Corona Rabiosa F <ICON ALPHA>+	otomo/equip/ot071/helm
+0	Helmet	158	Casco Colérico F <ICON ALPHA>+	otomo/equip/ot070/helm
+0	Helmet	159	Corona Safi F <ICON ALPHA>+	otomo/equip/ot067/helm
+0	Helmet	160	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	161	Corona Elisa F <ICON ALPHA>+	otomo/equip/ot034/helm
+0	Helmet	162	Melena Kulve F <ICON ALPHA>+	otomo/equip/ot025/helm
+0	Helmet	163	Casco de Mega Man <ICON ALPHA>+	otomo/equip/ot035/helm
+0	Helmet	164	Cabeza de moguri <ICON ALPHA>+	otomo/equip/ot038/helm
+0	Helmet	165	HARDUMMY	otomo/equip/ot037/helm
+0	Helmet	166	HARDUMMY	otomo/equip/ot036/helm
+0	Helmet	167	Yelmo samurái F <ICON ALPHA>+	otomo/equip/ot039/helm
+0	Helmet	168	Sombrero primaveral F <ICON ALPHA>+	otomo/equip/ot040/helm
+0	Helmet	169	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	170	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	171	Cabeza gato nival F <ICON ALPHA>+	otomo/equip/ot043/helm
+0	Helmet	172	Cabeza de estrella F <ICON ALPHA>+	otomo/equip/ot044/helm
+0	Helmet	173	Cubrecabeza cuero F <ICON ALPHA>+	otomo/equip/ot001/helm
+0	Helmet	174	Yelmo de Bazel F <ICON ALPHA>+	otomo/equip/ot026/helm
+0	Helmet	175	Yelmo de Vangis F <ICON ALPHA>+	otomo/equip/ot033/helm
+0	Helmet	176	Yelmo Nergigante F <ICON ALPHA>+	otomo/equip/ot010/helm
+0	Helmet	177	Cráneo Vaal F <ICON ALPHA>+	otomo/equip/ot015/helm
+0	Helmet	178	Velo Xeno F <ICON ALPHA>+	otomo/equip/ot024/helm
+0	Helmet	179	Gorro del gremio F <ICON ALPHA>+	otomo/equip/ot063/helm
+0	Helmet	180	Sombrero de rosas F <ICON ALPHA>+	otomo/equip/ot075/helm
+0	Helmet	181	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	182	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	183	Cabeza Shishi-mai F <ICON ALPHA>+	otomo/equip/ot078/helm
+0	Helmet	184	Casco espacial F <ICON ALPHA>+	otomo/equip/ot079/helm
+0	Helmet	185	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	186	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	187	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	188	HARDUMMY	otomo/equip/ot080/helm
+0	Helmet	189	HARDUMMY	otomo/equip/ot081/helm
+0	Helmet	190	Cabeza de gorgasia F <ICON ALPHA>+	otomo/equip/ot082/helm
+0	Helmet	191	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	192	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	193	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	194	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	195	Pelo de director F <ICON ALPHA>+	otomo/equip/ot085/helm
+0	Helmet	196	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	197	Cabeza de nekker <ICON ALPHA>+	otomo/equip/ot073/helm
+0	Helmet	198	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	199	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	200	Cubrecabeza cuero F	otomo/equip/ot000/helm
+1	Armor	1	Chaleco de cuero F	otomo/equip/ot001/body
+1	Armor	28	Cota de hueso F	otomo/equip/ot028/body
+1	Armor	29	Cota de aleación F	otomo/equip/ot029/body
+1	Armor	2	Cota de Jagras F	otomo/equip/ot002/body
+1	Armor	3	Chaleco de Kulu F	otomo/equip/ot003/body
+1	Armor	4	Capa Pukei F	otomo/equip/ot004/body
+1	Armor	5	Cota de Barroth F	otomo/equip/ot005/body
+1	Armor	6	Cota de Jyura F	otomo/equip/ot006/body
+1	Armor	7	Traje de Kadachi F	otomo/equip/ot007/body
+1	Armor	8	Cota de Anja F	otomo/equip/ot008/body
+1	Armor	11	Capa de Lumu F	otomo/equip/ot011/body
+1	Armor	9	Cota de Rathian F	otomo/equip/ot009/body
+1	Armor	13	Traje de Baan F	otomo/equip/ot013/body
+1	Armor	30	Alas de mariquita F	otomo/equip/ot030/body
+1	Armor	12	Cota de Legiana F	otomo/equip/ot012/body
+1	Armor	14	Cota de Odogaron F	otomo/equip/ot014/body
+1	Armor	16	Cota de Rathalos F	otomo/equip/ot016/body
+1	Armor	17	Cota de Diablos F	otomo/equip/ot017/body
+1	Armor	18	Chaleco de Kirin F	otomo/equip/ot018/body
+1	Armor	27	Túnica muerte F	otomo/equip/ot027/body
+1	Armor	32	Chaleco de cuero F <ICON ALPHA>	otomo/equip/ot001/body
+1	Armor	33	Cota de hueso F <ICON ALPHA>	otomo/equip/ot028/body
+1	Armor	34	Cota de aleación F <ICON ALPHA>	otomo/equip/ot029/body
+1	Armor	35	Cota de Jagras F <ICON ALPHA>	otomo/equip/ot002/body
+1	Armor	36	Chaleco de Kulu F <ICON ALPHA>	otomo/equip/ot003/body
+1	Armor	37	Capa Pukei F <ICON ALPHA>	otomo/equip/ot004/body
+1	Armor	38	Cota de Barroth F <ICON ALPHA>	otomo/equip/ot005/body
+1	Armor	39	Cota de Jyura F <ICON ALPHA>	otomo/equip/ot006/body
+1	Armor	40	Traje de Kadachi F <ICON ALPHA>	otomo/equip/ot007/body
+1	Armor	19	Traje de Zorah F <ICON ALPHA>	otomo/equip/ot019/body
+1	Armor	41	Cota de Anja F <ICON ALPHA>	otomo/equip/ot008/body
+1	Armor	42	Capa de Lumu F <ICON ALPHA>	otomo/equip/ot011/body
+1	Armor	43	Cota de Rathian F <ICON ALPHA>	otomo/equip/ot009/body
+1	Armor	44	Traje de Baan F <ICON ALPHA>	otomo/equip/ot013/body
+1	Armor	45	Alas de mariquita F <ICON ALPHA>	otomo/equip/ot030/body
+1	Armor	46	Cota de Legiana F <ICON ALPHA>	otomo/equip/ot012/body
+1	Armor	47	Cota de Odogaron F <ICON ALPHA>	otomo/equip/ot014/body
+1	Armor	48	Cota de Rathalos F <ICON ALPHA>	otomo/equip/ot016/body
+1	Armor	49	Cota de Diablos F <ICON ALPHA>	otomo/equip/ot017/body
+1	Armor	50	Chaleco de Kirin F <ICON ALPHA>	otomo/equip/ot018/body
+1	Armor	20	Túnica Lavasioth F <ICON ALPHA>	otomo/equip/ot020/body
+1	Armor	21	Cota de Uragaan F <ICON ALPHA>	otomo/equip/ot021/body
+1	Armor	26	Cota de Bazel F <ICON ALPHA>	otomo/equip/ot026/body
+1	Armor	51	Túnica de muerte F <ICON ALPHA>	otomo/equip/ot027/body
+1	Armor	52	Manto Gajalaka F <ICON ALPHA>	otomo/equip/ot031/body
+1	Armor	10	Cota de Nergigante F <ICON ALPHA>	otomo/equip/ot010/body
+1	Armor	15	Huesos Vaal F <ICON ALPHA>	otomo/equip/ot015/body
+1	Armor	22	Túnica de Káiser F <ICON ALPHA>	otomo/equip/ot022/body
+1	Armor	23	Tuerca Daora F <ICON ALPHA>	otomo/equip/ot023/body
+1	Armor	24	Vestido Xeno F <ICON ALPHA>	otomo/equip/ot024/body
+1	Armor	25	Cuerpo de nekker <ICON ALPHA>	otomo/equip/ot073/body
+1	Armor	53	Unavailable	otomo/equip/ot032/body
+1	Armor	100	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	101	Traje primaveral F	otomo/equip/ot040/body
+1	Armor	102	Camisa hawaiana F	otomo/equip/ot041/body
+1	Armor	103	Atuendo fantasmal F	otomo/equip/ot042/body
+1	Armor	104	Traje gato nival F	otomo/equip/ot043/body
+1	Armor	105	Traje de estrella F	otomo/equip/ot044/body
+1	Armor	55	Traje de Kulve F <ICON ALPHA>	otomo/equip/ot025/body
+1	Armor	56	Cota de Vangis F <ICON ALPHA>	otomo/equip/ot033/body
+1	Armor	57	Vestido Elisa F <ICON ALPHA>	otomo/equip/ot034/body
+1	Armor	58	Traje de Mega Man	otomo/equip/ot035/body
+1	Armor	59	HARDUMMY	otomo/equip/ot036/body
+1	Armor	60	Torso estr. celeste F	otomo/equip/ot037/body
+1	Armor	61	Cuerpo de moguri <ICON ALPHA>	otomo/equip/ot038/body
+1	Armor	62	Armadura samurái F <ICON ALPHA>	otomo/equip/ot039/body
+1	Armor	63	Traje primaveral F <ICON ALPHA>	otomo/equip/ot040/body
+1	Armor	64	Camisa hawaiana F <ICON ALPHA>	otomo/equip/ot041/body
+1	Armor	65	Atuendo fantasmal F <ICON ALPHA>	otomo/equip/ot042/body
+1	Armor	66	Traje gato nival F <ICON ALPHA>	otomo/equip/ot043/body
+1	Armor	67	Traje de estrella F <ICON ALPHA>	otomo/equip/ot044/body
+1	Armor	110	Abrigo lanudo F <ICON ALPHA>+	otomo/equip/ot060/body
+1	Armor	111	Cota de hueso F <ICON ALPHA>+	otomo/equip/ot028/body
+1	Armor	112	Cota de aleación F <ICON ALPHA>+	otomo/equip/ot029/body
+1	Armor	113	Cota de Jagras F <ICON ALPHA>+	otomo/equip/ot002/body
+1	Armor	114	Chaleco de Kulu F <ICON ALPHA>+	otomo/equip/ot003/body
+1	Armor	115	Capa Pukei F <ICON ALPHA>+	otomo/equip/ot004/body
+1	Armor	116	Cota de Barroth F <ICON ALPHA>+	otomo/equip/ot005/body
+1	Armor	117	Cota de Jyura F <ICON ALPHA>+	otomo/equip/ot006/body
+1	Armor	118	Equipo de Beo F <ICON ALPHA>+	otomo/equip/ot051/body
+1	Armor	119	Traje de Kadachi F <ICON ALPHA>+	otomo/equip/ot007/body
+1	Armor	120	Traje Banbaro F <ICON ALPHA>+	otomo/equip/ot052/body
+1	Armor	121	Cota de Anja F <ICON ALPHA>+	otomo/equip/ot008/body
+1	Armor	122	Cota de Rathian F <ICON ALPHA>+	otomo/equip/ot009/body
+1	Armor	123	Capa de Lumu F <ICON ALPHA>+	otomo/equip/ot011/body
+1	Armor	124	Traje de Baan F <ICON ALPHA>+	otomo/equip/ot013/body
+1	Armor	125	Alas de mariquita F <ICON ALPHA>+	otomo/equip/ot030/body
+1	Armor	126	Túnica de muerte F <ICON ALPHA>+	otomo/equip/ot027/body
+1	Armor	127	Cota de Barioth F <ICON ALPHA>+	otomo/equip/ot046/body
+1	Armor	128	Cota de Rathalos F <ICON ALPHA>+	otomo/equip/ot016/body
+1	Armor	129	Cota de Diablos F <ICON ALPHA>+	otomo/equip/ot017/body
+1	Armor	130	Cota de Legiana F <ICON ALPHA>+	otomo/equip/ot012/body
+1	Armor	131	Cota de Odogaron F <ICON ALPHA>+	otomo/equip/ot014/body
+1	Armor	132	Túnica Lavasioth F <ICON ALPHA>+	otomo/equip/ot020/body
+1	Armor	133	Cota de Uragaan F <ICON ALPHA>+	otomo/equip/ot021/body
+1	Armor	134	Cota de Narga F <ICON ALPHA>+	otomo/equip/ot047/body
+1	Armor	135	Cota de Glavenus F <ICON ALPHA>+	otomo/equip/ot048/body
+1	Armor	136	Guantes Brachy F <ICON ALPHA>+	otomo/equip/ot049/body
+1	Armor	137	Cota de Tigrex F <ICON ALPHA>+	otomo/equip/ot050/body
+1	Armor	138	Cota aulladora F <ICON ALPHA>+	otomo/equip/ot056/body
+1	Armor	139	Equipo Artiano F <ICON ALPHA>+	otomo/equip/ot061/body
+1	Armor	140	Manto Gajalaka F <ICON ALPHA>+	otomo/equip/ot031/body
+1	Armor	141	Pelaje Boaboa F <ICON ALPHA>+	otomo/equip/ot062/body
+1	Armor	142	Cota escarcha F <ICON ALPHA>+	otomo/equip/ot053/body
+1	Armor	143	Cota Magma F <ICON ALPHA>+	otomo/equip/ot059/body
+1	Armor	144	Abrigo espectral F <ICON ALPHA>+	otomo/equip/ot057/body
+1	Armor	145	Traje Nami F <ICON ALPHA>+	otomo/equip/ot054/body
+1	Armor	146	Túnica de Káiser F <ICON ALPHA>+	otomo/equip/ot022/body
+1	Armor	147	Tuerca Daora F <ICON ALPHA>+	otomo/equip/ot023/body
+1	Armor	148	Chaleco de Kirin F <ICON ALPHA>+	otomo/equip/ot018/body
+1	Armor	149	Vestimenta Ishvalda F <ICON ALPHA>+	otomo/equip/ot055/body
+1	Armor	150	Cota regia F <ICON ALPHA>+	otomo/equip/ot058/body
+1	Armor	151	Traje voraz F <ICON ALPHA>+	otomo/equip/ot069/body
+1	Armor	152	Cota Maestro caz. F <ICON ALPHA>+	otomo/equip/ot072/body
+1	Armor	153	Túnica de Garuga F <ICON ALPHA>+	otomo/equip/ot064/body
+1	Armor	154	Cota de Zinogre F <ICON ALPHA>+	otomo/equip/ot065/body
+1	Armor	155	Traje de Zorah F <ICON ALPHA>+	otomo/equip/ot019/body
+1	Armor	156	Traje titiritero F <ICON ALPHA>+	otomo/equip/ot066/body
+1	Armor	157	Traje Rabioso F <ICON ALPHA>+	otomo/equip/ot071/body
+1	Armor	158	Guantes Coléricos F <ICON ALPHA>+	otomo/equip/ot070/body
+1	Armor	159	Armadura Safi F <ICON ALPHA>+	otomo/equip/ot067/body
+1	Armor	160	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	161	Vestido Elisa F <ICON ALPHA>+	otomo/equip/ot034/body
+1	Armor	162	Traje de Kulve F <ICON ALPHA>+	otomo/equip/ot025/body
+1	Armor	163	Traje de Mega Man <ICON ALPHA>+	otomo/equip/ot035/body
+1	Armor	164	Cuerpo de moguri <ICON ALPHA>+	otomo/equip/ot038/body
+1	Armor	165	HARDUMMY	otomo/equip/ot037/body
+1	Armor	166	HARDUMMY	otomo/equip/ot036/body
+1	Armor	167	Armadura samurái F <ICON ALPHA>+	otomo/equip/ot039/body
+1	Armor	168	Traje primaveral F <ICON ALPHA>+	otomo/equip/ot040/body
+1	Armor	169	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	170	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	171	Traje gato nival F <ICON ALPHA>+	otomo/equip/ot043/body
+1	Armor	172	Traje de estrella F <ICON ALPHA>+	otomo/equip/ot044/body
+1	Armor	173	Chaleco de cuero F <ICON ALPHA>+	otomo/equip/ot001/body
+1	Armor	174	Cota de Bazel F <ICON ALPHA>+	otomo/equip/ot026/body
+1	Armor	175	Cota de Vangis F <ICON ALPHA>+	otomo/equip/ot033/body
+1	Armor	176	Cota de Nergigante F <ICON ALPHA>+	otomo/equip/ot010/body
+1	Armor	177	Huesos Vaal F <ICON ALPHA>+	otomo/equip/ot015/body
+1	Armor	178	Vestido Xeno F <ICON ALPHA>+	otomo/equip/ot024/body
+1	Armor	179	Chaqueta gremio F <ICON ALPHA>+	otomo/equip/ot063/body
+1	Armor	180	Vestido de rosas F <ICON ALPHA>+	otomo/equip/ot075/body
+1	Armor	181	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	182	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	183	Cuerpo Shishi-mai F <ICON ALPHA>+	otomo/equip/ot078/body
+1	Armor	184	Traje espacial F <ICON ALPHA>+	otomo/equip/ot079/body
+1	Armor	185	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	186	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	187	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	188	HARDUMMY	otomo/equip/ot080/body
+1	Armor	189	HARDUMMY	otomo/equip/ot081/body
+1	Armor	190	Cazuela de gorgasia F <ICON ALPHA>+	otomo/equip/ot082/body
+1	Armor	191	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	192	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	193	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	194	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	195	Traje de director F <ICON ALPHA>+	otomo/equip/ot085/body
+1	Armor	196	Cota bellota F <ICON ALPHA>+	otomo/equip/ot086/body
+1	Armor	197	Cuerpo de nekker <ICON ALPHA>+	otomo/equip/ot073/body
+1	Armor	198	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	199	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	200	Cubrecabeza cuero F	otomo/equip/ot000/body

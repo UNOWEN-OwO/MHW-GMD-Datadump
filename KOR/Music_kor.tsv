@@ -1,0 +1,100 @@
+Music Code	Music Level	Music Name
+HUD_HUE_00	-	자기 강화
+HUD_HUE_00_S	0	이동 속도 UP
+HUD_HUE_00_W	1	튕겨내기 무효＆공격력 UP
+HUD_HUE_01	-	공격력 UP【소】
+HUD_HUE_02	-	공격력 UP【대】
+HUD_HUE_02_W	1	공격력 UP【특대】
+HUD_HUE_03	-	체력 UP【소】
+HUD_HUE_04	-	체력 UP【대】
+HUD_HUE_04_W	1	체력 UP 연장
+HUD_HUE_05	-	스태미나 소비 경감【짧음】
+HUD_HUE_06	-	스태미나 소비 경감【긺】
+HUD_HUE_06_W	1	스태미나 소비 경감 연장
+HUD_HUE_07	-	풍압 무효
+HUD_HUE_08	-	풍압 완전 무효
+HUD_HUE_08_W	1	풍압 완전 무효 연장
+HUD_HUE_09	-	방어력 UP【소】
+HUD_HUE_10	-	방어력 UP【대】
+HUD_HUE_10_W	1	방어력 UP【특대】
+HUD_HUE_11	-	특수 장비 소비 경감【짧음】
+HUD_HUE_12	-	특수 장비 소비 경감【긺】
+HUD_HUE_12_W	1	특수 장비 소비 경감 연장
+HUD_HUE_13	-	체력 회복【소】
+HUD_HUE_14	-	체력 회복【대】
+HUD_HUE_15	-	체력 회복【소】＆해독
+HUD_HUE_16	-	체력 회복【중】＆해독
+HUD_HUE_17	-	체력 회복 속도 UP【소】
+HUD_HUE_18	-	체력 회복 속도 UP【대】
+HUD_HUE_18_W	1	체력 회복 속도 UP 연장
+HUD_HUE_19	-	정령왕의 가호
+HUD_HUE_19_W	1	정령왕의 가호 연장
+HUD_HUE_20	-	안내벌레 추적력 강화
+HUD_HUE_20_S	0	가이드 레벨+1
+HUD_HUE_20_W	1	가이드 레벨+1 연장
+HUD_HUE_21	-	진흙 경감
+HUD_HUE_21_W	1	진흙 경감 연장
+HUD_HUE_22	-	지형 데미지 무효
+HUD_HUE_22_W	1	지형 데미지 무효 연장
+HUD_HUE_23	-	청각 보호【소】
+HUD_HUE_24	-	청각 보호【대】
+HUD_HUE_24_W	1	청각 보호【대】연장
+HUD_HUE_25	-	기절 무효
+HUD_HUE_25_W	1	기절 무효 연장
+HUD_HUE_26	-	마비 무효
+HUD_HUE_26_W	1	마비 무효 연장
+HUD_HUE_27	-	진동 무효
+HUD_HUE_27_W	1	진동 무효 연장
+HUD_HUE_28	-	불속성 방어 강화【소】
+HUD_HUE_29	-	불속성 방어 강화【대】
+HUD_HUE_29_W	1	불속성 방어 강화【특대】
+HUD_HUE_30	-	물속성 방어 강화【소】
+HUD_HUE_31	-	물속성 방어 강화【대】
+HUD_HUE_31_W	1	물속성 방어 강화【특대】
+HUD_HUE_32	-	번개속성 방어 강화【소】
+HUD_HUE_33	-	번개속성 방어 강화【대】
+HUD_HUE_33_W	1	번개속성 방어 강화【특대】
+HUD_HUE_34	-	얼음속성 방어 강화【소】
+HUD_HUE_35	-	얼음속성 방어 강화【대】
+HUD_HUE_35_W	1	얼음속성 방어 강화【특대】
+HUD_HUE_36	-	용속성 방어 강화【소】
+HUD_HUE_37	-	용속성 방어 강화【대】
+HUD_HUE_37_W	1	용속성 방어 강화【특대】
+HUD_HUE_38	-	속성 공격력 UP
+HUD_HUE_38_S	0	속성 공격력 UP【소】
+HUD_HUE_38_W	1	속성 공격력 UP【대】
+HUD_HUE_39	-	고주파
+HUD_HUE_40	-	모든 선율 효과 연장
+HUD_HUE_41	-	움츠리기 무효
+HUD_HUE_42	-	공격력＆방어력 UP【소】
+HUD_HUE_42_S	0	공격력 UP【소】＆방어력 UP【소】
+HUD_HUE_42_W	1	공격력 UP【대】＆방어력 UP【대】
+HUD_HUE_43	-	회심률 UP＆체력 회복【소】
+HUD_HUE_43_S	0	회심률 UP【소】＆체력 회복【소】
+HUD_HUE_43_W	1	회심률 UP【대】＆체력 회복【대】
+HUD_HUE_44	-	상태 이상 공격력 UP
+HUD_HUE_44_S	0	상태 이상 공격력 UP【소】
+HUD_HUE_44_W	1	상태 이상 공격력 UP【대】
+HUD_HUE_45	-	모든 상태 이상 무효
+HUD_HUE_45_W	1	모든 상태 이상 무효 연장
+HUD_HUE_46	-	모든 속성 내성치 UP
+HUD_HUE_46_S	0	모든 속성 내성치 UP【소】
+HUD_HUE_46_W	1	모든 속성 내성치 UP【대】
+HUD_HUE_47	-	모든 속성 피해 무효
+HUD_HUE_47_W	1	모든 속성 피해 무효 연장
+HUD_HUE_48	-	청각 보호【소】＆풍압 무효
+HUD_HUE_48_S	0	청각 보호【소】＆풍압 무효
+HUD_HUE_48_W	1	청각 보호【소】＆풍압 무효 연장
+HUD_HUE_49	-	체력 회복【중】
+HUD_HUE_23_W	1	청각 보호【소】연장
+HUD_HUE_07_W	1	풍압 무효 연장
+HUD_HUE_41_W	1	움츠리기 무효 연장
+HUD_HUE_50	-	향주파【타】
+HUD_HUE_51	-	향주파【용】
+HUD_HUE_52	-	스태미나 최대치 UP&회복
+HUD_HUE_53	-	체력 지속 회복
+HUD_HUE_54	-	자기 강화【속】&회피 성능 UP
+HUD_HUE_55	-	속성계 효과 UP
+HUD_HUE_56	-	회피 성능 UP
+HUD_HUE_21_G	-	진흙 경감&물가/쌓인 눈 적응
+HUD_HUE_21_W_G	-	진흙 경감&물가/쌓인 눈 적응 연장

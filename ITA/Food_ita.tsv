@@ -1,0 +1,115 @@
+Food Code	Food Name	Food Desc
+MEAT_00_ID	Cosciotto di wyvern	Succulento cosciotto di wyvern.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+MEAT_01_ID	Bistecca di wyvern	Bistecca cotta alla brace.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+MEAT_02_ID	Uovo di wyvern	Uovo fresco e gustoso, preso direttamentedal nido di un wyvern!<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+MEAT_03_ID	Coda di wyvern	La coda di un wyvern volante, da provarealmeno una volta.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+MEAT_04_ID	Testa di wyvern	Un ingrediente prelibato e d'alta cucina.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+MEAT_05_ID	Filetto di wyvern	Il miglior taglio di carne di wyvern.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+MEAT_06_ID	Carne dura	Masticandola potrai allenare le tue mandibole!<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+MEAT_07_ID	Carne spinosa	Fai attenzione alle sue scaglie spinose.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+MEAT_08_ID	Medaglione di prosciutto	Piuttosto costoso, ma ne vale la pena.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+MEAT_09_ID	Salsiccia settespezie	Saporita e piccante al punto giusto.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+MEAT_10_ID	Pancetta selvatica	Da tagliare rigorosamente a fette spesse.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+MEAT_11_ID	Carpaccio marinato	Una delizia per il palato se inzuppatanella sua salsina segreta.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+MEAT_12_ID	Maiale ammuffito	Indispensabile per la dieta di ogni cacciatore.Forse è meglio togliere quella muffa!<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+MEAT_13_ID	Arrosto di Apceros	Il preferito da ogni cacciatore.Da servire in porzioni abbondanti.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+MEAT_14_ID	Tagliata di carne	Carne di discreta qualità.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+MEAT_15_ID	Porchetta principesca	Nonostante la muffa sulla crosta,ha un aspetto piuttosto invitante.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+MEAT_16_ID	Granburger	Talmente grande da rappresentareuna sfida per le tue mandibole.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+MEAT_17_ID	Bisteccona	Una bistecca così succulenta, a cui èquasi impossibile dire di no.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+MEAT_18_ID	Fegato bianco	Apprezzato per la sua succulenza.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+MEAT_19_ID	Costoletta barbecue	Inaspettatamente grassa per una costoletta.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+MEAT_20_ID	Trippa pungente	L'odore è un po' pungente, ma il suosapore non ha eguali.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+MEAT_21_ID	Cuore bollente	Non è per tutti i palati. Da gustare ben cotto.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+MEAT_22_ID	Fesa gustosa	Gustoso taglio di carne ricavato da una delleparti di mostro più pregiate.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+MEAT_23_ID	Gran foie gras	Cremoso e dal gusto pieno e morbido.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+MEAT_24_ID	Ossobuco di tacchino	Peccato che in realtà siano più ossa che carne.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+MEAT_25_ID	Gran montone	Usato in una grande varietà di piatti.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+MEAT_26_ID	Uovo di erbivoro	Potresti cucinarci un'omelette per sfamarenumerose famiglie.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+MEAT_27_ID	Tacchino reale	La sua prelibatezza tiene fede al suo nome.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+MEAT_28_ID	Lombo lavico	Succulenta carne di maiale. Il gusto è ancorapiù ricco se usata per lo stufato.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+MEAT_29_ID	Tacchino imperiale	Un cosciotto così succulento da farimpallidire anche il tacchino reale.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+FISH_00_ID	Tonno peloso	Così tenero che si taglia con un pelo di Kirin.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+FISH_01_ID	Salmone serpente	Viscido e contorto. Assomiglia piùa un serpente che a un pesce.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+FISH_02_ID	Anguilla coraggiosa	Un solo morso e svanirà ogni tua paura.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+FISH_03_ID	Pesce-sushi	Delizioso, con la giusta quantità di grasso.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+FISH_04_ID	Orata antica	Pesce noto per la sua bontà,sin dai tempi antichi.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+FISH_05_ID	Seriola volgare	Non di bell'aspetto, ma dalle eccezionaliproprietà nutritive.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+FISH_06_ID	Buccino gigante	Più grande è il guscio, più è alto il suo valore.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+FISH_07_ID	Scaglie di capesante	Scaglie essiccate, ottime per prepararedelle succulente zuppe.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+FISH_08_ID	Abalone pregiato	Pesce di prima scelta.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+FISH_09_ID	Abalone purpureo	La colorazione particolare ne influenza il sapore.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+FISH_10_ID	Abalone prezioso	Delicato nel gusto ed elegante nell'aspetto.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+FISH_11_ID	Paleo cornuto	Gli studiosi non sono ancora riusciti a capirecome faccia uso delle sue grandi corna.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+FISH_12_ID	Truppa sardina	Proteggono il territorio in grandi branchi.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+FISH_13_ID	Tonno samurai	Deve il suo nome alla somiglianza della testacon l'elmo di un samurai.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+FISH_14_ID	Branchie di Gajau	Necessita di essere cucinato a lungo,ma l'attesa verrà ripagata.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+FISH_15_ID	Fegato di Gajau	Grasso e cremoso, nutriente e delizioso.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+FISH_16_ID	Tonno shogun	La forma del suo corpo ricorda l'armaturadi un samurai.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+FISH_17_ID	Orata furiosa	Il colore rosso fuoco dà l'impressionedi essere avvolta da ardenti fiamme.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+FISH_18_ID	Gamberetto ritorto	Ripiegato su sé stesso, è difficile da addentare.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+FISH_19_ID	Granchio corazzato	Il suo carapace è duro come una corazza.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+FISH_20_ID	Gambero corallino	Piccolo e dal guscio color corallo.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+FISH_21_ID	Granchio imponente	I parassiti si accumulano sul suo carapace,facendolo sembrare più grande.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+FISH_22_ID	Gambero regina	La regina di tutti i gamberi.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+FISH_23_ID	Granchio millenario	Granchio di cui si narra possa vivereper più di mille anni.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+FISH_24_ID	Polposseo	Così duro da masticare che sembradi addentare un osso.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+FISH_25_ID	Caviale rosa	Uova di pesce di un rosa acceso.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+FISH_26_ID	Calamaro giglio	Calamaro le cui bianche carni ricordanoil colore di un giglio.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+FISH_27_ID	Polpo ballerino	I suoi eleganti tentacoli ricordano le gambedi un danzatore.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+FISH_28_ID	Caviale strappalacrime	Così delizioso da far commuovere.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+FISH_29_ID	Calamaro reale	Calamaro di imponente grandezza.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+VEGE_00_ID	Sedano seducente	Dal sapore così particolare che èdifficile resistere.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+VEGE_01_ID	Cipolline speziate	Se mangiate crude possono far piangereanche un Deviljho.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+VEGE_02_ID	Cactus gioiello	Succoso e carnoso.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+VEGE_03_ID	Bocciolo di drago	Fiore il cui frutto è duro comele scaglie di un wyvern.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+VEGE_04_ID	Cactus regale	Cactus di una qualità fuori dal comune.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+VEGE_05_ID	Pomosuccoso	Pomodoro dolce e succoso.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo coraggio.</STYL>
+VEGE_06_ID	Granopietra	Duro come la pietra e difficile da sbucciare.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+VEGE_07_ID	Tubero robusto	Le sue robuste radici lo rendonodifficile da estrarre dal terreno.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+VEGE_08_ID	Fungo delizioso	Anche gli chef non resistono dal piluccaredurante la loro preparazione.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+VEGE_09_ID	Fungo lunare	Fungo che risplende come la luceriflessa sulla superficie lunare.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+VEGE_10_ID	Fungo spirito	Il suo bagliore ricorda quello di un fuoco fatuo.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+VEGE_11_ID	Fungo sporco	Raro da trovare, si pensavafosse solo una leggenda.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo recupero.</STYL>
+VEGE_12_ID	Zuccotto	Imponente e dalle sproporzionate dimensioni.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+VEGE_13_ID	Cipolla bestiale	Cipolla dal grottesco aspetto.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+VEGE_14_ID	Bocciolo di luce	Il suo fragrante aroma ricorda i giorni d'estate.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+VEGE_15_ID	Erba della salute	Erba dalle proprietà curative.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+VEGE_16_ID	Bocciolo dorato	Fiore che risplende di luce dorata.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+VEGE_17_ID	Tartufo reale	Un spruzzata e aggiunge un deliziosoretrogusto a ogni piatto.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo vigore.</STYL>
+VEGE_18_ID	Sedano aromatico	Il suo sapore varia a seconda dellasua preparazione.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+VEGE_19_ID	Paprica arcobaleno	Il suo colore varia a seconda dellasua preparazione.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+VEGE_20_ID	Frutto putrefatto	Frutto che cresce nella Valle putrefatta.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+VEGE_21_ID	Bacca paradisiaca	Talmente delizioso da mandarein estasi chi lo mangia.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+VEGE_22_ID	Frutto ultraterreno	Il suo magico aroma sembra provenireda un altro mondo.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+VEGE_23_ID	Cavolo multistrato	Cavolo che vanta un infinitonumero di strati.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo acume.</STYL>
+VEGE_24_ID	Fagiolo Kut-Ku	Così piccante da far sputare fiammecome uno Yian Kut-Ku.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+VEGE_25_ID	Mango marcilento	Mango che marcisce rapidamenteuna volta colto.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+VEGE_26_ID	Rocciafrutto	Frutto duro come la roccia.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+VEGE_27_ID	Ananas tropicale	Frutto tropicale difficile da coltivare.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+VEGE_28_ID	Frutto selvaggio	Il suo sapore pungente lo rendeil preferito da numerosi chef.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+VEGE_29_ID	Durian di smeraldo	Frutto raro il cui splendorericorda uno smeraldo.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo artigliere.</STYL>
+LIQUOR_00_ID	Grappa fangosa	Piuttosto difficile da mandare giù.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo percezione.</STYL>
+LIQUOR_01_ID	Birra del drago	Scientificamente provata essere talmenterobusta da stendere persino un wyvern.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo percezione.</STYL>
+LIQUOR_02_ID	Birra del diavolo	Amara abbastanza da far ritirare le papillegustative anche a un Deviljho.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo percezione.</STYL>
+LIQUOR_03_ID	Wyvern Bräu	Birra aromatica e corposa.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo percezione.</STYL>
+LIQUOR_04_ID	Liquore pesce dorato	Liquore estramente raro da ottenere.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo percezione.</STYL>
+LIQUOR_05_ID	Sake ammazzadraghi	Vino di riso. La quintessenza del sake.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo percezione.</STYL>
+LIQUOR_06_ID	Birra del cacciatore	Ottima per rinfrescarsi dopo una lunga caccia.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo fortuna.</STYL>
+LIQUOR_07_ID	Brandy stellare	L'etichetta di questa bottiglia raffigura la famosastella di zaffiro della commissione.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo fortuna.</STYL>
+LIQUOR_08_ID	Master Ale	Ricca e vellutata. La preferitadagli amanti della birra.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo fortuna.</STYL>
+LIQUOR_09_ID	Rathafia	Liquore di frutta fermentata e conservatoin recipienti esposti al respiro di un Rathalos.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo fortuna.</STYL>
+LIQUOR_10_ID	Astera Bräu	La birra artigianale prodotta ad Astera e lapreferita dalla commissione di ricerca.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo fortuna.</STYL>
+LIQUOR_11_ID	Vinsanto	Vino da dolce, ottenuto dalla miglioreuva del Nuovo Mondo.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo fortuna.</STYL>
+LIQUOR_12_ID	Goccia di grancorno	Ottenuto sminuzzando le cornadella fauna delle Distese brinose.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo preparazione.</STYL>
+LIQUOR_13_ID	Birra benaugurante	Offerto in dono ai viaggiatoricome portafortuna.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo preparazione.</STYL>
+LIQUOR_14_ID	Farfabirra	Bevanda tonificante ottenuta dallafermentazione del farfaraccio delle Distese.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo preparazione.</STYL>
+LIQUOR_15_ID	Vispo vin dolce	I suoi ingredienti naturalidi qualità scaldano fino alle ossa.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo preparazione.</STYL>
+LIQUOR_16_ID	Alambicco ammiccante	L’aroma fruttato conquistail palato al primo sorso.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo preparazione.</STYL>
+LIQUOR_17_ID	Tequila temeraria	Bevanda di inaudita potenza bevutadai cacciatori più arditi come prova di coraggio.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo preparazione.</STYL>
+LIQUOR_18_ID	Vodka glaciale	"La vodka ""on the rocks"" della mensa,ora servita sopra un ghiacciolo.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo apripista.</STYL>"
+LIQUOR_19_ID	Tequila cin cin	Un classico con cui si brinda allemissioni ben riuscite e alle occasioni felici.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo apripista.</STYL>
+LIQUOR_20_ID	Cicchetto corroborante	Il gusto limpido della neve appenasciolta rinfranca il palato al termine diuna dura battaglia.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo apripista.</STYL>
+LIQUOR_21_ID	Spuma di sommità	Bevanda raffinata che viene servitasu frammenti di ghiaccio ultracompatto.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo apripista.</STYL>
+LIQUOR_22_ID	Calice cristallino	Bevanda delicata e trasparente,al punto che le bollicine sembranofluttuare nel vuoto.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo apripista.</STYL>
+LIQUOR_23_ID	Amaro ardente	Al primo sorso libera una fiammatache dallo stomaco pervade tutto il corpo.<STYL MOJI_YELLOW_DEFAULT>Probabilità di attivare le abilità di tipo apripista.</STYL>

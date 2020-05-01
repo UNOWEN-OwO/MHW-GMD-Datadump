@@ -1,0 +1,185 @@
+Mission ID	Mission Name	Mission Desc
+0	Badania polowe: złoża górnicze	Zdobądź surowce z 6 złóż górniczych.
+1	Badania polowe: złoża górnicze	Zdobądź surowce z 12 złóż górniczych.
+2	Badania polowe: sterty kości	Zdobądź surowce z 6 stert kości.
+3	Badania polowe: sterty kości	Zdobądź surowce z 12 stert kości.
+4	Badania polowe: flora	Zbierz 4 rośliny.
+5	Badania polowe: flora	Zbierz 7 roślin.
+6	Badania polowe: grzyby	Zbierz 4 grzyby.
+7	Badania polowe: grzyby	Zbierz 7 grzybów.
+8	Badania polowe: entomologia	Zbierz 3 owady.
+9	Badania polowe: entomologia	Zbierz 5 owadów.
+10	Badania polowe: miód	Zbierz miód 3 razy.
+11	Badania polowe: miód	Zbierz miód 5 razy.
+12	Patrol: łowy na duże potwory	Upoluj 2 duże potwory.
+13	Patrol: łowy na duże potwory	Upoluj 1 dużego potwora.
+14	Patrol: łapka na duże potwory	Złap 1 dużego potwora.
+15	Patrol: małe potwory	Zabij 8 małych potworów.
+16	Patrol: małe potwory	Zabij 16 małych potworów.
+17	Rekonesans: Starodrzew	Ukończ 2 zadania w Starodrzewie.
+18	Rekonesans: Starodrzew	Ukończ 3 zadania w Starodrzewie.
+19	Rekonesans: Dzikowieża	Ukończ 2 zadania na Pustkowiu Dzikowieży.
+20	Rekonesans: Dzikowieża	Ukończ 3 zadania na Pustkowiu Dzikowieży.
+21	Badania polowe: złoża górnicze	Zdobądź surowce z 9 złóż górniczych.
+22	Badania polowe: złoża górnicze	Zdobądź surowce z 15 złóż górniczych.
+23	Badania polowe: sterty kości	Zdobądź surowce z 9 stert kości.
+24	Badania polowe: sterty kości	Zdobądź surowce z 15 stert kości.
+25	Badania polowe: flora	Zbierz 5 roślin.
+26	Badania polowe: flora	Zbierz 8 roślin.
+27	Badania polowe: grzyby	Zbierz 5 grzybów.
+28	Badania polowe: grzyby	Zbierz 8 grzybów.
+29	Badania polowe: entomologia	Zbierz 4 owady.
+30	Badania polowe: entomologia	Zbierz 7 owadów.
+31	Badania polowe: miód	Zbierz miód 4 razy.
+32	Badania polowe: miód	Zbierz miód 7 razy.
+33	Patrol: łowy na duże potwory	Upoluj 3 duże potwory.
+34	Patrol: łowy na duże potwory	Upoluj 2 duże potwory.
+35	Patrol: łapka na duże potwory	Złap 2 duże potwory.
+36	Patrol: łapka na duże potwory	Złap 1 dużego potwora.
+37	Patrol: małe potwory	Zabij 10 małych potworów.
+38	Patrol: małe potwory	Zabij 20 małych potworów.
+39	Patrol: łowy na wiwerny kłowe	Upoluj 2 duże wiwerny kłowe.
+40	Patrol: łapka na wiwerny kłowe	Złap 1 dużą wiwernę kłową.
+41	Patrol: łowy na wiwerny ptasie	Upoluj 2 duże wiwerny ptasie.
+42	Patrol: łapka na wiwerny ptasie	Złap 1 dużą wiwernę ptasią.
+43	Patrol: łowy na wiwerny zwaliste	Upoluj 2 duże wiwerny zwaliste.
+44	Patrol: łapka na wiw. zwaliste	Złap 1 dużą wiwernę zwalistą.
+45	Patrol: łowy na wiwerny latające	Upoluj 2 duże wiwerny latające.
+46	Patrol: łapka na wiw. latające	Złap 1 dużą wiwernę latającą.
+47	Rekonesans: Starodrzew	Ukończ 2 zadania w Starodrzewie.
+48	Rekonesans: Starodrzew	Ukończ 3 zadania w Starodrzewie.
+49	Rekonesans: Dzikowieża	Ukończ 2 zadania na Pustkowiu Dzikowieży.
+50	Rekonesans: Dzikowieża	Ukończ 3 zadania na Pustkowiu Dzikowieży.
+51	Rekonesans: Pogórze Koralowe	Ukończ 2 zadania na Pogórzu Koralowym.
+52	Rekonesans: Pogórze Koralowe	Ukończ 3 zadania na Pogórzu Koralowym.
+53	Rekonesans: Gnijąca Dolina	Ukończ 2 zadania w Gnijącej Dolinie.
+54	Rekonesans: Gnijąca Dolina	Ukończ 3 zadania w Gnijącej Dolinie.
+55	Rekonesans: śledztwa	Ukończ 2 śledztwa.
+56	Rekonesans: śledztwa	Ukończ 3 śledztwa.
+57	Patrol: łowy na duże potwory	Upoluj 2 duże potwory wysokiego poziomu.
+58	Patrol: łapka na duże potwory	Złap 1 dużego potwora wysokiego poziomu.
+59	Patrol: małe potwory	Zabij 10 małych potworów wysokiego poziomu.
+60	Rekonesans: Starodrzew	Ukończ 2 zadania wysokiego poziomu w Starodrzewie.
+61	Rekonesans: Dzikowieża	Ukończ 2 zadania wysokiego poziomu na Pustkowiu Dzikowieży.
+62	Rekonesans: Pogórze Koralowe	Ukończ 2 zadania wysokiego poziomu na Pogórzu Koralowym.
+63	Rekonesans: Gnijąca Dolina	Ukończ 2 zadania wysokiego poziomu w Gnijącej Dolinie.
+64	Rekonesans: śledztwa	Ukończ 2 śledztwa wysokiego poziomu.
+65	Badania polowe: złoża górnicze	Zdobądź surowce z 15 złóż górniczych.
+66	Badania polowe: sterty kości	Zdobądź surowce z 15 stert kości.
+67	Badania polowe: flora	Zbierz 8 roślin.
+68	Badania polowe: grzyby	Zbierz 8 grzybów.
+69	Badania polowe: entomologia	Zbierz 7 owadów.
+70	Badania polowe: miód	Zbierz miód 7 razy.
+71	Patrol: łowy na duże potwory	Upoluj 3 duże potwory wysokiego poziomu.
+72	Patrol: łapka na duże potwory	Złap 2 duże potwory wysokiego poziomu.
+73	Patrol: małe potwory	Zabij 20 małych potworów wysokiego poziomu.
+74	Patrol: łowy na wiwerny kłowe	Upoluj 2 duże wiwerny kłowe wysokiego poziomu.
+75	Patrol: łapka na wiwerny kłowe	Złap 1 dużą wiwernę kłową wysokiego poziomu.
+76	Patrol: łowy na wiwerny ptasie	Upoluj 2 duże wiwerny ptasie wysokiego poziomu.
+77	Patrol: łapka na wiwerny ptasie	Złap 1 dużą wiwernę ptasią wysokiego poziomu.
+78	Patrol: łowy na wiwerny zwaliste	Upoluj 2 duże wiwerny zwaliste wysokiego poziomu.
+79	Patrol: łapka na wiw. zwaliste	Złap 1 dużą wiwernę zwalistą wysokiego poziomu.
+80	Patrol: łowy na wiwerny latające	Upoluj 2 duże wiwerny latające wysokiego poziomu.
+81	Patrol: łapka na wiw. latające	Złap 1 dużą wiwernę latającą wysokiego poziomu.
+82	Patrol: łowy na wiwerny rybie	Upoluj 2 duże wiwerny rybie wysokiego poziomu.
+83	Patrol: łapka na wiwerny rybie	Złap 1 dużą wiwernę rybią wysokiego poziomu.
+84	Rekonesans: Starodrzew	Ukończ 3 zadania wysokiego poziomu w Starodrzewie.
+85	Rekonesans: Dzikowieża	Ukończ 3 zadania wysokiego poziomu na Pustkowiu Dzikowieży.
+86	Rekonesans: Pogórze Koralowe	Ukończ 3 zadania wysokiego poziomu na Pogórzu Koralowym.
+87	Rekonesans: Gnijąca Dolina	Ukończ 3 zadania wysokiego poziomu w Gnijącej Dolinie.
+88	Rekonesans: Zacisze Starszych	Ukończ 3 zadania wysokiego poziomu w Zaciszu Starszych.
+89	Rekonesans: śledztwa	Ukończ 3 śledztwa wysokiego poziomu.
+90	Patrol: Starsze Smoki	Zabij 2 Starsze Smoki wysokiego poziomu.
+91	Badania polowe: złoża górnicze	Zdobądź surowce z 21 złóż górniczych.
+92	Badania polowe: sterty kości	Zdobądź surowce z 21 stert kości.
+93	Badania polowe: flora	Zbierz 12 roślin.
+94	Badania polowe: grzyby	Zbierz 12 grzybów.
+95	Badania polowe: entomologia	Zbierz 10 owadów.
+96	Badania polowe: miód	Zbierz miód 10 razy.
+97	Patrol: łowy na duże potwory	Upoluj 4 duże potwory wysokiego poziomu.
+98	Patrol: łapka na duże potwory	Złap 3 duże potwory wysokiego poziomu.
+99	Patrol: małe potwory	Zabij 30 małych potworów wysokiego poziomu.
+100	Patrol: łowy na wiwerny kłowe	Upoluj 3 duże wiwerny kłowe wysokiego poziomu.
+101	Patrol: łapka na wiwerny kłowe	Złap 2 duże wiwerny kłowe wysokiego poziomu.
+102	Patrol: łowy na wiwerny ptasie	Upoluj 3 duże wiwerny ptasie wysokiego poziomu.
+103	Patrol: łapka na wiwerny ptasie	Złap 2 duże wiwerny ptasie wysokiego poziomu.
+104	Patrol: łowy na wiwerny zwaliste	Upoluj 3 duże wiwerny zwaliste wysokiego poziomu.
+105	Patrol: łapka na wiw. zwaliste	Złap 2 duże wiwerny zwaliste wysokiego poziomu.
+106	Patrol: łowy na wiwerny latające	Upoluj 3 duże wiwerny latające wysokiego poziomu.
+107	Patrol: łapka na wiw. latające	Złap 2 duże wiwerny latające wysokiego poziomu.
+108	Patrol: łowy na wiwerny rybie	Upoluj 3 duże wiwerny rybie wysokiego poziomu.
+109	Patrol: łapka na wiwerny rybie	Złap 2 duże wiwerny rybie wysokiego poziomu.
+110	Patrol: Starsze Smoki	Zabij 3 Starsze Smoki wysokiego poziomu.
+111	Rekonesans: Starodrzew	Ukończ 4 zadania wysokiego poziomu w Starodrzewie.
+112	Rekonesans: Dzikowieża	Ukończ 4 zadania wysokiego poziomu na Pustkowiu Dzikowieży.
+113	Rekonesans: Pogórze Koralowe	Ukończ 4 zadania wysokiego poziomu na Pogórzu Koralowym.
+114	Rekonesans: Gnijąca Dolina	Ukończ 4 zadania wysokiego poziomu w Gnijącej Dolinie.
+115	Rekonesans: Zacisze Starszych	Ukończ 4 zadania wysokiego poziomu w Zaciszu Starszych.
+116	Rekonesans: śledztwa	Ukończ 4 śledztwa wysokiego poziomu.
+117	Kultura: Pustkowie Dzikowieży	Złap 3 obrońców.
+118	Kultura: Pustkowie Dzikowieży II	Zgłoś się do obrońców w ich osadzie.
+119	Kultura: język Gajalaków	Zbierz 10 śladów Gajalaków.
+120	Kultura: język Gajalaków II	Odkryj osadę Gajalaków.
+121	Wsparcie: różowy parexus	Złap różowego parexusa.
+122	Wsparcie: ryba sushi	Złap rybę sushi.
+123	Wsparcie: ryba prochowa	Złap rybę prochową.
+124	Wsparcie: złota rybka	Złap złotą rybkę.
+125	Wsparcie: platynówka	Złap platynówkę.
+126	Wsparcie: leśny pteryx	Złap leśnego pteryxa.
+127	Wsparcie: mrówki tragarze	Złap 9 mrówek tragarzy.
+128	Wsparcie: pełzacz	Złap 3 pełzacze.
+129	Wsparcie: scavantule	Złap 5 scavantul.
+130	Wsparcie: bombożuk	Złap bombożuka.
+131	Wsparcie: łapanie prastarego	Złap tak zwane prastare stworzenie z Nowego Świata.
+132	Wsparcie: ptak widmo	Złap przedstawiciela lokalnej fauny znanego jako ptak widmo.
+133	Odbuduj obóz w Starodrzewie	Zabezpiecz miejsce pod obóz.
+134	Pomoc badawcza: chwytanie	Schwytaj stworzenie z innego świata.Wskazówka: zajrzyj do przewodnika polowego.
+135	Wsparcie: szklany parexus	Złap szklanego parexusa.
+136	Wsparcie: tajemnicza ryba	Złap tajemniczą rybę ze Szronistego Brzegu.
+137	Wsparcie: pingwin bajowy	Złap 3 pingwiny bajowe.
+138	Wsparcie: tajemnicze zwierzę	Złap tajemniczy okaz fauny ze Szronistego Brzegu.
+139	Wsparcie: ostrzalnik	Złów ostrzalnika wartego złotej korony.
+140	Wsparcie: wybucharowana	Złów wybucharowanę wartą złotej korony.
+141	Wsparcie: szklany parexus	Złów szklanego parexusa wartego złotej korony.
+142	Wsparcie: mucha pogodynka	Złów muchę pogodynkę wartą złotej korony.
+143	Wsparcie: szykowny ptak koralowy	Złów szykownego ptaka koralowegowartego złotej korony.
+144	Wsparcie: pingwin bajowy	Złów pingwina bajowego wartego złotej korony.
+145	Badania polowe: złoża górnicze	Zdobądź surowce z 12 złóż górniczych.
+146	Badania polowe: sterty kości	Zdobądź surowce z 12 stert kości.
+147	Badania polowe: flora	Zbierz 8 roślin.
+148	Badania polowe: grzyby	Zbierz 8 grzybów.
+149	Badania polowe: entomologia	Zbierz 6 owadów.
+150	Badania polowe: miód	Zbierz miód 6 razy.
+151	Patrol: łowy na duże potwory	Upoluj 3 duże potwory rangi mistrzowskiej.
+152	Patrol: łapka na duże potwory	Złap 3 duże potwory rangi mistrzowskiej.
+153	Patrol: małe potwory	Zabij 10 małych potworów rangi mistrzowskiej.
+154	Patrol: łowy na wiwerny kłowe	Upoluj 2 duże wiwerny kłowerangi mistrzowskiej.
+155	Patrol: łapka na wiwerny kłowe	Złap 2 duże wiwerny kłowe rangi mistrzowskiej.
+156	Patrol: łowy na wiwerny ptasie	Upoluj 2 duże wiwerny ptasierangi mistrzowskiej.
+157	Patrol: łapka na wiwerny ptasie	Złap 2 duże wiwerny ptasie rangi mistrzowskiej.
+158	Patrol: łowy na wiwerny zwaliste	Upoluj 2 duże wiwerny zwalisterangi mistrzowskiej.
+159	Patrol: łapka na wiwerny zwaliste	Złap 2 duże wiwerny zwaliste rangi mistrzowskiej.
+160	Patrol: łowy na wiwerny rybie	Upoluj 2 duże wiwerny rybierangi mistrzowskiej.
+161	Patrol: łapka na wiwerny rybie	Złap 2 duże wiwerny rybie rangi mistrzowskiej.
+162	Rekonesans: Starodrzew	Ukończ 2 zadania rangi mistrzowskiejw Starodrzewie.
+163	Rekonesans: Dzikowieża	Ukończ 2 zadania rangi mistrzowskiejna Pustkowiu Dzikowieży.
+164	Rekonesans: Pogórze Koralowe	Ukończ 2 zadania rangi mistrzowskiejna Pogórzu Koralowym.
+165	Rekonesans: Gnijąca Dolina	Ukończ 2 zadania rangi mistrzowskiejw Gnijącej Dolinie.
+166	Rekonesans: Zacisze Starszych	Ukończ 2 zadania rangi mistrzowskiejw Zaciszu Starszych.
+167	Rekonesans: śledztwa	Ukończ 2 śledztwa rangi mistrzowskiej.
+168	Rekonesans: Szronisty Brzeg	Ukończ 2 zadania rangi mistrzowskiejna Szronistym Brzegu.
+169	Patrol: łowy na wiwerny latające	Upoluj 2 duże wiwerny latającerangi mistrzowskiej.
+170	Patrol: łapka na wiwerny latające	Złap 2 duże wiwerny latające rangi mistrzowskiej.
+171	Patrol: łowy na duże potwory	Upoluj 6 dużych potworówrangi mistrzowskiej.
+172	Patrol: łowy na wiwerny kłowe	Upoluj 4 duże wiwerny kłowerangi mistrzowskiej.
+173	Patrol: łowy na wiwerny ptasie	Upoluj 4 duże wiwerny ptasierangi mistrzowskiej.
+174	Patrol: łowy na wiwerny zwaliste	Upoluj 4 duże wiwerny zwalisterangi mistrzowskiej.
+175	Patrol: łowy na wiwerny latające	Upoluj 4 duże wiwerny latającerangi mistrzowskiej.
+176	Patrol: łowy na wiwerny rybie	Upoluj 4 duże wiwerny rybierangi mistrzowskiej.
+177	Patrol: Starsze Smoki	Zabij 2 Starsze Smoki rangi mistrzowskiej.
+178	Patrol: Starsze Smoki	Zabij 4 Starsze Smoki rangi mistrzowskiej.
+179	Ekologia: upoluj zahartowanego potwora	Upoluj 2 duże zahartowane potworyrangi mistrzowskiej.
+180	Ekologia: upoluj zahartowanego potwora	Upoluj 4 duże zahartowane potworyrangi mistrzowskiej.
+181	Kultura: Szronisty Brzeg	Wyrusz na ekspedycję na Szronisty Brzegi upoluj jednego dużego potwora.
+182	Kultura: Szronisty Brzeg II	Idź do osady Boaboa i weź udziałw zebraniu ich rady.
+183	Kultura: Szronisty Brzeg III	Ukończ zadanie M2<ICON STAR_1>Wspólnymi siłami.

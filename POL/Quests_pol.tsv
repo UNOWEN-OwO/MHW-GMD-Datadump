@@ -1,0 +1,508 @@
+Quest ID	Quest Name	Quest Target	Fail Condition
+00000	Unavailable	Unavailable	Unavailable
+00001	Unavailable	Unavailable	Unavailable
+00002	Unavailable	Unavailable	Unavailable
+00003	Invalid Message	Invalid Message	Invalid Message
+00004	Invalid Message	Invalid Message	Invalid Message
+00005	Invalid Message	Invalid Message	Invalid Message
+00101	Jagras ze Starodrzewu	Zabij 7 Jagrasów	Koniec czasuTrzykrotne zemdlenie
+00102	Kestodonowa awantura	Ukończ zlecenie	Koniec czasuTrzykrotne zemdlenie
+00103	Polowanie na Wielkiego Jagrasa	Upoluj Wielkiego Jagrasa	Koniec czasuTrzykrotne zemdlenie
+00151	Chwytanie natury za rogi	Zabij 12 Kestodonów	Koniec czasuTrzykrotne zemdlenie
+00152	Gęstwina bandytów	Zabij 7 Jagrasów	Koniec czasuTrzykrotne zemdlenie
+00153	Grzybne harce w Starodrzewie	Dostarcz 20grzybków przepysznych	Koniec czasuTrzykrotne zemdlenie
+00201	Bandyta o ptasim móżdżku	Upoluj Kulu-Ya-Ku	Koniec czasuTrzykrotne zemdlenie
+00205	Pilne: łowy na Pukei-Pukei	Upoluj Pukei-Pukei	Koniec czasuTrzykrotne zemdlenie
+00241	Nauka chwytu	Dowiedz się, jak działa pazurchwytny	Koniec czasuTrzykrotne zemdlenieUpolowanie Wielkiego Jagrasa
+00251	Wielki żarłok	Upoluj Wielkiego Jagrasa	Koniec czasuTrzykrotne zemdlenie
+00252	Wizyta w obozie	Upoluj Kulu-Ya-Ku	Koniec czasuTrzykrotne zemdlenie
+00261	Dorwać porywacza	Złap Kulu-Ya-Ku	Koniec czasuTrzykrotne zemdlenieŚmierć Kulu-Ya-Ku
+00262	Bez pracy nie ma masy	Zabij 7 Gajau	Koniec czasuTrzykrotne zemdlenie
+00263	Tępiciel z pustkowia	Zabij 14 Vespoidów	Koniec czasuTrzykrotne zemdlenie
+00301	Zadanie najlepszego sortu	Ukończ zlecenie	Koniec czasuTrzykrotne zemdlenie
+00302	Złowrogi cień na bagnach	Ukończ zlecenie	Koniec czasuTrzykrotne zemdlenie
+00305	Sypie iskrami: Tobi-Kadachi	Upoluj Tobi-Kadachi	Koniec czasuTrzykrotne zemdlenie
+00306	Nadejście Anjanatha	Upoluj Anjanatha	Koniec czasuTrzykrotne zemdlenie
+00331	Specjalna Arena: Pukei-Pukei	Upoluj Pukei-Pukei	Koniec czasuTrzykrotne zemdlenie
+00332	Specjalna Arena: Barroth	Upoluj Barrotha	Koniec czasuTrzykrotne zemdlenie
+00333	Specjalna Arena: Tobi-Kadachi	Upoluj Tobi-Kadachi	Koniec czasuTrzykrotne zemdlenie
+00351	Niedobór trzaskorzechów	Upoluj Pukei-Pukei	Koniec czasuTrzykrotne zemdlenie
+00352	Obecna sytuacja	Upoluj Tobi-Kadachi	Koniec czasuTrzykrotne zemdlenie
+00361	Grząska sprawa przy wieży	Upoluj Barrotha	Koniec czasuTrzykrotne zemdlenie
+00362	Kłopoty z rybami	Upoluj Jyuratodusa	Koniec czasuTrzykrotne zemdlenie
+00363	Kłujący problem	Dostarcz 20kaktusów błyskotkowych	Koniec czasuTrzykrotne zemdlenie
+00364	Jaja na pustkowiu	Dostarcz 2 jaja roślinożercy	Koniec czasuTrzykrotne zemdlenie
+00365	Wiwerna na osuwisku	Złap Barrotha	Koniec czasuTrzykrotne zemdlenieŚmierć Barrotha
+00401	Wiekopomna chwila	Ukończ zlecenie	Koniec czasuTrzykrotne zemdlenie
+00405	Balonowe problemy	Upoluj Paolumu	Koniec czasuTrzykrotne zemdlenie
+00407	Zapora z Radobaanów	Upoluj Radobaana	Koniec czasuTrzykrotne zemdlenie
+00408	Legiana: wcielenie elegancji	Upoluj Legianę	Koniec czasuTrzykrotne zemdlenie
+00431	Specjalna Arena: Anjanath	Upoluj Anjanatha	Koniec czasuTrzykrotne zemdlenie
+00432	Specjalna Arena: Rathiana	Upoluj Rathianę	Koniec czasuTrzykrotne zemdlenie
+00433	Specjalna Arena: Paolumu	Upoluj Paolumu	Koniec czasuTrzykrotne zemdlenie
+00434	Specjalna Arena: Radobaan	Upoluj Radobaana	Koniec czasuTrzykrotne zemdlenie
+00451	Piekielne zapalenie zatok	Upoluj Anjanatha	Koniec czasuTrzykrotne zemdlenie
+00452	Jaja w lesie	Dostarcz 2 jaja wiwerny	Koniec czasuTrzykrotne zemdlenie
+00461	Królewska przeprowadzka	Upoluj Rathianę	Koniec czasuTrzykrotne zemdlenie
+00471	Straszny Shamos	Zabij 11 Shamosów	Koniec czasuTrzykrotne zemdlenie
+00472	Tzitzi dla dobra nauki	Upoluj Tzitzi-Ya-Ku	Koniec czasuTrzykrotne zemdlenie
+00473	Ciebie nikt nie zapraszał	Upoluj Paolumu	Koniec czasuTrzykrotne zemdlenie
+00474	Aż się uchowce trzęsą	Dostarcz 10 superuchowców	Koniec czasuTrzykrotne zemdlenie
+00475	Biały potwór, biały płaszcz	Złap Paolumu	Koniec czasuTrzykrotne zemdlenieŚmierć Paolumu
+00481	Uparte szkodniki	Zabij 14 Hornetaurów	Koniec czasuTrzykrotne zemdlenie
+00482	Siedlisko zgnilizny	Upoluj Wielkiego Girrosa	Koniec czasuTrzykrotne zemdlenie
+00483	Kości zostały rzucone	Upoluj Radobaana	Koniec czasuTrzykrotne zemdlenie
+00484	Na skrzydłach koszmaru	Zabij 5 Raphinosów	Koniec czasuTrzykrotne zemdlenie
+00501	We wnętrznościach doliny	Ukończ zlecenie	Koniec czasuTrzykrotne zemdlenie
+00502	Ognisty tron w lesie	Upoluj Rathalosa	Koniec czasuTrzykrotne zemdlenie
+00503	Rogaty tyran pod piaskiem	Upoluj Diablosa	Koniec czasuTrzykrotne zemdlenie
+00504	Kolosalne zadanie	Ukończ zlecenie	Koniec czasuTrzykrotne zemdlenieZorah Magdaros zboczył z drogi
+00531	Specjalna Arena: Legiana	Upoluj Legianę	Koniec czasuTrzykrotne zemdlenie
+00532	Specjalna Arena: Odogaron	Upoluj Odogarona	Koniec czasuTrzykrotne zemdlenie
+00533	Specjalna Arena: Rathalos	Upoluj Rathalosa	Koniec czasuTrzykrotne zemdlenie
+00534	Specjalna Arena: Diablos	Upoluj Diablosa	Koniec czasuTrzykrotne zemdlenie
+00551	Pragnienie staje się obsesją	Upoluj Rathalosa	Koniec czasuTrzykrotne zemdlenie
+00552	Redefiniując „wpływową parę”	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+00561	Dwie wieże pośród piasków	Upoluj Diablosa	Koniec czasuTrzykrotne zemdlenie
+00571	Od wilgoci głowa boli	Upoluj Legianę	Koniec czasuTrzykrotne zemdlenie
+00572	Załatwione błyskawicznie	Zabij Kirina	Koniec czasuTrzykrotne zemdlenie
+00581	Swędzące miejsce	Upoluj Odogarona	Koniec czasuTrzykrotne zemdlenie
+00582	Przyjaciel człowieka	Złap Odogarona	Koniec czasuTrzykrotne zemdlenieŚmierć Odogarona
+00583	Do żywego mięsa	Dostarcz 2 kawały mięsa	Koniec czasuTrzykrotne zemdlenie
+00601	Intruz na pustkowiach	Upoluj Pukei-Pukei	Koniec czasuTrzykrotne zemdlenie
+00605	Różowo mi	Upoluj Anjanatha	Koniec czasuTrzykrotne zemdlenie
+00607	Stary potwór w Nowym Świecie	Ukończ zlecenie	Koniec czasuTrzykrotne zemdlenie
+00631	Specjalna Arena: WO Pukei-Pukei	Upoluj Pukei-Pukei	Koniec czasuTrzykrotne zemdlenie
+00632	Specjalna Arena: WO Barroth	Upoluj Barrotha	Koniec czasuTrzykrotne zemdlenie
+00633	Specjalna Arena: WO Kadachi	Upoluj Tobi-Kadachi	Koniec czasuTrzykrotne zemdlenie
+00634	Specjalna Arena: WO Anjanath	Upoluj Anjanatha	Koniec czasuTrzykrotne zemdlenie
+00635	Specjalna Arena: WO Rathiana	Upoluj Rathianę	Koniec czasuTrzykrotne zemdlenie
+00636	Specjalna Arena: WO Paolumu	Upoluj Paolumu	Koniec czasuTrzykrotne zemdlenie
+00637	Specjalna Arena: WO Radobaan	Upoluj Radobaana	Koniec czasuTrzykrotne zemdlenie
+00641	Robi wrażenie	Przeprowadź Zoraha Magdarosa	Koniec czasuTrzykrotne zemdlenieZorah Magdaros zboczył z drogi
+00651	Trudne do przełknięcia	Upoluj Wielkiego Jagrasa	Koniec czasuTrzykrotne zemdlenie
+00652	Zielony wyłupiastooki potwór	Upoluj Pukei-Pukei	Koniec czasuTrzykrotne zemdlenie
+00653	Włosy dęba stają	Upoluj Tobi-Kadachi	Koniec czasuTrzykrotne zemdlenie
+00654	Ruszysz się, to cię zobaczy	Upoluj Anjanatha	Koniec czasuTrzykrotne zemdlenie
+00655	Śpiąca królowa lasu	Upoluj Rathianę	Koniec czasuTrzykrotne zemdlenie
+00656	Tkwią w jednym punkcie	Złap Tobi-Kadachi	Koniec czasuTrzykrotne zemdlenieŚmierć Tobi-Kadachi
+00661	Łapy przy sobie!	Upoluj Kulu-Ya-Ku	Koniec czasuTrzykrotne zemdlenie
+00662	Korona błota i gniewu	Upoluj Barrotha	Koniec czasuTrzykrotne zemdlenie
+00663	Zasadzka Pukei-Pukei	Upoluj Pukei-Pukei	Koniec czasuTrzykrotne zemdlenie
+00665	Po szyję w pustkowiu	Upoluj Jyuratodusa	Koniec czasuTrzykrotne zemdlenie
+00666	Brąz głuszy, zieleń królowej	Upoluj Rathianę	Koniec czasuTrzykrotne zemdlenie
+00667	Kłopotliwy intruz	Upoluj Anjanatha	Koniec czasuTrzykrotne zemdlenie
+00671	Uśmiech proszę!	Upoluj Tzitzi-Ya-Ku	Koniec czasuTrzykrotne zemdlenie
+00672	Pętla na Paolumu	Upoluj Paolumu	Koniec czasuTrzykrotne zemdlenie
+00681	Niepokojący smak	Upoluj Wielkiego Girrosa	Koniec czasuTrzykrotne zemdlenie
+00682	W koleinie	Upoluj Radobaana	Koniec czasuTrzykrotne zemdlenie
+00683	Kuchnia! Prosto z pompy	Dostarcz 4 zapomniane skamieliny	Koniec czasuTrzykrotne zemdlenie
+00684	Kuchnia! Przegniła prośba	Zabij 10 Girrosów	Koniec czasuTrzykrotne zemdlenie
+00691	Miauczenie o pomoc	Zabij 13 Gastodonów	Koniec czasuTrzykrotne zemdlenie
+00692	Parząca porcja	Zabij 5 Barnosów	Koniec czasuTrzykrotne zemdlenie
+00693	Dramat z Dodogamą	Upoluj Dodogamę	Koniec czasuTrzykrotne zemdlenie
+00694	Kuchnia! Kłopot z Gajalakami	Pokonaj 10 Gajalaków	Koniec czasuTrzykrotne zemdlenie
+00701	Rana i pragnienie	Zabij Nergiganta	Koniec czasuTrzykrotne zemdlenie
+00731	Sp. Arena: WO Różowa Rathiana	Upoluj Różową Rathianę	Koniec czasuTrzykrotne zemdlenie
+00732	Specjalna Arena: WO Legiana	Upoluj Legianę	Koniec czasuTrzykrotne zemdlenie
+00733	Specjalna Arena: WO Odogaron	Upoluj Odogarona	Koniec czasuTrzykrotne zemdlenie
+00734	Specjalna Arena: WO Uragaan	Upoluj Uragaana	Koniec czasuTrzykrotne zemdlenie
+00735	Specjalna Arena: WO Rathalos	Upoluj Rathalosa	Koniec czasuTrzykrotne zemdlenie
+00736	Sp. Arena: WO Laz. Rathalos	Upoluj Lazurowego Rathalosa	Koniec czasuTrzykrotne zemdlenie
+00737	Specjalna Arena: WO Diablos	Upoluj Diablosa	Koniec czasuTrzykrotne zemdlenie
+00738	Sp. Arena: WO Czarna Diabla	Upoluj Czarną Diablę	Koniec czasuTrzykrotne zemdlenie
+00751	Rewanż z Rathalosami	Upoluj Rathalosa	Koniec czasuTrzykrotne zemdlenie
+00752	Lazurowa Apokalipsa	Upoluj Lazurowego Rathalosa	Koniec czasuTrzykrotne zemdlenie
+00753	Czerwono-niebieska załoga	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+00761	Piękność w różu	Upoluj Różową Rathianę	Koniec czasuTrzykrotne zemdlenie
+00762	A to Diablos!	Upoluj Diablosa	Koniec czasuTrzykrotne zemdlenie
+00763	Dwurożna wrogość	Upoluj Czarną Diablę	Koniec czasuTrzykrotne zemdlenie
+00764	Rrrrozróba na pustkowiu!	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+00771	Wiśniowy wiatr na rafach	Upoluj Różową Rathianę	Koniec czasuTrzykrotne zemdlenie
+00772	Legiana: królowie pogórza	Upoluj Legianę	Koniec czasuTrzykrotne zemdlenie
+00773	Bolesne miejsce	Upoluj Odogarona	Koniec czasuTrzykrotne zemdlenie
+00774	Szpony gniewu i lodu	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+00781	Odogaron na wolności	Upoluj Odogarona	Koniec czasuTrzykrotne zemdlenie
+00791	Lavasioth, magmowy potwór	Upoluj Lavasiotha	Koniec czasuTrzykrotne zemdlenie
+00792	Pożeracz rudy	Upoluj Uragaana	Koniec czasuTrzykrotne zemdlenie
+00793	Władca lazurowego nieba	Upoluj Lazurowego Rathalosa	Koniec czasuTrzykrotne zemdlenie
+00794	Bazelgez na polu ognia	Upoluj Bazelgeza	Koniec czasuTrzykrotne zemdlenie
+00795	Ogniste połączenie	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+00801	Kushala Daora, stalowy smok	Zabij Kushalę Daorę	Koniec czasuTrzykrotne zemdlenie
+00802	Piekielna Teostra	Zabij Teostrę	Koniec czasuTrzykrotne zemdlenie
+00803	Piekielny bies Vaal Hazak	Zabij Vaal Hazaka	Koniec czasuTrzykrotne zemdlenie
+00804	Kraina konwergencji	Ukończ zlecenie	Koniec czasuTrzykrotne zemdlenie
+00805	Poza wybuchowymi łuskami	Upoluj dwa Bazelgezy	Koniec czasuTrzykrotne zemdlenie
+00806	Grzmoty na pogórzach	Zabij Kirina	Koniec czasuTrzykrotne zemdlenie
+00851	Zwiastun katastrofy	Zabij Kushalę Daorę	Koniec czasuTrzykrotne zemdlenie
+00861	Pożoga na piaskach	Zabij Teostrę	Koniec czasuTrzykrotne zemdlenie
+00871	Piorun uderza dwa razy	Zabij Kirina	Koniec czasuTrzykrotne zemdlenie
+00881	Drgania zza grobu	Zabij Vaal Hazaka	Koniec czasuTrzykrotne zemdlenie
+00891	Zjadacz Starszych	Zabij Nergiganta	Koniec czasuTrzykrotne zemdlenie
+00892	Władca wichru	Zabij Kushalę Daorę	Koniec czasuTrzykrotne zemdlenie
+00893	Twierdza piekielnego ognia	Zabij Teostrę	Koniec czasuTrzykrotne zemdlenie
+00894	Zjadacz Starszych	Zabij Nergiganta	Koniec czasuTrzykrotne zemdlenie
+00895	Wiatr gniewu kąsa głęboko	Zabij Kushalę Daorę	Koniec czasuTrzykrotne zemdlenie
+00896	Ogień piekielny kąsa głęboko	Zabij Teostrę	Koniec czasuTrzykrotne zemdlenie
+00961	Poza wybuchowymi łuskami	Upoluj 2 Bazelgezy	Koniec czasuTrzykrotne zemdlenie
+00971	Grzmoty na pogórzach	Zabij Kirina	Koniec czasuTrzykrotne zemdlenie
+00991	Światło przy ponurej rzece	Zabij Xeno'jiiva	Koniec czasuTrzykrotne zemdlenie
+00992	Białe wiatry Nowego Świata	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+00995	Wskazówki Szafirowej Gwiazdy	Zabij wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+00996	Konfrontacja: młot i maź	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+00997	Kwiaty i niebo Nowego Świata	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+00998	Wezwanie z czeluści	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+01101	Chrzest lodu	Upoluj Beotodusa	Koniec czasuTrzykrotne zemdlenie
+01102	Blokada Banbaro	Upoluj Banbaro	Koniec czasuTrzykrotne zemdlenie
+01121	Nurek śnieżny	Upoluj Beotodusa	Koniec czasuTrzykrotne zemdlenie
+01122	Odparcie szarży	Upoluj Banbaro	Koniec czasuTrzykrotne zemdlenie
+01123	Lodowa zdobycz!	Złap Beotodusa	Koniec czasuTrzykrotne zemdlenieŚmierć Beotodusa
+01124	Zew dziczy	Zabij 10 Wulgów	Koniec czasuTrzykrotne zemdlenie
+01125	Pozdrowienia z tundry	Dostarcz 20 młodych masłorzepów	Koniec czasuTrzykrotne zemdlenie
+01131	Specjalna Arena: Pukei-Pukei RM	Upoluj Pukei-Pukei	Koniec czasuTrzykrotne zemdlenie
+01132	Specjalna Arena: Barroth RM	Upoluj Barrotha	Koniec czasuTrzykrotne zemdlenie
+01133	Specjalna Arena: Tobi-Kadachi RM	Upoluj Tobi-Kadachi	Koniec czasuTrzykrotne zemdlenie
+01134	Specjalna Arena: Banbaro RM	Upoluj Banbaro	Koniec czasuTrzykrotne zemdlenie
+01151	Powrót Wielkiego Jagrasa!	Upoluj Wielkiego Jagrasa	Koniec czasuTrzykrotne zemdlenie
+01152	Problemy Nowego Świata	Upoluj Pukei-Pukei	Koniec czasuTrzykrotne zemdlenie
+01153	Od razu do rzeczy	Upoluj Tobi-Kadachi	Koniec czasuTrzykrotne zemdlenie
+01154	Łapy precz od kolekcji!	Upoluj Kulu-Ya-Ku	Koniec czasuTrzykrotne zemdlenie
+01155	Rozprawa z niszczycielem drzew	Złap Banbaro	Koniec czasuTrzykrotne zemdlenieŚmierć Banbaro
+01161	Polowanie na skarby w Dzikowieży	Upoluj Kulu-Ya-Ku	Koniec czasuTrzykrotne zemdlenie
+01162	Zawody w rzucaniu błotem	Upoluj Barrotha	Koniec czasuTrzykrotne zemdlenie
+01163	Jyur stoi mi na drodze	Upoluj Jyuratodusa	Koniec czasuTrzykrotne zemdlenie
+01164	Tournée degustatora	Upoluj Pukei-Pukei	Koniec czasuTrzykrotne zemdlenie
+01171	Złe sygnały	Upoluj Tzitzi-Ya-Ku	Koniec czasuTrzykrotne zemdlenie
+01181	Wkurzający Girros	Upoluj Wielkiego Girrosa	Koniec czasuTrzykrotne zemdlenie
+01191	Ciężko się zmusić	Upoluj Dodogamę	Koniec czasuTrzykrotne zemdlenie
+01192	To jest kraj dla wielkich rogów!	Upoluj Banbaro	Koniec czasuTrzykrotne zemdlenie
+01201	Gotowy do uderzenia	Upoluj Żmijowego Tobi-Kadachi	Koniec czasuTrzykrotne zemdlenie
+01202	Nie czas na drzemkę	Upoluj Bieluniowatego Paolumu	Koniec czasuTrzykrotne zemdlenie
+01203	Gra na dwa fronty	Upoluj Koralowego Pukei-Pukei	Koniec czasuTrzykrotne zemdlenie
+01221	Analiza prowadzi do paraliżu	Upoluj Żmijowego Tobi-Kadachi	Koniec czasuTrzykrotne zemdlenie
+01222	Szczypta trucizny i paraliżu	Złap Żmijowego Tobi-Kadachi	Koniec czasuTrzykrotne zemdlenieŚmierć Żmijowego Tobi-Kadachi
+01223	Boaboa dusiciel	Pokonaj 14 Boaboa	Koniec czasuTrzykrotne zemdlenie
+01224	Wspólnymi siłami	Upoluj Beotodusa	Koniec czasuTrzykrotne zemdlenie
+01225	Coś za coś...	Upoluj Beotodusa	Koniec czasuTrzykrotne zemdlenie
+01231	Specjalna Arena: Anjanath RM	Upoluj Anjanatha	Koniec czasuTrzykrotne zemdlenie
+01232	Specjalna Arena: Radobaan RM	Upoluj Radobaana	Koniec czasuTrzykrotne zemdlenie
+01233	Specjalna Arena: Koralowy Pukei-Pukei RM	Upoluj Koralowego Pukei-Pukei	Koniec czasuTrzykrotne zemdlenie
+01234	Specjalna Arena: Żmijowy Tobi-Kadachi RM	Upoluj Żmijowego Tobi-Kadachi	Koniec czasuTrzykrotne zemdlenie
+01235	Specjalna Arena: Rathiana RM	Upoluj Rathianę	Koniec czasuTrzykrotne zemdlenie
+01236	Specjalna Arena: Różowa Rathiana RM	Upoluj Różową Rathianę	Koniec czasuTrzykrotne zemdlenie
+01237	Specjalna Arena: Paolumu RM	Upoluj Paolumu	Koniec czasuTrzykrotne zemdlenie
+01238	Specjalna Arena: Biel. Paolumu RM	Upoluj Bieluniowatego Paolumu	Koniec czasuTrzykrotne zemdlenie
+01251	Wybryki Anjanatha	Upoluj Anjanatha	Koniec czasuTrzykrotne zemdlenie
+01252	Towarzysz głupca	Upoluj Rathianę	Koniec czasuTrzykrotne zemdlenie
+01253	Bieluniowate dobranoc	Złap Bieluniowatego Paolumu	Koniec czasuTrzykrotne zemdlenieŚmierć Bieluniowatego Paolumu
+01261	Królowa w sercu	Upoluj Rathianę	Koniec czasuTrzykrotne zemdlenie
+01262	Twarz rodem z koszmaru	Upoluj Bieluniowatego Paolumu	Koniec czasuTrzykrotne zemdlenie
+01263	Nie wtykaj nosa gdzie nie trzeba	Upoluj Anjanatha	Koniec czasuTrzykrotne zemdlenie
+01264	Dziewczęce gadki	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+01271	Problem Paolumu	Upoluj Paolumu	Koniec czasuTrzykrotne zemdlenie
+01272	Różowy skok na władzę	Upoluj Różową Rathianę	Koniec czasuTrzykrotne zemdlenie
+01273	Rada: Nawadniaj się	Upoluj Koralowego Pukei-Pukei	Koniec czasuTrzykrotne zemdlenie
+01274	Nie pij tyle!	Upoluj Koralowego Pukei-Pukei	Koniec czasuTrzykrotne zemdlenie
+01281	To nie powód do śmiechu	Upoluj Radobaana	Koniec czasuTrzykrotne zemdlenie
+01282	Ścigając owady	Zabij wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+01291	Szukając migotania	Dostarcz 20 bursztynów Gai	Koniec czasuTrzykrotne zemdlenie
+01301	Śnieżna zamieć	Upoluj Bariotha	Koniec czasuTrzykrotne zemdlenie
+01302	Wszechobecny cień	Upoluj Nargacuga	Koniec czasuTrzykrotne zemdlenie
+01303	Palące ostrze	Upoluj Glavenusa	Koniec czasuTrzykrotne zemdlenie
+01304	Władza absolutna	Upoluj Tigrexa	Koniec czasuTrzykrotne zemdlenie
+01305	Druzgocąca kontra	Upoluj Brachydiosa	Koniec czasuTrzykrotne zemdlenie
+01306	Opowieści lodu i ognia	Odeprzyj atak Velkhana	Koniec czasuTrzykrotne zemdlenie
+01321	Pamiętasz tamte łowy?	Upoluj Bariotha	Koniec czasuTrzykrotne zemdlenie
+01322	Miaudealny pokój: Kamień	Złap Tigrexa	Koniec czasuTrzykrotne zemdlenieŚmierć Tigrexa
+01323	Dumny biały rycerz	Upoluj Bariotha	Koniec czasuTrzykrotne zemdlenie
+01331	Specjalna Arena: Legiana RM	Upoluj Legianę	Koniec czasuTrzykrotne zemdlenie
+01332	Specjalna Arena: Odogaron RM	Upoluj Odogarona	Koniec czasuTrzykrotne zemdlenie
+01333	Specjalna Arena: Uragaan RM	Upoluj Uragaana	Koniec czasuTrzykrotne zemdlenie
+01334	Specjalna Arena: Rathalos RM	Upoluj Rathalosa	Koniec czasuTrzykrotne zemdlenie
+01335	Specjalna Arena: Diablos RM	Upoluj Diablosa	Koniec czasuTrzykrotne zemdlenie
+01336	Specjalna Arena: Barioth RM	Upoluj Bariotha	Koniec czasuTrzykrotne zemdlenie
+01337	Specjalna Arena: Nargacug RM	Upoluj Nargacuga	Koniec czasuTrzykrotne zemdlenie
+01338	Specjalna Arena: Glavenus RM	Upoluj Glavenusa	Koniec czasuTrzykrotne zemdlenie
+01339	Specjalna Arena: Brachydios RM	Upoluj Brachydiosa	Koniec czasuTrzykrotne zemdlenie
+01340	Specjalna Arena: Tigrex RM	Upoluj Tigrexa	Koniec czasuTrzykrotne zemdlenie
+01351	Niżej już upaść nie można	Upoluj Rathalosa	Koniec czasuTrzykrotne zemdlenie
+01352	Gdyby nie ten Nargacug...	Upoluj Nargacuga	Koniec czasuTrzykrotne zemdlenie
+01353	Sekret dobrego cięcia	Upoluj Glavenusa	Koniec czasuTrzykrotne zemdlenie
+01354	Czerwone i czarne asy	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+01361	Linia w piasku	Upoluj Diablosa	Koniec czasuTrzykrotne zemdlenie
+01362	Błysk ostrza	Upoluj Glavenusa	Koniec czasuTrzykrotne zemdlenie
+01363	Duszenie i cięcie	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+01371	Porzucona Legiana	Upoluj Legianę	Koniec czasuTrzykrotne zemdlenie
+01372	Czarny wiatr	Upoluj Nargacuga	Koniec czasuTrzykrotne zemdlenie
+01373	Wstrętna rana powierzchowna	Upoluj Odogarona	Koniec czasuTrzykrotne zemdlenie
+01381	Ostrożnie z suszonym mięsem	Upoluj Odogarona	Koniec czasuTrzykrotne zemdlenie
+01382	Ryk, który wstrząsnął Doliną	Upoluj Tigrexa	Koniec czasuTrzykrotne zemdlenie
+01383	Bieg pośród łez	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+01391	Ostrzeżenie o wybuchu	Upoluj Brachydiosa	Koniec czasuTrzykrotne zemdlenie
+01392	Narzekać każdy potrafi	Upoluj Lavasiotha	Koniec czasuTrzykrotne zemdlenie
+01393	Zgiń, przepadnij, Uragaanie	Upoluj Uragaana	Koniec czasuTrzykrotne zemdlenie
+01394	Tajemnica mazi	Złap Brachydiosa	Koniec czasuTrzykrotne zemdlenieŚmierć Brachydiosa
+01395	Festiwal eksplozji!	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+01401	Gdy spowije cię mgła	Upoluj Wrzeszczącą Legianę	Koniec czasuTrzykrotne zemdlenie
+01402	Dezintegrujące ostrze	Upoluj Kwasowego Glavenusa	Koniec czasuTrzykrotne zemdlenie
+01403	Źli przyjaciele, świetni wrogowie	Upoluj Hebanowego Odogarona	Koniec czasuTrzykrotne zemdlenie
+01404	Obrona Seliany	Ukończ zlecenie	Koniec czasuTrzykrotne zemdlenieNie udało się obronić Seliany
+01405	Grzmiący mąciciel!	Upoluj Piorunowego Anjanatha	Koniec czasuTrzykrotne zemdlenie
+01421	Czcigodny łowca	Upoluj Wrzeszczącą Legianę	Koniec czasuTrzykrotne zemdlenie
+01422	Mąciciel z tundry	Upoluj Piorunowego Anjanatha	Koniec czasuTrzykrotne zemdlenie
+01423	Szronowy duet	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+01424	Zaparowany skarb	Dostarcz 2 kamienie z gorącegoźródła	Koniec czasuTrzykrotne zemdlenie
+01431	Specjalna Arena: Lazurowy Rathalos RM	Upoluj Lazurowego Rathalosa	Koniec czasuTrzykrotne zemdlenie
+01432	Specjalna Arena: Czarna Diabla RM	Upoluj Czarną Diablę	Koniec czasuTrzykrotne zemdlenie
+01433	Specjalna Arena: Kwasowy Glavenus RM	Upoluj Kwasowego Glavenusa	Koniec czasuTrzykrotne zemdlenie
+01434	Specjalna Arena: Hebanowy Odogaron RM	Upoluj Hebanowego Odogarona	Koniec czasuTrzykrotne zemdlenie
+01435	Specjalna Arena: Piorunowy Anjanath RM	Upoluj Piorunowego Anjanatha	Koniec czasuTrzykrotne zemdlenie
+01451	Dla tych oczu lazurowych	Upoluj Lazurowego Rathalosa	Koniec czasuTrzykrotne zemdlenie
+01452	Pech w lesie	Upoluj Hebanowego Odogarona	Koniec czasuTrzykrotne zemdlenie
+01461	Pod wpływem chwili	Upoluj Czarną Diablę	Koniec czasuTrzykrotne zemdlenie
+01462	Przebijająca czerń	Upoluj Czarną Diablę	Koniec czasuTrzykrotne zemdlenie
+01471	Ukryty przestępca	Upoluj Hebanowego Odogarona	Koniec czasuTrzykrotne zemdlenie
+01481	Skorodowane ostrze	Upoluj Kwasowego Glavenusa	Koniec czasuTrzykrotne zemdlenie
+01482	Miaudealny pokój: Jasne żelazo	Złap Kwasowego Glavenusa	Koniec czasuTrzykrotne zemdlenieŚmierć Kwasowego Glavenusa
+01483	Miaudealny pokój: Ciemne żelazo	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+01491	Lazurowy blues	Upoluj Lazurowego Rathalosa	Koniec czasuTrzykrotne zemdlenie
+01492	Pułapka na piorunową szczękę	Złap Piorunowego Anjanatha	Koniec czasuTrzykrotne zemdlenieŚmierć Piorunowego Anjanatha
+01501	Lodowa wiwerna	Zabij Velkhana	Koniec czasuTrzykrotne zemdlenie
+01502	Powtórne przyjście	Upoluj Rozzłoszczonego Bazelgeza	Koniec czasuTrzykrotne zemdlenie
+01503	Pod całunem śmierci	Zabij Welonowego Vaal Hazaka	Koniec czasuTrzykrotne zemdlenie
+01504	Światło z otchłani	Zabij Namiella	Koniec czasuTrzykrotne zemdlenie
+01521	Miecze skrzyżowane nad szronem	Zabij Velkhana	Koniec czasuTrzykrotne zemdlenie
+01551	Zwiastun czystych niebios	Zabij Kushalę Daorę	Koniec czasuTrzykrotne zemdlenie
+01552	Nadchodzi niosący śmierć	Zabij Welonowego Vaal Hazaka	Koniec czasuTrzykrotne zemdlenie
+01561	Królewska audiencja na piasku	Zabij Teostrę	Koniec czasuTrzykrotne zemdlenie
+01562	Bankiet u tyrana	Upoluj Dzikiego Deviljho	Koniec czasuTrzykrotne zemdlenie
+01571	Lądowanie pioruna	Zabij Kirina	Koniec czasuTrzykrotne zemdlenie
+01572	Wspomnienia boga mórz	Zabij Namiella	Koniec czasuTrzykrotne zemdlenie
+01581	Nie ma jak życie po życiu	Zabij Welonowego Vaal Hazaka	Koniec czasuTrzykrotne zemdlenie
+01591	Skrzydła wiatru	Zabij Kushalę Daorę	Koniec czasuTrzykrotne zemdlenie
+01592	Symbol słońca	Zabij Teostrę	Koniec czasuTrzykrotne zemdlenie
+01593	Kipiący od gniewu	Upoluj Rozzłoszczonego Bazelgeza	Koniec czasuTrzykrotne zemdlenie
+01594	Miaudealny pokój: Srebro	Złap Rozzłoszczonego Bazelgeza	Koniec czasuTrzykrotne zemdlenieŚmierć Bazelgeza
+01601	Pean dla idących za przewodnikiem	Ukończ zlecenie	Koniec czasuTrzykrotne zemdlenie
+01602	Pean przewodzenia	Ukończ zlecenie	Koniec czasuTrzykrotne zemdlenie
+01603	Sen pośród ognia	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+01604	Wielkie walnięcie	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+01605	Razem z tobą do samego końca	Zabij Niszczycielskiego Nergiganta	Koniec czasuTrzykrotne zemdlenie
+01606	Powrót wariata	Upoluj Yian Garugę	Koniec czasuTrzykrotne zemdlenie
+01631	To nasze miasto	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+01632	Specjalna Arena: Zinogr RM	Upoluj Zinogra	Koniec czasuTrzykrotne zemdlenie
+01633	Specjalna Arena: Yian Garuga RM	Upoluj Yian Garugę	Koniec czasuTrzykrotne zemdlenie
+01634	Specjalna Arena: Zwalisty Tigrex RM	Upoluj Zwalistego Tigrexa	Koniec czasuTrzykrotne zemdlenie
+01635	Specjalna Arena: Złota Rathiana RM	Upoluj Złotą Rathianę	Koniec czasuTrzykrotne zemdlenie
+01636	Specjalna Arena: Srebrny Rathalos RM	Upoluj Srebrnego Rathalosa	Koniec czasuTrzykrotne zemdlenie
+01641	Daleka Lorelei	Zabij Shar Ishvalda	Koniec czasuTrzykrotne zemdlenie
+01642	Hymn księżyca i słońca	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+01651	Burza przynosi niespodzianki	Zabij wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+01661	Gorączka wieżowej nocy	Zabij Lunastrę	Koniec czasuTrzykrotne zemdlenie
+01671	Boski skok	Zabij wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+01691	W pałacu płomieni	Zabij Lunastrę	Koniec czasuTrzykrotne zemdlenie
+01692	Mistrz łowów Nowego Świata	Zabij wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+03001	Zadanie na Arenie 02	Zabij Kulu-Ya-Ku	Koniec czasuDziewięciokrotne zemdlenie
+03002	Zadanie na Arenie 03	Zabij  Rathianę	Koniec czasuDziewięciokrotne zemdlenie
+03031	Zadanie na Arenie 04	Zabij  Tzitzi-Ya-Ku	Koniec czasuDziewięciokrotne zemdlenie
+03032	Zadanie na Arenie 05	Zabij Barrotha	Koniec czasuDziewięciokrotne zemdlenie
+03033	Zadanie na Arenie 06	Zabij  Dodogamę	Koniec czasuDziewięciokrotne zemdlenie
+03034	Zadanie na Arenie 07	Zabij Lazurowego Rathalosa	Koniec czasuDziewięciokrotne zemdlenie
+03051	Zadanie na Arenie 08	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
+03052	Zadanie na Arenie 09	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
+03071	Zadanie mistrzowskie areny 02	Zabij Bieluniowatego Paolumu	Koniec czasuDziewięciokrotne zemdlenie
+03072	Zadanie mistrzowskie areny 03	Zabij Nargacuga	Koniec czasuDziewięciokrotne zemdlenie
+03073	Zadanie mistrzowskie areny 04	Zabij Kwasowego Glavenusa	Koniec czasuDziewięciokrotne zemdlenie
+03074	Zadanie mistrzowskie areny 05	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
+03091	Zadanie mistrzowskie areny 06	Zabij Zinogra	Koniec czasuDziewięciokrotne zemdlenie
+03092	Zadanie mistrzowskie areny 07	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
+03101	Zadanie na Arenie 01	Zabij Pukei-Pukei	Koniec czasuDziewięciokrotne zemdlenie
+03171	Zadanie mistrzowskie areny 01	Zabij Banbaro	Koniec czasuDziewięciokrotne zemdlenie
+05003	Trubadurzy w tarapatach	Upoluj 2 Tzitzi-Ya-Ku	Koniec czasuTrzykrotne zemdlenie
+0	Invalid Message	Invalid Message	Invalid Message
+30000	Unavailable	Unavailable	Unavailable
+30001	Unavailable	Unavailable	Unavailable
+30002	Unavailable	Unavailable	Unavailable
+30003	Unavailable	Unavailable	Unavailable
+30004	Unavailable	Unavailable	Unavailable
+30005	Unavailable	Unavailable	Unavailable
+30006	Unavailable	Unavailable	Unavailable
+30007	Unavailable	Unavailable	Unavailable
+30008	Unavailable	Unavailable	Unavailable
+30009	Unavailable	Unavailable	Unavailable
+50601	Przybysz z innego świata	Ukończ zlecenie	Koniec czasuTrzykrotne zemdlenie
+50701	Pogromca łańcucha pokarmowego	Upoluj Deviljho	Koniec czasuTrzykrotne zemdlenie
+50702	Invalid Message	Invalid Message	Invalid Message
+50751	Specjalność dnia: flambé z łowcy	Upoluj Deviljho	Koniec czasuTrzykrotne zemdlenie
+50801	Palące słońce	Zabij Teostrę	Koniec czasuTrzykrotne zemdlenie
+50802	Arena Pandory	Ukończ zlecenie	Koniec czasuTrzykrotne zemdlenie
+50803	Bez skrupułów	Zabij wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+50831	Unavailable	Unavailable	Unavailable
+50861	Piekielna monarchia	Zabij wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+50891	Błękitna Eminencja	Zabij Lunastrę	Koniec czasuTrzykrotne zemdlenie
+50892	Błękitna Eminencja	Zabij Lunastrę	Koniec czasuTrzykrotne zemdlenie
+50901	Bankiet w Ziemnej Sali	Odeprzyj atak Kulve Taroth	Koniec czasuTrzykrotne zemdlenie
+50902	Furia El Dorado	Odeprzyj atak Kulve Taroth	Koniec czasuTrzykrotne zemdlenie
+50905	Legendarna bestia	Ukończ zlecenie	Koniec czasuDziewięciokrotne zemdlenie
+50906	Czy można złapać go za oczy?	Zabij Behemota	Koniec czasuTrzykrotne zemdlenie
+50910	Zlecenie: Kłopoty w Starodrzewie	Ukończ zlecenie	Koniec czasuTrzykrotne zemdlenie
+50991	Gość z Eorzei	Zabij Behemota	Koniec czasuTrzykrotne zemdlenie
+50992	Invalid Message	Invalid Message	Invalid Message
+51601	Ukaż się, niszczycielu	Ukończ zlecenie	Koniec czasuTrzykrotne zemdlenie
+51602	Niezłomna duma	Zabij Kirina	Koniec czasuTrzykrotne zemdlenie
+51603	Na zaginionej ścieżce	Ukończ zlecenie	Koniec czasuTrzykrotne zemdlenie
+51604	Punkt bez powrotu	Ukończ zlecenie	Koniec czasuTrzykrotne zemdlenie
+51605	Czerwony smok	Zabij Safi'jiiva	Koniec czasuTrzykrotne zemdlenie
+51606	...Wszechogarniający szał	Zabij Rozgniewanego Brachydiosa	Koniec czasuTrzykrotne zemdlenie
+51607	Nienasycona furia	Upoluj Wściekłego Rajanga	Koniec czasuTrzykrotne zemdlenie
+51611	Unavailable	Unavailable	Unavailable
+51612	Unavailable	Unavailable	Unavailable
+51621	Specjalna Arena: Stygijski Zinogr RM	Upoluj Stygijskiego Zinogra	Koniec czasuTrzykrotne zemdlenie
+51622	Serce Brachydiosa	Zabij Rozgniewanego Brachydiosa	Koniec czasuTrzykrotne zemdlenie
+51623	Lśniąca wściekłość	Upoluj Wściekłego Rajanga	Koniec czasuTrzykrotne zemdlenie
+51624	Unavailable	Unavailable	Unavailable
+51625	Unavailable	Unavailable	Unavailable
+61101	Pobudka o świcie	Zabij 12 Kestodonów	Koniec czasuTrzykrotne zemdlenie
+61103	Spotkanie słońca z księżycem	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+61104	Leśni intruzi	Upoluj 2 Anjanathy	Koniec czasuTrzykrotne zemdlenie
+61105	Marzenie każdego łowcy	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+61601	Nocna draka	Zabij 10 Gastodonów	Koniec czasuTrzykrotne zemdlenie
+61603	Królewskie kłopoty	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+61604	Królowie nie znają strachu	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+61605	Mchoświnie i co się nawinie	Zabij 5 Mchoświń	Koniec czasuDziewięciokrotne zemdlenie
+61606	Największy Jagras	Upoluj Wielkiego Jagrasa	Koniec czasuTrzykrotne zemdlenie
+61607	Jestem Lavasioth!	Upoluj Lavasiotha	Koniec czasuTrzykrotne zemdlenie
+61801	Perłowi porywacze	Dostarcz 6 perłowych makaków	Koniec czasuTrzykrotne zemdlenie
+61802	Marzenie każdego łowcy III	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+61803	Marzenie każdego łowcy II	Złap Koralowego Pukei-Pukei	Koniec czasuTrzykrotne zemdlenieŚmierć Koralowego Pukei-Pukei
+61805	Bajowe zadanie	Dostarcz 8 pingwinów bajowych	Koniec czasuTrzykrotne zemdlenie
+61806	Rudy na pudy	Upoluj Brachydiosa	Koniec czasuTrzykrotne zemdlenie
+61807	Mrożące wejście	Zabij wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+61808	Mania muskularnych małp	Upoluj 2 Rajangi	Koniec czasuTrzykrotne zemdlenie
+61809	Kołysanki Paolumu	Upoluj Bieluniowatego Paolumu	Koniec czasuDziewięciokrotne zemdlenie
+61811	Odmrożenie flory	Dostarcz 10 lodokwiatów	Koniec czasuTrzykrotne zemdlenie
+61812	Wołowinka aż cieknie ślinka	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+61813	50 odcieni bieli	Upoluj Bariotha	Koniec czasuTrzykrotne zemdlenie
+61814	Wstrząsający finał	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+62502	Kurtyna Śmiertelnej Ciszy	Zabij Vaal Hazaka	Koniec czasuTrzykrotne zemdlenie
+62503	Szept białej grzywy	Zabij Kirina	Koniec czasuTrzykrotne zemdlenie
+62504	Pogarda słońca	Zabij Teostrę	Koniec czasuTrzykrotne zemdlenie
+62505	Oko cyklonu	Zabij Kushalę Daorę	Koniec czasuTrzykrotne zemdlenie
+62506	Zapowiedź zniszczenia	Zabij Nergiganta	Koniec czasuTrzykrotne zemdlenie
+62511	Niebieski pył przebija czerwony	Zabij Lunastrę	Koniec czasuTrzykrotne zemdlenie
+62515	Ogórna uciecha	Upoluj Deviljho	Koniec czasuTrzykrotne zemdlenie
+62606	Niegasnąca górska zorza	Poprowadź Zoraha Magdarosa	Koniec czasuTrzykrotne zemdlenieZorah Magdaros zboczył z drogi
+62607	Jak ćma do ognia	Zabij Xeno'jiiva	Koniec czasuTrzykrotne zemdlenie
+62608	Popatrz na świt	Poprowadź Zoraha Magdarosa	Koniec czasuTrzykrotne zemdlenieZorah Magdaros zboczył z drogi
+62609	Strażnik Zaświatów	Zabij Xeno'jiiva	Koniec czasuTrzykrotne zemdlenie
+63001	Wyzwanie 1: początkujący	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
+63002	Wyzwanie 2: początkujący	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
+63003	Plaga Vespoidów!	Zabij 30 Vespoidów	Koniec czasuDziewięciokrotne zemdlenie
+63004	Ciemną, błotnistą ścieżką	Zabij Barrotha	Koniec czasuDziewięciokrotne zemdlenie
+63005	Wyzwanie USJ dla początkujących!	Zabij Kulu-Ya-Ku	Koniec czasuDziewięciokrotne zemdlenie
+63006	Wyzwanie USJ dla ekspertów!	Zabij Rathianę	Koniec czasuDziewięciokrotne zemdlenie
+63007	Wyzwanie USJ dla początkujących!	Zabij Tzitzi-Ya-Ku	Koniec czasuDziewięciokrotne zemdlenie
+63008	Wyzwanie USJ dla ekspertów!	Zabij Rathalosa	Koniec czasuDziewięciokrotne zemdlenie
+63009	Ciemną, błotnistą ścieżką	Zabij Barrotha	Koniec czasuDziewięciokrotne zemdlenie
+63031	Wyzwanie 1: średnio zaawansowany	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
+63032	Wyzwanie 2: średnio zaawansowany	Zabij 2 Odogarony	Koniec czasuDziewięciokrotne zemdlenie
+63033	Gajalakowie na gigancie!	Pokonaj 10 Gajalaków	Koniec czasuDziewięciokrotne zemdlenie
+63034	Obudzone Satsui No Hado I	Zabij Nergiganta	Koniec czasuDziewięciokrotne zemdlenie
+63035	Obudzone Satsui No Hado II	Zabij Nergiganta	Koniec czasuDziewięciokrotne zemdlenie
+63036	Obudzone Satsui No Hado III	Zabij Nergiganta	Koniec czasuDziewięciokrotne zemdlenie
+63037	Cesarzowa w rozkwicie I	Zabij Różową Rathianę	Koniec czasuDziewięciokrotne zemdlenie
+63038	Cesarzowa w rozkwicie II	Zabij Różową Rathianę	Koniec czasuDziewięciokrotne zemdlenie
+63039	Cesarzowa w rozkwicie III	Zabij Różową Rathianę	Koniec czasuDziewięciokrotne zemdlenie
+63051	Wyzwanie 1: ekspert	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
+63052	Wyzwanie 2: ekspert	Zabij Nergiganta	Koniec czasuDziewięciokrotne zemdlenie
+63071	Wyzwanie 1: średniozaawansowany RM	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
+63072	Wyzwanie 2: średniozaawansowany RM	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
+63073	Wyzwanie 1: ekspert RM	Zabij Yian Garugę	Koniec czasuDziewięciokrotne zemdlenie
+63074	Wyzwanie 2: ekspert RM	Zabij Dzikiego Deviljho	Koniec czasuDziewięciokrotne zemdlenie
+63101	Wydarzenie: Zabić Nergiganta 1	Zabij Nergiganta	Koniec czasuDziewięciokrotne zemdlenie
+63102	Wydarzenie: Zabić Nergiganta 2	Zabij Nergiganta	Koniec czasuDziewięciokrotne zemdlenie
+63103	Wydarzenie: Zabić Nergiganta 3	Zabij Nergiganta	Koniec czasuDziewięciokrotne zemdlenie
+63104	Wydarzenie: Zabić Wicher i Kły 1	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
+63105	Wydarzenie: Zabić Wicher i Kły 2	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
+63106	Wydarzenie: Zabić Wicher i Kły 3	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
+63107	Wydarzenie: Zabić Nergiganta 4	Zabij Nergiganta	Koniec czasuDziewięciokrotne zemdlenie
+63108	Wydarzenie: Zabić Deviljho	Zabij Deviljho	Koniec czasuDziewięciokrotne zemdlenie
+63109	Najlepsi z najlepszych	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
+63110	Co czyha w lesie	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
+63130	Na styku prawa i wojny	Upoluj Bazelgeza	Koniec czasuDziewięciokrotne zemdlenie
+63131	Łowca i niebieska cesarzowa	Zabij Lunastrę	Koniec czasuDziewięciokrotne zemdlenie
+63142	Pożegnanie z mrozem	Zabij Velkhana	Koniec czasuDziewięciokrotne zemdlenie
+64101	Dzielne Działania w Dzikowieży	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+64601	Harce z Uragaanami	Upoluj dwa Uragaany	Koniec czasuTrzykrotne zemdlenie
+64801	Balonowa walka	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+64802	Tak się nie robi...	Upoluj Rozzłoszczonego Bazelgeza	Koniec czasuTrzykrotne zemdlenie
+65601	Starcie z Shamosami	Upoluj 13 Shamosów	Koniec czasuTrzykrotne zemdlenie
+65602	Błyskawiczna robota	Upoluj 3 Tzitzi-Ya-Ku	Koniec czasuTrzykrotne zemdlenie
+65603	Zjednoczeni miłośnicy jaj	Upoluj Kulu-Ya-Ku	Koniec czasuTrzykrotne zemdlenie
+65604	Pełzający cel	Dostarcz 10 pełzaczy	Koniec czasuTrzykrotne zemdlenie
+65605	Potrójne zagrożenie	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+65606	Proste zadanie	Dostarcz 10grzybków przepysznych	Koniec czasuTrzykrotne zemdlenie
+65607	Śledzenie dostawy	Dostarcz 10 niebieskich beryli	Koniec czasuTrzykrotne zemdlenie
+66101	Grubsza sprawa	Upoluj 2 Wielkie Jagrasy	Koniec czasuTrzykrotne zemdlenie
+66102	Ya-Kuś ci to pójdzie	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66103	Mięso przecięte do kości	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66104	Mityczny Kirin	Zabij 2 Kiriny	Koniec czasuTrzykrotne zemdlenie
+66105	Trująca ferajna	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66106	Powitanie pasibrzuchów	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66601	Blues w zielonej głębi	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66602	Bolero dzikowieżowe	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66603	Koralowy walc	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66604	Wydzielinowa opera	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66605	Łomot w Zaciszu	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66606	Tak rodzą się rewolucje	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66607	Śnieg i kwiaty wiśni	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66608	Nos za oko	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66609	Dla uzurpatorów nie ma jutra	Upoluj Bazelgeza	Koniec czasuTrzykrotne zemdlenie
+66610	Zdobywca tronu	Zabij wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66801	Rybackie trofeum	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66802	Zew władcy zaświatów	Dostarcz 20 podziemnych owoców	Koniec czasuTrzykrotne zemdlenie
+66803	Grząska sprawa	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66804	Pustynny deser	Dostarcz 20 twardoszy	Koniec czasuTrzykrotne zemdlenie
+66805	Nowy łobuz w mieście	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66806	Kolorowe święto	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66807	Łowca-gderacz	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66808	Niebo i morze w ogniu	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66809	Nietypowy eksperyment	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66810	Mokro i zimno	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66811	Zapalone bestie	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66812	Pustynny zryw	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66813	W głębi lasu	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66814	Sługi Doliny	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66815	My, trzej królowie	Zabij wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66816	Zimowy blues	Zabij wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66817	Przyczyna głodu	Upoluj Dzikiego Deviljho	Koniec czasuTrzykrotne zemdlenie
+66818	Wycie przy blasku księżyca	Upoluj Zinogra	Koniec czasuTrzykrotne zemdlenie
+66819	Jestem oazą spokoju	Upoluj Yian Garugę	Koniec czasuTrzykrotne zemdlenie
+66820	Ryk rozrywający niebo	Upoluj Zwalistego Tigrexa	Koniec czasuTrzykrotne zemdlenie
+66821	Błysk srebra	Upoluj Srebrnego Rathalosa	Koniec czasuTrzykrotne zemdlenie
+66822	Luna to surowa władczyni	Upoluj Złotą Rathianę	Koniec czasuTrzykrotne zemdlenie
+66824	Zabawieni, wybawieni, oszołomieni	Upoluj Rajanga	Koniec czasuTrzykrotne zemdlenie
+66825	Blizny opowiadają tę historię	Upoluj Oszpeconego Yian Garugę	Koniec czasuTrzykrotne zemdlenie
+66826	Jodłowanie w lesie	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66827	Bębnienie na Pustkowiu	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66828	Koralowa symfonia	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66829	Gnijąca pieśń	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66830	Dysonans w Zaciszu	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66831	Ballada o Szronie	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66832	Wilk z piekła rodem	Upoluj Stygijskiego Zinogra	Koniec czasuTrzykrotne zemdlenie
+66834	Szybkość i ryk	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66835	Gniew burzy	Upoluj Zinogra	Koniec czasuTrzykrotne zemdlenie
+66836	Oda do zniszczenia	Zabij Niszcz. Nergiganta	Koniec czasuTrzykrotne zemdlenie
+67101	Próba	Upoluj Anjanatha	Koniec czasuTrzykrotne zemdlenie
+67102	Nauki z dziczy	Zabij 8 Barnosów	Koniec czasuTrzykrotne zemdlenie
+67103	Przypływ krwi	Upoluj 2 Odogarony	Koniec czasuTrzykrotne zemdlenie
+67105	USJ: Robota jak złoto	Upoluj 3 Wielkie Jagrasy	Koniec czasuTrzykrotne zemdlenie
+67106	USJ: Robota jak złoto	Upoluj 3 Wielkie Jagrasy	Koniec czasuTrzykrotne zemdlenie
+67603	Płonące Lazurowe Gwiazdy USJ!	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+67604	Płonące Lazurowe Gwiazdy USJ!	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+67605	Kod: Czerwony	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+67606	Gość z Eorzei (Ekstremalny)	Zabij Behemota	Koniec czasuTrzykrotne zemdlenie
+67607	Serce Nora	Upoluj 2 Deviljho	Koniec czasuTrzykrotne zemdlenie
+67608	CZO: Cichy, Zabójczy i Ostry	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+67610	Zlecenie: Duch Lasu	Zabij Starożytnego leszego	Koniec czasuTrzykrotne zemdlenie
+67801	RE: Powrót broni biologicznej...	Zabij Welonowego Vaal Hazaka	Koniec czasuTrzykrotne zemdlenie

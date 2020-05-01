@@ -1,0 +1,58 @@
+Meal Code	Meal Name	Meal Effect
+CatSkill000_CAT_SKILL	Pulidor Felyne	Acelera a menudo el tiempode afilado del arma.
+CatSkill001_CAT_SKILL	Jinete Felyne	Hace más fácil que consigasmontar sobre los monstruos.
+CatSkill002_CAT_SKILL	Heroicidad Felyne	Aumenta mucho el ataque cuandola salud está muy baja.
+CatSkill003_CAT_SKILL	Cortador Felyne +2	Aumenta el número de vecesque puedes cortar a los monstruos.
+CatSkill004_CAT_SKILL	Cortador Felyne +1	En ocasiones aumenta el númerode veces que puedes cortara los monstruos.
+CatSkill005_CAT_SKILL	Médico Felyne	Permite recuperar más saludal usar objetos curativos.
+CatSkill006_CAT_SKILL	Cinturón negro Felyne	Disminuye el gasto de resistenciaal esquivar, bloquear o hacerciertas otras acciones.
+CatSkill007_CAT_SKILL	Piro Felyne	Mejora las bombas de barrilgrandes a megabombas de barril.
+CatSkill008_CAT_SKILL	Especialista Felyne	Aumenta la potencia de losataques de estados alterados.
+CatSkill009_CAT_SKILL	Protector Felyne +2	A menudo reduce el daño recibido.
+CatSkill010_CAT_SKILL	Protector Felyne +1	A veces reduce el daño recibido.
+CatSkill011_CAT_SKILL	Recolector Felyne	Reduce el tiempo que tardanen reaparecer los puntos derecolección.
+CatSkill012_CAT_SKILL	Puntería Felyne	Aumenta el poder de losdisparos normales (D normal)y de las flechas normales.
+CatSkill013_CAT_SKILL	Felyne afortunado	En ocasiones aumenta el númerode objetos que recibes al finalde la misión.
+CatSkill014_CAT_SKILL	Deflector Felyne	Ayuda a tu arma a continuarafilada cuando tus ataquesreboten.
+CatSkill015_CAT_SKILL	Huida Felyne	Reduce el gasto de resistenciaal escapar de grandes monstruos.
+CatSkill016_CAT_SKILL	Sprint Felyne	Gastas menos resistencia al corrertransportando un objeto.
+CatSkill017_CAT_SKILL	Soporte Felyne	Evita que sufras empujesmientras cargas con un objeto.
+CatSkill018_CAT_SKILL	Debilitador Felyne	Hace más probable que los monstruosgrandes que encuentres en misionessean más débiles de lo normal.
+CatSkill019_CAT_SKILL	Cambio Felyne	Aumenta el número de puntosde investigación que recibesal final de una misión.
+CatSkill020_CAT_SKILL	Elevador Felyne +2	Aumenta considerablementeel tiempo de inmunidad que tienesal levantarte.
+CatSkill021_CAT_SKILL	Elevador Felyne +1	Aumenta el periodo de inmunidadque tienes al levantarte.
+CatSkill022_CAT_SKILL	Temperamento Felyne	Aumenta la potencia de la ballesta,pero también el desvío.
+CatSkill023_CAT_SKILL	Trepa Felyne	Reduce el gasto de resistenciaal esquivar mientras trepas porparedes o hiedra.
+G_CatSkill024_CAT_SKILL	Agarre Felyne	Evita que algunos ataques te tirende las paredes o de la hiedra.
+CatSkill025_CAT_SKILL	Cortador Felyne férreo	Evita que te puedan derribarmientras cortas monstruos.
+CatSkill026_CAT_SKILL	Aterrizador Felyne	Evita el impacto al aterrizarcuando saltes desde mucha altura.
+CatSkill027_CAT_SKILL	Excavador Felyne	Aumenta el poder de ataque sigolpeas justo después de querebote un ataque.
+CatSkill028_CAT_SKILL	Gourmet Felyne	Los efectos de la comida siguenactivos incluso tras desmayartedurante la caza.
+CatSkill029_CAT_SKILL	Boxeador Felyne	Hace más probable que consigasaturdir a un monstruo.
+CatSkill030_CAT_SKILL	Magnate Felyne	Aumenta la cantidad de zenisrecibidos al terminar una misión.
+CatSkill031_CAT_SKILL	Bombardero Felyne	Aumenta el daño de la balista,disp. explosivo y los disparosde la lanza pistola.
+CatSkill032_CAT_SKILL	Sangre fría Felyne	Evita perder el conocimientouna vez cuando el daño recibidoexceda tu salud restante.
+CatSkill033_CAT_SKILL	Boñiguero Felyne	Aumenta la probabilidad de queun monstruo huya al recibiruna cápsula boñiga.
+CatSkill034_CAT_SKILL	Limpiador Felyne	Reduce a la mitad la duraciónde defensa reducida y acelerala recuperación de plagas.
+CatSkill035_CAT_SKILL	Pelaje Felyne	Evita o reduce el efecto deplagas y el daño por climatologíaadversa.
+CatSkill036_CAT_SKILL	Acróbata Felyne	Permite que el cazador se recupererápidamente tras salir despedido.
+DUMMY000000	Unavailable	Unavailable
+CatSkill038_CAT_SKILL	Entrenador Felyne	Hace que el camaradamejore más rápidamente.
+CatSkill039_CAT_SKILL	Potenciador Felyne	Aumenta temporalmente el ataquey la defensa al inicio de unamisión.
+CatSkill040_CAT_SKILL	Patas Felyne	Evita que puedan derribartey te caigas al suelo.
+CatSkill041_CAT_SKILL	Pescador Felyne	Aumenta la probabilidad de quelos peces piquen al pescar.
+CatSkill042_CAT_SKILL	Tranquilidad Felyne	El ataque aumenta temporalmentetras usar el gesto de relajarse.
+CatSkill043_CAT_SKILL	Seguro Felyne	Evita que tu grupo sea penalizadola primera vez que se desmayealguien.
+CatSkill044_CAT_SKILL	Provocación Felyne	Llama la atención de losmonstruos para aumentar laprobabilidad de que te ataquen.
+CatSkill045_CAT_SKILL	Despedida Felyne	Restaura la salud de los aliadosen el área al desmayarte.
+CatSkill046_CAT_SKILL	Erudito Felyne	Hace que desbloquear investigacionesdurante expediciones sea más fácil.
+CatSkill047_CAT_SKILL	Felyne aguafiestas	Hace más probable que hagamal tiempo durante las misiones.
+CatSkill048_CAT_SKILL	Tacos Felyne	Permite una velocidad demovimiento normal, incluso enterrenos especiales.
+CatSkill049_CAT_SKILL	Sastrería Felyne	Acorta el tiempo de cargapara poder volver a usarlas herramientas especializadas.
+CatSkill050_CAT_SKILL	Salvaguardia Felyne	Evita que tu grupo sea penalizadola primera vez que se desmayealguien.
+CatSkill051_CAT_SKILL	Jardinería Felyne	Acelera la reapariciónde determinada fauna local.
+CatSkill052_CAT_SKILL	Carroñero Felyne	Hace que determinada fauna localdeje caer munición de eslingaal atraparla.
+CatSkill053_CAT_SKILL	Zoología Felyne	Hace más probable queaparezca fauna local rara.
+CatSkill054_CAT_SKILL	Biología Felyne	Hace un poco más probableque aparezca fauna local rara.
+CatSkill055_CAT_SKILL	Macrozoología Felyne	Hace un poco más probableque aparezca fauna local grande.
+CatSkill056_CAT_SKILL	Microzoología Felyne	Hace un poco más probableque aparezca fauna local pequeña.

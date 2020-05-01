@@ -1,0 +1,21 @@
+Askill ID	Askill Code	Askill Name	Askill Upgrade Name	Askill Desc
+0	ASkill001	Ghillie-Mantel	Ghillie-Mantel+	Macht dich kurzzeitigunsichtbar. Wenn duangreifst oder Schadenerleidest, endet dieWirkung.
+1	ASkill002	Lebensretter-Mantel	Lebensretter-Mantel+	Negiert den Schaden vonkraftvollen Angriffen durchautomatisches Ausweichen.
+2	ASkill003	Gesundheit-Booster	Gesundheit-Booster+	Platziert eine Räucher-Vorrichtung, die langsamdeine Gesundheit regeneriert.
+3	ASkill004	Trutzmantel	Trutzmantel+	Eliminiert Schadensreaktionen,verhindert Windeffekte undschützt dein Gehör sowie vorErschütterungen. Mindertaußerdem Schaden von Angriffen.
+4	ASkill005	Herausforderer-Mantel	Herausforderer-Mantel+	Lenkt die Aufmerksamkeit vonMonstern auf dich, wodurch dusie leichter anlocken kannst.Der Effekt endet, wenn duangegriffen wirst.
+5	ASkill006	Lebenskraft-Mantel	Lebenskraft-Mantel+	Negiert eine bestimmteSchadensmenge – danachendet der Effekt.
+6	ASkill007	Feuerschutz-Mantel	Feuerschutz-Mantel+	Reduziert Feuerelement-Schaden und negiert Feuerpest,Explosionspest, sowie Schadenvon heißen Umgebungen.
+7	ASkill008	Wasserschutz-Mantel	Wasserschutz-Mantel+	Reduziert Wasserelement-Schaden.Negiert Wasserpest und Bewegungs-einschränkungen in tiefem Wassersowie Schlamm.
+8	ASkill009	Eisschutz-Mantel	Eisschutz-Mantel+	Reduziert Eiselement-Schadenund negiert Eispest.
+9	ASkill010	Donnerschutz-Mantel	Donnerschutz-Mantel+	Reduziert Donnerelement-Schadenund negiert Donnerpest sowieLähmung.
+10	ASkill011	Drachenschutz-Mantel	Drachenschutz-Mantel+	Reduziert Drachenelement-Schaden.Negiert Drachenpest und verbessertdie Drachen-Eigenschaften deinerWaffe.
+11	ASkill012	Reiniger-Booster	Reiniger-Booster+	Platziert eine Räucher-Vorrichtung,die alle anomalen Statuseffekte undelementbasierten Pestarten aufhebt.
+14	ASkill015	Gleiter-Mantel	Gleiter-Mantel+	Du springst länger und kannstauf Winden reiten. Erleichtertzudem den Aufstieg auf Monster.
+15	ASkill016	Ausweich-Mantel	Ausweich-Mantel+	Macht beim Ausweichen längerunverwundbar; zudem kurz-zeitiger Angriffsbonus beimAusweichen eines Angriffs imletzten Moment.
+16	ASkill017	Aufschlag-Mantel	Aufschlag-Mantel+	Fügt den meisten Angriffeneinen Betäubungseffekt hinzuoder verstärkt einen bestehendenBetäubungseffekt.
+17	ASkill018	Apotheker-Mantel	Apotheker-Mantel+	Häufigere Status-Ansammlungenbeim Angriff mit Waffen,die anomale Statuseffekteverursachen.
+18	ASkill019	Immunität-Mantel	Immunität-Mantel+	Entfernt und negiert alleanomalen Statuseffekte,solange die Wirkungandauert.
+19	ASkill020	Affinität-Booster	Affinität-Booster+	Platziert eine Räucher-Vorrichtung, die dieAffinität erhöht.
+20	ASkill021	Banditen-Mantel	Banditen-Mantel+	Monster lassen seltene Wert-objekte fallen, wenn du sieangreifst.
+21	ASkill022	Assassinenkapuze	Assassinenkapuze+	Erhöht die Bewegungsgeschwindigkeitund erlaubt schnelleres Verstecken.Richtet bei einem arglosen Monstergroßen Schaden an und endet dann.

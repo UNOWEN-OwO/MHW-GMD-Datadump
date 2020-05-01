@@ -1,0 +1,324 @@
+Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
+0	Helmet	1	Fel. czapka skórzana	otomo/equip/ot001/helm
+0	Helmet	28	Feliński kościany hełm	otomo/equip/ot028/helm
+0	Helmet	29	Feliński hełm ze stopu	otomo/equip/ot029/helm
+0	Helmet	2	Feliński hełm z Jagrasa	otomo/equip/ot002/helm
+0	Helmet	3	Feliński turban z Kulu	otomo/equip/ot003/helm
+0	Helmet	4	Feliński kaptur z Pukei	otomo/equip/ot004/helm
+0	Helmet	5	Feliński hełm z Barrotha	otomo/equip/ot005/helm
+0	Helmet	6	Feliński hełm z Jyura	otomo/equip/ot006/helm
+0	Helmet	7	Fel. kaptur z Kadachi	otomo/equip/ot007/helm
+0	Helmet	8	Feliński hełm z Anja	otomo/equip/ot008/helm
+0	Helmet	11	Fel. kapelusz z Lumu	otomo/equip/ot011/helm
+0	Helmet	9	Feliński hełm z Rathiany	otomo/equip/ot009/helm
+0	Helmet	13	Fel. hełm z Radobaana	otomo/equip/ot013/helm
+0	Helmet	30	Fel. czapka-biedronka	otomo/equip/ot030/helm
+0	Helmet	12	Feliński hełm z Legiany	otomo/equip/ot012/helm
+0	Helmet	14	Fel. hełm z Odogarona	otomo/equip/ot014/helm
+0	Helmet	16	Fel. hełm z Rathalosa	otomo/equip/ot016/helm
+0	Helmet	17	Feliński hełm z Diablosa	otomo/equip/ot017/helm
+0	Helmet	18	Feliński róg Kirina	otomo/equip/ot018/helm
+0	Helmet	27	Fel. kaptur śmierci	otomo/equip/ot027/helm
+0	Helmet	32	Fel. czapka skórzana<ICON ALPHA>	otomo/equip/ot001/helm
+0	Helmet	33	Feliński kościany hełm<ICON ALPHA>	otomo/equip/ot028/helm
+0	Helmet	34	Feliński hełm ze stopu<ICON ALPHA>	otomo/equip/ot029/helm
+0	Helmet	35	Fel. hełm z Jagrasa<ICON ALPHA>	otomo/equip/ot002/helm
+0	Helmet	36	Feliński turban z Kulu<ICON ALPHA>	otomo/equip/ot003/helm
+0	Helmet	37	Fel. kaptur z Pukei<ICON ALPHA>	otomo/equip/ot004/helm
+0	Helmet	38	Fel. hełm z Barrotha<ICON ALPHA>	otomo/equip/ot005/helm
+0	Helmet	39	Feliński hełm z Jyura<ICON ALPHA>	otomo/equip/ot006/helm
+0	Helmet	40	Fel. kaptur z Kadachi<ICON ALPHA>	otomo/equip/ot007/helm
+0	Helmet	19	Felińska korona Zoraha<ICON ALPHA>	otomo/equip/ot019/helm
+0	Helmet	41	Feliński hełm z Anja<ICON ALPHA>	otomo/equip/ot008/helm
+0	Helmet	42	Fel. kapelusz z Lumu<ICON ALPHA>	otomo/equip/ot011/helm
+0	Helmet	43	Fel. hełm z Rathiany<ICON ALPHA>	otomo/equip/ot009/helm
+0	Helmet	44	Fel. hełm z Radobaana<ICON ALPHA>	otomo/equip/ot013/helm
+0	Helmet	45	Fel. czapka-biedronka<ICON ALPHA>	otomo/equip/ot030/helm
+0	Helmet	46	Fel. hełm z Legiany<ICON ALPHA>	otomo/equip/ot012/helm
+0	Helmet	47	Fel. hełm z Odogarona<ICON ALPHA>	otomo/equip/ot014/helm
+0	Helmet	48	Fel. hełm z Rathalosa<ICON ALPHA>	otomo/equip/ot016/helm
+0	Helmet	49	Fel. hełm z Diablosa<ICON ALPHA>	otomo/equip/ot017/helm
+0	Helmet	50	Feliński róg Kirina<ICON ALPHA>	otomo/equip/ot018/helm
+0	Helmet	20	Fel. hełm z Lavasiotha<ICON ALPHA>	otomo/equip/ot020/helm
+0	Helmet	21	Fel. hełm z Uragaana<ICON ALPHA>	otomo/equip/ot021/helm
+0	Helmet	26	Feliński hełm z Bazela<ICON ALPHA>	otomo/equip/ot026/helm
+0	Helmet	51	Fel. kaptur śmierci<ICON ALPHA>	otomo/equip/ot027/helm
+0	Helmet	52	Fel. maska Gajalaków<ICON ALPHA>	otomo/equip/ot031/helm
+0	Helmet	10	Fel. hełm z Nergiganta<ICON ALPHA>	otomo/equip/ot010/helm
+0	Helmet	15	Felińska czaszka Vaala<ICON ALPHA>	otomo/equip/ot015/helm
+0	Helmet	22	Fel. korona monarchy<ICON ALPHA>	otomo/equip/ot022/helm
+0	Helmet	23	Fel. warknięcie Daory<ICON ALPHA>	otomo/equip/ot023/helm
+0	Helmet	24	Feliński Xenowelon<ICON ALPHA>	otomo/equip/ot024/helm
+0	Helmet	25	Głowa nekkera<ICON ALPHA>	otomo/equip/ot073/helm
+0	Helmet	100	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	101	Fel. motyli kapelusz	otomo/equip/ot040/helm
+0	Helmet	102	Fel. kapelusz aloha	otomo/equip/ot041/helm
+0	Helmet	103	Fel. maska miauoleenowa	otomo/equip/ot042/helm
+0	Helmet	104	Fel. śnieżna czapa	otomo/equip/ot043/helm
+0	Helmet	105	Fel. czapa gwiazdy	otomo/equip/ot044/helm
+0	Helmet	55	Fel. futro Kulve<ICON ALPHA>	otomo/equip/ot025/helm
+0	Helmet	56	F. hełm Vangis<ICON ALPHA>	otomo/equip/ot033/helm
+0	Helmet	57	Fel. czepiec Elizy<ICON ALPHA>	otomo/equip/ot034/helm
+0	Helmet	58	Hełm Mega Mana	otomo/equip/ot035/helm
+0	Helmet	59	HARDUMMY	otomo/equip/ot036/helm
+0	Helmet	60	Fel. korona Laz. Gwiazdy	otomo/equip/ot037/helm
+0	Helmet	61	Głowa mugla<ICON ALPHA>	otomo/equip/ot038/helm
+0	Helmet	62	Fel. hełm samuraja<ICON ALPHA>	otomo/equip/ot039/helm
+0	Helmet	63	F. motyli kapelusz<ICON ALPHA>	otomo/equip/ot040/helm
+0	Helmet	64	Fel. kapelusz aloha<ICON ALPHA>	otomo/equip/ot041/helm
+0	Helmet	65	Fel. maska miauoleen.<ICON ALPHA>	otomo/equip/ot042/helm
+0	Helmet	66	Fel. śnieżna czapa<ICON ALPHA>	otomo/equip/ot043/helm
+0	Helmet	67	Fel. czapa gwiazdy<ICON ALPHA>	otomo/equip/ot044/helm
+0	Helmet	110	Fel. kaptur bajowy<ICON ALPHA>+	otomo/equip/ot060/helm
+0	Helmet	111	Fel. kościany hełm<ICON ALPHA>+	otomo/equip/ot028/helm
+0	Helmet	112	Fel. hełm ze stopu<ICON ALPHA>+	otomo/equip/ot029/helm
+0	Helmet	113	Fel. hełm z Jagrasa<ICON ALPHA>+	otomo/equip/ot002/helm
+0	Helmet	114	Fel. turban z Kulu<ICON ALPHA>+	otomo/equip/ot003/helm
+0	Helmet	115	Fel. kaptur z Pukei<ICON ALPHA>+	otomo/equip/ot004/helm
+0	Helmet	116	Fel. hełm z Barrotha<ICON ALPHA>+	otomo/equip/ot005/helm
+0	Helmet	117	Fel. hełm z Jyura<ICON ALPHA>+	otomo/equip/ot006/helm
+0	Helmet	118	Felińskie gogle z Beo<ICON ALPHA>+	otomo/equip/ot051/helm
+0	Helmet	119	Fel. kaptur z Kadachi<ICON ALPHA>+	otomo/equip/ot007/helm
+0	Helmet	120	Fel. kaptur z Banbaro<ICON ALPHA>+	otomo/equip/ot052/helm
+0	Helmet	121	Fel. hełm z Anja<ICON ALPHA>+	otomo/equip/ot008/helm
+0	Helmet	122	Fel. hełm z Rathiany<ICON ALPHA>+	otomo/equip/ot009/helm
+0	Helmet	123	Fel. kapelusz z Lumu<ICON ALPHA>+	otomo/equip/ot011/helm
+0	Helmet	124	Fel. hełm z Baana<ICON ALPHA>+	otomo/equip/ot013/helm
+0	Helmet	125	Fel. czapka-biedronka<ICON ALPHA>+	otomo/equip/ot030/helm
+0	Helmet	126	Fel. kaptur śmierci<ICON ALPHA>+	otomo/equip/ot027/helm
+0	Helmet	127	Fel. hełm z Bariotha<ICON ALPHA>+	otomo/equip/ot046/helm
+0	Helmet	128	Fel. hełm z Rathalosa<ICON ALPHA>+	otomo/equip/ot016/helm
+0	Helmet	129	Fel. hełm z Diablosa<ICON ALPHA>+	otomo/equip/ot017/helm
+0	Helmet	130	Fel. hełm z Legiany<ICON ALPHA>+	otomo/equip/ot012/helm
+0	Helmet	131	Fel. hełm z Odogarona<ICON ALPHA>+	otomo/equip/ot014/helm
+0	Helmet	132	Fel. hełm z Lavasiotha<ICON ALPHA>+	otomo/equip/ot020/helm
+0	Helmet	133	Fel. hełm z Uragaana<ICON ALPHA>+	otomo/equip/ot021/helm
+0	Helmet	134	Fel. hełm z Narga<ICON ALPHA>+	otomo/equip/ot047/helm
+0	Helmet	135	Fel. hełm z Glavenusa<ICON ALPHA>+	otomo/equip/ot048/helm
+0	Helmet	136	Fel. hełm z Brachy<ICON ALPHA>+	otomo/equip/ot049/helm
+0	Helmet	137	Fel. hełm z Tigrexa<ICON ALPHA>+	otomo/equip/ot050/helm
+0	Helmet	138	Fel. hełm Szronkrzyku<ICON ALPHA>+	otomo/equip/ot056/helm
+0	Helmet	139	Fel. rdzeń z artianu<ICON ALPHA>+	otomo/equip/ot061/helm
+0	Helmet	140	Fel. maska Gajal.<ICON ALPHA>+	otomo/equip/ot031/helm
+0	Helmet	141	Fel. maska z Boaboa<ICON ALPHA>+	otomo/equip/ot062/helm
+0	Helmet	142	Feliński szronowy hełm<ICON ALPHA>+	otomo/equip/ot053/helm
+0	Helmet	143	Feliński hełm dumy<ICON ALPHA>+	otomo/equip/ot059/helm
+0	Helmet	144	Fel. czaszka widma<ICON ALPHA>+	otomo/equip/ot057/helm
+0	Helmet	145	Fel. kaptur z Nami<ICON ALPHA>+	otomo/equip/ot054/helm
+0	Helmet	146	Fel. korona monarchy<ICON ALPHA>+	otomo/equip/ot022/helm
+0	Helmet	147	Fel. warknięcie Daory<ICON ALPHA>+	otomo/equip/ot023/helm
+0	Helmet	148	Feliński róg Kirina<ICON ALPHA>+	otomo/equip/ot018/helm
+0	Helmet	149	Fel. korona z Ishvalda<ICON ALPHA>+	otomo/equip/ot055/helm
+0	Helmet	150	Fel. hełm niszczyciela<ICON ALPHA>+	otomo/equip/ot058/helm
+0	Helmet	151	Felińska maska żądzy<ICON ALPHA>+	otomo/equip/ot069/helm
+0	Helmet	152	Fel. hełm Myśliwego<ICON ALPHA>+	otomo/equip/ot072/helm
+0	Helmet	153	Fel. kaptur z Garugi<ICON ALPHA>+	otomo/equip/ot064/helm
+0	Helmet	154	Fel. hełm z Zinogra<ICON ALPHA>+	otomo/equip/ot065/helm
+0	Helmet	155	Fel. korona Zoraha<ICON ALPHA>+	otomo/equip/ot019/helm
+0	Helmet	156	F. maska lalkarza<ICON ALPHA>+	otomo/equip/ot066/helm
+0	Helmet	157	F. opaska bos. rywala<ICON ALPHA>+	otomo/equip/ot071/helm
+0	Helmet	158	Fel. hełm miażdżenia<ICON ALPHA>+	otomo/equip/ot070/helm
+0	Helmet	159	Felińska korona Safi<ICON ALPHA>+	otomo/equip/ot067/helm
+0	Helmet	160	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	161	Fel. korona Elizy<ICON ALPHA>+	otomo/equip/ot034/helm
+0	Helmet	162	Felińskie futro Kulve<ICON ALPHA>+	otomo/equip/ot025/helm
+0	Helmet	163	Hełm Mega Mana<ICON ALPHA>+	otomo/equip/ot035/helm
+0	Helmet	164	Głowa mugla<ICON ALPHA>+	otomo/equip/ot038/helm
+0	Helmet	165	HARDUMMY	otomo/equip/ot037/helm
+0	Helmet	166	HARDUMMY	otomo/equip/ot036/helm
+0	Helmet	167	Fel. hełm samuraja<ICON ALPHA>+	otomo/equip/ot039/helm
+0	Helmet	168	F. motyli kapelusz<ICON ALPHA>	otomo/equip/ot040/helm
+0	Helmet	169	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	170	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	171	Fel. śnieżna czapa<ICON ALPHA>+	otomo/equip/ot043/helm
+0	Helmet	172	Fel. czapa gwiazdy<ICON ALPHA>+	otomo/equip/ot044/helm
+0	Helmet	173	Fel. czapka skórzana<ICON ALPHA>+	otomo/equip/ot001/helm
+0	Helmet	174	Fel. hełm z Bazela<ICON ALPHA>+	otomo/equip/ot026/helm
+0	Helmet	175	F. hełm Vangis<ICON ALPHA>+	otomo/equip/ot033/helm
+0	Helmet	176	F. hełm z Nergiganta<ICON ALPHA>+	otomo/equip/ot010/helm
+0	Helmet	177	Fel. czaszka Vaala<ICON ALPHA>+	otomo/equip/ot015/helm
+0	Helmet	178	Feliński Xenowelon<ICON ALPHA>+	otomo/equip/ot024/helm
+0	Helmet	179	Fel. czapka Gildii<ICON ALPHA>+	otomo/equip/ot063/helm
+0	Helmet	180	Feliński hełm różany<ICON ALPHA>+	otomo/equip/ot075/helm
+0	Helmet	181	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	182	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	183	Fel. głowa z tańca lwów<ICON ALPHA>+	otomo/equip/ot078/helm
+0	Helmet	184	Fel. hełm kosmiczny<ICON ALPHA>+	otomo/equip/ot079/helm
+0	Helmet	185	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	186	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	187	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	188	HARDUMMY	otomo/equip/ot080/helm
+0	Helmet	189	HARDUMMY	otomo/equip/ot081/helm
+0	Helmet	190	Fel. głowa pełzacza<ICON ALPHA>+	otomo/equip/ot082/helm
+0	Helmet	191	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	192	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	193	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	194	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	195	Fel. fryzura maestra<ICON ALPHA>+	otomo/equip/ot085/helm
+0	Helmet	196	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	197	Głowa nekkera<ICON ALPHA>+	otomo/equip/ot073/helm
+0	Helmet	198	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	199	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	200	Fel. czapka skórzana	otomo/equip/ot000/helm
+1	Armor	1	Fel. kamizela skórzana	otomo/equip/ot001/body
+1	Armor	28	Felińska kościana zbroja	otomo/equip/ot028/body
+1	Armor	29	Felińska zbroja ze stopu	otomo/equip/ot029/body
+1	Armor	2	Fel. zbroja z Jagrasa	otomo/equip/ot002/body
+1	Armor	3	Fel. kamizelka z Kulu	otomo/equip/ot003/body
+1	Armor	4	Felińska opończa z Pukei	otomo/equip/ot004/body
+1	Armor	5	Fel. zbroja z Barrotha	otomo/equip/ot005/body
+1	Armor	6	Felińska zbroja z Jyura	otomo/equip/ot006/body
+1	Armor	7	Feliński strój z Kadachi	otomo/equip/ot007/body
+1	Armor	8	Felińska zbroja z Anja	otomo/equip/ot008/body
+1	Armor	11	Felińska peleryna z Lumu	otomo/equip/ot011/body
+1	Armor	9	Fel. zbroja z Rathiany	otomo/equip/ot009/body
+1	Armor	13	Fel. strój z Radobaana	otomo/equip/ot013/body
+1	Armor	30	Fel. skrzydła biedronki	otomo/equip/ot030/body
+1	Armor	12	Fel. zbroja z Legiany	otomo/equip/ot012/body
+1	Armor	14	Fel. zbroja z Odogarona	otomo/equip/ot014/body
+1	Armor	16	Fel. zbroja z Rathalosa	otomo/equip/ot016/body
+1	Armor	17	Fel. zbroja z Diablosa	otomo/equip/ot017/body
+1	Armor	18	Fel. kamizela z Kirina	otomo/equip/ot018/body
+1	Armor	27	Fel. okrycie śmierci	otomo/equip/ot027/body
+1	Armor	32	Fel. kamizela skórzana<ICON ALPHA>	otomo/equip/ot001/body
+1	Armor	33	Fel. kościana zbroja<ICON ALPHA>	otomo/equip/ot028/body
+1	Armor	34	Fel. zbroja ze stopu<ICON ALPHA>	otomo/equip/ot029/body
+1	Armor	35	Fel. zbroja z Jagrasa<ICON ALPHA>	otomo/equip/ot002/body
+1	Armor	36	Fel. kamizelka z Kulu<ICON ALPHA>	otomo/equip/ot003/body
+1	Armor	37	Fel. opończa z Pukei<ICON ALPHA>	otomo/equip/ot004/body
+1	Armor	38	Fel. zbroja z Barrotha<ICON ALPHA>	otomo/equip/ot005/body
+1	Armor	39	Fel. zbroja z Jyura<ICON ALPHA>	otomo/equip/ot006/body
+1	Armor	40	Fel. strój z Kadachi<ICON ALPHA>	otomo/equip/ot007/body
+1	Armor	19	Fel. strój z Zoraha<ICON ALPHA>	otomo/equip/ot019/body
+1	Armor	41	Felińska zbroja z Anja<ICON ALPHA>	otomo/equip/ot008/body
+1	Armor	42	Fel. peleryna z Lumu<ICON ALPHA>	otomo/equip/ot011/body
+1	Armor	43	Fel. zbroja z Rathiany<ICON ALPHA>	otomo/equip/ot009/body
+1	Armor	44	Fel. strój z Radobaana<ICON ALPHA>	otomo/equip/ot013/body
+1	Armor	45	F. skrzydła biedronki<ICON ALPHA>	otomo/equip/ot030/body
+1	Armor	46	Fel. zbroja z Legiany<ICON ALPHA>	otomo/equip/ot012/body
+1	Armor	47	F. zbroja z Odogarona<ICON ALPHA>	otomo/equip/ot014/body
+1	Armor	48	F. zbroja z Rathalosa<ICON ALPHA>	otomo/equip/ot016/body
+1	Armor	49	Fel. zbroja z Diablosa<ICON ALPHA>	otomo/equip/ot017/body
+1	Armor	50	Fel. kamizela z Kirina<ICON ALPHA>	otomo/equip/ot018/body
+1	Armor	20	Fel. okrycie z Lavasa<ICON ALPHA>	otomo/equip/ot020/body
+1	Armor	21	Fel. zbroja z Uragaana<ICON ALPHA>	otomo/equip/ot021/body
+1	Armor	26	Fel. zbroja z Bazela<ICON ALPHA>	otomo/equip/ot026/body
+1	Armor	51	Fel. okrycie śmierci<ICON ALPHA>	otomo/equip/ot027/body
+1	Armor	52	Fel. płaszcz Gajalaków<ICON ALPHA>	otomo/equip/ot031/body
+1	Armor	10	F. zbroja z Nergiganta<ICON ALPHA>	otomo/equip/ot010/body
+1	Armor	15	Felińskie kości Vaala<ICON ALPHA>	otomo/equip/ot015/body
+1	Armor	22	Fel. szata monarchy<ICON ALPHA>	otomo/equip/ot022/body
+1	Armor	23	Fel. kleszcze Daory<ICON ALPHA>	otomo/equip/ot023/body
+1	Armor	24	Felińska Xenosuknia<ICON ALPHA>	otomo/equip/ot024/body
+1	Armor	25	Ciało nekkera<ICON ALPHA>	otomo/equip/ot073/body
+1	Armor	53	Unavailable	otomo/equip/ot032/body
+1	Armor	100	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	101	F. motyla kamizela	otomo/equip/ot040/body
+1	Armor	102	Fel. koszula aloha	otomo/equip/ot041/body
+1	Armor	103	Fel. szata ducha	otomo/equip/ot042/body
+1	Armor	104	Fel. śnieżny kostium	otomo/equip/ot043/body
+1	Armor	105	Fel. strój gwiazdy	otomo/equip/ot044/body
+1	Armor	55	Fel. strój Kulve<ICON ALPHA>	otomo/equip/ot025/body
+1	Armor	56	F. zbroja Vangis<ICON ALPHA>	otomo/equip/ot033/body
+1	Armor	57	Fel. kryza Elizy<ICON ALPHA>	otomo/equip/ot034/body
+1	Armor	58	Strój Mega Mana	otomo/equip/ot035/body
+1	Armor	59	HARDUMMY	otomo/equip/ot036/body
+1	Armor	60	F. pancerz Laz. Gwiazdy	otomo/equip/ot037/body
+1	Armor	61	Ciało mugla<ICON ALPHA>	otomo/equip/ot038/body
+1	Armor	62	Fel. zbroja samuraja<ICON ALPHA>	otomo/equip/ot039/body
+1	Armor	63	F. motyla kamizela<ICON ALPHA>	otomo/equip/ot040/body
+1	Armor	64	Fel. koszula aloha<ICON ALPHA>	otomo/equip/ot041/body
+1	Armor	65	Fel. szata ducha<ICON ALPHA>	otomo/equip/ot042/body
+1	Armor	66	Fel. śnieżny kostium<ICON ALPHA>	otomo/equip/ot043/body
+1	Armor	67	Fel. strój gwiazdy<ICON ALPHA>	otomo/equip/ot044/body
+1	Armor	110	Fel. płaszcz bajowy<ICON ALPHA>+	otomo/equip/ot060/body
+1	Armor	111	Fel. kościana zbroja<ICON ALPHA>+	otomo/equip/ot028/body
+1	Armor	112	Fel. zbroja ze stopu<ICON ALPHA>+	otomo/equip/ot029/body
+1	Armor	113	Fel. zbroja z Jagrasa<ICON ALPHA>+	otomo/equip/ot002/body
+1	Armor	114	Fel. kamizelka z Kulu<ICON ALPHA>+	otomo/equip/ot003/body
+1	Armor	115	Fel. opończa z Pukei<ICON ALPHA>+	otomo/equip/ot004/body
+1	Armor	116	Fel. zbroja z Barrotha<ICON ALPHA>+	otomo/equip/ot005/body
+1	Armor	117	Fel. zbroja z Jyura<ICON ALPHA>+	otomo/equip/ot006/body
+1	Armor	118	Feliński sprzęt Beo<ICON ALPHA>+	otomo/equip/ot051/body
+1	Armor	119	Fel. strój z Kadachi<ICON ALPHA>+	otomo/equip/ot007/body
+1	Armor	120	Fel. strój z Banbaro<ICON ALPHA>+	otomo/equip/ot052/body
+1	Armor	121	Fel. zbroja z Anja<ICON ALPHA>+	otomo/equip/ot008/body
+1	Armor	122	Fel. zbroja z Rathiany<ICON ALPHA>+	otomo/equip/ot009/body
+1	Armor	123	Fel. peleryna z Lumu<ICON ALPHA>+	otomo/equip/ot011/body
+1	Armor	124	Fel. strój z Baana<ICON ALPHA>+	otomo/equip/ot013/body
+1	Armor	125	Fel. skrzydła biedronki<ICON ALPHA>+	otomo/equip/ot030/body
+1	Armor	126	Fel. okrycie śmierci<ICON ALPHA>+	otomo/equip/ot027/body
+1	Armor	127	Fel. zbroja z Bariotha<ICON ALPHA>+	otomo/equip/ot046/body
+1	Armor	128	Fel. zbroja z Rathalosa<ICON ALPHA>+	otomo/equip/ot016/body
+1	Armor	129	Fel. zbroja z Diablosa<ICON ALPHA>+	otomo/equip/ot017/body
+1	Armor	130	Fel. zbroja z Legiany<ICON ALPHA>+	otomo/equip/ot012/body
+1	Armor	131	Fel. zbroja z Odogarona<ICON ALPHA>+	otomo/equip/ot014/body
+1	Armor	132	Fel. okrycie z Lavasiotha<ICON ALPHA>+	otomo/equip/ot020/body
+1	Armor	133	Fel. zbroja z Uragaana<ICON ALPHA>+	otomo/equip/ot021/body
+1	Armor	134	Fel. zbroja z Narga<ICON ALPHA>+	otomo/equip/ot047/body
+1	Armor	135	Fel. zbroja z Glavenusa<ICON ALPHA>+	otomo/equip/ot048/body
+1	Armor	136	Fel. rękawice z Brachy<ICON ALPHA>+	otomo/equip/ot049/body
+1	Armor	137	Fel. zbroja z Tigrexa<ICON ALPHA>+	otomo/equip/ot050/body
+1	Armor	138	Fel. zbroja Szronkrzyku<ICON ALPHA>+	otomo/equip/ot056/body
+1	Armor	139	Fel. sprzęt z artianu<ICON ALPHA>+	otomo/equip/ot061/body
+1	Armor	140	Fel. płaszcz Gajalaków<ICON ALPHA>+	otomo/equip/ot031/body
+1	Armor	141	Fel. płaszcz z Boaboa<ICON ALPHA>+	otomo/equip/ot062/body
+1	Armor	142	Felińska szronowa zbroja<ICON ALPHA>+	otomo/equip/ot053/body
+1	Armor	143	Felińska zbroja dumy<ICON ALPHA>+	otomo/equip/ot059/body
+1	Armor	144	Fel. płaszcz widma<ICON ALPHA>+	otomo/equip/ot057/body
+1	Armor	145	Feliński strój z Nami<ICON ALPHA>+	otomo/equip/ot054/body
+1	Armor	146	Fel. szata monarchy<ICON ALPHA>+	otomo/equip/ot022/body
+1	Armor	147	Fel. kleszcze Daory<ICON ALPHA>+	otomo/equip/ot023/body
+1	Armor	148	Fel. kamzelka z Kirina<ICON ALPHA>+	otomo/equip/ot018/body
+1	Armor	149	Fel. strój z Ishvalda<ICON ALPHA>+	otomo/equip/ot055/body
+1	Armor	150	Fel. zbroja niszczyciela<ICON ALPHA>+	otomo/equip/ot058/body
+1	Armor	151	Feliński strój żądzy<ICON ALPHA>+	otomo/equip/ot069/body
+1	Armor	152	Fel. zbroja Myśliwego<ICON ALPHA>+	otomo/equip/ot072/body
+1	Armor	153	Fel. szata z Garugi<ICON ALPHA>+	otomo/equip/ot064/body
+1	Armor	154	Fel. zbroja z Zinogra<ICON ALPHA>+	otomo/equip/ot065/body
+1	Armor	155	Fel. strój z Zoraha<ICON ALPHA>+	otomo/equip/ot019/body
+1	Armor	156	F. ubiór lalkarza<ICON ALPHA>+	otomo/equip/ot066/body
+1	Armor	157	F. panc. bos. rywala<ICON ALPHA>+	otomo/equip/ot071/body
+1	Armor	158	Fel. ręk. miażdżenia<ICON ALPHA>+	otomo/equip/ot070/body
+1	Armor	159	Feliński pancerz Safi<ICON ALPHA>+	otomo/equip/ot067/body
+1	Armor	160	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	161	Fel. kryza Elizy<ICON ALPHA>+	otomo/equip/ot034/body
+1	Armor	162	Feliński strój Kulve<ICON ALPHA>+	otomo/equip/ot025/body
+1	Armor	163	Strój Mega Mana<ICON ALPHA>+	otomo/equip/ot035/body
+1	Armor	164	Ciało mugla<ICON ALPHA>+	otomo/equip/ot038/body
+1	Armor	165	HARDUMMY	otomo/equip/ot037/body
+1	Armor	166	HARDUMMY	otomo/equip/ot036/body
+1	Armor	167	Fel. zbroja samuraja<ICON ALPHA>+	otomo/equip/ot039/body
+1	Armor	168	F. motyla kamizela<ICON ALPHA>+	otomo/equip/ot040/body
+1	Armor	169	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	170	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	171	Fel. śnieżny kostium<ICON ALPHA>+	otomo/equip/ot043/body
+1	Armor	172	Fel. strój gwiazdy<ICON ALPHA>+	otomo/equip/ot044/body
+1	Armor	173	F. kamizela skórzana<ICON ALPHA>+	otomo/equip/ot001/body
+1	Armor	174	Fel. zbroja z Bazela<ICON ALPHA>+	otomo/equip/ot026/body
+1	Armor	175	F. zbroja Vangis<ICON ALPHA>+	otomo/equip/ot033/body
+1	Armor	176	F. zbroja z Nerga<ICON ALPHA>+	otomo/equip/ot010/body
+1	Armor	177	Felińskie kości Vaala<ICON ALPHA>+	otomo/equip/ot015/body
+1	Armor	178	Felińska Xenosuknia<ICON ALPHA>+	otomo/equip/ot024/body
+1	Armor	179	Fel. płaszcz Gildii<ICON ALPHA>+	otomo/equip/ot063/body
+1	Armor	180	Felińska suknia różana<ICON ALPHA>+	otomo/equip/ot075/body
+1	Armor	181	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	182	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	183	Fel. ciało z tańca lwów<ICON ALPHA>+	otomo/equip/ot078/body
+1	Armor	184	F. skafander kosmiczny<ICON ALPHA>+	otomo/equip/ot079/body
+1	Armor	185	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	186	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	187	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	188	HARDUMMY	otomo/equip/ot080/body
+1	Armor	189	HARDUMMY	otomo/equip/ot081/body
+1	Armor	190	Fel. sagan pełzacza<ICON ALPHA>+	otomo/equip/ot082/body
+1	Armor	191	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	192	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	193	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	194	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	195	Fel. strój maestra<ICON ALPHA>+	otomo/equip/ot085/body
+1	Armor	196	F. żołędziowa zbroja<ICON ALPHA>+	otomo/equip/ot086/body
+1	Armor	197	Ciało nekkera<ICON ALPHA>+	otomo/equip/ot073/body
+1	Armor	198	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	199	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	200	Fel. czapka skórzana	otomo/equip/ot000/body

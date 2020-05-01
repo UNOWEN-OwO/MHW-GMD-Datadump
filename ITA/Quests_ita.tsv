@@ -1,0 +1,508 @@
+Quest ID	Quest Name	Quest Target	Fail Condition
+00000	Unavailable	Unavailable	Unavailable
+00001	Unavailable	Unavailable	Unavailable
+00002	Unavailable	Unavailable	Unavailable
+00003	Invalid Message	Invalid Message	Invalid Message
+00004	Invalid Message	Invalid Message	Invalid Message
+00005	Invalid Message	Invalid Message	Invalid Message
+00101	Jagras della Foresta antica	Uccidi 7 Jagras	- Tempo scaduto- Tre svenimenti
+00102	Sfratto dei Kestodon	Completa l'incarico	- Tempo scaduto- Tre svenimenti
+00103	Caccia al Gran Jagras	Caccia un Gran Jagras	- Tempo scaduto- Tre svenimenti
+00151	Testa a testa con la natura	Uccidi 12 Kestodon	- Tempo scaduto- Tre svenimenti
+00152	Ressa di rissosi	Uccidi 7 Jagras	- Tempo scaduto- Tre svenimenti
+00153	A caccia di funghi nella Foresta antica	Ottieni 20 funghi gran gourmet	- Tempo scaduto- Tre svenimenti
+00201	Un ladro dal cervello di gallina	Caccia un Kulu-Ya-Ku	- Tempo scaduto- Tre svenimenti
+00205	Urgente: caccia al Pukei-Pukei	Caccia un Pukei-Pukei	- Tempo scaduto- Tre svenimenti
+00241	L'arte del rampino	Apprendi le meccanichedel rampino artiglio	- Tempo scaduto- Tre svenimenti- Gran Jagras cacciato
+00251	Il gran ghiottone	Caccia un Gran Jagras	- Tempo scaduto- Tre svenimenti
+00252	Gallo scroccone	Caccia un Kulu-Ya-Ku	- Tempo scaduto- Tre svenimenti
+00261	Caccia al ladro	Cattura un Kulu-Ya-Ku	- Tempo scaduto- Tre svenimenti- Kulu-Ya-Ku ucciso
+00262	Chi la dura la vince	Uccidi 7 Gajau	- Tempo scaduto- Tre svenimenti
+00263	Lo sterminatore delle Guglie	Uccidi 14 Vespoid	- Tempo scaduto- Tre svenimenti
+00301	La missione ideale	Completa l'incarico	- Tempo scaduto- Tre svenimenti
+00302	Ombre sinistre nella palude	Completa l'incarico	- Tempo scaduto- Tre svenimenti
+00305	Scintille volanti: Tobi-Kadachi	Caccia un Tobi-Kadachi	- Tempo scaduto- Tre svenimenti
+00306	Quell'invadente di un Anjanath	Caccia un Anjanath	- Tempo scaduto- Tre svenimenti
+00331	Arena speciale: Pukei-Pukei	Caccia un Pukei-Pukei	- Tempo scaduto- Tre svenimenti
+00332	Arena speciale: Barroth	Caccia un Barroth	- Tempo scaduto- Tre svenimenti
+00333	Arena speciale: Tobi-Kadachi	Caccia un Tobi-Kadachi	- Tempo scaduto- Tre svenimenti
+00351	La noce scoppio non stroppia	Caccia un Pukei-Pukei	- Tempo scaduto- Tre svenimenti
+00352	La situazione attuale	Caccia un Tobi-Kadachi	- Tempo scaduto- Tre svenimenti
+00361	Subbuglio tra le Guglie	Caccia un Barroth	- Tempo scaduto- Tre svenimenti
+00362	Problematica acquatica	Caccia un Jyuratodus	- Tempo scaduto- Tre svenimenti
+00363	Situazione spinosa	Ottieni 20 cactus ninnoli	- Tempo scaduto- Tre svenimenti
+00364	Tuorli tra le Guglie	Ottieni 2 uova d'erbivoro	- Tempo scaduto- Tre svenimenti
+00365	Frena il wyvern delle frane	Cattura un Barroth	- Tempo scaduto- Tre svenimenti- Barroth ucciso
+00401	È ora di scrivere la storia	Completa l'incarico	- Tempo scaduto- Tre svenimenti
+00405	Spicca il volo, Paolumu!	Caccia un Paolumu	- Tempo scaduto- Tre svenimenti
+00407	L'insuperabile Radobaan	Caccia un Radobaan	- Tempo scaduto- Tre svenimenti
+00408	Legiana: l'eleganza del mostro	Caccia un Legiana	- Tempo scaduto- Tre svenimenti
+00431	Arena speciale: Anjanath	Caccia un Anjanath	- Tempo scaduto- Tre svenimenti
+00432	Arena speciale: Rathian	Caccia una Rathian	- Tempo scaduto- Tre svenimenti
+00433	Arena speciale: Paolumu	Caccia un Paolumu	- Tempo scaduto- Tre svenimenti
+00434	Arena speciale: Radobaan	Caccia un Radobaan	- Tempo scaduto- Tre svenimenti
+00451	Un'influenza infernale	Caccia un Anjanath	- Tempo scaduto- Tre svenimenti
+00452	Tuorli nella Foresta	Ottieni 2 uova di wyvern	- Tempo scaduto- Tre svenimenti
+00461	Trasloco regale	Caccia una Rathian	- Tempo scaduto- Tre svenimenti
+00471	Shamos piangente	Uccidi 11 Shamos	- Tempo scaduto- Tre svenimenti
+00472	Uno Tzitzi per la scienza	Caccia uno Tzitzi-Ya-Ku	- Tempo scaduto- Tre svenimenti
+00473	Imbucato alla festa	Caccia un Paolumu	- Tempo scaduto- Tre svenimenti
+00474	Un mucchio di Abaloni	Ottieni 10 abaloni super	- Tempo scaduto- Tre svenimenti
+00475	Mostro bianco per camici bianchi	Cattura un Paolumu	- Tempo scaduto- Tre svenimenti- Paolumu ucciso
+00481	Insetti infestanti	Uccidi 14 Hornetaur	- Tempo scaduto- Tre svenimenti
+00482	C'è del marcio nella Valle	Caccia un Gran Girros	- Tempo scaduto- Tre svenimenti
+00483	L'ennesimo osso duro	Caccia un Radobaan	- Tempo scaduto- Tre svenimenti
+00484	Sulle ali dell'incubo	Uccidi 5 Raphinos	- Tempo scaduto- Tre svenimenti
+00501	Nelle viscere della valle	Completa l'incarico	- Tempo scaduto- Tre svenimenti
+00502	Un trono di fuoco nel verde	Caccia un Rathalos	- Tempo scaduto- Tre svenimenti
+00503	Tiranno tra le sabbie	Caccia un Diablos	- Tempo scaduto- Tre svenimenti
+00504	Un'impresa colossale	Completa l'incarico	- Tempo scaduto- Tre svenimenti- Zorah Magdaros non dirottato
+00531	Arena speciale: Legiana	Caccia un Legiana	- Tempo scaduto- Tre svenimenti
+00532	Arena speciale: Odogaron	Caccia un Odogaron	- Tempo scaduto- Tre svenimenti
+00533	Arena speciale: Rathalos	Caccia un Rathalos	- Tempo scaduto- Tre svenimenti
+00534	Arena speciale: Diablos	Caccia un Diablos	- Tempo scaduto- Tre svenimenti
+00551	Dal desiderio all'ossessione	Caccia un Rathalos	- Tempo scaduto- Tre svenimenti
+00552	Una coppia da coppa	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+00561	Doppie spire sulla sabbia	Caccia un Diablos	- Tempo scaduto- Tre svenimenti
+00571	Emicrania umida	Caccia un Legiana	- Tempo scaduto- Tre svenimenti
+00572	Via in un lampo	Uccidi un Kirin	- Tempo scaduto- Tre svenimenti
+00581	Un'idea pruriginosa	Caccia un Odogaron	- Tempo scaduto- Tre svenimenti
+00582	Il mostruoso amico dell'uomo	Cattura un Odogaron	- Tempo scaduto- Tre svenimenti- Odogaron ucciso
+00583	La carne che conta	Ottieni 2 pezzi di carne	- Tempo scaduto- Tre svenimenti
+00601	Un intruso sulle guglie	Caccia un Pukei-Pukei	- Tempo scaduto- Tre svenimenti
+00605	Potere rosa	Caccia un Anjanath	- Tempo scaduto- Tre svenimenti
+00607	Dal vecchio mondo con furore	Completa l'incarico	- Tempo scaduto- Tre svenimenti
+00631	Arena speciale: Pukei-Pukei AG	Caccia un Pukei-Pukei	- Tempo scaduto- Tre svenimenti
+00632	Arena speciale: Barroth AG	Caccia un Barroth	- Tempo scaduto- Tre svenimenti
+00633	Arena speciale: Tobi-Kadachi AG	Caccia un Tobi-Kadachi	- Tempo scaduto- Tre svenimenti
+00634	Arena speciale: Anjanath AG	Caccia un Anjanath	- Tempo scaduto- Tre svenimenti
+00635	Arena speciale: Rathian AG	Caccia una Rathian	- Tempo scaduto- Tre svenimenti
+00636	Arena speciale: Paolumu AG	Caccia un Paolumu	- Tempo scaduto- Tre svenimenti
+00637	Arena speciale: Radobaan AG	Caccia un Radobaan	- Tempo scaduto- Tre svenimenti
+00641	Fascino seducente	Dirotta lo Zorah Magdaros	- Tempo scaduto- Tre svenimenti- Zorah Magdaros non dirottato
+00651	Mostro indigesto	Caccia un Gran Jagras	- Tempo scaduto- Tre svenimenti
+00652	Un mostro dagli occhi dolci	Caccia un Pukei-Pukei	- Tempo scaduto- Tre svenimenti
+00653	Un'esperienza terrificante	Caccia un Tobi-Kadachi	- Tempo scaduto- Tre svenimenti
+00654	Se non vi muovete lui non vi vede	Caccia un Anjanath	- Tempo scaduto- Tre svenimenti
+00655	La regina silvana dormiente	Caccia una Rathian	- Tempo scaduto- Tre svenimenti
+00656	Alla vecchia maniera	Cattura un Tobi-Kadachi	- Tempo scaduto- Tre svenimenti- Tobi-Kadachi ucciso
+00661	Mani a posto!	Caccia un Kulu-Ya-Ku	- Tempo scaduto- Tre svenimenti
+00662	Lotta nel fango	Caccia un Barroth	- Tempo scaduto- Tre svenimenti
+00663	Imboscata a un Pukei-Pukei	Caccia un Pukei-Pukei	- Tempo scaduto- Tre svenimenti
+00665	Nel fango fino al collo	Caccia un Jyuratodus	- Tempo scaduto- Tre svenimenti
+00666	Regina del verde nel deserto	Caccia una Rathian	- Tempo scaduto- Tre svenimenti
+00667	Intrusione di un piantagrane	Caccia un Anjanath	- Tempo scaduto- Tre svenimenti
+00671	Di' cheese!	Caccia uno Tzitzi-Ya-Ku	- Tempo scaduto- Tre svenimenti
+00672	Fuochi d'artificio	Caccia un Paolumu	- Tempo scaduto- Tre svenimenti
+00681	Una precisa richiesta	Caccia un Gran Girros	- Tempo scaduto- Tre svenimenti
+00682	Il solito tran tran	Caccia un Radobaan	- Tempo scaduto- Tre svenimenti
+00683	Missione chef! Consegna da campioni	Ottieni 4 fossili dimenticati	- Tempo scaduto- Tre svenimenti
+00684	Missione chef! Una putrida pretesa	Uccidi 10 Girros	- Tempo scaduto- Tre svenimenti
+00691	Una zampa tesa	Uccidi 13 Gastodon	- Tempo scaduto- Tre svenimenti
+00692	Uno scoop scottante	Uccidi 5 Barnos	- Tempo scaduto- Tre svenimenti
+00693	Dramma Dodogama	Caccia un Dodogama	- Tempo scaduto- Tre svenimenti
+00694	Missione chef! Coprifuoco Gajalaka	Sconfiggi 10 Gajalaka	- Tempo scaduto- Tre svenimenti
+00701	Brama di conoscenza	Uccidi il Nergigante	- Tempo scaduto- Tre svenimenti
+00731	Arena speciale: Rathian rosa AG	Caccia una Rathian rosa	- Tempo scaduto- Tre svenimenti
+00732	Arena speciale: Legiana AG	Caccia un Legiana	- Tempo scaduto- Tre svenimenti
+00733	Arena speciale: Odogaron AG	Caccia un Odogaron	- Tempo scaduto- Tre svenimenti
+00734	Arena speciale: Uragaan AG	Caccia un Uragaan	- Tempo scaduto- Tre svenimenti
+00735	Arena speciale: Rathalos AG	Caccia un Rathalos	- Tempo scaduto- Tre svenimenti
+00736	Arena speciale: Rathalos azzurro AG	Caccia un Rathalos azzurro	- Tempo scaduto- Tre svenimenti
+00737	Arena speciale: Diablos AG	Caccia un Diablos	- Tempo scaduto- Tre svenimenti
+00738	Arena speciale: Diablos nera AG	Caccia una Diablos nera	- Tempo scaduto- Tre svenimenti
+00751	Rivincita Rathalos	Caccia un Rathalos	- Tempo scaduto- Tre svenimenti
+00752	Apocalisse azzurra	Caccia un Rathalos azzurro	- Tempo scaduto- Tre svenimenti
+00753	Il rosso e il blu	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+00761	Bella in rosa	Caccia una Rathian rosa	- Tempo scaduto- Tre svenimenti
+00762	Diavolo di un Diablos!	Caccia un Diablos	- Tempo scaduto- Tre svenimenti
+00763	Minaccia bicornuta	Caccia una Diablos nera	- Tempo scaduto- Tre svenimenti
+00764	Botte da orbi	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+00771	Una rosa di montagna	Caccia una Rathian rosa	- Tempo scaduto- Tre svenimenti
+00772	Dagli altipiani con furore	Caccia un Legiana	- Tempo scaduto- Tre svenimenti
+00773	Incontri indesiderati	Caccia un Odogaron	- Tempo scaduto- Tre svenimenti
+00774	Cronache del ghiaccio e dell'ira	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+00781	Odogaron a piede libero	Caccia un Odogaron	- Tempo scaduto- Tre svenimenti
+00791	Lavasioth, mostro di magma	Caccia un Lavasioth	- Tempo scaduto- Tre svenimenti
+00792	Un ospite affamato di minerali	Caccia un Uragaan	- Tempo scaduto- Tre svenimenti
+00793	Signore dei cieli azzurri	Caccia un Rathalos azzurro	- Tempo scaduto- Tre svenimenti
+00794	Bazelgeuse e il fantastico trio	Caccia un Bazelgeuse	- Tempo scaduto- Tre svenimenti
+00795	Una focosa collaborazione	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+00801	Kushala Daora, drago d'acciaio	Uccidi il Kushala Daora	- Tempo scaduto- Tre svenimenti
+00802	L'infernale Teostra	Uccidi il Teostra	- Tempo scaduto- Tre svenimenti
+00803	Vaal Hazak, creatura infernale	Uccidi il Vaal Hazak	- Tempo scaduto- Tre svenimenti
+00804	Convergenza di energie	Completa l'incarico	- Tempo scaduto- Tre svenimenti
+00805	Oltre le scaglie esplosive	Caccia due Bazelgeuse	- Tempo scaduto- Tre svenimenti
+00806	Alta tensione sugli Altipiani	Uccidi un Kirin	- Tempo scaduto- Tre svenimenti
+00851	Cattivi presagi	Uccidi un Kushala Daora	- Tempo scaduto- Tre svenimenti
+00861	Un bagliore nella sabbia	Uccidi un Teostra	- Tempo scaduto- Tre svenimenti
+00871	Un fulmine a ciel sereno	Uccidi un Kirin	- Tempo scaduto- Tre svenimenti
+00881	Inaspettati fermenti	Uccidi un Vaal Hazak	- Tempo scaduto- Tre svenimenti
+00891	Il divoratore di anziani	Uccidi il Nergigante	- Tempo scaduto- Tre svenimenti
+00892	Signore delle bufere	Uccidi un Kushala Daora	- Tempo scaduto- Tre svenimenti
+00893	Baluardo infernale	Uccidi un Teostra	- Tempo scaduto- Tre svenimenti
+00894	Il divoratore di anziani	Uccidi il Nergigante	- Tempo scaduto- Tre svenimenti
+00895	L'ira funesta di un ramingo	Uccidi un Kushala Daora	- Tempo scaduto- Tre svenimenti
+00896	La rabbia fumante di un ramingo	Uccidi un Teostra	- Tempo scaduto- Tre svenimenti
+00961	Oltre le scaglie esplosive	Caccia 2 Bazelgeuse	- Tempo scaduto- Tre svenimenti
+00971	Alta tensione sugli Altipiani	Uccidi un Kirin	- Tempo scaduto- Tre svenimenti
+00991	Una luce tra le tenebre	Uccidi lo Xeno'jiiva	- Tempo scaduto- Tre svenimenti
+00992	I bianchi venti del Nuovo Mondo	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+00995	La guida della stella di zaffiro	Uccidi tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+00996	Scontro finale: maltrattamenti nel fango	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+00997	Nuovo Mondo, nuovo fiore	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+00998	Terrore dal profondo	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+01101	Battesimo del ghiaccio	Caccia un Beotodus	- Tempo scaduto- Tre svenimenti
+01102	L'embargo del Banbaro	Caccia un Banbaro	- Tempo scaduto- Tre svenimenti
+01121	Un tuffo nella neve	Caccia un Beotodus	- Tempo scaduto- Tre svenimenti
+01122	Carica!	Caccia un Banbaro	- Tempo scaduto- Tre svenimenti
+01123	Materia prima... e dopo	Cattura un Beotodus	- Tempo scaduto- Tre svenimenti- Beotodus ucciso
+01124	Richiamo della foresta	Uccidi 10 Wulg	- Tempo scaduto- Tre svenimenti
+01125	Saluti dalla tundra	Ottieni 20 farfaracci freschi	- Tempo scaduto- Tre svenimenti
+01131	Arena speciale: Pukei-Pukei GM	Caccia un Pukei-Pukei	- Tempo scaduto- Tre svenimenti
+01132	Arena speciale: Barroth GM	Caccia un Barroth	- Tempo scaduto- Tre svenimenti
+01133	Arena speciale: Tobi-Kadachi GM	Caccia un Tobi-Kadachi	- Tempo scaduto- Tre svenimenti
+01134	Arena speciale: Banbaro GM	Caccia un Banbaro	- Tempo scaduto- Tre svenimenti
+01151	Il ritorno del Gran Jagras	Caccia un Gran Jagras	- Tempo scaduto- Tre svenimenti
+01152	Problemi del Nuovo Mondo	Caccia un Pukei-Pukei	- Tempo scaduto- Tre svenimenti
+01153	Il cespuglio della vergogna	Caccia un Tobi-Kadachi	- Tempo scaduto- Tre svenimenti
+01154	Giù le mani dalla collezione!	Caccia un Kulu-Ya-Ku	- Tempo scaduto- Tre svenimenti
+01155	Guerra allo sradica-alberi	Cattura un Banbaro	- Tempo scaduto- Tre svenimenti- Banbaro ucciso
+01161	Caccia al tesoro nelle Guglie	Caccia un Kulu-Ya-Ku	- Tempo scaduto- Tre svenimenti
+01162	Trascinati nel fango	Caccia un Barroth	- Tempo scaduto- Tre svenimenti
+01163	Jyura che mi aiuterai	Caccia un Jyuratodus	- Tempo scaduto- Tre svenimenti
+01164	Tour di degustazione	Caccia un Pukei-Pukei	- Tempo scaduto- Tre svenimenti
+01171	L'abbaglio dello Tzitzi-Ya-Ku	Caccia uno Tzitzi-Ya-Ku	- Tempo scaduto- Tre svenimenti
+01181	Padrino del Girros	Caccia un Gran Girros	- Tempo scaduto- Tre svenimenti
+01191	Banchetto di cristallo	Caccia un Dodogama	- Tempo scaduto- Tre svenimenti
+01192	Il paese delle corna enormi	Caccia un Banbaro	- Tempo scaduto- Tre svenimenti
+01201	Attacco in vista	Caccia un Tobi-Kadachi vipera	- Tempo scaduto- Tre svenimenti
+01202	Niente pennichelle	Caccia un Paolumu onirico	- Tempo scaduto- Tre svenimenti
+01203	Doppio gioco	Caccia un Pukei-Pukei corallino	- Tempo scaduto- Tre svenimenti
+01221	Un'analisi che causa paralisi	Caccia un Tobi-Kadachi vipera	- Tempo scaduto- Tre svenimenti
+01222	Su veleno e paralisi	Cattura un Tobi-Kadachi vipera	- Tempo scaduto- Tre svenimenti- Tobi-Kadachi vipera ucciso
+01223	Boaboa Constrictor	Sconfiggi 14 Boaboa	- Tempo scaduto- Tre svenimenti
+01224	L'unione fa la forza	Caccia un Beotodus	- Tempo scaduto- Tre svenimenti
+01225	Reciproci favori	Caccia un Beotodus	- Tempo scaduto- Tre svenimenti
+01231	Arena speciale: Anjanath GM	Caccia un Anjanath	- Tempo scaduto- Tre svenimenti
+01232	Arena speciale: Radobaan GM	Caccia un Radobaan	- Tempo scaduto- Tre svenimenti
+01233	Arena speciale: Pukei-Pukei corallino GM	Caccia un Pukei-Pukei corallino	- Tempo scaduto- Tre svenimenti
+01234	Arena speciale: Tobi-Kadachi vipera GM	Caccia un Tobi-Kadachi vipera	- Tempo scaduto- Tre svenimenti
+01235	Arena speciale: Rathian GM	Caccia una Rathian	- Tempo scaduto- Tre svenimenti
+01236	Arena speciale: Rathian rosa GM	Caccia una Rathian rosa	- Tempo scaduto- Tre svenimenti
+01237	Arena speciale: Paolumu GM	Caccia un Paolumu	- Tempo scaduto- Tre svenimenti
+01238	Arena speciale: Paolumu onirico GM	Caccia un Paolumu onirico	- Tempo scaduto- Tre svenimenti
+01251	Guai in arrivo	Caccia un Anjanath	- Tempo scaduto- Tre svenimenti
+01252	Regina malinconica	Caccia una Rathian	- Tempo scaduto- Tre svenimenti
+01253	Sogni d'oro	Cattura un Paolumu onirico	- Tempo scaduto- Tre svenimenti- Paolumu onirico ucciso
+01261	Cuor di regina	Caccia una Rathian	- Tempo scaduto- Tre svenimenti
+01262	Il volto della paura	Caccia un Paolumu onirico	- Tempo scaduto- Tre svenimenti
+01263	Mai immischiarsi	Caccia un Anjanath	- Tempo scaduto- Tre svenimenti
+01264	Le regali regine	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+01271	Vola, Paolumu, vola!	Caccia un Paolumu	- Tempo scaduto- Tre svenimenti
+01272	Primavera sugli Altipiani	Caccia una Rathian rosa	- Tempo scaduto- Tre svenimenti
+01273	L'idratazione è vitale	Caccia un Pukei-Pukei corallino	- Tempo scaduto- Tre svenimenti
+01274	Bevi responsabilmente	Caccia un Pukei-Pukei corallino	- Tempo scaduto- Tre svenimenti
+01281	Non è uno scherzo	Caccia un Radobaan	- Tempo scaduto- Tre svenimenti
+01282	Si salvi chi può!	Uccidi tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+01291	Verso l'antico splendore	Consegna 20 ambre gaie	- Tempo scaduto- Tre svenimenti
+01301	Tormenta di tormenti	Caccia un Barioth	- Tempo scaduto- Tre svenimenti
+01302	Ombra onnipresente	Caccia un Nargacuga	- Tempo scaduto- Tre svenimenti
+01303	La lama rovente	Caccia un Glavenus	- Tempo scaduto- Tre svenimenti
+01304	Potere assoluto	Caccia un Tigrex	- Tempo scaduto- Tre svenimenti
+01305	Contrattacco violento	Caccia un Brachydios	- Tempo scaduto- Tre svenimenti
+01306	Ghiaccio e fuoco	Respingi il Velkhana	- Tempo scaduto- Tre svenimenti
+01321	Ricordi quella volta?	Caccia un Barioth	- Tempo scaduto- Tre svenimenti
+01322	La stanza perrrfetta: Pietra	Cattura un Tigrex	- Tempo scaduto- Tre svenimenti- Tigrex ucciso
+01323	L'altero cavaliere bianco	Caccia un Barioth	- Tempo scaduto- Tre svenimenti
+01331	Arena speciale: Legiana GM	Caccia un Legiana	- Tempo scaduto- Tre svenimenti
+01332	Arena speciale: Odogaron GM	Caccia un Odogaron	- Tempo scaduto- Tre svenimenti
+01333	Arena speciale: Uragaan GM	Caccia un Uragaan	- Tempo scaduto- Tre svenimenti
+01334	Arena speciale: Rathalos GM	Caccia un Rathalos	- Tempo scaduto- Tre svenimenti
+01335	Arena speciale: Diablos GM	Caccia un Diablos	- Tempo scaduto- Tre svenimenti
+01336	Arena speciale: Barioth GM	Caccia un Barioth	- Tempo scaduto- Tre svenimenti
+01337	Arena speciale: Nargacuga GM	Caccia un Nargacuga	- Tempo scaduto- Tre svenimenti
+01338	Arena speciale: Glavenus GM	Caccia un Glavenus	- Tempo scaduto- Tre svenimenti
+01339	Arena speciale: Brachydios GM	Caccia un Brachydios	- Tempo scaduto- Tre svenimenti
+01340	Arena speciale: Tigrex GM	Caccia un Tigrex	- Tempo scaduto- Tre svenimenti
+01351	Sfida nei cieli	Caccia un Rathalos	- Tempo scaduto- Tre svenimenti
+01352	Via col wyvern	Caccia un Nargacuga	- Tempo scaduto- Tre svenimenti
+01353	Il segreto per affettare	Caccia un Glavenus	- Tempo scaduto- Tre svenimenti
+01354	Jolly rosso e nero	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+01361	In guardia, Diablos!	Caccia un Diablos	- Tempo scaduto- Tre svenimenti
+01362	Balenio di lame	Caccia un Glavenus	- Tempo scaduto- Tre svenimenti
+01363	Cotto e affettato!	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+01371	Legiana abbandonato	Caccia un Legiana	- Tempo scaduto- Tre svenimenti
+01372	Vento di tenebra	Caccia un Nargacuga	- Tempo scaduto- Tre svenimenti
+01373	L'ora del dolore	Caccia un Odogaron	- Tempo scaduto- Tre svenimenti
+01381	Delusione nera	Caccia un Odogaron	- Tempo scaduto- Tre svenimenti
+01382	Il ruggito nella valle	Caccia un Tigrex	- Tempo scaduto- Tre svenimenti
+01383	Corsa esplosiva	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+01391	Allarme: scoppio imminente!	Caccia un Brachydios	- Tempo scaduto- Tre svenimenti
+01392	Batti il mostro finché è caldo	Caccia un Lavasioth	- Tempo scaduto- Tre svenimenti
+01393	Vortice di schiaffi	Caccia un Uragaan	- Tempo scaduto- Tre svenimenti
+01394	Il segreto della melma	Cattura un Brachydios	- Tempo scaduto- Tre svenimenti- Brachydios ucciso
+01395	Impatto frontale	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+01401	Quando la brina ti avvolge	Caccia un Legiana glaciale	- Tempo scaduto- Tre svenimenti
+01402	La lama disgregante	Caccia un Glavenus caustico	- Tempo scaduto- Tre svenimenti
+01403	Pessimi amici	Caccia un Odogaron d'ebano	- Tempo scaduto- Tre svenimenti
+01404	La difesa di Seliana	Completa l'incarico	- Tempo scaduto- Tre svenimenti- Seliana non difesa
+01405	Il piantagrane tonante	Caccia un Anjanath tonante	- Tempo scaduto- Tre svenimenti
+01421	Indagine glaciale	Caccia un Legiana glaciale	- Tempo scaduto- Tre svenimenti
+01422	Piantagrane in trasferta	Caccia un Anjanath tonante	- Tempo scaduto- Tre svenimenti
+01423	Tango per due	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+01424	Tesori al vapore	Consegna 2 pietre termali	- Tempo scaduto- Tre svenimenti
+01431	Arena speciale: Rathalos azzurro GM	Caccia un Rathalos azzurro	- Tempo scaduto- Tre svenimenti
+01432	Arena speciale: Diablos nera GM	Caccia una Diablos nera	- Tempo scaduto- Tre svenimenti
+01433	Arena speciale: Glavenus caustico GM	Caccia un Glavenus caustico	- Tempo scaduto- Tre svenimenti
+01434	Arena speciale: Odogaron d'ebano GM	Caccia un Odogaron d'ebano	- Tempo scaduto- Tre svenimenti
+01435	Arena speciale: Anjanath tonante GM	Caccia un Anjanath tonante	- Tempo scaduto- Tre svenimenti
+01451	Gli occhi azzurri ingannano	Caccia un Rathalos azzurro	- Tempo scaduto- Tre svenimenti
+01452	La foresta delle sventure	Caccia un Odogaron d'ebano	- Tempo scaduto- Tre svenimenti
+01461	Reazione a caldo	Caccia una Diablos nera	- Tempo scaduto- Tre svenimenti
+01462	Il nero sfina	Caccia una Diablos nera	- Tempo scaduto- Tre svenimenti
+01471	Un tenebroso avversario	Caccia un Odogaron d'ebano	- Tempo scaduto- Tre svenimenti
+01481	Caustico come una spada	Caccia un Glavenus caustico	- Tempo scaduto- Tre svenimenti
+01482	La stanza perrrfetta: Ferro chiaro	Cattura un Glavenus caustico	- Tempo scaduto- Tre svenimenti- Glavenus caustico ucciso
+01483	La stanza perrrfetta: Ferro scuro	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+01491	Il ritorno del Rathalos azzurro	Caccia un Rathalos azzurro	- Tempo scaduto- Tre svenimenti
+01492	Tuono in gabbia	Cattura un Anjanath tonante	- Tempo scaduto- Tre svenimenti- Anjanath tonante ucciso
+01501	Il wyvern del gelo	Uccidi un Velkhana	- Tempo scaduto- Tre svenimenti
+01502	Disastroso déjà-vu	Caccia un Bazelgeuse vulcanico	- Tempo scaduto- Tre svenimenti
+01503	Il velo funebre	Uccidi un Vaal Hazak funereo	- Tempo scaduto- Tre svenimenti
+01504	Luce dall'abisso	Uccidi un Namielle	- Tempo scaduto- Tre svenimenti
+01521	Armi bianche come la neve	Uccidi un Velkhana	- Tempo scaduto- Tre svenimenti
+01551	L'araldo del sereno	Uccidi un Kushala Daora	- Tempo scaduto- Tre svenimenti
+01552	Un mortifero avvento	Uccidi un Vaal Hazak funereo	- Tempo scaduto- Tre svenimenti
+01561	Udienza reale tra le dune	Uccidi un Teostra	- Tempo scaduto- Tre svenimenti
+01562	Tè con il tiranno	Caccia un Deviljho selvaggio	- Tempo scaduto- Tre svenimenti
+01571	Tempesta di fulmini	Uccidi un Kirin	- Tempo scaduto- Tre svenimenti
+01572	Memorie del dio dei mari	Uccidi un Namielle	- Tempo scaduto- Tre svenimenti
+01581	Il divoratore di morte	Uccidi un Vaal Hazak funereo	- Tempo scaduto- Tre svenimenti
+01591	Ali al vento	Uccidi un Kushala Daora	- Tempo scaduto- Tre svenimenti
+01592	Il marchio del sole	Uccidi un Teostra	- Tempo scaduto- Tre svenimenti
+01593	Furia repressa	Caccia un Bazelgeuse vulcanico	- Tempo scaduto- Tre svenimenti
+01594	La stanza perrrfetta: Argento	Cattura un Bazelgeuse vulcanico	- Tempo scaduto- Tre svenimenti- Bazelgeuse vulcanico ucciso
+01601	Ai seguaci, un peana	Completa l'incarico	- Tempo scaduto- Tre svenimenti
+01602	Peana di verità	Completa l'incarico	- Tempo scaduto- Tre svenimenti
+01603	Dormite ora nel fuoco	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+01604	Rissa riottosa	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+01605	C'eravamo tanto odiati	Uccidi un Nergigante razziatore	- Tempo scaduto- Tre svenimenti
+01606	Il ritorno dello svitato	Caccia uno Yian Garuga	- Tempo scaduto- Tre svenimenti
+01631	La città è nostra	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+01632	Arena speciale: Zinogre GM	Caccia uno Zinogre	- Tempo scaduto- Tre svenimenti
+01633	Arena speciale: Yian Garuga GM	Caccia uno Yian Garuga	- Tempo scaduto- Tre svenimenti
+01634	Arena speciale: Tigrex brutale GM	Caccia un Tigrex brutale	- Tempo scaduto- Tre svenimenti
+01635	Arena speciale: Rathian dorata GM	Caccia una Rathian dorata	- Tempo scaduto- Tre svenimenti
+01636	Arena speciale: Rathalos argentato GM	Caccia un Rathalos argentato	- Tempo scaduto- Tre svenimenti
+01641	Canto di sirena	Uccidi uno Shara Ishvalda	- Tempo scaduto- Tre svenimenti
+01642	Duplice duetto	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+01651	La sorpresa dopo la tempesta	Uccidi tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+01661	Notte di fuoco tra le Guglie	Uccidi una Lunastra	- Tempo scaduto- Tre svenimenti
+01671	Afflato divino	Uccidi tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+01691	Nel palazzo di fuoco	Uccidi una Lunastra	- Tempo scaduto- Tre svenimenti
+01692	Maestro della caccia del Nuovo Mondo	Uccidi tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+03001	Missione arena 02	Uccidi un Kulu-Ya-Ku	- Tempo scaduto- Nove svenimenti
+03002	Missione arena 03	Uccidi una Rathian	- Tempo scaduto- Nove svenimenti
+03031	Missione arena 04	Uccidi uno Tzitzi-Ya-Ku	- Tempo scaduto- Nove svenimenti
+03032	Missione arena 05	Uccidi un Barroth	- Tempo scaduto- Nove svenimenti
+03033	Missione arena 06	Uccidi un Dodogama	- Tempo scaduto- Nove svenimenti
+03034	Missione arena 07	Uccidi un Rathalos azzurro	- Tempo scaduto- Nove svenimenti
+03051	Missione arena 08	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+03052	Missione arena 09	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+03071	Missione arena (maestro) 02	Uccidi un Paolumu onirico	- Tempo scaduto- Nove svenimenti
+03072	Missione arena (maestro) 03	Uccidi un Nargacuga	- Tempo scaduto- Nove svenimenti
+03073	Missione arena (maestro) 04	Uccidi un Glavenus caustico	- Tempo scaduto- Nove svenimenti
+03074	Missione arena (maestro) 05	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+03091	Missione arena (maestro) 06	Uccidi uno Zinogre	- Tempo scaduto- Nove svenimenti
+03092	Missione arena (maestro) 07	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+03101	Missione arena 01	Uccidi un Pukei-Pukei	- Tempo scaduto- Nove svenimenti
+03171	Missione arena (maestro) 01	Uccidi un Banbaro	- Tempo scaduto- Nove svenimenti
+05003	Menestrelli nei guai	Caccia 2 Tzitzi-Ya-Ku	- Tempo scaduto- Tre svenimenti
+0	Invalid Message	Invalid Message	Invalid Message
+30000	Unavailable	Unavailable	Unavailable
+30001	Unavailable	Unavailable	Unavailable
+30002	Unavailable	Unavailable	Unavailable
+30003	Unavailable	Unavailable	Unavailable
+30004	Unavailable	Unavailable	Unavailable
+30005	Unavailable	Unavailable	Unavailable
+30006	Unavailable	Unavailable	Unavailable
+30007	Unavailable	Unavailable	Unavailable
+30008	Unavailable	Unavailable	Unavailable
+30009	Unavailable	Unavailable	Unavailable
+50601	Visitatore da un altro mondo	Completa l'incarico	- Tempo scaduto- Tre svenimenti
+50701	Il Re della catena alimentare	Caccia un Deviljho	- Tempo scaduto- Tre svenimenti
+50702	Invalid Message	Invalid Message	Invalid Message
+50751	Piatto del giorno: flambé di cacciatore	Caccia un Deviljho	- Tempo scaduto- Tre svenimenti
+50801	Un sole ardente	Uccidi il Teostra	- Tempo scaduto- Tre svenimenti
+50802	L'arena di Pandora	Completa l'incarico	- Tempo scaduto- Tre svenimenti
+50803	Nessun rimorso, senza arrendersi	Uccidi tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+50831	Unavailable	Unavailable	Unavailable
+50861	Monarchia infernale	Uccidi tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+50891	Prominenza blu	Uccidi una Lunastra	- Tempo scaduto- Tre svenimenti
+50892	Prominenza blu	Uccidi una Lunastra	- Tempo scaduto- Tre svenimenti
+50901	Un'occasione d'oro	Respingi la Kulve Taroth	- Tempo scaduto- Tre svenimenti
+50902	La furia di El Dorado	Respingi la Kulve Taroth	- Tempo scaduto- Tre svenimenti
+50905	La belva leggendaria	Completa l'incarico	- Tempo scaduto- Nove svenimenti
+50906	Contrattacco alla belva	Uccidi il Behemoth	- Tempo scaduto- Tre svenimenti
+50910	Contratto: Guai nella Foresta antica	Completa l'incarico	- Tempo scaduto- Tre svenimenti
+50991	Visitatore da Eorzea	Uccidi il Behemoth	- Tempo scaduto- Tre svenimenti
+50992	Invalid Message	Invalid Message	Invalid Message
+51601	Esci allo scoperto, distruttore	Completa l'incarico	- Tempo scaduto- Tre svenimenti
+51602	Il mezzocorno	Uccidi un Kirin	- Tempo scaduto- Tre svenimenti
+51603	Oltre il sentiero perduto	Completa l'incarico	- Tempo scaduto- Tre svenimenti
+51604	Punto di non ritorno	Completa l'incarico	- Tempo scaduto- Tre svenimenti
+51605	Il drago rosso	Uccidi il Safi'jiiva	- Tempo scaduto- Tre svenimenti
+51606	Tutta la mia rabbia	Uccidi un Brachydios rabbioso	- Tempo scaduto- Tre svenimenti
+51607	La bionda furia	Caccia un Rajang furioso	- Tempo scaduto- Tre svenimenti
+51611	Unavailable	Unavailable	Unavailable
+51612	Unavailable	Unavailable	Unavailable
+51621	Arena speciale: Zinogre stigeo GM	Caccia uno Zinogre stigeo	- Tempo scaduto- Tre svenimenti
+51622	Brachy, dolore nel cuore	Uccidi un Brachydios furioso	- Tempo scaduto- Tre svenimenti
+51623	Tutto ciò che brilla è furioso	Caccia un Rajang furioso	- Tempo scaduto- Tre svenimenti
+51624	Unavailable	Unavailable	Unavailable
+51625	Unavailable	Unavailable	Unavailable
+61101	Branco selvaggio	Uccidi 12 Kestodon	- Tempo scaduto- Tre svenimenti
+61103	Quando il sole incontra la luna	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+61104	I combinaguai della foresta	Caccia 2 Anjanath	- Tempo scaduto- Tre svenimenti
+61105	Il sogno di tutti i cacciatori	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+61601	Dopo mezzanotte	Uccidi 10 Gastodon	- Tempo scaduto- Tre svenimenti
+61603	Una rottura regale	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+61604	I re non temono nulla	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+61605	Mosswine per cena	Uccidi 5 Mosswine	- Tempo scaduto- Nove svenimenti
+61606	Il più gran dei Jagras	Caccia un Gran Jagras	- Tempo scaduto- Tre svenimenti
+61607	Il suo nome? Lavasioth!	Caccia un Lavasioth	- Tempo scaduto- Tre svenimenti
+61801	A caccia di macachi	Cattura 6 macachi argentati	- Tempo scaduto- Tre svenimenti
+61802	Il sogno di tutti i cacciatori III	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+61803	Il sogno di tutti i cacciatori II	Cattura un Pukei-Pukei corallino	- Tempo scaduto- Tre svenimenti- Pukei Pukei corallino ucciso
+61805	Consegne batuffolose	Ottieni 8 pinguini batuffolo	- Tempo scaduto- Tre svenimenti
+61806	Un'esplosione di minerali	Caccia un Brachydios	- Tempo scaduto- Tre svenimenti
+61807	Un'accoppiata da brividi	Uccidi tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+61808	Palestra scimmiesca	Caccia 2 Rajang	- Tempo scaduto- Tre svenimenti
+61809	La ninna nanna del Paolumu	Caccia un Paolumu onirico	- Tempo scaduto- Nove svenimenti
+61811	Fiori bianchi, fiori di ghiaccio	Ottieni 10 boccioli di gelo	- Tempo scaduto- Tre svenimenti
+61812	Una botta proteica	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+61813	Cinquanta sfumature di bianco	Caccia un Barioth	- Tempo scaduto- Tre svenimenti
+61814	Una conclusione scioccante	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+62502	Un silenzio mortale	Uccidi il Vaal Hazak	- Tempo scaduto- Tre svenimenti
+62503	Sussurro di un manto bianco	Uccidi un Kirin	- Tempo scaduto- Tre svenimenti
+62504	Lo sdegno del sole	Uccidi il Teostra	- Tempo scaduto- Tre svenimenti
+62505	Nell'occhio del ciclone	Uccidi il Kushala Daora	- Tempo scaduto- Tre svenimenti
+62506	Messaggero di distruzione	Uccidi un Nergigante	- Tempo scaduto- Tre svenimenti
+62511	Polvere blu, rossa passione	Uccidi una Lunastra	- Tempo scaduto- Tre svenimenti
+62515	Flussopietre sottaceto	Caccia un Deviljho	- Tempo scaduto- Tre svenimenti
+62606	Scintillio eterno	Dirotta lo Zorah Magdaros	- Tempo scaduto- Tre svenimenti- Zorah Magdaros non dirottato
+62607	La falena e la fiamma	Uccidi lo Xeno'jiiva	- Tempo scaduto- Tre svenimenti
+62608	L'alba dei ricordi	Dirotta lo Zorah Magdaros	- Tempo scaduto- Tre svenimenti- Zorah Magdaros non dirottato
+62609	Guardiano dell'oltretomba	Uccidi lo Xeno'jiiva	- Tempo scaduto- Tre svenimenti
+63001	Sfida 1: facile	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+63002	Sfida 2: facile	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+63003	Infestazione di Vespoid!	Uccidi 30 Vespoid	- Tempo scaduto- Nove svenimenti
+63004	Fango e gloria	Uccidi un Barroth	- Tempo scaduto- Nove svenimenti
+63005	Sfida USJ per principianti!	Uccidi un Kulu-Ya-Ku	- Tempo scaduto- Nove svenimenti
+63006	Sfida USJ per esperti!	Uccidi una Rathian	- Tempo scaduto- Nove svenimenti
+63007	Sfida USJ per principianti!	Uccidi uno Tzitzi-Ya-Ku	- Tempo scaduto- Nove svenimenti
+63008	Sfida USJ per esperti!	Uccidi un Rathalos	- Tempo scaduto- Nove svenimenti
+63009	Fango e gloria	Uccidi un Barroth	- Tempo scaduto- Nove svenimenti
+63031	Sfida 1: normale	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+63032	Sfida 2: normale	Uccidi 2 Odogaron	- Tempo scaduto- Nove svenimenti
+63033	Fuga di Gajalaka	Sconfiggi 10 Gajalaka	- Tempo scaduto- Tre svenimenti
+63034	Il risveglio del Satsui No Hado I	Uccidi il Nergigante	- Tempo scaduto- Nove svenimenti
+63035	Il risveglio del Satsui No Hado II	Uccidi il Nergigante	- Tempo scaduto- Nove svenimenti
+63036	Il risveglio del Satsui No Hado III	Uccidi il Nergigante	- Tempo scaduto- Nove svenimenti
+63037	L'imperatrice dei ciliegi I	Uccidi una Rathian rosa	- Tempo scaduto- Nove svenimenti
+63038	L'imperatrice dei ciliegi II	Uccidi una Rathian rosa	- Tempo scaduto- Nove svenimenti
+63039	L'imperatrice dei ciliegi III	Uccidi una Rathian rosa	- Tempo scaduto- Nove svenimenti
+63051	Sfida 1: difficile	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+63052	Sfida 2: difficile	Uccidi il Nergigante	- Tempo scaduto- Tre svenimenti
+63071	Sfida 1: normale (GM)	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+63072	Sfida 2: normale (GM)	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+63073	Sfida 1: difficile (GM)	Uccidi uno Yian Garuga	- Tempo scaduto- Nove svenimenti
+63074	Sfida 2: difficile (GM)	Uccidi un Deviljho selvaggio	- Tempo scaduto- Nove svenimenti
+63101	Uccisione Nergigante 1	Uccidi il Nergigante	- Tempo scaduto- Nove svenimenti
+63102	Uccisione Nergigante 2	Uccidi il Nergigante	- Tempo scaduto- Nove svenimenti
+63103	Uccisione Nergigante 3	Uccidi il Nergigante	- Tempo scaduto- Nove svenimenti
+63104	Burrasca e zanne 1	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+63105	Burrasca e zanne 2	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+63106	Burrasca e zanne 3	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+63107	Uccisione Nergigante 4	Uccidi il Nergigante	- Tempo scaduto- Nove svenimenti
+63108	Uccisione Deviljho	Uccidi un Deviljho	- Tempo scaduto- Nove svenimenti
+63109	Il meglio del meglio	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+63110	Ciò che si nasconde nella foresta	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+63130	La dura legge della guerra	Uccidi un Bazelgeuse	- Tempo scaduto- Nove svenimenti
+63131	Cacciatore e imperatrice blu	Uccidi una Lunastra	- Tempo scaduto- Nove svenimenti
+63142	Addio al freddo	Uccidi un Velkhana	- Tempo scaduto- Nove svenimenti
+64101	Disputa selvaggia	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+64601	Giramenti di Uragaan	Caccia 2 Uragaan	- Tempo scaduto- Tre svenimenti
+64801	Guerra di palloncini	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+64802	Il guastafeste	Caccia un Bazelgeuse vulcanico	- Tempo scaduto- Tre svenimenti
+65601	Brandelli di Shamos	Caccia 13 Shamos	- Tempo scaduto- Tre svenimenti
+65602	A prova di flash	Caccia 3 Tzitzi-Ya-Ku	- Tempo scaduto- Tre svenimenti
+65603	Per gli amanti delle uova	Caccia un Kulu-Ya-Ku	- Tempo scaduto- Tre svenimenti
+65604	Tremogliole che passione!	Cattura 10 Tremogliole	- Tempo scaduto- Tre svenimenti
+65605	Minaccia tripla	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+65606	Una semplice richiesta	Ottieni 10 funghi gran gourmet	- Tempo scaduto- Tre svenimenti
+65607	Rintracciare la consegna	Ottieni 10 acquemarine blu	- Tempo scaduto- Tre svenimenti
+66101	Gran gioco da ragazzi	Caccia 2 Gran Jagras	- Tempo scaduto- Tre svenimenti
+66102	Cosa finisce per Ya-Ku?	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66103	Intrattenimento scientifico	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66104	Il leggendario Kirin	Uccidi 2 Kirin	- Tempo scaduto- Tre svenimenti
+66105	La banda del veleno	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66106	Buongustai avventurosi cercasi	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66601	Jazz dipinto di verde	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66602	Bolero selvaggio	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66603	Waltzer corallino	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66604	Opera dell'effluvio	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66605	Rock cristallino	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66606	È così che iniziano le rivolte	Caccia tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+66607	Neve e fiori di ciliegio	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66608	Naso per occhio	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66609	Nessun futuro per gli usurpatori	Caccia un Bazelgeuse	- Tempo scaduto- Tre svenimenti
+66610	L'erede al trono	Uccidi tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66801	Pesca per sport	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66802	Prelibatezza sotterranea	Ottieni 20 frutti sotterranei	- Tempo scaduto- Tre svenimenti
+66803	Cacciatori infangati	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66804	Snack del deserto	Ottieni 20 frutti duri	- Tempo scaduto- Tre svenimenti
+66805	Nuovi guai in città	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66806	Festa colorata	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66807	Sogno o son paralizzato?	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66808	Mari e cieli di fuoco	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66809	Un esperimento peculiare	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66810	Freddo e tremante	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66811	Focosi e brutali	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66812	Pericoli nel deserto	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66813	Nel cuore della foresta	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66814	Servi della valle	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66815	I tre re	Uccidi tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66816	Tristezza invernale	Uccidi tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66817	Una fame motivata	Caccia un Deviljho selvaggio	- Tempo scaduto- Tre svenimenti
+66818	Ululato alla luna	Caccia uno Zinogre	- Tempo scaduto- Tre svenimenti
+66819	Calma e tranquillità totale	Caccia uno Yian Garuga	- Tempo scaduto- Tre svenimenti
+66820	Il ruggito che squarciò i cieli	Caccia un Tigrex brutale	- Tempo scaduto- Tre svenimenti
+66821	M'illumino d'argento	Caccia un Rathalos argentato	- Tempo scaduto- Tre svenimenti
+66822	La luna è una severa regina	Caccia una Rathian dorata	- Tempo scaduto- Tre svenimenti
+66824	A chi scimmiotto, scimmione?	Caccia un Rajang	- Tempo scaduto- Tre svenimenti
+66825	Le cicatrici parlano da sole	Caccia uno Yian Garuga deturpato	- Tempo scaduto- Tre svenimenti
+66826	Jodel della foresta	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66827	Heavy Metal delle guglie	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66828	Sinfonia corallina	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66829	Canzone putrefatta	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66830	Alt rock cristallino	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66831	Ballata delle distese	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66832	Lupo infernale	Caccia uno Zinogre stigeo	- Tempo scaduto- Tre svenimenti
+66834	Affilati e ruggenti	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66835	Fulmine a ciel sereno	Caccia uno Zinogre	- Tempo scaduto- Tre svenimenti
+66836	Inno alla distruzione	Uccidi un Nergigante razziatore	- Tempo scaduto- Tre svenimenti
+67101	La Prova	Caccia un Anjanath	- Tempo scaduto- Tre svenimenti
+67102	Lezione selvaggia	Uccidi 8 Barnos	- Tempo scaduto- Tre svenimenti
+67103	A cuccia, Rush!	Caccia due Odogaron	- Tempo scaduto- Tre svenimenti
+67105	USJ: Trattamento da Star	Caccia 3 Gran Jagras	- Tempo scaduto- Tre svenimenti
+67106	USJ: Trattamento da Star	Caccia 3 Gran Jagras	- Tempo scaduto- Tre svenimenti
+67603	USJ e gli sfavillanti astri celesti!	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+67604	USJ e gli sfavillanti astri celesti!	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+67605	Codice rosso	Caccia tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+67606	Visitatore da Eorzea (Estrema)	Uccidi il Behemoth	- Tempo scaduto- Tre svenimenti
+67607	Cuore di Nora	Caccia 2 Deviljho	- Tempo scaduto- Tre svenimenti
+67608	Il silenzioso, il letale e l'impetuosa	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+67610	Contratto: Spirito della foresta	Uccidi il Leshen antico	- Tempo scaduto- Tre svenimenti
+67801	RE: Il ritorno dell'arma biologica	Uccidi un Vaal Hazak funereo	- Tempo scaduto- Tre svenimenti

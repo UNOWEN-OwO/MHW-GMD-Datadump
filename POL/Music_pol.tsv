@@ -1,0 +1,100 @@
+Music Code	Music Level	Music Name
+HUD_HUE_00	-	Samodoskonalenie
+HUD_HUE_00_S	0	Szybszy Ruch
+HUD_HUE_00_W	1	Wzrost Ataku + Zapobieganie Odbijaniu Ataków
+HUD_HUE_01	-	Wzrost Ataku (M)
+HUD_HUE_02	-	Wzrost Ataku (D)
+HUD_HUE_02_W	1	Wzrost Ataku (BD)
+HUD_HUE_03	-	Wzmocnienie Zdrowia (M)
+HUD_HUE_04	-	Wzmocnienie Zdrowia (D)
+HUD_HUE_04_W	1	Przedłużone Wzmocnienie Zdrowia
+HUD_HUE_05	-	Mniejsze Zużycie Wytrz. (M)
+HUD_HUE_06	-	Mniejsze Zużycie Wytrz. (D)
+HUD_HUE_06_W	1	Przedłużone Mniejsze Zużycie Wytrz.
+HUD_HUE_07	-	Neutralizacja Wiatru
+HUD_HUE_08	-	Neutralizacja Wiatru
+HUD_HUE_08_W	1	Długa Neutralizacja Wiatru
+HUD_HUE_09	-	Wzrost Obrony (M)
+HUD_HUE_10	-	Wzrost Obrony (D)
+HUD_HUE_10_W	1	Wzrost Obrony (BD)
+HUD_HUE_11	-	Mniejsze Zużycie Narzędzi (M)
+HUD_HUE_12	-	Mniejsze Zużycie Narzędzi (D)
+HUD_HUE_12_W	1	Przedłużone Mniejsze Zużycie Narzędzi
+HUD_HUE_13	-	Regeneracja Zdrowia (M)
+HUD_HUE_14	-	Regeneracja Zdrowia (D)
+HUD_HUE_15	-	Reg. Zdrowia (M) + Antidotum
+HUD_HUE_16	-	Reg. Zdrowia (D) + Antidotum
+HUD_HUE_17	-	Szybkość Regeneracji (M)
+HUD_HUE_18	-	Szybkość Regeneracji (D)
+HUD_HUE_18_W	1	Przedłużona Szybkość Regeneracji
+HUD_HUE_19	-	Boska Ochrona
+HUD_HUE_19_W	1	Przedłużona Boska Ochrona
+HUD_HUE_20	-	Mocniejszy Zwiad
+HUD_HUE_20_S	0	Poziom Świetlików Zwiadowczych +1
+HUD_HUE_20_W	1	Przedłużony Poz. Świetlików Zwiad. +1
+HUD_HUE_21	-	Odporność na Wydzieliny
+HUD_HUE_21_W	1	Przedłużona Odporność na Wydzieliny
+HUD_HUE_22	-	Neutralizacja Środowiska
+HUD_HUE_22_W	1	Przedłużona Neutralizacja Środowiska
+HUD_HUE_23	-	Zatyczki do Uszu (M)
+HUD_HUE_24	-	Zatyczki do Uszu (D)
+HUD_HUE_24_W	1	Trwające Zatyczki do Uszu (D)
+HUD_HUE_25	-	Neutralizacja Ogłuszenia
+HUD_HUE_25_W	1	Przedłużona Neutralizacja Ogłuszenia
+HUD_HUE_26	-	Neutralizacja Paraliżu
+HUD_HUE_26_W	1	Przedłużona Neutralizacja Paraliżu
+HUD_HUE_27	-	Neutralizacja Wstrząsów
+HUD_HUE_27_W	1	Przedłużona Neutralizacja Wstrząsów
+HUD_HUE_28	-	Wzmocnienie Odp. na Ogień (M)
+HUD_HUE_29	-	Wzmocnienie Odp. na Ogień (D)
+HUD_HUE_29_W	1	Wzmocnienie Odp. na Ogień (BD)
+HUD_HUE_30	-	Wzmocnienie Odp. na Wodę (M)
+HUD_HUE_31	-	Wzmocnienie Odp. na Wodę (D)
+HUD_HUE_31_W	1	Wzmocnienie Odp. na Wodę (BD)
+HUD_HUE_32	-	Wzmoc. Odp. na Pioruny (M)
+HUD_HUE_33	-	Wzmoc. Odp. na Pioruny (D)
+HUD_HUE_33_W	1	Wzmoc. Odp. na Pioruny (BD)
+HUD_HUE_34	-	Wzmocnienie Odp. na Lód (M)
+HUD_HUE_35	-	Wzmocnienie Odp. na Lód (D)
+HUD_HUE_35_W	1	Wzmocnienie Odp. na Lód (BD)
+HUD_HUE_36	-	Wzmocnienie Odp. na Smoki (M)
+HUD_HUE_37	-	Wzmocnienie Odp. na Smoki (D)
+HUD_HUE_37_W	1	Wzmocnienie Odp. na Smoki (BD)
+HUD_HUE_38	-	Wzmocnienie Ataku Żywiołowego
+HUD_HUE_38_S	0	Wzmocnienie Ataku Żywiołowego (M)
+HUD_HUE_38_W	1	Wzmocnienie Ataku Żywiołowego (D)
+HUD_HUE_39	-	Fale Akustyczne
+HUD_HUE_40	-	Przedłużenie Efektów Melodii
+HUD_HUE_41	-	Neutralizacja Odepchnięć
+HUD_HUE_42	-	Wzrost Ataku i Obrony (M)
+HUD_HUE_42_S	0	Wzrost Ataku i Obrony (M)
+HUD_HUE_42_W	1	Wzrost Ataku (D) / Wzrost Obrony (D)
+HUD_HUE_43	-	Wzr. Zgodn. i Reg. Zdrowia (M)
+HUD_HUE_43_S	0	Wzrost Zgodności (M) / Reg. Zdrowia (M)
+HUD_HUE_43_W	1	Wzrost Zgodności (D) / Reg. Zdrowia (M)
+HUD_HUE_44	-	Mocniejsze Szkodliwe Efekty
+HUD_HUE_44_S	0	Mocniejsze Szkodliwe Efekty Ataków (M)
+HUD_HUE_44_W	1	Mocniejsze Szkodliwe Efekty Ataków (D)
+HUD_HUE_45	-	Neutralizacja Szk. Efektów
+HUD_HUE_45_W	1	Przedłużona Neutralizacja Szk. Efektów
+HUD_HUE_46	-	Wzmocnienie Odp. na Plagę
+HUD_HUE_46_S	0	Wzmocnienie Odporności na Plagę (M)
+HUD_HUE_46_W	1	Wzmocnienie Odporności na Plagę (D)
+HUD_HUE_47	-	Neutralizacja Plagi
+HUD_HUE_47_W	1	Przedłużona Neutralizacja Plagi
+HUD_HUE_48	-	Zatyczki (M) / Neutr. Wiatru (M)
+HUD_HUE_48_S	0	Zatyczki (M) / Neutr. Wiatru (M)
+HUD_HUE_48_W	1	Zatyczki (M) / Długa Neutr. Wiatru
+HUD_HUE_49	-	Regeneracja zdrowia (Ś)
+HUD_HUE_23_W	1	Trwające Zatyczki do Uszu (M)
+HUD_HUE_07_W	1	Długa Neutralizacja Wiatru
+HUD_HUE_41_W	1	Przedł. Neutr. Odepchnięcia
+HUD_HUE_50	-	Fala uderzeniowa echa
+HUD_HUE_51	-	"Fala echa ""Smok"""
+HUD_HUE_52	-	Maks. wytrzymałość + regeneracja
+HUD_HUE_53	-	Przedłużona regeneracja zdrowia
+HUD_HUE_54	-	Wzmoc. szybkości + dł. okres uniku
+HUD_HUE_55	-	Wzmocnienie skuteczności żywiołów
+HUD_HUE_56	-	Dłuższy okres uniku
+HUD_HUE_21_G	-	Odporność na błoto/wodę/śnieg
+HUD_HUE_21_W_G	-	Przedłuż. odp. na błoto/wodę/śnieg

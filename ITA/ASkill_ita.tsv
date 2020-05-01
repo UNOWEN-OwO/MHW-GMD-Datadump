@@ -1,0 +1,21 @@
+Askill ID	Askill Code	Askill Name	Askill Upgrade Name	Askill Desc
+0	ASkill001	Mantello mimetico	Mantello mimetico+	Ti rende temporaneamenteinvisibile. L'effetto svaniscese attacchi o subisci danni.
+1	ASkill002	Mantello tecnico	Mantello tecnico+	Annulla i danni di attacchi potenticon una schivata automatica.
+2	ASkill003	Bengala guaritore	Bengala guaritore+	Posiziona un fumogeno cheripristina gradualmente la salute.
+3	ASkill004	Mantello stabilità	Mantello stabilità+	Elimina le reazioni ai danni, previenegli effetti del vento, protegge l'udito.Fornisce resistenza sisma, riduce i danni.
+4	ASkill005	Mantello sfida	Mantello sfida+	Induce i mostri ad attaccarti più difrequente e rende più semplice attirarli.L'effetto svanisce se vieni attaccato.
+5	ASkill006	Mantello vitalità	Mantello vitalità+	Assorbe una parte dei danni.L'effetto svanisce subendo unadeterminata quantità di danni.
+6	ASkill007	Mantello ignifugo	Mantello ignifugo+	Riduce i danni da fuoco, annullai malus da fuoco e scoppio,previene i danni da clima torrido.
+7	ASkill008	Mantello impermeabile	Mantello impermeabile+	Riduce i danni da acqua, annullail malus da acqua e agevolai movimenti in acque profondee fango.
+8	ASkill009	Mantello antighiaccio	Mantello antighiaccio+	Riduce i danni da ghiaccio eannulla il malus da ghiaccio.
+9	ASkill010	Mantello isolante	Mantello isolante+	Riduce i danni da tuono e annullai malus da tuono e paralisi.
+10	ASkill011	Mantello antidrago	Mantello antidrago+	Riduce i danni da drago, annullail malus da drago e potenzia le armicon proprietà elementale drago.
+11	ASkill012	Bengala detergente	Bengala detergente+	Piazza un fumogeno cherimuove le alterazioni di statoe i malus elementali.
+14	ASkill015	Mantello aliante	Mantello aliante+	Incrementa la durata del salto,permette di cavalcare i venti fortie rende più facile salire sui mostri.
+15	ASkill016	Mantello evasione	Mantello evasione+	Prolunga l'intervallo delle azioni evasive.Schiva gli attacchi all'ultimo secondo perottenere un bonus di attacco.
+16	ASkill017	Mantello impatto	Mantello impatto+	Aggiunge stordimento a moltiattacchi o potenzia un effettostordente già presente.
+17	ASkill018	Mantello chimico	Mantello chimico+	Aumenta la probabilità diinfliggere stati alterati conle armi che possono farlo.
+18	ASkill019	Mantello immunità	Mantello immunità+	Rimuove e annulla tutte le alterazionidi stato per la durata dell'effetto.
+19	ASkill020	Bengala affinità	Bengala affinità+	Posiziona un fumogeno cheincrementa l'affinità.
+20	ASkill021	Mantello furfante	Mantello furfante+	Induce i mostri a lasciareoggetti rari quando li attacchi.
+21	ASkill022	Cappa dell'assassino	Cappa dell'assassino+	Aumenta la velocità di movimentoe permette di nascondersi rapidamente.Provoca danni ingenti ai mostri coltidi sorpresa, quindi l'effetto svanisce.

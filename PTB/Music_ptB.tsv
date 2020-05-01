@@ -1,0 +1,100 @@
+Music Code	Music Level	Music Name
+HUD_HUE_00	-	Autoaprimoramento
+HUD_HUE_00_S	0	Mais Velocidade de Movimento
+HUD_HUE_00_W	1	Mais Ataque + Prev. de Deflexão de Atq.
+HUD_HUE_01	-	Mais Ataque (P)
+HUD_HUE_02	-	Mais Ataque (G)
+HUD_HUE_02_W	1	Mais Ataque (XG)
+HUD_HUE_03	-	Reforço de Vida (P)
+HUD_HUE_04	-	Reforço de Vida (G)
+HUD_HUE_04_W	1	Reforço de Vida Estendido
+HUD_HUE_05	-	Gasto de Vigor Reduzido (P)
+HUD_HUE_06	-	Gasto de Vigor Reduzido (G)
+HUD_HUE_06_W	1	Gasto de Vigor Reduzido Estendido
+HUD_HUE_07	-	Pressão de Vento Negada
+HUD_HUE_08	-	Toda a Pressão de Vento Negada
+HUD_HUE_08_W	1	Toda a Pressão de Vento Negada Estendida
+HUD_HUE_09	-	Mais Defesa (P)
+HUD_HUE_10	-	Mais Defesa (G)
+HUD_HUE_10_W	1	Mais Defesa (XG)
+HUD_HUE_11	-	Uso de Ferramenta Reduzido (P)
+HUD_HUE_12	-	Uso de Ferramenta Reduzido (G)
+HUD_HUE_12_W	1	Uso de Ferramenta Reduzido Estendido
+HUD_HUE_13	-	Regeneração de Vida (P)
+HUD_HUE_14	-	Regeneração de Vida (G)
+HUD_HUE_15	-	Reg. de Vida (P) + Antídoto
+HUD_HUE_16	-	Reg. de Vida (M) + Antídoto
+HUD_HUE_17	-	Velocidade Regeneração (P)
+HUD_HUE_18	-	Velocidade Regeneração (G)
+HUD_HUE_18_W	1	Velocidade Regeneração Estendida
+HUD_HUE_19	-	Proteção Divina
+HUD_HUE_19_W	1	Proteção Divina Estendida
+HUD_HUE_20	-	Fortalecimento de Guialumes
+HUD_HUE_20_S	0	Nível de Guialumes +1
+HUD_HUE_20_W	1	Nível de Guialumes +1 Estendido
+HUD_HUE_21	-	Resistência a Muco
+HUD_HUE_21_W	1	Resistência a Esterco Estendida
+HUD_HUE_22	-	Dano de Ambiente Negado
+HUD_HUE_22_W	1	Dano de Ambiente Negado Estendido
+HUD_HUE_23	-	Tampões (P)
+HUD_HUE_24	-	Tampões (G)
+HUD_HUE_24_W	1	Tampões (G) Estendido
+HUD_HUE_25	-	Atordoamento Negado
+HUD_HUE_25_W	1	Negação de Atordoamento Estendida
+HUD_HUE_26	-	Paralisia Negada
+HUD_HUE_26_W	1	Negação de Paralisia Estendida
+HUD_HUE_27	-	Tremores Negados
+HUD_HUE_27_W	1	Negação de Tremores Estendida
+HUD_HUE_28	-	Reforço Resistência a Fogo (P)
+HUD_HUE_29	-	Reforço Resistência a Fogo (G)
+HUD_HUE_29_W	1	Reforço Resistência a Fogo (XG)
+HUD_HUE_30	-	Reforço Resistência a Água (P)
+HUD_HUE_31	-	Reforço Resistência a Água (G)
+HUD_HUE_31_W	1	Reforço Resistência a Água (XG)
+HUD_HUE_32	-	Reforço Resistência a Raio (P)
+HUD_HUE_33	-	Reforço Resistência a Raio (G)
+HUD_HUE_33_W	1	Reforço Resistência a Raio (XG)
+HUD_HUE_34	-	Reforço Resistência a Gelo (P)
+HUD_HUE_35	-	Reforço Resistência a Gelo (G)
+HUD_HUE_35_W	1	Reforço Resistência a Gelo (XG)
+HUD_HUE_36	-	Reforço Resistência Dragão (P)
+HUD_HUE_37	-	Reforço Resistência Dragão (G)
+HUD_HUE_37_W	1	Reforço Resistência Dragão (XG)
+HUD_HUE_38	-	Reforço de Ataque Elemental
+HUD_HUE_38_S	0	Reforço de Ataque Elemental (P)
+HUD_HUE_38_W	1	Reforço de Ataque Elemental (G)
+HUD_HUE_39	-	Ondas Sônicas
+HUD_HUE_40	-	Todos Efeitos de Melodia Est.
+HUD_HUE_41	-	Empurrões Negados
+HUD_HUE_42	-	Mais Ataque e Defesa (P)
+HUD_HUE_42_S	0	Mais Ataque e Defesa (P)
+HUD_HUE_42_W	1	Mais Ataque (G)/Defesa (G)
+HUD_HUE_43	-	Mais Afinidade/Reg. Vida (P)
+HUD_HUE_43_S	0	Mais Afinidade (P)/Reg. de Vida (P)
+HUD_HUE_43_W	1	Mais Afinidade (G)/Reg. de Vida (P)
+HUD_HUE_44	-	Status Anormais de Ataque Aum.
+HUD_HUE_44_S	0	Mais Status Anormais de Ataque (P)
+HUD_HUE_44_W	1	Mais Status Anormais de Ataque (G)
+HUD_HUE_45	-	Todo Efeito Negativo Negado
+HUD_HUE_45_W	1	Negação de Efeito Negativo Estendida
+HUD_HUE_46	-	Mais Resistência a Flagelo
+HUD_HUE_46_S	0	Mais Resistência a Flagelo (P)
+HUD_HUE_46_W	1	Mais Resistência a Flagelo (G)
+HUD_HUE_47	-	Flagelos Negados
+HUD_HUE_47_W	1	Negação de Flagelo Estendida
+HUD_HUE_48	-	Tampões (S)/Pr. de Vento Neg.
+HUD_HUE_48_S	0	Tampões (S) / Pressão de Vento Negada
+HUD_HUE_48_W	1	Tampões (S) / Pr. de Vento Negada Est.
+HUD_HUE_49	-	Regeneração de Vida (M)
+HUD_HUE_23_W	1	Tampões (P) Estendidos
+HUD_HUE_07_W	1	Pressão de Vento Negação Est.
+HUD_HUE_41_W	1	Negação de Empurrão Estendida
+HUD_HUE_50	-	Onda de Eco de Impacto
+HUD_HUE_51	-	"Onda de Eco ""Dragão"""
+HUD_HUE_52	-	Aumento Vigor Máximo + Recuperação
+HUD_HUE_53	-	Regeneração de Vida Estendida
+HUD_HUE_54	-	Ref. Velocid. + Mais Tempo Esquiva
+HUD_HUE_55	-	Mais Eficácia Elemental
+HUD_HUE_56	-	Mais Tempo de Esquiva
+HUD_HUE_21_G	-	Res. Muco/Água/Neve Prof.
+HUD_HUE_21_W_G	-	Res. Muco/Água/Neve Prof. Estend.

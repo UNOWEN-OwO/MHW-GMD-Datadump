@@ -1,0 +1,185 @@
+Pendant ID	Pendant Code	Pendant Name	Model
+0	CHARM_000_NAME	Medaglia della Gilda di bronzo	charm002
+1	CHARM_001_NAME	Medaglia della Gilda d'argento	charm002
+2	CHARM_002_NAME	Medaglia della Gilda d'oro	charm002
+3	CHARM_003_NAME	Vessillo di bronzo rosso	charm003
+4	CHARM_004_NAME	Vessillo di bronzo giallo	charm003
+5	CHARM_005_NAME	Vessillo di bronzo blu	charm003
+6	CHARM_006_NAME	Vessillo di bronzo rosa	charm003
+7	CHARM_007_NAME	Vessillo di bronzo verde	charm003
+8	CHARM_008_NAME	Vessillo di bronzo grigio	charm003
+9	CHARM_009_NAME	Vessillo di bronzo marrone	charm003
+10	CHARM_010_NAME	Vessillo d'argento bianco	charm003
+11	CHARM_011_NAME	Vessillo d'argento rosso	charm003
+12	CHARM_012_NAME	Vessillo d'argento verde	charm003
+13	CHARM_013_NAME	Vessillo d'argento ciano	charm003
+14	CHARM_014_NAME	Vessillo d'argento viola	charm003
+15	CHARM_015_NAME	Vessillo d'argento rosa	charm003
+16	CHARM_016_NAME	Vessillo d'argento arancione	charm003
+17	CHARM_017_NAME	Vessillo d'oro marrone	charm003
+18	CHARM_018_NAME	Vessillo d'oro bianco	charm003
+19	CHARM_019_NAME	Vessillo d'oro verde scuro	charm003
+20	CHARM_020_NAME	Vessillo d'oro verde chiaro	charm003
+21	CHARM_021_NAME	Vessillo d'oro viola	charm003
+22	CHARM_022_NAME	Vessillo d'oro arancione	charm003
+23	CHARM_023_NAME	Vessillo d'oro blu	charm003
+24	CHARM_024_NAME	Cristallo guida di smeraldo	charm004
+25	CHARM_025_NAME	Cristallo guida della foresta	charm004
+26	CHARM_026_NAME	Cristallo guida del sole	charm004
+27	CHARM_027_NAME	Cristallo guida del tramonto	charm004
+28	CHARM_028_NAME	Cristallo guida di morganite	charm004
+29	CHARM_029_NAME	Cristallo guida di celestite	charm004
+30	CHARM_030_NAME	Cristallo guida di citrino	charm004
+31	CHARM_031_NAME	Cristallo guida di diamante	charm004
+32	CHARM_032_NAME	Cristallo guida cremisi	charm004
+33	CHARM_033_NAME	Cristallo guida di ematite	charm004
+34	CHARM_034_NAME	Cristallo guida di ghiacciaio	charm004
+35	CHARM_035_NAME	Cristallo guida di tanzanite	charm004
+36	CHARM_036_NAME	Stella guida silvana	charm001
+37	CHARM_037_NAME	Stella guida desolata	charm001
+38	CHARM_038_NAME	Stella guida corallina	charm001
+39	CHARM_039_NAME	Stella guida di effluvi	charm001
+40	CHARM_040_NAME	Stella guida di magma	charm001
+41	CHARM_041_NAME	Stella guida di brina	charm001
+42	CHARM_042_NAME	Simbolo cacciatore di bronzo	charm005
+43	CHARM_043_NAME	Simbolo cacciatore d'argento	charm005
+44	CHARM_044_NAME	Simbolo cacciatore d'oro	charm005
+45	CHARM_045_NAME	Simbolo maestro di diamante	charm005
+46	CHARM_046_NAME	Simbolo maestro di rubino	charm005
+47	CHARM_047_NAME	Simbolo maestro di smeraldo	charm005
+48	CHARM_048_NAME	Simbolo maestro d'ambra	charm005
+49	CHARM_049_NAME	Simbolo maestro di zaffiro	charm005
+50	CHARM_050_NAME	Simbolo maestro di topazio	charm005
+51	CHARM_051_NAME	Simbolo maestro d'ametista	charm005
+52	CHARM_052_NAME	Simbolo maestro d'oro rosso	charm005
+53	CHARM_053_NAME	Simbolo maestro d'oro blu	charm005
+54	CHARM_054_NAME	Simbolo maestro di bronzo	charm005
+55	CHARM_055_NAME	Simbolo maestro blu	charm005
+56	CHARM_056_NAME	Simbolo maestro viola	charm005
+57	CHARM_057_NAME	Simbolo maestro d'ossidiana	charm005
+58	CHARM_058_NAME	Simbolo maestro rosso	charm005
+59	CHARM_059_NAME	Simbolo maestro verde	charm005
+60	CHARM_060_NAME	Simbolo maestro rosa	charm005
+61	CHARM_061_NAME	Bouquet floreale	charm006
+62	DUMMY000000	Unavailable	charm001
+63	DUMMY000001	Unavailable	charm001
+64	CHARM_064_NAME	Tigre fortunata rossa	charm009
+65	CHARM_065_NAME	Ornamento astrale azzurro	charm010
+66	CHARM_066_NAME	Artigli di Rajang	charm011
+67	CHARM_067_NAME	Corno di Rajang furioso	charm012
+68	CHARM_068_NAME	Artigli Zinogre stigeo	charm013
+69	CHARM_069_NAME	Corno rosso dell'eroe	charm014
+70	CHARM_070_NAME	Frammento di Brachydios rabbioso	charm015
+71	DUMMY000002	Unavailable	charm001
+72	CHARM_072_NAME	Artigli di Rathian dorata	charm017
+73	CHARM_073_NAME	Artigli di Rathalos argentato	charm018
+74	DUMMY000003	Unavailable	charm001
+75	DUMMY000004	Unavailable	charm001
+76	DUMMY000005	Unavailable	charm001
+77	DUMMY000006	Unavailable	charm001
+78	DUMMY000007	Unavailable	charm001
+79	DUMMY000008	Unavailable	charm001
+80	DUMMY000009	Unavailable	charm001
+81	DUMMY000010	Unavailable	charm001
+82	CHARM_082_NAME	Frammento di Namielle arcitemprato	charm027
+83	DUMMY000011	Unavailable	charm001
+84	DUMMY000012	Unavailable	charm001
+85	DUMMY000013	Unavailable	charm001
+86	CHARM_086_NAME	HARDUMMY	charm031
+87	CHARM_087_NAME	HARDUMMY	charm032
+88	CHARM_088_NAME	Stemma R.P.D.	charm033
+89	CHARM_089_NAME	Stemma Umbrella	charm034
+90	CHARM_090_NAME	Pendente Talpy - Fortuna	charm035
+91	CHARM_091_NAME	Pendente Talpy - Salute	charm036
+92	CHARM_092_NAME	Pendente Talpy - Sicurezza	charm037
+93	CHARM_093_NAME	Pendente Talpy - Amore	charm038
+94	CHARM_094_NAME	Pendente Talpy - Protezione	charm039
+95	CHARM_095_NAME	Pendente Talpy - Passione	charm040
+96	CHARM_096_NAME	Pendente Talpy - Pace	charm041
+97	CHARM_097_NAME	Orsacchiotto Felyne	charm042
+98	CHARM_098_NAME	HARDUMMY	charm044
+99	CHARM_099_NAME	HARDUMMY	charm045
+100	CHARM_100_NAME	HARDUMMY	charm043
+101	CHARM_101_NAME	Bouquet floreale rosa	charm006
+102	CHARM_102_NAME	Bouquet floreale arancione	charm006
+103	CHARM_103_NAME	Bouquet floreale rosso	charm006
+104	CHARM_104_NAME	Bouquet floreale blu	charm006
+105	DUMMY000014	Unavailable	charm001
+106	DUMMY000015	Unavailable	charm001
+107	DUMMY000016	Unavailable	charm001
+108	DUMMY000017	Unavailable	charm001
+109	DUMMY000018	Unavailable	charm001
+110	DUMMY000019	Unavailable	charm001
+111	DUMMY000020	Unavailable	charm001
+112	DUMMY000021	Unavailable	charm001
+113	CHARM_113_NAME	Tigre fortunata rosa	charm009
+114	CHARM_114_NAME	Tigre fortunata verde	charm009
+115	CHARM_115_NAME	Tigre fortunata viola	charm009
+116	CHARM_116_NAME	Tigre fortunata blu	charm009
+117	CHARM_117_NAME	Ornamento astrale rosa	charm010
+118	CHARM_118_NAME	Ornamento astrale rosso	charm010
+119	CHARM_119_NAME	Ornamento astrale blu	charm010
+120	CHARM_120_NAME	Ornamento astrale verde	charm010
+121	DUMMY000022	Unavailable	charm001
+122	CHARM_122_NAME	Bouquet floreale verde	charm006
+123	CHARM_123_NAME	Bouquet floreale viola	charm006
+124	DUMMY000023	Unavailable	charm001
+125	DUMMY000024	Unavailable	charm001
+126	DUMMY000025	Unavailable	charm001
+127	DUMMY000026	Unavailable	charm001
+128	CHARM_128_NAME	Tigre fortunata verde scura	charm009
+129	CHARM_129_NAME	Tigre fortunata arancione	charm009
+130	CHARM_130_NAME	Ornamento astrale viola	charm010
+131	CHARM_131_NAME	Ornamento astrale onice	charm010
+132	CHARM_132_NAME	Tofu il sopravvissuto	charm047
+133	CHARM_133_NAME	Velo sacro rosso	charm048
+134	CHARM_134_NAME	Velo abissale rosso	charm049
+135	CHARM_135_NAME	Orsacchiotto Felyne bianco	charm042
+136	CHARM_136_NAME	Orsacchiotto Melynx	charm053
+137	CHARM_137_NAME	Orsacchiotto Felyne rosa	charm042
+138	CHARM_138_NAME	Orsacchiotto Felyne viola	charm042
+139	CHARM_139_NAME	Orsacchiotto Felyne verde	charm042
+140	CHARM_140_NAME	Orsacchiotto Felyne arancione	charm042
+141	CHARM_141_NAME	Velo sacro verde	charm048
+142	CHARM_142_NAME	Velo sacro celeste	charm048
+143	CHARM_143_NAME	Velo sacro blu	charm048
+144	CHARM_144_NAME	Velo sacro viola	charm048
+145	CHARM_145_NAME	Velo sacro arancione	charm048
+146	CHARM_146_NAME	Velo sacro rosa	charm048
+147	CHARM_147_NAME	Velo abissale verde	charm049
+148	CHARM_148_NAME	Velo abissale celeste	charm049
+149	CHARM_149_NAME	Velo abissale blu	charm049
+150	CHARM_150_NAME	Velo abissale viola	charm049
+151	CHARM_151_NAME	Velo abissale arancione	charm049
+152	CHARM_152_NAME	Velo abissale rosa	charm049
+153	CHARM_153_NAME	Cinturino Pukei	charm052
+154	CHARM_154_NAME	Cinturino Pukei corallino	charm056
+155	CHARM_155_NAME	Paulumu rotolante	charm050
+156	CHARM_156_NAME	Paolumu onirico rotolante	charm054
+157	CHARM_157_NAME	Rajang ondeggiante	charm055
+158	CHARM_158_NAME	Rajang furioso ondeggiante	charm051
+159	CHARM_159_NAME	Medusa volante	charm057
+160	CHARM_160_NAME	Palloncino rosso	charm058
+161	CHARM_161_NAME	Palloncini rossi e bianchi	charm058
+162	CHARM_162_NAME	Palloncini arcobaleno	charm058
+163	CHARM_163_NAME	Colonia di meduse volanti	charm057
+164	CHARM_164_NAME	Amuleto stella solitaria	charm069
+165	CHARM_165_NAME	Ornamento Kulve oro	charm059
+166	CHARM_166_NAME	Ornamento Kjárr oro	charm060
+167	CHARM_167_NAME	Cuore di Kulve smeraldo	charm061
+168	CHARM_168_NAME	Cuore di Kulve rubino	charm061
+169	CHARM_169_NAME	Cuore di Kulve cristallo	charm061
+170	CHARM_170_NAME	Cuore di Kulve topazio	charm062
+171	CHARM_171_NAME	Cuore di Kulve zaffiro	charm062
+172	CHARM_172_NAME	Cuore di Kulve rosa	charm062
+173	DUMMY000027	Unavailable	charm001
+174	DUMMY000028	Unavailable	charm001
+175	DUMMY000029	Unavailable	charm001
+176	DUMMY000030	Unavailable	charm001
+177	DUMMY000031	Unavailable	charm001
+178	DUMMY000032	Unavailable	charm001
+179	DUMMY000033	Unavailable	charm001
+180	DUMMY000034	Unavailable	charm001
+181	DUMMY000035	Unavailable	charm001
+182	DUMMY000036	Unavailable	charm001
+183	DUMMY000037	Unavailable	charm001

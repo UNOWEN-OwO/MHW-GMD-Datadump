@@ -1,0 +1,21 @@
+Askill ID	Askill Code	Askill Name	Askill Upgrade Name	Askill Desc
+0	ASkill001	Cape caméléon	Cape caméléon +	Rend temporairement invisible.L'effet s'arrête si vous attaquezou subissez des dégâts.
+1	ASkill002	Cape temporelle	Cape temporelle +	Annule les dégâts des attaquespuissantes en esquivantautomatiquement.
+2	ASkill003	Amplificateur de vie	Amplificateur de vie +	Place un fumigateur quirégénère petit à petit la vie.
+3	ASkill004	Cape immuable	Cape immuable +	Annule les réactions aux dégâts,les bourrasques, protège l'ouïe,augmente la résistance auxsecousses, et réduit les dégâts reçus.
+4	ASkill005	Cape de provocation	Cape de provocation +	Incite les monstres à vous attaquerplus souvent et les rend plus facilesà attirer. L'effet s'arrête si vousêtes attaqué.
+5	ASkill006	Cape du gardien	Cape du gardien +	Annule une quantité définie de dégâts.L'effet s'arrête si les dégâts subisdépassent cette limite.
+6	ASkill007	Cape ignifuge	Cape ignifuge +	Réduit les dégâts de feu et annuleles fléaux-feu, fléaux-explosion etles dégâts des environnements chauds.
+7	ASkill008	Cape anti-eau	Cape anti-eau +	Réduit les dégâts d'eau, annuleles fléaux-eau, et rend plus mobileen eau profonde et dans la boue.
+8	ASkill009	Cape anti-glace	Cape anti-glace +	Réduit les dégâts de glace etannule les fléaux-glace.
+9	ASkill010	Cape paratonnerre	Cape paratonnerre +	Réduit les dégâts de foudre etannule les fléaux-foudre etla paralysie.
+10	ASkill011	Cape anti-dragon	Cape anti-dragon +	Réduit les dégâts draconiques,annule les fléaux-dragon, etaméliore l'élément dragon de l'arme.
+11	ASkill012	Purificateur	Purificateur +	Place un fumigateur qui annuleles afflictions et les fléaux.
+14	ASkill015	Cape planeur	Cape planeur +	Accroît la durée de saut. Permet deplaner en cas de vent fort et demonter sur les monstres plus aisément.
+15	ASkill016	Cape d'évasion	Cape d'évasion +	Augmente la fenêtre d'invincibilité lors desesquives. Augmente temporairement l'attaqueen cas d'esquive au dernier moment.
+16	ASkill017	Cape du champion	Cape du champion +	Ajoute un effet d'étourdissement àla plupart des attaques, ou augmenteun effet d'étourdissement existant.
+17	ASkill018	Cape du scélérat	Cape du scélérat +	Augmente les chances d'activerl'affliction d'une arme lorsquevous attaquez.
+18	ASkill019	Cape angélique	Cape angélique +	Supprime et annule toutes lesafflictions durant toute la duréede l'effet.
+19	ASkill020	Amplificateur d'affinité	Amplificateur affinité +	Place un fumigateur quiaugmente l'affinité.
+20	ASkill021	Cape du voleur	Cape du voleur +	Force les monstres à lâcherdes objets rares lorsque vousles attaquez.
+21	ASkill022	Capuche d'assassin	Capuche d'assassin +	Augmente la vitesse de déplacementet permet de se cacher rapidement.Grands dégâts lorsque vous frappezun monstre par surprise.

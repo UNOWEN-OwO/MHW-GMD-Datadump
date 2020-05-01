@@ -1,0 +1,753 @@
+Equip Series ID / Transmog ID	Equip Name	Model Path
+0	Unavailable	None
+1	جلدي	pl001_0000
+2	خاص بالصيّاد	pl002_0000
+3	أنجا	pl020_0000
+4	جاغراس	pl008_0000
+5	عظمي	pl003_0000
+6	خليط معدني	pl004_0000
+7	كيستودون	pl005_0000
+8	غاجاو	pl006_0000
+9	فيسبويد	pl007_0000
+10	كولو	pl009_0000
+11	بوكي	pl010_0000
+12	جيورا	pl011_0000
+13	باروث	pl012_0000
+14	كاداتشي	pl013_0000
+15	فولاذي	pl014_0000
+16	Unavailable	None
+17	هورنتور	pl017_0000
+18	Unavailable	None
+19	الخنفساء الملك	pl019_0000 (Male Only)
+20	راثيان	pl021_0000
+21	غيروس	pl022_0000
+22	تسيتسي	pl023_0000
+23	لومو	pl024_0000
+24	معدن قوي	pl025_0000
+25	رائحة الموت	pl026_0000
+26	ليغيانا	pl027_0000
+27	بان	pl028_0000
+28	أودوغارون	pl029_0000
+29	Unavailable	None
+30	إنغوت	pl031_0000
+31	Unavailable	None
+32	راذالوس	pl033_0000
+33	ديابلوس	pl034_0000
+34	كيرين	pl035_0000
+35	السرية	pl036_0000
+36	Unavailable	pl037_0000
+37	جلدي<ICON ALPHA>	pl001_0000
+38	جلدي<ICON BETA>	pl001_0000
+39	فولاذي<ICON ALPHA>	pl014_0000
+40	فولاذي<ICON BETA>	pl014_0000
+41	خاص بالصيّاد<ICON ALPHA>	pl002_0000
+42	خاص بالصيّاد<ICON BETA>	pl002_0010
+43	عظمي<ICON ALPHA>	pl003_0000
+44	عظمي<ICON BETA>	pl003_0000
+45	خليط معدني<ICON ALPHA>	pl004_0000
+46	خليط معدني<ICON BETA>	pl004_0000
+47	غاجاو<ICON ALPHA>	pl006_0000
+48	غاجاو<ICON BETA>	pl006_0000
+49	كيستودون<ICON ALPHA>	pl005_0000
+50	كيستودون<ICON BETA>	pl005_0000
+51	فيسبويد<ICON ALPHA>	pl007_0000
+52	فيسبويد<ICON BETA>	pl007_0000
+53	غاستودون<ICON ALPHA>	pl015_0000
+54	غاستودون<ICON BETA>	pl015_0000
+55	بارنوس<ICON ALPHA>	pl016_0000
+56	بارنوس<ICON BETA>	pl016_0000
+57	هورنتور<ICON ALPHA>	pl017_0000
+58	هورنتور<ICON BETA>	pl017_0000
+59	Unavailable	None
+60	Unavailable	None
+61	جاغراس<ICON ALPHA>	pl008_0000
+62	جاغراس<ICON BETA>	pl008_0000
+63	كولو<ICON ALPHA>	pl009_0000
+64	كولو<ICON BETA>	pl009_0000
+65	بوكي<ICON ALPHA>	pl010_0000
+66	بوكي<ICON BETA>	pl010_0010
+67	جيورا<ICON ALPHA>	pl011_0000
+68	جيورا<ICON BETA>	pl011_0000
+69	باروث<ICON ALPHA>	pl012_0000
+70	باروث<ICON BETA>	pl012_0000
+71	كاداتشي<ICON ALPHA>	pl013_0000
+72	كاداتشي<ICON BETA>	pl013_0000
+73	راثيان<ICON ALPHA>	pl021_0000
+74	راثيان<ICON BETA>	pl021_0010
+75	غيروس<ICON ALPHA>	pl022_0000
+76	غيروس<ICON BETA>	pl022_0000
+77	تسيتسي<ICON ALPHA>	pl023_0000
+78	تسيتسي<ICON BETA>	pl023_0000
+79	لومو<ICON ALPHA>	pl024_0000
+80	لومو<ICON BETA>	pl024_0000
+81	أودوغارون<ICON ALPHA>	pl029_0000
+82	أودوغارون<ICON BETA>	pl029_0010
+83	دودوغما<ICON ALPHA>	pl039_0000
+84	دودوغما<ICON BETA>	pl039_0000
+85	لافاسيوث<ICON ALPHA>	pl040_0000
+86	لافاسيوث<ICON BETA>	pl040_0010
+87	قلب راث<ICON ALPHA>	pl021_0100
+88	قلب راث<ICON BETA>	pl021_0110
+89	معدن قوي<ICON ALPHA>	pl025_0000
+90	معدن قوي<ICON BETA>	pl025_0000
+91	إنغوت<ICON ALPHA>	pl031_0000
+92	إنغوت<ICON BETA>	pl031_0000
+93	أنجا<ICON ALPHA>	pl020_0000
+94	أنجا<ICON BETA>	pl020_0010
+95	ليغيانا<ICON ALPHA>	pl027_0000
+96	ليغيانا<ICON BETA>	pl027_0010
+97	بان<ICON ALPHA>	pl028_0000
+98	بان<ICON BETA>	pl028_0010
+99	فال هازاك<ICON ALPHA>	pl032_0000
+100	فال هازاك<ICON BETA>	pl032_0010
+101	راذالوس<ICON ALPHA>	pl033_0000
+102	راذالوس<ICON BETA>	pl033_0010
+103	ديابلوس<ICON ALPHA>	pl034_0000
+104	ديابلوس<ICON BETA>	pl034_0010
+105	كيرين<ICON ALPHA>	pl035_0000
+106	كيرين<ICON BETA>	pl035_0010
+107	نيرغي<ICON ALPHA>	pl030_0000
+108	نيرغي<ICON BETA>	pl030_0010
+109	أوراغان<ICON ALPHA>	pl041_0000
+110	أوراغان<ICON BETA>	pl041_0010
+111	روح راث<ICON ALPHA>	pl033_0100
+112	روح راث<ICON BETA>	pl033_0110
+113	نيرو ديابلوس<ICON ALPHA>	pl034_0100
+114	نيرو ديابلوس<ICON BETA>	pl034_0110
+115	بازيل<ICON ALPHA>	pl042_0000
+116	بازيل<ICON BETA>	pl042_0010
+117	الخنفساء الملك<ICON ALPHA>	pl019_0000 (Male Only)
+118	الخنفساء الملك<ICON BETA>	pl019_0000 (Male Only)
+119	السرية<ICON ALPHA>	pl036_0000
+120	السرية<ICON BETA>	pl036_0000
+121	دمشق<ICON ALPHA>	pl043_0000
+122	دمشق<ICON BETA>	pl043_0010
+123	دوبر<ICON ALPHA>	pl044_0000
+124	دوبر<ICON BETA>	pl044_0000
+125	زينوجيفا<ICON ALPHA>	pl045_0000
+126	زينوجيفا<ICON BETA>	pl045_0010
+127	تيوسترا<ICON ALPHA>	pl046_0000
+128	تيوسترا<ICON BETA>	pl046_0010
+129	كوشالا<ICON ALPHA>	pl047_0000
+130	كوشالا<ICON BETA>	pl047_0010
+131	الجمجمة<ICON ALPHA>	pl054_0000
+132	الجمجمة<ICON BETA>	pl001_0000
+133	رائحة الموت<ICON ALPHA>	pl026_0000
+134	رائحة الموت<ICON BETA>	pl026_0000
+135	شكل للنقابة<ICON ALPHA>	pl048_0000
+136	شكل للنقابة<ICON BETA>	pl048_0000
+137	Unavailable	pl001_0000
+138	Unavailable	pl001_0000
+139	زوراه<ICON ALPHA>	pl038_0000
+140	زوراه<ICON BETA>	pl038_0010
+141	اللجنة<ICON ALPHA>	pl053_0000
+142	اللجنة<ICON BETA>	pl053_0000
+143	Unavailable	pl001_0000
+144	Unavailable	pl001_0000
+145	السرية	pl036_0000
+146	شكل النقابة	pl048_0000
+147	الربيع	pl074_0000
+148	الغواص	pl075_0000
+149	الحصاد	pl076_0000
+150	أوريون	pl077_0000
+151	فيلاين مزيف<ICON ALPHA>	pl055_0000
+152	قناع موسواين<ICON ALPHA>	pl056_0000
+153	بذلة المهرجان	pl078_0000
+154	HARDUMMY	pl068_0000
+155	HARDUMMY	pl069_0000
+156	HARDUMMY	pl070_0000
+157	"بوشي ""سابي"""	pl001_0000
+158	"بوشي ""سابي"""	pl001_0000
+159	بايك	pl120_0000
+160	"بوشي ""سابي"""	pl001_0000
+161	شاموس	pl058_0000
+162	شاموس<ICON ALPHA>	pl058_0000
+163	شاموس<ICON BETA>	pl058_0000
+164	فراشة	pl019_0000 (Female Only)
+165	فراشة<ICON ALPHA>	pl019_0000 (Female Only)
+166	فراشة<ICON BETA>	pl019_0000 (Female Only)
+167	"بوشي ""سابي"""	None
+168	"بوشي ""سابي"""	None
+169	أساسي	pl018_0000
+170	"بوشي ""هوماري"""	pl001_0000
+171	"بوشي ""هوماري"""	pl001_0000
+172	"بوشي ""هوماري"""	pl001_0000
+173	"بوشي ""هوماري"""	pl001_0000
+174	"بوشي ""هوماري"""	pl059_0000
+175	Unavailable	pl001_0000
+176	استراتيجي<ICON ALPHA>	pl060_0000
+177	Unavailable	pl001_0000
+178	الملك التنين<ICON ALPHA>	pl061_0000
+179	Unavailable	pl001_0000
+180	Unavailable	pl001_0000
+181	Unavailable	pl001_0000
+182	Unavailable	pl001_0000
+183	كولف تاروث<ICON ALPHA>	pl049_0000
+184	كولف تاروث<ICON BETA>	pl049_0010
+185	الربيع	pl074_0000
+186	الغواص	pl075_0000
+187	الحصاد	pl076_0000
+188	أوريون	pl077_0000
+189	بذلة المهرجان	pl078_0000
+190	الساموراي	pl067_0000
+191	ديفيلجو<ICON ALPHA>	pl050_0000
+192	ديفيلجو<ICON BETA>	pl050_0010
+193	Unavailable	pl001_0000
+194	"بوشي ""سابي"""	pl066_0000
+195	"بوشي ""هوماري"""	pl066_0010
+196	دراكين<ICON ALPHA>	pl073_0000
+197	الربيع<ICON ALPHA>	pl074_0000
+198	الغواص<ICON ALPHA>	pl075_0000
+199	الحصاد<ICON ALPHA>	pl076_0000
+200	أوريون<ICON ALPHA>	pl077_0000
+201	بذلة المهرجان<ICON ALPHA>	pl078_0000
+202	فراشة	pl057_0000 (Male Only)
+203	الفراشة<ICON ALPHA>	pl057_0000 (Male Only)
+204	الفراشة<ICON BETA>	pl057_0010 (Male Only)
+205	الخنفساء الملكة	pl057_0000 (Female Only)
+206	الخنفساء الملكة<ICON ALPHA>	pl057_0000 (Female Only)
+207	الخنفساء الملكة<ICON BETA>	pl057_0000 (Female Only)
+208	فال هازاك<ICON GAMMA>	pl032_0020
+209	كيرين<ICON GAMMA>	pl035_0020
+210	تيوسترا<ICON GAMMA>	pl046_0020
+211	كوشالا<ICON GAMMA>	pl047_0020
+212	نيرغي<ICON GAMMA>	pl030_0020
+213	زوراه<ICON GAMMA>	pl038_0020
+214	زينوجيفا<ICON GAMMA>	pl045_0020
+215	HARDUMMY	pl068_0000
+216	HARDUMMY	pl069_0000
+217	HARDUMMY	pl069_0000
+218	HARDUMMY	pl070_0000
+219	سيد نجوم لازوردي<ICON ALPHA>	pl072_0000
+220	دانتي<ICON ALPHA>	pl071_0000
+221	لوناسترا<ICON ALPHA>	pl051_0000
+222	لوناسترا<ICON BETA>	pl051_0010
+223	رقعة عين مذهلة<ICON ALPHA>	pl063_0000
+224	ألوان ظلال<ICON ALPHA>	pl062_0000
+225	رأس كولو-يا-كو<ICON ALPHA>	pl065_0000
+226	عتاد رأس دودة ضخمة<ICON ALPHA>	pl064_0000
+227	الفراشة	pl117_0000
+228	رائحة الموت	pl026_0000
+229	ألوان ظلال	pl062_0000
+230	دانتي	pl071_0000
+231	دراكين	pl073_0000
+232	قناع موسواين	pl056_0000
+233	فيلاين مزيف	pl055_0000
+234	اللجنة	pl053_0000
+235	رقعة عين مذهلة	pl063_0000
+236	عتاد رأس دودة ضخمة	pl064_0000
+237	الأصلي	pl018_0000
+238	الخنفساء	pl116_0000
+239	Unavailable	pl001_0000
+240	قناع الجمجمة	pl054_0000
+241	رأس كولو-يا-كو	pl065_0000
+242	HARDUMMY	pl068_0000
+243	لوناسترا<ICON GAMMA>	pl051_0020
+244	‮جيرالت<ICON ALPHA>	pl118_0000
+245	‮سيري<ICON ALPHA>	pl119_0000
+246	جيرالت من ريڤيا	pl118_0000
+247	سيري	pl119_0000
+248	كولف تاروث<ICON GAMMA>	pl049_0020
+249	المدافع<ICON ALPHA>	pl121_0000
+250	الذئب الرهيب+	pl105_0000
+251	Unavailable	None
+252	عظمي<ICON ALPHA>+	pl003_0000
+253	عظمي<ICON BETA>+	pl003_0000
+254	خليط معدني<ICON ALPHA>+	pl004_0000
+255	خليط معدني<ICON BETA>+	pl004_0000
+256	فيسبويد<ICON ALPHA>+	pl007_0001
+257	فيسبويد<ICON BETA>+	pl007_0001
+258	هورنتور<ICON ALPHA>+	pl017_0001
+259	هورنتور<ICON BETA>+	pl017_0001
+260	كيستودون<ICON ALPHA>+	pl005_0000
+261	كيستودون<ICON BETA>+	pl005_0000
+262	غاجاو<ICON ALPHA>+	pl006_0000
+263	غاجاو<ICON BETA>+	pl006_0000
+264	شاموس<ICON ALPHA>+	pl058_0000
+265	شاموس<ICON BETA>+	pl058_0000
+266	غاستودون<ICON ALPHA>+	pl015_0000
+267	غاستودون<ICON BETA>+	pl015_0000
+268	بارنوس<ICON ALPHA>+	pl016_0000
+269	بارنوس<ICON BETA>+	pl016_0000
+270	وولغ<ICON ALPHA>+	pl102_0000
+271	وولغ<ICON BETA>+	pl102_0000
+272	كورتوس<ICON ALPHA>+	pl103_0000
+273	كورتوس<ICON BETA>+	pl103_0000
+274	جاغراس<ICON ALPHA>+	pl008_0001
+275	جاغراس<ICON BETA>+	pl008_0001
+276	تسيتسي<ICON ALPHA>+	pl023_0001
+277	تسيتسي<ICON BETA>+	pl023_0001
+278	غيروس<ICON ALPHA>+	pl022_0001
+279	غيروس<ICON BETA>+	pl022_0001
+280	دودوغما<ICON ALPHA>+	pl039_0001
+281	دودوغما<ICON BETA>+	pl039_0001
+282	كولو<ICON ALPHA>+	pl009_0001
+283	كولو<ICON BETA>+	pl009_0001
+284	بوكي<ICON ALPHA>+	pl010_0001
+285	بوكي<ICON BETA>+	pl010_0001
+286	باروث<ICON ALPHA>+	pl012_0001
+287	باروث<ICON BETA>+	pl012_0001
+288	جيورا<ICON ALPHA>+	pl011_0001
+289	جيورا<ICON BETA>+	pl011_0001
+290	بيو<ICON ALPHA>+	pl110_0000
+291	بيو<ICON BETA>+	pl110_0000
+292	كاداتشي<ICON ALPHA>+	pl013_0001
+293	كاداتشي<ICON BETA>+	pl013_0001
+294	معدن قوي<ICON ALPHA>+	pl025_0000
+295	معدن قوي<ICON BETA>+	pl025_0000
+296	بنبارو<ICON ALPHA>+	pl084_0000
+297	بنبارو<ICON BETA>+	pl084_0010
+298	أنجا<ICON ALPHA>+	pl020_0001
+299	أنجا<ICON BETA>+	pl020_0011
+300	راثيان<ICON ALPHA>+	pl021_0001
+301	راثيان<ICON BETA>+	pl021_0011
+302	قلب راث<ICON ALPHA>+	pl021_0101
+303	قلب راث<ICON BETA>+	pl021_0111
+304	لومو<ICON ALPHA>+	pl024_0001
+305	لومو<ICON BETA>+	pl024_0001
+306	طيف لومو<ICON ALPHA>+	pl024_0101
+307	طيف لومو<ICON BETA>+	pl024_0101
+308	بوكي مرجاني<ICON ALPHA>+	pl010_0101
+309	بوكي مرجاني<ICON BETA>+	pl010_0101
+310	كاداتشي ثعباني<ICON ALPHA>+	pl013_0101
+311	كاداتشي ثعباني<ICON BETA>+	pl013_0101
+312	بان<ICON ALPHA>+	pl028_0001
+313	بان<ICON BETA>+	pl028_0001
+314	جلد	pl001_0000
+315	مسلسلة	pl014_0000
+316	صيّاد<ICON ALPHA>	pl002_0000
+317	صيّاد<ICON BETA>	pl002_0010
+318	عظمي	pl003_0000
+319	خليط معدني	pl004_0000
+320	فيسبويد	pl007_0000
+321	هورنتور	pl017_0000
+322	كيستودون	pl005_0000
+323	غاجاو	pl006_0000
+324	Unavailable	pl095_0000
+325	Unavailable	None
+326	شاموس	pl058_0000
+327	Unavailable	None
+328	إنغوت<ICON ALPHA>+	pl031_0000
+329	إنغوت<ICON BETA>+	pl031_0000
+330	باريوث<ICON ALPHA>+	pl089_0000
+331	باريوث<ICON BETA>+	pl089_0010
+332	راذالوس<ICON ALPHA>+	pl033_0001
+333	راذالوس<ICON BETA>+	pl033_0011
+334	ديابلوس<ICON ALPHA>+	pl034_0001
+335	ديابلوس<ICON BETA>+	pl034_0011
+336	ليغيانا<ICON ALPHA>+	pl027_0001
+337	ليغيانا<ICON BETA>+	pl027_0011
+338	أودوغارون<ICON ALPHA>+	pl029_0001
+339	أودوغارون<ICON BETA>+	pl029_0011
+340	لافاسيوث<ICON ALPHA>+	pl040_0001
+341	لافاسيوث<ICON BETA>+	pl040_0001
+342	أوراغان<ICON ALPHA>+	pl041_0001
+343	أوراغان<ICON BETA>+	pl041_0001
+344	نارغاكوغا<ICON ALPHA>+	pl080_0000
+345	نارغاكوغا<ICON BETA>+	pl080_0010
+346	غلافنيوس<ICON ALPHA>+	pl081_0000
+347	غلافنيوس<ICON BETA>+	pl081_0010
+348	براكيديوس<ICON ALPHA>+	pl082_0000
+349	براكيديوس<ICON BETA>+	pl082_0010
+350	تغريكس<ICON ALPHA>+	pl083_0000
+351	تغريكس<ICON BETA>+	pl083_0010
+352	أنجا رعدي<ICON ALPHA>+	pl020_0101
+353	أنجا رعدي<ICON BETA>+	pl020_0111
+354	جاغراس	pl008_0000
+355	كولو-يا-كو	pl009_0000
+356	الحزام الأسود<ICON ALPHA>+	pl093_0000
+357	الحزام الأسود<ICON BETA>+	pl093_0000
+358	رقعة عين الملك التنين	pl061_0000
+359	نظارات الاستراتيجي	pl060_0000
+360	ريش التدمير	pl037_0000
+361	تسيتسي-يا-كو	pl023_0000
+362	غيروس العظيم	pl022_0000
+363	ليغيانا الصارخ<ICON ALPHA>+	pl027_0500
+364	ليغيانا الصارخ<ICON BETA>+	pl027_0510
+365	روح راث<ICON ALPHA>+	pl033_0101
+366	روح راث<ICON BETA>+	pl033_0111
+367	نيرو ديابلوس<ICON ALPHA>+	pl034_0101
+368	ديابلوس سوداء<ICON BETA>+	pl034_0111
+369	غارون الموت<ICON ALPHA>+	pl029_0101
+370	غارون الموت<ICON BETA>+	pl029_0111
+371	غلافنيوس حمضي<ICON ALPHA>+	pl081_0100
+372	غلافنيوس حمضي<ICON BETA>+	pl081_0110
+373	القطعة الفنية<ICON ALPHA>+	pl091_0000
+374	القطعة الفنية<ICON BETA>+	pl091_0000
+375	Unavailable	None
+376	بوكي-بوكي<ICON ALPHA>	pl010_0000
+377	بوكي-بوكي<ICON BETA>	pl010_0010
+378	دوبر<ICON ALPHA>+	pl044_0000
+379	دوبر<ICON BETA>+	pl044_0000
+380	دمشق<ICON ALPHA>+	pl043_0000
+381	دمشق<ICON BETA>+	pl043_0010
+382	فيلكانا<ICON ALPHA>+	pl085_0000
+383	فيلكانا<ICON BETA>+	pl085_0010
+384	بازيل متأجج<ICON ALPHA>+	pl042_0500
+385	بازيل متأجج<ICON BETA>+	pl042_0510
+386	هازاك الستار الأسود<ICON ALPHA>+	pl032_0500
+387	هازاك الستار الأسود<ICON BETA>+	pl032_0510
+388	تيوسترا<ICON ALPHA>+	pl046_0001
+389	تيوسترا<ICON BETA>+	pl046_0011
+390	كوشالا<ICON ALPHA>+	pl047_0001
+391	كوشالا<ICON BETA>+	pl047_0011
+392	كيرين<ICON ALPHA>+	pl035_0001
+393	كيرين<ICON BETA>+	pl035_0011
+394	ناميال<ICON ALPHA>+	pl086_0000
+395	ناميال<ICON BETA>+	pl086_0010
+396	Unavailable	None
+397	باروث	pl012_0000
+398	قصر النقابة<ICON ALPHA>+	pl094_0000
+399	قصر النقابة<ICON BETA>+	pl094_0000
+400	تروس<ICON ALPHA>+	pl104_0000
+401	تروس<ICON BETA>+	pl104_0000
+402	قرط بلوري	pl059_0000
+403	نيرغي المخرّب<ICON ALPHA>+	pl030_0500
+404	نيرغي المخرّب<ICON BETA>+	pl030_0510
+405	شارا إشفالدا<ICON ALPHA>+	pl088_0000
+406	شارا إشفالدا<ICON BETA>+	pl088_0010
+407	ديفيلجو الهمجي<ICON ALPHA>+	pl050_0500
+408	ديفيلجو الهمجي<ICON BETA>+	pl050_0510
+409	أنجاناث<ICON ALPHA>	pl020_0000
+410	أنجاناث<ICON BETA>	pl020_0010
+411	عمل النقابة<ICON ALPHA>+	pl092_0000
+412	عمل النقابة<ICON BETA>+	pl092_0000
+413	Unavailable	pl095_0010
+414	القمر الذهبي<ICON ALPHA>+	pl021_0200
+415	القمر الذهبي<ICON BETA>+	pl021_0210
+416	الشمس الفضية<ICON ALPHA>+	pl033_0200
+417	الشمس الفضية<ICON BETA>+	pl033_0210
+418	جيوراتودوس	pl011_0000
+419	توبي-كاداتشي	pl013_0000
+420	زينغر<ICON ALPHA>+	pl107_0000
+421	زينغر<ICON BETA>+	pl107_0010
+422	زينغر جهنمي<ICON ALPHA>+	pl107_0100
+423	زينغر جهنمي<ICON BETA>+	pl107_0110
+424	إيان غاروغا<ICON ALPHA>+	pl108_0000
+425	إيان غاروغا<ICON BETA>+	pl108_0010
+426	زوراه<ICON ALPHA>+	pl038_0000
+427	زوراه<ICON BETA>+	pl038_0010
+428	راجانغ<ICON ALPHA>+	pl109_0000
+429	راجانغ<ICON BETA>+	pl109_0010
+430	راجانغ الغاضب<ICON ALPHA>+	pl109_0500
+431	راجانغ الغاضب<ICON BETA>+	pl109_0510
+432	براكيديوس الحانق<ICON ALPHA>+	pl082_0500
+433	براكيديوس الحانق<ICON BETA>+	pl082_0510
+434	صافيجيفا<ICON ALPHA>+	pl087_0000
+435	صافيجيفا<ICON BETA>+	pl087_0010
+436	Unavailable	None
+437	Unavailable	None
+438	قماش التنين المختوم<ICON ALPHA>+	pl100_0000
+439	أذنا التنين المجنح<ICON ALPHA>+	pl101_0000
+440	Unavailable	None
+441	قناع البطريق المنفوش<ICON ALPHA>+	pl098_0000
+442	لوناسترا<ICON ALPHA>+	pl051_0001
+443	لوناسترا<ICON BETA>+	pl051_0011
+444	كولف تاروث<ICON ALPHA>+	pl049_0001
+445	كولف تاروث<ICON BETA>+	pl049_0011
+446	وردي<ICON ALPHA>+	pl124_0000
+447	باولومو	pl024_0000
+448	Unavailable	None
+449	راثيان<ICON ALPHA>	pl021_0000
+450	Unavailable	None
+451	راثيان<ICON BETA>	pl021_0010
+452	أولونغ<ICON ALPHA>+	pl127_0000
+453	رادوبان<ICON ALPHA>	pl028_0000
+454	أسترال<ICON ALPHA>+	pl128_0000
+455	رادوبان<ICON BETA>	pl028_0010
+456	وردي	pl124_0000
+457	Unavailable	None
+458	Unavailable	None
+459	أولونغ	pl127_0000
+460	أسترال	pl128_0000
+461	معدن قوي	pl025_0000
+462	ثيرماي	pl106_0000
+463	Unavailable	None
+464	كراك ناعم	pl112_0000
+465	ينبوع اللؤلؤ<ICON ALPHA>+	pl113_0000
+466	Unavailable	None
+467	هيكل التقوية<ICON ALPHA>+	pl115_0000
+468	تغريكس غاشم<ICON ALPHA>+	pl083_0100
+469	تغريكس غاشم<ICON BETA>+	pl083_0110
+470	الحارس<ICON ALPHA>+	pl121_0000
+471	يوكومو	pl122_0000
+472	فارس فضي	pl123_0000
+473	HARDUMMY	pl068_0010
+474	ناميال<ICON GAMMA>+	pl086_0020
+475	HARDUMMY	pl072_0000
+476	HARDUMMY	pl072_0001
+477	Unavailable	None
+478	Unavailable	None
+479	Unavailable	None
+480	Unavailable	None
+481	Unavailable	None
+482	HARDUMMY	pl068_0020
+483	Unavailable	None
+484	ليون <ICON ALPHA>+	pl130_0000
+485	كلير <ICON ALPHA>+	pl131_0000
+486	Unavailable	None
+487	Unavailable	None
+488	غاستودون	pl015_0000
+489	بارنوس	pl016_0000
+490	دودوغما	pl039_0000
+491	إنغوت	pl031_0000
+492	قلب راث<ICON ALPHA>	pl021_0100
+493	قلب راث<ICON BETA>	pl021_0110
+494	لافاسيوث<ICON ALPHA>	pl040_0000
+495	لافاسيوث<ICON BETA>	pl040_0010
+496	ليغيانا<ICON ALPHA>	pl027_0000
+497	ليغيانا<ICON BETA>	pl027_0010
+498	أودوغارون<ICON ALPHA>	pl029_0000
+499	أودوغارون<ICON BETA>	pl029_0010
+500	راذالوس<ICON ALPHA>	pl033_0000
+501	راذالوس<ICON BETA>	pl033_0010
+502	روح راث<ICON ALPHA>	pl033_0100
+503	روح راث<ICON BETA>	pl033_0110
+504	ديابلوس<ICON ALPHA>	pl034_0000
+505	ديابلوس<ICON BETA>	pl034_0010
+506	نيرو ديابلوس<ICON ALPHA>	pl034_0100
+507	نيرو ديابلوس<ICON BETA>	pl034_0110
+508	أوراغان<ICON ALPHA>	pl041_0000
+509	أوراغان<ICON BETA>	pl041_0010
+510	بازيل<ICON ALPHA>	pl042_0000
+511	بازيل<ICON BETA>	pl042_0010
+512	ديفيلجو<ICON ALPHA>	pl050_0000
+513	ديفيلجو<ICON BETA>	pl050_0010
+514	دوبر<ICON ALPHA>	pl044_0000
+515	دوبر<ICON BETA>	pl044_0000
+516	دمشق<ICON ALPHA>	pl043_0000
+517	دمشق<ICON BETA>	pl043_0010
+518	زوراه<ICON ALPHA>	pl038_0000
+519	زوراه<ICON BETA>	pl038_0010
+520	زوراه<ICON GAMMA>	pl038_0020
+521	نيرغي<ICON ALPHA>	pl030_0000
+522	نيرغي<ICON BETA>	pl030_0010
+523	نيرغي<ICON GAMMA>	pl030_0020
+524	تيوسترا<ICON ALPHA>	pl046_0000
+525	تيوسترا<ICON BETA>	pl046_0010
+526	تيوسترا<ICON GAMMA>	pl046_0020
+527	كوشالا<ICON ALPHA>	pl047_0000
+528	كوشالا<ICON BETA>	pl047_0010
+529	كوشالا<ICON GAMMA>	pl047_0020
+530	فال هازاك<ICON ALPHA>	pl032_0000
+531	فال هازاك<ICON BETA>	pl032_0010
+532	فال هازاك<ICON GAMMA>	pl032_0020
+533	كيرين<ICON ALPHA>	pl035_0000
+534	كيرين<ICON BETA>	pl035_0010
+535	كيرين<ICON GAMMA>	pl035_0020
+536	زينو<ICON ALPHA>	pl045_0000
+537	زينو<ICON BETA>	pl045_0010
+538	زينو<ICON GAMMA>	pl045_0020
+539	لوناسترا<ICON ALPHA>	pl051_0000
+540	لوناسترا<ICON BETA>	pl051_0010
+541	لوناسترا<ICON GAMMA>	pl051_0020
+542	كولف<ICON ALPHA>	pl049_0000
+543	كولف<ICON BETA>	pl049_0010
+544	كولف<ICON GAMMA>	pl049_0020
+545	الحارس	pl121_0000
+546	Unavailable	None
+547	Unavailable	None
+548	Unavailable	None
+549	Unavailable	None
+550	Unavailable	None
+551	Unavailable	None
+552	Unavailable	None
+553	Unavailable	None
+554	Unavailable	None
+555	Unavailable	None
+556	Unavailable	None
+557	Unavailable	None
+558	Unavailable	None
+559	Unavailable	None
+560	Unavailable	None
+561	Unavailable	None
+562	Unavailable	None
+563	Unavailable	None
+564	Unavailable	None
+565	Unavailable	None
+566	Unavailable	None
+567	Unavailable	None
+568	Unavailable	None
+569	Unavailable	None
+570	Unavailable	None
+571	Unavailable	None
+572	Unavailable	None
+573	Unavailable	None
+574	Unavailable	None
+575	تحفة فنية	pl091_0000
+576	Unavailable	None
+577	Unavailable	None
+578	Unavailable	None
+579	Unavailable	None
+580	Unavailable	None
+581	Unavailable	None
+582	Unavailable	None
+583	Unavailable	None
+584	Unavailable	None
+585	Unavailable	None
+586	Unavailable	None
+587	Unavailable	None
+588	Unavailable	None
+589	Unavailable	None
+590	Unavailable	None
+591	Unavailable	None
+592	Unavailable	None
+593	Unavailable	None
+594	Unavailable	None
+595	Unavailable	None
+596	Unavailable	None
+597	Unavailable	None
+598	Unavailable	None
+599	Unavailable	None
+600	Unavailable	None
+601	Unavailable	None
+602	Unavailable	None
+603	Unavailable	None
+604	Unavailable	None
+605	Unavailable	None
+606	Unavailable	None
+607	Unavailable	None
+608	حزام أسود	pl093_0000
+609	Unavailable	None
+610	Unavailable	None
+611	Unavailable	None
+612	Unavailable	None
+613	Unavailable	None
+614	Unavailable	None
+615	Unavailable	None
+616	Unavailable	None
+617	Unavailable	None
+618	Unavailable	None
+619	Unavailable	None
+620	Unavailable	None
+621	Unavailable	None
+622	Unavailable	None
+623	Unavailable	None
+624	Unavailable	None
+625	Unavailable	None
+626	بهلوان	pl095_0000
+627	استعراضي	pl095_0010
+628	Unavailable	None
+629	Unavailable	None
+630	Unavailable	None
+631	Unavailable	None
+632	Unavailable	None
+633	Unavailable	None
+634	Unavailable	None
+635	Unavailable	None
+636	Unavailable	None
+637	Unavailable	None
+638	Unavailable	None
+639	Unavailable	None
+640	Unavailable	None
+641	Unavailable	None
+642	Unavailable	None
+643	Unavailable	None
+644	Unavailable	None
+645	Unavailable	None
+646	Unavailable	None
+647	Unavailable	None
+648	Unavailable	None
+649	Unavailable	None
+650	Unavailable	None
+651	Unavailable	None
+652	Unavailable	None
+653	Unavailable	None
+654	Unavailable	None
+655	Unavailable	None
+656	Unavailable	None
+657	Unavailable	None
+658	Unavailable	None
+659	Unavailable	None
+660	Unavailable	None
+661	Unavailable	None
+662	Unavailable	None
+663	Unavailable	None
+664	Unavailable	None
+665	Unavailable	None
+666	Unavailable	None
+667	Unavailable	None
+668	Unavailable	None
+669	Unavailable	None
+670	Unavailable	None
+671	Unavailable	None
+672	Unavailable	None
+673	Unavailable	None
+674	Unavailable	None
+675	Unavailable	None
+676	Unavailable	None
+677	Unavailable	None
+678	Unavailable	None
+679	Unavailable	None
+680	Unavailable	None
+681	Unavailable	None
+682	Unavailable	None
+683	Unavailable	None
+684	Unavailable	None
+685	Unavailable	None
+686	Unavailable	None
+687	Unavailable	None
+688	Unavailable	None
+689	Unavailable	None
+690	Unavailable	None
+691	Unavailable	None
+692	Unavailable	None
+693	Unavailable	None
+694	Unavailable	None
+695	Unavailable	None
+696	Unavailable	None
+697	Unavailable	None
+698	Unavailable	None
+699	Unavailable	None
+700	Unavailable	None
+701	Unavailable	None
+702	Unavailable	None
+703	Unavailable	None
+704	Unavailable	None
+705	Unavailable	None
+706	Unavailable	None
+707	Unavailable	None
+708	Unavailable	None
+709	Unavailable	None
+710	Unavailable	None
+711	Unavailable	None
+712	Unavailable	None
+713	Unavailable	None
+714	Unavailable	None
+715	Unavailable	None
+716	Unavailable	None
+717	Unavailable	None
+718	Unavailable	None
+719	Unavailable	None
+720	Unavailable	None
+721	Unavailable	None
+722	Unavailable	None
+723	Unavailable	None
+724	Unavailable	None
+725	Unavailable	None
+726	Unavailable	None
+727	Unavailable	None
+728	Unavailable	None
+729	Unavailable	None
+730	Unavailable	None
+731	Unavailable	None
+732	Unavailable	None
+733	Unavailable	None
+734	Unavailable	None
+735	Unavailable	None
+736	Unavailable	None
+737	Unavailable	None
+738	Unavailable	None
+739	Unavailable	None
+740	Unavailable	None
+741	Unavailable	None
+742	Unavailable	None
+743	Unavailable	None
+744	Unavailable	None
+745	Unavailable	None
+746	Unavailable	None
+747	Unavailable	None
+748	Unavailable	None
+749	Unavailable	None
+750	Unavailable	None
+751	Unavailable	None

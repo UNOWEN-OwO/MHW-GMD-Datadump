@@ -1,0 +1,3481 @@
+Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
+0	Head	2	Copricapo di cuoio	1	2	0	pl001_0000
+0	Head	15	Copricapo di maglia	15	2	0	pl014_0000
+0	Head	1	Elmo del cacciatore	2	6	0	pl002_0000
+0	Head	5	Elmo d'osso	5	6	0	pl003_0000
+0	Head	6	Elmo in lega	6	8	1	pl004_0000
+0	Head	9	Elmo di Vespoid	9	8	0	pl007_0000
+0	Head	4	Elmo di Jagras	4	8	0	pl008_0000
+0	Head	10	Elmo di Kulu	10	10	0	pl009_0000
+0	Head	11	Cappuccio di Pukei	11	12	1	pl010_0000
+0	Head	13	Elmo di Barroth	13	14	1	pl012_0000
+0	Head	12	Elmo di Jyura	12	14	1	pl011_0000
+0	Head	14	Elmo di Kadachi	14	16	1	pl013_0000
+0	Head	25	Elmo in ipermetallo	24	18	2	pl025_0000
+0	Head	18	Elmo di Hornetaur	17	18	2	pl017_0000
+0	Head	168	Occhiali di Shamos	161	22	2	pl058_0000
+0	Head	3	Elmo di Anja	3	20	2	pl020_0000
+0	Head	21	Elmo di Rathian	20	22	2	pl021_0000
+0	Head	23	Elmo di Tzitzi	22	18	2	pl023_0000
+0	Head	24	Copricapo di Lumu	23	20	2	pl024_0000
+0	Head	22	Maschera di Girros	21	20	2	pl022_0000
+0	Head	28	Elmo di Baan	27	24	2	pl028_0000
+0	Head	20	Vertex dello scarabeo	19	22	2	pl019_0000 (Male Only)
+0	Head	169	Vertex di farfalla	164	22	2	pl019_0000 (Female Only)
+0	Head	31	Elmo del lingotto	30	28	3	pl031_0000
+0	Head	27	Elmo di Legiana	26	30	3	pl027_0000
+0	Head	29	Elmo di Odogaron	28	30	3	pl029_0000
+0	Head	33	Elmo di Rathalos	32	30	3	pl033_0000
+0	Head	34	Elmo di Diablos	33	32	3	pl034_0000
+0	Head	35	Corno di Kirin	34	34	3	pl035_0000
+0	Head	26	Cervello putrefatto	25	32	3	pl026_0000
+0	Head	36	Feluca di brigata	35	28	3	pl036_0000
+0	Head	37	Piuma polverizzante	36	32	3	pl037_0000
+0	Head	39	Copricapo di cuoio <ICON ALPHA>	37	32	4	pl001_0000
+0	Head	40	Copricapo di cuoio <ICON BETA>	38	32	4	pl001_0000
+0	Head	147	Copricapo di maglia <ICON ALPHA>	39	32	4	pl014_0000
+0	Head	148	Copricapo di maglia <ICON BETA>	40	32	4	pl014_0000
+0	Head	41	Elmo del cacciatore <ICON ALPHA>	41	36	4	pl002_0000
+0	Head	42	Elmo del cacciatore <ICON BETA>	42	36	4	pl002_0010
+0	Head	43	Elmo d'osso <ICON ALPHA>	43	36	4	pl003_0000
+0	Head	44	Elmo d'osso <ICON BETA>	44	36	4	pl003_0000
+0	Head	45	Elmo in lega <ICON ALPHA>	45	36	4	pl004_0000
+0	Head	46	Elmo in lega <ICON BETA>	46	36	4	pl004_0000
+0	Head	51	Elmo di Vespoid <ICON ALPHA>	51	38	4	pl007_0000
+0	Head	52	Elmo di Vespoid <ICON BETA>	52	38	4	pl007_0000
+0	Head	57	Elmo di Hornetaur <ICON ALPHA>	57	38	4	pl017_0000
+0	Head	58	Elmo di Hornetaur <ICON BETA>	58	38	4	pl017_0000
+0	Head	174	Occhiali di Shamos <ICON ALPHA>	162	40	4	pl058_0000
+0	Head	175	Occhiali di Shamos <ICON BETA>	163	40	4	pl058_0000
+0	Head	61	Elmo di Jagras <ICON ALPHA>	61	40	4	pl008_0000
+0	Head	62	Elmo di Jagras <ICON BETA>	62	40	4	pl008_0000
+0	Head	63	Elmo di Kulu <ICON ALPHA>	63	40	4	pl009_0000
+0	Head	64	Elmo di Kulu <ICON BETA>	64	40	4	pl009_0000
+0	Head	65	Cappuccio di Pukei <ICON ALPHA>	65	42	4	pl010_0000
+0	Head	66	Cappuccio di Pukei <ICON BETA>	66	42	4	pl010_0010
+0	Head	69	Elmo di Barroth <ICON ALPHA>	69	42	4	pl012_0000
+0	Head	70	Elmo di Barroth <ICON BETA>	70	42	4	pl012_0000
+0	Head	67	Elmo di Jyura <ICON ALPHA>	67	44	4	pl011_0000
+0	Head	68	Elmo di Jyura <ICON BETA>	68	44	4	pl011_0000
+0	Head	71	Elmo di Kadachi <ICON ALPHA>	71	44	4	pl013_0000
+0	Head	72	Elmo di Kadachi <ICON BETA>	72	44	4	pl013_0000
+0	Head	93	Elmo di Anja <ICON ALPHA>	93	44	4	pl020_0000
+0	Head	94	Elmo di Anja <ICON BETA>	94	44	4	pl020_0010
+0	Head	73	Elmo di Rathian <ICON ALPHA>	73	46	4	pl021_0000
+0	Head	74	Elmo di Rathian <ICON BETA>	74	46	4	pl021_0010
+0	Head	77	Elmo di Tzitzi <ICON ALPHA>	77	40	4	pl023_0000
+0	Head	78	Elmo di Tzitzi <ICON BETA>	78	40	4	pl023_0000
+0	Head	79	Copricapo di Lumu <ICON ALPHA>	79	44	4	pl024_0000
+0	Head	80	Copricapo di Lumu <ICON BETA>	80	44	4	pl024_0000
+0	Head	75	Maschera di Girros <ICON ALPHA>	75	40	4	pl022_0000
+0	Head	76	Maschera di Girros <ICON BETA>	76	40	4	pl022_0000
+0	Head	97	Elmo di Baan <ICON ALPHA>	97	46	5	pl028_0000
+0	Head	98	Elmo di Baan <ICON BETA>	98	46	5	pl028_0010
+0	Head	89	Elmo in ipermetallo <ICON ALPHA>	89	50	5	pl025_0000
+0	Head	90	Elmo in ipermetallo <ICON BETA>	90	50	5	pl025_0000
+0	Head	91	Elmo del lingotto <ICON ALPHA>	91	50	5	pl031_0000
+0	Head	92	Elmo del lingotto <ICON BETA>	92	50	5	pl031_0000
+0	Head	166	Corno di Gastodon <ICON ALPHA>	53	48	4	pl015_0000
+0	Head	167	Corno di Gastodon <ICON BETA>	54	48	4	pl015_0000
+0	Head	87	Elmo cuore di Rath <ICON ALPHA>	87	52	5	pl021_0100
+0	Head	88	Elmo cuore di Rath <ICON BETA>	88	52	5	pl021_0110
+0	Head	95	Elmo di Legiana <ICON ALPHA>	95	54	5	pl027_0000
+0	Head	96	Elmo di Legiana <ICON BETA>	96	54	5	pl027_0010
+0	Head	81	Elmo di Odogaron <ICON ALPHA>	81	54	5	pl029_0000
+0	Head	82	Elmo di Odogaron <ICON BETA>	82	54	5	pl029_0010
+0	Head	101	Elmo di Rathalos <ICON ALPHA>	101	54	5	pl033_0000
+0	Head	102	Elmo di Rathalos <ICON BETA>	102	54	5	pl033_0010
+0	Head	111	Elmo anima di Rath <ICON ALPHA>	111	56	6	pl033_0100
+0	Head	112	Elmo anima di Rath <ICON BETA>	112	56	6	pl033_0110
+0	Head	103	Elmo di Diablos <ICON ALPHA>	103	54	5	pl034_0000
+0	Head	104	Elmo di Diablos <ICON BETA>	104	54	5	pl034_0010
+0	Head	113	Elmo di Diablos nera <ICON ALPHA>	113	56	6	pl034_0100
+0	Head	114	Elmo di Diablos nera <ICON BETA>	114	56	6	pl034_0110
+0	Head	83	Elmo di Dodogama <ICON ALPHA>	83	48	4	pl039_0000
+0	Head	84	Elmo di Dodogama <ICON BETA>	84	48	4	pl039_0000
+0	Head	85	Elmo di Lavasioth <ICON ALPHA>	85	56	5	pl040_0000
+0	Head	86	Elmo di Lavasioth <ICON BETA>	86	56	5	pl040_0010
+0	Head	109	Elmo di Uragaan <ICON ALPHA>	109	60	6	pl041_0000
+0	Head	110	Elmo di Uragaan <ICON BETA>	110	60	6	pl041_0010
+0	Head	107	Elmo di Nergigante <ICON ALPHA>	107	64	7	pl030_0000
+0	Head	108	Elmo di Nergigante <ICON BETA>	108	64	7	pl030_0010
+0	Head	117	Vertex dello scarabeo <ICON ALPHA>	117	42	4	pl019_0000 (Male Only)
+0	Head	118	Vertex dello scarabeo <ICON BETA>	118	42	4	pl019_0000 (Male Only)
+0	Head	170	Vertex di farfalla <ICON ALPHA>	165	42	4	pl019_0000 (Female Only)
+0	Head	171	Vertex di farfalla <ICON BETA>	166	42	4	pl019_0000 (Female Only)
+0	Head	119	Feluca di brigata <ICON ALPHA>	119	52	5	pl036_0000
+0	Head	120	Feluca di brigata <ICON BETA>	120	52	5	pl036_0000
+0	Head	121	Elmo di Damasco <ICON ALPHA>	121	60	6	pl043_0000
+0	Head	122	Elmo di Damasco <ICON BETA>	122	60	6	pl043_0010
+0	Head	123	Elmo di Dober <ICON ALPHA>	123	60	6	pl044_0000
+0	Head	124	Elmo di Dober <ICON BETA>	124	60	6	pl044_0000
+0	Head	129	Riverbero di Kushala <ICON ALPHA>	129	64	7	pl047_0000
+0	Head	130	Riverbero di Kushala <ICON BETA>	130	64	7	pl047_0010
+0	Head	127	Corona del Kaiser <ICON ALPHA>	127	64	7	pl046_0000
+0	Head	128	Corona del Kaiser <ICON BETA>	128	64	7	pl046_0010
+0	Head	105	Corno di Kirin <ICON ALPHA>	105	64	7	pl035_0000
+0	Head	106	Corno di Kirin <ICON BETA>	106	64	7	pl035_0010
+0	Head	99	Elmo di Vaal Hazak <ICON ALPHA>	99	64	7	pl032_0000
+0	Head	100	Elmo di Vaal Hazak <ICON BETA>	100	64	7	pl032_0010
+0	Head	115	Elmo di Bazel <ICON ALPHA>	115	58	6	pl042_0000
+0	Head	116	Elmo di Bazel <ICON BETA>	116	58	6	pl042_0010
+0	Head	131	Cervello putrefatto <ICON ALPHA>	133	62	6	pl026_0000
+0	Head	132	Cervello putrefatto <ICON BETA>	134	62	6	pl026_0000
+0	Head	133	Cerchietto della Gilda <ICON ALPHA>	135	62	7	pl048_0000
+0	Head	134	Cerchietto della Gilda <ICON BETA>	136	62	7	pl048_0000
+0	Head	149	Maschera scheletrica <ICON ALPHA>	131	64	6	pl054_0000
+0	Head	150	Unavailable	132	2	0	pl001_0000
+0	Head	153	Felyne fasullo <ICON ALPHA>	151	56	5	pl055_0000
+0	Head	187	Unavailable	180	2	0	pl001_0000
+0	Head	154	Maschera di Mosswine <ICON ALPHA>	152	40	4	pl056_0000
+0	Head	188	Unavailable	181	2	0	pl001_0000
+0	Head	179	Unavailable	172	2	0	pl001_0000
+0	Head	180	Unavailable	173	2	0	pl001_0000
+0	Head	181	Orecchini sigillo anziano <ICON ALPHA>	174	60	6	pl059_0000
+0	Head	182	Unavailable	175	2	0	pl001_0000
+0	Head	183	Occhiali da stratega <ICON ALPHA>	176	56	5	pl060_0000
+0	Head	184	Unavailable	177	2	0	pl001_0000
+0	Head	185	Benda del re drago <ICON ALPHA>	178	70	7	pl061_0000
+0	Head	186	Unavailable	179	2	0	pl001_0000
+0	Head	125	Testa di Xeno'jiiva <ICON ALPHA>	125	72	7	pl045_0000
+0	Head	126	Testa di Xeno'jiiva <ICON BETA>	126	72	7	pl045_0010
+0	Head	135	Unavailable	137	2	0	pl001_0000
+0	Head	136	Unavailable	138	2	0	pl001_0000
+0	Head	137	Testa di Zorah <ICON ALPHA>	139	44	5	pl038_0000
+0	Head	138	Testa di Zorah <ICON BETA>	140	44	5	pl038_0010
+0	Head	151	Elmo della commissione <ICON ALPHA>	141	70	7	pl053_0000
+0	Head	152	Elmo della commissione <ICON BETA>	142	70	7	pl053_0000
+0	Head	172	Unavailable	143	2	0	pl001_0000
+0	Head	173	Unavailable	144	2	0	pl001_0000
+0	Head	155	Stile testa brigata	145	0	6	pl036_0000
+0	Head	156	Stile testa Gilda	146	0	6	pl048_0000
+0	Head	145	Stile testa floreale	147	0	3	pl074_0000
+0	Head	146	Stile testa sommozzatore	148	0	3	pl075_0000
+0	Head	157	Stile testa raccolto	149	0	3	pl076_0000
+0	Head	158	Stile testa di Orione	150	0	3	pl077_0000
+0	Head	159	Stile testa gran galà	153	0	3	pl078_0000
+0	Head	160	Unavailable	158	2	0	pl001_0000
+0	Head	299	HARDUMMY	154	0	7	pl068_0000
+0	Head	291	HARDUMMY	155	0	7	pl069_0000
+0	Head	292	HARDUMMY	156	0	7	pl070_0000
+0	Head	144	Unavailable	157	2	0	pl001_0000
+0	Head	297	Stile testa Bayek	159	0	7	pl120_0000
+0	Head	162	Unavailable	160	2	0	pl001_0000
+0	Head	177	Unavailable	170	2	0	pl001_0000
+0	Head	178	Unavailable	171	2	0	pl001_0000
+0	Head	176	Elmo delle origini	169	6	0	pl018_0000
+0	Head	190	Unavailable	182	2	0	pl001_0000
+0	Head	191	Furia di Kulve Taroth <ICON ALPHA>	183	72	7	pl049_0000
+0	Head	192	Furia di Kulve Taroth <ICON BETA>	184	72	7	pl049_0010
+0	Head	193	Elmo floreale	185	18	2	pl074_0000
+0	Head	194	Maschera da sommozzatore	186	22	2	pl075_0000
+0	Head	195	Flor del raccolto	187	26	2	pl076_0000
+0	Head	196	Copricapo di Orione	188	30	3	pl077_0000
+0	Head	197	Cilindro gran galà	189	34	3	pl078_0000
+0	Head	200	Testa del Samurai	190	0	3	pl067_0000
+0	Head	201	Elmo Vangis <ICON ALPHA>	191	58	6	pl050_0000
+0	Head	202	Elmo Vangis <ICON BETA>	192	58	6	pl050_0010
+0	Head	203	Unavailable	193	2	0	pl001_0000
+0	Head	204	"Kabuto Bushi ""Sabi"""	194	0	6	pl066_0000
+0	Head	205	"Kabuto Bushi ""Homare"""	195	0	6	pl066_0010
+0	Head	206	Celata drachen <ICON ALPHA>	196	72	7	pl073_0000
+0	Head	207	Elmo floreale <ICON ALPHA>	197	40	4	pl074_0000
+0	Head	208	Maschera da sommozzatore <ICON ALPHA>	198	46	4	pl075_0000
+0	Head	209	Flor del raccolto <ICON ALPHA>	199	52	5	pl076_0000
+0	Head	210	Copricapo di Orione <ICON ALPHA>	200	58	5	pl077_0000
+0	Head	211	Cilindro gran galà <ICON ALPHA>	201	64	6	pl078_0000
+0	Head	212	Vertex di farfalla	202	22	2	pl057_0000 (Male Only)
+0	Head	213	Vertex di farfalla <ICON ALPHA>	203	42	4	pl057_0000 (Male Only)
+0	Head	214	Vertex di farfalla <ICON BETA>	204	42	4	pl057_0010 (Male Only)
+0	Head	215	Vertex dello scarabeo	205	22	2	pl057_0000 (Female Only)
+0	Head	216	Vertex dello scarabeo <ICON ALPHA>	206	42	4	pl057_0000 (Female Only)
+0	Head	217	Vertex dello scarabeo <ICON BETA>	207	42	4	pl057_0000 (Female Only)
+0	Head	218	Elmo di Vaal Hazak <ICON GAMMA>	208	72	7	pl032_0020
+0	Head	219	Corno di Kirin <ICON GAMMA>	209	72	7	pl035_0020
+0	Head	220	Corona del Kaiser <ICON GAMMA>	210	72	7	pl046_0020
+0	Head	221	Riverbero di Kushala <ICON GAMMA>	211	72	7	pl047_0020
+0	Head	222	Elmo di Nergigante <ICON GAMMA>	212	72	7	pl030_0020
+0	Head	223	Testa di Zorah <ICON GAMMA>	213	72	7	pl038_0020
+0	Head	224	Testa di Xeno'jiiva <ICON GAMMA>	214	72	7	pl045_0020
+0	Head	225	HARDUMMY	215	46	4	pl068_0000
+0	Head	226	HARDUMMY	216	12	1	pl069_0000
+0	Head	227	HARDUMMY	217	60	6	pl069_0000
+0	Head	228	HARDUMMY	218	50	5	pl070_0000
+0	Head	229	Corona sommo celeste <ICON ALPHA>	219	56	6	pl072_0000
+0	Head	230	Capelli di Dante <ICON ALPHA>	220	64	7	pl071_0000
+0	Head	231	Corona dell'imperatrice <ICON ALPHA>	221	70	7	pl051_0000
+0	Head	232	Corona dell'imperatrice <ICON BETA>	222	70	7	pl051_0010
+0	Head	233	Benda nera <ICON ALPHA>	223	46	4	pl063_0000
+0	Head	234	Occhiali del buio <ICON ALPHA>	224	46	4	pl062_0000
+0	Head	235	Testa di Kulu-Ya-Ku <ICON ALPHA>	225	46	4	pl065_0000
+0	Head	236	Testa di tremogliola <ICON ALPHA>	226	46	4	pl064_0000
+0	Head	237	Stile testa farfalla	227	0	6	pl117_0000
+0	Head	238	Stile testa putrefatto	228	0	6	pl026_0000
+0	Head	239	Stile testa Dante	230	0	7	pl071_0000
+0	Head	240	Stile testa drachen	231	0	7	pl073_0000
+0	Head	241	Stile testa della commissione	234	0	6	pl053_0000
+0	Head	242	Stile testa delle origini	237	0	6	pl018_0000
+0	Head	243	Stile testa scarabeo	238	0	6	pl116_0000
+0	Head	244	dummy013	239	2	0	pl001_0000
+0	Head	245	Stile testa del buio	229	0	3	pl062_0000
+0	Head	246	Stile testa Mosswine	232	0	3	pl056_0000
+0	Head	247	Stile testa Felyne fasullo	233	0	3	pl055_0000
+0	Head	248	Stile testa benda nera	235	0	3	pl063_0000
+0	Head	249	Stile testa di tremogliola	236	0	3	pl064_0000
+0	Head	250	Stile testa scheletrica	240	0	3	pl054_0000
+0	Head	251	Stile testa Kulu-Ya-Ku	241	0	3	pl065_0000
+0	Head	298	HARDUMMY	242	64	7	pl068_0000
+0	Head	253	Corona dell'imperatrice <ICON GAMMA>	243	70	7	pl051_0020
+0	Head	293	Testa di Geralt <ICON ALPHA>	244	70	7	pl118_0000
+0	Head	294	Testa di Ciri <ICON ALPHA>	245	70	7	pl119_0000
+0	Head	295	Stile testa di Geralt	246	0	7	pl118_0000
+0	Head	296	Stile testa di Ciri	247	0	7	pl119_0000
+0	Head	258	Furia di Kulve Taroth <ICON GAMMA>	248	72	7	pl049_0020
+0	Head	259	Elmo del difensore <ICON ALPHA>	249	50	5	pl121_0000
+0	Head	300	Stile testa del lupo bianco	250	0	8	pl105_0000
+0	Head	301	Stile testa del guardiano	545	0	5	pl121_0000
+0	Head	302	Elmo d'osso <ICON ALPHA>+	252	114	8	pl003_0000
+0	Head	303	Elmo d'osso <ICON BETA>+	253	114	8	pl003_0000
+0	Head	304	Elmo in lega <ICON ALPHA>+	254	114	8	pl004_0000
+0	Head	305	Elmo in lega <ICON BETA>+	255	114	8	pl004_0000
+0	Head	306	Elmo di Vespoid <ICON ALPHA>+	256	116	8	pl007_0001
+0	Head	307	Elmo di Vespoid <ICON BETA>+	257	116	8	pl007_0001
+0	Head	308	Elmo di Hornetaur <ICON ALPHA>+	258	116	8	pl017_0001
+0	Head	309	Elmo di Hornetaur <ICON BETA>+	259	116	8	pl017_0001
+0	Head	314	Occhiali di Shamos <ICON ALPHA>+	264	116	8	pl058_0000
+0	Head	315	Occhiali di Shamos <ICON BETA>+	265	116	8	pl058_0000
+0	Head	316	Corno di Gastodon <ICON ALPHA>+	266	116	8	pl015_0000
+0	Head	317	Corno di Gastodon <ICON BETA>+	267	116	8	pl015_0000
+0	Head	320	Sciarpa di Wulg <ICON ALPHA>+	270	116	8	pl102_0000
+0	Head	321	Sciarpa di Wulg <ICON BETA>+	271	116	8	pl102_0000
+0	Head	324	Elmo di Jagras <ICON ALPHA>+	274	116	8	pl008_0001
+0	Head	325	Elmo di Jagras <ICON BETA>+	275	116	8	pl008_0001
+0	Head	326	Elmo di Tzitzi <ICON ALPHA>+	276	116	8	pl023_0001
+0	Head	327	Elmo di Tzitzi <ICON BETA>+	277	116	8	pl023_0001
+0	Head	328	Maschera di Girros <ICON ALPHA>+	278	116	8	pl022_0001
+0	Head	329	Maschera di Girros <ICON BETA>+	279	116	8	pl022_0001
+0	Head	330	Elmo di Dodogama <ICON ALPHA>+	280	120	8	pl039_0001
+0	Head	331	Elmo di Dodogama <ICON BETA>+	281	120	8	pl039_0001
+0	Head	332	Elmo di Kulu <ICON ALPHA>+	282	116	8	pl009_0001
+0	Head	333	Elmo di Kulu <ICON BETA>+	283	116	8	pl009_0001
+0	Head	334	Cappuccio di Pukei <ICON ALPHA>+	284	118	8	pl010_0001
+0	Head	335	Cappuccio di Pukei <ICON BETA>+	285	118	8	pl010_0001
+0	Head	336	Elmo di Barroth <ICON ALPHA>+	286	118	8	pl012_0001
+0	Head	337	Elmo di Barroth <ICON BETA>+	287	118	8	pl012_0001
+0	Head	338	Elmo di Jyura <ICON ALPHA>+	288	118	8	pl011_0001
+0	Head	339	Elmo di Jyura <ICON BETA>+	289	118	8	pl011_0001
+0	Head	340	Elmo di Beo <ICON ALPHA>+	290	118	8	pl110_0000
+0	Head	341	Elmo di Beo <ICON BETA>+	291	118	8	pl110_0000
+0	Head	342	Elmo di Kadachi <ICON ALPHA>+	292	120	8	pl013_0001
+0	Head	343	Elmo di Kadachi <ICON BETA>+	293	120	8	pl013_0001
+0	Head	344	Elmo in ipermetallo <ICON ALPHA>+	294	128	8	pl025_0000
+0	Head	345	Elmo in ipermetallo <ICON BETA>+	295	128	8	pl025_0000
+0	Head	346	Elmo di Banbaro <ICON ALPHA>+	296	130	8	pl084_0000
+0	Head	347	Elmo di Banbaro <ICON BETA>+	297	130	8	pl084_0010
+0	Head	348	Elmo di Anja <ICON ALPHA>+	298	132	8	pl020_0001
+0	Head	349	Elmo di Anja <ICON BETA>+	299	132	8	pl020_0011
+0	Head	350	Elmo di Rathian <ICON ALPHA>+	300	130	8	pl021_0001
+0	Head	351	Elmo di Rathian <ICON BETA>+	301	130	8	pl021_0011
+0	Head	352	Elmo cuore di Rath <ICON ALPHA>+	302	132	8	pl021_0101
+0	Head	353	Elmo cuore di Rath <ICON BETA>+	303	132	8	pl021_0111
+0	Head	354	Copricapo di Lumu <ICON ALPHA>+	304	130	8	pl024_0001
+0	Head	355	Copricapo di Lumu <ICON BETA>+	305	130	8	pl024_0001
+0	Head	356	Cappuccio onirico <ICON ALPHA>+	306	132	8	pl024_0101
+0	Head	357	Cappuccio onirico <ICON BETA>+	307	132	8	pl024_0101
+0	Head	358	Cappuccio corallino <ICON ALPHA>+	308	132	8	pl010_0101
+0	Head	359	Cappuccio corallino <ICON BETA>+	309	132	8	pl010_0101
+0	Head	360	Elmo di vipera <ICON ALPHA>+	310	132	8	pl013_0101
+0	Head	361	Elmo di vipera <ICON BETA>+	311	132	8	pl013_0101
+0	Head	362	Elmo di Baan <ICON ALPHA>+	312	134	8	pl028_0001
+0	Head	363	Elmo di Baan <ICON BETA>+	313	134	8	pl028_0001
+0	Head	364	Stile testa di cuoio	314	0	4	pl001_0000
+0	Head	365	Stile testa di maglia	315	0	4	pl014_0000
+0	Head	366	Stile testa del cacciatore <ICON ALPHA>	316	0	4	pl002_0000
+0	Head	367	Stile testa del cacciatore <ICON BETA>	317	0	4	pl002_0010
+0	Head	368	Stile testa d'osso	318	0	4	pl003_0000
+0	Head	369	Stile testa in lega	319	0	4	pl004_0000
+0	Head	370	Stile testa Vespoid	320	0	4	pl007_0000
+0	Head	371	Stile testa Hornetaur	321	0	4	pl017_0000
+0	Head	374	Orecchini acrobata <ICON ALPHA>+	324	154	10	pl095_0000
+0	Head	375	Unavailable	325	0	0	None
+0	Head	376	Stile testa di Shamos	326	0	4	pl058_0000
+0	Head	377	Unavailable	327	0	0	None
+0	Head	378	Elmo del lingotto <ICON ALPHA>+	328	136	9	pl031_0000
+0	Head	379	Elmo del lingotto <ICON BETA>+	329	136	9	pl031_0000
+0	Head	380	Elmo di Barioth <ICON ALPHA>+	330	138	9	pl089_0000
+0	Head	381	Elmo di Barioth <ICON BETA>+	331	138	9	pl089_0010
+0	Head	382	Elmo di Rathalos <ICON ALPHA>+	332	140	9	pl033_0001
+0	Head	383	Elmo di Rathalos <ICON BETA>+	333	140	9	pl033_0011
+0	Head	384	Elmo di Diablos <ICON ALPHA>+	334	140	9	pl034_0001
+0	Head	385	Elmo di Diablos <ICON BETA>+	335	140	9	pl034_0011
+0	Head	386	Elmo di Legiana <ICON ALPHA>+	336	140	9	pl027_0001
+0	Head	387	Elmo di Legiana <ICON BETA>+	337	140	9	pl027_0011
+0	Head	388	Elmo di Odogaron <ICON ALPHA>+	338	140	9	pl029_0001
+0	Head	389	Elmo di Odogaron <ICON BETA>+	339	140	9	pl029_0011
+0	Head	390	Elmo di Lavasioth <ICON ALPHA>+	340	140	9	pl040_0001
+0	Head	391	Elmo di Lavasioth <ICON BETA>+	341	140	9	pl040_0001
+0	Head	392	Elmo di Uragaan <ICON ALPHA>+	342	144	9	pl041_0001
+0	Head	393	Elmo di Uragaan <ICON BETA>+	343	144	9	pl041_0001
+0	Head	394	Elmo di Nargacuga <ICON ALPHA>+	344	140	9	pl080_0000
+0	Head	395	Elmo di Nargacuga <ICON BETA>+	345	140	9	pl080_0010
+0	Head	396	Elmo di Glavenus <ICON ALPHA>+	346	142	9	pl081_0000
+0	Head	397	Elmo di Glavenus <ICON BETA>+	347	142	9	pl081_0010
+0	Head	398	Elmo di Brachydios <ICON ALPHA>+	348	142	9	pl082_0000
+0	Head	399	Elmo di Brachydios <ICON BETA>+	349	142	9	pl082_0010
+0	Head	400	Elmo di Tigrex <ICON ALPHA>+	350	142	9	pl083_0000
+0	Head	401	Elmo di Tigrex <ICON BETA>+	351	142	9	pl083_0010
+0	Head	402	Elmo tonante <ICON ALPHA>+	352	146	10	pl020_0101
+0	Head	403	Elmo tonante <ICON BETA>+	353	146	10	pl020_0111
+0	Head	404	Stile testa Jagras	354	0	4	pl008_0000
+0	Head	405	Stile testa Kulu	355	0	4	pl009_0000
+0	Head	406	Elmo cintura nera <ICON ALPHA>+	356	150	10	pl093_0000
+0	Head	407	Elmo cintura nera <ICON BETA>+	357	150	10	pl093_0000
+0	Head	408	Stile benda del re drago	358	0	8	pl061_0000
+0	Head	409	Stile occhiali da stratega	359	0	8	pl060_0000
+0	Head	410	Stile piuma polverizzante	360	0	8	pl037_0000
+0	Head	411	Stile testa Tzitzi	361	0	4	pl023_0000
+0	Head	412	Stile testa Girros	362	0	4	pl022_0000
+0	Head	413	Elmo glaciale <ICON ALPHA>+	363	146	10	pl027_0500
+0	Head	414	Elmo glaciale <ICON BETA>+	364	146	10	pl027_0510
+0	Head	415	Elmo anima di Rath <ICON ALPHA>+	365	148	10	pl033_0101
+0	Head	416	Elmo anima di Rath <ICON BETA>+	366	148	10	pl033_0111
+0	Head	417	Elmo di Diablos nera <ICON ALPHA>+	367	148	10	pl034_0101
+0	Head	418	Elmo di Diablos nera <ICON BETA>+	368	148	10	pl034_0111
+0	Head	419	Elmo d'ebano <ICON ALPHA>+	369	148	10	pl029_0101
+0	Head	420	Elmo d'ebano <ICON BETA>+	370	148	10	pl029_0111
+0	Head	421	Elmo caustico <ICON ALPHA>+	371	150	10	pl081_0100
+0	Head	422	Elmo caustico <ICON BETA>+	372	150	10	pl081_0110
+0	Head	423	Elmo di Artian <ICON ALPHA>+	373	142	9	pl091_0000
+0	Head	424	Elmo di Artian <ICON BETA>+	374	142	9	pl091_0000
+0	Head	425	Unavailable	375	0	0	None
+0	Head	426	Stile testa Pukei <ICON ALPHA>	376	0	4	pl010_0000
+0	Head	427	Stile testa Pukei <ICON BETA>	377	0	4	pl010_0010
+0	Head	428	Elmo di Dober <ICON ALPHA>+	378	152	10	pl044_0000
+0	Head	429	Elmo di Dober <ICON BETA>+	379	152	10	pl044_0000
+0	Head	430	Elmo di Damasco <ICON ALPHA>+	380	152	10	pl043_0000
+0	Head	431	Elmo di Damasco <ICON BETA>+	381	152	10	pl043_0010
+0	Head	432	Elmo di Velkhana <ICON ALPHA>+	382	154	11	pl085_0000
+0	Head	433	Elmo di Velkhana <ICON BETA>+	383	154	11	pl085_0010
+0	Head	434	Elmo vulcanico <ICON ALPHA>+	384	154	10	pl042_0500
+0	Head	435	Elmo vulcanico <ICON BETA>+	385	154	10	pl042_0510
+0	Head	436	Elmo funereo <ICON ALPHA>+	386	156	11	pl032_0500
+0	Head	437	Elmo funereo <ICON BETA>+	387	156	11	pl032_0510
+0	Head	438	Corona del Kaiser <ICON ALPHA>+	388	156	11	pl046_0001
+0	Head	439	Corona del Kaiser <ICON BETA>+	389	156	11	pl046_0011
+0	Head	440	Riverbero di Kushala <ICON ALPHA>+	390	156	11	pl047_0001
+0	Head	441	Riverbero di Kushala <ICON BETA>+	391	156	11	pl047_0011
+0	Head	442	Corno di Kirin <ICON ALPHA>+	392	154	11	pl035_0001
+0	Head	443	Corno di Kirin <ICON BETA>+	393	154	11	pl035_0011
+0	Head	444	Bautta di Namielle <ICON ALPHA>+	394	158	11	pl086_0000
+0	Head	445	Bautta di Namielle <ICON BETA>+	395	158	11	pl086_0010
+0	Head	446	Unavailable	396	0	0	None
+0	Head	447	Stile testa Barroth	397	0	4	pl012_0000
+0	Head	448	Elmo Palatium <ICON ALPHA>+	398	154	10	pl094_0000
+0	Head	449	Elmo Palatium <ICON BETA>+	399	154	10	pl094_0000
+0	Head	450	Elmo a vapore <ICON ALPHA>+	400	142	9	pl104_0000
+0	Head	451	Elmo a vapore <ICON BETA>+	401	142	9	pl104_0010
+0	Head	452	Stile orecchino di cristallo	402	0	8	pl059_0000
+0	Head	453	Elmo razziante <ICON ALPHA>+	403	166	11	pl030_0500
+0	Head	454	Elmo razziante <ICON BETA>+	404	166	11	pl030_0510
+0	Head	455	Elmo di Shara Ishvalda <ICON ALPHA>+	405	162	11	pl088_0000
+0	Head	456	Elmo di Shara Ishvalda <ICON BETA>+	406	162	11	pl088_0010
+0	Head	457	Elmo selvaggio <ICON ALPHA>+	407	156	10	pl050_0500
+0	Head	458	Elmo selvaggio <ICON BETA>+	408	156	10	pl050_0510
+0	Head	459	Stile testa Anja <ICON ALPHA>	409	0	4	pl020_0000
+0	Head	460	Stile testa Anja <ICON BETA>	410	0	4	pl020_0010
+0	Head	461	Testa adiutor <ICON ALPHA>+	411	162	11	pl092_0000
+0	Head	462	Testa adiutor <ICON BETA>+	412	162	11	pl092_0000
+0	Head	463	Orecchini showman <ICON ALPHA>+	413	162	11	pl095_0010
+0	Head	464	Elmo doriluna <ICON ALPHA>+	414	162	11	pl021_0200
+0	Head	465	Elmo doriluna <ICON BETA>+	415	162	11	pl021_0210
+0	Head	466	Elmo solargenti <ICON ALPHA>+	416	164	11	pl033_0200
+0	Head	467	Elmo solargenti <ICON BETA>+	417	164	11	pl033_0210
+0	Head	468	Stile testa Jyura	418	0	4	pl011_0000
+0	Head	469	Stile testa Kadachi	419	0	4	pl013_0000
+0	Head	470	Elmo di Zinogre <ICON ALPHA>+	420	158	10	pl107_0000
+0	Head	471	Elmo di Zinogre <ICON BETA>+	421	158	10	pl107_0010
+0	Head	472	Elmo stigeo <ICON ALPHA>+	422	160	10	pl107_0100
+0	Head	473	Elmo stigeo <ICON BETA>+	423	160	10	pl107_0110
+0	Head	474	Elmo di Garuga <ICON ALPHA>+	424	154	10	pl108_0000
+0	Head	475	Elmo di Garuga <ICON BETA>+	425	154	10	pl108_0010
+0	Head	476	Copricapo di Zorah <ICON ALPHA>+	426	160	11	pl038_0000
+0	Head	477	Copricapo di Zorah <ICON BETA>+	427	160	11	pl038_0010
+0	Head	478	Copricapo d'oro <ICON ALPHA>+	428	158	10	pl109_0000
+0	Head	479	Copricapo d'oro <ICON BETA>+	429	158	10	pl109_0010
+0	Head	480	Maschera furiosa <ICON ALPHA>+	430	170	11	pl109_0500
+0	Head	481	Maschera furiosa <ICON BETA>+	431	170	11	pl109_0510
+0	Head	482	Elmo rabbioso <ICON ALPHA>+	432	170	11	pl082_0500
+0	Head	483	Elmo rabbioso <ICON BETA>+	433	170	11	pl082_0510
+0	Head	484	Corona ornata Safi <ICON ALPHA>+	434	168	11	pl087_0000
+0	Head	485	Corona ornata Safi <ICON BETA>+	435	168	11	pl087_0010
+0	Head	486	Unavailable	436	0	0	None
+0	Head	487	Unavailable	437	0	0	None
+0	Head	488	Velo nero <ICON ALPHA>+	438	152	11	pl100_0000
+0	Head	489	Orecchie wyverniane <ICON ALPHA>+	439	140	8	pl101_0000
+0	Head	490	Unavailable	440	0	0	None
+0	Head	491	Maschera da pinguino <ICON ALPHA>+	441	138	8	pl098_0000
+0	Head	492	Corona dell'imperatrice <ICON ALPHA>+	442	164	11	pl051_0001
+0	Head	493	Corona dell'imperatrice <ICON BETA>+	443	164	11	pl051_0011
+0	Head	494	Furia di Kulve Taroth <ICON ALPHA>+	444	176	11	pl049_0001
+0	Head	495	Furia di Kulve Taroth <ICON BETA>+	445	176	11	pl049_0011
+0	Head	496	Elmo della rosa <ICON ALPHA>+	446	150	9	pl124_0000
+0	Head	497	Stile testa Lumu	447	0	4	pl024_0000
+0	Head	498	Unavailable	448	0	0	None
+0	Head	499	Stile testa Rathian <ICON ALPHA>	449	0	4	pl021_0000
+0	Head	500	Unavailable	450	0	0	None
+0	Head	501	Stile testa Rathian <ICON BETA>	451	0	4	pl021_0010
+0	Head	502	Capelli Oolong <ICON ALPHA>+	452	120	8	pl127_0000
+0	Head	503	Stile testa Radobaan <ICON ALPHA>	453	0	5	pl028_0000
+0	Head	504	Velo astrale <ICON ALPHA>+	454	140	8	pl128_0000
+0	Head	505	Stile testa Radobaan <ICON BETA>	455	0	5	pl028_0010
+0	Head	506	Stile testa della rosa	456	0	9	pl124_0000
+0	Head	507	Unavailable	457	0	0	None
+0	Head	508	Unavailable	458	0	0	None
+0	Head	509	Stile testa Oolong	459	0	8	pl127_0000
+0	Head	510	Stile testa astrale	460	0	8	pl128_0000
+0	Head	511	Stile testa in ipermetallo	461	0	5	pl025_0000
+0	Head	512	Stile fascia termale	462	0	8	pl106_0000
+0	Head	513	Unavailable	463	0	0	None
+0	Head	514	Stile testa di Rallus mollis	464	0	8	pl112_0000
+0	Head	515	Macaco argentato <ICON ALPHA>+	465	120	8	pl113_0000
+0	Head	516	Unavailable	466	0	0	None
+0	Head	518	Elmo brutale <ICON ALPHA>+	468	158	10	pl083_0100
+0	Head	519	Elmo brutale <ICON BETA>+	469	158	10	pl083_0110
+0	Head	520	Elmo del guardiano <ICON ALPHA>+	470	50	5	pl121_0000
+0	Head	521	Stile testa di Yukumo	471	0	6	pl122_0000
+0	Head	522	Stile testa cavaliere d’argento	472	0	6	pl123_0000
+0	Head	523	HARDUMMY	473	132	11	pl068_0010
+0	Head	524	Bautta di Namielle <ICON GAMMA>+	474	176	11	pl086_0020
+0	Head	525	HARDUMMY	475	0	7	pl072_0000
+0	Head	526	HARDUMMY	476	170	11	pl072_0001
+0	Head	527	Unavailable	477	0	0	None
+0	Head	528	Unavailable	478	0	0	None
+0	Head	529	Unavailable	479	0	0	None
+0	Head	530	Unavailable	480	0	0	None
+0	Head	531	Unavailable	481	0	0	None
+0	Head	532	HARDUMMY	482	160	11	pl068_0020
+0	Head	533	Unavailable	483	0	0	None
+0	Head	534	Testa di Leon <ICON ALPHA>+	484	150	11	pl130_0000
+0	Head	535	Testa di Claire <ICON ALPHA>+	485	150	11	pl131_0000
+0	Head	536	Unavailable	486	0	0	None
+0	Head	537	Unavailable	487	0	0	None
+0	Head	538	Stile testa Gastodon	488	0	4	pl015_0000
+0	Head	540	Stile testa Dodogama	490	0	4	pl039_0000
+0	Head	541	Stile testa del lingotto	491	0	5	pl031_0000
+0	Head	542	Stile testa cuore di Rath <ICON ALPHA>	492	0	5	pl021_0100
+0	Head	543	Stile testa cuore di Rath <ICON BETA>	493	0	5	pl021_0110
+0	Head	544	Stile testa Lavasioth <ICON ALPHA>	494	0	5	pl040_0000
+0	Head	545	Stile testa Lavasioth <ICON BETA>	495	0	5	pl040_0010
+0	Head	546	Stile testa Legiana <ICON ALPHA>	496	0	5	pl027_0000
+0	Head	547	Stile testa Legiana <ICON BETA>	497	0	5	pl027_0010
+0	Head	548	Stile testa Odogaron <ICON ALPHA>	498	0	5	pl029_0000
+0	Head	549	Stile testa Odogaron <ICON BETA>	499	0	5	pl029_0010
+0	Head	550	Stile testa Rathalos <ICON ALPHA>	500	0	5	pl033_0000
+0	Head	551	Stile testa Rathalos <ICON BETA>	501	0	5	pl033_0010
+0	Head	552	Stile testa Anima di Rath <ICON ALPHA>	502	0	6	pl033_0100
+0	Head	553	Stile testa Anima di Rath <ICON BETA>	503	0	6	pl033_0110
+0	Head	554	Stile testa Diablos <ICON ALPHA>	504	0	5	pl034_0000
+0	Head	555	Stile testa Diablos <ICON BETA>	505	0	5	pl034_0010
+0	Head	556	Stile testa Diablos nera <ICON ALPHA>	506	0	6	pl034_0100
+0	Head	557	Stile testa Diablos nera <ICON BETA>	507	0	6	pl034_0110
+0	Head	558	Stile testa Uragaan <ICON ALPHA>	508	0	6	pl041_0000
+0	Head	559	Stile testa Uragaan <ICON BETA>	509	0	6	pl041_0010
+0	Head	560	Stile testa Bazel <ICON ALPHA>	510	0	6	pl042_0000
+0	Head	561	Stile testa Bazel <ICON BETA>	511	0	6	pl042_0010
+0	Head	562	Stile testa Deviljho <ICON ALPHA>	512	0	6	pl050_0000
+0	Head	563	Stile testa Deviljho <ICON BETA>	513	0	6	pl050_0010
+0	Head	564	Stile testa Dober <ICON ALPHA>	514	0	6	pl044_0000
+0	Head	565	Stile testa Dober <ICON BETA>	515	0	6	pl044_0000
+0	Head	566	Stile testa Damasco <ICON ALPHA>	516	0	6	pl043_0000
+0	Head	567	Stile testa Damasco <ICON BETA>	517	0	6	pl043_0010
+0	Head	568	Stile testa Zorah <ICON ALPHA>	518	0	7	pl038_0000
+0	Head	569	Stile testa Zorah <ICON BETA>	519	0	7	pl038_0010
+0	Head	570	Stile testa Zorah <ICON GAMMA>	520	0	7	pl038_0020
+0	Head	571	Stile testa Nergigante <ICON ALPHA>	521	0	7	pl030_0000
+0	Head	572	Stile testa Nergigante <ICON BETA>	522	0	7	pl030_0010
+0	Head	573	Stile testa Nergigante <ICON GAMMA>	523	0	7	pl030_0020
+0	Head	574	Stile testa Kaiser <ICON ALPHA>	524	0	7	pl046_0000
+0	Head	575	Stile testa Kaiser <ICON BETA>	525	0	7	pl046_0010
+0	Head	576	Stile testa Kaiser <ICON GAMMA>	526	0	7	pl046_0020
+0	Head	577	Stile testa Kushala <ICON ALPHA>	527	0	7	pl047_0000
+0	Head	578	Stile testa Kushala <ICON BETA>	528	0	7	pl047_0010
+0	Head	579	Stile testa Kushala <ICON GAMMA>	529	0	7	pl047_0020
+0	Head	580	Stile testa Vaal <ICON ALPHA>	530	0	7	pl032_0000
+0	Head	581	Stile testa Vaal <ICON BETA>	531	0	7	pl032_0010
+0	Head	582	Stile testa Vaal <ICON GAMMA>	532	0	7	pl032_0020
+0	Head	583	Stile testa Kirin <ICON ALPHA>	533	0	7	pl035_0000
+0	Head	584	Stile testa Kirin <ICON BETA>	534	0	7	pl035_0010
+0	Head	585	Stile testa Kirin <ICON GAMMA>	535	0	7	pl035_0020
+0	Head	586	Stile testa Xeno <ICON ALPHA>	536	0	7	pl045_0000
+0	Head	587	Stile testa Xeno <ICON BETA>	537	0	7	pl045_0010
+0	Head	588	Stile testa Xeno <ICON GAMMA>	538	0	7	pl045_0020
+0	Head	589	Stile testa Imperatrice <ICON ALPHA>	539	0	7	pl051_0000
+0	Head	590	Stile testa Imperatrice <ICON BETA>	540	0	7	pl051_0010
+0	Head	591	Stile testa Imperatrice <ICON GAMMA>	541	0	7	pl051_0020
+0	Head	592	Stile testa Kulve <ICON ALPHA>	542	0	7	pl049_0000
+0	Head	593	Stile testa Kulve <ICON BETA>	543	0	7	pl049_0010
+0	Head	594	Stile testa Kulve <ICON GAMMA>	544	0	7	pl049_0020
+0	Head	595	Unavailable	546	0	0	None
+0	Head	596	Unavailable	547	0	0	None
+0	Head	597	Unavailable	548	0	0	None
+0	Head	599	Unavailable	550	0	0	None
+0	Head	600	Unavailable	551	0	0	None
+0	Head	601	Unavailable	552	0	0	None
+0	Head	602	Unavailable	553	0	0	None
+0	Head	603	Unavailable	554	0	0	None
+0	Head	604	Unavailable	555	0	0	None
+0	Head	605	Unavailable	556	0	0	None
+0	Head	606	Unavailable	557	0	0	None
+0	Head	607	Unavailable	558	0	0	None
+0	Head	608	Unavailable	559	0	0	None
+0	Head	609	Unavailable	560	0	0	None
+0	Head	610	Unavailable	561	0	0	None
+0	Head	611	Unavailable	562	0	0	None
+0	Head	612	Unavailable	563	0	0	None
+0	Head	613	Unavailable	564	0	0	None
+0	Head	614	Unavailable	565	0	0	None
+0	Head	615	Unavailable	566	0	0	None
+0	Head	616	Unavailable	567	0	0	None
+0	Head	617	Unavailable	568	0	0	None
+0	Head	618	Unavailable	569	0	0	None
+0	Head	619	Unavailable	570	0	0	None
+0	Head	620	Unavailable	571	0	0	None
+0	Head	621	Unavailable	572	0	0	None
+0	Head	622	Unavailable	573	0	0	None
+0	Head	623	Unavailable	574	0	0	None
+0	Head	624	Stile testa Artian	575	0	9	pl091_0000
+0	Head	625	Unavailable	674	0	0	None
+0	Head	626	Unavailable	576	0	0	None
+0	Head	627	Unavailable	577	0	0	None
+0	Head	628	Unavailable	578	0	0	None
+0	Head	629	Unavailable	579	0	0	None
+0	Head	630	Unavailable	580	0	0	None
+0	Head	631	Unavailable	581	0	0	None
+0	Head	632	Unavailable	582	0	0	None
+0	Head	633	Unavailable	583	0	0	None
+0	Head	634	Unavailable	584	0	0	None
+0	Head	635	Unavailable	585	0	0	None
+0	Head	636	Unavailable	586	0	0	None
+0	Head	637	Unavailable	587	0	0	None
+0	Head	638	Unavailable	588	0	0	None
+0	Head	639	Unavailable	589	0	0	None
+0	Head	640	Unavailable	590	0	0	None
+0	Head	641	Unavailable	591	0	0	None
+0	Head	642	Unavailable	592	0	0	None
+0	Head	643	Unavailable	593	0	0	None
+0	Head	644	Unavailable	594	0	0	None
+0	Head	645	Unavailable	595	0	0	None
+0	Head	646	Unavailable	596	0	0	None
+0	Head	647	Unavailable	597	0	0	None
+0	Head	648	Unavailable	598	0	0	None
+0	Head	649	Unavailable	599	0	0	None
+0	Head	650	Unavailable	600	0	0	None
+0	Head	651	Unavailable	601	0	0	None
+0	Head	652	Unavailable	602	0	0	None
+0	Head	653	Unavailable	603	0	0	None
+0	Head	654	Unavailable	604	0	0	None
+0	Head	655	Unavailable	605	0	0	None
+0	Head	656	Unavailable	606	0	0	None
+0	Head	657	Unavailable	607	0	0	None
+0	Head	658	Stile testa cintura nera	608	0	10	pl093_0000
+0	Head	659	Unavailable	609	0	0	None
+0	Head	660	Unavailable	610	0	0	None
+0	Head	661	Unavailable	611	0	0	None
+0	Head	662	Unavailable	612	0	0	None
+0	Head	663	Unavailable	613	0	0	None
+0	Head	664	Unavailable	614	0	0	None
+0	Head	665	Unavailable	615	0	0	None
+0	Head	666	Unavailable	616	0	0	None
+0	Head	667	Unavailable	617	0	0	None
+0	Head	668	Unavailable	618	0	0	None
+0	Head	669	Unavailable	619	0	0	None
+0	Head	670	Unavailable	620	0	0	None
+0	Head	671	Unavailable	621	0	0	None
+0	Head	672	Unavailable	622	0	0	None
+0	Head	673	Unavailable	623	0	0	None
+0	Head	674	Unavailable	624	0	0	None
+0	Head	675	Unavailable	625	0	0	None
+0	Head	676	Stile orecchini acrobata	626	0	10	pl095_0000
+0	Head	677	Stile orecchini showman	627	0	11	pl095_0010
+0	Head	678	Unavailable	628	0	0	None
+0	Head	679	Unavailable	629	0	0	None
+0	Head	680	Unavailable	630	0	0	None
+0	Head	681	Unavailable	631	0	0	None
+0	Head	682	Unavailable	632	0	0	None
+0	Head	683	Unavailable	633	0	0	None
+0	Head	684	Unavailable	634	0	0	None
+0	Head	685	Unavailable	635	0	0	None
+0	Head	686	Unavailable	636	0	0	None
+0	Head	687	Unavailable	637	0	0	None
+0	Head	688	Unavailable	638	0	0	None
+0	Head	689	Unavailable	639	0	0	None
+0	Head	690	Unavailable	640	0	0	None
+0	Head	691	Unavailable	641	0	0	None
+0	Head	692	Unavailable	642	0	0	None
+0	Head	693	Unavailable	643	0	0	None
+0	Head	694	Unavailable	644	0	0	None
+0	Head	695	Unavailable	645	0	0	None
+0	Head	696	Unavailable	646	0	0	None
+0	Head	697	Unavailable	647	0	0	None
+0	Head	698	Unavailable	648	0	0	None
+0	Head	699	Unavailable	649	0	0	None
+0	Head	700	Unavailable	650	0	0	None
+0	Head	701	Unavailable	651	0	0	None
+0	Head	702	Unavailable	652	0	0	None
+0	Head	703	Unavailable	653	0	0	None
+0	Head	704	Unavailable	654	0	0	None
+0	Head	705	Unavailable	655	0	0	None
+0	Head	706	Unavailable	656	0	0	None
+0	Head	707	Unavailable	657	0	0	None
+0	Head	708	Unavailable	658	0	0	None
+0	Head	709	Unavailable	659	0	0	None
+0	Head	710	Unavailable	660	0	0	None
+0	Head	711	Unavailable	661	0	0	None
+0	Head	712	Unavailable	662	0	0	None
+0	Head	713	Unavailable	663	0	0	None
+0	Head	714	Unavailable	664	0	0	None
+0	Head	716	Unavailable	666	0	0	None
+0	Head	717	Unavailable	667	0	0	None
+0	Head	718	Unavailable	668	0	0	None
+0	Head	719	Unavailable	669	0	0	None
+0	Head	720	Unavailable	670	0	0	None
+0	Head	721	Unavailable	671	0	0	None
+0	Head	725	Unavailable	0	0	0	None
+0	Head	726	Unavailable	0	0	0	None
+0	Head	727	Unavailable	0	0	0	None
+0	Head	728	Unavailable	0	0	0	None
+0	Head	729	Unavailable	0	0	0	None
+0	Head	730	Unavailable	0	0	0	None
+0	Head	731	Unavailable	0	0	0	None
+0	Head	732	Unavailable	0	0	0	None
+0	Head	733	Unavailable	0	0	0	None
+0	Head	734	Unavailable	0	0	0	None
+0	Head	735	Unavailable	0	0	0	None
+0	Head	736	Unavailable	0	0	0	None
+0	Head	737	Unavailable	0	0	0	None
+0	Head	738	Unavailable	0	0	0	None
+0	Head	739	Unavailable	0	0	0	None
+0	Head	740	Unavailable	0	0	0	None
+0	Head	741	Unavailable	0	0	0	None
+0	Head	742	Unavailable	0	0	0	None
+0	Head	743	Unavailable	0	0	0	None
+0	Head	744	Unavailable	0	0	0	None
+0	Head	745	Unavailable	0	0	0	None
+0	Head	746	Unavailable	0	0	0	None
+0	Head	747	Unavailable	0	0	0	None
+0	Head	748	Unavailable	0	0	0	None
+0	Head	749	Unavailable	0	0	0	None
+0	Head	750	Unavailable	0	0	0	None
+1	Body	2	Maglia di cuoio	1	2	0	pl001_0000
+1	Body	15	Pettorina di maglia	15	2	0	pl014_0000
+1	Body	1	Cotta del cacciatore	2	6	0	pl002_0000
+1	Body	5	Cotta d'osso	5	6	0	pl003_0000
+1	Body	6	Cotta in lega	6	8	1	pl004_0000
+1	Body	9	Cotta di Vespoid	9	8	0	pl007_0000
+1	Body	4	Cotta di Jagras	4	8	0	pl008_0000
+1	Body	10	Cotta di Kulu	10	10	0	pl009_0000
+1	Body	11	Cotta di Pukei	11	12	1	pl010_0000
+1	Body	13	Cotta di Barroth	13	14	1	pl012_0000
+1	Body	12	Cotta di Jyura	12	14	1	pl011_0000
+1	Body	14	Cotta di Kadachi	14	16	1	pl013_0000
+1	Body	25	Cotta in ipermetallo	24	18	2	pl025_0000
+1	Body	18	Cotta di Hornetaur	17	18	2	pl017_0000
+1	Body	3	Cotta di Anja	3	20	2	pl020_0000
+1	Body	21	Cotta di Rathian	20	22	2	pl021_0000
+1	Body	23	Cotta di Tzitzi	22	18	2	pl023_0000
+1	Body	24	Cotta di Lumu	23	20	2	pl024_0000
+1	Body	22	Cotta di Girros	21	20	2	pl022_0000
+1	Body	28	Cotta di Baan	27	24	2	pl028_0000
+1	Body	20	Torace dello scarabeo	19	22	2	pl019_0000 (Male Only)
+1	Body	159	Torace di farfalla	164	22	2	pl019_0000 (Female Only)
+1	Body	31	Cotta del lingotto	30	28	3	pl031_0000
+1	Body	27	Cotta di Legiana	26	30	3	pl027_0000
+1	Body	29	Cotta di Odogaron	28	30	3	pl029_0000
+1	Body	33	Cotta di Rathalos	32	30	3	pl033_0000
+1	Body	34	Cotta di Diablos	33	32	3	pl034_0000
+1	Body	35	Pettino di Kirin	34	34	3	pl035_0000
+1	Body	26	Muscolo putrefatto	25	32	3	pl026_0000
+1	Body	36	Abito di brigata	35	28	3	pl036_0000
+1	Body	39	Cotta di cuoio <ICON ALPHA>	37	32	4	pl001_0000
+1	Body	40	Cotta di cuoio <ICON BETA>	38	32	4	pl001_0000
+1	Body	147	Armatura di maglia <ICON ALPHA>	39	32	4	pl014_0000
+1	Body	148	Armatura di maglia <ICON BETA>	40	32	4	pl014_0000
+1	Body	41	Cotta del cacciatore <ICON ALPHA>	41	36	4	pl002_0000
+1	Body	42	Cotta del cacciatore <ICON BETA>	42	36	4	pl002_0010
+1	Body	43	Cotta d'osso <ICON ALPHA>	43	36	4	pl003_0000
+1	Body	44	Cotta d'osso <ICON BETA>	44	36	4	pl003_0000
+1	Body	45	Cotta in lega <ICON ALPHA>	45	36	4	pl004_0000
+1	Body	46	Cotta in lega <ICON BETA>	46	36	4	pl004_0000
+1	Body	51	Cotta di Vespoid <ICON ALPHA>	51	38	4	pl007_0000
+1	Body	52	Cotta di Vespoid <ICON BETA>	52	38	4	pl007_0000
+1	Body	57	Cotta di Hornetaur <ICON ALPHA>	57	38	4	pl017_0000
+1	Body	58	Cotta di Hornetaur <ICON BETA>	58	38	4	pl017_0000
+1	Body	61	Cotta di Jagras <ICON ALPHA>	61	40	4	pl008_0000
+1	Body	62	Cotta di Jagras <ICON BETA>	62	40	4	pl008_0000
+1	Body	63	Cotta di Kulu <ICON ALPHA>	63	40	4	pl009_0000
+1	Body	64	Cotta di Kulu <ICON BETA>	64	40	4	pl009_0000
+1	Body	65	Cotta di Pukei <ICON ALPHA>	65	42	4	pl010_0000
+1	Body	66	Cotta di Pukei <ICON BETA>	66	42	4	pl010_0010
+1	Body	69	Cotta di Barroth <ICON ALPHA>	69	42	4	pl012_0000
+1	Body	70	Cotta di Barroth <ICON BETA>	70	42	4	pl012_0000
+1	Body	67	Cotta di Jyura <ICON ALPHA>	67	44	4	pl011_0000
+1	Body	68	Cotta di Jyura <ICON BETA>	68	44	4	pl011_0000
+1	Body	71	Cotta di Kadachi <ICON ALPHA>	71	44	4	pl013_0000
+1	Body	72	Cotta di Kadachi <ICON BETA>	72	44	4	pl013_0000
+1	Body	93	Cotta di Anja <ICON ALPHA>	93	44	4	pl020_0000
+1	Body	94	Cotta di Anja <ICON BETA>	94	44	4	pl020_0010
+1	Body	73	Cotta di Rathian <ICON ALPHA>	73	46	4	pl021_0000
+1	Body	74	Cotta di Rathian <ICON BETA>	74	46	4	pl021_0010
+1	Body	77	Cotta di Tzitzi <ICON ALPHA>	77	40	4	pl023_0000
+1	Body	78	Cotta di Tzitzi <ICON BETA>	78	40	4	pl023_0000
+1	Body	79	Cotta di Lumu <ICON ALPHA>	79	44	4	pl024_0000
+1	Body	80	Cotta di Lumu <ICON BETA>	80	44	4	pl024_0000
+1	Body	75	Cotta di Girros <ICON ALPHA>	75	40	4	pl022_0000
+1	Body	76	Cotta di Girros <ICON BETA>	76	40	4	pl022_0000
+1	Body	97	Cotta di Baan <ICON ALPHA>	97	46	5	pl028_0000
+1	Body	98	Cotta di Baan <ICON BETA>	98	46	5	pl028_0010
+1	Body	89	Cotta in ipermetallo <ICON ALPHA>	89	50	5	pl025_0000
+1	Body	90	Cotta in ipermetallo <ICON BETA>	90	50	5	pl025_0000
+1	Body	91	Cotta del lingotto <ICON ALPHA>	91	50	5	pl031_0000
+1	Body	92	Cotta del lingotto <ICON BETA>	92	50	5	pl031_0000
+1	Body	55	Pettino di Barnos <ICON ALPHA>	55	48	4	pl016_0000
+1	Body	56	Pettino di Barnos <ICON BETA>	56	48	4	pl016_0000
+1	Body	87	Cotta cuore di Rath <ICON ALPHA>	87	52	5	pl021_0100
+1	Body	88	Cotta cuore di Rath <ICON BETA>	88	52	5	pl021_0110
+1	Body	95	Cotta di Legiana <ICON ALPHA>	95	54	5	pl027_0000
+1	Body	96	Cotta di Legiana <ICON BETA>	96	54	5	pl027_0010
+1	Body	81	Cotta di Odogaron <ICON ALPHA>	81	54	5	pl029_0000
+1	Body	82	Cotta di Odogaron <ICON BETA>	82	54	5	pl029_0010
+1	Body	101	Cotta di Rathalos <ICON ALPHA>	101	54	5	pl033_0000
+1	Body	102	Cotta di Rathalos <ICON BETA>	102	54	5	pl033_0010
+1	Body	111	Cotta anima di Rath <ICON ALPHA>	111	56	6	pl033_0100
+1	Body	112	Cotta anima di Rath <ICON BETA>	112	56	6	pl033_0110
+1	Body	103	Cotta di Diablos <ICON ALPHA>	103	54	5	pl034_0000
+1	Body	104	Cotta di Diablos <ICON BETA>	104	54	5	pl034_0010
+1	Body	113	Cotta di Diablos nera <ICON ALPHA>	113	56	6	pl034_0100
+1	Body	114	Cotta di Diablos nera <ICON BETA>	114	56	6	pl034_0110
+1	Body	83	Cotta di Dodogama <ICON ALPHA>	83	48	4	pl039_0000
+1	Body	84	Cotta di Dodogama <ICON BETA>	84	48	4	pl039_0000
+1	Body	85	Cotta di Lavasioth <ICON ALPHA>	85	56	5	pl040_0000
+1	Body	86	Cotta di Lavasioth <ICON BETA>	86	56	5	pl040_0010
+1	Body	109	Cotta di Uragaan <ICON ALPHA>	109	60	6	pl041_0000
+1	Body	110	Cotta di Uragaan <ICON BETA>	110	60	6	pl041_0010
+1	Body	107	Cotta di Nergigante <ICON ALPHA>	107	64	7	pl030_0000
+1	Body	108	Cotta di Nergigante <ICON BETA>	108	64	7	pl030_0010
+1	Body	117	Torace dello scarabeo <ICON ALPHA>	117	42	4	pl019_0000 (Male Only)
+1	Body	118	Torace dello scarabeo <ICON BETA>	118	42	4	pl019_0000 (Male Only)
+1	Body	160	Torace di farfalla <ICON ALPHA>	165	42	4	pl019_0000 (Female Only)
+1	Body	161	Torace di farfalla <ICON BETA>	166	42	4	pl019_0000 (Female Only)
+1	Body	119	Abito di brigata <ICON ALPHA>	119	52	5	pl036_0000
+1	Body	120	Abito di brigata <ICON BETA>	120	52	5	pl036_0000
+1	Body	121	Cotta di Damasco <ICON ALPHA>	121	60	6	pl043_0000
+1	Body	122	Cotta di Damasco <ICON BETA>	122	60	6	pl043_0010
+1	Body	123	Cotta di Dober <ICON ALPHA>	123	60	6	pl044_0000
+1	Body	124	Cotta di Dober <ICON BETA>	124	60	6	pl044_0000
+1	Body	129	Cista di Kushala <ICON ALPHA>	129	64	7	pl047_0000
+1	Body	130	Cista di Kushala <ICON BETA>	130	64	7	pl047_0010
+1	Body	127	Cotta del Kaiser <ICON ALPHA>	127	64	7	pl046_0000
+1	Body	128	Cotta del Kaiser <ICON BETA>	128	64	7	pl046_0010
+1	Body	105	Pettino di Kirin <ICON ALPHA>	105	64	7	pl035_0000
+1	Body	106	Pettino di Kirin <ICON BETA>	106	64	7	pl035_0010
+1	Body	99	Cotta di Vaal Hazak <ICON ALPHA>	99	64	7	pl032_0000
+1	Body	100	Cotta di Vaal Hazak <ICON BETA>	100	64	7	pl032_0010
+1	Body	115	Cotta di Bazel <ICON ALPHA>	115	58	6	pl042_0000
+1	Body	116	Cotta di Bazel <ICON BETA>	116	58	6	pl042_0010
+1	Body	131	Muscolo putrefatto <ICON ALPHA>	133	62	6	pl026_0000
+1	Body	132	Muscolo putrefatto <ICON BETA>	134	62	6	pl026_0000
+1	Body	133	Abito della Gilda <ICON ALPHA>	135	62	7	pl048_0000
+1	Body	134	Abito della Gilda <ICON BETA>	136	62	7	pl048_0000
+1	Body	125	Cotta di Xeno'jiiva <ICON ALPHA>	125	72	7	pl045_0000
+1	Body	126	Pelle di Xeno'jiiva <ICON BETA>	126	72	7	pl045_0010
+1	Body	135	Unavailable	137	2	0	pl001_0000
+1	Body	136	Unavailable	138	2	0	pl001_0000
+1	Body	137	Cotta di Zorah <ICON ALPHA>	139	44	5	pl038_0000
+1	Body	138	Pelle di Zorah <ICON BETA>	140	44	5	pl038_0010
+1	Body	149	Pettino della commissione <ICON ALPHA>	141	70	7	pl053_0000
+1	Body	150	Pettino della commissione <ICON BETA>	142	70	7	pl053_0000
+1	Body	162	Unavailable	143	2	0	pl001_0000
+1	Body	163	Unavailable	144	2	0	pl001_0000
+1	Body	151	Stile torace brigata	145	0	6	pl036_0000
+1	Body	152	Stile torace Gilda	146	0	6	pl048_0000
+1	Body	145	Stile torace floreale	147	0	3	pl074_0000
+1	Body	146	Stile torace sommozzatore	148	0	3	pl075_0000
+1	Body	153	Stile torace raccolto	149	0	3	pl076_0000
+1	Body	154	Stile torace di Orione	150	0	3	pl077_0000
+1	Body	155	Stile torace gran galà	153	0	3	pl078_0000
+1	Body	156	Unavailable	158	2	0	pl001_0000
+1	Body	299	HARDUMMY	154	0	7	pl068_0000
+1	Body	291	HARDUMMY	155	0	7	pl069_0000
+1	Body	292	HARDUMMY	156	0	7	pl070_0000
+1	Body	144	Unavailable	157	2	0	pl001_0000
+1	Body	297	Stile torace Bayek	159	0	7	pl120_0000
+1	Body	158	Unavailable	160	2	0	pl001_0000
+1	Body	165	Unavailable	170	2	0	pl001_0000
+1	Body	166	Unavailable	171	2	0	pl001_0000
+1	Body	164	Cotta delle origini	169	6	0	pl018_0000
+1	Body	190	Unavailable	182	2	0	pl001_0000
+1	Body	191	Ira di Kulve Taroth <ICON ALPHA>	183	72	7	pl049_0000
+1	Body	192	Ira di Kulve Taroth <ICON BETA>	184	72	7	pl049_0010
+1	Body	193	Pettorina floreale	185	18	2	pl074_0000
+1	Body	194	Muta da sommozzatore	186	22	2	pl075_0000
+1	Body	195	Tronco del raccolto	187	26	2	pl076_0000
+1	Body	196	Pettino di Orione	188	30	3	pl077_0000
+1	Body	197	Giacca gran galà	189	34	3	pl078_0000
+1	Body	200	Torace del Samurai	190	0	3	pl067_0000
+1	Body	201	Cotta Vangis <ICON ALPHA>	191	58	6	pl050_0000
+1	Body	202	Cotta Vangis <ICON BETA>	192	58	6	pl050_0010
+1	Body	203	Unavailable	193	2	0	pl001_0000
+1	Body	204	"Muneate Bushi ""Sabi"""	194	0	6	pl066_0000
+1	Body	205	"Muneate Bushi ""Homare"""	195	0	6	pl066_0010
+1	Body	206	Cotta drachen <ICON ALPHA>	196	72	7	pl073_0000
+1	Body	207	Pettorina floreale <ICON ALPHA>	197	40	4	pl074_0000
+1	Body	208	Muta da sommozzatore <ICON ALPHA>	198	46	4	pl075_0000
+1	Body	209	Tronco del raccolto <ICON ALPHA>	199	52	5	pl076_0000
+1	Body	210	Pettino di Orione <ICON ALPHA>	200	58	5	pl077_0000
+1	Body	211	Giacca gran galà <ICON ALPHA>	201	64	6	pl078_0000
+1	Body	212	Torace di farfalla	202	22	2	pl057_0000 (Male Only)
+1	Body	213	Torace di farfalla <ICON ALPHA>	203	42	4	pl057_0000 (Male Only)
+1	Body	214	Torace di farfalla <ICON BETA>	204	42	4	pl057_0010 (Male Only)
+1	Body	215	Torace dello scarabeo	205	22	2	pl057_0000 (Female Only)
+1	Body	216	Torace dello scarabeo <ICON ALPHA>	206	42	4	pl057_0000 (Female Only)
+1	Body	217	Torace dello scarabeo <ICON BETA>	207	42	4	pl057_0000 (Female Only)
+1	Body	218	Cotta di Vaal Hazak <ICON GAMMA>	208	72	7	pl032_0020
+1	Body	219	Pettino di Kirin <ICON GAMMA>	209	72	7	pl035_0020
+1	Body	220	Cotta del Kaiser <ICON GAMMA>	210	72	7	pl046_0020
+1	Body	221	Cista di Kushala <ICON GAMMA>	211	72	7	pl047_0020
+1	Body	222	Cotta di Nergigante <ICON GAMMA>	212	72	7	pl030_0020
+1	Body	223	Pelle di Zorah <ICON GAMMA>	213	72	7	pl038_0020
+1	Body	224	Pelle di Xeno'jiiva <ICON GAMMA>	214	72	7	pl045_0020
+1	Body	225	HARDUMMY	215	46	4	pl068_0000
+1	Body	226	HARDUMMY	216	12	1	pl069_0000
+1	Body	227	HARDUMMY	217	60	6	pl069_0000
+1	Body	228	HARDUMMY	218	50	5	pl070_0000
+1	Body	229	Cotta sommo celeste <ICON ALPHA>	219	56	6	pl072_0000
+1	Body	230	Cappotto di Dante <ICON ALPHA>	220	64	7	pl071_0000
+1	Body	231	Cotta dell'imperatrice <ICON ALPHA>	221	70	7	pl051_0000
+1	Body	232	Cotta dell'imperatrice <ICON BETA>	222	70	7	pl051_0010
+1	Body	233	Stile torace farfalla	227	0	6	pl117_0000
+1	Body	234	Stile torace putrefatto	228	0	6	pl026_0000
+1	Body	235	Stile torace Dante	230	0	7	pl071_0000
+1	Body	236	Stile torace drachen	231	0	7	pl073_0000
+1	Body	237	Stile torace della commissione	234	0	6	pl053_0000
+1	Body	238	Stile torace delle origini	237	0	6	pl018_0000
+1	Body	239	Stile torace scarabeo	238	0	6	pl116_0000
+1	Body	240	Invalid Message	239	2	0	pl001_0000
+1	Body	298	HARDUMMY	242	64	7	pl068_0000
+1	Body	242	Cotta dell'imperatrice <ICON GAMMA>	243	70	7	pl051_0020
+1	Body	293	Corpo di Geralt <ICON ALPHA>	244	70	7	pl118_0000
+1	Body	294	Corpo di Ciri <ICON ALPHA>	245	70	7	pl119_0000
+1	Body	295	Stile torace di Geralt	246	0	7	pl118_0000
+1	Body	296	Stile torace di Ciri	247	0	7	pl119_0000
+1	Body	247	Ira di Kulve Taroth <ICON GAMMA>	248	72	7	pl049_0020
+1	Body	248	Corazza del difensore <ICON ALPHA>	249	50	5	pl121_0000
+1	Body	300	Stile torace del lupo bianco	250	0	8	pl105_0000
+1	Body	301	Stile torace del guardiano	545	0	5	pl121_0000
+1	Body	302	Cotta d'osso <ICON ALPHA>+	252	114	8	pl003_0000
+1	Body	303	Cotta d'osso <ICON BETA>+	253	114	8	pl003_0000
+1	Body	304	Cotta in lega <ICON ALPHA>+	254	114	8	pl004_0000
+1	Body	305	Cotta in lega <ICON BETA>+	255	114	8	pl004_0000
+1	Body	306	Cotta di Vespoid <ICON ALPHA>+	256	116	8	pl007_0001
+1	Body	307	Cotta di Vespoid <ICON BETA>+	257	116	8	pl007_0001
+1	Body	308	Cotta di Hornetaur <ICON ALPHA>+	258	116	8	pl017_0001
+1	Body	309	Cotta di Hornetaur <ICON BETA>+	259	116	8	pl017_0001
+1	Body	318	Pettino di Barnos <ICON ALPHA>+	268	116	8	pl016_0000
+1	Body	319	Pettino di Barnos <ICON BETA>+	269	116	8	pl016_0000
+1	Body	322	Cappa di Cortos <ICON ALPHA>+	272	116	8	pl103_0000
+1	Body	323	Cappa di Cortos <ICON BETA>+	273	116	8	pl103_0000
+1	Body	324	Cotta di Jagras <ICON ALPHA>+	274	116	8	pl008_0001
+1	Body	325	Cotta di Jagras <ICON BETA>+	275	116	8	pl008_0001
+1	Body	326	Cotta di Tzitzi <ICON ALPHA>+	276	116	8	pl023_0001
+1	Body	327	Cotta di Tzitzi <ICON BETA>+	277	116	8	pl023_0001
+1	Body	328	Cotta di Girros <ICON ALPHA>+	278	116	8	pl022_0001
+1	Body	329	Cotta di Girros <ICON BETA>+	279	116	8	pl022_0001
+1	Body	330	Cotta di Dodogama <ICON ALPHA>+	280	120	8	pl039_0001
+1	Body	331	Cotta di Dodogama <ICON BETA>+	281	120	8	pl039_0001
+1	Body	332	Cotta di Kulu <ICON ALPHA>+	282	116	8	pl009_0001
+1	Body	333	Cotta di Kulu <ICON BETA>+	283	116	8	pl009_0001
+1	Body	334	Cotta di Pukei <ICON ALPHA>+	284	118	8	pl010_0001
+1	Body	335	Cotta di Pukei <ICON BETA>+	285	118	8	pl010_0001
+1	Body	336	Cotta di Barroth <ICON ALPHA>+	286	118	8	pl012_0001
+1	Body	337	Cotta di Barroth <ICON BETA>+	287	118	8	pl012_0001
+1	Body	338	Cotta di Jyura <ICON ALPHA>+	288	118	8	pl011_0001
+1	Body	339	Cotta di Jyura <ICON BETA>+	289	118	8	pl011_0001
+1	Body	340	Cotta di Beo <ICON ALPHA>+	290	118	8	pl110_0000
+1	Body	341	Cotta di Beo <ICON BETA>+	291	118	8	pl110_0000
+1	Body	342	Cotta di Kadachi <ICON ALPHA>+	292	120	8	pl013_0001
+1	Body	343	Cotta di Kadachi <ICON BETA>+	293	120	8	pl013_0001
+1	Body	344	Cotta in ipermetallo <ICON ALPHA>+	294	128	8	pl025_0000
+1	Body	345	Cotta in ipermetallo <ICON BETA>+	295	128	8	pl025_0000
+1	Body	346	Cotta di Banbaro <ICON ALPHA>+	296	130	8	pl084_0000
+1	Body	347	Cotta di Banbaro <ICON BETA>+	297	130	8	pl084_0010
+1	Body	348	Cotta di Anja <ICON ALPHA>+	298	132	8	pl020_0001
+1	Body	349	Cotta di Anja <ICON BETA>+	299	132	8	pl020_0011
+1	Body	350	Cotta di Rathian <ICON ALPHA>+	300	130	8	pl021_0001
+1	Body	351	Cotta di Rathian <ICON BETA>+	301	130	8	pl021_0011
+1	Body	352	Cotta cuore di Rath <ICON ALPHA>+	302	132	8	pl021_0101
+1	Body	353	Cotta cuore di Rath <ICON BETA>+	303	132	8	pl021_0111
+1	Body	354	Cotta di Lumu <ICON ALPHA>+	304	130	8	pl024_0001
+1	Body	355	Cotta di Lumu <ICON BETA>+	305	130	8	pl024_0001
+1	Body	356	Cotta onirica <ICON ALPHA>+	306	132	8	pl024_0101
+1	Body	357	Cotta onirica <ICON BETA>+	307	132	8	pl024_0101
+1	Body	358	Cotta corallina <ICON ALPHA>+	308	132	8	pl010_0101
+1	Body	359	Cotta corallina <ICON BETA>+	309	132	8	pl010_0101
+1	Body	360	Cotta di vipera <ICON ALPHA>+	310	132	8	pl013_0101
+1	Body	361	Cotta di vipera <ICON BETA>+	311	132	8	pl013_0101
+1	Body	362	Cotta di Baan <ICON ALPHA>+	312	134	8	pl028_0001
+1	Body	363	Cotta di Baan <ICON BETA>+	313	134	8	pl028_0001
+1	Body	364	Stile torace di cuoio	314	0	4	pl001_0000
+1	Body	365	Stile torace di maglia	315	0	4	pl014_0000
+1	Body	366	Stile torace del cacciatore <ICON ALPHA>	316	0	4	pl002_0000
+1	Body	367	Stile torace del cacciatore <ICON BETA>	317	0	4	pl002_0010
+1	Body	368	Stile torace d'osso	318	0	4	pl003_0000
+1	Body	369	Stile torace in lega	319	0	4	pl004_0000
+1	Body	370	Stile torace Vespoid	320	0	4	pl007_0000
+1	Body	371	Stile torace Hornetaur	321	0	4	pl017_0000
+1	Body	378	Cotta del lingotto <ICON ALPHA>+	328	136	9	pl031_0000
+1	Body	379	Cotta del lingotto <ICON BETA>+	329	136	9	pl031_0000
+1	Body	380	Cotta di Barioth <ICON ALPHA>+	330	138	9	pl089_0000
+1	Body	381	Cotta di Barioth <ICON BETA>+	331	138	9	pl089_0010
+1	Body	382	Cotta di Rathalos <ICON ALPHA>+	332	140	9	pl033_0001
+1	Body	383	Cotta di Rathalos <ICON BETA>+	333	140	9	pl033_0011
+1	Body	384	Cotta di Diablos <ICON ALPHA>+	334	140	9	pl034_0001
+1	Body	385	Cotta di Diablos <ICON BETA>+	335	140	9	pl034_0011
+1	Body	386	Cotta di Legiana <ICON ALPHA>+	336	140	9	pl027_0001
+1	Body	387	Cotta di Legiana <ICON BETA>+	337	140	9	pl027_0011
+1	Body	388	Cotta di Odogaron <ICON ALPHA>+	338	140	9	pl029_0001
+1	Body	389	Cotta di Odogaron <ICON BETA>+	339	140	9	pl029_0011
+1	Body	390	Cotta di Lavasioth <ICON ALPHA>+	340	140	9	pl040_0001
+1	Body	391	Cotta di Lavasioth <ICON BETA>+	341	140	9	pl040_0001
+1	Body	392	Cotta di Uragaan <ICON ALPHA>+	342	144	9	pl041_0001
+1	Body	393	Cotta di Uragaan <ICON BETA>+	343	144	9	pl041_0001
+1	Body	394	Cotta di Nargacuga <ICON ALPHA>+	344	140	9	pl080_0000
+1	Body	395	Cotta di Nargacuga <ICON BETA>+	345	140	9	pl080_0010
+1	Body	396	Cotta di Glavenus <ICON ALPHA>+	346	142	9	pl081_0000
+1	Body	397	Cotta di Glavenus <ICON BETA>+	347	142	9	pl081_0010
+1	Body	398	Cotta di Brachydios <ICON ALPHA>+	348	142	9	pl082_0000
+1	Body	399	Cotta di Brachydios <ICON BETA>+	349	142	9	pl082_0010
+1	Body	400	Cotta di Tigrex <ICON ALPHA>+	350	142	9	pl083_0000
+1	Body	401	Cotta di Tigrex <ICON BETA>+	351	142	9	pl083_0010
+1	Body	402	Cotta tonante <ICON ALPHA>+	352	146	10	pl020_0101
+1	Body	403	Cotta tonante <ICON BETA>+	353	146	10	pl020_0111
+1	Body	404	Stile torace Jagras	354	0	4	pl008_0000
+1	Body	405	Stile torace Kulu	355	0	4	pl009_0000
+1	Body	406	Cotta cintura nera <ICON ALPHA>+	356	150	10	pl093_0000
+1	Body	407	Cotta cintura nera <ICON BETA>+	357	150	10	pl093_0000
+1	Body	411	Stile torace Tzitzi	361	0	4	pl023_0000
+1	Body	412	Stile torace Girros	362	0	4	pl022_0000
+1	Body	413	Cotta glaciale <ICON ALPHA>+	363	146	10	pl027_0500
+1	Body	414	Cotta glaciale <ICON BETA>+	364	146	10	pl027_0510
+1	Body	415	Cotta anima di Rath <ICON ALPHA>+	365	148	10	pl033_0101
+1	Body	416	Cotta anima di Rath <ICON BETA>+	366	148	10	pl033_0111
+1	Body	417	Cotta di Diablos nera <ICON ALPHA>+	367	148	10	pl034_0101
+1	Body	418	Cotta di Diablos nera <ICON BETA>+	368	148	10	pl034_0111
+1	Body	419	Cotta d'ebano <ICON ALPHA>+	369	148	10	pl029_0101
+1	Body	420	Cotta d'ebano <ICON BETA>+	370	148	10	pl029_0111
+1	Body	421	Cotta caustica <ICON ALPHA>+	371	150	10	pl081_0100
+1	Body	422	Cotta caustica <ICON BETA>+	372	150	10	pl081_0110
+1	Body	423	Cotta di Artian <ICON ALPHA>+	373	142	9	pl091_0000
+1	Body	424	Cotta di Artian <ICON BETA>+	374	142	9	pl091_0000
+1	Body	426	Stile torace Pukei <ICON ALPHA>	376	0	4	pl010_0000
+1	Body	427	Stile torace Pukei <ICON BETA>	377	0	4	pl010_0010
+1	Body	428	Cotta di Dober <ICON ALPHA>+	378	152	10	pl044_0000
+1	Body	429	Cotta di Dober <ICON BETA>+	379	152	10	pl044_0000
+1	Body	430	Cotta di Damasco <ICON ALPHA>+	380	152	10	pl043_0000
+1	Body	431	Cotta di Damasco <ICON BETA>+	381	152	10	pl043_0010
+1	Body	432	Cotta di Velkhana <ICON ALPHA>+	382	154	11	pl085_0000
+1	Body	433	Cotta di Velkhana <ICON BETA>+	383	154	11	pl085_0010
+1	Body	434	Cotta vulcanica <ICON ALPHA>+	384	154	10	pl042_0500
+1	Body	435	Cotta vulcanica <ICON BETA>+	385	154	10	pl042_0510
+1	Body	436	Cotta funerea <ICON ALPHA>+	386	156	11	pl032_0500
+1	Body	437	Cotta funerea <ICON BETA>+	387	156	11	pl032_0510
+1	Body	438	Cotta del Kaiser <ICON ALPHA>+	388	156	11	pl046_0001
+1	Body	439	Cotta del Kaiser <ICON BETA>+	389	156	11	pl046_0011
+1	Body	440	Cista di Kushala <ICON ALPHA>+	390	156	11	pl047_0001
+1	Body	441	Cista di Kushala <ICON BETA>+	391	156	11	pl047_0011
+1	Body	442	Pettino di Kirin <ICON ALPHA>+	392	154	11	pl035_0001
+1	Body	443	Pettino di Kirin <ICON BETA>+	393	154	11	pl035_0011
+1	Body	444	Mantello di Namielle <ICON ALPHA>+	394	158	11	pl086_0000
+1	Body	445	Mantello di Namielle <ICON BETA>+	395	158	11	pl086_0010
+1	Body	446	Unavailable	396	0	0	None
+1	Body	447	Stile torace Barroth	397	0	4	pl012_0000
+1	Body	448	Cotta Palatium <ICON ALPHA>+	398	154	10	pl094_0000
+1	Body	449	Cotta Palatium <ICON BETA>+	399	154	10	pl094_0000
+1	Body	450	Cotta a vapore <ICON ALPHA>+	400	142	9	pl104_0000
+1	Body	451	Cotta a vapore <ICON BETA>+	401	142	9	pl104_0000
+1	Body	453	Cotta razziante <ICON ALPHA>+	403	166	11	pl030_0500
+1	Body	454	Cotta razziante <ICON BETA>+	404	166	11	pl030_0510
+1	Body	455	Cotta di Shara Ishvalda <ICON ALPHA>+	405	162	11	pl088_0000
+1	Body	456	Cotta di Shara Ishvalda <ICON BETA>+	406	162	11	pl088_0010
+1	Body	457	Cotta selvaggia <ICON ALPHA>+	407	156	10	pl050_0500
+1	Body	458	Cotta selvaggia <ICON BETA>+	408	156	10	pl050_0510
+1	Body	459	Stile torace Anja <ICON ALPHA>	409	0	4	pl020_0000
+1	Body	460	Stile torace Anja <ICON BETA>	410	0	4	pl020_0010
+1	Body	461	Corazza adiutor <ICON ALPHA>+	411	162	11	pl092_0000
+1	Body	462	Corazza adiutor <ICON BETA>+	412	162	11	pl092_0000
+1	Body	464	Cotta doriluna <ICON ALPHA>+	414	162	11	pl021_0200
+1	Body	465	Cotta doriluna <ICON BETA>+	415	162	11	pl021_0210
+1	Body	466	Cotta solargenti <ICON ALPHA>+	416	164	11	pl033_0200
+1	Body	467	Cotta solargenti <ICON BETA>+	417	164	11	pl033_0210
+1	Body	468	Stile torace Jyura	418	0	4	pl011_0000
+1	Body	469	Stile torace Kadachi	419	0	4	pl013_0000
+1	Body	470	Cotta di Zinogre <ICON ALPHA>+	420	158	10	pl107_0000
+1	Body	471	Cotta di Zinogre <ICON BETA>+	421	158	10	pl107_0010
+1	Body	472	Cotta stigea <ICON ALPHA>+	422	160	10	pl107_0100
+1	Body	473	Cotta stigea <ICON BETA>+	423	160	10	pl107_0110
+1	Body	474	Cotta di Garuga <ICON ALPHA>+	424	154	10	pl108_0000
+1	Body	475	Cotta di Garuga <ICON BETA>+	425	154	10	pl108_0010
+1	Body	476	Cotta di Zorah <ICON ALPHA>+	426	160	11	pl038_0000
+1	Body	477	Cotta di Zorah <ICON BETA>+	427	160	11	pl038_0010
+1	Body	478	Haori d'oro <ICON ALPHA>+	428	158	10	pl109_0000
+1	Body	479	Haori d'oro <ICON BETA>+	429	158	10	pl109_0010
+1	Body	480	Veste furiosa <ICON ALPHA>+	430	170	11	pl109_0500
+1	Body	481	Veste furiosa <ICON BETA>+	431	170	11	pl109_0510
+1	Body	482	Cotta rabbiosa <ICON ALPHA>+	432	170	11	pl082_0500
+1	Body	483	Cotta rabbiosa <ICON BETA>+	433	170	11	pl082_0510
+1	Body	484	Torace ornato Safi <ICON ALPHA>+	434	168	11	pl087_0000
+1	Body	485	Torace ornato Safi <ICON BETA>+	435	168	11	pl087_0010
+1	Body	486	Unavailable	436	0	0	None
+1	Body	487	Unavailable	437	0	0	None
+1	Body	492	Cotta dell'imperatrice <ICON ALPHA>+	442	164	11	pl051_0001
+1	Body	493	Cotta dell'imperatrice <ICON BETA>+	443	164	11	pl051_0011
+1	Body	494	Ira di Kulve Taroth <ICON ALPHA>+	444	176	11	pl049_0001
+1	Body	495	Ira di Kulve Taroth <ICON BETA>+	445	176	11	pl049_0011
+1	Body	496	Pettino della rosa<ICON ALPHA>+	446	150	9	pl124_0000
+1	Body	497	Stile torace Lumu	447	0	4	pl024_0000
+1	Body	498	Unavailable	448	0	0	None
+1	Body	499	Stile torace Rathian <ICON ALPHA>	449	0	4	pl021_0000
+1	Body	500	Unavailable	450	0	0	None
+1	Body	501	Stile torace Rathian <ICON BETA>	451	0	4	pl021_0010
+1	Body	502	Abito Oolong <ICON ALPHA>+	452	120	8	pl127_0000
+1	Body	503	Stile torace Radobaan <ICON ALPHA>	453	0	5	pl028_0000
+1	Body	504	Abito astrale <ICON ALPHA>+	454	140	8	pl128_0000
+1	Body	505	Stile torace Radobaan <ICON BETA>	455	0	5	pl028_0010
+1	Body	506	Stile torace della rosa	456	0	9	pl124_0000
+1	Body	507	Unavailable	457	0	0	None
+1	Body	508	Unavailable	458	0	0	None
+1	Body	509	Stile torace Oolong	459	0	8	pl127_0000
+1	Body	510	Stile torace astrale	460	0	8	pl128_0000
+1	Body	511	Stile torace in ipermetallo	461	0	5	pl025_0000
+1	Body	512	Stile torace termale	462	0	8	pl106_0000
+1	Body	517	Pettorali palestrati <ICON ALPHA>+	467	154	10	pl115_0000
+1	Body	518	Cotta brutale <ICON ALPHA>+	468	158	10	pl083_0100
+1	Body	519	Cotta brutale <ICON BETA>+	469	158	10	pl083_0110
+1	Body	520	Corazza del guardiano <ICON ALPHA>+	470	50	5	pl121_0000
+1	Body	521	Stile torace di Yukumo	471	0	6	pl122_0000
+1	Body	522	Stile torace cavaliere d’argento	472	0	6	pl123_0000
+1	Body	523	HARDUMMY	473	132	11	pl068_0010
+1	Body	524	Mantello di Namielle <ICON GAMMA>+	474	176	11	pl086_0020
+1	Body	525	HARDUMMY	475	0	7	pl072_0000
+1	Body	526	HARDUMMY	476	170	11	pl072_0001
+1	Body	527	Unavailable	477	0	0	None
+1	Body	528	Unavailable	478	0	0	None
+1	Body	529	Unavailable	479	0	0	None
+1	Body	530	Unavailable	480	0	0	None
+1	Body	531	Unavailable	481	0	0	None
+1	Body	532	HARDUMMY	482	160	11	pl068_0020
+1	Body	533	Unavailable	483	0	0	None
+1	Body	534	Torace di Leon <ICON ALPHA>+	484	150	11	pl130_0000
+1	Body	535	Torace di Claire <ICON ALPHA>+	485	150	11	pl131_0000
+1	Body	536	Unavailable	486	0	0	None
+1	Body	537	Unavailable	487	0	0	None
+1	Body	539	Stile torace Barnos	489	0	4	pl016_0000
+1	Body	540	Stile torace Dodogama	490	0	4	pl039_0000
+1	Body	541	Stile torace del lingotto	491	0	5	pl031_0000
+1	Body	542	Stile torace cuore di Rath <ICON ALPHA>	492	0	5	pl021_0100
+1	Body	543	Stile torace cuore di Rath <ICON BETA>	493	0	5	pl021_0110
+1	Body	544	Stile torace Lavasioth <ICON ALPHA>	494	0	5	pl040_0000
+1	Body	545	Stile torace Lavasioth <ICON BETA>	495	0	5	pl040_0010
+1	Body	546	Stile torace Legiana <ICON ALPHA>	496	0	5	pl027_0000
+1	Body	547	Stile torace Legiana <ICON BETA>	497	0	5	pl027_0010
+1	Body	548	Stile torace Odogaron <ICON ALPHA>	498	0	5	pl029_0000
+1	Body	549	Stile torace Odogaron <ICON BETA>	499	0	5	pl029_0010
+1	Body	550	Stile torace Rathalos <ICON ALPHA>	500	0	5	pl033_0000
+1	Body	551	Stile torace Rathalos <ICON BETA>	501	0	5	pl033_0010
+1	Body	552	Stile torace Anima di Rath <ICON ALPHA>	502	0	6	pl033_0100
+1	Body	553	Stile torace Anima di Rath <ICON BETA>	503	0	6	pl033_0110
+1	Body	554	Stile torace Diablos <ICON ALPHA>	504	0	5	pl034_0000
+1	Body	555	Stile torace Diablos <ICON BETA>	505	0	5	pl034_0010
+1	Body	556	Stile torace Diablos nera <ICON ALPHA>	506	0	6	pl034_0100
+1	Body	557	Stile torace Diablos nera <ICON BETA>	507	0	6	pl034_0110
+1	Body	558	Stile torace Uragaan <ICON ALPHA>	508	0	6	pl041_0000
+1	Body	559	Stile torace Uragaan <ICON BETA>	509	0	6	pl041_0010
+1	Body	560	Stile torace Bazel <ICON ALPHA>	510	0	6	pl042_0000
+1	Body	561	Stile torace Bazel <ICON BETA>	511	0	6	pl042_0010
+1	Body	562	Stile torace Deviljho <ICON ALPHA>	512	0	6	pl050_0000
+1	Body	563	Stile torace Deviljho <ICON BETA>	513	0	6	pl050_0010
+1	Body	564	Stile torace Dober <ICON ALPHA>	514	0	6	pl044_0000
+1	Body	565	Stile torace Dober <ICON BETA>	515	0	6	pl044_0000
+1	Body	566	Stile torace Damasco <ICON ALPHA>	516	0	6	pl043_0000
+1	Body	567	Stile torace Damasco <ICON BETA>	517	0	6	pl043_0010
+1	Body	568	Stile torace Zorah <ICON ALPHA>	518	0	7	pl038_0000
+1	Body	569	Stile torace Zorah <ICON BETA>	519	0	7	pl038_0010
+1	Body	570	Stile torace Zorah <ICON GAMMA>	520	0	7	pl038_0020
+1	Body	571	Stile torace Nergigante <ICON ALPHA>	521	0	7	pl030_0000
+1	Body	572	Stile torace Nergigante <ICON BETA>	522	0	7	pl030_0010
+1	Body	573	Stile torace Nergigante <ICON GAMMA>	523	0	7	pl030_0020
+1	Body	574	Stile torace Kaiser <ICON ALPHA>	524	0	7	pl046_0000
+1	Body	575	Stile torace Kaiser <ICON BETA>	525	0	7	pl046_0010
+1	Body	576	Stile torace Kaiser <ICON GAMMA>	526	0	7	pl046_0020
+1	Body	577	Stile torace Kushala <ICON ALPHA>	527	0	7	pl047_0000
+1	Body	578	Stile torace Kushala <ICON BETA>	528	0	7	pl047_0010
+1	Body	579	Stile torace Kushala <ICON GAMMA>	529	0	7	pl047_0020
+1	Body	580	Stile torace Vaal <ICON ALPHA>	530	0	7	pl032_0000
+1	Body	581	Stile torace Vaal <ICON BETA>	531	0	7	pl032_0010
+1	Body	582	Stile torace Vaal <ICON GAMMA>	532	0	7	pl032_0020
+1	Body	583	Stile torace Kirin <ICON ALPHA>	533	0	7	pl035_0000
+1	Body	584	Stile torace Kirin <ICON BETA>	534	0	7	pl035_0010
+1	Body	585	Stile torace Kirin <ICON GAMMA>	535	0	7	pl035_0020
+1	Body	586	Stile torace Xeno <ICON ALPHA>	536	0	7	pl045_0000
+1	Body	587	Stile torace Xeno <ICON BETA>	537	0	7	pl045_0010
+1	Body	588	Stile torace Xeno <ICON GAMMA>	538	0	7	pl045_0020
+1	Body	589	Stile torace Imperatrice <ICON ALPHA>	539	0	7	pl051_0000
+1	Body	590	Stile torace Imperatrice <ICON BETA>	540	0	7	pl051_0010
+1	Body	591	Stile torace Imperatrice <ICON GAMMA>	541	0	7	pl051_0020
+1	Body	592	Stile torace Kulve <ICON ALPHA>	542	0	7	pl049_0000
+1	Body	593	Stile torace Kulve <ICON BETA>	543	0	7	pl049_0010
+1	Body	594	Stile torace Kulve <ICON GAMMA>	544	0	7	pl049_0020
+1	Body	595	Unavailable	546	0	0	None
+1	Body	596	Unavailable	547	0	0	None
+1	Body	598	Unavailable	549	0	0	None
+1	Body	599	Unavailable	550	0	0	None
+1	Body	600	Unavailable	551	0	0	None
+1	Body	601	Unavailable	552	0	0	None
+1	Body	602	Unavailable	553	0	0	None
+1	Body	603	Unavailable	554	0	0	None
+1	Body	604	Unavailable	555	0	0	None
+1	Body	605	Unavailable	556	0	0	None
+1	Body	606	Unavailable	557	0	0	None
+1	Body	607	Unavailable	558	0	0	None
+1	Body	608	Unavailable	559	0	0	None
+1	Body	609	Unavailable	560	0	0	None
+1	Body	610	Unavailable	561	0	0	None
+1	Body	611	Unavailable	562	0	0	None
+1	Body	612	Unavailable	563	0	0	None
+1	Body	613	Unavailable	564	0	0	None
+1	Body	614	Unavailable	565	0	0	None
+1	Body	615	Unavailable	566	0	0	None
+1	Body	616	Unavailable	567	0	0	None
+1	Body	617	Unavailable	568	0	0	None
+1	Body	618	Unavailable	569	0	0	None
+1	Body	619	Unavailable	570	0	0	None
+1	Body	620	Unavailable	571	0	0	None
+1	Body	621	Unavailable	572	0	0	None
+1	Body	622	Unavailable	573	0	0	None
+1	Body	623	Unavailable	574	0	0	None
+1	Body	624	Stile torace Artian	575	0	9	pl091_0000
+1	Body	625	Unavailable	674	0	0	None
+1	Body	626	Unavailable	576	0	0	None
+1	Body	627	Unavailable	577	0	0	None
+1	Body	628	Unavailable	578	0	0	None
+1	Body	629	Unavailable	579	0	0	None
+1	Body	630	Unavailable	580	0	0	None
+1	Body	631	Unavailable	581	0	0	None
+1	Body	632	Unavailable	582	0	0	None
+1	Body	633	Unavailable	583	0	0	None
+1	Body	634	Unavailable	584	0	0	None
+1	Body	635	Unavailable	585	0	0	None
+1	Body	636	Unavailable	586	0	0	None
+1	Body	637	Unavailable	587	0	0	None
+1	Body	638	Unavailable	588	0	0	None
+1	Body	639	Unavailable	589	0	0	None
+1	Body	640	Unavailable	590	0	0	None
+1	Body	641	Unavailable	591	0	0	None
+1	Body	642	Unavailable	592	0	0	None
+1	Body	643	Unavailable	593	0	0	None
+1	Body	644	Unavailable	594	0	0	None
+1	Body	645	Unavailable	595	0	0	None
+1	Body	646	Unavailable	596	0	0	None
+1	Body	647	Unavailable	597	0	0	None
+1	Body	648	Unavailable	598	0	0	None
+1	Body	649	Unavailable	599	0	0	None
+1	Body	650	Unavailable	600	0	0	None
+1	Body	651	Unavailable	601	0	0	None
+1	Body	652	Unavailable	602	0	0	None
+1	Body	653	Unavailable	603	0	0	None
+1	Body	654	Unavailable	604	0	0	None
+1	Body	655	Unavailable	605	0	0	None
+1	Body	656	Unavailable	606	0	0	None
+1	Body	657	Unavailable	607	0	0	None
+1	Body	658	Stile torace cintura nera	608	0	10	pl093_0000
+1	Body	659	Unavailable	609	0	0	None
+1	Body	660	Unavailable	610	0	0	None
+1	Body	661	Unavailable	611	0	0	None
+1	Body	662	Unavailable	612	0	0	None
+1	Body	663	Unavailable	613	0	0	None
+1	Body	664	Unavailable	614	0	0	None
+1	Body	665	Unavailable	615	0	0	None
+1	Body	666	Unavailable	616	0	0	None
+1	Body	667	Unavailable	617	0	0	None
+1	Body	668	Unavailable	618	0	0	None
+1	Body	669	Unavailable	619	0	0	None
+1	Body	670	Unavailable	620	0	0	None
+1	Body	671	Unavailable	621	0	0	None
+1	Body	672	Unavailable	622	0	0	None
+1	Body	673	Unavailable	623	0	0	None
+1	Body	674	Unavailable	624	0	0	None
+1	Body	675	Unavailable	625	0	0	None
+1	Body	678	Unavailable	628	0	0	None
+1	Body	679	Unavailable	629	0	0	None
+1	Body	680	Unavailable	630	0	0	None
+1	Body	681	Unavailable	631	0	0	None
+1	Body	682	Unavailable	632	0	0	None
+1	Body	683	Unavailable	633	0	0	None
+1	Body	684	Unavailable	634	0	0	None
+1	Body	685	Unavailable	635	0	0	None
+1	Body	686	Unavailable	636	0	0	None
+1	Body	687	Unavailable	637	0	0	None
+1	Body	688	Unavailable	638	0	0	None
+1	Body	689	Unavailable	639	0	0	None
+1	Body	690	Unavailable	640	0	0	None
+1	Body	691	Unavailable	641	0	0	None
+1	Body	692	Unavailable	642	0	0	None
+1	Body	693	Unavailable	643	0	0	None
+1	Body	694	Unavailable	644	0	0	None
+1	Body	695	Unavailable	645	0	0	None
+1	Body	696	Unavailable	646	0	0	None
+1	Body	697	Unavailable	647	0	0	None
+1	Body	698	Unavailable	648	0	0	None
+1	Body	699	Unavailable	649	0	0	None
+1	Body	700	Unavailable	650	0	0	None
+1	Body	701	Unavailable	651	0	0	None
+1	Body	702	Unavailable	652	0	0	None
+1	Body	703	Unavailable	653	0	0	None
+1	Body	704	Unavailable	654	0	0	None
+1	Body	705	Unavailable	655	0	0	None
+1	Body	706	Unavailable	656	0	0	None
+1	Body	707	Unavailable	657	0	0	None
+1	Body	708	Unavailable	658	0	0	None
+1	Body	709	Unavailable	659	0	0	None
+1	Body	710	Unavailable	660	0	0	None
+1	Body	715	Unavailable	665	0	0	None
+1	Body	716	Unavailable	666	0	0	None
+1	Body	717	Unavailable	667	0	0	None
+1	Body	718	Unavailable	668	0	0	None
+1	Body	719	Unavailable	669	0	0	None
+1	Body	720	Unavailable	670	0	0	None
+1	Body	721	Unavailable	671	0	0	None
+1	Body	722	Unavailable	672	0	0	None
+1	Body	723	Unavailable	673	0	0	None
+1	Body	724	Unavailable	675	0	0	None
+1	Body	725	Unavailable	0	0	0	None
+1	Body	726	Unavailable	0	0	0	None
+1	Body	727	Unavailable	0	0	0	None
+1	Body	728	Unavailable	0	0	0	None
+1	Body	729	Unavailable	0	0	0	None
+1	Body	730	Unavailable	0	0	0	None
+1	Body	731	Unavailable	0	0	0	None
+1	Body	732	Unavailable	0	0	0	None
+1	Body	733	Unavailable	0	0	0	None
+1	Body	734	Unavailable	0	0	0	None
+1	Body	735	Unavailable	0	0	0	None
+1	Body	736	Unavailable	0	0	0	None
+1	Body	737	Unavailable	0	0	0	None
+1	Body	738	Unavailable	0	0	0	None
+1	Body	739	Unavailable	0	0	0	None
+1	Body	740	Unavailable	0	0	0	None
+1	Body	741	Unavailable	0	0	0	None
+1	Body	742	Unavailable	0	0	0	None
+1	Body	743	Unavailable	0	0	0	None
+1	Body	744	Unavailable	0	0	0	None
+1	Body	745	Unavailable	0	0	0	None
+1	Body	746	Unavailable	0	0	0	None
+1	Body	747	Unavailable	0	0	0	None
+1	Body	748	Unavailable	0	0	0	None
+1	Body	749	Unavailable	0	0	0	None
+1	Body	750	Unavailable	0	0	0	None
+2	Arm	2	Guanti di cuoio	1	2	0	pl001_0000
+2	Arm	15	Guanti di maglia	15	2	0	pl014_0000
+2	Arm	1	Parabraccia del cacciatore	2	6	0	pl002_0000
+2	Arm	5	Parabraccia d'osso	5	6	0	pl003_0000
+2	Arm	6	Parabraccia in lega	6	8	1	pl004_0000
+2	Arm	9	Parabraccia di Vespoid	9	8	0	pl007_0000
+2	Arm	164	Protezioni di Kestodon	7	12	0	pl005_0000
+2	Arm	4	Parabraccia di Jagras	4	8	0	pl008_0000
+2	Arm	10	Parabraccia di Kulu	10	10	0	pl009_0000
+2	Arm	11	Parabraccia di Pukei	11	12	1	pl010_0000
+2	Arm	13	Parabraccia di Barroth	13	14	1	pl012_0000
+2	Arm	12	Parabraccia di Jyura	12	14	1	pl011_0000
+2	Arm	14	Parabraccia di Kadachi	14	16	1	pl013_0000
+2	Arm	25	Parabraccia in ipermetallo	24	18	2	pl025_0000
+2	Arm	18	Parabraccia di Hornetaur	17	18	2	pl017_0000
+2	Arm	3	Parabraccia di Anja	3	20	2	pl020_0000
+2	Arm	21	Parabraccia di Rathian	20	22	2	pl021_0000
+2	Arm	23	Parabraccia di Tzitzi	22	18	2	pl023_0000
+2	Arm	24	Parabraccia di Lumu	23	20	2	pl024_0000
+2	Arm	22	Parabraccia di Girros	21	20	2	pl022_0000
+2	Arm	28	Parabraccia di Baan	27	24	2	pl028_0000
+2	Arm	20	Brachia dello scarabeo	19	22	2	pl019_0000 (Male Only)
+2	Arm	159	Brachia di farfalla	164	22	2	pl019_0000 (Female Only)
+2	Arm	31	Parabraccia del lingotto	30	28	3	pl031_0000
+2	Arm	27	Parabraccia di Legiana	26	30	3	pl027_0000
+2	Arm	29	Parabraccia di Odogaron	28	30	3	pl029_0000
+2	Arm	33	Parabraccia di Rathalos	32	30	3	pl033_0000
+2	Arm	34	Parabraccia di Diablos	33	32	3	pl034_0000
+2	Arm	35	Copribraccia di Kirin	34	34	3	pl035_0000
+2	Arm	26	Mani putrefatte	25	32	3	pl026_0000
+2	Arm	36	Parabraccia di brigata	35	28	3	pl036_0000
+2	Arm	39	Guanti di cuoio <ICON ALPHA>	37	32	4	pl001_0000
+2	Arm	40	Guanti di cuoio <ICON BETA>	38	32	4	pl001_0000
+2	Arm	147	Guanti di maglia <ICON ALPHA>	39	32	4	pl014_0000
+2	Arm	148	Guanti di maglia <ICON BETA>	40	32	4	pl014_0000
+2	Arm	41	Parabraccia del cacciatore <ICON ALPHA>	41	36	4	pl002_0000
+2	Arm	42	Parabraccia del cacciatore <ICON BETA>	42	36	4	pl002_0010
+2	Arm	43	Parabraccia d'osso <ICON ALPHA>	43	36	4	pl003_0000
+2	Arm	44	Parabraccia d'osso <ICON BETA>	44	36	4	pl003_0000
+2	Arm	45	Parabraccia in lega <ICON ALPHA>	45	36	4	pl004_0000
+2	Arm	46	Parabraccia in lega <ICON BETA>	46	36	4	pl004_0000
+2	Arm	51	Parabraccia di Vespoid <ICON ALPHA>	51	38	4	pl007_0000
+2	Arm	52	Parabraccia di Vespoid <ICON BETA>	52	38	4	pl007_0000
+2	Arm	57	Parabraccia di Hornetaur <ICON ALPHA>	57	38	4	pl017_0000
+2	Arm	58	Parabraccia di Hornetaur <ICON BETA>	58	38	4	pl017_0000
+2	Arm	165	Protezioni di Kestodon <ICON ALPHA>	49	40	4	pl005_0000
+2	Arm	166	Protezioni di Kestodon <ICON BETA>	50	40	4	pl005_0000
+2	Arm	61	Parabraccia di Jagras <ICON ALPHA>	61	40	4	pl008_0000
+2	Arm	62	Parabraccia di Jagras <ICON BETA>	62	40	4	pl008_0000
+2	Arm	63	Parabraccia di Kulu <ICON ALPHA>	63	40	4	pl009_0000
+2	Arm	64	Parabraccia di Kulu <ICON BETA>	64	40	4	pl009_0000
+2	Arm	65	Parabraccia di Pukei <ICON ALPHA>	65	42	4	pl010_0000
+2	Arm	66	Parabraccia di Pukei <ICON BETA>	66	42	4	pl010_0010
+2	Arm	69	Parabraccia di Barroth <ICON ALPHA>	69	42	4	pl012_0000
+2	Arm	70	Parabraccia di Barroth <ICON BETA>	70	42	4	pl012_0000
+2	Arm	67	Parabraccia di Jyura <ICON ALPHA>	67	44	4	pl011_0000
+2	Arm	68	Parabraccia di Jyura <ICON BETA>	68	44	4	pl011_0000
+2	Arm	71	Parabraccia di Kadachi <ICON ALPHA>	71	44	4	pl013_0000
+2	Arm	72	Parabraccia di Kadachi <ICON BETA>	72	44	4	pl013_0000
+2	Arm	93	Parabraccia di Anja <ICON ALPHA>	93	44	4	pl020_0000
+2	Arm	94	Parabraccia di Anja <ICON BETA>	94	44	4	pl020_0010
+2	Arm	73	Parabraccia di Rathian <ICON ALPHA>	73	46	4	pl021_0000
+2	Arm	74	Parabraccia di Rathian <ICON BETA>	74	46	4	pl021_0010
+2	Arm	77	Parabraccia di Tzitzi <ICON ALPHA>	77	40	4	pl023_0000
+2	Arm	78	Parabraccia di Tzitzi <ICON BETA>	78	40	4	pl023_0000
+2	Arm	79	Parabraccia di Lumu <ICON ALPHA>	79	44	4	pl024_0000
+2	Arm	80	Parabraccia di Lumu <ICON BETA>	80	44	4	pl024_0000
+2	Arm	75	Parabraccia di Girros <ICON ALPHA>	75	40	4	pl022_0000
+2	Arm	76	Parabraccia di Girros <ICON BETA>	76	40	4	pl022_0000
+2	Arm	97	Parabraccia di Baan <ICON ALPHA>	97	46	5	pl028_0000
+2	Arm	98	Parabraccia di Baan <ICON BETA>	98	46	5	pl028_0010
+2	Arm	89	Parabraccia in ipermetallo <ICON ALPHA>	89	50	5	pl025_0000
+2	Arm	90	Parabraccia in ipermetallo <ICON BETA>	90	50	5	pl025_0000
+2	Arm	91	Parabraccia del lingotto <ICON ALPHA>	91	50	5	pl031_0000
+2	Arm	92	Parabraccia del lingotto <ICON BETA>	92	50	5	pl031_0000
+2	Arm	87	Parabraccia cuore di Rath <ICON ALPHA>	87	52	5	pl021_0100
+2	Arm	88	Parabraccia cuore di Rath <ICON BETA>	88	52	5	pl021_0110
+2	Arm	95	Parabraccia di Legiana <ICON ALPHA>	95	54	5	pl027_0000
+2	Arm	96	Parabraccia di Legiana <ICON BETA>	96	54	5	pl027_0010
+2	Arm	81	Parabraccia di Odogaron <ICON ALPHA>	81	54	5	pl029_0000
+2	Arm	82	Parabraccia di Odogaron <ICON BETA>	82	54	5	pl029_0010
+2	Arm	101	Parabraccia di Rathalos <ICON ALPHA>	101	54	5	pl033_0000
+2	Arm	102	Parabraccia di Rathalos <ICON BETA>	102	54	5	pl033_0010
+2	Arm	111	Parabraccia anima di Rath <ICON ALPHA>	111	56	6	pl033_0100
+2	Arm	112	Parabraccia anima di Rath <ICON BETA>	112	56	6	pl033_0110
+2	Arm	103	Parabraccia di Diablos <ICON ALPHA>	103	54	5	pl034_0000
+2	Arm	104	Parabraccia di Diablos <ICON BETA>	104	54	5	pl034_0010
+2	Arm	113	Parabraccia di Diablos nera <ICON ALPHA>	113	56	6	pl034_0100
+2	Arm	114	Parabraccia di Diablos nera <ICON BETA>	114	56	6	pl034_0110
+2	Arm	83	Parabraccia di Dodogama <ICON ALPHA>	83	48	4	pl039_0000
+2	Arm	84	Parabraccia di Dodogama <ICON BETA>	84	48	4	pl039_0000
+2	Arm	85	Parabraccia di Lavasioth <ICON ALPHA>	85	56	5	pl040_0000
+2	Arm	86	Parabraccia di Lavasioth <ICON BETA>	86	56	5	pl040_0010
+2	Arm	109	Parabraccia di Uragaan <ICON ALPHA>	109	60	6	pl041_0000
+2	Arm	110	Parabraccia di Uragaan <ICON BETA>	110	60	6	pl041_0010
+2	Arm	107	Parabraccia di Nergigante <ICON ALPHA>	107	64	7	pl030_0000
+2	Arm	108	Parabraccia di Nergigante <ICON BETA>	108	64	7	pl030_0010
+2	Arm	117	Brachia dello scarabeo <ICON ALPHA>	117	42	4	pl019_0000 (Male Only)
+2	Arm	118	Brachia dello scarabeo <ICON BETA>	118	42	4	pl019_0000 (Male Only)
+2	Arm	160	Brachia di farfalla <ICON ALPHA>	165	42	4	pl019_0000 (Female Only)
+2	Arm	161	Brachia di farfalla <ICON BETA>	166	42	4	pl019_0000 (Female Only)
+2	Arm	119	Parabraccia di brigata <ICON ALPHA>	119	52	5	pl036_0000
+2	Arm	120	Parabraccia di brigata <ICON BETA>	120	52	5	pl036_0000
+2	Arm	121	Parabraccia di Damasco <ICON ALPHA>	121	60	6	pl043_0000
+2	Arm	122	Parabraccia di Damasco <ICON BETA>	122	60	6	pl043_0010
+2	Arm	123	Parabraccia di Dober <ICON ALPHA>	123	60	6	pl044_0000
+2	Arm	124	Parabraccia di Dober <ICON BETA>	124	60	6	pl044_0000
+2	Arm	129	Mani di Kushala <ICON ALPHA>	129	64	7	pl047_0000
+2	Arm	130	Mani di Kushala <ICON BETA>	130	64	7	pl047_0010
+2	Arm	127	Parabraccia del Kaiser <ICON ALPHA>	127	64	7	pl046_0000
+2	Arm	128	Parabraccia del Kaiser <ICON BETA>	128	64	7	pl046_0010
+2	Arm	105	Copribraccia di Kirin <ICON ALPHA>	105	64	7	pl035_0000
+2	Arm	106	Copribraccia di Kirin <ICON BETA>	106	64	7	pl035_0010
+2	Arm	99	Parabraccia di Vaal Hazak <ICON ALPHA>	99	64	7	pl032_0000
+2	Arm	100	Parabraccia di Vaal Hazak <ICON BETA>	100	64	7	pl032_0010
+2	Arm	115	Parabraccia di Bazel <ICON ALPHA>	115	58	6	pl042_0000
+2	Arm	116	Parabraccia di Bazel <ICON BETA>	116	58	6	pl042_0010
+2	Arm	131	Mani putrefatte <ICON ALPHA>	133	62	6	pl026_0000
+2	Arm	132	Mani putrefatte <ICON BETA>	134	62	6	pl026_0000
+2	Arm	133	Parabraccia della Gilda <ICON ALPHA>	135	62	7	pl048_0000
+2	Arm	134	Parabraccia della Gilda <ICON BETA>	136	62	7	pl048_0000
+2	Arm	125	Artigli di Xeno'jiiva <ICON ALPHA>	125	72	7	pl045_0000
+2	Arm	126	Artigli di Xeno'jiiva <ICON BETA>	126	72	7	pl045_0010
+2	Arm	135	Unavailable	137	2	0	pl001_0000
+2	Arm	136	Unavailable	138	2	0	pl001_0000
+2	Arm	137	Artigli di Zorah <ICON ALPHA>	139	44	5	pl038_0000
+2	Arm	138	Artigli di Zorah <ICON BETA>	140	44	5	pl038_0010
+2	Arm	149	Parabraccia della commissione <ICON ALPHA>	141	70	7	pl053_0000
+2	Arm	150	Parabraccia della commissione <ICON BETA>	142	70	7	pl053_0000
+2	Arm	162	Stile braccia brigata	145	0	6	pl036_0000
+2	Arm	163	Stile braccia Gilda	146	0	6	pl048_0000
+2	Arm	151	Stile braccia floreale	147	0	3	pl074_0000
+2	Arm	152	Stile braccia sommozzatore	148	0	3	pl075_0000
+2	Arm	145	Stile braccia raccolto	149	0	3	pl076_0000
+2	Arm	146	Stile braccia di Orione	150	0	3	pl077_0000
+2	Arm	153	Stile braccia gran galà	153	0	3	pl078_0000
+2	Arm	299	HARDUMMY	154	0	7	pl068_0000
+2	Arm	291	HARDUMMY	155	0	7	pl069_0000
+2	Arm	292	HARDUMMY	156	0	7	pl070_0000
+2	Arm	141	Unavailable	177	2	0	pl001_0000
+2	Arm	142	Unavailable	179	2	0	pl001_0000
+2	Arm	143	Unavailable	180	2	0	pl001_0000
+2	Arm	144	Unavailable	181	2	0	pl001_0000
+2	Arm	297	Stile braccia Bayek	159	0	7	pl120_0000
+2	Arm	158	Unavailable	160	2	0	pl001_0000
+2	Arm	168	Unavailable	170	2	0	pl001_0000
+2	Arm	169	Unavailable	171	2	0	pl001_0000
+2	Arm	167	Parabraccia delle origini	169	6	0	pl018_0000
+2	Arm	190	Unavailable	182	2	0	pl001_0000
+2	Arm	191	Rabbia di Kulve Taroth <ICON ALPHA>	183	72	7	pl049_0000
+2	Arm	192	Rabbia di Kulve Taroth <ICON BETA>	184	72	7	pl049_0010
+2	Arm	193	Guanti floreali	185	18	2	pl074_0000
+2	Arm	194	Guanti da sommozzatore	186	22	2	pl075_0000
+2	Arm	195	Trama del raccolto	187	26	2	pl076_0000
+2	Arm	196	Parabraccia di Orione	188	30	3	pl077_0000
+2	Arm	197	Polsini gran galà	189	34	3	pl078_0000
+2	Arm	200	Braccia del Samurai	190	0	3	pl067_0000
+2	Arm	201	Parabraccia Vangis <ICON ALPHA>	191	58	6	pl050_0000
+2	Arm	202	Parabraccia Vangis <ICON BETA>	192	58	6	pl050_0010
+2	Arm	203	Unavailable	193	2	0	pl001_0000
+2	Arm	204	"Kote Bushi ""Sabi"""	194	0	6	pl066_0000
+2	Arm	205	"Kote Bushi ""Homare"""	195	0	6	pl066_0010
+2	Arm	206	Parabraccia drachen <ICON ALPHA>	196	72	7	pl073_0000
+2	Arm	207	Guanti floreali <ICON ALPHA>	197	40	4	pl074_0000
+2	Arm	208	Guanti da sommozzatore <ICON ALPHA>	198	46	4	pl075_0000
+2	Arm	209	Trama del raccolto <ICON ALPHA>	199	52	5	pl076_0000
+2	Arm	210	Parabraccia di Orione <ICON ALPHA>	200	58	5	pl077_0000
+2	Arm	211	Polsini gran galà <ICON ALPHA>	201	64	6	pl078_0000
+2	Arm	212	Brachia di farfalla	202	22	2	pl057_0000 (Male Only)
+2	Arm	213	Brachia di farfalla <ICON ALPHA>	203	42	4	pl057_0000 (Male Only)
+2	Arm	214	Brachia di farfalla <ICON BETA>	204	42	4	pl057_0010 (Male Only)
+2	Arm	215	Brachia dello scarabeo	205	22	2	pl057_0000 (Female Only)
+2	Arm	216	Brachia dello scarabeo <ICON ALPHA>	206	42	4	pl057_0000 (Female Only)
+2	Arm	217	Brachia dello scarabeo <ICON BETA>	207	42	4	pl057_0000 (Female Only)
+2	Arm	218	Parabraccia di Vaal Hazak <ICON GAMMA>	208	72	7	pl032_0020
+2	Arm	219	Copribraccia di Kirin <ICON GAMMA>	209	72	7	pl035_0020
+2	Arm	220	Parabraccia del Kaiser <ICON GAMMA>	210	72	7	pl046_0020
+2	Arm	221	Mani di Kushala <ICON GAMMA>	211	72	7	pl047_0020
+2	Arm	222	Parabraccia di Nergigante <ICON GAMMA>	212	72	7	pl030_0020
+2	Arm	223	Artigli di Zorah <ICON GAMMA>	213	72	7	pl038_0020
+2	Arm	224	Artigli di Xeno'jiiva <ICON GAMMA>	214	72	7	pl045_0020
+2	Arm	225	HARDUMMY	215	46	4	pl068_0000
+2	Arm	226	HARDUMMY	216	12	1	pl069_0000
+2	Arm	227	HARDUMMY	217	60	6	pl069_0000
+2	Arm	228	HARDUMMY	218	50	5	pl070_0000
+2	Arm	229	Guanti sommo celeste <ICON ALPHA>	219	56	6	pl072_0000
+2	Arm	230	Guanti di Dante <ICON ALPHA>	220	64	7	pl071_0000
+2	Arm	231	Parabraccia dell'imperatrice <ICON ALPHA>	221	70	7	pl051_0000
+2	Arm	232	Parabraccia dell'imperatrice <ICON BETA>	222	70	7	pl051_0010
+2	Arm	233	Stile braccia farfalla	227	0	6	pl117_0000
+2	Arm	234	Stile braccia putrefatto	228	0	6	pl026_0000
+2	Arm	235	Stile braccia Dante	230	0	7	pl071_0000
+2	Arm	236	Stile braccia drachen	231	0	7	pl073_0000
+2	Arm	237	Stile braccia della commissione	234	0	6	pl053_0000
+2	Arm	238	Stile braccia delle origini	237	0	6	pl018_0000
+2	Arm	239	Stile braccia scarabeo	238	0	6	pl116_0000
+2	Arm	240	Invalid Message	239	2	0	pl001_0000
+2	Arm	298	HARDUMMY	242	64	7	pl068_0000
+2	Arm	242	Parabraccia dell'imperatrice <ICON GAMMA>	243	70	7	pl051_0020
+2	Arm	293	Braccia di Geralt <ICON ALPHA>	244	70	7	pl118_0000
+2	Arm	294	Braccia di Ciri <ICON ALPHA>	245	70	7	pl119_0000
+2	Arm	295	Stile braccia di Geralt	246	0	7	pl118_0000
+2	Arm	296	Stile braccia di Ciri	247	0	7	pl119_0000
+2	Arm	247	Rabbia di Kulve Taroth <ICON GAMMA>	248	72	7	pl049_0020
+2	Arm	248	Parabraccia del difensore <ICON ALPHA>	249	50	5	pl121_0000
+2	Arm	300	Stile braccia del lupo bianco	250	0	8	pl105_0000
+2	Arm	301	Stile braccia del guardiano	545	0	5	pl121_0000
+2	Arm	302	Parabraccia d'osso <ICON ALPHA>+	252	114	8	pl003_0000
+2	Arm	303	Parabraccia d'osso <ICON BETA>+	253	114	8	pl003_0000
+2	Arm	304	Parabraccia in lega <ICON ALPHA>+	254	114	8	pl004_0000
+2	Arm	305	Parabraccia in lega <ICON BETA>+	255	114	8	pl004_0000
+2	Arm	306	Parabraccia di Vespoid <ICON ALPHA>+	256	116	8	pl007_0001
+2	Arm	307	Parabraccia di Vespoid <ICON BETA>+	257	116	8	pl007_0001
+2	Arm	308	Parabraccia di Hornetaur <ICON ALPHA>+	258	116	8	pl017_0001
+2	Arm	309	Parabraccia di Hornetaur <ICON BETA>+	259	116	8	pl017_0001
+2	Arm	310	Protezioni di Kestodon <ICON ALPHA>+	260	116	8	pl005_0000
+2	Arm	311	Protezioni di Kestodon <ICON BETA>+	261	116	8	pl005_0000
+2	Arm	324	Parabraccia di Jagras <ICON ALPHA>+	274	116	8	pl008_0001
+2	Arm	325	Parabraccia di Jagras <ICON BETA>+	275	116	8	pl008_0001
+2	Arm	326	Parabraccia di Tzitzi <ICON ALPHA>+	276	116	8	pl023_0001
+2	Arm	327	Parabraccia di Tzitzi <ICON BETA>+	277	116	8	pl023_0001
+2	Arm	328	Parabraccia di Girros <ICON ALPHA>+	278	116	8	pl022_0001
+2	Arm	329	Parabraccia di Girros <ICON BETA>+	279	116	8	pl022_0001
+2	Arm	330	Parabraccia di Dodogama <ICON ALPHA>+	280	120	8	pl039_0001
+2	Arm	331	Parabraccia di Dodogama <ICON BETA>+	281	120	8	pl039_0001
+2	Arm	332	Parabraccia di Kulu <ICON ALPHA>+	282	116	8	pl009_0001
+2	Arm	333	Parabraccia di Kulu <ICON BETA>+	283	116	8	pl009_0001
+2	Arm	334	Parabraccia di Pukei <ICON ALPHA>+	284	118	8	pl010_0001
+2	Arm	335	Parabraccia di Pukei <ICON BETA>+	285	118	8	pl010_0001
+2	Arm	336	Parabraccia di Barroth <ICON ALPHA>+	286	118	8	pl012_0001
+2	Arm	337	Parabraccia di Barroth <ICON BETA>+	287	118	8	pl012_0001
+2	Arm	338	Parabraccia di Jyura <ICON ALPHA>+	288	118	8	pl011_0001
+2	Arm	339	Parabraccia di Jyura <ICON BETA>+	289	118	8	pl011_0001
+2	Arm	340	Parabraccia di Beo <ICON ALPHA>+	290	118	8	pl110_0000
+2	Arm	341	Parabraccia di Beo <ICON BETA>+	291	118	8	pl110_0000
+2	Arm	342	Parabraccia di Kadachi <ICON ALPHA>+	292	120	8	pl013_0001
+2	Arm	343	Parabraccia di Kadachi <ICON BETA>+	293	120	8	pl013_0001
+2	Arm	344	Parabraccia in ipermetallo <ICON ALPHA>+	294	128	8	pl025_0000
+2	Arm	345	Parabraccia in ipermetallo <ICON BETA>+	295	128	8	pl025_0000
+2	Arm	346	Parabraccia di Banbaro <ICON ALPHA>+	296	130	8	pl084_0000
+2	Arm	347	Parabraccia di Banbaro <ICON BETA>+	297	130	8	pl084_0010
+2	Arm	348	Parabraccia di Anja <ICON ALPHA>+	298	132	8	pl020_0001
+2	Arm	349	Parabraccia di Anja <ICON BETA>+	299	132	8	pl020_0011
+2	Arm	350	Parabraccia di Rathian <ICON ALPHA>+	300	130	8	pl021_0001
+2	Arm	351	Parabraccia di Rathian <ICON BETA>+	301	130	8	pl021_0011
+2	Arm	352	Parabraccia cuore di Rath <ICON ALPHA>+	302	132	8	pl021_0101
+2	Arm	353	Parabraccia cuore di Rath <ICON BETA>+	303	132	8	pl021_0111
+2	Arm	354	Parabraccia di Lumu <ICON ALPHA>+	304	130	8	pl024_0001
+2	Arm	355	Parabraccia di Lumu <ICON BETA>+	305	130	8	pl024_0001
+2	Arm	356	Parabraccia onirici <ICON ALPHA>+	306	132	8	pl024_0101
+2	Arm	357	Parabraccia onirici <ICON BETA>+	307	132	8	pl024_0101
+2	Arm	358	Parabraccia corallini <ICON ALPHA>+	308	132	8	pl010_0101
+2	Arm	359	Parabraccia corallini <ICON BETA>+	309	132	8	pl010_0101
+2	Arm	360	Parabraccia di vipera <ICON ALPHA>+	310	132	8	pl013_0101
+2	Arm	361	Parabraccia di vipera <ICON BETA>+	311	132	8	pl013_0101
+2	Arm	362	Parabraccia di Baan <ICON ALPHA>+	312	134	8	pl028_0001
+2	Arm	363	Parabraccia di Baan <ICON BETA>+	313	134	8	pl028_0001
+2	Arm	364	Stile braccia di cuoio	314	0	4	pl001_0000
+2	Arm	365	Stile braccia di maglia	315	0	4	pl014_0000
+2	Arm	366	Stile braccia del cacciatore <ICON ALPHA>	316	0	4	pl002_0000
+2	Arm	367	Stile braccia del cacciatore <ICON BETA>	317	0	4	pl002_0010
+2	Arm	368	Stile braccia d'osso	318	0	4	pl003_0000
+2	Arm	369	Stile braccia in lega	319	0	4	pl004_0000
+2	Arm	370	Stile braccia Vespoid	320	0	4	pl007_0000
+2	Arm	371	Stile braccia Hornetaur	321	0	4	pl017_0000
+2	Arm	372	Stile braccia Kestodon	322	0	4	pl005_0000
+2	Arm	378	Parabraccia del lingotto <ICON ALPHA>+	328	136	9	pl031_0000
+2	Arm	379	Parabraccia del lingotto <ICON BETA>+	329	136	9	pl031_0000
+2	Arm	380	Parabraccia di Barioth <ICON ALPHA>+	330	138	9	pl089_0000
+2	Arm	381	Parabraccia di Barioth <ICON BETA>+	331	138	9	pl089_0010
+2	Arm	382	Parabraccia di Rathalos <ICON ALPHA>+	332	140	9	pl033_0001
+2	Arm	383	Parabraccia di Rathalos <ICON BETA>+	333	140	9	pl033_0011
+2	Arm	384	Parabraccia di Diablos <ICON ALPHA>+	334	140	9	pl034_0001
+2	Arm	385	Parabraccia di Diablos <ICON BETA>+	335	140	9	pl034_0011
+2	Arm	386	Parabraccia di Legiana <ICON ALPHA>+	336	140	9	pl027_0001
+2	Arm	387	Parabraccia di Legiana <ICON BETA>+	337	140	9	pl027_0011
+2	Arm	388	Parabraccia di Odogaron <ICON ALPHA>+	338	140	9	pl029_0001
+2	Arm	389	Parabraccia di Odogaron <ICON BETA>+	339	140	9	pl029_0011
+2	Arm	390	Parabraccia di Lavasioth <ICON ALPHA>+	340	140	9	pl040_0001
+2	Arm	391	Parabraccia di Lavasioth <ICON BETA>+	341	140	9	pl040_0001
+2	Arm	392	Parabraccia di Uragaan <ICON ALPHA>+	342	144	9	pl041_0001
+2	Arm	393	Parabraccia di Uragaan <ICON BETA>+	343	144	9	pl041_0001
+2	Arm	394	Parabraccia di Nargacuga <ICON ALPHA>+	344	140	9	pl080_0000
+2	Arm	395	Parabraccia di Nargacuga <ICON BETA>+	345	140	9	pl080_0010
+2	Arm	396	Parabraccia di Glavenus <ICON ALPHA>+	346	142	9	pl081_0000
+2	Arm	397	Parabraccia di Glavenus <ICON BETA>+	347	142	9	pl081_0010
+2	Arm	398	Parabraccia di Brachydios <ICON ALPHA>+	348	142	9	pl082_0000
+2	Arm	399	Parabraccia di Brachydios <ICON BETA>+	349	142	9	pl082_0010
+2	Arm	400	Parabraccia di Tigrex <ICON ALPHA>+	350	142	9	pl083_0000
+2	Arm	401	Parabraccia di Tigrex <ICON BETA>+	351	142	9	pl083_0010
+2	Arm	402	Parabraccia tonanti <ICON ALPHA>+	352	146	10	pl020_0101
+2	Arm	403	Parabraccia tonanti <ICON BETA>+	353	146	10	pl020_0111
+2	Arm	404	Stile braccia Jagras	354	0	4	pl008_0000
+2	Arm	405	Stile braccia Kulu	355	0	4	pl009_0000
+2	Arm	406	Parabraccia cintura nera <ICON ALPHA>+	356	150	10	pl093_0000
+2	Arm	407	Parabraccia cintura nera <ICON BETA>+	357	150	10	pl093_0000
+2	Arm	411	Stile braccia Tzitzi	361	0	4	pl023_0000
+2	Arm	412	Stile braccia Girros	362	0	4	pl022_0000
+2	Arm	413	Parabraccia glaciali <ICON ALPHA>+	363	146	10	pl027_0500
+2	Arm	414	Parabraccia glaciali <ICON BETA>+	364	146	10	pl027_0510
+2	Arm	415	Parabraccia anima di Rath <ICON ALPHA>+	365	148	10	pl033_0101
+2	Arm	416	Parabraccia anima di Rath <ICON BETA>+	366	148	10	pl033_0111
+2	Arm	417	Parabraccia di Diablos nera <ICON ALPHA>+	367	148	10	pl034_0101
+2	Arm	418	Parabraccia di Diablos nera <ICON BETA>+	368	148	10	pl034_0111
+2	Arm	419	Parabraccia d'ebano <ICON ALPHA>+	369	148	10	pl029_0101
+2	Arm	420	Parabraccia d'ebano <ICON BETA>+	370	148	10	pl029_0111
+2	Arm	421	Parabraccia caustici <ICON ALPHA>+	371	150	10	pl081_0100
+2	Arm	422	Parabraccia caustici <ICON BETA>+	372	150	10	pl081_0110
+2	Arm	423	Parabraccia di Artian <ICON ALPHA>+	373	142	9	pl091_0000
+2	Arm	424	Parabraccia di Artian <ICON BETA>+	374	142	9	pl091_0000
+2	Arm	426	Stile braccia Pukei <ICON ALPHA>	376	0	4	pl010_0000
+2	Arm	427	Stile braccia Pukei <ICON BETA>	377	0	4	pl010_0010
+2	Arm	428	Parabraccia di Dober <ICON ALPHA>+	378	152	10	pl044_0000
+2	Arm	429	Parabraccia di Dober <ICON BETA>+	379	152	10	pl044_0000
+2	Arm	430	Parabraccia di Damasco <ICON ALPHA>+	380	152	10	pl043_0000
+2	Arm	431	Parabraccia di Damasco <ICON BETA>+	381	152	10	pl043_0010
+2	Arm	432	Parabraccia di Velkhana <ICON ALPHA>+	382	154	11	pl085_0000
+2	Arm	433	Parabraccia di Velkhana <ICON BETA>+	383	154	11	pl085_0010
+2	Arm	434	Parabraccia vulcanici <ICON ALPHA>+	384	154	10	pl042_0500
+2	Arm	435	Parabraccia vulcanici <ICON BETA>+	385	154	10	pl042_0510
+2	Arm	436	Bracciali funerei <ICON ALPHA>+	386	156	11	pl032_0500
+2	Arm	437	Parabraccia funerei <ICON BETA>+	387	156	11	pl032_0510
+2	Arm	438	Parabraccia del Kaiser <ICON ALPHA>+	388	156	11	pl046_0001
+2	Arm	439	Parabraccia del Kaiser <ICON BETA>+	389	156	11	pl046_0011
+2	Arm	440	Mani di Kushala <ICON ALPHA>+	390	156	11	pl047_0001
+2	Arm	441	Mani di Kushala <ICON BETA>+	391	156	11	pl047_0011
+2	Arm	442	Copribraccia di Kirin <ICON ALPHA>+	392	154	11	pl035_0001
+2	Arm	443	Copribraccia di Kirin <ICON BETA>+	393	154	11	pl035_0011
+2	Arm	444	Guanti di Namielle <ICON ALPHA>+	394	158	11	pl086_0000
+2	Arm	445	Guanti di Namielle <ICON BETA>+	395	158	11	pl086_0010
+2	Arm	446	Unavailable	396	0	0	None
+2	Arm	447	Stile braccia Barroth	397	0	4	pl012_0000
+2	Arm	448	Parabraccia Palatium <ICON ALPHA>+	398	154	10	pl094_0000
+2	Arm	449	Parabraccia Palatium <ICON BETA>+	399	154	10	pl094_0000
+2	Arm	450	Parabraccia a vapore <ICON ALPHA>+	400	142	9	pl104_0000
+2	Arm	451	Parabraccia a vapore <ICON BETA>+	401	142	9	pl104_0000
+2	Arm	453	Parabraccia razzianti <ICON ALPHA>+	403	166	11	pl030_0500
+2	Arm	454	Parabraccia razzianti <ICON BETA>+	404	166	11	pl030_0510
+2	Arm	455	Parabraccia di Shara Ishvalda <ICON ALPHA>+	405	162	11	pl088_0000
+2	Arm	456	Parabraccia di Shara Ishvalda <ICON BETA>+	406	162	11	pl088_0010
+2	Arm	457	Parabraccia selvaggi <ICON ALPHA>+	407	156	10	pl050_0500
+2	Arm	458	Parabraccia selvaggi <ICON BETA>+	408	156	10	pl050_0510
+2	Arm	459	Stile braccia Anja <ICON ALPHA>	409	0	4	pl020_0000
+2	Arm	460	Stile braccia Anja <ICON BETA>	410	0	4	pl020_0010
+2	Arm	461	Parabraccia adiutor <ICON ALPHA>+	411	162	11	pl092_0000
+2	Arm	462	Parabraccia adiutor <ICON BETA>+	412	162	11	pl092_0000
+2	Arm	464	Parabraccia doriluna <ICON ALPHA>+	414	162	11	pl021_0200
+2	Arm	465	Parabraccia doriluna <ICON BETA>+	415	162	11	pl021_0210
+2	Arm	466	Parabraccia solargenti <ICON ALPHA>+	416	164	11	pl033_0200
+2	Arm	467	Parabraccia solargenti <ICON BETA>+	417	164	11	pl033_0210
+2	Arm	468	Stile braccia Jyura	418	0	4	pl011_0000
+2	Arm	469	Stile braccia Kadachi	419	0	4	pl013_0000
+2	Arm	470	Parabraccia di Zinogre <ICON ALPHA>+	420	158	10	pl107_0000
+2	Arm	471	Parabraccia di Zinogre <ICON BETA>+	421	158	10	pl107_0010
+2	Arm	472	Parabraccia stigei <ICON ALPHA>+	422	160	10	pl107_0100
+2	Arm	473	Parabraccia stigei <ICON BETA>+	423	160	10	pl107_0110
+2	Arm	474	Parabraccia di Garuga <ICON ALPHA>+	424	154	10	pl108_0000
+2	Arm	475	Parabraccia di Garuga <ICON BETA>+	425	154	10	pl108_0010
+2	Arm	476	Artigli di Zorah <ICON ALPHA>+	426	160	11	pl038_0000
+2	Arm	477	Artigli di Zorah <ICON BETA>+	427	160	11	pl038_0010
+2	Arm	478	Kote dorati <ICON ALPHA>+	428	158	10	pl109_0000
+2	Arm	479	Kote dorati <ICON BETA>+	429	158	10	pl109_0010
+2	Arm	480	Bracciali furiosi <ICON ALPHA>+	430	170	11	pl109_0500
+2	Arm	481	Bracciali furiosi <ICON BETA>+	431	170	11	pl109_0510
+2	Arm	482	Parabraccia rabbiosi <ICON ALPHA>+	432	170	11	pl082_0500
+2	Arm	483	Parabraccia rabbiosi <ICON BETA>+	433	170	11	pl082_0510
+2	Arm	484	Parabraccia ornati Safi <ICON ALPHA>+	434	168	11	pl087_0000
+2	Arm	485	Parabraccia ornati Safi <ICON BETA>+	435	168	11	pl087_0010
+2	Arm	486	Unavailable	436	0	0	None
+2	Arm	487	Unavailable	437	0	0	None
+2	Arm	492	Parabraccia dell'imperatrice <ICON ALPHA>+	442	164	11	pl051_0001
+2	Arm	493	Parabraccia dell'imperatrice <ICON BETA>+	443	164	11	pl051_0011
+2	Arm	494	Rabbia di Kulve Taroth <ICON ALPHA>+	444	176	11	pl049_0001
+2	Arm	495	Rabbia di Kulve Taroth <ICON BETA>+	445	176	11	pl049_0011
+2	Arm	496	Braccia della rosa <ICON ALPHA>+	446	150	9	pl124_0000
+2	Arm	497	Stile braccia Lumu	447	0	4	pl024_0000
+2	Arm	498	Unavailable	448	0	0	None
+2	Arm	499	Stile braccia Rathian <ICON ALPHA>	449	0	4	pl021_0000
+2	Arm	500	Unavailable	450	0	0	None
+2	Arm	501	Stile braccia Rathian <ICON BETA>	451	0	4	pl021_0010
+2	Arm	502	Maniche Oolong <ICON ALPHA>+	452	120	8	pl127_0000
+2	Arm	503	Stile braccia Radobaan <ICON ALPHA>	453	0	5	pl028_0000
+2	Arm	504	Sciarpa astrale <ICON ALPHA>+	454	140	8	pl128_0000
+2	Arm	505	Stile braccia Radobaan <ICON BETA>	455	0	5	pl028_0010
+2	Arm	506	Stile braccia della rosa	456	0	9	pl124_0000
+2	Arm	507	Unavailable	457	0	0	None
+2	Arm	508	Unavailable	458	0	0	None
+2	Arm	509	Stile braccia Oolong	459	0	8	pl127_0000
+2	Arm	510	Stile braccia astrale	460	0	8	pl128_0000
+2	Arm	511	Stile braccia in ipermetallo	461	0	5	pl025_0000
+2	Arm	512	Stile polsini termali	462	94	8	pl106_0000
+2	Arm	517	Braccia palestrate <ICON ALPHA>+	467	154	10	pl115_0000
+2	Arm	518	Parabraccia brutali <ICON ALPHA>+	468	158	10	pl083_0100
+2	Arm	519	Parabraccia brutali <ICON BETA>+	469	158	10	pl083_0110
+2	Arm	520	Parabraccia del guardiano <ICON ALPHA>+	470	50	5	pl121_0000
+2	Arm	521	Stile braccia di Yukumo	471	0	6	pl122_0000
+2	Arm	522	Stile braccia cavaliere d’argento	472	0	6	pl123_0000
+2	Arm	523	HARDUMMY	473	132	11	pl068_0010
+2	Arm	524	Guanti di Namielle <ICON GAMMA>+	474	176	11	pl086_0020
+2	Arm	525	HARDUMMY	475	0	7	pl072_0000
+2	Arm	526	HARDUMMY	476	170	11	pl072_0001
+2	Arm	527	Unavailable	477	0	0	None
+2	Arm	528	Unavailable	478	0	0	None
+2	Arm	529	Unavailable	479	0	0	None
+2	Arm	530	Unavailable	480	0	0	None
+2	Arm	531	Unavailable	481	0	0	None
+2	Arm	532	HARDUMMY	482	160	11	pl068_0020
+2	Arm	533	Unavailable	483	0	0	None
+2	Arm	534	Braccia di Leon <ICON ALPHA>+	484	150	11	pl130_0000
+2	Arm	535	Braccia di Claire <ICON ALPHA>+	485	150	11	pl131_0000
+2	Arm	536	Unavailable	486	0	0	None
+2	Arm	537	Unavailable	487	0	0	None
+2	Arm	540	Stile braccia Dodogama	490	0	4	pl039_0000
+2	Arm	541	Stile braccia del lingotto	491	0	5	pl031_0000
+2	Arm	542	Stile braccia cuore di Rath <ICON ALPHA>	492	0	5	pl021_0100
+2	Arm	543	Stile braccia cuore di Rath <ICON BETA>	493	0	5	pl021_0110
+2	Arm	544	Stile braccia Lavasioth <ICON ALPHA>	494	0	5	pl040_0000
+2	Arm	545	Stile braccia Lavasioth <ICON BETA>	495	0	5	pl040_0010
+2	Arm	546	Stile braccia Legiana <ICON ALPHA>	496	0	5	pl027_0000
+2	Arm	547	Stile braccia Legiana <ICON BETA>	497	0	5	pl027_0010
+2	Arm	548	Stile braccia Odogaron <ICON ALPHA>	498	0	5	pl029_0000
+2	Arm	549	Stile braccia Odogaron <ICON BETA>	499	0	5	pl029_0010
+2	Arm	550	Stile braccia Rathalos <ICON ALPHA>	500	0	5	pl033_0000
+2	Arm	551	Stile braccia Rathalos <ICON BETA>	501	0	5	pl033_0010
+2	Arm	552	Stile braccia Anima di Rath <ICON ALPHA>	502	0	6	pl033_0100
+2	Arm	553	Stile braccia Anima di Rath <ICON BETA>	503	0	6	pl033_0110
+2	Arm	554	Stile braccia Diablos <ICON ALPHA>	504	0	5	pl034_0000
+2	Arm	555	Stile braccia Diablos <ICON BETA>	505	0	5	pl034_0010
+2	Arm	556	Stile braccia Diablos nera <ICON ALPHA>	506	0	6	pl034_0100
+2	Arm	557	Stile braccia Diablos nera <ICON BETA>	507	0	6	pl034_0110
+2	Arm	558	Stile braccia Uragaan <ICON ALPHA>	508	0	6	pl041_0000
+2	Arm	559	Stile braccia Uragaan <ICON BETA>	509	0	6	pl041_0010
+2	Arm	560	Stile braccia Bazel <ICON ALPHA>	510	0	6	pl042_0000
+2	Arm	561	Stile braccia Bazel <ICON BETA>	511	0	6	pl042_0010
+2	Arm	562	Stile braccia Deviljho <ICON ALPHA>	512	0	6	pl050_0000
+2	Arm	563	Stile braccia Deviljho <ICON BETA>	513	0	6	pl050_0010
+2	Arm	564	Stile braccia Dober <ICON ALPHA>	514	0	6	pl044_0000
+2	Arm	565	Stile braccia Dober <ICON BETA>	515	0	6	pl044_0000
+2	Arm	566	Stile braccia Damasco <ICON ALPHA>	516	0	6	pl043_0000
+2	Arm	567	Stile braccia Damasco <ICON BETA>	517	0	6	pl043_0010
+2	Arm	568	Stile braccia Zorah <ICON ALPHA>	518	0	7	pl038_0000
+2	Arm	569	Stile braccia Zorah <ICON BETA>	519	0	7	pl038_0010
+2	Arm	570	Stile braccia Zorah <ICON GAMMA>	520	0	7	pl038_0020
+2	Arm	571	Stile braccia Nergigante <ICON ALPHA>	521	0	7	pl030_0000
+2	Arm	572	Stile braccia Nergigante <ICON BETA>	522	0	7	pl030_0010
+2	Arm	573	Stile braccia Nergigante <ICON GAMMA>	523	0	7	pl030_0020
+2	Arm	574	Stile braccia Kaiser <ICON ALPHA>	524	0	7	pl046_0000
+2	Arm	575	Stile braccia Kaiser <ICON BETA>	525	0	7	pl046_0010
+2	Arm	576	Stile braccia Kaiser <ICON GAMMA>	526	0	7	pl046_0020
+2	Arm	577	Stile braccia Kushala <ICON ALPHA>	527	0	7	pl047_0000
+2	Arm	578	Stile braccia Kushala <ICON BETA>	528	0	7	pl047_0010
+2	Arm	579	Stile braccia Kushala <ICON GAMMA>	529	0	7	pl047_0020
+2	Arm	580	Stile braccia Vaal <ICON ALPHA>	530	0	7	pl032_0000
+2	Arm	581	Stile braccia Vaal <ICON BETA>	531	0	7	pl032_0010
+2	Arm	582	Stile braccia Vaal <ICON GAMMA>	532	0	7	pl032_0020
+2	Arm	583	Stile braccia Kirin <ICON ALPHA>	533	0	7	pl035_0000
+2	Arm	584	Stile braccia Kirin <ICON BETA>	534	0	7	pl035_0010
+2	Arm	585	Stile braccia Kirin <ICON GAMMA>	535	0	7	pl035_0020
+2	Arm	586	Stile braccia Xeno <ICON ALPHA>	536	0	7	pl045_0000
+2	Arm	587	Stile braccia Xeno <ICON BETA>	537	0	7	pl045_0010
+2	Arm	588	Stile braccia Xeno <ICON GAMMA>	538	0	7	pl045_0020
+2	Arm	589	Stile braccia Imperatrice <ICON ALPHA>	539	0	7	pl051_0000
+2	Arm	590	Stile braccia Imperatrice <ICON BETA>	540	0	7	pl051_0010
+2	Arm	591	Stile braccia Imperatrice <ICON GAMMA>	541	0	7	pl051_0020
+2	Arm	592	Stile braccia Kulve <ICON ALPHA>	542	0	7	pl049_0000
+2	Arm	593	Stile braccia Kulve <ICON BETA>	543	0	7	pl049_0010
+2	Arm	594	Stile braccia Kulve <ICON GAMMA>	544	0	7	pl049_0020
+2	Arm	595	Unavailable	546	0	0	None
+2	Arm	596	Unavailable	547	0	0	None
+2	Arm	599	Unavailable	550	0	0	None
+2	Arm	600	Unavailable	551	0	0	None
+2	Arm	601	Unavailable	552	0	0	None
+2	Arm	602	Unavailable	553	0	0	None
+2	Arm	603	Unavailable	554	0	0	None
+2	Arm	604	Unavailable	555	0	0	None
+2	Arm	605	Unavailable	556	0	0	None
+2	Arm	606	Unavailable	557	0	0	None
+2	Arm	607	Unavailable	558	0	0	None
+2	Arm	608	Unavailable	559	0	0	None
+2	Arm	609	Unavailable	560	0	0	None
+2	Arm	610	Unavailable	561	0	0	None
+2	Arm	611	Unavailable	562	0	0	None
+2	Arm	612	Unavailable	563	0	0	None
+2	Arm	613	Unavailable	564	0	0	None
+2	Arm	614	Unavailable	565	0	0	None
+2	Arm	615	Unavailable	566	0	0	None
+2	Arm	616	Unavailable	567	0	0	None
+2	Arm	617	Unavailable	568	0	0	None
+2	Arm	618	Unavailable	569	0	0	None
+2	Arm	619	Unavailable	570	0	0	None
+2	Arm	620	Unavailable	571	0	0	None
+2	Arm	621	Unavailable	572	0	0	None
+2	Arm	622	Unavailable	573	0	0	None
+2	Arm	623	Unavailable	574	0	0	None
+2	Arm	624	Stile braccia Artian	575	0	9	pl091_0000
+2	Arm	625	Unavailable	674	0	0	None
+2	Arm	626	Unavailable	576	0	0	None
+2	Arm	627	Unavailable	577	0	0	None
+2	Arm	628	Unavailable	578	0	0	None
+2	Arm	629	Unavailable	579	0	0	None
+2	Arm	630	Unavailable	580	0	0	None
+2	Arm	631	Unavailable	581	0	0	None
+2	Arm	632	Unavailable	582	0	0	None
+2	Arm	633	Unavailable	583	0	0	None
+2	Arm	634	Unavailable	584	0	0	None
+2	Arm	635	Unavailable	585	0	0	None
+2	Arm	636	Unavailable	586	0	0	None
+2	Arm	637	Unavailable	587	0	0	None
+2	Arm	638	Unavailable	588	0	0	None
+2	Arm	639	Unavailable	589	0	0	None
+2	Arm	640	Unavailable	590	0	0	None
+2	Arm	641	Unavailable	591	0	0	None
+2	Arm	642	Unavailable	592	0	0	None
+2	Arm	643	Unavailable	593	0	0	None
+2	Arm	644	Unavailable	594	0	0	None
+2	Arm	645	Unavailable	595	0	0	None
+2	Arm	646	Unavailable	596	0	0	None
+2	Arm	647	Unavailable	597	0	0	None
+2	Arm	648	Unavailable	598	0	0	None
+2	Arm	649	Unavailable	599	0	0	None
+2	Arm	650	Unavailable	600	0	0	None
+2	Arm	651	Unavailable	601	0	0	None
+2	Arm	652	Unavailable	602	0	0	None
+2	Arm	653	Unavailable	603	0	0	None
+2	Arm	654	Unavailable	604	0	0	None
+2	Arm	655	Unavailable	605	0	0	None
+2	Arm	656	Unavailable	606	0	0	None
+2	Arm	657	Unavailable	607	0	0	None
+2	Arm	658	Stile braccia cintura nera	608	0	10	pl093_0000
+2	Arm	659	Unavailable	609	0	0	None
+2	Arm	660	Unavailable	610	0	0	None
+2	Arm	661	Unavailable	611	0	0	None
+2	Arm	662	Unavailable	612	0	0	None
+2	Arm	663	Unavailable	613	0	0	None
+2	Arm	664	Unavailable	614	0	0	None
+2	Arm	665	Unavailable	615	0	0	None
+2	Arm	666	Unavailable	616	0	0	None
+2	Arm	667	Unavailable	617	0	0	None
+2	Arm	668	Unavailable	618	0	0	None
+2	Arm	669	Unavailable	619	0	0	None
+2	Arm	670	Unavailable	620	0	0	None
+2	Arm	671	Unavailable	621	0	0	None
+2	Arm	672	Unavailable	622	0	0	None
+2	Arm	673	Unavailable	623	0	0	None
+2	Arm	674	Unavailable	624	0	0	None
+2	Arm	675	Unavailable	625	0	0	None
+2	Arm	678	Unavailable	628	0	0	None
+2	Arm	679	Unavailable	629	0	0	None
+2	Arm	680	Unavailable	630	0	0	None
+2	Arm	681	Unavailable	631	0	0	None
+2	Arm	682	Unavailable	632	0	0	None
+2	Arm	683	Unavailable	633	0	0	None
+2	Arm	684	Unavailable	634	0	0	None
+2	Arm	685	Unavailable	635	0	0	None
+2	Arm	686	Unavailable	636	0	0	None
+2	Arm	687	Unavailable	637	0	0	None
+2	Arm	688	Unavailable	638	0	0	None
+2	Arm	689	Unavailable	639	0	0	None
+2	Arm	690	Unavailable	640	0	0	None
+2	Arm	691	Unavailable	641	0	0	None
+2	Arm	692	Unavailable	642	0	0	None
+2	Arm	693	Unavailable	643	0	0	None
+2	Arm	694	Unavailable	644	0	0	None
+2	Arm	695	Unavailable	645	0	0	None
+2	Arm	696	Unavailable	646	0	0	None
+2	Arm	697	Unavailable	647	0	0	None
+2	Arm	698	Unavailable	648	0	0	None
+2	Arm	699	Unavailable	649	0	0	None
+2	Arm	700	Unavailable	650	0	0	None
+2	Arm	701	Unavailable	651	0	0	None
+2	Arm	702	Unavailable	652	0	0	None
+2	Arm	703	Unavailable	653	0	0	None
+2	Arm	704	Unavailable	654	0	0	None
+2	Arm	705	Unavailable	655	0	0	None
+2	Arm	706	Unavailable	656	0	0	None
+2	Arm	707	Unavailable	657	0	0	None
+2	Arm	708	Unavailable	658	0	0	None
+2	Arm	709	Unavailable	659	0	0	None
+2	Arm	710	Unavailable	660	0	0	None
+2	Arm	715	Unavailable	665	0	0	None
+2	Arm	716	Unavailable	666	0	0	None
+2	Arm	717	Unavailable	667	0	0	None
+2	Arm	718	Unavailable	668	0	0	None
+2	Arm	719	Unavailable	669	0	0	None
+2	Arm	720	Unavailable	670	0	0	None
+2	Arm	721	Unavailable	671	0	0	None
+2	Arm	722	Unavailable	672	0	0	None
+2	Arm	723	Unavailable	673	0	0	None
+2	Arm	724	Unavailable	675	0	0	None
+2	Arm	725	Unavailable	0	0	0	None
+2	Arm	726	Unavailable	0	0	0	None
+2	Arm	727	Unavailable	0	0	0	None
+2	Arm	728	Unavailable	0	0	0	None
+2	Arm	729	Unavailable	0	0	0	None
+2	Arm	730	Unavailable	0	0	0	None
+2	Arm	731	Unavailable	0	0	0	None
+2	Arm	732	Unavailable	0	0	0	None
+2	Arm	733	Unavailable	0	0	0	None
+2	Arm	734	Unavailable	0	0	0	None
+2	Arm	735	Unavailable	0	0	0	None
+2	Arm	736	Unavailable	0	0	0	None
+2	Arm	737	Unavailable	0	0	0	None
+2	Arm	738	Unavailable	0	0	0	None
+2	Arm	739	Unavailable	0	0	0	None
+2	Arm	740	Unavailable	0	0	0	None
+2	Arm	741	Unavailable	0	0	0	None
+2	Arm	742	Unavailable	0	0	0	None
+2	Arm	743	Unavailable	0	0	0	None
+2	Arm	744	Unavailable	0	0	0	None
+2	Arm	745	Unavailable	0	0	0	None
+2	Arm	746	Unavailable	0	0	0	None
+2	Arm	747	Unavailable	0	0	0	None
+2	Arm	748	Unavailable	0	0	0	None
+2	Arm	749	Unavailable	0	0	0	None
+2	Arm	750	Unavailable	0	0	0	None
+3	Waist	2	Cintura di cuoio	1	2	0	pl001_0000
+3	Waist	15	Cintura di maglia	15	2	0	pl014_0000
+3	Waist	1	Spira del cacciatore	2	6	0	pl002_0000
+3	Waist	5	Spira d'osso	5	6	0	pl003_0000
+3	Waist	6	Spira in lega	6	8	1	pl004_0000
+3	Waist	9	Spira di Vespoid	9	8	0	pl007_0000
+3	Waist	4	Spira di Jagras	4	8	0	pl008_0000
+3	Waist	10	Spira di Kulu	10	10	0	pl009_0000
+3	Waist	11	Spira di Pukei	11	12	1	pl010_0000
+3	Waist	13	Spira di Barroth	13	14	1	pl012_0000
+3	Waist	12	Spira di Jyura	12	14	1	pl011_0000
+3	Waist	14	Spira di Kadachi	14	16	1	pl013_0000
+3	Waist	25	Spira in ipermetallo	24	18	2	pl025_0000
+3	Waist	18	Spira di Hornetaur	17	18	2	pl017_0000
+3	Waist	3	Spira di Anja	3	20	2	pl020_0000
+3	Waist	21	Spira di Rathian	20	22	2	pl021_0000
+3	Waist	23	Spira di Tzitzi	22	18	2	pl023_0000
+3	Waist	24	Spira di Lumu	23	20	2	pl024_0000
+3	Waist	22	Spira di Girros	21	20	2	pl022_0000
+3	Waist	28	Spira di Baan	27	24	2	pl028_0000
+3	Waist	20	Elitre dello scarabeo	19	22	2	pl019_0000 (Male Only)
+3	Waist	159	Elitre di farfalla	164	22	2	pl019_0000 (Female Only)
+3	Waist	31	Spira del lingotto	30	28	3	pl031_0000
+3	Waist	27	Spira di Legiana	26	30	3	pl027_0000
+3	Waist	29	Spira di Odogaron	28	30	3	pl029_0000
+3	Waist	33	Spira di Rathalos	32	30	3	pl033_0000
+3	Waist	34	Spira di Diablos	33	32	3	pl034_0000
+3	Waist	35	Cerchio di Kirin	34	34	3	pl035_0000
+3	Waist	26	Budella putrefatte	25	32	3	pl026_0000
+3	Waist	36	Spira di brigata	35	28	3	pl036_0000
+3	Waist	39	Falda di cuoio <ICON ALPHA>	37	32	4	pl001_0000
+3	Waist	40	Falda di cuoio <ICON BETA>	38	32	4	pl001_0000
+3	Waist	147	Falda di maglia <ICON ALPHA>	39	32	4	pl014_0000
+3	Waist	148	Falda di maglia <ICON BETA>	40	32	4	pl014_0000
+3	Waist	41	Spira del cacciatore <ICON ALPHA>	41	36	4	pl002_0000
+3	Waist	42	Spira del cacciatore <ICON BETA>	42	36	4	pl002_0010
+3	Waist	43	Spira d'osso <ICON ALPHA>	43	36	4	pl003_0000
+3	Waist	44	Spira d'osso <ICON BETA>	44	36	4	pl003_0000
+3	Waist	45	Spira in lega <ICON ALPHA>	45	36	4	pl004_0000
+3	Waist	46	Spira in lega <ICON BETA>	46	36	4	pl004_0000
+3	Waist	51	Spira di Vespoid <ICON ALPHA>	51	38	4	pl007_0000
+3	Waist	52	Spira di Vespoid <ICON BETA>	52	38	4	pl007_0000
+3	Waist	57	Spira di Hornetaur <ICON ALPHA>	57	38	4	pl017_0000
+3	Waist	58	Spira di Hornetaur <ICON BETA>	58	38	4	pl017_0000
+3	Waist	61	Spira di Jagras <ICON ALPHA>	61	40	4	pl008_0000
+3	Waist	62	Spira di Jagras <ICON BETA>	62	40	4	pl008_0000
+3	Waist	63	Spira di Kulu <ICON ALPHA>	63	40	4	pl009_0000
+3	Waist	64	Spira di Kulu <ICON BETA>	64	40	4	pl009_0000
+3	Waist	65	Spira di Pukei <ICON ALPHA>	65	42	4	pl010_0000
+3	Waist	66	Spira di Pukei <ICON BETA>	66	42	4	pl010_0010
+3	Waist	69	Spira di Barroth <ICON ALPHA>	69	42	4	pl012_0000
+3	Waist	70	Spira di Barroth <ICON BETA>	70	42	4	pl012_0000
+3	Waist	67	Spira di Jyura <ICON ALPHA>	67	44	4	pl011_0000
+3	Waist	68	Spira di Jyura <ICON BETA>	68	44	4	pl011_0000
+3	Waist	71	Spira di Kadachi <ICON ALPHA>	71	44	4	pl013_0000
+3	Waist	72	Spira di Kadachi <ICON BETA>	72	44	4	pl013_0000
+3	Waist	93	Spira di Anja <ICON ALPHA>	93	44	4	pl020_0000
+3	Waist	94	Spira di Anja <ICON BETA>	94	44	4	pl020_0010
+3	Waist	73	Spira di Rathian <ICON ALPHA>	73	46	4	pl021_0000
+3	Waist	74	Spira di Rathian <ICON BETA>	74	46	4	pl021_0010
+3	Waist	77	Spira di Tzitzi <ICON ALPHA>	77	40	4	pl023_0000
+3	Waist	78	Spira di Tzitzi <ICON BETA>	78	40	4	pl023_0000
+3	Waist	79	Spira di Lumu <ICON ALPHA>	79	44	4	pl024_0000
+3	Waist	80	Spira di Lumu <ICON BETA>	80	44	4	pl024_0000
+3	Waist	75	Spira di Girros <ICON ALPHA>	75	40	4	pl022_0000
+3	Waist	76	Spira di Girros <ICON BETA>	76	40	4	pl022_0000
+3	Waist	97	Spira di Baan <ICON ALPHA>	97	46	5	pl028_0000
+3	Waist	98	Spira di Baan <ICON BETA>	98	46	5	pl028_0010
+3	Waist	89	Spira in ipermetallo <ICON ALPHA>	89	50	5	pl025_0000
+3	Waist	90	Spira in ipermetallo <ICON BETA>	90	50	5	pl025_0000
+3	Waist	91	Spira del lingotto <ICON ALPHA>	91	50	5	pl031_0000
+3	Waist	92	Spira del lingotto <ICON BETA>	92	50	5	pl031_0000
+3	Waist	87	Spira cuore di Rath <ICON ALPHA>	87	52	5	pl021_0100
+3	Waist	88	Spira cuore di Rath <ICON BETA>	88	52	5	pl021_0110
+3	Waist	95	Spira di Legiana <ICON ALPHA>	95	54	5	pl027_0000
+3	Waist	96	Spira di Legiana <ICON BETA>	96	54	5	pl027_0010
+3	Waist	81	Spira di Odogaron <ICON ALPHA>	81	54	5	pl029_0000
+3	Waist	82	Spira di Odogaron <ICON BETA>	82	54	5	pl029_0010
+3	Waist	101	Spira di Rathalos <ICON ALPHA>	101	54	5	pl033_0000
+3	Waist	102	Spira di Rathalos <ICON BETA>	102	54	5	pl033_0010
+3	Waist	111	Spira anima di Rath <ICON ALPHA>	111	56	6	pl033_0100
+3	Waist	112	Spira anima di Rath <ICON BETA>	112	56	6	pl033_0110
+3	Waist	103	Spira di Diablos <ICON ALPHA>	103	54	5	pl034_0000
+3	Waist	104	Spira di Diablos <ICON BETA>	104	54	5	pl034_0010
+3	Waist	113	Spira di Diablos nera <ICON ALPHA>	113	56	6	pl034_0100
+3	Waist	114	Spira di Diablos nera <ICON BETA>	114	56	6	pl034_0110
+3	Waist	83	Spira di Dodogama <ICON ALPHA>	83	48	4	pl039_0000
+3	Waist	84	Spira di Dodogama <ICON BETA>	84	48	4	pl039_0000
+3	Waist	85	Spira di Lavasioth <ICON ALPHA>	85	56	5	pl040_0000
+3	Waist	86	Spira di Lavasioth <ICON BETA>	86	56	5	pl040_0010
+3	Waist	109	Spira di Uragaan <ICON ALPHA>	109	60	6	pl041_0000
+3	Waist	110	Spira di Uragaan <ICON BETA>	110	60	6	pl041_0010
+3	Waist	107	Spira di Nergigante <ICON ALPHA>	107	64	7	pl030_0000
+3	Waist	108	Spira di Nergigante <ICON BETA>	108	64	7	pl030_0010
+3	Waist	117	Elitre dello scarabeo <ICON ALPHA>	117	42	4	pl019_0000 (Male Only)
+3	Waist	118	Elitre dello scarabeo <ICON BETA>	118	42	4	pl019_0000 (Male Only)
+3	Waist	160	Elitre di farfalla <ICON ALPHA>	165	42	4	pl019_0000 (Female Only)
+3	Waist	161	Elitre di farfalla <ICON BETA>	166	42	4	pl019_0000 (Female Only)
+3	Waist	119	Spira di brigata <ICON ALPHA>	119	52	5	pl036_0000
+3	Waist	120	Spira di brigata <ICON BETA>	120	52	5	pl036_0000
+3	Waist	121	Spira di Damasco <ICON ALPHA>	121	60	6	pl043_0000
+3	Waist	122	Spira di Damasco <ICON BETA>	122	60	6	pl043_0010
+3	Waist	123	Spira di Dober <ICON ALPHA>	123	60	6	pl044_0000
+3	Waist	124	Spira di Dober <ICON BETA>	124	60	6	pl044_0000
+3	Waist	129	Bozzolo di Kushala <ICON ALPHA>	129	64	7	pl047_0000
+3	Waist	130	Bozzolo di Kushala <ICON BETA>	130	64	7	pl047_0010
+3	Waist	127	Spira del Kaiser <ICON ALPHA>	127	64	7	pl046_0000
+3	Waist	128	Spira del Kaiser <ICON BETA>	128	64	7	pl046_0010
+3	Waist	105	Cerchio di Kirin <ICON ALPHA>	105	64	7	pl035_0000
+3	Waist	106	Cerchio di Kirin <ICON BETA>	106	64	7	pl035_0010
+3	Waist	99	Spira di Vaal Hazak <ICON ALPHA>	99	64	7	pl032_0000
+3	Waist	100	Spira di Vaal Hazak <ICON BETA>	100	64	7	pl032_0010
+3	Waist	115	Spira di Bazel <ICON ALPHA>	115	58	6	pl042_0000
+3	Waist	116	Spira di Bazel <ICON BETA>	116	58	6	pl042_0010
+3	Waist	131	Budella putrefatte <ICON ALPHA>	133	62	6	pl026_0000
+3	Waist	132	Budella putrefatte <ICON BETA>	134	62	6	pl026_0000
+3	Waist	133	Spira della Gilda <ICON ALPHA>	135	62	7	pl048_0000
+3	Waist	134	Spira della Gilda <ICON BETA>	136	62	7	pl048_0000
+3	Waist	125	Colonna di Xeno'jiiva <ICON ALPHA>	125	72	7	pl045_0000
+3	Waist	126	Colonna di Xeno'jiiva <ICON BETA>	126	72	7	pl045_0010
+3	Waist	135	Unavailable	137	2	0	pl001_0000
+3	Waist	136	Unavailable	138	2	0	pl001_0000
+3	Waist	137	Colonna di Zorah <ICON ALPHA>	139	44	5	pl038_0000
+3	Waist	138	Colonna di Zorah <ICON BETA>	140	44	5	pl038_0010
+3	Waist	149	Cintura della commissione <ICON ALPHA>	141	70	7	pl053_0000
+3	Waist	150	Cintura della commissione <ICON BETA>	142	70	7	pl053_0000
+3	Waist	162	Stile vita brigata	145	0	6	pl036_0000
+3	Waist	163	Stile vita Gilda	146	0	6	pl048_0000
+3	Waist	151	Stile vita floreale	147	0	3	pl074_0000
+3	Waist	152	Stile vita sommozzatore	148	0	3	pl075_0000
+3	Waist	145	Stile vita raccolto	149	0	3	pl076_0000
+3	Waist	146	Stile vita di Orione	150	0	3	pl077_0000
+3	Waist	153	Stile vita gran galà	153	0	3	pl078_0000
+3	Waist	299	HARDUMMY	154	0	7	pl068_0000
+3	Waist	291	HARDUMMY	155	0	7	pl069_0000
+3	Waist	292	HARDUMMY	156	0	7	pl070_0000
+3	Waist	141	Unavailable	177	2	0	pl001_0000
+3	Waist	142	Unavailable	179	2	0	pl001_0000
+3	Waist	143	Unavailable	180	2	0	pl001_0000
+3	Waist	144	Unavailable	181	2	0	pl001_0000
+3	Waist	297	Stile vita Bayek	159	0	7	pl120_0000
+3	Waist	158	Unavailable	160	2	0	pl001_0000
+3	Waist	165	Unavailable	170	2	0	pl001_0000
+3	Waist	166	Unavailable	171	2	0	pl001_0000
+3	Waist	164	Spira delle origini	169	6	0	pl018_0000
+3	Waist	190	Unavailable	182	2	0	pl001_0000
+3	Waist	191	Perfidia di Kulve Taroth <ICON ALPHA>	183	72	7	pl049_0000
+3	Waist	192	Perfidia di Kulve Taroth <ICON BETA>	184	72	7	pl049_0010
+3	Waist	193	Cappotto floreale	185	18	2	pl074_0000
+3	Waist	194	Cintura da sommozzatore	186	22	2	pl075_0000
+3	Waist	195	Hoja del raccolto	187	26	2	pl076_0000
+3	Waist	196	Cappotto di Orione	188	30	3	pl077_0000
+3	Waist	197	Coda gran galà	189	34	3	pl078_0000
+3	Waist	200	Vita del Samurai	190	0	3	pl067_0000
+3	Waist	201	Spira Vangis <ICON ALPHA>	191	58	6	pl050_0000
+3	Waist	202	Spira Vangis <ICON BETA>	192	58	6	pl050_0010
+3	Waist	203	Unavailable	193	2	0	pl001_0000
+3	Waist	204	"Koshiate Bushi ""Sabi"""	194	0	6	pl066_0000
+3	Waist	205	"Koshiate Bushi ""Homare"""	195	0	6	pl066_0010
+3	Waist	206	Spira drachen <ICON ALPHA>	196	72	7	pl073_0000
+3	Waist	207	Cappotto floreale <ICON ALPHA>	197	40	4	pl074_0000
+3	Waist	208	Cintura da sommozzatore <ICON ALPHA>	198	46	4	pl075_0000
+3	Waist	209	Hoja del raccolto <ICON ALPHA>	199	52	5	pl076_0000
+3	Waist	210	 Cappotto di Orione <ICON ALPHA>	200	58	5	pl077_0000
+3	Waist	211	Coda gran galà <ICON ALPHA>	201	64	6	pl078_0000
+3	Waist	212	Elitre di farfalla	202	22	2	pl057_0000 (Male Only)
+3	Waist	213	Elitre di farfalla <ICON ALPHA>	203	42	4	pl057_0000 (Male Only)
+3	Waist	214	Elitre di farfalla <ICON BETA>	204	42	4	pl057_0010 (Male Only)
+3	Waist	215	Elitre dello scarabeo	205	22	2	pl057_0000 (Female Only)
+3	Waist	216	Elitre dello scarabeo <ICON ALPHA>	206	42	4	pl057_0000 (Female Only)
+3	Waist	217	Elitre dello scarabeo <ICON BETA>	207	42	4	pl057_0000 (Female Only)
+3	Waist	218	Spira di Vaal Hazak <ICON GAMMA>	208	72	7	pl032_0020
+3	Waist	219	Cerchio di Kirin <ICON GAMMA>	209	72	7	pl035_0020
+3	Waist	220	Spira del Kaiser <ICON GAMMA>	210	72	7	pl046_0020
+3	Waist	222	Bozzolo di Kushala <ICON GAMMA>	211	72	7	pl047_0020
+3	Waist	223	Spira di Nergigante <ICON GAMMA>	212	72	7	pl030_0020
+3	Waist	224	Colonna di Zorah <ICON GAMMA>	213	72	7	pl038_0020
+3	Waist	226	Colonna di Xeno'jiiva <ICON GAMMA>	214	72	7	pl045_0020
+3	Waist	227	HARDUMMY	215	46	4	pl068_0000
+3	Waist	228	HARDUMMY	216	12	1	pl069_0000
+3	Waist	229	HARDUMMY	217	60	6	pl069_0000
+3	Waist	230	HARDUMMY	218	50	5	pl070_0000
+3	Waist	231	Falda sommo celeste <ICON ALPHA>	219	56	6	pl072_0000
+3	Waist	232	Cintura di Dante <ICON ALPHA>	220	64	7	pl071_0000
+3	Waist	233	Falda dell'imperatrice <ICON ALPHA>	221	70	7	pl051_0000
+3	Waist	234	Falda dell'imperatrice <ICON BETA>	222	70	7	pl051_0010
+3	Waist	235	Stile vita farfalla	227	0	6	pl117_0000
+3	Waist	236	Stile vita putrefatto	228	0	6	pl026_0000
+3	Waist	237	Stile vita Dante	230	0	7	pl071_0000
+3	Waist	238	Stile vita drachen	231	0	7	pl073_0000
+3	Waist	239	Stile vita della commissione	234	0	6	pl053_0000
+3	Waist	240	Stile vita delle origini	237	0	6	pl018_0000
+3	Waist	241	Stile vita scarabeo	238	0	6	pl116_0000
+3	Waist	242	Invalid Message	239	2	0	pl001_0000
+3	Waist	298	HARDUMMY	242	64	7	pl068_0000
+3	Waist	244	Falda dell'imperatrice <ICON GAMMA>	243	70	7	pl051_0020
+3	Waist	293	Vita di Geralt <ICON ALPHA>	244	70	7	pl118_0000
+3	Waist	294	Vita di Ciri <ICON ALPHA>	245	70	7	pl119_0000
+3	Waist	295	Stile vita di Geralt	246	0	7	pl118_0000
+3	Waist	296	Stile vita di Ciri	247	0	7	pl119_0000
+3	Waist	249	Perfidia di Kulve Taroth <ICON GAMMA>	248	72	7	pl049_0020
+3	Waist	250	Spira del difensore <ICON ALPHA>	249	50	5	pl121_0000
+3	Waist	300	Stile vita del lupo bianco	250	0	8	pl105_0000
+3	Waist	301	Stile vita del guardiano	545	0	5	pl121_0000
+3	Waist	302	Spira d'osso <ICON ALPHA>+	252	114	8	pl003_0000
+3	Waist	303	Spira d'osso <ICON BETA>+	253	114	8	pl003_0000
+3	Waist	304	Spira in lega <ICON ALPHA>+	254	114	8	pl004_0000
+3	Waist	305	Spira in lega <ICON BETA>+	255	114	8	pl004_0000
+3	Waist	306	Spira di Vespoid <ICON ALPHA>+	256	116	8	pl007_0001
+3	Waist	307	Spira di Vespoid <ICON BETA>+	257	116	8	pl007_0001
+3	Waist	308	Spira di Hornetaur <ICON ALPHA>+	258	116	8	pl017_0001
+3	Waist	309	Spira di Hornetaur <ICON BETA>+	259	116	8	pl017_0001
+3	Waist	324	Spira di Jagras <ICON ALPHA>+	274	116	8	pl008_0001
+3	Waist	325	Spira di Jagras <ICON BETA>+	275	116	8	pl008_0001
+3	Waist	326	Spira di Tzitzi <ICON ALPHA>+	276	116	8	pl023_0001
+3	Waist	327	Spira di Tzitzi <ICON BETA>+	277	116	8	pl023_0001
+3	Waist	328	Spira di Girros <ICON ALPHA>+	278	116	8	pl022_0001
+3	Waist	329	Spira di Girros <ICON BETA>+	279	116	8	pl022_0001
+3	Waist	330	Spira di Dodogama <ICON ALPHA>+	280	120	8	pl039_0001
+3	Waist	331	Spira di Dodogama <ICON BETA>+	281	120	8	pl039_0001
+3	Waist	332	Spira di Kulu <ICON ALPHA>+	282	116	8	pl009_0001
+3	Waist	333	Spira di Kulu <ICON BETA>+	283	116	8	pl009_0001
+3	Waist	334	Spira di Pukei <ICON ALPHA>+	284	118	8	pl010_0001
+3	Waist	335	Spira di Pukei <ICON BETA>+	285	118	8	pl010_0001
+3	Waist	336	Spira di Barroth <ICON ALPHA>+	286	118	8	pl012_0001
+3	Waist	337	Spira di Barroth <ICON BETA>+	287	118	8	pl012_0001
+3	Waist	338	Spira di Jyura <ICON ALPHA>+	288	118	8	pl011_0001
+3	Waist	339	Spira di Jyura <ICON BETA>+	289	118	8	pl011_0001
+3	Waist	340	Spira di Beo <ICON ALPHA>+	290	118	8	pl110_0000
+3	Waist	341	Spira di Beo <ICON BETA>+	291	118	8	pl110_0000
+3	Waist	342	Spira di Kadachi <ICON ALPHA>+	292	120	8	pl013_0001
+3	Waist	343	Spira di Kadachi <ICON BETA>+	293	120	8	pl013_0001
+3	Waist	344	Spira in ipermetallo <ICON ALPHA>+	294	128	8	pl025_0000
+3	Waist	345	Spira in ipermetallo <ICON BETA>+	295	128	8	pl025_0000
+3	Waist	346	Spira di Banbaro <ICON ALPHA>+	296	130	8	pl084_0000
+3	Waist	347	Spira di Banbaro <ICON BETA>+	297	130	8	pl084_0010
+3	Waist	348	Spira di Anja <ICON ALPHA>+	298	132	8	pl020_0001
+3	Waist	349	Spira di Anja <ICON BETA>+	299	132	8	pl020_0011
+3	Waist	350	Spira di Rathian <ICON ALPHA>+	300	130	8	pl021_0001
+3	Waist	351	Spira di Rathian <ICON BETA>+	301	130	8	pl021_0011
+3	Waist	352	Spira cuore di Rath <ICON ALPHA>+	302	132	8	pl021_0101
+3	Waist	353	Spira cuore di Rath <ICON BETA>+	303	132	8	pl021_0111
+3	Waist	354	Spira di Lumu <ICON ALPHA>+	304	130	8	pl024_0001
+3	Waist	355	Spira di Lumu <ICON BETA>+	305	130	8	pl024_0001
+3	Waist	356	Spira onirica <ICON ALPHA>+	306	132	8	pl024_0101
+3	Waist	357	Spira onirica <ICON BETA>+	307	132	8	pl024_0101
+3	Waist	358	Spira corallina <ICON ALPHA>+	308	132	8	pl010_0101
+3	Waist	359	Spira corallina <ICON BETA>+	309	132	8	pl010_0101
+3	Waist	360	Spira di vipera <ICON ALPHA>+	310	132	8	pl013_0101
+3	Waist	361	Spira di vipera <ICON BETA>+	311	132	8	pl013_0101
+3	Waist	362	Spira di Baan <ICON ALPHA>+	312	134	8	pl028_0001
+3	Waist	363	Spira di Baan <ICON BETA>+	313	134	8	pl028_0001
+3	Waist	364	Stile vita di cuoio	314	0	4	pl001_0000
+3	Waist	365	Stile vita di maglia	315	0	4	pl014_0000
+3	Waist	366	Stile vita del cacciatore <ICON ALPHA>	316	0	4	pl002_0000
+3	Waist	367	Stile vita del cacciatore <ICON BETA>	317	0	4	pl002_0010
+3	Waist	368	Stile vita d'osso	318	0	4	pl003_0000
+3	Waist	369	Stile vita in lega	319	0	4	pl004_0000
+3	Waist	370	Stile vita Vespoid	320	0	4	pl007_0000
+3	Waist	371	Stile vita Hornetaur	321	0	4	pl017_0000
+3	Waist	378	Spira del lingotto <ICON ALPHA>+	328	136	9	pl031_0000
+3	Waist	379	Spira del lingotto <ICON BETA>+	329	136	9	pl031_0000
+3	Waist	380	Fiancali di Barioth <ICON ALPHA>+	330	138	9	pl089_0000
+3	Waist	381	Fiancali di Barioth <ICON BETA>+	331	138	9	pl089_0010
+3	Waist	382	Spira di Rathalos <ICON ALPHA>+	332	140	9	pl033_0001
+3	Waist	383	Spira di Rathalos <ICON BETA>+	333	140	9	pl033_0011
+3	Waist	384	Spira di Diablos <ICON ALPHA>+	334	140	9	pl034_0001
+3	Waist	385	Spira di Diablos <ICON BETA>+	335	140	9	pl034_0011
+3	Waist	386	Spira di Legiana <ICON ALPHA>+	336	140	9	pl027_0001
+3	Waist	387	Spira di Legiana <ICON BETA>+	337	140	9	pl027_0011
+3	Waist	388	Spira di Odogaron <ICON ALPHA>+	338	140	9	pl029_0001
+3	Waist	389	Spira di Odogaron <ICON BETA>+	339	140	9	pl029_0011
+3	Waist	390	Spira di Lavasioth <ICON ALPHA>+	340	140	9	pl040_0001
+3	Waist	391	Spira di Lavasioth <ICON BETA>+	341	140	9	pl040_0001
+3	Waist	392	Spira di Uragaan <ICON ALPHA>+	342	144	9	pl041_0001
+3	Waist	393	Spira di Uragaan <ICON BETA>+	343	144	9	pl041_0001
+3	Waist	394	Fiancali di Nargacuga <ICON ALPHA>+	344	140	9	pl080_0000
+3	Waist	395	Fiancali di Nargacuga <ICON BETA>+	345	140	9	pl080_0010
+3	Waist	396	Fiancali di Glavenus <ICON ALPHA>+	346	142	9	pl081_0000
+3	Waist	397	Fiancali di Glavenus <ICON BETA>+	347	142	9	pl081_0010
+3	Waist	398	Fiancali di Brachydios <ICON ALPHA>+	348	142	9	pl082_0000
+3	Waist	399	Fiancali di Brachydios <ICON BETA>+	349	142	9	pl082_0010
+3	Waist	400	Fiancali di Tigrex <ICON ALPHA>+	350	142	9	pl083_0000
+3	Waist	401	Fiancali di Tigrex <ICON BETA>+	351	142	9	pl083_0010
+3	Waist	402	Spira tonante <ICON ALPHA>+	352	146	10	pl020_0101
+3	Waist	403	Spira tonante <ICON BETA>+	353	146	10	pl020_0111
+3	Waist	404	Stile vita Jagras	354	0	4	pl008_0000
+3	Waist	405	Stile vita Kulu	355	0	4	pl009_0000
+3	Waist	406	Fiancali cintura nera <ICON ALPHA>+	356	150	10	pl093_0000
+3	Waist	407	Fiancali cintura nera <ICON BETA>+	357	150	10	pl093_0000
+3	Waist	411	Stile vita Tzitzi	361	0	4	pl023_0000
+3	Waist	412	Stile vita Girros	362	0	4	pl022_0000
+3	Waist	413	Spira glaciale <ICON ALPHA>+	363	146	10	pl027_0500
+3	Waist	414	Spira glaciale <ICON BETA>+	364	146	10	pl027_0510
+3	Waist	415	Spira anima di Rath <ICON ALPHA>+	365	148	10	pl033_0101
+3	Waist	416	Spira anima di Rath <ICON BETA>+	366	148	10	pl033_0111
+3	Waist	417	Spira di Diablos nera <ICON ALPHA>+	367	148	10	pl034_0101
+3	Waist	418	Spira di Diablos nera <ICON BETA>+	368	148	10	pl034_0111
+3	Waist	419	Spira d'ebano <ICON ALPHA>+	369	148	10	pl029_0101
+3	Waist	420	Spira d'ebano <ICON BETA>+	370	148	10	pl029_0111
+3	Waist	421	Spira caustica <ICON ALPHA>+	371	150	10	pl081_0100
+3	Waist	422	Spira caustica <ICON BETA>+	372	150	10	pl081_0110
+3	Waist	423	Spira di Artian <ICON ALPHA>+	373	142	9	pl091_0000
+3	Waist	424	Spira di Artian <ICON BETA>+	374	142	9	pl091_0000
+3	Waist	426	Stile vita Pukei <ICON ALPHA>	376	0	4	pl010_0000
+3	Waist	427	Stile vita Pukei <ICON BETA>	377	0	4	pl010_0010
+3	Waist	428	Spira di Dober <ICON ALPHA>+	378	152	10	pl044_0000
+3	Waist	429	Spira di Dober <ICON BETA>+	379	152	10	pl044_0000
+3	Waist	430	Spira di Damasco <ICON ALPHA>+	380	152	10	pl043_0000
+3	Waist	431	Spira di Damasco <ICON BETA>+	381	152	10	pl043_0010
+3	Waist	432	Spira di Velkhana <ICON ALPHA>+	382	154	11	pl085_0000
+3	Waist	433	Spira di Velkhana <ICON BETA>+	383	154	11	pl085_0010
+3	Waist	434	Spira vulcanica <ICON ALPHA>+	384	154	10	pl042_0500
+3	Waist	435	Spira vulcanica <ICON BETA>+	385	154	10	pl042_0510
+3	Waist	436	Spira funerea <ICON ALPHA>+	386	156	11	pl032_0500
+3	Waist	437	Spira funerea <ICON BETA>+	387	156	11	pl032_0510
+3	Waist	438	Spira del Kaiser <ICON ALPHA>+	388	156	11	pl046_0001
+3	Waist	439	Spira del Kaiser <ICON BETA>+	389	156	11	pl046_0011
+3	Waist	440	Bozzolo di Kushala <ICON ALPHA>+	390	156	11	pl047_0001
+3	Waist	441	Bozzolo di Kushala <ICON BETA>+	391	156	11	pl047_0011
+3	Waist	442	Cerchio di Kirin <ICON ALPHA>+	392	154	11	pl035_0001
+3	Waist	443	Cerchio di Kirin <ICON BETA>+	393	154	11	pl035_0011
+3	Waist	444	Spira di Namielle <ICON ALPHA>+	394	158	11	pl086_0000
+3	Waist	445	Spira di Namielle <ICON BETA>+	395	158	11	pl086_0010
+3	Waist	446	Unavailable	396	0	0	None
+3	Waist	447	Stile vita Barroth	397	0	4	pl012_0000
+3	Waist	448	Spira Palatium <ICON ALPHA>+	398	154	10	pl094_0000
+3	Waist	449	Spira Palatium <ICON BETA>+	399	154	10	pl094_0000
+3	Waist	450	Spira a vapore <ICON ALPHA>+	400	142	9	pl104_0000
+3	Waist	451	Spira a vapore <ICON BETA>+	401	142	9	pl104_0000
+3	Waist	453	Spira razziante <ICON ALPHA>+	403	166	11	pl030_0500
+3	Waist	454	Spira razziante <ICON BETA>+	404	166	11	pl030_0510
+3	Waist	455	Spira di Shara Ishvalda <ICON ALPHA>+	405	162	11	pl088_0000
+3	Waist	456	Spira di Shara Ishvalda <ICON BETA>+	406	162	11	pl088_0010
+3	Waist	457	Fiancali selvaggi <ICON ALPHA>+	407	156	10	pl050_0500
+3	Waist	458	Fiancali selvaggi <ICON BETA>+	408	156	10	pl050_0510
+3	Waist	459	Stile vita Anja <ICON ALPHA>	409	0	4	pl020_0000
+3	Waist	460	Stile vita Anja <ICON BETA>	410	0	4	pl020_0010
+3	Waist	461	Fiancali adiutor <ICON ALPHA>+	411	162	11	pl092_0000
+3	Waist	462	Fiancali adiutor <ICON BETA>+	412	162	11	pl092_0000
+3	Waist	464	Spira doriluna <ICON ALPHA>+	414	162	11	pl021_0200
+3	Waist	465	Spira doriluna <ICON BETA>+	415	162	11	pl021_0210
+3	Waist	466	Spira solargenti <ICON ALPHA>+	416	164	11	pl033_0200
+3	Waist	467	Spira solargenti <ICON BETA>+	417	164	11	pl033_0210
+3	Waist	468	Stile vita Jyura	418	0	4	pl011_0000
+3	Waist	469	Stile vita Kadachi	419	0	4	pl013_0000
+3	Waist	470	Spira di Zinogre <ICON ALPHA>+	420	158	10	pl107_0000
+3	Waist	471	Spira di Zinogre <ICON BETA>+	421	158	10	pl107_0010
+3	Waist	472	Spira stigea <ICON ALPHA>+	422	160	10	pl107_0100
+3	Waist	473	Spira stigea <ICON BETA>+	423	160	10	pl107_0110
+3	Waist	474	Fiancali di Garuga <ICON ALPHA>+	424	154	10	pl108_0000
+3	Waist	475	Fiancali di Garuga <ICON BETA>+	425	154	10	pl108_0010
+3	Waist	476	Colonna di Zorah <ICON ALPHA>+	426	160	11	pl038_0000
+3	Waist	477	Colonna di Zorah <ICON BETA>+	427	160	11	pl038_0010
+3	Waist	478	Obi d'oro <ICON ALPHA>+	428	158	10	pl109_0000
+3	Waist	479	Obi d'oro <ICON BETA>+	429	158	10	pl109_0010
+3	Waist	480	Cintura furiosa <ICON ALPHA>+	430	170	11	pl109_0500
+3	Waist	481	Cintura furiosa <ICON BETA>+	431	170	11	pl109_0510
+3	Waist	482	Fiancali rabbiosi <ICON ALPHA>+	432	170	11	pl082_0500
+3	Waist	483	Fiancali rabbiosi <ICON BETA>+	433	170	11	pl082_0510
+3	Waist	484	Cintura ornata Safi <ICON ALPHA>+	434	168	11	pl087_0000
+3	Waist	485	Cintura ornata Safi <ICON BETA>+	435	168	11	pl087_0010
+3	Waist	486	Unavailable	436	0	0	None
+3	Waist	487	Unavailable	437	0	0	None
+3	Waist	492	Falda dell'imperatrice <ICON ALPHA>+	442	164	11	pl051_0001
+3	Waist	493	Falda dell'imperatrice <ICON BETA>+	443	164	11	pl051_0011
+3	Waist	494	Perfidia di Kulve Taroth <ICON ALPHA>+	444	176	11	pl049_0001
+3	Waist	495	Perfidia di Kulve Taroth <ICON BETA>+	445	176	11	pl049_0011
+3	Waist	496	Cintura della rosa <ICON ALPHA>+	446	150	9	pl124_0000
+3	Waist	497	Stile vita Lumu	447	0	4	pl024_0000
+3	Waist	498	Unavailable	448	0	0	None
+3	Waist	499	Stile vita Rathian <ICON ALPHA>	449	0	4	pl021_0000
+3	Waist	500	Unavailable	450	0	0	None
+3	Waist	501	Stile vita Rathian <ICON BETA>	451	0	4	pl021_0010
+3	Waist	502	Vita Oolong <ICON ALPHA>+	452	120	8	pl127_0000
+3	Waist	503	Stile vita Radobaan <ICON ALPHA>	453	0	5	pl028_0000
+3	Waist	504	Gonna astrale <ICON ALPHA>+	454	140	8	pl128_0000
+3	Waist	505	Stile vita Radobaan <ICON BETA>	455	0	5	pl028_0010
+3	Waist	506	Stile vita della rosa	456	0	9	pl124_0000
+3	Waist	507	Unavailable	457	0	0	None
+3	Waist	508	Unavailable	458	0	0	None
+3	Waist	509	Stile vita Oolong	459	0	8	pl127_0000
+3	Waist	510	Stile vita astrale	460	0	8	pl128_0000
+3	Waist	511	Stile vita in ipermetallo	461	0	5	pl025_0000
+3	Waist	512	Stile cintura termale	462	0	8	pl106_0000
+3	Waist	517	Vita palestrata <ICON ALPHA>+	467	154	10	pl115_0000
+3	Waist	518	Spira brutale <ICON ALPHA>+	468	158	10	pl083_0100
+3	Waist	519	Spira brutale <ICON BETA>+	469	158	10	pl083_0110
+3	Waist	520	Spira del guardiano <ICON ALPHA>+	470	50	5	pl121_0000
+3	Waist	521	Stile vita di Yukumo	471	0	6	pl122_0000
+3	Waist	522	Stile vita cavaliere d’argento	472	0	6	pl123_0000
+3	Waist	523	HARDUMMY	473	132	11	pl068_0010
+3	Waist	524	Spira di Namielle <ICON GAMMA>+	474	176	11	pl086_0020
+3	Waist	525	HARDUMMY	475	0	7	pl072_0000
+3	Waist	526	HARDUMMY	476	170	11	pl072_0001
+3	Waist	527	Unavailable	477	0	0	None
+3	Waist	528	Unavailable	478	0	0	None
+3	Waist	529	Unavailable	479	0	0	None
+3	Waist	530	Unavailable	480	0	0	None
+3	Waist	531	Unavailable	481	0	0	None
+3	Waist	532	HARDUMMY	482	160	11	pl068_0020
+3	Waist	533	Unavailable	483	0	0	None
+3	Waist	534	Vita di Leon <ICON ALPHA>+	484	150	11	pl130_0000
+3	Waist	535	Vita di Claire <ICON ALPHA>+	485	150	11	pl131_0000
+3	Waist	536	Unavailable	486	0	0	None
+3	Waist	537	Unavailable	487	0	0	None
+3	Waist	540	Stile vita Dodogama	490	0	4	pl039_0000
+3	Waist	541	Stile vita del lingotto	491	0	5	pl031_0000
+3	Waist	542	Stile vita cuore di Rath <ICON ALPHA>	492	0	5	pl021_0100
+3	Waist	543	Stile vita cuore di Rath <ICON BETA>	493	0	5	pl021_0110
+3	Waist	544	Stile vita Lavasioth <ICON ALPHA>	494	0	5	pl040_0000
+3	Waist	545	Stile vita Lavasioth <ICON BETA>	495	0	5	pl040_0010
+3	Waist	546	Stile vita Legiana <ICON ALPHA>	496	0	5	pl027_0000
+3	Waist	547	Stile vita Legiana <ICON BETA>	497	0	5	pl027_0010
+3	Waist	548	Stile vita Odogaron <ICON ALPHA>	498	0	5	pl029_0000
+3	Waist	549	Stile vita Odogaron <ICON BETA>	499	0	5	pl029_0010
+3	Waist	550	Stile vita Rathalos <ICON ALPHA>	500	0	5	pl033_0000
+3	Waist	551	Stile vita Rathalos <ICON BETA>	501	0	5	pl033_0010
+3	Waist	552	Stile vita Anima di Rath <ICON ALPHA>	502	0	6	pl033_0100
+3	Waist	553	Stile vita Anima di Rath <ICON BETA>	503	0	6	pl033_0110
+3	Waist	554	Stile vita Diablos <ICON ALPHA>	504	0	5	pl034_0000
+3	Waist	555	Stile vita Diablos <ICON BETA>	505	0	5	pl034_0010
+3	Waist	556	Stile vita Diablos nera <ICON ALPHA>	506	0	6	pl034_0100
+3	Waist	557	Stile vita Diablos nera <ICON BETA>	507	0	6	pl034_0110
+3	Waist	558	Stile vita Uragaan <ICON ALPHA>	508	0	6	pl041_0000
+3	Waist	559	Stile vita Uragaan <ICON BETA>	509	0	6	pl041_0010
+3	Waist	560	Stile vita Bazel <ICON ALPHA>	510	0	6	pl042_0000
+3	Waist	561	Stile vita Bazel <ICON BETA>	511	0	6	pl042_0010
+3	Waist	562	Stile vita Deviljho <ICON ALPHA>	512	0	6	pl050_0000
+3	Waist	563	Stile vita Deviljho <ICON BETA>	513	0	6	pl050_0010
+3	Waist	564	Stile vita Dober <ICON ALPHA>	514	0	6	pl044_0000
+3	Waist	565	Stile vita Dober <ICON BETA>	515	0	6	pl044_0000
+3	Waist	566	Stile vita Damasco <ICON ALPHA>	516	0	6	pl043_0000
+3	Waist	567	Stile vita Damasco <ICON BETA>	517	0	6	pl043_0010
+3	Waist	568	Stile vita Zorah <ICON ALPHA>	518	0	7	pl038_0000
+3	Waist	569	Stile vita Zorah <ICON BETA>	519	0	7	pl038_0010
+3	Waist	570	Stile vita Zorah <ICON GAMMA>	520	0	7	pl038_0020
+3	Waist	571	Stile vita Nergigante <ICON ALPHA>	521	0	7	pl030_0000
+3	Waist	572	Stile vita Nergigante <ICON BETA>	522	0	7	pl030_0010
+3	Waist	573	Stile vita Nergigante <ICON GAMMA>	523	0	7	pl030_0020
+3	Waist	574	Stile vita Kaiser <ICON ALPHA>	524	0	7	pl046_0000
+3	Waist	575	Stile vita Kaiser <ICON BETA>	525	0	7	pl046_0010
+3	Waist	576	Stile vita Kaiser <ICON GAMMA>	526	0	7	pl046_0020
+3	Waist	577	Stile vita Kushala <ICON ALPHA>	527	0	7	pl047_0000
+3	Waist	578	Stile vita Kushala <ICON BETA>	528	0	7	pl047_0010
+3	Waist	579	Stile vita Kushala <ICON GAMMA>	529	0	7	pl047_0020
+3	Waist	580	Stile vita Vaal <ICON ALPHA>	530	0	7	pl032_0000
+3	Waist	581	Stile vita Vaal <ICON BETA>	531	0	7	pl032_0010
+3	Waist	582	Stile vita Vaal <ICON GAMMA>	532	0	7	pl032_0020
+3	Waist	583	Stile vita Kirin <ICON ALPHA>	533	0	7	pl035_0000
+3	Waist	584	Stile vita Kirin <ICON BETA>	534	0	7	pl035_0010
+3	Waist	585	Stile vita Kirin <ICON GAMMA>	535	0	7	pl035_0020
+3	Waist	586	Stile vita Xeno <ICON ALPHA>	536	0	7	pl045_0000
+3	Waist	587	Stile vita Xeno <ICON BETA>	537	0	7	pl045_0010
+3	Waist	588	Stile vita Xeno <ICON GAMMA>	538	0	7	pl045_0020
+3	Waist	589	Stile vita Imperatrice <ICON ALPHA>	539	0	7	pl051_0000
+3	Waist	590	Stile vita Imperatrice <ICON BETA>	540	0	7	pl051_0010
+3	Waist	591	Stile vita Imperatrice <ICON GAMMA>	541	0	7	pl051_0020
+3	Waist	592	Stile vita Kulve <ICON ALPHA>	542	0	7	pl049_0000
+3	Waist	593	Stile vita Kulve <ICON BETA>	543	0	7	pl049_0010
+3	Waist	594	Stile vita Kulve <ICON GAMMA>	544	0	7	pl049_0020
+3	Waist	595	Unavailable	546	0	0	None
+3	Waist	596	Unavailable	547	0	0	None
+3	Waist	599	Unavailable	550	0	0	None
+3	Waist	600	Unavailable	551	0	0	None
+3	Waist	601	Unavailable	552	0	0	None
+3	Waist	602	Unavailable	553	0	0	None
+3	Waist	603	Unavailable	554	0	0	None
+3	Waist	604	Unavailable	555	0	0	None
+3	Waist	605	Unavailable	556	0	0	None
+3	Waist	606	Unavailable	557	0	0	None
+3	Waist	607	Unavailable	558	0	0	None
+3	Waist	608	Unavailable	559	0	0	None
+3	Waist	609	Unavailable	560	0	0	None
+3	Waist	610	Unavailable	561	0	0	None
+3	Waist	611	Unavailable	562	0	0	None
+3	Waist	612	Unavailable	563	0	0	None
+3	Waist	613	Unavailable	564	0	0	None
+3	Waist	614	Unavailable	565	0	0	None
+3	Waist	615	Unavailable	566	0	0	None
+3	Waist	616	Unavailable	567	0	0	None
+3	Waist	617	Unavailable	568	0	0	None
+3	Waist	618	Unavailable	569	0	0	None
+3	Waist	619	Unavailable	570	0	0	None
+3	Waist	620	Unavailable	571	0	0	None
+3	Waist	621	Unavailable	572	0	0	None
+3	Waist	622	Unavailable	573	0	0	None
+3	Waist	623	Unavailable	574	0	0	None
+3	Waist	624	Stile vita Artian	575	0	9	pl091_0000
+3	Waist	625	Unavailable	674	0	0	None
+3	Waist	626	Unavailable	576	0	0	None
+3	Waist	627	Unavailable	577	0	0	None
+3	Waist	628	Unavailable	578	0	0	None
+3	Waist	629	Unavailable	579	0	0	None
+3	Waist	630	Unavailable	580	0	0	None
+3	Waist	631	Unavailable	581	0	0	None
+3	Waist	632	Unavailable	582	0	0	None
+3	Waist	633	Unavailable	583	0	0	None
+3	Waist	634	Unavailable	584	0	0	None
+3	Waist	635	Unavailable	585	0	0	None
+3	Waist	636	Unavailable	586	0	0	None
+3	Waist	637	Unavailable	587	0	0	None
+3	Waist	638	Unavailable	588	0	0	None
+3	Waist	639	Unavailable	589	0	0	None
+3	Waist	640	Unavailable	590	0	0	None
+3	Waist	641	Unavailable	591	0	0	None
+3	Waist	642	Unavailable	592	0	0	None
+3	Waist	643	Unavailable	593	0	0	None
+3	Waist	644	Unavailable	594	0	0	None
+3	Waist	645	Unavailable	595	0	0	None
+3	Waist	646	Unavailable	596	0	0	None
+3	Waist	647	Unavailable	597	0	0	None
+3	Waist	648	Unavailable	598	0	0	None
+3	Waist	649	Unavailable	599	0	0	None
+3	Waist	650	Unavailable	600	0	0	None
+3	Waist	651	Unavailable	601	0	0	None
+3	Waist	652	Unavailable	602	0	0	None
+3	Waist	653	Unavailable	603	0	0	None
+3	Waist	654	Unavailable	604	0	0	None
+3	Waist	655	Unavailable	605	0	0	None
+3	Waist	656	Unavailable	606	0	0	None
+3	Waist	657	Unavailable	607	0	0	None
+3	Waist	658	Stile vita cintura nera	608	0	10	pl093_0000
+3	Waist	659	Unavailable	609	0	0	None
+3	Waist	660	Unavailable	610	0	0	None
+3	Waist	661	Unavailable	611	0	0	None
+3	Waist	662	Unavailable	612	0	0	None
+3	Waist	663	Unavailable	613	0	0	None
+3	Waist	664	Unavailable	614	0	0	None
+3	Waist	665	Unavailable	615	0	0	None
+3	Waist	666	Unavailable	616	0	0	None
+3	Waist	667	Unavailable	617	0	0	None
+3	Waist	668	Unavailable	618	0	0	None
+3	Waist	669	Unavailable	619	0	0	None
+3	Waist	670	Unavailable	620	0	0	None
+3	Waist	671	Unavailable	621	0	0	None
+3	Waist	672	Unavailable	622	0	0	None
+3	Waist	673	Unavailable	623	0	0	None
+3	Waist	674	Unavailable	624	0	0	None
+3	Waist	675	Unavailable	625	0	0	None
+3	Waist	678	Unavailable	628	0	0	None
+3	Waist	679	Unavailable	629	0	0	None
+3	Waist	680	Unavailable	630	0	0	None
+3	Waist	681	Unavailable	631	0	0	None
+3	Waist	682	Unavailable	632	0	0	None
+3	Waist	683	Unavailable	633	0	0	None
+3	Waist	684	Unavailable	634	0	0	None
+3	Waist	685	Unavailable	635	0	0	None
+3	Waist	686	Unavailable	636	0	0	None
+3	Waist	687	Unavailable	637	0	0	None
+3	Waist	688	Unavailable	638	0	0	None
+3	Waist	689	Unavailable	639	0	0	None
+3	Waist	690	Unavailable	640	0	0	None
+3	Waist	691	Unavailable	641	0	0	None
+3	Waist	692	Unavailable	642	0	0	None
+3	Waist	693	Unavailable	643	0	0	None
+3	Waist	694	Unavailable	644	0	0	None
+3	Waist	695	Unavailable	645	0	0	None
+3	Waist	696	Unavailable	646	0	0	None
+3	Waist	697	Unavailable	647	0	0	None
+3	Waist	698	Unavailable	648	0	0	None
+3	Waist	699	Unavailable	649	0	0	None
+3	Waist	700	Unavailable	650	0	0	None
+3	Waist	701	Unavailable	651	0	0	None
+3	Waist	702	Unavailable	652	0	0	None
+3	Waist	703	Unavailable	653	0	0	None
+3	Waist	704	Unavailable	654	0	0	None
+3	Waist	705	Unavailable	655	0	0	None
+3	Waist	706	Unavailable	656	0	0	None
+3	Waist	707	Unavailable	657	0	0	None
+3	Waist	708	Unavailable	658	0	0	None
+3	Waist	709	Unavailable	659	0	0	None
+3	Waist	710	Unavailable	660	0	0	None
+3	Waist	715	Unavailable	665	0	0	None
+3	Waist	716	Unavailable	666	0	0	None
+3	Waist	717	Unavailable	667	0	0	None
+3	Waist	718	Unavailable	668	0	0	None
+3	Waist	719	Unavailable	669	0	0	None
+3	Waist	720	Unavailable	670	0	0	None
+3	Waist	721	Unavailable	671	0	0	None
+3	Waist	722	Unavailable	672	0	0	None
+3	Waist	723	Unavailable	673	0	0	None
+3	Waist	724	Unavailable	675	0	0	None
+3	Waist	725	Unavailable	0	0	0	None
+3	Waist	726	Unavailable	0	0	0	None
+3	Waist	727	Unavailable	0	0	0	None
+3	Waist	728	Unavailable	0	0	0	None
+3	Waist	729	Unavailable	0	0	0	None
+3	Waist	730	Unavailable	0	0	0	None
+3	Waist	731	Unavailable	0	0	0	None
+3	Waist	732	Unavailable	0	0	0	None
+3	Waist	733	Unavailable	0	0	0	None
+3	Waist	734	Unavailable	0	0	0	None
+3	Waist	735	Unavailable	0	0	0	None
+3	Waist	736	Unavailable	0	0	0	None
+3	Waist	737	Unavailable	0	0	0	None
+3	Waist	738	Unavailable	0	0	0	None
+3	Waist	739	Unavailable	0	0	0	None
+3	Waist	740	Unavailable	0	0	0	None
+3	Waist	741	Unavailable	0	0	0	None
+3	Waist	742	Unavailable	0	0	0	None
+3	Waist	743	Unavailable	0	0	0	None
+3	Waist	744	Unavailable	0	0	0	None
+3	Waist	745	Unavailable	0	0	0	None
+3	Waist	746	Unavailable	0	0	0	None
+3	Waist	747	Unavailable	0	0	0	None
+3	Waist	748	Unavailable	0	0	0	None
+3	Waist	749	Unavailable	0	0	0	None
+3	Waist	750	Unavailable	0	0	0	None
+4	Leg	2	Pantaloni di cuoio	1	2	0	pl001_0000
+4	Leg	15	Pantaloni di maglia	15	2	0	pl014_0000
+4	Leg	1	Schinieri del cacciatore	2	6	0	pl002_0000
+4	Leg	5	Schinieri d'osso	5	6	0	pl003_0000
+4	Leg	6	Schinieri in lega	6	8	1	pl004_0000
+4	Leg	9	Schinieri di Vespoid	9	8	0	pl007_0000
+4	Leg	8	Stivali di Gajau	8	12	0	pl006_0000
+4	Leg	4	Schinieri di Jagras	4	8	0	pl008_0000
+4	Leg	10	Schinieri di Kulu	10	10	0	pl009_0000
+4	Leg	11	Schinieri di Pukei	11	12	1	pl010_0000
+4	Leg	13	Schinieri di Barroth	13	14	1	pl012_0000
+4	Leg	12	Schinieri di Jyura	12	14	1	pl011_0000
+4	Leg	14	Schinieri di Kadachi	14	16	1	pl013_0000
+4	Leg	25	Schinieri in ipermetallo	24	18	2	pl025_0000
+4	Leg	18	Schinieri di Hornetaur	17	18	2	pl017_0000
+4	Leg	3	Schinieri di Anja	3	20	2	pl020_0000
+4	Leg	21	Schinieri di Rathian	20	22	2	pl021_0000
+4	Leg	23	Schinieri di Tzitzi	22	18	2	pl023_0000
+4	Leg	24	Schinieri di Lumu	23	20	2	pl024_0000
+4	Leg	22	Schinieri di Girros	21	20	2	pl022_0000
+4	Leg	28	Schinieri di Baan	27	24	2	pl028_0000
+4	Leg	20	Crura dello scarabeo	19	22	2	pl019_0000 (Male Only)
+4	Leg	159	Crura di farfalla	164	22	2	pl019_0000 (Female Only)
+4	Leg	31	Schinieri del lingotto	30	28	3	pl031_0000
+4	Leg	27	Schinieri di Legiana	26	30	3	pl027_0000
+4	Leg	29	Schinieri di Odogaron	28	30	3	pl029_0000
+4	Leg	33	Schinieri di Rathalos	32	30	3	pl033_0000
+4	Leg	34	Schinieri di Diablos	33	32	3	pl034_0000
+4	Leg	35	Paragambe di Kirin	34	34	3	pl035_0000
+4	Leg	26	Tallone putrefatto	25	32	3	pl026_0000
+4	Leg	36	Stivali di brigata	35	28	3	pl036_0000
+4	Leg	39	Pantaloni di cuoio <ICON ALPHA>	37	32	4	pl001_0000
+4	Leg	40	Pantaloni di cuoio <ICON BETA>	38	32	4	pl001_0000
+4	Leg	147	Pantaloni di maglia <ICON ALPHA>	39	32	4	pl014_0000
+4	Leg	148	Pantaloni di maglia <ICON BETA>	40	32	4	pl014_0000
+4	Leg	41	Schinieri del cacciatore <ICON ALPHA>	41	36	4	pl002_0000
+4	Leg	42	Schinieri del cacciatore <ICON BETA>	42	36	4	pl002_0010
+4	Leg	43	Schinieri d'osso <ICON ALPHA>	43	36	4	pl003_0000
+4	Leg	44	Schinieri d'osso <ICON BETA>	44	36	4	pl003_0000
+4	Leg	45	Schinieri in lega <ICON ALPHA>	45	36	4	pl004_0000
+4	Leg	46	Schinieri in lega <ICON BETA>	46	36	4	pl004_0000
+4	Leg	51	Schinieri di Vespoid <ICON ALPHA>	51	38	4	pl007_0000
+4	Leg	52	Schinieri di Vespoid <ICON BETA>	52	38	4	pl007_0000
+4	Leg	57	Schinieri di Hornetaur <ICON ALPHA>	57	38	4	pl017_0000
+4	Leg	58	Schinieri di Hornetaur <ICON BETA>	58	38	4	pl017_0000
+4	Leg	49	Stivali di Gajau <ICON ALPHA>	47	40	4	pl006_0000
+4	Leg	50	Stivali di Gajau <ICON BETA>	48	40	4	pl006_0000
+4	Leg	61	Schinieri di Jagras <ICON ALPHA>	61	40	4	pl008_0000
+4	Leg	62	Schinieri di Jagras <ICON BETA>	62	40	4	pl008_0000
+4	Leg	63	Schinieri di Kulu <ICON ALPHA>	63	40	4	pl009_0000
+4	Leg	64	Schinieri di Kulu <ICON BETA>	64	40	4	pl009_0000
+4	Leg	65	Schinieri di Pukei <ICON ALPHA>	65	42	4	pl010_0000
+4	Leg	66	Schinieri di Pukei <ICON BETA>	66	42	4	pl010_0010
+4	Leg	69	Schinieri di Barroth <ICON ALPHA>	69	42	4	pl012_0000
+4	Leg	70	Schinieri di Barroth <ICON BETA>	70	42	4	pl012_0000
+4	Leg	67	Schinieri di Jyura <ICON ALPHA>	67	44	4	pl011_0000
+4	Leg	68	Schinieri di Jyura <ICON BETA>	68	44	4	pl011_0000
+4	Leg	71	Schinieri di Kadachi <ICON ALPHA>	71	44	4	pl013_0000
+4	Leg	72	Schinieri di Kadachi <ICON BETA>	72	44	4	pl013_0000
+4	Leg	93	Schinieri di Anja <ICON ALPHA>	93	44	4	pl020_0000
+4	Leg	94	Schinieri di Anja <ICON BETA>	94	44	4	pl020_0010
+4	Leg	73	Schinieri di Rathian <ICON ALPHA>	73	46	4	pl021_0000
+4	Leg	74	Schinieri di Rathian <ICON BETA>	74	46	4	pl021_0010
+4	Leg	77	Schinieri di Tzitzi <ICON ALPHA>	77	40	4	pl023_0000
+4	Leg	78	Schinieri di Tzitzi <ICON BETA>	78	40	4	pl023_0000
+4	Leg	79	Schinieri di Lumu <ICON ALPHA>	79	44	4	pl024_0000
+4	Leg	80	Schinieri di Lumu <ICON BETA>	80	44	4	pl024_0000
+4	Leg	75	Schinieri di Girros <ICON ALPHA>	75	40	4	pl022_0000
+4	Leg	76	Schinieri di Girros <ICON BETA>	76	40	4	pl022_0000
+4	Leg	97	Schinieri di Baan <ICON ALPHA>	97	46	5	pl028_0000
+4	Leg	98	Schinieri di Baan <ICON BETA>	98	46	5	pl028_0010
+4	Leg	89	Schinieri in ipermetallo <ICON ALPHA>	89	50	5	pl025_0000
+4	Leg	90	Schinieri in ipermetallo <ICON BETA>	90	50	5	pl025_0000
+4	Leg	91	Schinieri del lingotto <ICON ALPHA>	91	50	5	pl031_0000
+4	Leg	92	Schinieri del lingotto <ICON BETA>	92	50	5	pl031_0000
+4	Leg	87	Schinieri cuore di Rath <ICON ALPHA>	87	52	5	pl021_0100
+4	Leg	88	Schinieri cuore di Rath <ICON BETA>	88	52	5	pl021_0110
+4	Leg	95	Schinieri di Legiana <ICON ALPHA>	95	54	5	pl027_0000
+4	Leg	96	Schinieri di Legiana <ICON BETA>	96	54	5	pl027_0010
+4	Leg	81	Schinieri di Odogaron <ICON ALPHA>	81	54	5	pl029_0000
+4	Leg	82	Schinieri di Odogaron <ICON BETA>	82	54	5	pl029_0010
+4	Leg	101	Schinieri di Rathalos <ICON ALPHA>	101	54	5	pl033_0000
+4	Leg	102	Schinieri di Rathalos <ICON BETA>	102	54	5	pl033_0010
+4	Leg	111	Schinieri anima di Rath <ICON ALPHA>	111	56	6	pl033_0100
+4	Leg	112	Schinieri anima di Rath <ICON BETA>	112	56	6	pl033_0110
+4	Leg	103	Schinieri di Diablos <ICON ALPHA>	103	54	5	pl034_0000
+4	Leg	104	Schinieri di Diablos <ICON BETA>	104	54	5	pl034_0010
+4	Leg	113	Schinieri di Diablos nera <ICON ALPHA>	113	56	6	pl034_0100
+4	Leg	114	Schinieri di Diablos nera <ICON BETA>	114	56	6	pl034_0110
+4	Leg	83	Schinieri di Dodogama <ICON ALPHA>	83	48	4	pl039_0000
+4	Leg	84	Schinieri di Dodogama <ICON BETA>	84	48	4	pl039_0000
+4	Leg	85	Schinieri di Lavasioth <ICON ALPHA>	85	56	5	pl040_0000
+4	Leg	86	Schinieri di Lavasioth <ICON BETA>	86	56	5	pl040_0010
+4	Leg	109	Schinieri di Uragaan <ICON ALPHA>	109	60	6	pl041_0000
+4	Leg	110	Schinieri di Uragaan <ICON BETA>	110	60	6	pl041_0010
+4	Leg	107	Schinieri di Nergigante <ICON ALPHA>	107	64	7	pl030_0000
+4	Leg	108	Schinieri di Nergigante <ICON BETA>	108	64	7	pl030_0010
+4	Leg	117	Crura dello scarabeo <ICON ALPHA>	117	42	4	pl019_0000 (Male Only)
+4	Leg	118	Crura dello scarabeo <ICON BETA>	118	42	4	pl019_0000 (Male Only)
+4	Leg	160	Crura di farfalla <ICON ALPHA>	165	42	4	pl019_0000 (Female Only)
+4	Leg	161	Crura di farfalla <ICON BETA>	166	42	4	pl019_0000 (Female Only)
+4	Leg	119	Stivali di brigata <ICON ALPHA>	119	52	5	pl036_0000
+4	Leg	120	Stivali di brigata <ICON BETA>	120	52	5	pl036_0000
+4	Leg	121	Schinieri di Damasco <ICON ALPHA>	121	60	6	pl043_0000
+4	Leg	122	Schinieri di Damasco <ICON BETA>	122	60	6	pl043_0010
+4	Leg	123	Schinieri di Dober <ICON ALPHA>	123	60	6	pl044_0000
+4	Leg	124	Schinieri di Dober <ICON BETA>	124	60	6	pl044_0000
+4	Leg	129	Tibia di Kushala <ICON ALPHA>	129	64	7	pl047_0000
+4	Leg	130	Tibia di Kushala <ICON BETA>	130	64	7	pl047_0010
+4	Leg	127	Schinieri del Kaiser <ICON ALPHA>	127	64	7	pl046_0000
+4	Leg	128	Schinieri del Kaiser <ICON BETA>	128	64	7	pl046_0010
+4	Leg	105	Paragambe di Kirin <ICON ALPHA>	105	64	7	pl035_0000
+4	Leg	106	Paragambe di Kirin <ICON BETA>	106	64	7	pl035_0010
+4	Leg	99	Schinieri di Vaal Hazak <ICON ALPHA>	99	64	7	pl032_0000
+4	Leg	100	Schinieri di Vaal Hazak <ICON BETA>	100	64	7	pl032_0010
+4	Leg	115	Schinieri di Bazel <ICON ALPHA>	115	58	6	pl042_0000
+4	Leg	116	Schinieri di Bazel <ICON BETA>	116	58	6	pl042_0010
+4	Leg	131	Tallone putrefatto <ICON ALPHA>	133	62	6	pl026_0000
+4	Leg	132	Tallone putrefatto <ICON BETA>	134	62	6	pl026_0000
+4	Leg	133	Stivali della Gilda <ICON ALPHA>	135	62	7	pl048_0000
+4	Leg	134	Stivali della Gilda <ICON BETA>	136	62	7	pl048_0000
+4	Leg	125	Speroni di Xeno'jiiva <ICON ALPHA>	125	72	7	pl045_0000
+4	Leg	126	Speroni di Xeno'jiiva <ICON BETA>	126	72	7	pl045_0010
+4	Leg	135	Unavailable	137	2	0	pl001_0000
+4	Leg	136	Unavailable	138	2	0	pl001_0000
+4	Leg	137	Speroni di Zorah <ICON ALPHA>	139	44	5	pl038_0000
+4	Leg	138	Speroni di Zorah <ICON BETA>	140	44	5	pl038_0010
+4	Leg	149	Brache della commissione <ICON ALPHA>	141	70	7	pl053_0000
+4	Leg	150	Brache della commissione <ICON BETA>	142	70	7	pl053_0000
+4	Leg	162	Stile gambe brigata	145	0	6	pl036_0000
+4	Leg	163	Stile gambe Gilda	146	0	6	pl048_0000
+4	Leg	151	Stile gambe floreale	147	0	3	pl074_0000
+4	Leg	152	Stile gambe sommozzatore	148	0	3	pl075_0000
+4	Leg	145	Stile gambe raccolto	149	0	3	pl076_0000
+4	Leg	146	Stile gambe di Orione	150	0	3	pl077_0000
+4	Leg	153	Stile gambe gran galà	153	0	3	pl078_0000
+4	Leg	299	HARDUMMY	154	0	7	pl068_0000
+4	Leg	291	HARDUMMY	155	0	7	pl069_0000
+4	Leg	292	HARDUMMY	156	0	7	pl070_0000
+4	Leg	141	Unavailable	143	2	0	pl001_0000
+4	Leg	142	Unavailable	179	2	0	pl001_0000
+4	Leg	143	Unavailable	180	2	0	pl001_0000
+4	Leg	144	Unavailable	181	2	0	pl001_0000
+4	Leg	297	Stile gambe Bayek	159	0	7	pl120_0000
+4	Leg	158	Unavailable	160	2	0	pl001_0000
+4	Leg	165	Unavailable	170	2	0	pl001_0000
+4	Leg	166	Unavailable	171	2	0	pl001_0000
+4	Leg	164	Schinieri delle origini	169	6	0	pl018_0000
+4	Leg	190	Unavailable	182	2	0	pl001_0000
+4	Leg	191	Collera di Kulve Taroth <ICON ALPHA>	183	72	7	pl049_0000
+4	Leg	192	Collera di Kulve Taroth <ICON BETA>	184	72	7	pl049_0010
+4	Leg	193	Gambali floreali	185	18	2	pl074_0000
+4	Leg	194	Stivali da sommozzatore	186	22	2	pl075_0000
+4	Leg	195	Raiz del raccolto	187	26	2	pl076_0000
+4	Leg	196	Stivali di Orione	188	30	3	pl077_0000
+4	Leg	197	Pantaloni gran galà	189	34	3	pl078_0000
+4	Leg	200	Gambe del Samurai	190	0	3	pl067_0000
+4	Leg	201	Schinieri Vangis <ICON ALPHA>	191	58	6	pl050_0000
+4	Leg	202	Schinieri Vangis <ICON BETA>	192	58	6	pl050_0010
+4	Leg	203	Unavailable	193	2	0	pl001_0000
+4	Leg	204	"Suneate Bushi ""Sabi"""	194	0	6	pl066_0000
+4	Leg	205	"Suneate Bushi ""Homare"""	195	0	6	pl066_0010
+4	Leg	206	Gambali drachen <ICON ALPHA>	196	72	7	pl073_0000
+4	Leg	207	Stivali floreali <ICON ALPHA>	197	40	4	pl074_0000
+4	Leg	208	Stivali da sommozzatore <ICON ALPHA>	198	46	4	pl075_0000
+4	Leg	209	Raiz del raccolto <ICON ALPHA>	199	52	5	pl076_0000
+4	Leg	210	Stivali di Orione <ICON ALPHA>	200	58	5	pl077_0000
+4	Leg	211	Pantaloni gran galà <ICON ALPHA>	201	64	6	pl078_0000
+4	Leg	212	Crura di farfalla	202	22	2	pl057_0000 (Male Only)
+4	Leg	213	Crura di farfalla <ICON ALPHA>	203	42	4	pl057_0000 (Male Only)
+4	Leg	214	Crura di farfalla <ICON BETA>	204	42	4	pl057_0010 (Male Only)
+4	Leg	215	Crura dello scarabeo	205	22	2	pl057_0000 (Female Only)
+4	Leg	216	Crura dello scarabeo <ICON ALPHA>	206	42	4	pl057_0000 (Female Only)
+4	Leg	217	Crura dello scarabeo <ICON BETA>	207	42	4	pl057_0000 (Female Only)
+4	Leg	218	Schinieri di Vaal Hazak <ICON GAMMA>	208	72	7	pl032_0020
+4	Leg	219	Paragambe di Kirin <ICON GAMMA>	209	72	7	pl035_0020
+4	Leg	220	Schinieri del Kaiser <ICON GAMMA>	210	72	7	pl046_0020
+4	Leg	221	Tibia di Kushala <ICON GAMMA>	211	72	7	pl047_0020
+4	Leg	222	Schinieri di Nergigante <ICON GAMMA>	212	72	7	pl030_0020
+4	Leg	223	Speroni di Zorah <ICON GAMMA>	213	72	7	pl038_0020
+4	Leg	224	Speroni di Xeno'jiiva <ICON GAMMA>	214	72	7	pl045_0020
+4	Leg	225	HARDUMMY	215	46	4	pl068_0000
+4	Leg	226	HARDUMMY	216	12	1	pl069_0000
+4	Leg	227	HARDUMMY	217	60	6	pl069_0000
+4	Leg	228	HARDUMMY	218	50	5	pl070_0000
+4	Leg	229	Gambali sommo celeste <ICON ALPHA>	219	56	6	pl072_0000
+4	Leg	230	Stivali di Dante <ICON ALPHA>	220	64	7	pl071_0000
+4	Leg	231	Schinieri dell'imperatrice <ICON ALPHA>	221	70	7	pl051_0000
+4	Leg	232	Schinieri dell'imperatrice <ICON BETA>	222	70	7	pl051_0010
+4	Leg	233	Stile gambe farfalla	227	0	6	pl117_0000
+4	Leg	234	Stile gambe putrefatto	228	0	6	pl026_0000
+4	Leg	235	Stile gambe Dante	230	0	7	pl071_0000
+4	Leg	236	Stile gambe drachen	231	0	7	pl073_0000
+4	Leg	237	Stile gambe della commissione	234	0	6	pl053_0000
+4	Leg	238	Stile gambe delle origini	237	0	6	pl018_0000
+4	Leg	239	Stile gambe scarabeo	238	0	6	pl116_0000
+4	Leg	240	Invalid Message	239	2	0	pl001_0000
+4	Leg	298	HARDUMMY	242	64	7	pl068_0000
+4	Leg	242	Schinieri dell'imperatrice <ICON GAMMA>	243	70	7	pl051_0020
+4	Leg	293	Gambe di Geralt <ICON ALPHA>	244	70	7	pl118_0000
+4	Leg	294	Gambe di Ciri <ICON ALPHA>	245	70	7	pl119_0000
+4	Leg	295	Stile gambe di Geralt	246	0	7	pl118_0000
+4	Leg	296	Stile gambe di Ciri	247	0	7	pl119_0000
+4	Leg	247	Collera di Kulve Taroth <ICON GAMMA>	248	72	7	pl049_0020
+4	Leg	248	Schinieri del difensore <ICON ALPHA>	249	50	5	pl121_0000
+4	Leg	300	Stile gambe del lupo bianco	250	0	8	pl105_0000
+4	Leg	301	Stile gambe del guardiano	545	0	5	pl121_0000
+4	Leg	302	Schinieri d'osso <ICON ALPHA>+	252	114	8	pl003_0000
+4	Leg	303	Schinieri d'osso <ICON BETA>+	253	114	8	pl003_0000
+4	Leg	304	Schinieri in lega <ICON ALPHA>+	254	114	8	pl004_0000
+4	Leg	305	Schinieri in lega <ICON BETA>+	255	114	8	pl004_0000
+4	Leg	306	Schinieri di Vespoid <ICON ALPHA>+	256	116	8	pl007_0001
+4	Leg	307	Schinieri di Vespoid <ICON BETA>+	257	116	8	pl007_0001
+4	Leg	308	Schinieri di Hornetaur <ICON ALPHA>+	258	116	8	pl017_0001
+4	Leg	309	Schinieri di Hornetaur <ICON BETA>+	259	116	8	pl017_0001
+4	Leg	312	Stivali di Gajau <ICON ALPHA>+	262	116	8	pl006_0000
+4	Leg	313	Stivali di Gajau <ICON BETA>+	263	116	8	pl006_0000
+4	Leg	324	Schinieri di Jagras <ICON ALPHA>+	274	116	8	pl008_0001
+4	Leg	325	Schinieri di Jagras <ICON BETA>+	275	116	8	pl008_0001
+4	Leg	326	Schinieri di Tzitzi <ICON ALPHA>+	276	116	8	pl023_0001
+4	Leg	327	Schinieri di Tzitzi <ICON BETA>+	277	116	8	pl023_0001
+4	Leg	328	Schinieri di Girros <ICON ALPHA>+	278	116	8	pl022_0001
+4	Leg	329	Schinieri di Girros <ICON BETA>+	279	116	8	pl022_0001
+4	Leg	330	Schinieri di Dodogama <ICON ALPHA>+	280	120	8	pl039_0001
+4	Leg	331	Schinieri di Dodogama <ICON BETA>+	281	120	8	pl039_0001
+4	Leg	332	Schinieri di Kulu <ICON ALPHA>+	282	116	8	pl009_0001
+4	Leg	333	Schinieri di Kulu <ICON BETA>+	283	116	8	pl009_0001
+4	Leg	334	Schinieri di Pukei <ICON ALPHA>+	284	118	8	pl010_0001
+4	Leg	335	Schinieri di Pukei <ICON BETA>+	285	118	8	pl010_0001
+4	Leg	336	Schinieri di Barroth <ICON ALPHA>+	286	118	8	pl012_0001
+4	Leg	337	Schinieri di Barroth <ICON BETA>+	287	118	8	pl012_0001
+4	Leg	338	Schinieri di Jyura <ICON ALPHA>+	288	118	8	pl011_0001
+4	Leg	339	Schinieri di Jyura <ICON BETA>+	289	118	8	pl011_0001
+4	Leg	340	Schinieri di Beo <ICON ALPHA>+	290	118	8	pl110_0000
+4	Leg	341	Schinieri di Beo <ICON BETA>+	291	118	8	pl110_0000
+4	Leg	342	Schinieri di Kadachi <ICON ALPHA>+	292	120	8	pl013_0001
+4	Leg	343	Schinieri di Kadachi <ICON BETA>+	293	120	8	pl013_0001
+4	Leg	344	Schinieri in ipermetallo <ICON ALPHA>+	294	128	8	pl025_0000
+4	Leg	345	Schinieri in ipermetallo <ICON BETA>+	295	128	8	pl025_0000
+4	Leg	346	Schinieri di Banbaro <ICON ALPHA>+	296	130	8	pl084_0000
+4	Leg	347	Schinieri di Banbaro <ICON BETA>+	297	130	8	pl084_0010
+4	Leg	348	Schinieri di Anja <ICON ALPHA>+	298	132	8	pl020_0001
+4	Leg	349	Schinieri di Anja <ICON BETA>+	299	132	8	pl020_0011
+4	Leg	350	Schinieri di Rathian <ICON ALPHA>+	300	130	8	pl021_0001
+4	Leg	351	Schinieri di Rathian <ICON BETA>+	301	130	8	pl021_0011
+4	Leg	352	Schinieri cuore di Rath <ICON ALPHA>+	302	132	8	pl021_0101
+4	Leg	353	Schinieri cuore di Rath <ICON BETA>+	303	132	8	pl021_0111
+4	Leg	354	Schinieri di Lumu <ICON ALPHA>+	304	130	8	pl024_0001
+4	Leg	355	Schinieri di Lumu <ICON BETA>+	305	130	8	pl024_0001
+4	Leg	356	Schinieri onirici <ICON ALPHA>+	306	132	8	pl024_0101
+4	Leg	357	Schinieri onirici <ICON BETA>+	307	132	8	pl024_0101
+4	Leg	358	Schinieri corallini <ICON ALPHA>+	308	132	8	pl010_0101
+4	Leg	359	Schinieri corallini <ICON BETA>+	309	132	8	pl010_0101
+4	Leg	360	Schinieri di vipera <ICON ALPHA>+	310	132	8	pl013_0101
+4	Leg	361	Schinieri di vipera <ICON BETA>+	311	132	8	pl013_0101
+4	Leg	362	Schinieri di Baan <ICON ALPHA>+	312	134	8	pl028_0001
+4	Leg	363	Schinieri di Baan <ICON BETA>+	313	134	8	pl028_0001
+4	Leg	364	Stile gambe di cuoio	314	0	4	pl001_0000
+4	Leg	365	Stile gambe di maglia	315	0	4	pl014_0000
+4	Leg	366	Stile gambe del cacciatore <ICON ALPHA>	316	0	4	pl002_0000
+4	Leg	367	Stile gambe del cacciatore <ICON BETA>	317	0	4	pl002_0010
+4	Leg	368	Stile gambe d'osso	318	0	4	pl003_0000
+4	Leg	369	Stile gambe in lega	319	0	4	pl004_0000
+4	Leg	370	Stile gambe Vespoid	320	0	4	pl007_0000
+4	Leg	371	Stile gambe Hornetaur	321	0	4	pl017_0000
+4	Leg	373	Stile gambe Gajau	323	0	4	pl006_0000
+4	Leg	378	Schinieri del lingotto <ICON ALPHA>+	328	136	9	pl031_0000
+4	Leg	379	Schinieri del lingotto <ICON BETA>+	329	136	9	pl031_0000
+4	Leg	380	Schinieri di Barioth <ICON ALPHA>+	330	138	9	pl089_0000
+4	Leg	381	Schinieri di Barioth <ICON BETA>+	331	138	9	pl089_0010
+4	Leg	382	Schinieri di Rathalos <ICON ALPHA>+	332	140	9	pl033_0001
+4	Leg	383	Schinieri di Rathalos <ICON BETA>+	333	140	9	pl033_0011
+4	Leg	384	Schinieri di Diablos <ICON ALPHA>+	334	140	9	pl034_0001
+4	Leg	385	Schinieri di Diablos <ICON BETA>+	335	140	9	pl034_0011
+4	Leg	386	Schinieri di Legiana <ICON ALPHA>+	336	140	9	pl027_0001
+4	Leg	387	Schinieri di Legiana <ICON BETA>+	337	140	9	pl027_0011
+4	Leg	388	Schinieri di Odogaron <ICON ALPHA>+	338	140	9	pl029_0001
+4	Leg	389	Schinieri di Odogaron <ICON BETA>+	339	140	9	pl029_0011
+4	Leg	390	Schinieri di Lavasioth <ICON ALPHA>+	340	140	9	pl040_0001
+4	Leg	391	Schinieri di Lavasioth <ICON BETA>+	341	140	9	pl040_0001
+4	Leg	392	Schinieri di Uragaan <ICON ALPHA>+	342	144	9	pl041_0001
+4	Leg	393	Schinieri di Uragaan <ICON BETA>+	343	144	9	pl041_0001
+4	Leg	394	Schinieri di Nargacuga <ICON ALPHA>+	344	140	9	pl080_0000
+4	Leg	395	Schinieri di Nargacuga <ICON BETA>+	345	140	9	pl080_0010
+4	Leg	396	Schinieri di Glavenus <ICON ALPHA>+	346	142	9	pl081_0000
+4	Leg	397	Schinieri di Glavenus <ICON BETA>+	347	142	9	pl081_0010
+4	Leg	398	Schinieri di Brachydios <ICON ALPHA>+	348	142	9	pl082_0000
+4	Leg	399	Schinieri di Brachydios <ICON BETA>+	349	142	9	pl082_0010
+4	Leg	400	Schinieri di Tigrex <ICON ALPHA>+	350	142	9	pl083_0000
+4	Leg	401	Schinieri di Tigrex <ICON BETA>+	351	142	9	pl083_0010
+4	Leg	402	Schinieri tonanti <ICON ALPHA>+	352	146	10	pl020_0101
+4	Leg	403	Schinieri tonanti <ICON BETA>+	353	146	10	pl020_0111
+4	Leg	404	Stile gambe Jagras	354	0	4	pl008_0000
+4	Leg	405	Stile gambe Kulu	355	0	4	pl009_0000
+4	Leg	406	Schinieri cintura nera <ICON ALPHA>+	356	150	10	pl093_0000
+4	Leg	407	Schinieri cintura nera <ICON BETA>+	357	150	10	pl093_0000
+4	Leg	411	Stile gambe Tzitzi	361	0	4	pl023_0000
+4	Leg	412	Stile gambe Girros	362	0	4	pl022_0000
+4	Leg	413	Schinieri glaciali <ICON ALPHA>+	363	146	10	pl027_0500
+4	Leg	414	Schinieri glaciali <ICON BETA>+	364	146	10	pl027_0510
+4	Leg	415	Schinieri anima di Rath <ICON ALPHA>+	365	148	10	pl033_0101
+4	Leg	416	Schinieri anima di Rath <ICON BETA>+	366	148	10	pl033_0111
+4	Leg	417	Schinieri di Diablos nera <ICON ALPHA>+	367	148	10	pl034_0101
+4	Leg	418	Schinieri di Diablos nera <ICON BETA>+	368	148	10	pl034_0111
+4	Leg	419	Schinieri d'ebano <ICON ALPHA>+	369	148	10	pl029_0101
+4	Leg	420	Schinieri d'ebano <ICON BETA>+	370	148	10	pl029_0111
+4	Leg	421	Schinieri caustici <ICON ALPHA>+	371	150	10	pl081_0100
+4	Leg	422	Schinieri caustici <ICON BETA>+	372	150	10	pl081_0110
+4	Leg	423	Schinieri di Artian <ICON ALPHA>+	373	142	9	pl091_0000
+4	Leg	424	Schinieri di Artian <ICON BETA>+	374	142	9	pl091_0000
+4	Leg	426	Stile gambe Pukei <ICON ALPHA>	376	0	4	pl010_0000
+4	Leg	427	Stile gambe Pukei <ICON BETA>	377	0	4	pl010_0010
+4	Leg	428	Schinieri di Dober <ICON ALPHA>+	378	152	10	pl044_0000
+4	Leg	429	Schinieri di Dober <ICON BETA>+	379	152	10	pl044_0000
+4	Leg	430	Schinieri di Damasco <ICON ALPHA>+	380	152	10	pl043_0000
+4	Leg	431	Schinieri di Damasco <ICON BETA>+	381	152	10	pl043_0010
+4	Leg	432	Schinieri di Velkhana <ICON ALPHA>+	382	154	11	pl085_0000
+4	Leg	433	Schinieri di Velkhana <ICON BETA>+	383	154	11	pl085_0010
+4	Leg	434	Schinieri vulcanici <ICON ALPHA>+	384	154	10	pl042_0500
+4	Leg	435	Schinieri vulcanici <ICON BETA>+	385	154	10	pl042_0510
+4	Leg	436	Schinieri funerei <ICON ALPHA>+	386	156	11	pl032_0500
+4	Leg	437	Schinieri funerei <ICON BETA>+	387	156	11	pl032_0510
+4	Leg	438	Schinieri del Kaiser <ICON ALPHA>+	388	156	11	pl046_0001
+4	Leg	439	Schinieri del Kaiser <ICON BETA>+	389	156	11	pl046_0011
+4	Leg	440	Tibia di Kushala <ICON ALPHA>+	390	156	11	pl047_0001
+4	Leg	441	Tibia di Kushala <ICON BETA>+	391	156	11	pl047_0011
+4	Leg	442	Paragambe di Kirin <ICON ALPHA>+	392	154	11	pl035_0001
+4	Leg	443	Paragambe di Kirin <ICON BETA>+	393	154	11	pl035_0011
+4	Leg	444	Schinieri di Namielle <ICON ALPHA>+	394	158	11	pl086_0000
+4	Leg	445	Schinieri di Namielle <ICON BETA>+	395	158	11	pl086_0010
+4	Leg	446	Unavailable	396	0	0	None
+4	Leg	447	Stile gambe Barroth	397	0	4	pl012_0000
+4	Leg	448	Schinieri Palatium <ICON ALPHA>+	398	154	10	pl094_0000
+4	Leg	449	Schinieri Palatium <ICON BETA>+	399	154	10	pl094_0000
+4	Leg	450	Schinieri a vapore <ICON ALPHA>+	400	142	9	pl104_0000
+4	Leg	451	Schinieri a vapore <ICON BETA>+	401	142	9	pl104_0000
+4	Leg	453	Schinieri razzianti <ICON ALPHA>+	403	166	11	pl030_0500
+4	Leg	454	Schinieri razzianti <ICON BETA>+	404	166	11	pl030_0510
+4	Leg	455	Schinieri di Shara Ishvalda <ICON ALPHA>+	405	162	11	pl088_0000
+4	Leg	456	Schinieri di Shara Ishvalda <ICON BETA>+	406	162	11	pl088_0010
+4	Leg	457	Schinieri selvaggi <ICON ALPHA>+	407	156	10	pl050_0500
+4	Leg	458	Schinieri selvaggi <ICON BETA>+	408	156	10	pl050_0510
+4	Leg	459	Stile gambe Anja <ICON ALPHA>	409	0	4	pl020_0000
+4	Leg	460	Stile gambe Anja <ICON BETA>	410	0	4	pl020_0010
+4	Leg	461	Piedi adiutor <ICON ALPHA>+	411	162	11	pl092_0000
+4	Leg	462	Piedi adiutor <ICON BETA>+	412	162	11	pl092_0000
+4	Leg	464	Schinieri doriluna <ICON ALPHA>+	414	162	11	pl021_0200
+4	Leg	465	Schinieri doriluna <ICON BETA>+	415	162	11	pl021_0210
+4	Leg	466	Schinieri solargenti <ICON ALPHA>+	416	164	11	pl033_0200
+4	Leg	467	Schinieri solargenti <ICON BETA>+	417	164	11	pl033_0210
+4	Leg	468	Stile gambe Jyura	418	0	4	pl011_0000
+4	Leg	469	Stile gambe Kadachi	419	0	4	pl013_0000
+4	Leg	470	Schinieri di Zinogre <ICON ALPHA>+	420	158	10	pl107_0000
+4	Leg	471	Schinieri di Zinogre <ICON BETA>+	421	158	10	pl107_0010
+4	Leg	472	Schinieri stigei <ICON ALPHA>+	422	160	10	pl107_0100
+4	Leg	473	Schinieri stigei <ICON BETA>+	423	160	10	pl107_0110
+4	Leg	474	Schinieri di Garuga <ICON ALPHA>+	424	154	10	pl108_0000
+4	Leg	475	Schinieri di Garuga <ICON BETA>+	425	154	10	pl108_0010
+4	Leg	476	Speroni di Zorah <ICON ALPHA>+	426	160	11	pl038_0000
+4	Leg	477	Speroni di Zorah <ICON BETA>+	427	160	11	pl038_0010
+4	Leg	478	Hakama d'oro <ICON ALPHA>+	428	158	10	pl109_0000
+4	Leg	479	Hakama d'oro <ICON BETA>+	429	158	10	pl109_0010
+4	Leg	480	Piedi furiosi <ICON ALPHA>+	430	170	11	pl109_0500
+4	Leg	481	Piedi furiosi <ICON BETA>+	431	170	11	pl109_0510
+4	Leg	482	Schinieri rabbiosi <ICON ALPHA>+	432	170	11	pl082_0500
+4	Leg	483	Schinieri rabbiosi <ICON BETA>+	433	170	11	pl082_0510
+4	Leg	484	Stivali ornati Safi <ICON ALPHA>+	434	168	11	pl087_0000
+4	Leg	485	Stivali ornati Safi <ICON BETA>+	435	168	11	pl087_0010
+4	Leg	486	Unavailable	436	0	0	None
+4	Leg	487	Unavailable	437	0	0	None
+4	Leg	492	Schinieri dell'imperatrice <ICON ALPHA>+	442	164	11	pl051_0001
+4	Leg	493	Schinieri dell'imperatrice <ICON BETA>+	443	164	11	pl051_0011
+4	Leg	494	Collera di Kulve Taroth <ICON ALPHA>+	444	176	11	pl049_0001
+4	Leg	495	Collera di Kulve Taroth <ICON BETA>+	445	176	11	pl049_0011
+4	Leg	496	Stivali della rosa <ICON ALPHA>+	446	150	9	pl124_0000
+4	Leg	497	Stile gambe Lumu	447	0	4	pl024_0000
+4	Leg	498	Unavailable	448	0	0	None
+4	Leg	499	Stile gambe Rathian <ICON ALPHA>	449	0	4	pl021_0000
+4	Leg	500	Unavailable	450	0	0	None
+4	Leg	501	Stile gambe Rathian <ICON BETA>	451	0	4	pl021_0010
+4	Leg	502	Stivali Oolong <ICON ALPHA>+	452	120	8	pl127_0000
+4	Leg	503	Stile gambe Radobaan <ICON ALPHA>	453	0	5	pl028_0000
+4	Leg	504	Calze astrali <ICON ALPHA>+	454	140	8	pl128_0000
+4	Leg	505	Stile gambe Radobaan <ICON BETA>	455	0	5	pl028_0010
+4	Leg	506	Stile gambe della rosa	456	0	9	pl124_0000
+4	Leg	507	Unavailable	457	0	0	None
+4	Leg	508	Unavailable	458	0	0	None
+4	Leg	509	Stile gambe Oolong	459	0	8	pl127_0000
+4	Leg	510	Stile gambe astrale	460	0	8	pl128_0000
+4	Leg	511	Stile gambe in ipermetallo	461	0	5	pl025_0000
+4	Leg	512	Stile gambe termali	462	94	8	pl106_0000
+4	Leg	517	Gambe palestrate <ICON ALPHA>+	467	154	10	pl115_0000
+4	Leg	518	Schinieri brutali <ICON ALPHA>+	468	158	10	pl083_0100
+4	Leg	519	Schinieri brutali <ICON BETA>+	469	158	10	pl083_0110
+4	Leg	520	Stivali del guardiano <ICON ALPHA>+	470	50	5	pl121_0000
+4	Leg	521	Stile gambe di Yukumo	471	0	6	pl122_0000
+4	Leg	522	Stile gambe cavaliere d’argento	472	0	6	pl123_0000
+4	Leg	523	HARDUMMY	473	132	11	pl068_0010
+4	Leg	524	Schinieri di Namielle <ICON GAMMA>+	474	176	11	pl086_0020
+4	Leg	525	HARDUMMY	475	0	7	pl072_0000
+4	Leg	526	HARDUMMY	476	170	11	pl072_0001
+4	Leg	527	Unavailable	477	0	0	None
+4	Leg	528	Unavailable	478	0	0	None
+4	Leg	529	Unavailable	479	0	0	None
+4	Leg	530	Unavailable	480	0	0	None
+4	Leg	531	Unavailable	481	0	0	None
+4	Leg	532	HARDUMMY	482	160	11	pl068_0020
+4	Leg	533	Unavailable	483	0	0	None
+4	Leg	534	Gambe di Leon <ICON ALPHA>+	484	150	11	pl130_0000
+4	Leg	535	Gambe di Claire <ICON ALPHA>+	485	150	11	pl131_0000
+4	Leg	536	Unavailable	486	0	0	None
+4	Leg	537	Unavailable	487	0	0	None
+4	Leg	540	Stile gambe Dodogama	490	0	4	pl039_0000
+4	Leg	541	Stile gambe del lingotto	491	0	5	pl031_0000
+4	Leg	542	Stile gambe cuore di Rath <ICON ALPHA>	492	0	5	pl021_0100
+4	Leg	543	Stile gambe cuore di Rath <ICON BETA>	493	0	5	pl021_0110
+4	Leg	544	Stile gambe Lavasioth <ICON ALPHA>	494	0	5	pl040_0000
+4	Leg	545	Stile gambe Lavasioth <ICON BETA>	495	0	5	pl040_0010
+4	Leg	546	Stile gambe Legiana <ICON ALPHA>	496	0	5	pl027_0000
+4	Leg	547	Stile gambe Legiana <ICON BETA>	497	0	5	pl027_0010
+4	Leg	548	Stile gambe Odogaron <ICON ALPHA>	498	0	5	pl029_0000
+4	Leg	549	Stile gambe Odogaron <ICON BETA>	499	0	5	pl029_0010
+4	Leg	550	Stile gambe Rathalos <ICON ALPHA>	500	0	5	pl033_0000
+4	Leg	551	Stile gambe Rathalos <ICON BETA>	501	0	5	pl033_0010
+4	Leg	552	Stile gambe Anima di Rath <ICON ALPHA>	502	0	6	pl033_0100
+4	Leg	553	Stile gambe Anima di Rath <ICON BETA>	503	0	6	pl033_0110
+4	Leg	554	Stile gambe Diablos <ICON ALPHA>	504	0	5	pl034_0000
+4	Leg	555	Stile gambe Diablos <ICON BETA>	505	0	5	pl034_0010
+4	Leg	556	Stile gambe Diablos nera <ICON ALPHA>	506	0	6	pl034_0100
+4	Leg	557	Stile gambe Diablos nera <ICON BETA>	507	0	6	pl034_0110
+4	Leg	558	Stile gambe Uragaan <ICON ALPHA>	508	0	6	pl041_0000
+4	Leg	559	Stile gambe Uragaan <ICON BETA>	509	0	6	pl041_0010
+4	Leg	560	Stile gambe Bazel <ICON ALPHA>	510	0	6	pl042_0000
+4	Leg	561	Stile gambe Bazel <ICON BETA>	511	0	6	pl042_0010
+4	Leg	562	Stile gambe Deviljho <ICON ALPHA>	512	0	6	pl050_0000
+4	Leg	563	Stile gambe Deviljho <ICON BETA>	513	0	6	pl050_0010
+4	Leg	564	Stile gambe Dober <ICON ALPHA>	514	0	6	pl044_0000
+4	Leg	565	Stile gambe Dober <ICON BETA>	515	0	6	pl044_0000
+4	Leg	566	Stile gambe Damasco <ICON ALPHA>	516	0	6	pl043_0000
+4	Leg	567	Stile gambe Damasco <ICON BETA>	517	0	6	pl043_0010
+4	Leg	568	Stile gambe Zorah <ICON ALPHA>	518	0	7	pl038_0000
+4	Leg	569	Stile gambe Zorah <ICON BETA>	519	0	7	pl038_0010
+4	Leg	570	Stile gambe Zorah <ICON GAMMA>	520	0	7	pl038_0020
+4	Leg	571	Stile gambe Nergigante <ICON ALPHA>	521	0	7	pl030_0000
+4	Leg	572	Stile gambe Nergigante <ICON BETA>	522	0	7	pl030_0010
+4	Leg	573	Stile gambe Nergigante <ICON GAMMA>	523	0	7	pl030_0020
+4	Leg	574	Stile gambe Kaiser <ICON ALPHA>	524	0	7	pl046_0000
+4	Leg	575	Stile gambe Kaiser <ICON BETA>	525	0	7	pl046_0010
+4	Leg	576	Stile gambe Kaiser <ICON GAMMA>	526	0	7	pl046_0020
+4	Leg	577	Stile gambe Kushala <ICON ALPHA>	527	0	7	pl047_0000
+4	Leg	578	Stile gambe Kushala <ICON BETA>	528	0	7	pl047_0010
+4	Leg	579	Stile gambe Kushala <ICON GAMMA>	529	0	7	pl047_0020
+4	Leg	580	Stile gambe Vaal <ICON ALPHA>	530	0	7	pl032_0000
+4	Leg	581	Stile gambe Vaal <ICON BETA>	531	0	7	pl032_0010
+4	Leg	582	Stile gambe Vaal <ICON GAMMA>	532	0	7	pl032_0020
+4	Leg	583	Stile gambe Kirin <ICON ALPHA>	533	0	7	pl035_0000
+4	Leg	584	Stile gambe Kirin <ICON BETA>	534	0	7	pl035_0010
+4	Leg	585	Stile gambe Kirin <ICON GAMMA>	535	0	7	pl035_0020
+4	Leg	586	Stile gambe Xeno <ICON ALPHA>	536	0	7	pl045_0000
+4	Leg	587	Stile gambe Xeno <ICON BETA>	537	0	7	pl045_0010
+4	Leg	588	Stile gambe Xeno <ICON GAMMA>	538	0	7	pl045_0020
+4	Leg	589	Stile gambe Imperatrice <ICON ALPHA>	539	0	7	pl051_0000
+4	Leg	590	Stile gambe Imperatrice <ICON BETA>	540	0	7	pl051_0010
+4	Leg	591	Stile gambe Imperatrice <ICON GAMMA>	541	0	7	pl051_0020
+4	Leg	592	Stile gambe Kulve <ICON ALPHA>	542	0	7	pl049_0000
+4	Leg	593	Stile gambe Kulve <ICON BETA>	543	0	7	pl049_0010
+4	Leg	594	Stile gambe Kulve <ICON GAMMA>	544	0	7	pl049_0020
+4	Leg	595	Unavailable	546	0	0	None
+4	Leg	596	Unavailable	547	0	0	None
+4	Leg	599	Unavailable	550	0	0	None
+4	Leg	600	Unavailable	551	0	0	None
+4	Leg	601	Unavailable	552	0	0	None
+4	Leg	602	Unavailable	553	0	0	None
+4	Leg	603	Unavailable	554	0	0	None
+4	Leg	604	Unavailable	555	0	0	None
+4	Leg	605	Unavailable	556	0	0	None
+4	Leg	606	Unavailable	557	0	0	None
+4	Leg	607	Unavailable	558	0	0	None
+4	Leg	608	Unavailable	559	0	0	None
+4	Leg	609	Unavailable	560	0	0	None
+4	Leg	610	Unavailable	561	0	0	None
+4	Leg	611	Unavailable	562	0	0	None
+4	Leg	612	Unavailable	563	0	0	None
+4	Leg	613	Unavailable	564	0	0	None
+4	Leg	614	Unavailable	565	0	0	None
+4	Leg	615	Unavailable	566	0	0	None
+4	Leg	616	Unavailable	567	0	0	None
+4	Leg	617	Unavailable	568	0	0	None
+4	Leg	618	Unavailable	569	0	0	None
+4	Leg	619	Unavailable	570	0	0	None
+4	Leg	620	Unavailable	571	0	0	None
+4	Leg	621	Unavailable	572	0	0	None
+4	Leg	622	Unavailable	573	0	0	None
+4	Leg	623	Unavailable	574	0	0	None
+4	Leg	624	Stile gambe Artian	575	0	9	pl091_0000
+4	Leg	625	Unavailable	674	0	0	None
+4	Leg	626	Unavailable	576	0	0	None
+4	Leg	627	Unavailable	577	0	0	None
+4	Leg	628	Unavailable	578	0	0	None
+4	Leg	629	Unavailable	579	0	0	None
+4	Leg	630	Unavailable	580	0	0	None
+4	Leg	631	Unavailable	581	0	0	None
+4	Leg	632	Unavailable	582	0	0	None
+4	Leg	633	Unavailable	583	0	0	None
+4	Leg	634	Unavailable	584	0	0	None
+4	Leg	635	Unavailable	585	0	0	None
+4	Leg	636	Unavailable	586	0	0	None
+4	Leg	637	Unavailable	587	0	0	None
+4	Leg	638	Unavailable	588	0	0	None
+4	Leg	639	Unavailable	589	0	0	None
+4	Leg	640	Unavailable	590	0	0	None
+4	Leg	641	Unavailable	591	0	0	None
+4	Leg	642	Unavailable	592	0	0	None
+4	Leg	643	Unavailable	593	0	0	None
+4	Leg	644	Unavailable	594	0	0	None
+4	Leg	645	Unavailable	595	0	0	None
+4	Leg	646	Unavailable	596	0	0	None
+4	Leg	647	Unavailable	597	0	0	None
+4	Leg	648	Unavailable	598	0	0	None
+4	Leg	649	Unavailable	599	0	0	None
+4	Leg	650	Unavailable	600	0	0	None
+4	Leg	651	Unavailable	601	0	0	None
+4	Leg	652	Unavailable	602	0	0	None
+4	Leg	653	Unavailable	603	0	0	None
+4	Leg	654	Unavailable	604	0	0	None
+4	Leg	655	Unavailable	605	0	0	None
+4	Leg	656	Unavailable	606	0	0	None
+4	Leg	657	Unavailable	607	0	0	None
+4	Leg	658	Stile gambe cintura nera	608	0	10	pl093_0000
+4	Leg	659	Unavailable	609	0	0	None
+4	Leg	660	Unavailable	610	0	0	None
+4	Leg	661	Unavailable	611	0	0	None
+4	Leg	662	Unavailable	612	0	0	None
+4	Leg	663	Unavailable	613	0	0	None
+4	Leg	664	Unavailable	614	0	0	None
+4	Leg	665	Unavailable	615	0	0	None
+4	Leg	666	Unavailable	616	0	0	None
+4	Leg	667	Unavailable	617	0	0	None
+4	Leg	668	Unavailable	618	0	0	None
+4	Leg	669	Unavailable	619	0	0	None
+4	Leg	670	Unavailable	620	0	0	None
+4	Leg	671	Unavailable	621	0	0	None
+4	Leg	672	Unavailable	622	0	0	None
+4	Leg	673	Unavailable	623	0	0	None
+4	Leg	674	Unavailable	624	0	0	None
+4	Leg	675	Unavailable	625	0	0	None
+4	Leg	678	Unavailable	628	0	0	None
+4	Leg	679	Unavailable	629	0	0	None
+4	Leg	680	Unavailable	630	0	0	None
+4	Leg	681	Unavailable	631	0	0	None
+4	Leg	682	Unavailable	632	0	0	None
+4	Leg	683	Unavailable	633	0	0	None
+4	Leg	684	Unavailable	634	0	0	None
+4	Leg	685	Unavailable	635	0	0	None
+4	Leg	686	Unavailable	636	0	0	None
+4	Leg	687	Unavailable	637	0	0	None
+4	Leg	688	Unavailable	638	0	0	None
+4	Leg	689	Unavailable	639	0	0	None
+4	Leg	690	Unavailable	640	0	0	None
+4	Leg	691	Unavailable	641	0	0	None
+4	Leg	692	Unavailable	642	0	0	None
+4	Leg	693	Unavailable	643	0	0	None
+4	Leg	694	Unavailable	644	0	0	None
+4	Leg	695	Unavailable	645	0	0	None
+4	Leg	696	Unavailable	646	0	0	None
+4	Leg	697	Unavailable	647	0	0	None
+4	Leg	698	Unavailable	648	0	0	None
+4	Leg	699	Unavailable	649	0	0	None
+4	Leg	700	Unavailable	650	0	0	None
+4	Leg	701	Unavailable	651	0	0	None
+4	Leg	702	Unavailable	652	0	0	None
+4	Leg	703	Unavailable	653	0	0	None
+4	Leg	704	Unavailable	654	0	0	None
+4	Leg	705	Unavailable	655	0	0	None
+4	Leg	706	Unavailable	656	0	0	None
+4	Leg	707	Unavailable	657	0	0	None
+4	Leg	708	Unavailable	658	0	0	None
+4	Leg	709	Unavailable	659	0	0	None
+4	Leg	710	Unavailable	660	0	0	None
+4	Leg	715	Unavailable	665	0	0	None
+4	Leg	716	Unavailable	666	0	0	None
+4	Leg	717	Unavailable	667	0	0	None
+4	Leg	718	Unavailable	668	0	0	None
+4	Leg	719	Unavailable	669	0	0	None
+4	Leg	720	Unavailable	670	0	0	None
+4	Leg	721	Unavailable	671	0	0	None
+4	Leg	722	Unavailable	672	0	0	None
+4	Leg	723	Unavailable	673	0	0	None
+4	Leg	724	Unavailable	675	0	0	None
+4	Leg	725	Unavailable	0	0	0	None
+4	Leg	726	Unavailable	0	0	0	None
+4	Leg	727	Unavailable	0	0	0	None
+4	Leg	728	Unavailable	0	0	0	None
+4	Leg	729	Unavailable	0	0	0	None
+4	Leg	730	Unavailable	0	0	0	None
+4	Leg	731	Unavailable	0	0	0	None
+4	Leg	732	Unavailable	0	0	0	None
+4	Leg	733	Unavailable	0	0	0	None
+4	Leg	734	Unavailable	0	0	0	None
+4	Leg	735	Unavailable	0	0	0	None
+4	Leg	736	Unavailable	0	0	0	None
+4	Leg	737	Unavailable	0	0	0	None
+4	Leg	738	Unavailable	0	0	0	None
+4	Leg	739	Unavailable	0	0	0	None
+4	Leg	740	Unavailable	0	0	0	None
+4	Leg	741	Unavailable	0	0	0	None
+4	Leg	742	Unavailable	0	0	0	None
+4	Leg	743	Unavailable	0	0	0	None
+4	Leg	744	Unavailable	0	0	0	None
+4	Leg	745	Unavailable	0	0	0	None
+4	Leg	746	Unavailable	0	0	0	None
+4	Leg	747	Unavailable	0	0	0	None
+4	Leg	748	Unavailable	0	0	0	None
+4	Leg	749	Unavailable	0	0	0	None
+4	Leg	750	Unavailable	0	0	0	None
+5	Charm	203	Amuleto vento propizio	0	0	2	None
+5	Charm	204	Unavailable	0	0	2	None
+5	Charm	205	Unavailable	0	0	2	None
+5	Charm	206	Unavailable	0	0	2	None
+5	Charm	207	Unavailable	0	0	2	None
+5	Charm	0	Amuleto veleno I	0	0	2	None
+5	Charm	1	Amuleto veleno II	0	0	4	None
+5	Charm	2	Amuleto veleno III	0	0	5	None
+5	Charm	3	Amuleto attacco I	0	0	2	None
+5	Charm	4	Amuleto attacco II	0	0	4	None
+5	Charm	5	Amuleto attacco III	0	0	6	None
+5	Charm	6	Amuleto difesa I	0	0	2	None
+5	Charm	7	Amuleto difesa II	0	0	4	None
+5	Charm	8	Amuleto difesa III	0	0	5	None
+5	Charm	9	Amuleto paralisi I	0	0	2	None
+5	Charm	10	Amuleto paralisi II	0	0	4	None
+5	Charm	11	Amuleto paralisi III	0	0	6	None
+5	Charm	12	Amuleto sonno I	0	0	2	None
+5	Charm	13	Amuleto sonno II	0	0	4	None
+5	Charm	14	Amuleto sonno III	0	0	5	None
+5	Charm	15	Amuleto stordimento I	0	0	2	None
+5	Charm	16	Amuleto stordimento II	0	0	4	None
+5	Charm	17	Amuleto stordimento III	0	0	5	None
+5	Charm	18	Amuleto scoppio I	0	0	4	None
+5	Charm	19	Amuleto scoppio II	0	0	5	None
+5	Charm	20	Amuleto scoppio III	0	0	6	None
+5	Charm	21	Amuleto sangue I	0	0	3	None
+5	Charm	22	Amuleto sangue II	0	0	5	None
+5	Charm	23	Amuleto sangue III	0	0	6	None
+5	Charm	24	Amuleto blocco I	0	0	5	None
+5	Charm	25	Amuleto blocco II	0	0	5	None
+5	Charm	26	Amuleto blocco III	0	0	6	None
+5	Charm	27	Unavailable	0	2	0	None
+5	Charm	28	Unavailable	0	2	0	None
+5	Charm	29	Unavailable	0	2	0	None
+5	Charm	30	Amuleto udito I	0	0	5	None
+5	Charm	258	Amuleto udito II	0	0	5	None
+5	Charm	259	Amuleto udito III	0	0	7	None
+5	Charm	31	Amuleto paravento I	0	0	2	None
+5	Charm	260	Amuleto paravento II	0	0	4	None
+5	Charm	261	Amuleto paravento III	0	0	5	None
+5	Charm	32	Amuleto sisma I	0	0	5	None
+5	Charm	33	Amuleto sisma II	0	0	6	None
+5	Charm	34	Amuleto salute I	0	0	2	None
+5	Charm	35	Amuleto salute II	0	0	4	None
+5	Charm	36	Amuleto salute III	0	0	6	None
+5	Charm	37	Amuleto cura I	0	0	2	None
+5	Charm	38	Amuleto cura II	0	0	5	None
+5	Charm	39	Amuleto cura III	0	0	6	None
+5	Charm	40	Amuleto guarigione I	0	0	3	None
+5	Charm	264	Amuleto guarigione III	0	0	6	None
+5	Charm	41	Amuleto guarigione II	0	0	5	None
+5	Charm	42	Amuleto fuoco I	0	0	2	None
+5	Charm	43	Amuleto fuoco II	0	0	4	None
+5	Charm	44	Amuleto fuoco III	0	0	6	None
+5	Charm	45	Amuleto acqua I	0	0	2	None
+5	Charm	46	Amuleto acqua II	0	0	4	None
+5	Charm	47	Amuleto acqua III	0	0	6	None
+5	Charm	48	Amuleto ghiaccio I	0	0	3	None
+5	Charm	49	Amuleto ghiaccio II	0	0	5	None
+5	Charm	50	Amuleto ghiaccio III	0	0	6	None
+5	Charm	51	Amuleto tuono I	0	0	2	None
+5	Charm	52	Amuleto tuono II	0	0	4	None
+5	Charm	53	Amuleto tuono III	0	0	6	None
+5	Charm	54	Amuleto drago I	0	0	4	None
+5	Charm	55	Amuleto drago II	0	0	5	None
+5	Charm	56	Amuleto drago III	0	0	6	None
+5	Charm	57	Amuleto malus I	0	0	3	None
+5	Charm	58	Amuleto malus II	0	0	6	None
+5	Charm	59	Amuleto malus III	0	0	7	None
+5	Charm	60	Amuleto vampa I	0	0	2	None
+5	Charm	61	Amuleto vampa II	0	0	5	None
+5	Charm	62	Amuleto vampa III	0	0	6	None
+5	Charm	63	Amuleto alluvione I	0	0	2	None
+5	Charm	64	Amuleto alluvione II	0	0	4	None
+5	Charm	65	Amuleto alluvione III	0	0	6	None
+5	Charm	66	Amuleto bufera I	0	0	3	None
+5	Charm	67	Amuleto bufera II	0	0	5	None
+5	Charm	68	Amuleto bufera III	0	0	6	None
+5	Charm	69	Amuleto scossa I	0	0	2	None
+5	Charm	70	Amuleto scossa II	0	0	4	None
+5	Charm	71	Amuleto scossa III	0	0	6	None
+5	Charm	72	Amuleto iperdrago I	0	0	4	None
+5	Charm	73	Amuleto iperdrago II	0	0	6	None
+5	Charm	74	Amuleto iperdrago III	0	0	7	None
+5	Charm	75	Amuleto tossico I	0	0	2	None
+5	Charm	76	Amuleto tossico II	0	0	5	None
+5	Charm	77	Amuleto tossico III	0	0	6	None
+5	Charm	78	Amuleto stasi I	0	0	2	None
+5	Charm	79	Amuleto stasi II	0	0	4	None
+5	Charm	80	Amuleto stasi III	0	0	6	None
+5	Charm	81	Amuleto soporifero I	0	0	2	None
+5	Charm	82	Amuleto soporifero II	0	0	4	None
+5	Charm	83	Amuleto soporifero III	0	0	6	None
+5	Charm	84	Amuleto schianto I	0	0	4	None
+5	Charm	85	Amuleto schianto II	0	0	5	None
+5	Charm	86	Amuleto schianto III	0	0	7	None
+5	Charm	87	Amuleto esperto I	0	0	3	None
+5	Charm	88	Amuleto esperto II	0	0	5	None
+5	Charm	89	Amuleto esperto III	0	0	6	None
+5	Charm	90	Amuleto critico	0	0	7	None
+5	Charm	91	Unavailable	0	0	2	None
+5	Charm	92	Amuleto abuso I	0	0	5	None
+5	Charm	93	Amuleto abuso II	0	0	7	None
+5	Charm	94	Amuleto concentrato I	0	0	5	None
+5	Charm	95	Amuleto concentrato II	0	0	6	None
+5	Charm	96	Amuleto vigore I	0	0	7	None
+5	Charm	97	Amuleto vigore II	0	0	7	None
+5	Charm	99	Amuleto sfoderata I	0	0	4	None
+5	Charm	100	Amuleto sfoderata II	0	0	6	None
+5	Charm	101	Amuleto lesione I	0	0	5	None
+5	Charm	102	Amuleto lesione II	0	0	7	None
+5	Charm	103	Amuleto KO I	0	0	2	None
+5	Charm	104	Amuleto KO II	0	0	4	None
+5	Charm	263	Amuleto KO III	0	0	6	None
+5	Charm	105	Amuleto logorante I	0	0	2	None
+5	Charm	106	Amuleto logorante II	0	0	4	None
+5	Charm	107	Amuleto logorante III	0	0	5	None
+5	Charm	108	Amuleto forza I	0	0	6	None
+5	Charm	109	Amuleto forza II	0	0	7	None
+5	Charm	110	Amuleto sfidante I	0	0	6	None
+5	Charm	111	Amuleto sfidante II	0	0	7	None
+5	Charm	112	Amuleto illeso I	0	0	6	None
+5	Charm	113	Amuleto illeso II	0	0	7	None
+5	Charm	116	Amuleto furia I	0	0	5	None
+5	Charm	117	Amuleto furia II	0	0	7	None
+5	Charm	121	Amuleto speciale I	0	0	4	None
+5	Charm	122	Amuleto speciale II	0	0	7	None
+5	Charm	123	Amuleto artigliere I	0	0	2	None
+5	Charm	124	Amuleto artigliere II	0	0	4	None
+5	Charm	125	Amuleto artigliere III	0	0	6	None
+5	Charm	128	Amuleto maratona I	0	0	4	None
+5	Charm	129	Amuleto maratona II	0	0	7	None
+5	Charm	130	Amuleto tonico I	0	0	4	None
+5	Charm	131	Amuleto tonico II	0	0	5	None
+5	Charm	132	Amuleto super I	0	0	4	None
+5	Charm	133	Amuleto super II	0	0	6	None
+5	Charm	134	Amuleto fame I	0	0	2	None
+5	Charm	135	Amuleto fame II	0	0	4	None
+5	Charm	136	Amuleto fame III	0	0	5	None
+5	Charm	137	Amuleto evasione I	0	0	3	None
+5	Charm	138	Amuleto evasione II	0	0	5	None
+5	Charm	262	Amuleto evasione III	0	0	6	None
+5	Charm	139	Amuleto tuffo I	0	0	4	None
+5	Charm	140	Amuleto tuffo II	0	0	6	None
+5	Charm	141	Amuleto ferreo I	0	0	2	None
+5	Charm	142	Amuleto ferreo II	0	0	4	None
+5	Charm	143	Amuleto ferreo III	0	0	6	None
+5	Charm	144	Amuleto rinfodero I	0	0	3	None
+5	Charm	145	Amuleto rinfodero II	0	0	5	None
+5	Charm	146	Amuleto rinfodero III	0	0	7	None
+5	Charm	147	Amuleto amicizia I	0	0	2	None
+5	Charm	148	Amuleto amicizia II	0	0	4	None
+5	Charm	149	Amuleto amicizia III	0	0	6	None
+5	Charm	150	Amuleto estensione I	0	0	2	None
+5	Charm	151	Amuleto estensione II	0	0	5	None
+5	Charm	152	Amuleto estensione III	0	0	6	None
+5	Charm	153	Amuleto ghiotto I	0	0	2	None
+5	Charm	154	Amuleto ghiotto II	0	0	4	None
+5	Charm	155	Amuleto ghiotto III	0	0	6	None
+5	Charm	156	Amuleto cote I	0	0	3	None
+5	Charm	157	Amuleto cote II	0	0	5	None
+5	Charm	158	Amuleto cote III	0	0	6	None
+5	Charm	159	Amuleto bomba I	0	0	4	None
+5	Charm	160	Amuleto bomba II	0	0	5	None
+5	Charm	161	Amuleto bomba III	0	0	6	None
+5	Charm	162	Amuleto fungo I	0	0	4	None
+5	Charm	163	Amuleto fungo II	0	0	7	None
+5	Charm	164	Unavailable	0	0	2	None
+5	Charm	165	Amuleto angelo I	0	0	2	None
+5	Charm	166	Amuleto angelo II	0	0	4	None
+5	Charm	167	Amuleto angelo III	0	0	6	None
+5	Charm	168	Amuleto adunata I	0	0	2	None
+5	Charm	169	Amuleto adunata II	0	0	4	None
+5	Charm	170	Amuleto adunata III	0	0	6	None
+5	Charm	171	Amuleto botanica I	0	0	2	None
+5	Charm	172	Amuleto botanica II	0	0	4	None
+5	Charm	173	Amuleto botanica III	0	0	6	None
+5	Charm	174	Amuleto geologia I	0	0	2	None
+5	Charm	175	Amuleto geologia II	0	0	4	None
+5	Charm	176	Amuleto geologia III	0	0	6	None
+5	Charm	177	Amuleto possente I	0	0	6	None
+5	Charm	178	Amuleto possente II	0	0	7	None
+5	Charm	179	Amuleto fionda I	0	0	2	None
+5	Charm	180	Amuleto fionda II	0	0	4	None
+5	Charm	181	Amuleto fionda III	0	0	6	None
+5	Charm	182	Amuleto furtivo I	0	0	2	None
+5	Charm	183	Amuleto furtivo II	0	0	5	None
+5	Charm	184	Amuleto furtivo III	0	0	6	None
+5	Charm	185	Amuleto impatto I	0	0	6	None
+5	Charm	186	Amuleto impatto II	0	0	7	None
+5	Charm	188	Amuleto spore I	0	0	2	None
+5	Charm	189	Amuleto spore II	0	0	4	None
+5	Charm	190	Amuleto spore III	0	0	6	None
+5	Charm	191	Amuleto guado I	0	0	2	None
+5	Charm	192	Amuleto guado II	0	0	4	None
+5	Charm	193	Amuleto guado III	0	0	5	None
+5	Charm	194	Amuleto insetto I	0	0	2	None
+5	Charm	195	Amuleto insetto II	0	0	4	None
+5	Charm	196	Amuleto insetto III	0	0	5	None
+5	Charm	197	Amuleto effluvio I	0	0	6	None
+5	Charm	198	Amuleto effluvio II	0	0	6	None
+5	Charm	199	Amuleto effluvio III	0	0	7	None
+5	Charm	200	Amuleto intimidatore I	0	0	2	None
+5	Charm	201	Amuleto intimidatore II	0	0	4	None
+5	Charm	202	Amuleto intimidatore III	0	0	5	None
+5	Charm	248	Amuleto risveglio I	0	0	4	None
+5	Charm	249	Amuleto risveglio II	0	0	6	None
+5	Charm	250	Amuleto artigiano I	0	0	4	None
+5	Charm	251	Amuleto artigiano II	0	0	6	None
+5	Charm	252	Amuleto artigiano III	0	0	7	None
+5	Charm	253	Amuleto grinta I	0	0	5	None
+5	Charm	254	Amuleto grinta II	0	0	6	None
+5	Charm	255	Amuleto dedicato I	0	0	5	None
+5	Charm	256	Amuleto dedicato II	0	0	6	None
+5	Charm	257	Amuleto dedicato III	0	0	7	None
+5	Charm	229	Amuleto pesante I	0	0	2	None
+5	Charm	230	Amuleto pesante II	0	0	4	None
+5	Charm	231	Amuleto chef	0	0	2	None
+5	Charm	217	Amuleto normale	0	0	6	None
+5	Charm	218	Amuleto perforazione	0	0	7	None
+5	Charm	219	Amuleto ventaglio	0	0	7	None
+5	Charm	220	Amuleto applica veleno	0	0	7	None
+5	Charm	221	Amuleto applica paralisi	0	0	7	None
+5	Charm	222	Amuleto applica sonno	0	0	7	None
+5	Charm	223	Amuleto applica scoppio	0	0	7	None
+5	Charm	224	Unavailable	0	0	2	None
+5	Charm	225	Amuleto fortificazione	0	0	2	None
+5	Charm	226	Unavailable	0	0	2	None
+5	Charm	227	Amuleto musicista	0	0	2	None
+5	Charm	228	Amuleto capienza	0	0	2	None
+5	Charm	208	Amuleto melma	0	0	4	None
+5	Charm	209	Amuleto preciso	0	0	4	None
+5	Charm	212	Amuleto survivalista	0	0	4	None
+5	Charm	213	Amuleto procacciatore	0	0	4	None
+5	Charm	214	Amuleto raccoglitore	0	0	4	None
+5	Charm	210	Amuleto mente lucida	0	0	6	None
+5	Charm	211	Amuleto cavaliere	0	0	6	None
+5	Charm	215	Amuleto indagatore	0	0	6	None
+5	Charm	232	Amuleto esploratore	0	0	2	None
+5	Charm	216	Amuleto geomanzia	0	0	7	None
+5	Charm	233	Amuleto scivolata	0	0	7	None
+5	Charm	234	Amuleto anziano	0	0	7	None
+5	Charm	235	Amuleto guardia	0	0	7	None
+5	Charm	236	Amuleto tonico III	0	0	6	None
+5	Charm	237	Unavailable	0	0	2	None
+5	Charm	238	Unavailable	0	0	2	None
+5	Charm	239	Unavailable	0	0	2	None
+5	Charm	240	Unavailable	0	0	2	None
+5	Charm	241	Unavailable	0	0	2	None
+5	Charm	242	Unavailable	0	0	2	None
+5	Charm	243	Unavailable	0	0	2	None
+5	Charm	244	Unavailable	0	0	2	None
+5	Charm	245	Unavailable	0	0	2	None
+5	Charm	246	Unavailable	0	0	2	None
+5	Charm	247	Unavailable	0	0	2	None
+5	Charm	300	Amuleto attacco  IV	0	0	10	None
+5	Charm	301	Amuleto attacco V	0	0	11	None
+5	Charm	302	Amuleto difesa IV	0	0	8	None
+5	Charm	303	Amuleto difesa V 	0	0	10	None
+5	Charm	304	Amuleto paravento IV	0	0	10	None
+5	Charm	305	Amuleto paravento V	0	0	11	None
+5	Charm	306	Amuleto vampa IV	0	0	9	None
+5	Charm	307	Amuleto vampa V	0	0	10	None
+5	Charm	308	Amuleto alluvione IV	0	0	9	None
+5	Charm	309	Amuleto alluvione V	0	0	10	None
+5	Charm	310	Amuleto scossa IV	0	0	9	None
+5	Charm	311	Amuleto scossa V	0	0	10	None
+5	Charm	312	Amuleto ferreo IV	0	0	10	None
+5	Charm	313	Amuleto ferreo  V	0	0	11	None
+5	Charm	314	Amuleto amicizia IV	0	0	10	None
+5	Charm	315	Amuleto amicizia V	0	0	11	None
+5	Charm	316	Amuleto adunata IV	0	0	8	None
+5	Charm	317	Amuleto adunata V	0	0	9	None
+5	Charm	318	Amuleto botanica IV	0	0	8	None
+5	Charm	319	Amuleto bufera IV	0	0	10	None
+5	Charm	320	Amuleto bufera V 	0	0	11	None
+5	Charm	321	Amuleto esperto IV	0	0	10	None
+5	Charm	322	Unavailable	0	0	0	None
+5	Charm	323	Amuleto evasione IV	0	0	11	None
+5	Charm	324	Amuleto evasione V	0	0	11	None
+5	Charm	325	Amuleto iperdrago IV	0	0	10	None
+5	Charm	326	Amuleto iperdrago V	0	0	11	None
+5	Charm	327	Unavailable	0	0	0	None
+5	Charm	328	Amuleto maratona III	0	0	11	None
+5	Charm	329	Amuleto tonico IV	0	0	10	None
+5	Charm	330	Unavailable	0	0	0	None
+5	Charm	331	Amuleto super III	0	0	11	None
+5	Charm	332	Amuleto tuffo III	0	0	11	None
+5	Charm	333	Amuleto fungo III	0	0	10	None
+5	Charm	334	Amuleto risveglio III	0	0	11	None
+5	Charm	335	Amuleto artigiano IV	0	0	11	None
+5	Charm	336	Unavailable	0	0	0	None
+5	Charm	337	Amuleto udito IV	0	0	11	None
+5	Charm	338	Unavailable	0	0	0	None
+5	Charm	339	Amuleto sisma III	0	0	11	None
+5	Charm	340	Unavailable	0	0	0	None
+5	Charm	341	Amuleto concentrato III	0	0	11	None
+5	Charm	342	Amuleto lesione III	0	0	10	None
+5	Charm	343	Amuleto furia III	0	0	10	None
+5	Charm	344	Amuleto furia IV	0	0	11	None
+5	Charm	345	Amuleto furia V	0	0	11	None
+5	Charm	346	Amuleto grinta III	0	0	10	None
+5	Charm	347	Amuleto grinta IV	0	0	11	None
+5	Charm	348	Amuleto grinta V	0	0	11	None
+5	Charm	349	Amuleto forza III	0	0	10	None
+5	Charm	350	Amuleto forza IV	0	0	11	None
+5	Charm	351	Amuleto forza V	0	0	11	None
+5	Charm	352	Amuleto sfidante III	0	0	10	None
+5	Charm	353	Amuleto sfidante IV	0	0	11	None
+5	Charm	354	Amuleto sfidante V	0	0	11	None
+5	Charm	355	Amuleto illeso III	0	0	11	None
+5	Charm	356	Amuleto possente III	0	0	11	None
+5	Charm	357	Amuleto impatto III	0	0	10	None
+5	Charm	358	Amuleto critico II	0	0	11	None
+5	Charm	359	Unavailable	0	0	0	None
+5	Charm	360	Amuleto vigore III	0	0	10	None
+5	Charm	361	Amuleto fenice I	0	0	10	None
+5	Charm	362	Amuleto fenice II	0	0	11	None
+5	Charm	363	Unavailable	0	0	0	None
+5	Charm	364	Amuleto guardiano I	0	0	8	None
+5	Charm	365	Amuleto guardiano II	0	0	9	None
+5	Charm	366	Amuleto guardiano III	0	0	11	None
+5	Charm	367	Amuleto adamantino	0	0	10	None
+5	Charm	368	Amuleto acutezza	0	0	10	None
+5	Charm	369	Amuleto sigillo	0	0	10	None
+5	Charm	370	Amuleto tenacia	0	0	10	None
+5	Charm	371	Amuleto tossico IV	0	0	10	None
+5	Charm	372	Amuleto stasi IV	0	0	10	None
+5	Charm	373	Amuleto soporifero IV	0	0	10	None
+5	Charm	374	Amuleto schianto IV	0	0	10	None
+5	Charm	375	Amuleto normale II	0	0	10	None
+5	Charm	376	Amuleto perforazione II	0	0	10	None
+5	Charm	377	Amuleto ventaglio II	0	0	10	None
+5	Charm	378	Amuleto musicista II	0	0	8	None
+5	Charm	379	Amuleto sopravvivenza I	0	0	2	None
+5	Charm	380	Amuleto sopravvivenza II	0	0	2	None
+5	Charm	381	Amuleto sopravvivenza III	0	0	2	None
+5	Charm	382	Unavailable	0	0	2	None
+5	Charm	383	Unavailable	0	0	0	None
+5	Charm	384	Unavailable	0	0	0	None
+5	Charm	385	Unavailable	0	0	0	None
+5	Charm	386	Unavailable	0	0	0	None
+5	Charm	387	Unavailable	0	0	0	None
+5	Charm	388	Unavailable	0	0	0	None
+5	Charm	389	Unavailable	0	0	0	None
+5	Charm	390	Unavailable	0	0	0	None
+5	Charm	391	Unavailable	0	0	0	None
+5	Charm	392	Unavailable	0	0	0	None
+5	Charm	393	Unavailable	0	0	0	None
+5	Charm	394	Unavailable	0	0	0	None
+5	Charm	395	Unavailable	0	0	0	None
+5	Charm	396	Unavailable	0	0	0	None
+5	Charm	397	Unavailable	0	0	0	None
+5	Charm	398	Unavailable	0	0	0	None
+5	Charm	399	Unavailable	0	0	0	None
+5	Charm	400	Unavailable	0	0	0	None

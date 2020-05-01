@@ -1,0 +1,166 @@
+Weapon ID	Weapon Name	File Path
+1	F Eichelspaten	otomo/wp/ot_we001
+28	F Knochenhammer	otomo/wp/ot_we028
+29	F Legierungs-Schwert	otomo/wp/ot_we029
+2	F Jagras-Gewehrhammer	otomo/wp/ot_we002
+3	F Kulu-Mandoline	otomo/wp/ot_we003
+4	F Pukei-Bogen	otomo/wp/ot_we004
+5	F Barroth-Keule	otomo/wp/ot_we005
+6	F Jyura-Schwert	otomo/wp/ot_we006
+7	F Kadachi-Gabel	otomo/wp/ot_we007
+8	F Anjanath-Hammer	otomo/wp/ot_we008
+11	F Paolumu-Pfoten	otomo/wp/ot_we011
+9	F Rathian-Degen	otomo/wp/ot_we009
+13	F Baan-Ball	otomo/wp/ot_we013
+30	F Maikätzchen-Stab	otomo/wp/ot_we030
+12	F Legiana-Schwert	otomo/wp/ot_we012
+14	F GaronKettenklinge	otomo/wp/ot_we014
+16	F Rathalos-Klinge	otomo/wp/ot_we016
+17	F Diablos-Hammer	otomo/wp/ot_we017
+18	F Götterklingen-Zappur	otomo/wp/ot_we018
+27	F Schnitter-Sense	otomo/wp/ot_we027
+32	F Eichelspaten <ICON ALPHA>	otomo/wp/ot_we001
+33	F Knochenhammer <ICON ALPHA>	otomo/wp/ot_we028
+34	F Legierungs-Schwert <ICON ALPHA>	otomo/wp/ot_we029
+35	F Jagras-Gewehrhammer <ICON ALPHA>	otomo/wp/ot_we002
+36	F Kulu-Mandoline <ICON ALPHA>	otomo/wp/ot_we003
+37	F Pukei-Bogen <ICON ALPHA>	otomo/wp/ot_we004
+38	F Barroth-Keule <ICON ALPHA>	otomo/wp/ot_we005
+39	F Jyura-Schwert <ICON ALPHA>	otomo/wp/ot_we006
+40	F Kadachi-Gabel <ICON ALPHA>	otomo/wp/ot_we007
+19	F Zorah-Puppe <ICON ALPHA>	otomo/wp/ot_we019
+41	F Anjanath-Hammer <ICON ALPHA>	otomo/wp/ot_we008
+42	F Paolumu-Pfoten <ICON ALPHA>	otomo/wp/ot_we011
+43	F Rathian-Degen <ICON ALPHA>	otomo/wp/ot_we009
+44	F Baan-Ball <ICON ALPHA>	otomo/wp/ot_we013
+45	F Maikätzchen-Stab <ICON ALPHA>	otomo/wp/ot_we030
+46	F Legiana-Schwert <ICON ALPHA>	otomo/wp/ot_we012
+47	F Garon-Kettenklinge <ICON ALPHA>	otomo/wp/ot_we014
+48	F Rathalos-Klinge <ICON ALPHA>	otomo/wp/ot_we016
+49	F Diablos-Hammer <ICON ALPHA>	otomo/wp/ot_we017
+50	F Götterklingen-Zappur <ICON ALPHA>	otomo/wp/ot_we018
+20	F Lava-Keule <ICON ALPHA>	otomo/wp/ot_we020
+21	F Uragaan-Eisenblock <ICON ALPHA>	otomo/wp/ot_we021
+26	F Bazel-Keule <ICON ALPHA>	otomo/wp/ot_we026
+51	F Schnitter-Sense <ICON ALPHA>	otomo/wp/ot_we027
+52	F Gajalaka-Schwert <ICON ALPHA>	otomo/wp/ot_we031
+10	F Nergigante-Hammer <ICON ALPHA>	otomo/wp/ot_we010
+15	F Hazak-Schwert <ICON ALPHA>	otomo/wp/ot_we015
+22	F Kaiser-Keule <ICON ALPHA>	otomo/wp/ot_we022
+23	F Daora-Stab <ICON ALPHA>	otomo/wp/ot_we023
+24	F Xeno-Bouquet <ICON ALPHA>	otomo/wp/ot_we024
+25	Unavailable	otomo/wp/ot_we001
+53	F Gajalaka-Schwert	otomo/wp/ot_we200
+54	Grimalkyne-Spitzhacke	otomo/wp/ot_we100
+100	Verfluchter Stab <ICON ALPHA>	otomo/wp/ot_we073
+101	F Eichelspaten	otomo/wp/ot_we000
+102	Unavailable	otomo/wp/ot_we001
+55	F Kulve-Fächer <ICON ALPHA>	otomo/wp/ot_we025
+56	F Vangis-Keule <ICON ALPHA>	otomo/wp/ot_we033
+57	F Eliza-Schirm <ICON ALPHA>	otomo/wp/ot_we034
+58	Mega Buster <ICON ALPHA>	otomo/wp/ot_we035
+59	HARDUMMY	otomo/wp/ot_we036
+60	F Azurstern-Stab	otomo/wp/ot_we037
+61	Gold-Chocobo-Stab <ICON ALPHA>	otomo/wp/ot_we038
+62	F Samurai-Schwert <ICON ALPHA>	otomo/wp/ot_we039
+63	F Schmetterling-Stab	otomo/wp/ot_we040
+64	F Aloha-Ukulele	otomo/wp/ot_we041
+65	F Kürbisspalter	otomo/wp/ot_we042
+66	F Schneekatzen-Glocke	otomo/wp/ot_we043
+67	F Superstar-Mikroständer	otomo/wp/ot_we044
+68	F Schmetterling-Stab <ICON ALPHA>	otomo/wp/ot_we040
+69	F Aloha-Ukulele <ICON ALPHA>	otomo/wp/ot_we041
+70	F Kürbisspalter <ICON ALPHA>	otomo/wp/ot_we042
+71	F Schneekatzen-Glocke <ICON ALPHA>	otomo/wp/ot_we043
+72	F Superstar-Mikroständer <ICON ALPHA>	otomo/wp/ot_we044
+110	F Wanderhacke <ICON ALPHA>+	otomo/wp/ot_we060
+111	F Knochenhammer <ICON ALPHA>+	otomo/wp/ot_we028
+112	F Legierungs-Schwert <ICON ALPHA>+	otomo/wp/ot_we029
+113	F Jagras-Gewehrhammer <ICON ALPHA>+	otomo/wp/ot_we002
+114	F Kulu-Mandoline <ICON ALPHA>+	otomo/wp/ot_we003
+115	F Pukei-Bogen <ICON ALPHA>+	otomo/wp/ot_we004
+116	F Barroth-Keule <ICON ALPHA>+	otomo/wp/ot_we005
+117	F Jyura-Schwert <ICON ALPHA>+	otomo/wp/ot_we006
+118	F Beo-Brett <ICON ALPHA>+	otomo/wp/ot_we051
+119	F Kadachi-Gabel <ICON ALPHA>+	otomo/wp/ot_we007
+120	F Grimalkynen-Puppe <ICON ALPHA>+	otomo/wp/ot_we052
+121	F Anjanath-Hammer <ICON ALPHA>+	otomo/wp/ot_we008
+122	F Rathian-Degen <ICON ALPHA>+	otomo/wp/ot_we009
+123	F Paolumu-Pfoten <ICON ALPHA>+	otomo/wp/ot_we011
+124	F Baan-Ball <ICON ALPHA>+	otomo/wp/ot_we013
+125	F Maikätzchen-Stab <ICON ALPHA>+	otomo/wp/ot_we030
+126	F Schnitter-Sense <ICON ALPHA>+	otomo/wp/ot_we027
+127	F Barioth-Messer <ICON ALPHA>+	otomo/wp/ot_we046
+128	F Rathalos-Klinge <ICON ALPHA>+	otomo/wp/ot_we016
+129	F Diablos-Hammer <ICON ALPHA>+	otomo/wp/ot_we017
+130	F Legiana-Schwert <ICON ALPHA>+	otomo/wp/ot_we012
+131	F Garon-Kettenklinge <ICON ALPHA>+	otomo/wp/ot_we014
+132	F Lava-Keule <ICON ALPHA>+	otomo/wp/ot_we020
+133	F Uragaan-Eisenblock <ICON ALPHA>+	otomo/wp/ot_we021
+134	F Nargacuga-Shuriken <ICON ALPHA>+	otomo/wp/ot_we047
+135	F Brennende Klinge <ICON ALPHA>+	otomo/wp/ot_we048
+136	F Brachydios-Schlag <ICON ALPHA>+	otomo/wp/ot_we049
+137	F Tigrex-Klopper <ICON ALPHA>+	otomo/wp/ot_we050
+138	F Schneesturm-Schwert <ICON ALPHA>+	otomo/wp/ot_we056
+139	F Artian-Scheibe <ICON ALPHA>+	otomo/wp/ot_we061
+140	F Gajalaka-Schwert <ICON ALPHA>+	otomo/wp/ot_we031
+141	F Boaboa-Knochenhammer <ICON ALPHA>+	otomo/wp/ot_we062
+142	F Velkhana-Lanze <ICON ALPHA>+	otomo/wp/ot_we053
+143	F Brodelnder-Keule <ICON ALPHA>+	otomo/wp/ot_we059
+144	F Vaal-Zepter <ICON ALPHA>+	otomo/wp/ot_we057
+145	F Namielle-Stab <ICON ALPHA>+	otomo/wp/ot_we054
+146	F Kaiser-Keule <ICON ALPHA>+	otomo/wp/ot_we022
+147	F Daora-Stab <ICON ALPHA>+	otomo/wp/ot_we023
+148	 F Götterklingen-Zappur <ICON ALPHA>+	otomo/wp/ot_we018
+149	F Ishvalda-Meteor <ICON ALPHA>+	otomo/wp/ot_we055
+150	F Ruinen-Klaue <ICON ALPHA>+	otomo/wp/ot_we058
+151	F Wilder-Jho-Knochen <ICON ALPHA>+	otomo/wp/ot_we069
+152	"F Wyvernklinge ""Grün"" <ICON ALPHA>+"	otomo/wp/ot_we072
+153	F Garuga-Fächer <ICON ALPHA>+	otomo/wp/ot_we064
+154	F Miausurpator-Geläut <ICON ALPHA>+	otomo/wp/ot_we065
+155	F Zorah-Puppe <ICON ALPHA>+	otomo/wp/ot_we019
+156	F Goldenes Gadget <ICON ALPHA>+	otomo/wp/ot_we066
+157	F Götter-Stab <ICON ALPHA>+	otomo/wp/ot_we071
+158	F Zerquetscher-Schlag <ICON ALPHA>+	otomo/wp/ot_we070
+159	F Safi-Speer <ICON ALPHA>+	otomo/wp/ot_we067
+160	F Eichelspaten	otomo/wp/ot_we000
+161	F Eliza-Schirm <ICON ALPHA>+	otomo/wp/ot_we034
+162	F Kulve-Fächer <ICON ALPHA>+	otomo/wp/ot_we025
+163	Mega Buster <ICON ALPHA>+	otomo/wp/ot_we035
+164	Gold-Chocobo-Stab <ICON ALPHA>+	otomo/wp/ot_we038
+165	HARDUMMY	otomo/wp/ot_we037
+166	HARDUMMY	otomo/wp/ot_we036
+167	F Samurai-Schwert <ICON ALPHA>+	otomo/wp/ot_we039
+168	F Schmetterling-Stab <ICON ALPHA>+	otomo/wp/ot_we040
+169	F Eichelspaten	otomo/wp/ot_we000
+170	F Eichelspaten	otomo/wp/ot_we000
+171	F Schneekatzen-Glocke <ICON ALPHA>+	otomo/wp/ot_we043
+172	F Superstar-Mikroständer <ICON ALPHA>+	otomo/wp/ot_we044
+173	F Eichelspaten <ICON ALPHA>+	otomo/wp/ot_we001
+174	F Bazel-Keule <ICON ALPHA>+	otomo/wp/ot_we026
+175	F Vangis-Keule <ICON ALPHA>+	otomo/wp/ot_we033
+176	F Nergigante-Hammer <ICON ALPHA>+	otomo/wp/ot_we010
+177	F Hazak-Schwert <ICON ALPHA>+	otomo/wp/ot_we015
+178	F Xeno-Bouquet <ICON ALPHA>+	otomo/wp/ot_we024
+179	F Gildenbuch <ICON ALPHA>+	otomo/wp/ot_we063
+180	F Rosen-Korb <ICON ALPHA>+	otomo/wp/ot_we075
+181	F Eichelspaten	otomo/wp/ot_we000
+182	F Eichelspaten	otomo/wp/ot_we000
+183	F Shishimai-Bonbori <ICON ALPHA>+	otomo/wp/ot_we078
+184	F Astral-UFO <ICON ALPHA>+	otomo/wp/ot_we079
+185	F Eichelspaten	otomo/wp/ot_we000
+186	F Eichelspaten	otomo/wp/ot_we000
+187	F Eichelspaten	otomo/wp/ot_we000
+188	HARDUMMY	otomo/wp/ot_we080
+189	HARDUMMY	otomo/wp/ot_we081
+190	F Wackelwurm-Koralle <ICON ALPHA>+	otomo/wp/ot_we082
+191	Boaboa-Knochenhammer	otomo/wp/ot_we062
+192	F Eichelspaten	otomo/wp/ot_we000
+193	F Eichelspaten	otomo/wp/ot_we000
+194	F Eichelspaten	otomo/wp/ot_we000
+195	F Maestro-Taktstock <ICON ALPHA>+	otomo/wp/ot_we085
+196	F Bäuerliche Spitzhacke <ICON ALPHA>+	otomo/wp/ot_we086
+197	Verfluchter Stab <ICON ALPHA>+	otomo/wp/ot_we073
+198	F Eichelspaten	otomo/wp/ot_we000
+199	F Eichelspaten	otomo/wp/ot_we000
+200	F Eichelspaten	otomo/wp/ot_we000

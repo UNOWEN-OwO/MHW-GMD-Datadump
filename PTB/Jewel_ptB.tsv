@@ -1,0 +1,402 @@
+Deco ID	Item ID	Deco Name	Slot Size
+0	727	Joia Antídoto 1	1
+1	728	Joia Antiparalisia 1	1
+2	729	Joia Ânimo 1	1
+3	730	Joia Resoluto 1	1
+4	731	Joia Antiexplosão 1	1
+5	732	Joia Sutura 1	1
+6	733	Joia Defesa Ativa 1	1
+7	734	Joia Tampão 3	3
+8	735	Joia Resistência a Vento 2	2
+9	736	Joia Equilíbrio 2	2
+10	739	Joia Ataque 1	1
+11	740	Joia Defesa 1	1
+12	741	Joia Vitalidade 1	1
+13	742	Joia Regeneração 1	1
+14	743	Joia Resistência a Fogo 1	1
+15	744	Joia Resistência a Água 1	1
+16	745	Joia Resistência a Gelo 1	1
+17	746	Joia Resistência a Raio 1	1
+18	747	Joia Resistência a Dragão 1	1
+19	748	Joia Resistor 1	1
+20	749	Joia Chama 1	1
+21	750	Joia Riacho 1	1
+22	751	Joia Geada 1	1
+23	752	Joia Relâmpago 1	1
+24	753	Joia Dragão 1	1
+25	754	Joia Veneno 1	1
+26	755	Joia Paralisadora 1	1
+27	756	Joia Sono 1	1
+28	757	Joia Explosão 1	1
+29	758	Joia Camada de Veneno 3	3
+30	759	Joia Camada de Paralisia 3	3
+31	760	Joia Camada de Sono 3	3
+32	761	Joia Camada de Explosão 3	3
+33	763	Joia Descarregamento 3	3
+34	764	Joia Especialista 1	1
+35	765	Joia Crítica 2	2
+36	766	Joia Atenuadora 2	2
+37	767	Joia Energizadora 2	2
+38	768	Joia do Artesanato 3	3
+39	769	Joia de Saque 2	2
+40	770	Joia Destruidora 2	2
+41	771	Joia de Nocaute 2	2
+42	772	Joia de Drenagem 1	1
+43	774	Joia de Voo 2	2
+44	775	Joia Aceleradora 2	2
+45	776	Joia do Desafiante 2	2
+46	777	Joia da Perfeição 2	2
+47	778	Joia do Potencial 2	2
+48	779	Joia da Fortitude 1	1
+49	780	Joia do Furor 2	2
+50	781	Joia Sonora 1	1
+51	782	Joia Aljava 2	2
+52	783	Joia Tiro Certo 1	1
+53	784	Joia Artilharia 1	1
+54	785	Joia Artilharia Pesada 1	1
+55	786	Joia do Corredor 2	2
+56	787	Joia do Biotipo 2	2
+57	789	Joia Revigorante 2	2
+58	790	Joia da Saciação 1	1
+59	791	Joia da Evasão 2	2
+60	792	Joia de Salto 2	2
+61	793	Joia Muro de Ferro 1	1
+62	794	Joia da Bainha 1	1
+63	795	Joia da Amizade 1	1
+64	796	Joia da Tolerância 1	1
+65	797	Joia da Saciedade 1	1
+66	798	Joia do Glutão 1	1
+67	799	Joia do Amolador 1	1
+68	800	Joia de Bombardeiro 1	1
+69	801	Joia Fungiforme 1	1
+70	808	Joia da Proteção 1	1
+71	809	Joia de Miaustre 1	1
+72	810	Joia Botânica 1	1
+73	811	Joia Geológica 1	1
+74	812	Joia Potente 2	2
+75	813	Joia Apedrejadora 1	1
+76	814	Joia Ponta dos Pés 1	1
+77	815	Joia do Preparo 3	3
+78	819	Joia de Fumaça 1	1
+79	820	Joia de Lodo 1	1
+80	824	Joia de Espécime 1	1
+81	826	Joia de Aroma 1	1
+82	828	Joia Intimidante 1	1
+83	832	Joia Deslizante 2	2
+84	833	Joia Medicinal 1	1
+85	834	Joia Tiro Forçado 3	3
+86	835	Joia Perfurante 3	3
+87	836	Joia de Dispersão 3	3
+88	837	Joia Intensificadora 2	2
+89	838	Joia de Crise 1	1
+90	839	Joia Selo do Dragão 3	3
+91	842	Joia de Manutenção 1	1
+92	874	Joia Arco Magnífico 2	2
+93	875	Joia Olhos da Mente 2	2
+94	876	Joia de Escudo 2	2
+95	877	Joia Afiada 2	2
+96	878	Joia Sem Elemento 2	2
+97	825	Joia de Miasma 1	1
+98	1968	Joia da Fênix 3	3
+99	1969	Joia Guardiã 2	2
+100	1970	Joia Refrescante 2	2
+101	1971	Joia Resistência a Fogo+ 4	4
+102	1972	Joia Resistência a Água+ 4	4
+103	1973	Joia Resistência a Gelo+ 4	4
+104	1974	Joia Resistência a Raio+ 4	4
+105	1975	Joia Resistência a Dragão+ 4	4
+106	1976	Joia Chama+ 4	4
+107	1977	Joia Riacho+ 4	4
+108	1978	Joia Geada+ 4	4
+109	1979	Joia Relâmpago+ 4	4
+110	1980	Joia Dragão+ 4	4
+111	1981	Joia Veneno+ 4	4
+112	1982	Joia Paralisadora+ 4	4
+113	1983	Joia Sono+ 4	4
+114	1984	Joia Explosão+ 4	4
+115	1985	Joia Dura Resistência a Fogo 4	4
+116	1986	Joia Dura Resistência a Água 4	4
+117	1987	Joia Dura Resistência a Gelo 4	4
+118	1988	Joia Dura Resistência a Raio 4	4
+119	1989	Joia Dura Resistência a Dragão 4	4
+120	1990	Joia Antídoto+ 4	4
+121	1991	Joia Antiparalisia+ 4	4
+122	1992	Joia Ânimo+ 4	4
+123	1993	Joia Resoluta+ 4	4
+124	1994	Joia Antiexplosão+ 4	4
+125	1995	Joia Sutura+ 4	4
+126	1996	Joia Defesa Ativa+ 4	4
+127	1997	Joia de Miasma+ 4	4
+128	1998	Joia Saciação+ 4	4
+129	1999	Joia Regeneração+ 4	4
+130	2000	Joia Ponta dos Pés+ 4	4
+131	2001	Joia Intimidante+ 4	4
+132	2002	Joia Miaustre+ 4	4
+133	2003	Joia Dura Ponta dos Pés 4	4
+134	2004	Joia Dura Intimidante 4	4
+135	2005	Joia Dura Miaustre 4	4
+136	2006	Joia Tiro Certo+ 4	4
+137	2007	Joia Artilharia Pesada+ 4	4
+138	2008	Joia Botânica+ 4	4
+139	2009	Joia Geológica+ 4	4
+140	2010	Joia Sobrevivência+ 4	4
+141	2011	Joia Lodo+ 4	4
+142	2012	Joia Espécime+ 4	4
+143	2013	Joia Sonora+ 4	4
+144	2014	Joia Dura Botânica 4	4
+145	2015	Joia Dura Geológica 4	4
+146	2016	Joia Dura Sobrevivência 4	4
+147	2017	Joia Dura Espécime 4	4
+148	2018	Joia Tolerância+ 4	4
+149	2019	Joia Defesa+ 4	4
+150	2020	Joia Dura Tolerância 4	4
+151	2021	Joia Dura Defesa 4	4
+152	2022	Joia Artilharia+ 4	4
+153	2023	Joia Tampão+ 4	4
+154	2024	Joia Resistência a Vento+ 4	4
+155	2025	Joia Ataque+ 4	4
+156	2026	Joia Especialista+ 4	4
+157	2027	Joia Artesanato+ 4	4
+158	2028	Joia Aceleradora+ 4	4
+159	2029	Joia Desafiante+ 4	4
+160	2030	Joia Potencial+ 4	4
+161	2031	Joia Furor+ 4	4
+162	2032	Joia Biotipo+ 4	4
+163	2033	Joia Evasão+ 4	4
+164	2034	Joia Muro de Ferro+ 4	4
+165	2035	Joia Amizade+ 4	4
+166	2036	Joia Biotipo/Drenagem 4	4
+167	2037	Joia Biotipo/Fortitude 4	4
+168	2038	Joia Biotipo/Crise 4	4
+169	2039	Joia Biotipo/Muro de Ferro 4	4
+170	2040	Joia Biotipo/Amizade 4	4
+171	2041	Joia Biotipo/Saciedade 4	4
+172	2042	Joia Biotipo/Apedrejadora 4	4
+173	2043	Joia Biotipo/Resistor 4	4
+174	2044	Joia Biotipo/Voo 4	4
+175	2045	Joia Biotipo/Corredor 4	4
+176	2046	Joia Biotipo/Revigorante 4	4
+177	2047	Joia Biotipo/Salto 4	4
+178	2048	Joia Biotipo/Bainha 4	4
+179	2049	Joia Biotipo/Glutão 4	4
+180	2050	Joia Biotipo/Amolador 4	4
+181	2051	Joia Biotipo/Bombardeiro 4	4
+182	2052	Joia Biotipo/Fungiforme 4	4
+183	2053	Joia Biotipo/Deslizante 4	4
+184	2054	Joia Biotipo/Guardiã 4	4
+185	2055	Joia Evasão/Drenagem 4	4
+186	2056	Joia Evasão/Fortitude 4	4
+187	2057	Joia Evasão/Crise 4	4
+188	2058	Joia Evasão/Muro de Ferro 4	4
+189	2059	Joia Evasão/Amizade 4	4
+190	2060	Joia Evasão/Saciedade 4	4
+191	2061	Joia Evasão/Apedrejadora 4	4
+192	2062	Joia Evasão/Resistor 4	4
+193	2063	Joia Evasão/Voo 4	4
+194	2064	Joia Evasão/Corredor 4	4
+195	2065	Joia Evasão/Revigorante 4	4
+196	2066	Joia Evasão/Salto 4	4
+197	2067	Joia Evasão/Bainha 4	4
+198	2068	Joia Evasão/Glutão 4	4
+199	2069	Joia Evasão/Amolador 4	4
+200	2070	Joia Evasão/Bombardeiro 4	4
+201	2071	Joia Evasão/Fungiforme 4	4
+202	2072	Joia Evasão/Deslizante 4	4
+203	2073	Joia Evasão/Guardiã 4	4
+204	2074	Joia Ataque/Drenagem 4	4
+205	2075	Joia Ataque/Fortitude 4	4
+206	2076	Joia Ataque/Crise 4	4
+207	2077	Joia Ataque/Muro de Ferro 4	4
+208	2078	Joia Ataque/Amizade 4	4
+209	2079	Joia Ataque/Saciedade 4	4
+210	2080	Joia Ataque/Apedrejadora 4	4
+211	2081	Joia Ataque/Resistor 4	4
+212	2082	Joia Ataque/Voo 4	4
+213	2083	Joia Ataque/Corredor 4	4
+214	2084	Joia Ataque/Revigorante 4	4
+215	2085	Joia Ataque/Salto 4	4
+216	2086	Joia Ataque/Bainha 4	4
+217	2087	Joia Ataque/Glutão 4	4
+218	2088	Joia Ataque/Amolador 4	4
+219	2089	Joia Ataque/Bombardeiro 4	4
+220	2090	Joia Ataque/Fungiforme 4	4
+221	2091	Joia Ataque/Deslizante 4	4
+222	2092	Joia Ataque/Guardiã 4	4
+223	2093	Joia Especialista/Drenagem 4	4
+224	2094	Joia Especialista/Fortitude 4	4
+225	2095	Joia Especialista/Crise 4	4
+226	2096	Joia Especialista/Muro de Ferro 4	4
+227	2097	Joia Especialista/Amizade 4	4
+228	2098	Joia Especialista/Saciedade 4	4
+229	2099	Joia Especialista/Apedrejadora 4	4
+230	2100	Joia Especialista/Resistor 4	4
+231	2101	Joia Especialista/Voo 4	4
+232	2102	Joia Especialista/Corredor 4	4
+233	2103	Joia Especialista/Revigorante 4	4
+234	2104	Joia Especialista/Salto 4	4
+235	2105	Joia Especialista/Bainha 4	4
+236	2106	Joia Especialista/Glutão 4	4
+237	2107	Joia Especialista/Amolador 4	4
+238	2108	Joia Especialista/Bombardeiro 4	4
+239	2109	Joia Especialista/Fungiforme 4	4
+240	2110	Joia Especialista/Deslizante 4	4
+241	2111	Joia Especialista/Guardiã 4	4
+242	2112	Joia Descarregamento/Drenagem 4	4
+243	2113	Joia Descarregamento/Fortitude 4	4
+244	2114	Joia Descarregamento/Crise 4	4
+245	2115	Joia Descarregamento/Muro Ferro 4	4
+246	2116	Joia Descarregamento/Amizade 4	4
+247	2117	Joia Descarregamento/Saciedade 4	4
+248	2118	Joia Descarregamento/Apedrejad. 4	4
+249	2119	Joia Descarregamento/Resistor 4	4
+250	2120	Joia Descarregamento/Voo 4	4
+251	2121	Joia Descarregamento/Corredor 4	4
+252	2122	Joia Descarregamento/Revigorante 4	4
+253	2123	Joia Descarregamento/Salto 4	4
+254	2124	Joia Descarregamento/Bainha 4	4
+255	2125	Joia Descarregamento/Glutão 4	4
+256	2126	Joia Descarregamento/Amolador 4	4
+257	2127	Joia Descarregamento/Bombardeiro 4	4
+258	2128	Joia Descarregamento/Fungiforme 4	4
+259	2129	Joia Descarregamento/Deslizante 4	4
+260	2130	Joia Descarregamento/Guardiã 4	4
+261	2131	Joia Artesanato/Drenagem 4	4
+262	2132	Joia Artesanato/Fortitude 4	4
+263	2133	Joia Artesanato/Crise 4	4
+264	2134	Joia Artesanato/Muro de Ferro 4	4
+265	2135	Joia Artesanato/Amizade 4	4
+266	2136	Joia Artesanato/Saciedade 4	4
+267	2137	Joia Artesanato/Apedrejadora 4	4
+268	2138	Joia Artesanato/Resistor 4	4
+269	2139	Joia Artesanato/Voo 4	4
+270	2140	Joia Artesanato/Corredor 4	4
+271	2141	Joia Artesanato/Revigorante 4	4
+272	2142	Joia Artesanato/Salto 4	4
+273	2143	Joia Artesanato/Bainha 4	4
+274	2144	Joia Artesanato/Glutão 4	4
+275	2145	Joia Artesanato/Amolador 4	4
+276	2146	Joia Artesanato/Bombardeiro 4	4
+277	2147	Joia Artesanato/Fungiforme 4	4
+278	2148	Joia Artesanato/Deslizante 4	4
+279	2149	Joia Artesanato/Guardiã 4	4
+280	2150	Joia Proteção/Equilíbrio 4	4
+281	2151	Joia Proteção/Energizadora 4	4
+282	2152	Joia Proteção/Intensificadora 4	4
+283	2153	Joia Proteção/Destruidora 4	4
+284	2154	Joia Proteção/Nocaute 4	4
+285	2155	Joia Proteção/Potencial 4	4
+286	2156	Joia Proteção/Resist. a Vento 4	4
+287	2157	Joia Proteção/Saque 4	4
+288	2158	Joia Proteção/Aceleradora 4	4
+289	2159	Joia Proteção/Desafiante 4	4
+290	2160	Joia Proteção/Perfeição 4	4
+291	2161	Joia Proteção/Furor 4	4
+292	2162	Joia Proteção/Potente 4	4
+293	2163	Joia Proteção/Preparo 4	4
+294	2164	Joia Proteção/Fênix 4	4
+295	2165	Joia Proteção/Tampão 4	4
+296	2166	Joia Proteção/Crítica 4	4
+297	2167	Joia Proteção/Atenuadora 4	4
+298	2168	Joia Proteção/Artesanato 4	4
+299	2169	Joia Proteção/Descarregamento 4	4
+300	2170	Joia Medicinal/Equilíbrio 4	4
+301	2171	Joia Medicinal/Energizadora 4	4
+302	2172	Joia Medicinal/Intensificadora 4	4
+303	2173	Joia Medicinal/Destruidora 4	4
+304	2174	Joia Medicinal/Nocaute 4	4
+305	2175	Joia Medicinal/Potencial 4	4
+306	2176	Joia Medicinal/Resist. a Vento 4	4
+307	2177	Joia Medicinal/Saque 4	4
+308	2178	Joia Medicinal/Aceleradora 4	4
+309	2179	Joia Medicinal/Desafiante 4	4
+310	2180	Joia Medicinal/Perfeição 4	4
+311	2181	Joia Medicinal/Furor 4	4
+312	2182	Joia Medicinal/Potente 4	4
+313	2183	Joia Medicinal/Preparo 4	4
+314	2184	Joia Medicinal/Fênix 4	4
+315	2185	Joia Medicinal/Tampão 4	4
+316	2186	Joia Medicinal/Crítica 4	4
+317	2187	Joia Medicinal/Atenuadora 4	4
+318	2188	Joia Medicinal/Artesanato 4	4
+319	2189	Joia Medicinal/Descarregamento 4	4
+320	2190	Joia Vitalidade/Equilíbrio 4	4
+321	2191	Joia Vitalidade/Energizadora 4	4
+322	2192	Joia Vitalidade/Intensificadora 4	4
+323	2193	Joia Vitalidade/Destruidora 4	4
+324	2194	Joia Vitalidade/Nocaute 4	4
+325	2195	Joia Vitalidade/Potencial 4	4
+326	2196	Joia Vitalidade/Resist. a Vento 4	4
+327	2197	Joia Vitalidade/Saque 4	4
+328	2198	Joia Vitalidade/Aceleradora 4	4
+329	2199	Joia Vitalidade/Desafiante 4	4
+330	2200	Joia Vitalidade/Perfeição 4	4
+331	2201	Joia Vitalidade/Furor 4	4
+332	2202	Joia Vitalidade/Potente 4	4
+333	2203	Joia Vitalidade/Preparo 4	4
+334	2204	Joia Vitalidade/Fênix 4	4
+335	2205	Joia Vitalidade/Tampão 4	4
+336	2206	Joia Vitalidade/Crítica 4	4
+337	2207	Joia Vitalidade/Atenuadora 4	4
+338	2208	Joia Vitalidade/Artesanato 4	4
+339	2209	Joia Vitalidade/Descarregamento 4	4
+340	2210	Joia Manutenção/Equilíbrio 4	4
+341	2211	Joia Manutenção/Energizadora 4	4
+342	2212	Joia Manutenção/Intensificadora 4	4
+343	2213	Joia Manutenção/Destruidora 4	4
+344	2214	Joia Manutenção/Nocaute 4	4
+345	2215	Joia Manutenção/Potencial 4	4
+346	2216	Joia Manutenção/Resist. a Vento 4	4
+347	2217	Joia Manutenção/Saque 4	4
+348	2218	Joia Manutenção/Aceleradora 4	4
+349	2219	Joia Manutenção/Desafiante 4	4
+350	2220	Joia Manutenção/Perfeição 4	4
+351	2221	Joia Manutenção/Furor 4	4
+352	2222	Joia Manutenção/Potente 4	4
+353	2223	Joia Manutenção/Preparo 4	4
+354	2224	Joia Manutenção/Fênix 4	4
+355	2225	Joia Manutenção/Tampão 4	4
+356	2226	Joia Manutenção/Crítica 4	4
+357	2227	Joia Manutenção/Atenuadora 4	4
+358	2228	Joia Manutenção/Artesanato 4	4
+359	2229	Joia Manutenção/Descarregamento 4	4
+360	2230	Joia Biotipo/Equilíbrio 4	4
+361	2231	Joia Biotipo/Energizadora 4	4
+362	2232	Joia Biotipo/Intensificadora 4	4
+363	2233	Joia Biotipo/Destruidora 4	4
+364	2234	Joia Biotipo/Nocaute 4	4
+365	2235	Joia Biotipo/Potencial 4	4
+366	2236	Joia Biotipo/Resist. a Vento 4	4
+367	2237	Joia Biotipo/Saque 4	4
+368	2238	Joia Biotipo/Aceleradora 4	4
+369	2239	Joia Biotipo/Desafiante 4	4
+370	2240	Joia Biotipo/Perfeição 4	4
+371	2241	Joia Biotipo/Furor 4	4
+372	2242	Joia Biotipo/Potente 4	4
+373	2243	Joia Biotipo/Preparo 4	4
+374	2244	Joia Biotipo/Fênix 4	4
+375	2245	Joia Biotipo/Tampão 4	4
+376	2246	Joia Biotipo/Crítica 4	4
+377	2247	Joia Biotipo/Atenuadora 4	4
+378	2248	Joia Biotipo/Artesanato 4	4
+379	2249	Joia Biotipo/Descarregamento 4	4
+380	2250	Joia Evasão/Equilíbrio 4	4
+381	2251	Joia Evasão/Energizadora 4	4
+382	2252	Joia Evasão/Intensificadora 4	4
+383	2253	Joia Evasão/Destruidora 4	4
+384	2254	Joia Evasão/Nocaute 4	4
+385	2255	Joia Evasão/Potencial 4	4
+386	2256	Joia Evasão/Resist. a Vento 4	4
+387	2257	Joia Evasão/Saque 4	4
+388	2258	Joia Evasão/Aceleradora 4	4
+389	2259	Joia Evasão/Desafiante 4	4
+390	2260	Joia Evasão/Perfeição 4	4
+391	2261	Joia Evasão/Furor 4	4
+392	2262	Joia Evasão/Potente 4	4
+393	2263	Joia Evasão/Preparo 4	4
+394	2264	Joia Evasão/Fênix 4	4
+395	2265	Joia Evasão/Tampão 4	4
+396	2266	Joia Evasão/Crítica 4	4
+397	2267	Joia Evasão/Atenuadora 4	4
+398	2268	Joia Evasão/Artesanato 4	4
+399	2269	Joia Evasão/Descarregamento 4	4
+400	2272	Joia Aquecedora 2	2

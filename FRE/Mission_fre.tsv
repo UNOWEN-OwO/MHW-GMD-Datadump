@@ -1,0 +1,185 @@
+Mission ID	Mission Name	Mission Desc
+0	Sciences naturelles : Minéralogie	Exploiter 6 fois des gisements miniers.
+1	Sciences naturelles : Minéralogie	Exploiter 12 fois des gisements miniers.
+2	Sciences naturelles : Ostéologie	Examiner 6 fois des carcasses.
+3	Sciences naturelles : Ostéologie	Examiner 12 fois des carcasses.
+4	Sciences naturelles : Botanique	Cueillir 4 fois des plantes.
+5	Sciences naturelles : Botanique	Cueillir 7 fois des plantes.
+6	Sciences naturelles : Mycologie	Cueillir 4 fois des champignons.
+7	Sciences naturelles : Mycologie	Cueillir 7 fois des champignons.
+8	Sciences naturelles : Entomologie	Attraper 3 fois des insectes.
+9	Sciences naturelles : Entomologie	Attraper 5 fois des insectes.
+10	Sciences naturelles : Apiculture	Récolter du miel 3 fois.
+11	Sciences naturelles : Apiculture	Récolter du miel 5 fois.
+12	Écologie : Chasse - Grand monstre	Chasser 2 grands monstres.
+13	Écologie : Chasse - Grand monstre	Chasser 1 grand monstre.
+14	Écologie : Capture - Grand monstre	Capturer 1 grand monstre.
+15	Écologie : Élimination - Petit monstre	Tuer 8 petits monstres.
+16	Écologie : Élimination - Petit monstre	Tuer 16 petits monstres.
+17	Exploration : Forêt ancienne	Compléter 2 quêtes dans la Forêt ancienne.
+18	Exploration : Forêt ancienne	Compléter 3 quêtes dans la Forêt ancienne.
+19	Exploration : Désert des termites	Compléter 2 quêtes dans le Désert des termites.
+20	Exploration : Désert des termites	Compléter 3 quêtes dans le Désert des termites.
+21	Sciences naturelles : Minéralogie	Exploiter 9 fois des gisements miniers.
+22	Sciences naturelles : Minéralogie	Exploiter 15 fois des gisements miniers.
+23	Sciences naturelles : Ostéologie	Examiner 9 fois des carcasses.
+24	Sciences naturelles : Ostéologie	Examiner 15 fois des carcasses.
+25	Sciences naturelles : Botanique	Cueillir 5 fois des plantes.
+26	Sciences naturelles : Botanique	Cueillir 8 fois des plantes.
+27	Sciences naturelles : Mycologie	Cueillir 5 fois des champignons.
+28	Sciences naturelles : Mycologie	Cueillir 8 fois des champignons.
+29	Sciences naturelles : Entomologie	Attraper 4 fois des insectes.
+30	Sciences naturelles : Entomologie	Attraper 7 fois des insectes.
+31	Sciences naturelles : Apiculture	Récolter du miel 4 fois.
+32	Sciences naturelles : Apiculture	Récolter du miel 7 fois.
+33	Écologie : Chasse - Grand monstre	Chasser 3 grands monstres.
+34	Écologie : Chasse - Grand monstre	Chasser 2 grands monstres.
+35	Écologie : Capture - Grand monstre	Capturer 2 grands monstres.
+36	Écologie : Capture - Grand monstre	Capturer 1 grand monstre.
+37	Écologie : Élimination - Petit monstre	Tuer 10 petits monstres.
+38	Écologie : Élimination - Petit monstre	Tuer 20 petits monstres.
+39	Écologie : Chasse - Wyverne à crocs	Chasser 2 wyvernes à crocs.
+40	Écologie : Capture - Wyverne à crocs	Capturer 1 wyverne à crocs.
+41	Écologie : Chasse - Wyverne rapace	Chasser 2 wyvernes rapaces.
+42	Écologie : Capture - Wyverne rapace	Capturer 1 wyverne rapace.
+43	Écologie : Chasse - Wyverne de terre	Chasser 2 wyvernes de terre.
+44	Écologie : Capture - Wyverne de terre	Capturer 1 wyverne de terre.
+45	Écologie : Chasse - Wyverne volante	Chasser 2 wyvernes volantes.
+46	Écologie : Capture - Wyverne volante	Capturer 1 wyverne volante.
+47	Exploration : Forêt ancienne	Compléter 2 quêtes dans la Forêt ancienne.
+48	Exploration : Forêt ancienne	Compléter 3 quêtes dans la Forêt ancienne.
+49	Exploration : Désert des termites	Compléter 2 quêtes dans le Désert des termites.
+50	Exploration : Désert des termites	Compléter 3 quêtes dans le Désert des termites.
+51	Exploration : Plateau de corail	Compléter 2 quêtes sur le Plateau de corail.
+52	Exploration : Plateau de corail	Compléter 3 quêtes sur le Plateau de corail.
+53	Exploration : Val putride	Compléter 2 quêtes dans le Val putride.
+54	Exploration : Val putride	Compléter 3 quêtes dans le Val putride.
+55	Exploration : Contrats	Compléter 2 Contrats.
+56	Exploration : Contrats	Compléter 3 Contrats.
+57	Écologie : Chasse - Grand monstre	Expert : Chasser 2 grands monstres.
+58	Écologie : Capture - Grand monstre	Expert : Capturer 1 grand monstre.
+59	Écologie : Élimination - Petit monstre	Expert : Tuer 10 petits monstres.
+60	Exploration : Forêt ancienne	Expert : Compléter 2 quêtes dans la Forêt ancienne.
+61	Exploration : Désert des termites	Expert : Compléter 2 quêtes dans le Désert des termites.
+62	Exploration : Plateau de corail	Expert : Compléter 2 quêtes sur le Plateau de corail.
+63	Exploration : Val putride	Expert : Compléter 2 quêtes dans le Val putride.
+64	Exploration : Contrats	Expert : Compléter 2 Contrats.
+65	Sciences naturelles : Minéralogie	Exploiter 15 fois des gisements miniers.
+66	Sciences naturelles : Ostéologie	Examiner 15 fois des carcasses.
+67	Sciences naturelles : Botanique	Cueillir 8 fois des plantes.
+68	Sciences naturelles : Mycologie	Cueillir 8 fois des champignons.
+69	Sciences naturelles : Entomologie	Attraper 7 fois des insectes.
+70	Sciences naturelles : Apiculture	Récolter du miel 7 fois.
+71	Écologie : Chasse - Grand monstre	Expert : Chasser 3 grands monstres.
+72	Écologie : Capture - Grand monstre	Expert : Capturer 2 grands monstres.
+73	Écologie : Élimination - Petit monstre	Expert : Tuer 20 petits monstres.
+74	Écologie : Chasse - Wyverne à crocs	Expert : Chasser 2 wyvernes à crocs.
+75	Écologie : Capture - Wyverne à crocs	Expert : Capturer 1 wyverne à crocs.
+76	Écologie : Chasse - Wyverne rapace	Expert : Chasser 2 wyvernes rapaces.
+77	Écologie : Capture - Wyverne rapace	Expert : Capturer 1 wyverne rapace.
+78	Écologie : Chasse - Wyverne de terre	Expert : Chasser 2 wyvernes de terre.
+79	Écologie : Capture - Wyverne de terre	Expert : Capturer 1 wyverne de terre.
+80	Écologie : Chasse - Wyverne volante	Expert : Chasser 2 wyvernes volantes.
+81	Écologie : Capture - Wyverne volante	Expert : Capturer 1 wyverne volante.
+82	Écologie : Chasse - Wyverne aquatique	Expert : Chasser 2 wyvernes aquatiques.
+83	Écologie : Capture - Wyverne aquatique	Expert : Capturer 1 wyverne des mers.
+84	Exploration : Forêt ancienne	Expert : Compléter 3 quêtes dans la Forêt ancienne.
+85	Exploration : Désert des termites	Expert : Compléter 3 quêtes dans le Désert des termites.
+86	Exploration : Plateau de corail	Expert : Compléter 3 quêtes sur le Plateau de corail.
+87	Exploration : Val putride	Expert : Compléter 3 quêtes dans le Val putride.
+88	Exploration : Terre des anciens	Expert : Compléter 3 quêtes dans la Terre des anciens.
+89	Exploration : Contrats	Expert : Compléter 3 Contrats.
+90	Écologie : Élimination - Dragon ancien	Expert : Tuer 2 dragons anciens.
+91	Sciences naturelles : Minéralogie	Exploiter 21 fois des gisements miniers.
+92	Sciences naturelles : Ostéologie	Examiner 21 fois des carcasses.
+93	Sciences naturelles : Botanique	Cueillir 12 fois des plantes.
+94	Sciences naturelles : Mycologie	Cueillir 12 fois des champignons.
+95	Sciences naturelles : Entomologie	Attraper 10 fois des insectes.
+96	Sciences naturelles : Apiculture	Récolter du miel 10 fois.
+97	Écologie : Chasse - Grand monstre	Expert : Chasser 4 grands monstres.
+98	Écologie : Capture - Grand monstre	Expert : Capturer 3 grands monstres.
+99	Écologie : Élimination - Petit monstre	Expert : Tuer 30 petits monstres.
+100	Écologie : Chasse - Wyverne à crocs	Expert : Chasser 3 wyvernes à crocs.
+101	Écologie : Capture - Wyverne à crocs	Expert : Capturer 2 wyvernes à crocs.
+102	Écologie : Chasse - Wyverne rapace	Expert : Chasser 3 wyvernes rapaces.
+103	Écologie : Capture - Wyverne rapace	Expert : Capturer 2 wyvernes de terre.
+104	Écologie : Chasse - Wyverne de terre	Expert : Chasser 3 wyvernes de terre.
+105	Écologie : Capture - Wyverne de terre	Expert : Capturer 2 wyvernes de terre.
+106	Écologie : Chasse - Wyverne volante	Expert : Chasser 3 wyvernes volantes.
+107	Écologie : Capture - Wyverne volante	Expert : Capturer 2 wyvernes volantes.
+108	Écologie : Chasse - Wyverne aquatique	Expert : Chasser 3 wyvernes aquatiques.
+109	Écologie : Capture - Wyverne aquatique	Expert : Capturer 2 wyvernes aquatiques.
+110	Écologie : Élimination - Dragon ancien	Expert : Tuer 3 dragons anciens.
+111	Exploration : Forêt ancienne	Expert : Compléter 4 quêtes dans la Forêt ancienne.
+112	Exploration : Désert des termites	Expert : Compléter 4 quêtes dans le Désert des termites.
+113	Exploration : Plateau de corail	Expert : Compléter 4 quêtes sur le Plateau de corail.
+114	Exploration : Val putride	Expert : Compléter 4 quêtes dans le Val putride.
+115	Exploration : Terre des anciens	Expert : Compléter 4 quêtes dans la Terre des anciens.
+116	Exploration : Contrats	Expert : Compléter 4 Contrats.
+117	Anthropologie : Désert des termites	Capturer 3 Chatmans.
+118	Anthropologie : Désert des termites II	Faire votre rapport aux Chatmans.
+119	Linguistique : Gajalaka	Trouver 10 écofacts de Gajalaka.
+120	Linguistique : Gajalaka II	Découvrir le site de la colonie Gajalaka.
+121	Zoologie : Parexus rose	Capturer un parexus rose.
+122	Zoologie : Sushipoisson	Capturer un sushipoisson.
+123	Zoologie : Poisson-poudre	Capturer un poisson-poudre.
+124	Zoologie : Poisson d'or	Capturer un poisson d'or.
+125	Zoologie : Poisson de platine	Capturer un poisson de platine.
+126	Zoologie : Pteryx des bois	Capturer un pteryx des bois.
+127	Zoologie : Fourmi ouvrière	Capturer 9 fourmis ouvrières.
+128	Zoologie : Tortilleur	Capturer 3 tortilleurs.
+129	Zoologie : Scavantula	Capturer 5 scavantulas.
+130	Zoologie : Scarabombe	Capturer un scarabombe.
+131	Zoologie : Créature ancestrale	Capturer la créature ancestrale.
+132	Zoologie : Oiseau imaginaire	Capturer l'oiseau imaginaire.
+133	Camp de la Forêt ancienne	Sécuriser le site du camp.
+134	Zoologie : Capturer une créature mystérieuse	Capturer une créature d'un autre monde.(Vérifiez la section Bestiaire de votre Compendium.)
+135	Zoologie : Parexus de verre	Capturer un parexus de verre.
+136	Zoologie : Poisson mystérieux	Capturer un poisson mystérieuxdans le Givre éternel.
+137	Zoologie : Manchot fourre-tout	Capturer 3 manchots fourre-tout
+138	Zoologie : Animal mystérieux	Capturer un animal mystérieuxdans le Givre éternel.
+139	Zoologie : Poissaiguiseur	Capturer un poissaiguiseur(grande couronne en or).
+140	Zoologie : Arowana explosif	Capturer un arowana bombe(grande couronne en or).
+141	Zoologie : Parexus de verre	Capturer un parexus de verre(grande couronne en or).
+142	Zoologie : Libellule oracle	Capturer une libellule oracle(grande couronne en or).
+143	Zoologie : Oiseau corail fringant	Capturer un oiseau corail fringant(grande couronne en or).
+144	Zoologie : Manchot fourre-tout	Capturer un manchot fourre-tout(grande couronne en or).
+145	Sciences naturelles : Minéralogie	Exploiter des gisements miniers 12 fois.
+146	Sciences naturelles : Ostéologie	Examiner des carcasses 12 fois.
+147	Sciences naturelles : Botanique	Cueillir des plantes 8 fois.
+148	Sciences naturelles : Mycologie	Cueillir des champignons 8 fois.
+149	Sciences naturelles : Entomologie	Attraper des insectes 6 fois.
+150	Sciences naturelles : Apiculture	Récolter du miel 6 fois.
+151	Écologie : Chasse - Grand monstre	Maître : Chasser 3 grands monstres.
+152	Écologie : Capture - Grand monstre	Maître : Capturer 3 grands monstres.
+153	Écologie : Élimination - Petit monstre	Maître : Tuer 10 petits monstres.
+154	Écologie : Chasse - Wyverne à crocs	Maître : Chasser 2 grandes wyvernes à crocs.
+155	Écologie : Capture - Wyverne à crocs	Maître : Capturer 2 grandes wyvernes à crocs.
+156	Écologie : Chasse - Wyverne rapace	Maître : Chasser 2 grandes wyvernes rapaces.
+157	Écologie : Capture - Wyverne rapace	Maître : Capturer 2 grandes wyvernes rapaces.
+158	Écologie : Chasse - Wyverne de terre	Maître : Chasser 2 grandes wyvernes de terre.
+159	Écologie : Capture - Wyverne de terre	Maître : Capturer 2 grandes wyvernes de terre.
+160	Écologie : Chasse - Wyverne aquatique	Maître : Chasser 2 grandes wyvernes aquatiques.
+161	Écologie : Capture - Wyverne aquatique	Maître : Capturer 2 grandes wyvernes aquatiques.
+162	Exploration : Forêt ancienne	Maître : Compléter 2 quêtesdans la Forêt ancienne.
+163	Exploration : Désert des termites	Maître : Compléter 2 quêtesdans le Désert des termites.
+164	Exploration : Plateau de corail	Maître : Compléter 2 quêtesdans le Plateau de corail.
+165	Exploration : Val putride	Maître : Compléter 2 quêtesdans le Val putride.
+166	Exploration : Terre des anciens	Maître : Compléter 2 quêtesdans la Terre des anciens.
+167	Exploration : Contrats	Maître : Compléter 2 Contrats.
+168	Exploration : Givre éternel	Maître : Compléter 2 quêtesdans le Givre éternel.
+169	Écologie : Chasse - Wyverne volante	Maître : Chasser 2 grandes wyvernes volantes.
+170	Écologie : Capture - Wyverne volante	Maître : Capturer 2 grandes wyvernes volantes.
+171	Écologie : Chasse - Grand monstre	Maître : Chasser 6 grands monstres.
+172	Écologie : Chasse - Wyverne à crocs	Maître : Chasser 4 grandes wyvernes à crocs.
+173	Écologie : Chasse - Wyverne rapace	Maître : Chasser 4 grandes wyvernes rapaces.
+174	Écologie : Chasse - Wyverne de terre	Maître : Chasser 4 grandes wyvernes de terre.
+175	Écologie : Chasse - Wyverne volante	Maître : Chasser 4 grandes wyvernes volantes.
+176	Écologie : Chasse - Wyverne aquatique	Maître : Chasser 4 grandes wyvernes aquatiques.
+177	Écologie : Élimination - Dragon ancien	Maître : Tuer 2 dragons anciens.
+178	Écologie : Élimination - Dragon ancien	Maître : Tuer 4 dragons anciens.
+179	Écologie : Chasse - Monstre alpha	Maître : Chasser 2 grands monstres alpha.
+180	Écologie : Chasse - Monstre alpha	Maître : Chasser 4 grands monstres alpha.
+181	Échange culturel : Givre éternel	Partez en expédition dans le Givre éternelet chassez un grand monstre.
+182	Échange culturel : Givre éternel II	Allez au repaire des Boaboa et assistezà la réunion de leur conseil.
+183	Échange culturel : Givre éternel III	Terminez la quête<ICON STAR_1> M2Par nos pouvoirs unis.

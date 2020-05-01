@@ -1,0 +1,508 @@
+Quest ID	Quest Name	Quest Target	Fail Condition
+00000	Unavailable	Unavailable	Unavailable
+00001	Unavailable	Unavailable	Unavailable
+00002	Unavailable	Unavailable	Unavailable
+00003	Invalid Message	Invalid Message	Invalid Message
+00004	Invalid Message	Invalid Message	Invalid Message
+00005	Invalid Message	Invalid Message	Invalid Message
+00101	Die Jagras des Uralten Waldes	Töte sieben Jagras.	Zeit abgelaufen3-mal ohnmächtig geworden
+00102	Das Kestodon-Gedöns	Schließe die Aufgabe ab.	Zeit abgelaufen3-mal ohnmächtig geworden
+00103	Die Groß-Jagras-Jagd	Erjage einen Groß-Jagras.	Zeit abgelaufen3-mal ohnmächtig geworden
+00151	Kopfnüsse mit der Natur	Töte zwölf Kestodons.	Zeit abgelaufen3-mal ohnmächtig geworden
+00152	Ein schlagendes Argument	Töte sieben Jagras.	Zeit abgelaufen3-mal ohnmächtig geworden
+00153	Pilzeinsatz im Uralten Wald	Liefere 20 Gourmet-Pilzhüte.	Zeit abgelaufen3-mal ohnmächtig geworden
+00201	Bandit mit Vogelhirn	Erjage einen Kulu-Ya-Ku.	Zeit abgelaufen3-mal ohnmächtig geworden
+00205	Dringend: Pukei-Pukei-Jagd	Erjage einen Pukei-Pukei.	Zeit abgelaufen3-mal ohnmächtig geworden
+00241	Erlernen der Klammerklaue	Lerne, wie die Klammerklaue funktioniert.	Zeit abgelaufen3-mal ohnmächtig gewordenGroß-Jagras erjagt
+00251	Der große Vielfraß	Erjage einen Groß-Jagras.	Zeit abgelaufen3-mal ohnmächtig geworden
+00252	Der Lager-Eindringling	Erjage einen Kulu-Ya-Ku.	Zeit abgelaufen3-mal ohnmächtig geworden
+00261	Schnapp den Schnapper	Fange einen Kulu-Ya-Ku.	Zeit abgelaufen3-mal ohnmächtig gewordenKulu-Ya-Ku getötet
+00262	Der Preis von Fleiß	Töte sieben Gajaus.	Zeit abgelaufen3-mal ohnmächtig geworden
+00263	Kammerjäger der Ödnis	Töte 14 Vespoiden.	Zeit abgelaufen3-mal ohnmächtig geworden
+00301	Die beste Art von Quest	Schließe die Aufgabe ab.	Zeit abgelaufen3-mal ohnmächtig geworden
+00302	Unheimliche Schatten im Sumpf	Schließe die Aufgabe ab.	Zeit abgelaufen3-mal ohnmächtig geworden
+00305	Fliegende Funken: Tobi-Kadachi	Erjage einen Tobi-Kadachi.	Zeit abgelaufen3-mal ohnmächtig geworden
+00306	Der nahende Anjanath	Erjage einen Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
+00331	Spezialarena: Pukei-Pukei	Erjage einen Pukei-Pukei.	Zeit abgelaufen3-mal ohnmächtig geworden
+00332	Spezialarena: Barroth	Erjage einen Barroth.	Zeit abgelaufen3-mal ohnmächtig geworden
+00333	Spezialarena: Tobi-Kadachi	Erjage einen Tobi-Kadachi.	Zeit abgelaufen3-mal ohnmächtig geworden
+00351	Der Streunuss-Mangel	Erjage einen Pukei-Pukei.	Zeit abgelaufen3-mal ohnmächtig geworden
+00352	Unter Strom	Erjage einen Tobi-Kadachi.	Zeit abgelaufen3-mal ohnmächtig geworden
+00361	Beschmutzt in der Ödnis	Erjage einen Barroth	Zeit abgelaufen3-mal ohnmächtig geworden
+00362	Das Fisch-Problem	Erjage einen Jyuratodus.	Zeit abgelaufen3-mal ohnmächtig geworden
+00363	Eine stachelige Situation	Liefere 20 Narrenkakteen.	Zeit abgelaufen3-mal ohnmächtig geworden
+00364	Nur das Gelbe in der Ödnis	Liefere zwei Pflanzenfresser-Eier.	Zeit abgelaufen3-mal ohnmächtig geworden
+00365	Der Erdrutsch-Wyvern	Fange einen Barroth.	Zeit abgelaufen3-mal ohnmächtig gewordenBarroth getötet
+00401	In die Geschichtsbücher eingehen	Schließe die Aufgabe ab.	Zeit abgelaufen3-mal ohnmächtig geworden
+00405	Aufgeblasene Probleme	Erjage einen Paolumu.	Zeit abgelaufen3-mal ohnmächtig geworden
+00407	Radobaan-Straßensperre	Erjage einen Radobaan.	Zeit abgelaufen3-mal ohnmächtig geworden
+00408	Legiana: Verkörperte Eleganz	Erjage einen Legiana.	Zeit abgelaufen3-mal ohnmächtig geworden
+00431	Spezialarena: Anjanath	Erjage einen Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
+00432	Spezialarena: Rathian	Erjage eine Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
+00433	Spezialarena: Paolumu	Erjage einen Paolumu.	Zeit abgelaufen3-mal ohnmächtig geworden
+00434	Spezialarena: Radobaan	Erjage einen Radobaan.	Zeit abgelaufen3-mal ohnmächtig geworden
+00451	Im Griff der Grippe	Erjage einen Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
+00452	Nur das Gelbe im Wald	Liefere zwei Wyvern-Eier.	Zeit abgelaufen3-mal ohnmächtig geworden
+00461	Königliche Umsiedlung	Erjage eine Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
+00471	Keine Gnade für Shamos	Töte elf Shamos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00472	Ein Tzitzi für die Wissenschaft	Erjage einen Tzitzi-Ya-Ku.	Zeit abgelaufen3-mal ohnmächtig geworden
+00473	Leider nicht eingeladen	Erjage einen Paolumu.	Zeit abgelaufen3-mal ohnmächtig geworden
+00474	Jede Menge Abalone	Liefere zehn Super-Abalone.	Zeit abgelaufen3-mal ohnmächtig geworden
+00475	Weißes Monster, weißer Kittel	Fange einen Paolumu.	Zeit abgelaufen3-mal ohnmächtig gewordenPaolumu getötet
+00481	Hartnäckige Störenfriede	Töte 14 Hornetauren.	Zeit abgelaufen3-mal ohnmächtig geworden
+00482	Eine verweste Sache	Erjage einen Groß-Girros.	Zeit abgelaufen3-mal ohnmächtig geworden
+00483	Knochenarbeit	Erjage einen Radobaan.	Zeit abgelaufen3-mal ohnmächtig geworden
+00484	Albtraumartige Flügel	Töte fünf Raphinos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00501	In den Tiefen des Tals	Schließe die Aufgabe ab.	Zeit abgelaufen3-mal ohnmächtig geworden
+00502	Feuriger Thron über dem Wald	Erjage einen Rathalos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00503	Gehörnter Tyrann unter dem Sand	Erjage einen Diablos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00504	Eine kolossale Aufgabe	Schließe die Aufgabe ab.	Zeit abgelaufen3-mal ohnmächtig gewordenDen Zorah Magdaros nicht geleitet
+00531	Spezialarena: Legiana	Erjage einen Legiana.	Zeit abgelaufen3-mal ohnmächtig geworden
+00532	Spezialarena: Odogaron	Erjage einen Odogaron.	Zeit abgelaufen3-mal ohnmächtig geworden
+00533	Spezialarena: Rathalos	Erjage einen Rathalos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00534	Spezialarena: Diablos	Erjage einen Diablos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00551	Wenn Wunsch Obsession wird	Erjage einen Rathalos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00552	"Neudefinition des ""Machtpaars"""	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+00561	Doppeltürme im Sand	Erjage einen Diablos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00571	Schwüle Kopfschmerzen	Erjage einen Legiana.	Zeit abgelaufen3-mal ohnmächtig geworden
+00572	Blitzartig davon	Töte einen Kirin.	Zeit abgelaufen3-mal ohnmächtig geworden
+00581	Wen es juckt	Erjage einen Odogaron.	Zeit abgelaufen3-mal ohnmächtig geworden
+00582	Das beste Monster des Menschen	Fange einen Odogaron.	Zeit abgelaufen3-mal ohnmächtig gewordenOdogaron getötet
+00583	Fleischangelegenheit	Liefere zwei Fleischklumpen.	Zeit abgelaufen3-mal ohnmächtig geworden
+00601	Eindringling in der Ödnis	Erjage einen Pukei-Pukei.	Zeit abgelaufen3-mal ohnmächtig geworden
+00605	Rosige Aussichten	Erjage einen Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
+00607	Monster der Alten in der Neuen Welt	Schließe die Aufgabe ab.	Zeit abgelaufen3-mal ohnmächtig geworden
+00631	Spezialarena: HR Pukei-Pukei	Erjage einen Pukei-Pukei.	Zeit abgelaufen3-mal ohnmächtig geworden
+00632	Spezialarena: HR Barroth	Erjage einen Barroth.	Zeit abgelaufen3-mal ohnmächtig geworden
+00633	Spezialarena: HR Tobi-Kadachi	Erjage einen Tobi-Kadachi.	Zeit abgelaufen3-mal ohnmächtig geworden
+00634	Spezialarena: HR Anjanath	Erjage einen Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
+00635	Spezialarena: HR Rathian	Erjage eine Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
+00636	Spezialarena: HR Paolumu	Erjage einen Paolumu.	Zeit abgelaufen3-mal ohnmächtig geworden
+00637	Spezialarena: HR Radobaan	Erjage einen Radobaan.	Zeit abgelaufen3-mal ohnmächtig geworden
+00641	Ziemlich Eindruck gemacht	Leite den Zorah Magdaros.	Zeit abgelaufen3-mal ohnmächtig gewordenDen Zorah Magdaros nicht geleitet
+00651	Schwer zu verdauen	Erjage einen Groß-Jagras.	Zeit abgelaufen3-mal ohnmächtig geworden
+00652	Glubschäugiges grünes Monster	Erjage einen Pukei-Pukei.	Zeit abgelaufen3-mal ohnmächtig geworden
+00653	Ein haarsträubendes Erlebnis	Erjage einen Tobi-Kadachi.	Zeit abgelaufen3-mal ohnmächtig geworden
+00654	Bloß nicht bewegen	Erjage einen Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
+00655	Die schlafende Waldkönigin	Erjage eine Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
+00656	Gewohnheitstiere	Fange einen Tobi-Kadachi.	Zeit abgelaufen3-mal ohnmächtig gewordenTobi-Kadachi getötet
+00661	Weg mit den Flossen!	Erjage einen Kulu-Ya-Ku.	Zeit abgelaufen3-mal ohnmächtig geworden
+00662	Eine Krone aus Schlamm und Wut	Erjage einen Barroth.	Zeit abgelaufen3-mal ohnmächtig geworden
+00663	Der Pukei-Pukei-Hinterhalt	Erjage einen Pukei-Pukei.	Zeit abgelaufen3-mal ohnmächtig geworden
+00665	Knietief in der Ödnis	Erjage einen Jyuratodus.	Zeit abgelaufen3-mal ohnmächtig geworden
+00666	Braune Wüste, Grüne Königin	Erjage eine Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
+00667	Eindringender Störenfried	Erjage einen Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
+00671	Bitte recht freundlich!	Erjage einen Tzitzi-Ya-Ku.	Zeit abgelaufen3-mal ohnmächtig geworden
+00672	Fang den Paolumu	Erjage einen Paolumu.	Zeit abgelaufen3-mal ohnmächtig geworden
+00681	Ein prickelnder Geschmack	Erjage einen Groß-Girros.	Zeit abgelaufen3-mal ohnmächtig geworden
+00682	Betriebsblind	Erjage einen Radobaan.	Zeit abgelaufen3-mal ohnmächtig geworden
+00683	Chefkochquest! Immer lieferbereit!	Liefere vier Vergessene Fossilien.	Zeit abgelaufen3-mal ohnmächtig geworden
+00684	Chefkochquest! Jagdbegeistert!	Töte zehn Girros.	Zeit abgelaufen3-mal ohnmächtig geworden
+00691	Ein Miau um Hilfe	Töte 13 Gastodon.	Zeit abgelaufen3-mal ohnmächtig geworden
+00692	Ein brandheißer Knüller	Töte fünf Barnos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00693	Das Dodogama-Drama	Erjage einen Dodogama.	Zeit abgelaufen3-mal ohnmächtig geworden
+00694	Chefkochquest! Gajalaka-Fangen!	Besiege zehn Gajalaka.	Zeit abgelaufen3-mal ohnmächtig geworden
+00701	Eine Wunde und ein Verlangen	Töte den Nergigante.	Zeit abgelaufen3-mal ohnmächtig geworden
+00731	Spezialarena: HR Rosa Rathian	Erjage eine Rosa Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
+00732	Spezialarena: HR Legiana	Erjage einen Legiana.	Zeit abgelaufen3-mal ohnmächtig geworden
+00733	Spezialarena: HR Odogaron	Erjage einen Odogaron.	Zeit abgelaufen3-mal ohnmächtig geworden
+00734	Spezialarena: HR Uragaan	Erjage einen Uragaan.	Zeit abgelaufen3-mal ohnmächtig geworden
+00735	Spezialarena: HR Rathalos	Erjage einen Rathalos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00736	Spezialarena: HR Azurner Rathalos	Erjage einen Azurnen Rathalos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00737	Spezialarena: HR Diablos	Erjage einen Diablos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00738	Spezialarena: HR Schwarze Diablos	Erjage eine Schwarze Diablos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00751	Die Rathalos-Revanche	Erjage einen Rathalos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00752	Rathalos in Blau	Erjage einen Azurnen Rathalos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00753	Das rote und das blaue Team	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+00761	Die rosa Schönheit	Erjage eine Rosa Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
+00762	Also, dieser Diablos!	Erjage einen Diablos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00763	Der Feind mit den zwei Hörnern	Erjage eine Schwarze Diablos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00764	Der Kampf in der Ödnis	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+00771	Kirschfarbener Wind überm Riff	Erjage eine Rosa Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
+00772	Legiana: Der König des Hochlands	Erjage einen Legiana.	Zeit abgelaufen3-mal ohnmächtig geworden
+00773	Eine wunde Stelle	Erjage einen Odogaron.	Zeit abgelaufen3-mal ohnmächtig geworden
+00774	Zornesklauen aus Eis	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+00781	Odogaron auf freiem Fuß	Erjage einen Odogaron.	Zeit abgelaufen3-mal ohnmächtig geworden
+00791	Lavasioth, das Monster aus Magma	Erjage einen Lavasioth.	Zeit abgelaufen3-mal ohnmächtig geworden
+00792	Der erzfressende Besatzer	Erjage einen Uragaan.	Zeit abgelaufen3-mal ohnmächtig geworden
+00793	Herrscher des azurblauen Himmels	Erjage einen Azurnen Rathalos.	Zeit abgelaufen3-mal ohnmächtig geworden
+00794	Der Bazelgeuse im Schussfeld	Erjage einen Bazelgeuse.	Zeit abgelaufen3-mal ohnmächtig geworden
+00795	Gebündeltes Feuer	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+00801	Kushala Daora, Stahl-Drache	Töte den Kushala Daora.	Zeit abgelaufen3-mal ohnmächtig geworden
+00802	Teostra der Fürchterliche	Töte den Teostra.	Zeit abgelaufen3-mal ohnmächtig geworden
+00803	Höllischer Feind Vaal Hazak	Töte den Vaal Hazak.	Zeit abgelaufen3-mal ohnmächtig geworden
+00804	Der Ort der Bündelung	Schließe die Aufgabe ab.	Zeit abgelaufen3-mal ohnmächtig geworden
+00805	Jenseits der explosiven Schuppen	Erjage zwei Bazelgeuse.	Zeit abgelaufen3-mal ohnmächtig geworden
+00806	Kampfgetöse im Hochland	Töte einen Kirin.	Zeit abgelaufen3-mal ohnmächtig geworden
+00851	Ein böses Omen	Töte einen Kushala Daora.	Zeit abgelaufen3-mal ohnmächtig geworden
+00861	Brennender Sand	Töte einen Teostra.	Zeit abgelaufen3-mal ohnmächtig geworden
+00871	Zweimal vom Blitz getroffen	Töte einen Kirin.	Zeit abgelaufen3-mal ohnmächtig geworden
+00881	Rufe aus dem Grab	Töte einen Vaal Hazak.	Zeit abgelaufen3-mal ohnmächtig geworden
+00891	Der Ältestenfresser	Töte den Nergigante.	Zeit abgelaufen3-mal ohnmächtig geworden
+00892	Der Meister des Sturms	Töte einen Kushala Daora.	Zeit abgelaufen3-mal ohnmächtig geworden
+00893	Die Festung des Höllenfeuers	Töte einen Teostra.	Zeit abgelaufen3-mal ohnmächtig geworden
+00894	Der Ältestenfresser	Töte den Nergigante.	Zeit abgelaufen3-mal ohnmächtig geworden
+00895	Beißender Wind des Zorns	Töte einen Kushala Daora.	Zeit abgelaufen3-mal ohnmächtig geworden
+00896	Sengendes Höllenfeuer	Töte einen Teostra.	Zeit abgelaufen3-mal ohnmächtig geworden
+00961	Jenseits der explosiven Schuppen	Erjage zwei Bazelgeuse.	Zeit abgelaufen3-mal ohnmächtig geworden
+00971	Kampfgetöse im Hochland	Töte einen Kirin.	Zeit abgelaufen3-mal ohnmächtig geworden
+00991	Das Licht über dem dunklen Fluss	Töte den Xeno'jiiva.	Zeit abgelaufen3-mal ohnmächtig geworden
+00992	Die weißen Winde der Neuen Welt	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+00995	Folge dem Saphirstern	Töte alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+00996	Showdown: Schlamm gegen Schlägel	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+00997	Himmel und Blume der Neuen Welt	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+00998	Ruf aus dem Abgrund	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+01101	Die Eistaufe	Erjage einen Beotodus.	Zeit abgelaufen3-mal ohnmächtig geworden
+01102	Banbaro-Blockade	Erjage einen Banbaro.	Zeit abgelaufen3-mal ohnmächtig geworden
+01121	Tiefschneetaucher	Erjage einen Beotodus.	Zeit abgelaufen3-mal ohnmächtig geworden
+01122	Ansturmdrang	Erjage einen Banbaro.	Zeit abgelaufen3-mal ohnmächtig geworden
+01123	Eisiger Fang!	Fange einen Beotodus.	Zeit abgelaufen3-mal ohnmächtig gewordenBeotodus getötet
+01124	Ruf der Wildnis	Töte zehn Wulg.	Zeit abgelaufen3-mal ohnmächtig geworden
+01125	Grüße aus der Tundra	Liefere 20 Junge Pestwurz.	Zeit abgelaufen3-mal ohnmächtig geworden
+01131	Spezialarena: MR Pukei-Pukei	Erjage einen Pukei-Pukei.	Zeit abgelaufen3-mal ohnmächtig geworden
+01132	Spezialarena: MR Barroth	Erjage einen Barroth.	Zeit abgelaufen3-mal ohnmächtig geworden
+01133	Spezialarena: MR Tobi-Kadachi	Erjage einen Tobi-Kadachi.	Zeit abgelaufen3-mal ohnmächtig geworden
+01134	Spezialarena: MR Banbaro	Erjage einen Banbaro.	Zeit abgelaufen3-mal ohnmächtig geworden
+01151	Der Groß-Jagras kehrt zurück!	Erjage einen Groß-Jagras.	Zeit abgelaufen3-mal ohnmächtig geworden
+01152	Giftiges Kerlchen	Erjage einen Pukei-Pukei.	Zeit abgelaufen3-mal ohnmächtig geworden
+01153	Ohne Umschweife	Erjage einen Tobi-Kadachi.	Zeit abgelaufen3-mal ohnmächtig geworden
+01154	Literaturdieb	Erjage einen Kulu-Ya-Ku.	Zeit abgelaufen3-mal ohnmächtig geworden
+01155	Fange den Baumdrescher	Fange einen Banbaro.	Zeit abgelaufen3-mal ohnmächtig gewordenBanbaro getötet
+01161	Wildturm-Schatzsuche	Erjage einen Kulu-Ya-Ku.	Zeit abgelaufen3-mal ohnmächtig geworden
+01162	Durch den Schlamm gezogen	Erjage einen Barroth.	Zeit abgelaufen3-mal ohnmächtig geworden
+01163	Schlammschlacht	Erjage einen Jyuratodus.	Zeit abgelaufen3-mal ohnmächtig geworden
+01164	Verkoster unterwegs	Erjage einen Pukei-Pukei.	Zeit abgelaufen3-mal ohnmächtig geworden
+01171	All die falschen Signale	Erjage einen Tzitzi-Ya-Ku.	Zeit abgelaufen3-mal ohnmächtig geworden
+01181	Größenwahnsinniger Groß-Girros	Erjage einen Groß-Girros.	Zeit abgelaufen3-mal ohnmächtig geworden
+01191	Arbeitsverweigerung	Erjage einen Dodogama.	Zeit abgelaufen3-mal ohnmächtig geworden
+01192	Im Land der großen Hörner	Erjage einen Banbaro.	Zeit abgelaufen3-mal ohnmächtig geworden
+01201	Angriffsbereit	Erjage einen Viper-Tobi-Kadachi.	Zeit abgelaufen3-mal ohnmächtig geworden
+01202	Keine Zeit für Nickerchen	Erjage einen Nachtschatten-Paolumu.	Zeit abgelaufen3-mal ohnmächtig geworden
+01203	Gegeneinander ausgespielt	Erjage einen Korallen-Pukei-Pukei.	Zeit abgelaufen3-mal ohnmächtig geworden
+01221	Analyse führt zu Paralyse	Erjage einen Viper-Tobi-Kadachi.	Zeit abgelaufen3-mal ohnmächtig geworden
+01222	Gift und Lähmung	Fange einen Viper-Tobi-Kadachi.	Zeit abgelaufen3-mal ohnmächtig gewordenViper-Tobi-Kadachi getötet
+01223	Boaboa Constrictor	Besiege 14 Boaboa.	Zeit abgelaufen3-mal ohnmächtig geworden
+01224	Mit vereinter Kraft	Erjage einen Beotodus.	Zeit abgelaufen3-mal ohnmächtig geworden
+01225	Eine Hand wäscht die andere	Erjage einen Beotodus.	Zeit abgelaufen3-mal ohnmächtig geworden
+01231	Spezialarena: MR Anjanath	Erjage einen Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
+01232	Spezialarena: MR Radobaan	Erjage einen Radobaan.	Zeit abgelaufen3-mal ohnmächtig geworden
+01233	Spezialarena: MR Korallen-Pukei-Pukei	Erjage einen Korallen-Pukei-Pukei.	Zeit abgelaufen3-mal ohnmächtig geworden
+01234	Spezialarena: MR Viper-Tobi-Kadachi	Erjage einen Viper-Tobi-Kadachi.	Zeit abgelaufen3-mal ohnmächtig geworden
+01235	Spezialarena: MR Rathian	Erjage eine Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
+01236	Spezialarena: MR Rosa Rathian	Erjage eine Rosa Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
+01237	Spezialarena: MR Paolumu	Erjage einen Paolumu.	Zeit abgelaufen3-mal ohnmächtig geworden
+01238	Spezialarena: MR Nachtschatten-Paolumu	Erjage einen Nachtschatten-Paolumu.	Zeit abgelaufen3-mal ohnmächtig geworden
+01251	Anjanath-Ärger	Erjage einen Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
+01252	Hoffnungsloser Fall	Erjage eine Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
+01253	Gute Nacht, Nachtschatten	Fange einen Nachtschatten-Paolumu.	Zeit abgelaufen3-mal ohnmächtig gewordenNachtschatten-Paolumu getötet
+01261	Ruhende Königin	Erjage eine Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
+01262	Albtraumhaftes Gesicht	Erjage einen Nachtschatten-Paolumu.	Zeit abgelaufen3-mal ohnmächtig geworden
+01263	Stecke deine Nase woanders rein	Erjage einen Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
+01264	Königinnen durch und durch	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+01271	Das Problem des Paolumu	Erjage einen Paolumu.	Zeit abgelaufen3-mal ohnmächtig geworden
+01272	Weibliche Machtübernahme	Erjage eine Rosa Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
+01273	Profi-Tipp: Bleib hydriert	Erjage einen Korallen-Pukei-Pukei.	Zeit abgelaufen3-mal ohnmächtig geworden
+01274	Verantwortungsbewusstes Trinken	Erjage einen Korallen-Pukei-Pukei.	Zeit abgelaufen3-mal ohnmächtig geworden
+01281	Lachhaft	Erjage einen Radobaan.	Zeit abgelaufen3-mal ohnmächtig geworden
+01282	Käfer-Krampf	Töte alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+01291	Auf der Suche nach dem alten Leuchten	Liefere 20 Stück Gaia-Bernstein.	Zeit abgelaufen3-mal ohnmächtig geworden
+01301	Blizzard-Blitzaktion	Erjage einen Barioth.	Zeit abgelaufen3-mal ohnmächtig geworden
+01302	Allgegenwärtiger Schatten	Erjage einen Nargacuga.	Zeit abgelaufen3-mal ohnmächtig geworden
+01303	Die Brennende Klinge	Erjage einen Glavenus.	Zeit abgelaufen3-mal ohnmächtig geworden
+01304	Absolute Macht	Erjage einen Tigrex.	Zeit abgelaufen3-mal ohnmächtig geworden
+01305	Vernichtender Konter	Erjage einen Brachydios.	Zeit abgelaufen3-mal ohnmächtig geworden
+01306	Eine Geschichte von Eis und Feuer	Wehre den Velkhana ab.	Zeit abgelaufen3-mal ohnmächtig geworden
+01321	Weißt du noch...?	Erjage einen Barioth.	Zeit abgelaufen3-mal ohnmächtig geworden
+01322	Projekt M.I.A.U.: Stein	Fange einen Tigrex.	Zeit abgelaufen3-mal ohnmächtig gewordenTigrex getötet
+01323	Der stolze Weiße Ritter	Erjage einen Barioth.	Zeit abgelaufen3-mal ohnmächtig geworden
+01331	Spezialarena: MR Legiana	Erjage einen Legiana.	Zeit abgelaufen3-mal ohnmächtig geworden
+01332	Spezialarena: MR Odogaron	Erjage einen Odogaron.	Zeit abgelaufen3-mal ohnmächtig geworden
+01333	Spezialarena: MR Uragaan	Erjage einen Uragaan.	Zeit abgelaufen3-mal ohnmächtig geworden
+01334	Spezialarena: MR Rathalos	Erjage einen Rathalos.	Zeit abgelaufen3-mal ohnmächtig geworden
+01335	Spezialarena: MR Diablos	Erjage einen Diablos.	Zeit abgelaufen3-mal ohnmächtig geworden
+01336	Spezialarena: MR Barioth	Erjage einen Barioth.	Zeit abgelaufen3-mal ohnmächtig geworden
+01337	Spezialarena: MR Nargacuga	Erjage einen Nargacuga.	Zeit abgelaufen3-mal ohnmächtig geworden
+01338	Spezialarena: MR Glavenus	Erjage einen Glavenus.	Zeit abgelaufen3-mal ohnmächtig geworden
+01339	Spezialarena: MR Brachydios	Erjage einen Brachydios.	Zeit abgelaufen3-mal ohnmächtig geworden
+01340	Spezialarena: MR Tigrex	Erjage einen Tigrex.	Zeit abgelaufen3-mal ohnmächtig geworden
+01351	Ein neues Tief	Erjage einen Rathalos.	Zeit abgelaufen3-mal ohnmächtig geworden
+01352	Nargacu... garnicht schön	Erjage einen Nargacuga.	Zeit abgelaufen3-mal ohnmächtig geworden
+01353	Das Geheimnis eines guten Stücks	Erjage einen Glavenus.	Zeit abgelaufen3-mal ohnmächtig geworden
+01354	Trümpfe in Rot und Schwarz	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+01361	Wüstenwahnsinn	Erjage einen Diablos.	Zeit abgelaufen3-mal ohnmächtig geworden
+01362	Ein Aufblitzen der Klinge	Erjage einen Glavenus.	Zeit abgelaufen3-mal ohnmächtig geworden
+01363	Köcheln und schnippeln!	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+01371	Lahmer Legiana	Erjage einen Legiana.	Zeit abgelaufen3-mal ohnmächtig geworden
+01372	Der schwarze Wind	Erjage einen Nargacuga.	Zeit abgelaufen3-mal ohnmächtig geworden
+01373	Eine eklige Fleischwunde	Erjage einen Odogaron.	Zeit abgelaufen3-mal ohnmächtig geworden
+01381	Jerky schmeckt, Forscher auch	Erjage einen Odogaron.	Zeit abgelaufen3-mal ohnmächtig geworden
+01382	Ein Brüllen erschütterte das Tal	Erjage einen Tigrex.	Zeit abgelaufen3-mal ohnmächtig geworden
+01383	Explosiver Rennspaß	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+01391	Achtung, Explosion!	Erjage einen Brachydios.	Zeit abgelaufen3-mal ohnmächtig geworden
+01392	Jeder ist ein Kritiker	Erjage einen Lavasioth.	Zeit abgelaufen3-mal ohnmächtig geworden
+01393	Uragaaanz schwindelig	Erjage einen Uragaan.	Zeit abgelaufen3-mal ohnmächtig geworden
+01394	Das Geheimnis liegt im Schleim	Fange einen Brachydios.	Zeit abgelaufen3-mal ohnmächtig gewordenBrachydios getötet
+01395	Festival der Explosionen!	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+01401	Wenn der Nebel dich verschlingt	Erjage einen Schneesturm-Legiana.	Zeit abgelaufen3-mal ohnmächtig geworden
+01402	Die zerfallende Klinge	Erjage einen Säure-Glavenus.	Zeit abgelaufen3-mal ohnmächtig geworden
+01403	Schlechte Freunde, gute Feinde	Erjage einen Vulkan-Odogaron.	Zeit abgelaufen3-mal ohnmächtig geworden
+01404	Die Verteidigung von Seliana	Schließe die Aufgabe ab.	Zeit abgelaufen3-mal ohnmächtig gewordenSeliana-Verteidigung gescheitert
+01405	Der donnernde Störenfried	Erjage einen Fulgur-Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
+01421	Edelfrost-Jäger	Erjage einen Schneesturm-Legiana.	Zeit abgelaufen3-mal ohnmächtig geworden
+01422	Tundratrubel	Erjage einen Fulgur-Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
+01423	Tango für zwei	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+01424	Schatz im Dampf	Liefere zwei Heiße-Quelle-Steine.	Zeit abgelaufen3-mal ohnmächtig geworden
+01431	Spezialarena: MR Azurner Rathalos	Erjage einen Azurnen Rathalos.	Zeit abgelaufen3-mal ohnmächtig geworden
+01432	Spezialarena: MR Schwarze Diablos	Erjage eine Schwarze Diablos.	Zeit abgelaufen3-mal ohnmächtig geworden
+01433	Spezialarena: MR Säure-Glavenus	Erjage einen Säure-Glavenus.	Zeit abgelaufen3-mal ohnmächtig geworden
+01434	Spezialarena: MR Vulkan-Odogaron	Erjage einen Vulkan-Odogaron.	Zeit abgelaufen3-mal ohnmächtig geworden
+01435	Spezialarena: MR Fulgur-Anjanath	Erjage einen Fulgur-Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
+01451	Azurblaue Augen sehen alles	Erjage einen Azurnen Rathalos.	Zeit abgelaufen3-mal ohnmächtig geworden
+01452	Pech im Walde	Erjage einen Vulkan-Odogaron.	Zeit abgelaufen3-mal ohnmächtig geworden
+01461	Im Eifer des Gefechts	Erjage eine Schwarze Diablos.	Zeit abgelaufen3-mal ohnmächtig geworden
+01462	Durchdringendes Schwarz	Erjage eine Schwarze Diablos.	Zeit abgelaufen3-mal ohnmächtig geworden
+01471	Ein schattenhafter Angreifer	Erjage einen Vulkan-Odogaron.	Zeit abgelaufen3-mal ohnmächtig geworden
+01481	Eine ätzende Klinge	Erjage einen Säure-Glavenus.	Zeit abgelaufen3-mal ohnmächtig geworden
+01482	Projekt M.I.A.U.: Helles Eisen	Fange einen Säure-Glavenus.	Zeit abgelaufen3-mal ohnmächtig gewordenSäure-Glavenus getötet
+01483	Projekt M.I.A.U.: Dunkles Eisen	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+01491	Blauer Rathalos-Blues	Erjage einen Azurnen Rathalos.	Zeit abgelaufen3-mal ohnmächtig geworden
+01492	Fange den Donnerkiefer	Fange einen Fulgur-Anjanath.	Zeit abgelaufen3-mal ohnmächtig gewordenFulgur-Anjanath getötet
+01501	Der Eisgeborene Wyvern	Töte den Velkhana.	Zeit abgelaufen3-mal ohnmächtig geworden
+01502	Die zweite Ankunft	Erjage einen Brodelnden Bazelgeuse.	Zeit abgelaufen3-mal ohnmächtig geworden
+01503	Der Schleier des Todes	Töte einen Velum-Vaal-Hazak.	Zeit abgelaufen3-mal ohnmächtig geworden
+01504	Ein Licht aus dem Abgrund	Töte den Namielle.	Zeit abgelaufen3-mal ohnmächtig geworden
+01521	Reif fürs Gefecht	Töte den Velkhana.	Zeit abgelaufen3-mal ohnmächtig geworden
+01551	Bringer klaren Himmels	Töte einen Kushala Daora.	Zeit abgelaufen3-mal ohnmächtig geworden
+01552	Hier kommt der Todbringer	Töte einen Velum-Vaal-Hazak.	Zeit abgelaufen3-mal ohnmächtig geworden
+01561	Königliche Audienz im Sand	Töte einen Teostra.	Zeit abgelaufen3-mal ohnmächtig geworden
+01562	Das Bankett des Tyrannen	Erjage einen Wilden Dämonjho.	Zeit abgelaufen3-mal ohnmächtig geworden
+01571	Wie vom Blitz getroffen	Töte einen Kirin.	Zeit abgelaufen3-mal ohnmächtig geworden
+01572	Erinnerungen an den Meeresgott	Töte den Namielle.	Zeit abgelaufen3-mal ohnmächtig geworden
+01581	Auf dem Weg ins Jenseits	Töte einen Velum-Vaal-Hazak.	Zeit abgelaufen3-mal ohnmächtig geworden
+01591	Schwingen des Windes	Töte einen Kushala Daora.	Zeit abgelaufen3-mal ohnmächtig geworden
+01592	Zeichen der Sonne	Töte einen Teostra.	Zeit abgelaufen3-mal ohnmächtig geworden
+01593	Kochend vor Wut	Erjage einen Brodelnden Bazelgeuse.	Zeit abgelaufen3-mal ohnmächtig geworden
+01594	Projekt M.I.A.U.: Silber	Fange einen Brodelnden Bazelgeuse.	Zeit abgelaufen3-mal ohnmächtig gewordenBrodelnder Bazlgeuse getötet
+01601	Loblied der Geführten	Schließe die Aufgabe ab.	Zeit abgelaufen3-mal ohnmächtig geworden
+01602	Loblied auf die Führung	Schließe die Aufgabe ab.	Zeit abgelaufen3-mal ohnmächtig geworden
+01603	Schlaft nun im Feuer	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+01604	Ganz großes Getümmel	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+01605	Bis zum Ende an deiner Seite	Töte einen Ruinen-Nergigante.	Zeit abgelaufen3-mal ohnmächtig geworden
+01606	Rückkehr des Verrückten	Erjage einen Yian Garuga.	Zeit abgelaufen3-mal ohnmächtig geworden
+01631	Die Stadt gehört uns	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+01632	Spezialarena: MR Zinogre	Erjage einen Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
+01633	Spezialarena: MR Yian Garuga	Erjage einen Yian Garuga.	Zeit abgelaufen3-mal ohnmächtig geworden
+01634	Spezialarena: MR Brachial-Tigrex	Erjage einen Brachial-Tigrex.	Zeit abgelaufen3-mal ohnmächtig geworden
+01635	Spezialarena: MR Goldene Rathian	Erjage eine Goldene Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
+01636	Spezialarena: MR Silberner Rathalos	Erjage einen Silbernen Rathalos.	Zeit abgelaufen3-mal ohnmächtig geworden
+01641	Lorelei von weit herbei	Töte einen Shara Ishvalda.	Zeit abgelaufen3-mal ohnmächtig geworden
+01642	Hymne über Mond und Sonne	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+01651	Der Sturm bringt das Unerwartete	Töte alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+01661	Eine heiße Nacht in der Ödnis	Töte eine Lunastra.	Zeit abgelaufen3-mal ohnmächtig geworden
+01671	Göttlicher Strom	Töte alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+01691	In den Palast der Flammen	Töte eine Lunastra.	Zeit abgelaufen3-mal ohnmächtig geworden
+01692	Meisterjäger der Neuen Welt	Töte alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+03001	Arena-Quest 02	Töte einen Kulu-Ya-Ku.	Zeit abgelaufen9-mal ohnmächtig geworden
+03002	Arena-Quest 03	Töte eine Rathian.	Zeit abgelaufen9-mal ohnmächtig geworden
+03031	Arena-Quest 04	Töte einen Tzitzi-Ya-Ku.	Zeit abgelaufen9-mal ohnmächtig geworden
+03032	Arena-Quest 05	Töte einen Barroth.	Zeit abgelaufen9-mal ohnmächtig geworden
+03033	Arena-Quest 06	Töte einen Dodogama.	Zeit abgelaufen9-mal ohnmächtig geworden
+03034	Arena-Quest 07	Töte einen Azurnen Rathalos.	Zeit abgelaufen9-mal ohnmächtig geworden
+03051	Arena-Quest 08	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
+03052	Arena-Quest 09	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
+03071	Arena-Meister-Quest 02	Töte einen Nachtschatten-Paolumu.	Zeit abgelaufen9-mal ohnmächtig geworden
+03072	Arena-Meister-Quest 03	Töte einen Nargacuga.	Zeit abgelaufen9-mal ohnmächtig geworden
+03073	Arena-Meister-Quest 04	Töte einen Säure-Glavenus.	Zeit abgelaufen9-mal ohnmächtig geworden
+03074	Arena-Meister-Quest 05	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
+03091	Arena-Meister-Quest 06	Töte einen Zinogre.	Zeit abgelaufen9-mal ohnmächtig geworden
+03092	Arena-Meister-Quest 07	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
+03101	Arena-Quest 01	Töte einen Pukei-Pukei.	Zeit abgelaufen9-mal ohnmächtig geworden
+03171	Arena-Meister-Quest 01	Töte einen Banbaro.	Zeit abgelaufen9-mal ohnmächtig geworden
+05003	Notleidende Musikatzen	Erjage zwei Tzitzi-Ya-Ku.	Zeit abgelaufen3-mal ohnmächtig geworden
+0	Invalid Message	Invalid Message	Invalid Message
+30000	Unavailable	Unavailable	Unavailable
+30001	Unavailable	Unavailable	Unavailable
+30002	Unavailable	Unavailable	Unavailable
+30003	Unavailable	Unavailable	Unavailable
+30004	Unavailable	Unavailable	Unavailable
+30005	Unavailable	Unavailable	Unavailable
+30006	Unavailable	Unavailable	Unavailable
+30007	Unavailable	Unavailable	Unavailable
+30008	Unavailable	Unavailable	Unavailable
+30009	Unavailable	Unavailable	Unavailable
+50601	Besucher aus einer anderen Welt	Schließe die Aufgabe ab.	Zeit abgelaufen3-mal ohnmächtig geworden
+50701	Der Herr der Nahrungskette	Erjage einen Dämonjho.	Zeit abgelaufen3-mal ohnmächtig geworden
+50702	Invalid Message	Jagen	3-mal ohnmächtig geworden
+50751	Tagesmenü: Flambierte Jägersleut	Erjage einen Dämonjho.	Zeit abgelaufen3-mal ohnmächtig geworden
+50801	Die sengende Sonne	Töte den Teostra.	Zeit abgelaufen3-mal ohnmächtig geworden
+50802	Pandoras Arena	Schließe die Aufgabe ab.	Zeit abgelaufen3-mal ohnmächtig geworden
+50803	Kein Erbarmen, keine Kapitulation	Töte alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+50831	Unavailable	Unavailable	Unavailable
+50861	Fürchterliche Monarchie	Töte alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+50891	Blaue Prominenz	Töte die Lunastra.	Zeit abgelaufen3-mal ohnmächtig geworden
+50892	Blaue Prominenz	Töte die Lunastra.	Zeit abgelaufen3-mal ohnmächtig geworden
+50901	Festmahl im Erdenen Saal	Besiege die Kulve Taroth.	Zeit abgelaufen3-mal ohnmächtig geworden
+50902	Der Zorn von Eldorado	Besiege die Kulve Taroth.	Zeit abgelaufen3-mal ohnmächtig geworden
+50905	Die legendäre Bestie	Schließe die Aufgabe ab.	Zeit abgelaufen9-mal ohnmächtig geworden
+50906	Kein Weg zurück	Töte den Behemoth.	Zeit abgelaufen3-mal ohnmächtig geworden
+50910	Auftrag: Ärger im Uralten Wald	Schließe die Aufgabe ab.	Zeit abgelaufen3-mal ohnmächtig geworden
+50991	Ein Besucher aus Eorzea	Töte den Behemoth.	Zeit abgelaufen3-mal ohnmächtig geworden
+50992	Invalid Message	Jagen	3-mal ohnmächtig geworden
+51601	Offenbare dich, Zerstörer	Schließe die Aufgabe ab.	Zeit abgelaufen3-mal ohnmächtig geworden
+51602	Gediegener Stolz	Töte einen Kirin.	Zeit abgelaufen3-mal ohnmächtig geworden
+51603	Über den verlorenen Pfad	Schließe die Aufgabe ab.	Zeit abgelaufen3-mal ohnmächtig geworden
+51604	Umkehrgrenzpunkt	Schließe die Aufgabe ab.	Zeit abgelaufen3-mal ohnmächtig geworden
+51605	Der rote Drachen	Töte einen Safi'jiiva.	Zeit abgelaufen3-mal ohnmächtig geworden
+51606	Meine Wut trifft alle	Töte einen Wütigen Brachydios.	Zeit abgelaufen3-mal ohnmächtig geworden
+51607	Meine Wut bleibt	Erjage einen Zornigen Rajang.	Zeit abgelaufen3-mal ohnmächtig geworden
+51611	Unavailable	Unavailable	Unavailable
+51612	Unavailable	Unavailable	Unavailable
+51621	Spezialarena: MR Höllen-Zinogre	Erjage einen Höllen-Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
+51622	Brachyale Gegenwehr	Töte einen Wütigen Brachydios.	Zeit abgelaufen3-mal ohnmächtig geworden
+51623	Blind vor Zorn und Gier	Erjage einen Zornigen Rajang.	Zeit abgelaufen3-mal ohnmächtig geworden
+51624	Unavailable	Unavailable	Unavailable
+51625	Unavailable	Unavailable	Unavailable
+61101	Morgenstund und so...	Töte 12 Kestodons.	Zeit abgelaufen3-mal ohnmächtig geworden
+61103	Treffpunkt von Sonne und Mond	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+61104	Waldrand-Querulant	Erjage 2 Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
+61105	Traum eines jeden Jägers	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+61601	Mitternachtschaos	Töte zehn Gastodon.	Zeit abgelaufen3-mal ohnmächtig geworden
+61603	Ein königlicher Schmerz	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+61604	Könige kennen keine Angst	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+61605	Mosswine und Mooswein	Töte 5 Mosswine.	Zeit abgelaufen9-mal ohnmächtig geworden
+61606	Der größte Jagras	Erjage einen Groß-Jagras.	Zeit abgelaufen3-mal ohnmächtig geworden
+61607	Der Name lautet Lavasioth!	Erjage einen Lavasioth.	Zeit abgelaufen3-mal ohnmächtig geworden
+61801	Perlenschnapper	Liefere sechs Perlenquell-Makaken.	Zeit abgelaufen3-mal ohnmächtig geworden
+61802	Traum eines jeden Jägers III	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+61803	Traum eines jeden Jägers II	Fange einen Korallen-Pukei-Pukei.	Zeit abgelaufen3-mal ohnmächtig gewordenKorallen-Pukei-Pukei getötet
+61805	Bausch dich auf	Liefere acht Bauschpinguine.	Zeit abgelaufen3-mal ohnmächtig geworden
+61806	Kein Terz wegen Erz	Erjage einen Brachydios.	Zeit abgelaufen3-mal ohnmächtig geworden
+61807	Gänsehaut für alle	Töte alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+61808	Affenantagonistenaberwitz	Erjage zwei Rajang.	Zeit abgelaufen3-mal ohnmächtig geworden
+61809	Paolumu-Schlaflieder	Erjage einen Nachtschatten-Paolumu.	Zeit abgelaufen9-mal ohnmächtig geworden
+61811	Flora-Frostbeule	Liefere zehn Eisblüten.	Zeit abgelaufen3-mal ohnmächtig geworden
+61812	Fleisch, Fleisch, Fleisch, ...	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+61813	Eiskaltes Verlangen	Erjage einen Barioth.	Zeit abgelaufen3-mal ohnmächtig geworden
+61814	Ein schockierender Höhepunkt	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+62502	Der tödlich stille Vorhang	Töte den Vaal Hazak.	Zeit abgelaufen3-mal ohnmächtig geworden
+62503	Das Flüstern der weißen Mähne	Töte den Kirin.	Zeit abgelaufen3-mal ohnmächtig geworden
+62504	Das Gespött der Sonne	Töte den Teostra.	Zeit abgelaufen3-mal ohnmächtig geworden
+62505	Das Auge des Sturms	Töte den Kushala Daora.	Zeit abgelaufen3-mal ohnmächtig geworden
+62506	Verkünder der Zerstörung	Töte den Nergigante.	Zeit abgelaufen3-mal ohnmächtig geworden
+62511	Blauer Staub passiert rote Lust	Töte die Lunastra.	Zeit abgelaufen3-mal ohnmächtig geworden
+62515	Sauregurkenzeit	Erjage einen Dämonjho.	Zeit abgelaufen3-mal ohnmächtig geworden
+62606	Unsterbliches Alpenglühen	Leite den Zorah Magdaros.	Zeit abgelaufen3-mal ohnmächtig gewordenDen Zorah Magdaros nicht geleitet
+62607	Wie eine Motte zur Flamme	Töte den Xeno'jiiva.	Zeit abgelaufen3-mal ohnmächtig geworden
+62608	Kurz vor Sonnenaufgang	Leite den Zorah Magdaros.	Zeit abgelaufen3-mal ohnmächtig gewordenDen Zorah Magdaros nicht geleitet
+62609	Hüter der Anderwelt	Töte den Xeno'jiiva.	Zeit abgelaufen3-mal ohnmächtig geworden
+63001	Herausforderung 1: Anfänger	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
+63002	Herausforderung 2: Anfänger	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
+63003	Vespoiden-Befall	Töte 30 Vespoiden.	Zeit abgelaufen9-mal ohnmächtig geworden
+63004	Ein dunkler, schlammiger Pfad	Töte einen Barroth.	Zeit abgelaufen9-mal ohnmächtig geworden
+63005	USJ-Anfängerherausforderung!	Töte einen Kulu-Ya-Ku.	Zeit abgelaufen9-mal ohnmächtig geworden
+63006	USJ-Expertenherausforderung!	Töte eine Rathian.	Zeit abgelaufen9-mal ohnmächtig geworden
+63007	USJ-Anfängerherausforderung!	Töte einen Tzitzi-Ya-Ku.	Zeit abgelaufen9-mal ohnmächtig geworden
+63008	USJ-Expertenherausforderung!	Töte einen Rathalos.	Zeit abgelaufen9-mal ohnmächtig geworden
+63009	Ein dunkler, schlammiger Pfad	Töte einen Barroth.	Zeit abgelaufen9-mal ohnmächtig geworden
+63031	Herausforderung 1: Fortgeschrittene	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
+63032	Herausforderung 2: Fortgeschrittene	Töte 2 Odogaron.	Zeit abgelaufen9-mal ohnmächtig geworden
+63033	Gajalaka-Ausbruch!	Besiege zehn Gajalaka.	Zeit abgelaufen9-mal ohnmächtig geworden
+63034	Das erwachte Satsui No Hado I	Töte den Nergigante.	Zeit abgelaufen9-mal ohnmächtig geworden
+63035	Das erwachte Satsui No Hado II	Töte den Nergigante.	Zeit abgelaufen9-mal ohnmächtig geworden
+63036	Das erwachte Satsui No Hado III	Töte den Nergigante.	Zeit abgelaufen9-mal ohnmächtig geworden
+63037	Kaiserin in voller Blüte I	Töte die Rosa Rathian.	Zeit abgelaufen9-mal ohnmächtig geworden
+63038	Kaiserin in voller Blüte II	Töte die Rosa Rathian.	Zeit abgelaufen9-mal ohnmächtig geworden
+63039	Kaiserin in voller Blüte III	Töte die Rosa Rathian.	Zeit abgelaufen9-mal ohnmächtig geworden
+63051	Herausforderung 1: Experten	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
+63052	Herausforderung 2: Experten	Töte den Nergigante.	Zeit abgelaufen9-mal ohnmächtig geworden
+63071	Herausforderung 1: MR-Fortgeschrittene	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
+63072	Herausforderung 2: MR-Fortgeschrittene	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
+63073	Herausforderung 1: MR-Experten	Töte einen Yian Garuga.	Zeit abgelaufen9-mal ohnmächtig geworden
+63074	Herausforderung 2: MR-Experten	Töte einen Wilden Dämonjho.	Zeit abgelaufen9-mal ohnmächtig geworden
+63101	Nergigante Tötungs-Event 1	Töte den Nergigante.	Zeit abgelaufen9-mal ohnmächtig geworden
+63102	Nergigante Tötungs-Event 2	Töte den Nergigante.	Zeit abgelaufen9-mal ohnmächtig geworden
+63103	Nergigante Tötungs-Event 3	Töte den Nergigante.	Zeit abgelaufen9-mal ohnmächtig geworden
+63104	Sturm & Fang Tötungs-Event 1	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
+63105	Sturm & Fang Tötungs-Event 2	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
+63106	Sturm & Fang Tötungs-Event 3	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
+63107	Nergigante Tötungs-Event 4	Töte den Nergigante.	Zeit abgelaufen9-mal ohnmächtig geworden
+63108	Dämonjho Tötungs-Event	Töte einen Dämonjho.	Zeit abgelaufen9-mal ohnmächtig geworden
+63109	Der Beste der Besten	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
+63110	Was im Wald lauert	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
+63130	Wenn Recht auf Krieg trifft	Töte einen Bazelgeuse.	Zeit abgelaufen9-mal ohnmächtig geworden
+63131	Die Jagd auf die Blaue Königin	Töte eine Lunastra.	Zeit abgelaufen9-mal ohnmächtig geworden
+63142	Frostiger Abschied	Töte einen Velkhana.	Zeit abgelaufen9-mal ohnmächtig geworden
+64101	Wildturm-Aufregung	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+64601	Uragaaanz schwindelig	Erjage zwei Uragaan.	Zeit abgelaufen3-mal ohnmächtig geworden
+64801	Ballonkampf	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+64802	Eine übelriechende Party	Erjage einen Brodelnden Bazelgeuse.	Zeit abgelaufen3-mal ohnmächtig geworden
+65601	Shamos-Schlamassel	Erjage 13 Shamos.	Zeit abgelaufen3-mal ohnmächtig geworden
+65602	Apfel meines Auges	Erjage drei Tzitzi-Ya-Ku.	Zeit abgelaufen3-mal ohnmächtig geworden
+65603	Ei-Liebhaber vereint	Erjage einen Kulu-Ya-Ku.	Zeit abgelaufen3-mal ohnmächtig geworden
+65604	Lass wackeln!	Liefere zehn Wackelwürmer.	Zeit abgelaufen3-mal ohnmächtig geworden
+65605	Dreifache Bedrohung	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+65606	Eine einfache Aufgabe	Liefere zehn Gourmet-Pilzhüte.	Zeit abgelaufen3-mal ohnmächtig geworden
+65607	Überwachung der Lieferung	Liefere zehn Blaue Beryll.	Zeit abgelaufen3-mal ohnmächtig geworden
+66101	Fingerübung	Erjage zwei Groß-Jagras.	Zeit abgelaufen3-mal ohnmächtig geworden
+66102	Acht Leben zu wenig	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66103	Durch bis zum Knochen	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66104	Der mythische Kirin	Töte 2 Kirin.	Zeit abgelaufen3-mal ohnmächtig geworden
+66105	Die Giftgruppe	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66106	Die Vielfraße grüßen	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66601	Tiefgrüner Blues	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66602	Wildturm-Bolero	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66603	Korallenwalzer	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66604	Miasma-Oper	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66605	Legende von Rock und Roll	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66606	So starten Aufstände	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66607	Schnee und Kirschblüten	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66608	Eine Nase für ein Auge	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66609	Kein Morgen für Eindringlinge	Erjage den Bazelgeuse.	Zeit abgelaufen3-mal ohnmächtig geworden
+66610	Der Throninteressent	Töte alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66801	Trophäenangeln	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66802	Der Herr des Erdreichs winkt	Liefere 20 Erdfrüchte.	Zeit abgelaufen3-mal ohnmächtig geworden
+66803	Schlammschleudern	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66804	Dünendelikatesse	Liefere 20 Hartfrüchte.	Zeit abgelaufen3-mal ohnmächtig geworden
+66805	Ein zweiter Störenfried	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66806	Farbenfroher Fasching	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66807	Jäger-Tollpatsch	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66808	Flammender Himmel, feuriges Meer	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66809	Sonderbares Experiment	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66810	Sehnsucht nach Wasser	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66811	Angefeuerte Bestien	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66812	Wüste Jagd	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66813	Tief im Wald	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66814	Diener des Tals	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66815	Drei Könige	Töte alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66816	Abgeklärte Kälte	Töte alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66817	Der Grund des Hungers	Erjage einen Wilden Dämonjho.	Zeit abgelaufen3-mal ohnmächtig geworden
+66818	Mondlicht-Geheul	Erjage einen Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
+66819	Ruhig und gelassen	Erjage einen Yian Garuga.	Zeit abgelaufen3-mal ohnmächtig geworden
+66820	Ein berstendes Brüllen	Erjage einen Brachial-Tigrex.	Zeit abgelaufen3-mal ohnmächtig geworden
+66821	Ein silbernes Aufblitzen	Erjage einen Silbernen Rathalos.	Zeit abgelaufen3-mal ohnmächtig geworden
+66822	Der Mond ist eine herbe Königin	Erjage eine Goldene Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
+66824	Verwirrt, erschöpft, geblendet	Erjage einen Rajang.	Zeit abgelaufen3-mal ohnmächtig geworden
+66825	Wunden sagen alles...	Erjage einen Wundmal-Yian-Garuga.	Zeit abgelaufen3-mal ohnmächtig geworden
+66826	Walzer im Wald	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66827	Ödnis-Ouvertüre	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66828	Korallen-Symphonie	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66829	Kanzone der Verwesung	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66830	Ältesten-Arabeske	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66831	Raureif-Rhapsodie	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66832	Hölle, Hölle, Hölle!	Erjage einen Höllen-Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
+66834	Promptes Brüllen	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66835	Der Zorn des Donners blitzt auf	Erjage einen Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
+66836	Ode an die Zerstörung	Töte einen Ruinen-Nergigante.	Zeit abgelaufen3-mal ohnmächtig geworden
+67101	Die Erprobung	Erjage einen Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
+67102	Lektionen der Wildnis	Töte acht Barnos.	Zeit abgelaufen3-mal ohnmächtig geworden
+67103	Rushs Blutrausch	Erjage zwei Odogaron.	Zeit abgelaufen3-mal ohnmächtig geworden
+67105	USJ: Besondere Behandlung	Erjage drei Groß-Jagras.	Zeit abgelaufen3-mal ohnmächtig geworden
+67106	USJ: Besondere Behandlung	Erjage drei Groß-Jagras.	Zeit abgelaufen3-mal ohnmächtig geworden
+67603	USJ Lodernde Azursterne!	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+67604	USJ Lodernde Azursterne!	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+67605	Code: Rot	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+67606	Ein Besucher aus Eorzea (extrem)	Töte den Behemoth.	Zeit abgelaufen3-mal ohnmächtig geworden
+67607	Das Herz der Nora	Erjage 2 Dämonjho.	Zeit abgelaufen3-mal ohnmächtig geworden
+67608	Leise, tödlich und wild	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+67610	Auftrag: Geist des Waldes	Töte den Uralten Waldschrat.	Zeit abgelaufen3-mal ohnmächtig geworden
+67801	RE: Rückkehr der Biowaffe	Töte einen Velum-Vaal-Hazak.	Zeit abgelaufen3-mal ohnmächtig geworden

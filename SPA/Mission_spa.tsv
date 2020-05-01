@@ -1,0 +1,185 @@
+Mission ID	Mission Name	Mission Desc
+0	Trabajo de campo: minerales	Recoge 6 veces en afloramientos mineros.
+1	Trabajo de campo: minerales	Recoge 12 veces en afloramientos mineros.
+2	Trabajo de campo: huesos	Recoge 6 veces en pilas de huesos.
+3	Trabajo de campo: huesos	Recoge 12 veces en pilas de huesos.
+4	Trabajo de campo: flora	Recoge plantas 4 veces.
+5	Trabajo de campo: flora	Recoge plantas 7 veces.
+6	Trabajo de campo: setas	Recoge setas 4 veces.
+7	Trabajo de campo: setas	Recoge setas 7 veces.
+8	Trabajo de campo: insectos	Recoge insectos 3 veces.
+9	Trabajo de campo: insectos	Recoge insectos 5 veces.
+10	Trabajo de campo: miel	Recoge miel 3 veces.
+11	Trabajo de campo: miel	Recoge miel 5 veces.
+12	Ecoestudio: caza monstruos grandes	Caza 2 monstruos grandes.
+13	Ecoestudio: caza monstruos grandes	Caza 1 monstruo grande.
+14	Ecoestudio: captura monstruos grandes	Captura 1 monstruo grande.
+15	Ecoestudio: abate monstruos pequeños	Abate a 8 monstruos pequeños.
+16	Ecoestudio: abate monstruos pequeños	Abate a 16 monstruos pequeños.
+17	Investigando: Bosque Primigenio	Completa 2 misiones en el Bosque Primigenio.
+18	Investigando: Bosque Primigenio	Completa 3 misiones en el Bosque Primigenio.
+19	Investigando: Yermo de Agujas	Completa 2 misiones en el Yermo de Agujas.
+20	Investigando: Yermo de Agujas	Completa 3 misiones en el Yermo de Agujas.
+21	Trabajo de campo: minerales	Recoge 9 veces en afloramientos mineros.
+22	Trabajo de campo: minerales	Recoge 15 veces en afloramientos mineros.
+23	Trabajo de campo: huesos	Recoge 9 veces en pilas de huesos.
+24	Trabajo de campo: huesos	Recoge 15 veces en pilas de huesos.
+25	Trabajo de campo: flora	Recoge plantas 5 veces.
+26	Trabajo de campo: flora	Recoge plantas 8 veces.
+27	Trabajo de campo: setas	Recoge setas 5 veces.
+28	Trabajo de campo: setas	Recoge setas 8 veces.
+29	Trabajo de campo: insectos	Recoge insectos 4 veces.
+30	Trabajo de campo: insectos	Recoge insectos 7 veces.
+31	Trabajo de campo: miel	Recoge miel 4 veces.
+32	Trabajo de campo: miel	Recoge miel 7 veces.
+33	Ecoestudio: caza monstruos grandes	Caza 3 monstruos grandes.
+34	Ecoestudio: caza monstruos grandes	Caza 2 monstruos grandes.
+35	Ecoestudio: captura monstruos grandes	Captura 2 monstruos grandes.
+36	Ecoestudio: captura monstruos grandes	Captura 1 monstruo grande.
+37	Ecoestudio: abate monstruos pequeños	Abate a 10 monstruos pequeños.
+38	Ecoestudio: abate monstruos pequeños	Abate a 20 monstruos pequeños.
+39	Ecoestudio: caza wyverns de colmillos	Caza 2 wyverns grandesde colmillos.
+40	Ecoestudio: captura wyverns de colmillos	Captura 1 wyvern grandede colmillos.
+41	Ecoestudio: caza wyverns pájaro	Caza 2 wyverns pájaro grandes.
+42	Ecoestudio: captura wyverns pájaro	Captura 1 wyvern pájaro grande.
+43	Ecoestudio: caza wyverns brutales	Caza 2 wyverns brutales grandes.
+44	Ecoestudio: captura wyverns brutales	Captura 1 wyvern brutal grande.
+45	Ecoestudio: caza wyverns voladores	Caza 2 wyverns voladores grandes.
+46	Ecoestudio: captura wyverns voladores	Captura 1 wyvern volador grande.
+47	Investigando: Bosque Primigenio	Completa 2 misiones en el Bosque Primigenio.
+48	Investigando: Bosque Primigenio	Completa 3 misiones en el Bosque Primigenio.
+49	Investigando: Yermo de Agujas	Completa 2 misiones en el Yermo de Agujas.
+50	Investigando: Yermo de Agujas	Completa 3 misiones en el Yermo de Agujas.
+51	Investigando: Altiplanos Coralinos	Completa 2 misiones en los Altiplanos Coralinos.
+52	Investigando: Altiplanos Coralinos	Completa 3 misiones en los Altiplanos Coralinos.
+53	Investigando: Valle Putrefacto	Completa 2 misiones en el Valle Putrefacto.
+54	Investigando: Valle Putrefacto	Completa 3 misiones en el Valle Putrefacto.
+55	Investigando: ciencia	Completa 2 investigaciones.
+56	Investigando: ciencia	Completa 3 investigaciones.
+57	Ecoestudio: caza monstruos grandes	Caza 2 monstruos grandes de rango alto.
+58	Ecoestudio: captura monstruos grandes	Captura 1 monstruo grande de rango alto.
+59	Ecoestudio: abate monstruos pequeños	Abate a 10 monstruos pequeños de rango alto.
+60	Investigando: Bosque Primigenio	Completa 2 misiones de rango altoen el Bosque Primigenio.
+61	Investigando: Yermo de Agujas	Completa 2 misiones de rango altoen el Yermo de Agujas.
+62	Investigando: Altiplanos Coralinos	Completa 2 misiones de rango altoen los Altiplanos Coralinos.
+63	Investigando: Valle Putrefacto	Completa 2 misiones de rango altoen el Valle Putrefacto.
+64	Investigando: ciencia	Completa 2 investigaciones de rango alto.
+65	Trabajo de campo: minerales	Recoge 15 veces en afloramientos mineros.
+66	Trabajo de campo: huesos	Recoge 15 veces en pilas de huesos.
+67	Trabajo de campo: flora	Recoge plantas 8 veces.
+68	Trabajo de campo: setas	Recoge setas 8 veces.
+69	Trabajo de campo: insectos	Recoge insectos 7 veces.
+70	Trabajo de campo: miel	Recoge miel 7 veces.
+71	Ecoestudio: caza monstruos grandes	Caza 3 monstruos grandes de rango alto.
+72	Ecoestudio: captura monstruos grandes	Captura 2 monstruos grandes de rango alto.
+73	Ecoestudio: abate monstruos pequeños	Abate a 20 monstruos pequeños de rango alto.
+74	Ecoestudio: caza wyverns de colmillos	Caza 2 wyverns grandes de colmillosde rango alto.
+75	Ecoestudio: captura wyverns de colmillos	Captura 1 wyvern grande de colmillosde rango alto.
+76	Ecoestudio: caza wyverns pájaro	Caza 2 wyverns pájaro grandesde rango alto.
+77	Ecoestudio: captura wyverns pájaro	Captura 1 wyvern pájaro grandede rango alto.
+78	Ecoestudio: caza wyverns brutales	Caza 2 wyverns brutales grandesde rango alto.
+79	Ecoestudio: captura wyverns brutales	Captura 1 wyvern brutal grandede rango alto.
+80	Ecoestudio: caza wyverns voladores	Caza 2 wyverns voladores grandesde rango alto.
+81	Ecoestudio: captura wyverns voladores	Caza 1 wyvern volador grandede rango alto.
+82	Ecoestudio: caza wyverns nadadores	Caza 2 wyverns nadadores grandesde rango alto.
+83	Ecoestudio: captura wyverns nadadores	Captura 1 wyvern nadador grandede rango alto.
+84	Investigando: Bosque Primigenio	Completa 3 misiones de rango altoen el Bosque Primigenio.
+85	Investigando: Yermo de Agujas	Completa 3 misiones de rango altoen el Yermo de Agujas.
+86	Investigando: Altiplanos Coralinos	Completa 3 misiones de rango altoen los Altiplanos Coralinos.
+87	Investigando: Valle Putrefacto	Completa 3 misiones de rango altoen el Valle Putrefacto.
+88	Investigando: Lecho de los Ancianos	Completa 3 misiones de rango altoen el Lecho de los Ancianos.
+89	Investigando: ciencia	Completa 3 investigaciones de rango alto.
+90	Ecoestudio: abate dragones ancianos	Abate a 2 dragones ancianos de rango alto.
+91	Trabajo de campo: minerales	Recoge en afloramientos mineros 21 veces.
+92	Trabajo de campo: huesos	Recoge en pilas de huesos 21 veces.
+93	Trabajo de campo: flora	Recoge plantas 12 veces.
+94	Trabajo de campo: setas	Recoge setas 12 veces.
+95	Trabajo de campo: insectos	Recoge insectos 10 veces.
+96	Trabajo de campo: miel	Recoge miel 10 veces.
+97	Ecoestudio: caza monstruos grandes	Caza 4 monstruos grandes de rango alto.
+98	Ecoestudio: captura monstruos grandes	Captura 3 monstruos grandes de rango alto.
+99	Ecoestudio: abate monstruos pequeños	Abate a 30 monstruos pequeños de rango alto.
+100	Ecoestudio: caza wyverns de colmillos	Caza 3 wyverns de colmillos grandesde rango alto.
+101	Ecoestudio: captura wyverns de colmillos	Captura 2 wyverns de colmillos grandesde rango alto.
+102	Ecoestudio: caza wyverns pájaro	Caza 3 wyverns pájaro grandesde rango alto.
+103	Ecoestudio: captura wyverns pájaro	Captura 2 wyverns pájaro grandesde rango alto.
+104	Ecoestudio: caza wyverns brutales	Caza 3 wyverns brutales grandesde rango alto.
+105	Ecoestudio: captura wyverns brutales	Captura 2 wyverns brutales grandesde rango alto.
+106	Ecoestudio: caza wyverns voladores	Caza 3 wyverns voladores grandesde rango alto.
+107	Ecoestudio: captura wyverns voladores	Captura 2 wyverns voladores grandesde rango alto.
+108	Ecoestudio: caza wyverns nadadores	Caza 3 wyverns nadadores grandesde rango alto.
+109	Ecoestudio: captura wyverns nadadores	Captura 2 wyverns nadadores grandesde rango alto.
+110	Ecoestudio: abate dragones ancianos	Abate a 3 dragones ancianos de rango alto.
+111	Investigando: Bosque Primigenio	Completa 4 misiones de rango altoen el Bosque Primigenio.
+112	Investigando: Yermo de Agujas	Completa 4 misiones de rango altoen el Yermo de Agujas.
+113	Investigando: Altiplanos Coralinos	Completa 4 misiones de rango altoen los Altiplanos Coralinos.
+114	Investigando: Valle Putrefacto	Completa 4 misiones de rango altoen el Valle Putrefacto.
+115	Investigando: Lecho de los Ancianos	Completa 4 misiones de rango altoen el Lecho de los Ancianos.
+116	Investigando: ciencia	Completa 4 investigaciones de rango alto.
+117	Intercambio cultural: Yermo Agujas	Captura 3 defensores.
+118	Intercambio cultural: Yermo Agujas II	Informa a los defensores en su campamento.
+119	Intercambio cultural: lengua Gajalaka	Encuentra 10 rastros de Gajalaka.
+120	Intercambio cultural: lengua Gajalaka II	Descubre el poblado Gajalaka.
+121	Investigación: parexus rosado	Captura un parexus rosado.
+122	Investigación: pez sushi	Captura un pez sushi.
+123	Investigación: pez pólvora	Captura un pez pólvora.
+124	Investigación: pez dorado	Captura un pez dorado.
+125	Investigación: pez de platino	Captura un pez de platino.
+126	Investigación: pteryx forestal	Captura un pteryx forestal.
+127	Investigación: hormiga porteadora	Captura 9 hormigas porteadoras.
+128	Investigación: gorgasia	Captura 3 gorgasias.
+129	Investigación: carraña	Captura 5 carrañas.
+130	Investigación: escarabajo bombardero	Captura un escarabajo bombardero.
+131	Investigación: captura al anciano	Captura a un ejemplar de fauna local conocidocomo la criatura ancestral del Nuevo Mundo.
+132	Investigación: ave fantasmal	Captura a un ejemplar de fauna localconocido como el ave fantasmal.
+133	Reconstruye el campamento del bosque	Garantiza la seguridad del campamento.
+134	Investigación: criatura	Captura a una criatura de otro mundo.(Pista: consulta tu bestiario de bolsillo).
+135	Investigación: parexus de cristal	Captura un parexus de cristal.
+136	Investigación: pez misterioso	Captura a un pez misteriosoen el Arroyo de Escarcha.
+137	Investigación: pingüino lanudo	Captura a 3 pingüinos lanudos.
+138	Investigación: animal misterioso	Captura a una misteriosa forma de vidaautóctona del Arroyo de Escarcha.
+139	Investigación: caballa cuchillo	Captura una caballa cuchillo (corona de oro).
+140	Investigación: arrowana reventona	Captura una arrowana reventona (corona de oro).
+141	Investigación: parexus de cristal	Captura un gran parexus de cristal (corona de oro).
+142	Investigación: caballito esmeralda	Captura un caballito esmeralda (corona de oro).
+143	Investigación: ave de coral escarlata	Captura un ave de coral escarlata (corona de oro).
+144	Investigación: pingüino lanudo	Captura un pingüino lanudo (corona de oro).
+145	Trabajo de campo: minerales	Recoge 12 veces en afloramientos mineros.
+146	Trabajo de campo: huesos	Recoge 12 veces en pilas de huesos.
+147	Trabajo de campo: flora	Recoge plantas 8 veces.
+148	Trabajo de campo: setas	Recoge setas 8 veces.
+149	Trabajo de campo: insectos	Recoge insectos 6 veces.
+150	Trabajo de campo: miel	Recoge miel 6 veces.
+151	Ecoestudio: caza monstruos grandes	Caza 3 monstruos grandes de rango maestro.
+152	Ecoestudio: captura monstruos grandes	Captura 3 monstruos grandes de rango maestro.
+153	Ecoestudio: abate monstruos pequeños	Abate a 10 monstruos pequeños de rango maestro.
+154	Ecoestudio: caza wyverns de colmillos	Caza 2 grandes wyverns decolmillos de rango maestro.
+155	Ecoestudio: captura wyverns de colmillos	Captura 2 grandes wyverns de colmillos de rango maestro.
+156	Ecoestudio: caza wyverns pájaro	Caza 2 wyverns pájaro grandesde rango maestro.
+157	Ecoestudio: captura wyverns pájaro	Captura 2 wyverns pájaro grandes de rango maestro.
+158	Ecoestudio: caza wyverns brutales	Caza 2 wyverns brutalesgrandes de rango maestro.
+159	Ecoestudio: captura wyverns brutales	Captura 2 wyverns brutales grandes de rango maestro.
+160	Ecoestudio: caza wyverns nadadores	Caza 2 wyverns nadadoresgrandes de rango maestro.
+161	Ecoestudio: captura wyverns nadadores	Captura 2 wyverns nadadores grandes de rango maestro.
+162	Investigando: Bosque Primigenio	Completa 2 misiones de rango maestroen el Bosque Primigenio.
+163	Investigando: Yermo de Agujas	Completa 2 misiones de rango maestroen el Yermo de Agujas.
+164	Investigando: Altiplanos Coralinos	Completa 2 misiones de rango maestroen los Altiplanos Coralinos.
+165	Investigando: Valle Putrefacto	Completa 2 misiones de rango maestroen el Valle Putrefacto.
+166	Investigando: Lecho de los Ancianos	Completa 2 misiones de rango maestroen el Lecho de los Ancianos.
+167	Investigando: ciencia	Completa 2 investigaciones de rango maestro.
+168	Investigando: Arroyo de Escarcha	Completa 2 misiones de rango maestroen el Arroyo de Escarcha.
+169	Ecoestudio: caza wyverns voladores	Caza 2 wyverns voladores grandesde rango maestro.
+170	Ecoestudio: captura wyverns voladores	Captura 2 wyverns voladores grandes de rango maestro.
+171	Ecoestudio: caza monstruos grandes	Caza 6 monstruos grandesde rango maestro.
+172	Ecoestudio: caza wyverns de colmillos	Caza 4 grandes wyverns de colmillosde rango maestro.
+173	Ecoestudio: caza wyverns pájaro	Caza 4 wyverns pájaro grandesde rango maestro.
+174	Ecoestudio: caza wyverns brutales	Caza 4 wyverns brutales grandesde rango maestro.
+175	Ecoestudio: caza wyverns voladores	Caza 4 wyverns voladores grandesde rango maestro.
+176	Ecoestudio: caza wyverns nadadores	Caza 4 wyverns nadadores grandesde rango maestro.
+177	Ecoestudio: abate dragones ancianos	Abate a 2 dragones ancianos de rango maestro.
+178	Ecoestudio: abate dragones ancianos	Abate a 4 dragones ancianos de rango maestro.
+179	Ecoestudio: caza monstruos curtidos	Caza a 2 monstruos curtidos grandesde rango maestro.
+180	Ecoestudio: caza monstruos curtidos	Caza a 4 monstruos curtidos grandesde rango maestro.
+181	Intercambio cultural: Arroyo de Escarcha	Sal de expedición en el Arroyo de Escarchay caza un monstruo grande.
+182	Intercambio cultural: Arroyo de Escarcha II	Ve a la guarida de los Boaboa y asistea la reunión del consejo.
+183	Intercambio cultural: Arroyo de Escarcha III	Completa la misión M2<ICON STAR_1>Con nuestro poder combinado.

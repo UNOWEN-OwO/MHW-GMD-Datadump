@@ -1,0 +1,115 @@
+Food Code	Food Name	Food Desc
+MEAT_00_ID	Cuisse de wyverne	Une viande juteuse à souhait.Régalade assurée !<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+MEAT_01_ID	Hampe de wyverne	Une viande tendre et riche en protéine.Encore meilleure à la broche.<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+MEAT_02_ID	Œuf de wyverne	Un œuf très rare, extrêmement nutritif.<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+MEAT_03_ID	Queue de wyverne	Une viande goûteuse de wyverne volante.À essayer au moins une fois.<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+MEAT_04_ID	Tête de wyverne	Un met de luxe au goût unique.Souvent cuisinée lors des célébrations.<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+MEAT_05_ID	Filet de wyverne	Le morceau le plus tendre de la bête.À déguster sans modération.<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+MEAT_06_ID	Viande coriace	Dure comme du cuir. Pas agréableà manger, mais muscle la mâchoire.<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+MEAT_07_ID	Viande à épines	Il reste encore des bouts d'écaillesépineuses. À manger avec précaution.<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+MEAT_08_ID	Jambon d'argent	De la charcuterie cuite à l'ancienne, assezonéreuse. Il faut savoir se faire plaisir.<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+MEAT_09_ID	Saucisse aux sept épices	Les épices puissantes ajoutentune tonne de saveurs supplémentaires.<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+MEAT_10_ID	Poulet barbare	Une viande à découper sauvagement,et à dévorer sans retenue.<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+MEAT_11_ID	Carpaccio mariné	De la viande coupée très finement,assaisonnée d'une sauce secrète.<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+MEAT_12_ID	Viande d'Aptonoth	Une pièce noble mais pauvre en graisse,incontournable pour les chasseurs au régime.<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+MEAT_13_ID	Rôti d'Apceros	Un met aux portions généreuses,particulièrement apprécié des chasseurs.<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+MEAT_14_ID	Steak en dés	De la viande de bonne qualité,coupée en petits morceaux.<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+MEAT_15_ID	Porc princesse	De la viande pour les gourmets. Mêmela mousse sur la peau est savoureuse !<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+MEAT_16_ID	Roi des burgers	Un hamburger géant, pour ceux qui ontun sacré appétit. Miam !<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+MEAT_17_ID	Giga steak	Le morceau de prédilection des amateursde la viande. Un vrai délice !<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+MEAT_18_ID	Foie blanc	Une viande appréciée pour sa textureonctueuse.<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+MEAT_19_ID	Côtes sauce barbecue	Riches en graisse, mais très goûteuses.Attention aux excès !<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+MEAT_20_ID	Tripes pimentées	C'est bon, mais attention à l'arrière-trainqui siffle !<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+MEAT_21_ID	Cœur brûlant	Une viande délicate à servir très chaud.<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+MEAT_22_ID	Rumsteak de luxe	Une viande exceptionnelle, extrêmementgoûteuse. À manger impérativement !<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+MEAT_23_ID	Foie gras suprême	Une symphonie haute en goûts et encouleurs qui séduira tous les gourmets.<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+MEAT_24_ID	Dindon de ferme	Une viande de bonne qualité,malheureusement il y a trop d'os.<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>
+MEAT_25_ID	Grand mouton	Une viande savoureuse et tendre à souhait,utilisée dans de nombreux plats.<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>
+MEAT_26_ID	Œuf d'herbivore	Une omelette pourrait nourrir plusieursfamilles affamées.<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>
+MEAT_27_ID	Dinde royale	Cette viande savoureuse éveilleles sens et aiguise l'appétit !<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>
+MEAT_28_ID	Mouton magma	Du mouton succulent, à cuisiner depréférence en pot-en-feu.<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>
+MEAT_29_ID	Dindon impérial	Une viande généreuse croquanteen bouche. À déguster d'urgence !<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>
+FISH_00_ID	Thon poilu	Son aspect singulier ne fausse pasla saveur de fraîcheur de sa chair.<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+FISH_01_ID	Saumon serpentin	Un poisson sinueux et gluantau goût très typé.<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+FISH_02_ID	Anguille intrépide	Un poisson qui se démarque par soncaractère surprenant. Donne du pep's !<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+FISH_03_ID	Sushipoisson	Véritable steak de la mer, sa chair est savoureuseet fondante, avec une juste quantité de graisse.<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+FISH_04_ID	Dorade ancienne	Un poisson à la chair savoureuse etparfumée. Un vrai délice !<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+FISH_05_ID	Limande paysanne	Malgré son apparence vulgaire, ce poisson estconsidéré comme la quintessence du courage.<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+FISH_06_ID	Bulot géant	Un gastéropode marin à la chair délicate.Plus c'est gros, plus c'est bon !<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+FISH_07_ID	Chips Saint-Jacques	Des Saint-Jacques émincées et frites.Sont utilisées pour parfumer une soupe.<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+FISH_08_ID	Ormeau rosé	La fine acidité de la chair donne un soupçond'impertinence en bouche.<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+FISH_09_ID	Ormeau arc-en-ciel	Un mollusque à la chair fine et à l'arôme équilibré.Ses couleurs irisées éveillent la curiosité.<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+FISH_10_ID	Ormeau aux truffes	Ce mollusque savoureux et fondanttrônera à merveille au milieu de la table.<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+FISH_11_ID	Turbo à cornes	Un gastéropode. À quoi peuvent bienservir ses grandes cornes ?<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+FISH_12_ID	Sardine soldat	Ces poissons évoluent au sein de bancs trèscompacts pour se protéger des prédateurs.<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+FISH_13_ID	Thon samouraï	Ses motifs évoquent le casqued'un ancien guerrier oriental.<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+FISH_14_ID	Joue de Gajau	Un morceau de choix qui nécessiteune cuisson parfaite.<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+FISH_15_ID	Foie de Gajau	Une partie fine et onctueuse,riche en éléments nutritifs.<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+FISH_16_ID	Thon shogun	Ses couleurs et ses motifs rappellentun fier samouraï en armure.<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+FISH_17_ID	Dorade écarlate	Un poisson tout feu tout flamme.Sa chair est riche en protéine.<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+FISH_18_ID	Crevette biscornue	Un petit crustacé à la chair tendre, parfaiten amuse-bouche. Difficile à décortiquer.<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+FISH_19_ID	Crabe armure	Une chair fine et délicate se cachesous sa carapace de fer.<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+FISH_20_ID	Crevette corail	Un petit crustacé rose à la chair bienferme. Idéal pour les hors-d'œuvres.<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+FISH_21_ID	Crabe forteresse	Sa grosse carapace offre un confortsans égal à de nombreux symbiotes.<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+FISH_22_ID	Langouste royale	La reine des crustacés.Sa chair est fine et savoureuse.<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+FISH_23_ID	Crabe millénaire	Un crustacé magnifique qui fait merveillesur un plateau de fruits de mer.<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+FISH_24_ID	Squeletopus	Un mollusque très imposant, dont la chair estétrangement croquante. Puristes s'abstenir !<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>
+FISH_25_ID	Caviar rose	Un met fin et savoureux, au goûtlégèrement iodé. À déguster très frais.<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>
+FISH_26_ID	Calamarys	Il paraît que manger ce mollusque nacréaugmente la perception.<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>
+FISH_27_ID	Poulpe ballerine	Ce mollusque nous offre un élégant ballet aquatiquelorsqu'il évolue dans l'eau. Se déguste chaud.<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>
+FISH_28_ID	Caviar mystique	Un met d'exception. Les œufs ont une saveursi puissante qu'ils peuvent transcender l'âme.<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>
+FISH_29_ID	Empereur calmar	Un céphalopode géant qui règne sur lesprofondeurs. Excellent farci ou frit.<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>
+VEGE_00_ID	Céleri magistral	Une plante potagère parfumée et tonique,qui dynamise n'importe quel plat.<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+VEGE_01_ID	Piment du démon	Un piment si puissant qu'il fait mêmepleurer un Deviljho.<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+VEGE_02_ID	Cactus raffiné	Sa chair ferme possède une saveuréquilibrée et peu amère.<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+VEGE_03_ID	Fleur-de-dragon	La chair juteuse de ce fruit exotique est protégéepar une coque aussi dure qu'une écaille de wyverne.<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+VEGE_04_ID	Cactus royal	Un légume majestueux, à la chaircroquante et légèrement amère.<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+VEGE_05_ID	Tomate géante	Un gros fruit charnu et juteux.Son odeur parfumée est gage de qualité.<STYL MOJI_YELLOW_DEFAULT>Talent : Courage</STYL>
+VEGE_06_ID	Maïs de pierre	Il faut une force surhumaine pour l'effeuiller etdécouvrir les grains sucrés de son épi généreux.<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+VEGE_07_ID	Patate croque-mitaine	Ses racines tenaces brisent l'échine de nombreuxagriculteurs durant la saison des récoltes.<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+VEGE_08_ID	 Champignon exquis	Un champignon à la fois moelleux etcroquant, au goût épicé.<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+VEGE_09_ID	Champignon sélénite	Un champignon au goût poivré dontl'éclat rappelle étrangement la lune.<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+VEGE_10_ID	Champignon mystique	Un champignon au parfum agréable etau goût noisette. Il rayonne étrangement.<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+VEGE_11_ID	Champignon des ténèbres	Un légume à la chair fibreuse et parfumée,incroyablement difficile à trouver.<STYL MOJI_YELLOW_DEFAULT>Talent : Persévérance</STYL>
+VEGE_12_ID	Citrouille géante	Un légume orange et bien rond, à la chair sucréeet fibreuse. La preuve que la taille compte !<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+VEGE_13_ID	Oignon gourdin	Une plante potagère au goût prononcé.Pourrait servir d'arme à un ogre !<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+VEGE_14_ID	Grand-soleil	Son huile aromatisée est une excellentesource de vitamines.<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+VEGE_15_ID	Clochette du paradis	Cette herbe aromatique est appréciéepour ses nombreuses vertus médicinales.<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+VEGE_16_ID	Déesse d'or	Une fleur comestible qui irradied'une beauté exceptionnelle.<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+VEGE_17_ID	Truffe royale	Un champignon mythique au parfum à nul autrepareil. Surnommé le diamant de la cuisine.<STYL MOJI_YELLOW_DEFAULT>Talent : Vigueur</STYL>
+VEGE_18_ID	Céleri aromatique	Un légume au parfum fort et au goût puissant,qui peut condimenter nombre de préparations.<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+VEGE_19_ID	Paprika prismatique	Un piment doux qui change de couleurselon la méthode de cuisson.<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+VEGE_20_ID	Fruit infect	Un fruit qui pousse dans le Val putride.Malgré son odeur repoussante, il est comestible.<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+VEGE_21_ID	Fraise des anges	Un fruit à la pulpe juteuse et au parfum sucré.Un goût de paradis !<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+VEGE_22_ID	Fruit élyséen	Un fruit divin au goût magique.<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+VEGE_23_ID	Chou mille-feuilles	Un légume d'hiver très riche en nutriments,grâce à ses nombreuses feuilles superposées.<STYL MOJI_YELLOW_DEFAULT>Talent : Expertise</STYL>
+VEGE_24_ID	Haricot Kut-Ku	"Surnommé la ""rondelle de feu"", ce petit légume vousfera chanter au clair de lune pire qu'un Yian Kut-Ku.<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>"
+VEGE_25_ID	Mangue magma	Un fruit exotique qui continue sans cesse à mûrir.Sa chair fondante et acidulée reste toujours chaude.<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>
+VEGE_26_ID	Fruit de granit	Un fruit impossible de mordre à pleine dents.Sa coque est dure comme de la pierre !<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>
+VEGE_27_ID	Papanas	Un fruit tropical riche en saveurs complexes,mais difficile à cultiver.<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>
+VEGE_28_ID	Fruit sauvage	Son goût acidulé est très prisé par les gourmets.<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>
+VEGE_29_ID	Durian émeraude	Un fruit rare et coûteux, réputé pour son goûtparticulier malgré son odeur nauséabonde.<STYL MOJI_YELLOW_DEFAULT>Talent : Artificier</STYL>
+LIQUOR_00_ID	Grog sucré	Une eau-de-vie à base de patate douce.Se boit facilement.<STYL MOJI_YELLOW_DEFAULT>Talent : Perception</STYL>
+LIQUOR_01_ID	Bière du dragon	Il paraît que ce breuvage peut endormir une wyverneen deux gorgées. Ça décape !<STYL MOJI_YELLOW_DEFAULT>Talent : Perception</STYL>
+LIQUOR_02_ID	Rhum du démon	Même l'estomac d'un Deviljho n'y résisterait pas.Pour les amateurs de sensations fortes !<STYL MOJI_YELLOW_DEFAULT>Talent : Perception</STYL>
+LIQUOR_03_ID	Cidre de wyverne	Une boisson alcoolisée très douce et légèrementpétillante. Le plaisir de tomber dans les pommes !<STYL MOJI_YELLOW_DEFAULT>Talent : Perception</STYL>
+LIQUOR_04_ID	Saké du poisson d'or	Le Saint Graal des boissons alcoolisées.On lui attribue certains pouvoirs magiques.<STYL MOJI_YELLOW_DEFAULT>Talent : Perception</STYL>
+LIQUOR_05_ID	Tueur-de-dragon	Un alcool de riz d'une grande beauté, fabriqué selonune méthode ancestrale. La quintessence du saké.<STYL MOJI_YELLOW_DEFAULT>Talent : Perception</STYL>
+LIQUOR_06_ID	Ale du chasseur	Une bière rafraîchissante qui a reçu seslettres de noblesse par un édit de la Guilde.<STYL MOJI_YELLOW_DEFAULT>Talent : Fortune</STYL>
+LIQUOR_07_ID	Cognac des étoiles	Sa bouteille est ornée de l'Étoile de saphir,le symbole de la Commission de recherche.<STYL MOJI_YELLOW_DEFAULT>Talent : Fortune</STYL>
+LIQUOR_08_ID	Cervoise royale	Une boisson dont la noble amertumefait saliver tous les aficionados de bière.<STYL MOJI_YELLOW_DEFAULT>Talent : Fortune</STYL>
+LIQUOR_09_ID	Whisky Ratha	Ce nectar malté a été distillé avec le souffleardent d'un Rathalos. C'est too much !<STYL MOJI_YELLOW_DEFAULT>Talent : Fortune</STYL>
+LIQUOR_10_ID	Cervoise d'Astera	Une bière locale avec du caractère. Une moussebien de chez nous, idéale pour les fêtes.<STYL MOJI_YELLOW_DEFAULT>Talent : Fortune</STYL>
+LIQUOR_11_ID	Vin béni	Un vin exceptionnel, au goût subtil et raffiné.Il a remporté de nombreux concours de dégustation.<STYL MOJI_YELLOW_DEFAULT>Talent : Fortune</STYL>
+LIQUOR_12_ID	Goulée de kératine	Alcool à base de cornes d'animaux natifsdu Givre éternel.<STYL MOJI_YELLOW_DEFAULT>Talent : Préparation</STYL>
+LIQUOR_13_ID	Blonde prometteuse	Alcool que l'on sert traditionnellement auxvoyageurs en guise de porte-bonheur.<STYL MOJI_YELLOW_DEFAULT>Talent : Préparation</STYL>
+LIQUOR_14_ID	Brunaubeurre	Cette bière vivifiante contient despétasites du Givre Éternel fermentés.<STYL MOJI_YELLOW_DEFAULT>Talent : Préparation</STYL>
+LIQUOR_15_ID	Hydromel fortifié	Les ingrédients sélectionnés avec soinde cette bière réchauffent le corps.<STYL MOJI_YELLOW_DEFAULT>Talent : Préparation</STYL>
+LIQUOR_16_ID	Gnôle envoûtante	Son arôme fruité ensorcèle tousceux qui le hument.<STYL MOJI_YELLOW_DEFAULT>Talent : Préparation</STYL>
+LIQUOR_17_ID	Tequila de locos	Cette eau-de-vie extrêmement corsée estappréciée des chasseurs en mal de défis.<STYL MOJI_YELLOW_DEFAULT>Talent : Préparation</STYL>
+LIQUOR_18_ID	Vodka glaciale	Cette boisson de luxe de la Cantine estservie sur une stalactite de glace.<STYL MOJI_YELLOW_DEFAULT>Talent : Précurseur</STYL>
+LIQUOR_19_ID	Tequila festive	Cette boisson classique est servieà l'occasion d'une chasse réussie.<STYL MOJI_YELLOW_DEFAULT>Talent : Précurseur</STYL>
+LIQUOR_20_ID	Cordial de névé	Son goût frais de neige juste fondue enfait la boisson de choix d'une réconciliation.<STYL MOJI_YELLOW_DEFAULT>Talent : Précurseur</STYL>
+LIQUOR_21_ID	Pétillant des cimes	Cette boisson luxueuse est servie surdes fragments de glace très dense.<STYL MOJI_YELLOW_DEFAULT>Talent : Précurseur</STYL>
+LIQUOR_22_ID	Ballon de cristal	Cette boisson délicate est si claire queses bulles semblent en suspension.<STYL MOJI_YELLOW_DEFAULT>Talent : Précurseur</STYL>
+LIQUOR_23_ID	Spiritueux ardent	Cette boisson puissante embrasele ventre, puis l'ensemble du corps.<STYL MOJI_YELLOW_DEFAULT>Talent : Précurseur</STYL>

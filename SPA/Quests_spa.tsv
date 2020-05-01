@@ -1,0 +1,508 @@
+Quest ID	Quest Name	Quest Target	Fail Condition
+00000	Unavailable	Unavailable	Unavailable
+00001	Unavailable	Unavailable	Unavailable
+00002	Unavailable	Unavailable	Unavailable
+00003	Invalid Message	Invalid Message	Invalid Message
+00004	Invalid Message	Invalid Message	Invalid Message
+00005	Invalid Message	Invalid Message	Invalid Message
+00101	Jagras del Bosque Primigenio	Abate a 7 Jagras	Se te acaba el tiempoTe has desmayado tres veces
+00102	Un follón Kestodon	Completa el encargo	Se te acaba el tiempoTe has desmayado tres veces
+00103	La cacería del Gran Jagras	Caza un Gran Jagras	Se te acaba el tiempoTe has desmayado tres veces
+00151	Cabezones con naturaleza	Abate a 12 Kestodon	Se te acaba el tiempoTe has desmayado tres veces
+00152	Un matorral de matones	Abate a 7 Jagras	Se te acaba el tiempoTe has desmayado tres veces
+00153	Fungoflexión en el Bosque Primigenio	Entrega 20 sombreros de seta gourmet	Se te acaba el tiempoTe has desmayado tres veces
+00201	Bandido con cerebro de pájaro	Caza un Kulu-Ya-Ku	Se te acaba el tiempoTe has desmayado tres veces
+00205	Urgente: la caza del Pukei-Pukei	Caza un Pukei-Pukei	Se te acaba el tiempoTe has desmayado tres veces
+00241	Descubre la garra retráctil	Aprende cómo funcionala garra retráctil	Se te acaba el tiempoTe has desmayado tres vecesHas cazado al Gran Jagras
+00251	El gran glotón	Caza un Gran Jagras	Se te acaba el tiempoTe has desmayado tres veces
+00252	Destroza campamentos	Caza un Kulu-Ya-Ku	Se te acaba el tiempoTe has desmayado tres veces
+00261	Atrapa al ladrón	Captura un Kulu-Ya-Ku	Se te acaba el tiempoTe has desmayado tres vecesEl Kulu-Ya-Ku ha muerto
+00262	Los peces, mejor con colmillos	Abate a 7 Gajau	Se te acaba el tiempoTe has desmayado tres veces
+00263	Exterminador del yermo	Abate a 14 Vespoid	Se te acaba el tiempoTe has desmayado tres veces
+00301	El mejor tipo de misión	Completa el encargo	Se te acaba el tiempoTe has desmayado tres veces
+00302	Sombras en el pantano	Completa el encargo	Se te acaba el tiempoTe has desmayado tres veces
+00305	Saltan chispas: Tobi-Kadachi	Caza un Tobi-Kadachi	Se te acaba el tiempoTe has desmayado tres veces
+00306	El Anjanath invasor	Caza un Anjanath	Se te acaba el tiempoTe has desmayado tres veces
+00331	Arena especial: Pukei-Pukei	Caza un Pukei-Pukei	Se te acaba el tiempoTe has desmayado tres veces
+00332	Arena especial: Barroth	Caza un Barroth	Se te acaba el tiempoTe has desmayado tres veces
+00333	Arena especial: Tobi-Kadachi	Caza un Tobi-Kadachi	Se te acaba el tiempoTe has desmayado tres veces
+00351	Escasez de fragmenuez	Caza un Pukei-Pukei	Se te acaba el tiempoTe has desmayado tres veces
+00352	La situación actual	Caza un Tobi-Kadachi	Se te acaba el tiempoTe has desmayado tres veces
+00361	Atrapado en la aguja	Caza un Barroth	Se te acaba el tiempoTe has desmayado tres veces
+00362	Problema acuático	Caza un Jyuratodus	Se te acaba el tiempoTe has desmayado tres veces
+00363	Un asunto espinoso	Entrega 20 cactus bola	Se te acaba el tiempoTe has desmayado tres veces
+00364	La yema del yermo	Entrega 2 huevos de herbívoros	Se te acaba el tiempoTe has desmayado tres veces
+00365	Avasalla al wyvern avasallador	Captura un Barroth	Se te acaba el tiempoTe has desmayado tres vecesEl Barroth ha muerto
+00401	Una para hacer historia	Completa el encargo	Se te acaba el tiempoTe has desmayado tres veces
+00405	¡A volar, Paolumu!	Caza un Paolumu	Se te acaba el tiempoTe has desmayado tres veces
+00407	Barricada Radobaan	Caza un Radobaan	Se te acaba el tiempoTe has desmayado tres veces
+00408	Legiana, el cazador elegante	Caza un Legiana	Se te acaba el tiempoTe has desmayado tres veces
+00431	Arena especial: Anjanath	Caza un Anjanath	Se te acaba el tiempoTe has desmayado tres veces
+00432	Arena especial: Rathian	Caza una Rathian	Se te acaba el tiempoTe has desmayado tres veces
+00433	Arena especial: Paolumu	Caza un Paolumu	Se te acaba el tiempoTe has desmayado tres veces
+00434	Arena especial: Radobaan	Caza un Radobaan	Se te acaba el tiempoTe has desmayado tres veces
+00451	Una sinusitis del demonio	Caza un Anjanath	Se te acaba el tiempoTe has desmayado tres veces
+00452	La yema del bosque	Entrega 2 huevos de wyvern	Se te acaba el tiempoTe has desmayado tres veces
+00461	Traslado real	Caza una Rathian	Se te acaba el tiempoTe has desmayado tres veces
+00471	Un Shamos ruidoso	Abate a 11 Shamos	Se te acaba el tiempoTe has desmayado tres veces
+00472	Un Tzitzi por la ciencia	Caza un Tzitzi-Ya-Ku	Se te acaba el tiempoTe has desmayado tres veces
+00473	Lo siento, no estás invitado	Caza un Paolumu	Se te acaba el tiempoTe has desmayado tres veces
+00474	Vaya panda de abulones	Entrega 10 superabulones	Se te acaba el tiempoTe has desmayado tres veces
+00475	Monstruo blanco para el bata blanca	Captura un Paolumu	Se te acaba el tiempoTe has desmayado tres vecesEl Paolumu ha muerto
+00481	Plagas persistentes	Abate a 14 Hornetaur	Se te acaba el tiempoTe has desmayado tres veces
+00482	Que acción más rastrera	Caza un Gran Girros	Se te acaba el tiempoTe has desmayado tres veces
+00483	Un hueso para picar	Caza un Radobaan	Se te acaba el tiempoTe has desmayado tres veces
+00484	En alas de la pesadilla	Abate a 5 Raphinos	Se te acaba el tiempoTe has desmayado tres veces
+00501	En las entrañas del Valle	Completa el encargo	Se te acaba el tiempoTe has desmayado tres veces
+00502	Trono ardiente sobre el bosque	Caza un Rathalos	Se te acaba el tiempoTe has desmayado tres veces
+00503	Tirano astado bajo la arena	Caza un Diablos	Se te acaba el tiempoTe has desmayado tres veces
+00504	Una tarea colosal	Completa el encargo	Se te acaba el tiempoTe has desmayado tres vecesNo has repelido a Zorah Magdaros
+00531	Arena especial: Legiana	Caza un Legiana	Se te acaba el tiempoTe has desmayado tres veces
+00532	Arena especial: Odogaron	Caza un Odogaron	Se te acaba el tiempoTe has desmayado tres veces
+00533	Arena especial: Rathalos	Caza un Rathalos	Se te acaba el tiempoTe has desmayado tres veces
+00534	Arena especial: Diablos	Caza un Diablos	Se te acaba el tiempoTe has desmayado tres veces
+00551	Cuando el deseo se hace obsesión	Caza un Rathalos	Se te acaba el tiempoTe has desmayado tres veces
+00552	La pareja poderosa	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+00561	Agujas gemelas en la arena	Caza un Diablos	Se te acaba el tiempoTe has desmayado tres veces
+00571	Una jaqueca húmeda	Caza un Legiana	Se te acaba el tiempoTe has desmayado tres veces
+00572	Visto y no visto	Abate a un Kirin	Se te acaba el tiempoTe has desmayado tres veces
+00581	Rascarse la picadura	Caza un Odogaron	Se te acaba el tiempoTe has desmayado tres veces
+00582	El mejor enemigo del hombre	Captura un Odogaron	Se te acaba el tiempoTe has desmayado tres vecesEl Odogaron ha muerto
+00583	El quid del chuletón	Entrega 2 masas de carne	Se te acaba el tiempoTe has desmayado tres veces
+00601	Invasor en el yermo	Caza un Pukei-Pukei	Se te acaba el tiempoTe has desmayado tres veces
+00605	Rosa feliz	Caza un Anjanath	Se te acaba el tiempoTe has desmayado tres veces
+00607	El Viejo Mundo en el Nuevo	Completa el encargo	Se te acaba el tiempoTe has desmayado tres veces
+00631	Arena especial: Pukei-Pukei RA	Caza un Pukei-Pukei	Se te acaba el tiempoTe has desmayado tres veces
+00632	Arena especial: Barroth RA	Caza un Barroth	Se te acaba el tiempoTe has desmayado tres veces
+00633	Arena especial: Tobi-Kadachi RA	Caza un Tobi-Kadachi	Se te acaba el tiempoTe has desmayado tres veces
+00634	Arena especial: Anjanath RA	Caza un Anjanath	Se te acaba el tiempoTe has desmayado tres veces
+00635	Arena especial: Rathian RA	Caza una Rathian	Se te acaba el tiempoTe has desmayado tres veces
+00636	Arena especial: Paolumu RA	Caza un Paolumu	Se te acaba el tiempoTe has desmayado tres veces
+00637	Arena especial: Radobaan RA	Caza un Radobaan	Se te acaba el tiempoTe has desmayado tres veces
+00641	Ha causado sensación	Repele a Zorah Magdaros	Se te acaba el tiempoTe has desmayado tres vecesNo has repelido a Zorah Magdaros
+00651	Difícil de tragar	Caza un Gran Jagras	Se te acaba el tiempoTe has desmayado tres veces
+00652	Monstruo de ojos saltones	Caza un Pukei-Pukei	Se te acaba el tiempoTe has desmayado tres veces
+00653	Los pelos de punta	Caza un Tobi-Kadachi	Se te acaba el tiempoTe has desmayado tres veces
+00654	No te verá si no te mueves	Caza un Anjanath	Se te acaba el tiempoTe has desmayado tres veces
+00655	La reina durmiente del bosque	Caza una Rathian	Se te acaba el tiempoTe has desmayado tres veces
+00656	Animal de costumbres	Captura un Tobi-Kadachi	Se te acaba el tiempoTe has desmayado tres vecesEl Tobi-Kadachi ha muerto
+00661	¡Las manos quietas!	Caza un Kulu-Ya-Ku	Se te acaba el tiempoTe has desmayado tres veces
+00662	Una corona de barro y odio	Caza un Barroth	Se te acaba el tiempoTe has desmayado tres veces
+00663	Emboscada Pukei-Pukei	Caza un Pukei-Pukei	Se te acaba el tiempoTe has desmayado tres veces
+00665	Embarrado en el yermo	Caza un Jyuratodus	Se te acaba el tiempoTe has desmayado tres veces
+00666	Desierto marrón, reina verde	Caza una Rathian	Se te acaba el tiempoTe has desmayado tres veces
+00667	Intruso travieso	Caza un Anjanath	Se te acaba el tiempoTe has desmayado tres veces
+00671	¡Pa-ta-ta!	Caza un Tzitzi-Ya-Ku	Se te acaba el tiempoTe has desmayado tres veces
+00672	A por el Paolumu	Caza un Paolumu	Se te acaba el tiempoTe has desmayado tres veces
+00681	Un sabor estremecedor	Caza un Gran Girros	Se te acaba el tiempoTe has desmayado tres veces
+00682	Misión rutinaria	Caza un Radobaan	Se te acaba el tiempoTe has desmayado tres veces
+00683	¡Misión del chef! A tope y cumpliendo	Entrega 4 fósiles olvidados	Se te acaba el tiempoTe has desmayado tres veces
+00684	¡Misión del chef! Solicitud putrefacta	Abate a 10 Girros	Se te acaba el tiempoTe has desmayado tres veces
+00691	Un maullido de ayuda	Abate a 13 Gastodon	Se te acaba el tiempoTe has desmayado tres veces
+00692	Una historia candente	Abate a 5 Barnos	Se te acaba el tiempoTe has desmayado tres veces
+00693	Drama Dodogama	Caza un Dodogama	Se te acaba el tiempoTe has desmayado tres veces
+00694	¡Misión del chef! Encierro de Gajalaka	Derrota 10 Gajalaka	Se te acaba el tiempoTe has desmayado tres veces
+00701	Una herida y un ansia	Abate a Nergigante	Se te acaba el tiempoTe has desmayado tres veces
+00731	Arena especial: Rathian Rosa RA	Caza una Rathian Rosa	Se te acaba el tiempoTe has desmayado tres veces
+00732	Arena especial: Legiana RA	Caza un Legiana	Se te acaba el tiempoTe has desmayado tres veces
+00733	Arena especial: Odogaron RA	Caza un Odogaron	Se te acaba el tiempoTe has desmayado tres veces
+00734	Arena especial: Uragaan RA	Caza un Uragaan	Se te acaba el tiempoTe has desmayado tres veces
+00735	Arena especial: Rathalos RA	Caza un Rathalos	Se te acaba el tiempoTe has desmayado tres veces
+00736	Arena especial: Rathalos Cel. RA	Caza un Rathalos Celeste	Se te acaba el tiempoTe has desmayado tres veces
+00737	Arena especial: Diablos RA	Caza un Diablos	Se te acaba el tiempoTe has desmayado tres veces
+00738	Arena especial: Diablos Negra RA	Caza una Diablos Negra	Se te acaba el tiempoTe has desmayado tres veces
+00751	Revancha Rathalos	Caza un Rathalos	Se te acaba el tiempoTe has desmayado tres veces
+00752	Apocalipsis Celeste	Caza un Rathalos Celeste	Se te acaba el tiempoTe has desmayado tres veces
+00753	El equipo rojo y azul	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+00761	La chica de rosa	Caza una Rathian Rosa	Se te acaba el tiempoTe has desmayado tres veces
+00762	¡Menudo Diablos!	Caza un Diablos	Se te acaba el tiempoTe has desmayado tres veces
+00763	Dos cuernos rebeldes	Caza una Diablos Negra	Se te acaba el tiempoTe has desmayado tres veces
+00764	¡Bronca en el yermo!	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+00771	La guinda en el arrecife	Caza una Rathian Rosa	Se te acaba el tiempoTe has desmayado tres veces
+00772	Legiana: la realeza del altiplano	Caza un Legiana	Se te acaba el tiempoTe has desmayado tres veces
+00773	Un lugar doloroso	Caza un Odogaron	Se te acaba el tiempoTe has desmayado tres veces
+00774	Garras de hielo y rabia	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+00781	Odogaron desatado	Caza un Odogaron	Se te acaba el tiempoTe has desmayado tres veces
+00791	Lavasioth, el monstruo de magma	Caza un Lavasioth	Se te acaba el tiempoTe has desmayado tres veces
+00792	Atracón de minerales	Caza un Uragaan	Se te acaba el tiempoTe has desmayado tres veces
+00793	Rey del cielo azul	Caza un Rathalos Celeste	Se te acaba el tiempoTe has desmayado tres veces
+00794	Bazelgeuse en el campo de fuego	Caza un Bazelgeuse	Se te acaba el tiempoTe has desmayado tres veces
+00795	Choque ígneo	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+00801	Kushala Daora, dragón de acero	Abate a Kushala Daora	Se te acaba el tiempoTe has desmayado tres veces
+00802	El infernal Teostra	Abate a Teostra	Se te acaba el tiempoTe has desmayado tres veces
+00803	Vaal Hazak, monstruo infernal	Abate a Vaal Hazak	Se te acaba el tiempoTe has desmayado tres veces
+00804	Tierra de convergencia	Completa el encargo	Se te acaba el tiempoTe has desmayado tres veces
+00805	Escamas explosivas	Caza dos Bazelgeuse	Se te acaba el tiempoTe has desmayado tres veces
+00806	Bronca tronada en el altiplano	Abate a un Kirin	Se te acaba el tiempoTe has desmayado tres veces
+00851	Un desastre portentoso	Abate a un Kushala Daora	Se te acaba el tiempoTe has desmayado tres veces
+00861	Fuego en la arena	Abate a un Teostra	Se te acaba el tiempoTe has desmayado tres veces
+00871	El rayo sí golpea dos veces	Abate a un Kirin	Se te acaba el tiempoTe has desmayado tres veces
+00881	Agitación de ultratumba	Abate a un Vaal Hazak	Se te acaba el tiempoTe has desmayado tres veces
+00891	El devorador de ancianos	Abate a Nergigante	Se te acaba el tiempoTe has desmayado tres veces
+00892	Amo del viento	Abate a un Kushala Daora	Se te acaba el tiempoTe has desmayado tres veces
+00893	Fortaleza de fuego	Abate a un Teostra	Se te acaba el tiempoTe has desmayado tres veces
+00894	El devorador de ancianos	Abate a Nergigante	Se te acaba el tiempoTe has desmayado tres veces
+00895	Los violentos vientos de la ira	Abate a un Kushala Daora	Se te acaba el tiempoTe has desmayado tres veces
+00896	El violento fuego del infierno	Abate a un Teostra	Se te acaba el tiempoTe has desmayado tres veces
+00961	Escamas explosivas	Caza 2 Bazelgeuse	Se te acaba el tiempoTe has desmayado tres veces
+00971	Bronca tronada en el altiplano	Abate a un Kirin	Se te acaba el tiempoTe has desmayado tres veces
+00991	Luz sobre la pesadumbre del río	Abate a Xeno'jiiva	Se te acaba el tiempoTe has desmayado tres veces
+00992	Vientos blancos del Nuevo Mundo	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+00995	La guía de la Estrella Azul	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+00996	El bueno, el feo y el barro	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+00997	Cielo y flor del Nuevo Mundo	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+00998	La llamada de las profundidades	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+01101	Bautismo de hielo	Caza un Beotodus	Se te acaba el tiempoTe has desmayado tres veces
+01102	Barricada Banbaro	Caza un Banbaro	Se te acaba el tiempoTe has desmayado tres veces
+01121	Buceador de nieve profunda	Caza un Beotodus	Se te acaba el tiempoTe has desmayado tres veces
+01122	A la carga	Caza un Banbaro	Se te acaba el tiempoTe has desmayado tres veces
+01123	¡Captura de hielo!	Captura un Beotodus	Se te acaba el tiempoTe has desmayado tres vecesEl Beotodus ha muerto
+01124	La llamada de lo salvaje	Abate a 10 Wulg	Se te acaba el tiempoTe has desmayado tres veces
+01125	Saludos desde el ártico	Entrega 20 petasites jóvenes	Se te acaba el tiempoTe has desmayado tres veces
+01131	Arena especial: Pukei-Pukei RM	Caza un Pukei-Pukei	Se te acaba el tiempoTe has desmayado tres veces
+01132	Arena especial: Barroth RM	Caza un Barroth	Se te acaba el tiempoTe has desmayado tres veces
+01133	Arena especial: Tobi-Kadachi RM	Caza un Tobi-Kadachi	Se te acaba el tiempoTe has desmayado tres veces
+01134	Arena especial: Banbaro RM	Caza un Banbaro	Se te acaba el tiempoTe has desmayado tres veces
+01151	¡El retorno del Gran Jagras!	Caza un Gran Jagras	Se te acaba el tiempoTe has desmayado tres veces
+01152	Problemas del Nuevo Mundo	Caza un Pukei-Pukei	Se te acaba el tiempoTe has desmayado tres veces
+01153	Yéndose por las ramas	Caza un Tobi-Kadachi	Se te acaba el tiempoTe has desmayado tres veces
+01154	Ladrón literario	Caza un Kulu-Ya-Ku	Se te acaba el tiempoTe has desmayado tres veces
+01155	El sabor del terror de los árboles	Captura un Banbaro	Se te acaba el tiempoTe has desmayado tres vecesEl Banbaro ha muerto
+01161	Caza del tesoro del yermo	Caza un Kulu-Ya-Ku	Se te acaba el tiempoTe has desmayado tres veces
+01162	Yo haré el trabajo sucio	Caza un Barroth	Se te acaba el tiempoTe has desmayado tres veces
+01163	Jyura que me ayudarás	Caza un Jyuratodus	Se te acaba el tiempoTe has desmayado tres veces
+01164	El recorrido del degustador	Caza un Pukei-Pukei	Se te acaba el tiempoTe has desmayado tres veces
+01171	Un destello de cordura	Caza un Tzitzi-Ya-Ku	Se te acaba el tiempoTe has desmayado tres veces
+01181	Los Girros de la vida	Caza un Gran Girros	Se te acaba el tiempoTe has desmayado tres veces
+01191	Peluche de piedra	Caza un Dodogama	Se te acaba el tiempoTe has desmayado tres veces
+01192	¡Aquí se llevan los cuernos gordos!	Caza un Banbaro	Se te acaba el tiempoTe has desmayado tres veces
+01201	Listo para atacar	Caza un Tobi-Kadachi Vípero	Se te acaba el tiempoTe has desmayado tres veces
+01202	No hay tiempo para siestas	Caza un Paolumu Somnus	Se te acaba el tiempoTe has desmayado tres veces
+01203	Enfrentar a los extremos	Caza un Pukei-Pukei Coralino	Se te acaba el tiempoTe has desmayado tres veces
+01221	El análisis crea parálisis	Caza un Tobi-Kadachi Vípero	Se te acaba el tiempoTe has desmayado tres veces
+01222	Punzada de parálisis y veneno	Captura un Tobi-Kadachi Vípero	Se te acaba el tiempoTe has desmayado tres vecesEl Tobi-Kadachi Vípero ha muerto
+01223	Boaboa constrictora	Derrota a 14 Boaboa	Se te acaba el tiempoTe has desmayado tres veces
+01224	Con nuestro poder combinado	Caza un Beotodus	Se te acaba el tiempoTe has desmayado tres veces
+01225	Rascadnos la espalda...	Caza un Beotodus	Se te acaba el tiempoTe has desmayado tres veces
+01231	Arena especial: Anjanath RM	Caza un Anjanath	Se te acaba el tiempoTe has desmayado tres veces
+01232	Arena especial: Radobaan RM	Caza un Radobaan	Se te acaba el tiempoTe has desmayado tres veces
+01233	Arena especial: Pukei-Pukei Coralino RM	Caza un Pukei-Pukei Coralino	Se te acaba el tiempoTe has desmayado tres veces
+01234	Arena especial: Tobi-Kadachi Vípero RM	Caza un Tobi-Kadachi Vípero	Se te acaba el tiempoTe has desmayado tres veces
+01235	Arena especial: Rathian RM	Caza una Rathian	Se te acaba el tiempoTe has desmayado tres veces
+01236	Arena especial: Rathian Rosa RM	Caza una Rathian Rosa	Se te acaba el tiempoTe has desmayado tres veces
+01237	Arena especial: Paolumu RM	Caza un Paolumu	Se te acaba el tiempoTe has desmayado tres veces
+01238	Arena especial: Paolumu Somnus RM	Caza un Paolumu Somnus	Se te acaba el tiempoTe has desmayado tres veces
+01251	No es lugar para babosos	Caza un Anjanath	Se te acaba el tiempoTe has desmayado tres veces
+01252	Romeo y Rathieta	Caza una Rathian	Se te acaba el tiempoTe has desmayado tres veces
+01253	Somnus nocturno de la noche	Captura un Paolumu Somnus	Se te acaba el tiempoTe has desmayado tres vecesEl Paolumu Somnus ha muerto
+01261	El reposo de una reina	Caza una Rathian	Se te acaba el tiempoTe has desmayado tres veces
+01262	El rostro de las pesadillas	Caza un Paolumu Somnus	Se te acaba el tiempoTe has desmayado tres veces
+01263	Métete en tus asuntos	Caza un Anjanath	Se te acaba el tiempoTe has desmayado tres veces
+01264	Reinas de la quintaesencia	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+01271	¡Vuela, Paolumu, vuela!	Caza un Paolumu	Se te acaba el tiempoTe has desmayado tres veces
+01272	Delirios de grandeza	Caza una Rathian Rosa	Se te acaba el tiempoTe has desmayado tres veces
+01273	Consejo: no olvides hidratarte	Caza un Pukei-Pukei Coralino	Se te acaba el tiempoTe has desmayado tres veces
+01274	Bebe con moderación	Caza un Pukei-Pukei Coralino	Se te acaba el tiempoTe has desmayado tres veces
+01281	Radobaan empapelado	Caza un Radobaan	Se te acaba el tiempoTe has desmayado tres veces
+01282	¡Me largo!	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+01291	En busca del fulgor primitivo	Entrega 20 ámbares de Gaia	Se te acaba el tiempoTe has desmayado tres veces
+01301	Ventisca tormentosa	Caza un Barioth	Se te acaba el tiempoTe has desmayado tres veces
+01302	Sombra omnipresente	Caza un Nargacuga	Se te acaba el tiempoTe has desmayado tres veces
+01303	La hoja abrasadora	Caza un Glavenus	Se te acaba el tiempoTe has desmayado tres veces
+01304	Poder absoluto	Caza un Tigrex	Se te acaba el tiempoTe has desmayado tres veces
+01305	Contraataque cruzado aplastante	Caza un Brachydios	Se te acaba el tiempoTe has desmayado tres veces
+01306	Una leyenda de hielo y fuego	Repele a Velkhana	Se te acaba el tiempoTe has desmayado tres veces
+01321	¿Recuerdas aquella vez?	Caza un Barioth	Se te acaba el tiempoTe has desmayado tres veces
+01322	El hogar ideal: piedra	Captura un Tigrex	Se te acaba el tiempoTe has desmayado tres vecesEl Tigrex ha muerto
+01323	Orgulloso caballero blanco	Caza un Barioth	Se te acaba el tiempoTe has desmayado tres veces
+01331	Arena especial: Legiana RM	Caza un Legiana	Se te acaba el tiempoTe has desmayado tres veces
+01332	Arena especial: Odogaron RM	Caza un Odogaron	Se te acaba el tiempoTe has desmayado tres veces
+01333	Arena especial: Uragaan RM	Caza un Uragaan	Se te acaba el tiempoTe has desmayado tres veces
+01334	Arena especial: Rathalos RM	Caza un Rathalos	Se te acaba el tiempoTe has desmayado tres veces
+01335	Arena especial: Diablos RM	Caza un Diablos	Se te acaba el tiempoTe has desmayado tres veces
+01336	Arena especial: Barioth RM	Caza un Barioth	Se te acaba el tiempoTe has desmayado tres veces
+01337	Arena especial: Nargacuga RM	Caza un Nargacuga	Se te acaba el tiempoTe has desmayado tres veces
+01338	Arena especial: Glavenus RM	Caza un Glavenus	Se te acaba el tiempoTe has desmayado tres veces
+01339	Arena especial: Brachydios RM	Caza un Brachydios	Se te acaba el tiempoTe has desmayado tres veces
+01340	Arena especial: Tigrex RM	Caza un Tigrex	Se te acaba el tiempoTe has desmayado tres veces
+01351	Tengamos la fiesta en paz	Caza un Rathalos	Se te acaba el tiempoTe has desmayado tres veces
+01352	Wyvern del viento	Caza un Nargacuga	Se te acaba el tiempoTe has desmayado tres veces
+01353	El secreto para una buena rebanada	Caza un Glavenus	Se te acaba el tiempoTe has desmayado tres veces
+01354	Ases rojo y negro	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+01361	Amigo de los cactus	Caza un Diablos	Se te acaba el tiempoTe has desmayado tres veces
+01362	El brillo de la espada	Caza un Glavenus	Se te acaba el tiempoTe has desmayado tres veces
+01363	¡Hervir y cortar!	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+01371	El último de los Legiana	Caza un Legiana	Se te acaba el tiempoTe has desmayado tres veces
+01372	El viento negro	Caza un Nargacuga	Se te acaba el tiempoTe has desmayado tres veces
+01373	La hora de la calamidad	Caza un Odogaron	Se te acaba el tiempoTe has desmayado tres veces
+01381	Esa cecina es cosa fina	Caza un Odogaron	Se te acaba el tiempoTe has desmayado tres veces
+01382	Un rugido que sacude el valle	Caza un Tigrex	Se te acaba el tiempoTe has desmayado tres veces
+01383	Una gran carrera explosiva	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+01391	¡Alerta de explosión!	Caza un Brachydios	Se te acaba el tiempoTe has desmayado tres veces
+01392	Cualquiera puede ser crítico	Caza un Lavasioth	Se te acaba el tiempoTe has desmayado tres veces
+01393	Aprender a golpes	Caza un Uragaan	Se te acaba el tiempoTe has desmayado tres veces
+01394	El secreto está en la baba	Captura un Brachydios	Se te acaba el tiempoTe has desmayado tres vecesEl Brachydios ha muerto
+01395	Choque de apisonadoras	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+01401	Un velo de bruma cenicienta	Caza un Legiana Aullador	Se te acaba el tiempoTe has desmayado tres veces
+01402	La hoja desintegradora	Caza un Glavenus Acídico	Se te acaba el tiempoTe has desmayado tres veces
+01403	Malos amigos, grandes enemigos	Caza un Odogaron Ébano	Se te acaba el tiempoTe has desmayado tres veces
+01404	La defensa de Seliana	Completa el encargo	Se te acaba el tiempoTe has desmayado tres vecesNo has podido defender Seliana
+01405	El buscabroncas atronador	Caza un Anjanath Fulgúreo	Se te acaba el tiempoTe has desmayado tres veces
+01421	Cazador de escarcha noble	Caza un Legiana Aullador	Se te acaba el tiempoTe has desmayado tres veces
+01422	Buscabroncas del ártico	Caza un Anjanath Fulgúreo	Se te acaba el tiempoTe has desmayado tres veces
+01423	Dos son mejor que uno	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+01424	Tesoro en el vapor	Entrega 2 geiseritas	Se te acaba el tiempoTe has desmayado tres veces
+01431	Arena especial: Rathalos Celeste RM	Caza un Rathalos Celeste	Se te acaba el tiempoTe has desmayado tres veces
+01432	Arena especial: Diablos Negra RM	Caza una Diablos Negra	Se te acaba el tiempoTe has desmayado tres veces
+01433	Arena especial: Glavenus Acídico RM	Caza un Glavenus Acídico	Se te acaba el tiempoTe has desmayado tres veces
+01434	Arena especial: Odogaron Ébano RM	Caza un Odogaron Ébano	Se te acaba el tiempoTe has desmayado tres veces
+01435	Arena especial: Anjanath Fulgúreo RM	Caza un Anjanath Fulgúreo	Se te acaba el tiempoTe has desmayado tres veces
+01451	Esos ojos celestes que todo lo ven	Caza un Rathalos Celeste	Se te acaba el tiempoTe has desmayado tres veces
+01452	Infortunio en el bosque	Caza un Odogaron Ébano	Se te acaba el tiempoTe has desmayado tres veces
+01461	En el ardor del momento	Caza una Diablos Negra	Se te acaba el tiempoTe has desmayado tres veces
+01462	Oscuridad inquietante	Caza una Diablos Negra	Se te acaba el tiempoTe has desmayado tres veces
+01471	Criminal de las sombras	Caza un Odogaron Ébano	Se te acaba el tiempoTe has desmayado tres veces
+01481	Esta hoja corroída	Caza un Glavenus Acídico	Se te acaba el tiempoTe has desmayado tres veces
+01482	El hogar ideal: metal claro	Captura un Glavenus Acídico	Se te acaba el tiempoTe has desmayado tres vecesEl Glavenus Acídico ha muerto
+01483	El hogar ideal: metal oscuro	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+01491	El retorno del Rathalos Celeste	Caza un Rathalos Celeste	Se te acaba el tiempoTe has desmayado tres veces
+01492	A por la mandíbula de trueno	Captura un Anjanath Fulgúreo	Se te acaba el tiempoTe has desmayado tres vecesEl Anjanath Fulgúreo ha muerto
+01501	El dragón de hielo	Abate a un Velkhana	Se te acaba el tiempoTe has desmayado tres veces
+01502	La segunda aparición	Caza un Bazelgeuse Magma	Se te acaba el tiempoTe has desmayado tres veces
+01503	Bajo el velo de la muerte	Abate a un Vaal Hazak Espóreo	Se te acaba el tiempoTe has desmayado tres veces
+01504	Una luz desde el abismo	Abate a un Namielle	Se te acaba el tiempoTe has desmayado tres veces
+01521	Choque de espadas en la escarcha	Abate a un Velkhana	Se te acaba el tiempoTe has desmayado tres veces
+01551	El heraldo del cielo despejado	Abate a un Kushala Daora	Se te acaba el tiempoTe has desmayado tres veces
+01552	Aquí viene el verdugo	Abate a un Vaal Hazak Espóreo	Se te acaba el tiempoTe has desmayado tres veces
+01561	Audiencia real en la arena	Abate a un Teostra	Se te acaba el tiempoTe has desmayado tres veces
+01562	El banquete del tirano	Caza un Deviljho Salvaje	Se te acaba el tiempoTe has desmayado tres veces
+01571	Impacto de rayos	Abate a un Kirin	Se te acaba el tiempoTe has desmayado tres veces
+01572	Recuerdos del dios marino	Abate a un Namielle	Se te acaba el tiempoTe has desmayado tres veces
+01581	Vida después de la muerte	Abate a un Vaal Hazak Espóreo	Se te acaba el tiempoTe has desmayado tres veces
+01591	Las alas del viento	Abate a un Kushala Daora	Se te acaba el tiempoTe has desmayado tres veces
+01592	La marca del sol	Abate a un Teostra	Se te acaba el tiempoTe has desmayado tres veces
+01593	Le hierve la sangre	Caza un Bazelgeuse Magma	Se te acaba el tiempoTe has desmayado tres veces
+01594	El hogar ideal: plata	Captura un Bazelgeuse Magma	Se te acaba el tiempoTe has desmayado tres vecesEl Bazelgeuse Magma ha muerto
+01601	A los guiados, un himno	Completa el encargo	Se te acaba el tiempoTe has desmayado tres veces
+01602	Himno guía	Completa el encargo	Se te acaba el tiempoTe has desmayado tres veces
+01603	Duerme ahora en el fuego	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+01604	Un golpe contundente	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+01605	Hasta el final contigo	Abate a un Nergigante Regio	Se te acaba el tiempoTe has desmayado tres veces
+01606	El regreso del loco	Caza un Yian Garuga	Se te acaba el tiempoTe has desmayado tres veces
+01631	Aquí mandamos nosotros	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+01632	Arena especial: Zinogre RM	Caza un Zinogre	Se te acaba el tiempoTe has desmayado tres veces
+01633	Arena especial: Yian Garuga RM	Caza un Yian Garuga	Se te acaba el tiempoTe has desmayado tres veces
+01634	Arena especial: Tigrex Pardo RM	Caza un Tigrex Pardo	Se te acaba el tiempoTe has desmayado tres veces
+01635	Arena especial: Rathian Dorada RM	Caza una Rathian Dorada	Se te acaba el tiempoTe has desmayado tres veces
+01636	Arena especial: Rathalos Plateado RM	Caza un Rathalos Plateado	Se te acaba el tiempoTe has desmayado tres veces
+01641	Me piro, vampiro	Abate a un Shara Ishvalda	Se te acaba el tiempoTe has desmayado tres veces
+01642	Himno del sol y la luna	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+01651	La tormenta de lo inesperado	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+01661	Una noche calurosa en el yermo	Abate a una Lunastra	Se te acaba el tiempoTe has desmayado tres veces
+01671	Auge divino	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+01691	En el palacio de llamas	Abate a una Lunastra	Se te acaba el tiempoTe has desmayado tres veces
+01692	Cazador legendario del Nuevo Mundo	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+03001	Misión de la Arena 02	Abate un Kulu-Ya-Ku	Se te acaba el tiempoTe has desmayado nueve veces
+03002	Misión de la Arena 03	Abate una Rathian	Se te acaba el tiempoTe has desmayado nueve veces
+03031	Misión de la Arena 04	Abate un Tzitzi-Ya-Ku	Se te acaba el tiempoTe has desmayado nueve veces
+03032	Misión de la Arena 05	Abate un Barroth	Se te acaba el tiempoTe has desmayado nueve veces
+03033	Misión de la Arena 06	Abate un Dodogama	Se te acaba el tiempoTe has desmayado nueve veces
+03034	Misión de la Arena 07	Abate un Rathalos Celeste	Se te acaba el tiempoTe has desmayado nueve veces
+03051	Misión de la Arena 08	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
+03052	Misión de la Arena 09	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
+03071	Misión de maestro de la Arena 02	Abate a un Paolumu Somnus	Se te acaba el tiempoTe has desmayado nueve veces
+03072	Misión de maestro de la Arena 03	Abate a un Nargacuga	Se te acaba el tiempoTe has desmayado nueve veces
+03073	Misión de maestro de la Arena 04	Abate a un Glavenus Acídico	Se te acaba el tiempoTe has desmayado nueve veces
+03074	Misión de maestro de la Arena 05	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
+03091	Misión de maestro de la Arena 06	Abate a un Zinogre	Se te acaba el tiempoTe has desmayado nueve veces
+03092	Misión de maestro de la Arena 07	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
+03101	Misión de la Arena 01	Abate un Pukei-Pukei	Se te acaba el tiempoTe has desmayado nueve veces
+03171	Misión de maestro de la Arena 01	Abate a un Banbaro	Se te acaba el tiempoTe has desmayado nueve veces
+05003	Trovadores en apuros	Caza 2 Tzitzi-Ya-Ku	Se te acaba el tiempoTe has desmayado tres veces
+0	Invalid Message	Invalid Message	Invalid Message
+30000	Unavailable	Unavailable	Unavailable
+30001	Unavailable	Unavailable	Unavailable
+30002	Unavailable	Unavailable	Unavailable
+30003	Unavailable	Unavailable	Unavailable
+30004	Unavailable	Unavailable	Unavailable
+30005	Unavailable	Unavailable	Unavailable
+30006	Unavailable	Unavailable	Unavailable
+30007	Unavailable	Unavailable	Unavailable
+30008	Unavailable	Unavailable	Unavailable
+30009	Unavailable	Unavailable	Unavailable
+50601	Visitante de otro mundo	Completa el encargo	Se te acaba el tiempoTe has desmayado tres veces
+50701	El rey de la cadena alimenticia	Caza un Deviljho	Se te acaba el tiempoTe has desmayado tres veces
+50702	Invalid Message	Invalid Message	Invalid Message
+50751	Menú del día: cazador a la brasa	Caza un Deviljho	Se te acaba el tiempoTe has desmayado tres veces
+50801	El sol abrasador	Abate a Teostra	Se te acaba el tiempoTe has desmayado tres veces
+50802	Arena de Pandora	Completa el encargo	Se te acaba el tiempoTe has desmayado tres veces
+50803	Sin rendirse, sin piedad	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+50831	Unavailable	Unavailable	Unavailable
+50861	Monarquía infernal	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+50891	Prominencia azul	Abate a Lunastra	Se te acaba el tiempoTe has desmayado tres veces
+50892	Prominencia azul	Abate a la Lunastra	Se te acaba el tiempoTe has desmayado tres veces
+50901	Banquete en el salón de tierra	Repele a Kulve Taroth	Se te acaba el tiempoTe has desmayado tres veces
+50902	La furia de El Dorado	Repele a Kulve Taroth	Se te acaba el tiempoTe has desmayado tres veces
+50905	La bestia legendaria	Completa el encargo	Se te acaba el tiempoTe has desmayado nueve veces
+50906	Contraataque a la bestia	Abate al Bégimo	Se te acaba el tiempoTe has desmayado tres veces
+50910	Contrato: misterio en el Bosque Primigenio	Completa el encargo	Se te acaba el tiempoTe has desmayado tres veces
+50991	Un visitante de Eorzea	Abate al Bégimo	Se te acaba el tiempoTe has desmayado tres veces
+50992	Invalid Message	Invalid Message	Invalid Message
+51601	Revela tu aspecto, destructor	Completa el encargo	Se te acaba el tiempoTe has desmayado tres veces
+51602	Orgullo inquebrantable	Abate a un Kirin	Se te acaba el tiempoTe has desmayado tres veces
+51603	Al otro lado del camino perdido	Completa el encargo	Se te acaba el tiempoTe has desmayado tres veces
+51604	Punto sin retorno	Completa el encargo	Se te acaba el tiempoTe has desmayado tres veces
+51605	El dragón rojo	Abate a Safi'jiiva	Se te acaba el tiempoTe has desmayado tres veces
+51606	Mi rabia es para todos	Abate a un Brachydios Colérico	Se te acaba el tiempoTe has desmayado tres veces
+51607	La furia permanece	Caza un Rajang Rabioso	Se te acaba el tiempoTe has desmayado tres veces
+51611	Unavailable	Unavailable	Unavailable
+51612	Unavailable	Unavailable	Unavailable
+51621	Arena especial: Zinogre Estigio RM	Caza un Zinogre Estigio	Se te acaba el tiempoTe has desmayado tres veces
+51622	Clamor en tiempos de cólera	Abate a un Brachydios Colérico	Se te acaba el tiempoTe has desmayado tres veces
+51623	Para esta rabia no hay vacuna	Caza un Rajang Rabioso	Se te acaba el tiempoTe has desmayado tres veces
+51624	Unavailable	Unavailable	Unavailable
+51625	Unavailable	Unavailable	Unavailable
+61101	En pie al alba	Abate 12 Kestodon	Se te acaba el tiempoTe has desmayado tres veces
+61103	Donde se encuentran sol y luna	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+61104	Buscabroncas del bosque	Cada 2 Anjanath	Se te acaba el tiempoTe has desmayado tres veces
+61105	El sueño de todo cazador	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+61601	Caos a medianoche	Abate 10 Gastodon	Se te acaba el tiempoTe has desmayado tres veces
+61603	Un dos de reinas	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+61604	Un rey no teme a nada	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+61605	Da tocino al musgorrino	Abate a 5 musgorrinos	Se te acaba el tiempoTe has desmayado nueve veces
+61606	El mayor de los Gran Jagras	Caza un Gran Jagras	Se te acaba el tiempoTe has desmayado tres veces
+61607	¡Se llama Lavasioth!	Caza un Lavasioth	Se te acaba el tiempoTe has desmayado tres veces
+61801	Al saco con el macaco	Entrega 6 macacos termargénteos	Se te acaba el tiempoTe has desmayado tres veces
+61802	El sueño de todo cazador III	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+61803	El sueño de todo cazador II	Captura un Pukei-Pukei Coralino	Se te acaba el tiempoTe has desmayado tres vecesEl Pukei-Pukei Coralino ha muerto
+61805	Labores lanudas	Entrega 8 pingüinos lanudos	Se te acaba el tiempoTe has desmayado tres veces
+61806	Minerales a raudales	Caza un Brachydios	Se te acaba el tiempoTe has desmayado tres veces
+61807	Una entrada escalofriante	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+61808	Menudo mono mazado	Caza 2 Rajang	Se te acaba el tiempoTe has desmayado tres veces
+61809	Canción de cuna a lo Paolumu	Caza un Paolumu Somnus	Se te acaba el tiempoTe has desmayado nueve veces
+61811	Fría flora	Entrega 10 flores de hielo	Se te acaba el tiempoTe has desmayado tres veces
+61812	Toda la carne en el asador	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+61813	50 sombras de blanco	Caza un Barioth	Se te acaba el tiempoTe has desmayado tres veces
+61814	Mal rayo les parta	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+62502	Cortina silenciosa y mortal	Abate a Vaal Hazak	Se te acaba el tiempoTe has desmayado tres veces
+62503	El susurro de una blanca crin	Abate al Kirin	Se te acaba el tiempoTe has desmayado tres veces
+62504	Aspirante al sol	Abate a Teostra	Se te acaba el tiempoTe has desmayado tres veces
+62505	El ojo de la tormenta	Abate a Kushala Daora	Se te acaba el tiempoTe has desmayado tres veces
+62506	El llanto de los destructores	Abate a Nergigante	Se te acaba el tiempoTe has desmayado tres veces
+62511	Pasión roja hecha polvo azul	Abate a la Lunastra	Se te acaba el tiempoTe has desmayado tres veces
+62515	Repartiendo pepinazos	Caza un Deviljho	Se te acaba el tiempoTe has desmayado tres veces
+62606	Atardecer eterno	Repele a Zorah Magdaros	Se te acaba el tiempoTe has desmayado tres vecesNo has repelido a Zorah Magdaros
+62607	Como polilla hacia la luz	Abate a Xeno'jiiva	Se te acaba el tiempoTe has desmayado tres veces
+62608	Observando el alba	Repele a Zorah Magdaros	Se te acaba el tiempoTe has desmayado tres vecesNo has repelido a Zorah Magdaros
+62609	Guardián del ultramundo	Abate a Xeno'jiiva	Se te acaba el tiempoTe has desmayado tres veces
+63001	Misión desafío 1: principiante	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
+63002	Misión desafío 2: principiante	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
+63003	¡Infestación Vespoid!	Abate a 30 Vespoid	Se te acaba el tiempoTe has desmayado nueve veces
+63004	Un camino largo y enfangado	Abate un Barroth	Se te acaba el tiempoTe has desmayado nueve veces
+63005	¡Desafío para principiantes de USJ!	Abate un Kulu-Ya-Ku	Se te acaba el tiempoTe has desmayado nueve veces
+63006	¡Desafío para expertos de USJ!	Abate una Rathian	Se te acaba el tiempoTe has desmayado nueve veces
+63007	¡Desafío para principiantes de USJ!	Abate un Tzitzi-Ya-Ku	Se te acaba el tiempoTe has desmayado nueve veces
+63008	¡Desafío para expertos de USJ!	Abate un Rathalos	Se te acaba el tiempoTe has desmayado nueve veces
+63009	Un camino largo y enfangado	Abate un Barroth	Se te acaba el tiempoTe has desmayado nueve veces
+63031	Misión desafío 1: intermedio	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
+63032	Misión desafío 2: intermedio	Abate 2 Odogaron	Se te acaba el tiempoTe has desmayado nueve veces
+63033	¡Crisis Gajalaka!	Vence a 10 Gajalaka	Se te acaba el tiempoTe has desmayado nueve veces
+63034	El despertar del Satsui No Hado I	Abate a Nergigante	Se te acaba el tiempoTe has desmayado nueve veces
+63035	El despertar del Satsui No Hado II	Abate a Nergigante	Se te acaba el tiempoTe has desmayado nueve veces
+63036	El despertar del Satsui No Hado III	Abate a Nergigante	Se te acaba el tiempoTe has desmayado nueve veces
+63037	Emperatriz en flor I	Abate a la Rathian Rosa	Se te acaba el tiempoTe has desmayado nueve veces
+63038	Emperatriz en flor II	Abate a la Rathian Rosa	Se te acaba el tiempoTe has desmayado nueve veces
+63039	Emperatriz en flor III	Abate a la Rathian Rosa	Se te acaba el tiempoTe has desmayado nueve veces
+63051	Misión desafío 1: experto	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
+63052	Misión desafío 2: experto	Abate a Nergigante	Se te acaba el tiempoTe has desmayado nueve veces
+63071	Misión desafío 1: RM intermedio	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
+63072	Misión desafío 2: RM intermedio	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
+63073	Misión desafío 1: RM experto	Abate un Yian Garuga	Se te acaba el tiempoTe has desmayado nueve veces
+63074	Misión desafío 2: RM experto	Abate un Deviljho Salvaje	Se te acaba el tiempoTe has desmayado nueve veces
+63101	Evento: batida de Nergigante 1	Abate a Nergigante	Se te acaba el tiempoTe has desmayado nueve veces
+63102	Evento: batida de Nergigante 2	Abate a Nergigante	Se te acaba el tiempoTe has desmayado nueve veces
+63103	Evento: batida de Nergigante 3	Abate a Nergigante	Se te acaba el tiempoTe has desmayado nueve veces
+63104	Evento: batida viento y colmillos 1	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
+63105	Evento: batida viento y colmillos 2	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
+63106	Evento: batida viento y colmillos 3	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
+63107	Evento: batida de Nergigante 4	Abate a Nergigante	Se te acaba el tiempoTe has desmayado nueve veces
+63108	Evento: batida de Deviljho	Abate a un Deviljho	Se te acaba el tiempoTe has desmayado nueve veces
+63109	Por encima de todos	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
+63110	Acechando en el bosque	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
+63130	En la ley y en la guerra	Abate un Bazelgeuse	Se te acaba el tiempoTe has desmayado nueve veces
+63131	La caza de la emperatriz azul	Abate una Lunastra	Se te acaba el tiempoTe has desmayado nueve veces
+63142	Despedida helada	Abate a Velkhana	Se te acaba el tiempoTe has desmayado nueve veces
+64101	Lucha territorial en el yermo	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+64601	Deja hecho un flan al Uragaan	Caza 2 Uragaan	Se te acaba el tiempoTe has desmayado tres veces
+64801	Batalla de globos	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+64802	El típico brasas	Caza un Bazelgeuse Magma	Se te acaba el tiempoTe has desmayado tres veces
+65601	Cosiendo a los Shamos	Caza 13 Shamos	Se te acaba el tiempoTe has desmayado tres veces
+65602	Veamos la luz	Caza 3 Tzitzi-Ya-Ku	Se te acaba el tiempoTe has desmayado tres veces
+65603	¡Amantes de los huevos, uníos!	Caza un Kulu-Ya-Ku	Se te acaba el tiempoTe has desmayado tres veces
+65604	Agárrame a esas gorgasias	Entrega 10 gorgasias	Se te acaba el tiempoTe has desmayado tres veces
+65605	Trío desafío	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+65606	Un trabajo fácil	Entrega 10 sombreros de seta gourmet	Se te acaba el tiempoTe has desmayado tres veces
+65607	Seguimiento de la entrega	Entrega 10 berilios azules	Se te acaba el tiempoTe has desmayado tres veces
+66101	El doble de voraz	Caza 2 Gran Jagras	Se te acaba el tiempoTe has desmayado tres veces
+66102	Cazadores cazados	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66103	Procesado de residuos	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66104	Este Kirin me supera	Abate 2 Kirin	Se te acaba el tiempoTe has desmayado tres veces
+66105	Venenoso o no, ¿qué será?	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66106	Un saludo a los glotones	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66601	Jaleo en el bosque	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66602	Bronca en el yermo	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66603	Trifulca en el coral	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66604	Sinfonía de efluvios	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66605	Descanso del Rock n' Roll	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66606	Así empieza una revuelta	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66607	Nieve y cerezos	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66608	Ojo por nariz	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66609	No hay perdón para los usurpadores	Caza al Bazelgeuse	Se te acaba el tiempoTe has desmayado tres veces
+66610	Destronamiento	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66801	Con la no comida sí se juega	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66802	Vicio subterráneo	Entrega 20 frutos subterráneos	Se te acaba el tiempoTe has desmayado tres veces
+66803	Banbaro en el banbarro	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66804	Comida a domicilio	Entrega 20 duríperos	Se te acaba el tiempoTe has desmayado tres veces
+66805	El nuevo buscabroncas	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66806	Feria de colores	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66807	Cazador machacador	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66808	Cielo y mar en llamas	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66809	Curiosidad explosiva	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66810	Empapada y tiritando	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66811	Soñando con un par	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66812	Travesía por el desierto	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66813	En las profundidades del bosque	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66814	Ni uno ni el otro	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66815	Las tres maravillas	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66816	La calma antes de la tormenta	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66817	Un hambre insaciable	Caza un Deviljho Salvaje	Se te acaba el tiempoTe has desmayado tres veces
+66818	Aullido de luna	Caza un Zinogre	Se te acaba el tiempoTe has desmayado tres veces
+66819	El sonido del silencio	Caza un Yian Garuga	Se te acaba el tiempoTe has desmayado tres veces
+66820	Un rugido hace temblar al mundo	Caza un Tigrex Pardo	Se te acaba el tiempoTe has desmayado tres veces
+66821	Vistazo de plata	Caza un Rathalos Plateado	Se te acaba el tiempoTe has desmayado tres veces
+66822	La luna es una reina cruel	Caza una Rathian Dorada	Se te acaba el tiempoTe has desmayado tres veces
+66824	Abtruso, conturbado y azacaneado	Caza a un Rajang	Se te acaba el tiempoTe has desmayado tres veces
+66825	Esas cicatrices han visto mucho	Caza un Yian Garuga Naevus	Se te acaba el tiempoTe has desmayado tres veces
+66826	Cantando en el bosque	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66827	Heavy Metal en el yermo	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66828	Sinfonía en el coral	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66829	Bolero en el valle	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66830	Rock en el lecho	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66831	Balada en el arroyo	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66832	Lobo infernal	Caza un Zinogre Estigio	Se te acaba el tiempoTe has desmayado tres veces
+66834	El veloz choca con el rugido	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66835	Desciende la furia del trueno	Caza un Zinogre	Se te acaba el tiempoTe has desmayado tres veces
+66836	Oda a la destrucción	Abate a un Nergigante Regio	Se te acaba el tiempoTe has desmayado tres veces
+67101	La prueba	Caza un Anjanath	Se te acaba el tiempoTe has desmayado tres veces
+67102	Lecciones de un mundo hostil	Abate 8 Barnos	Se te acaba el tiempoTe has desmayado tres veces
+67103	Buen perro, perro malo	Caza 2 Odogaron	Se te acaba el tiempoTe has desmayado tres veces
+67105	USJ: un regalo de oro	Caza 3 Gran Jagras	Se te acaba el tiempoTe has desmayado tres veces
+67106	USJ: un regalo de oro	Caza 3 Gran Jagras	Se te acaba el tiempoTe has desmayado tres veces
+67603	¡Las estrellas celestes de USJ!	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+67604	¡Las estrellas celestes de USJ!	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+67605	Código rojo	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+67606	Un visitante de Eorzea (extremo)	Abate a un Bégimo	Se te acaba el tiempoTe has desmayado tres veces
+67607	El corazón de los Nora	Caza 2 Deviljho	Se te acaba el tiempoTe has desmayado tres veces
+67608	SMF: silencioso, mortal y feroz	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+67610	Contrato: espíritu del bosque	Abate al leshen antiguo	Se te acaba el tiempoTe has desmayado tres veces
+67801	RE: Vuelve la amenaza biológica	Abate a un Vaal Hazak Espóreo	Se te acaba el tiempoTe has desmayado tres veces

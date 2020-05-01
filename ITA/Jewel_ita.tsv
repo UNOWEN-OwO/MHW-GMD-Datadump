@@ -1,0 +1,402 @@
+Deco ID	Item ID	Deco Name	Slot Size
+0	727	Gioiello resistenza veleno 1	1
+1	728	Gioiello resistenza paralisi 1	1
+2	729	Gioiello resistenza sonno 1	1
+3	730	Gioiello resistenza stordimento 1	1
+4	731	Gioiello resistenza scoppio 1	1
+5	732	Gioiello resistenza sanguinamento 1	1
+6	733	Gioiello pelle di ferro 1	1
+7	734	Gioiello udito 3	3
+8	735	Gioiello paravento 2	2
+9	736	Gioiello antisismico 2	2
+10	739	Gioiello attacco 1	1
+11	740	Gioiello difesa 1	1
+12	741	Gioiello salute 1	1
+13	742	Gioiello guarigione 1	1
+14	743	Gioiello resistenza fuoco 1	1
+15	744	Gioiello resistenza acqua 1	1
+16	745	Gioiello resistenza ghiaccio 1	1
+17	746	Gioiello resistenza tuono 1	1
+18	747	Gioiello resistenza drago 1	1
+19	748	Gioiello resistenza malus 1	1
+20	749	Gioiello attacco fuoco 1	1
+21	750	Gioiello attacco acqua 1	1
+22	751	Gioiello attacco ghiaccio 1	1
+23	752	Gioiello attacco tuono 1 	1
+24	753	Gioiello attacco drago 1	1
+25	754	Gioiello attacco veleno 1	1
+26	755	Gioiello attacco paralisi 1	1
+27	756	Gioiello attacco sonno 1	1
+28	757	Gioiello attacco scoppio 1	1
+29	758	Gioiello applica veleno 3	3
+30	759	Gioiello applica paralisi 3	3
+31	760	Gioiello applica sonno 3	3
+32	761	Gioiello applica scoppio 3	3
+33	763	Gioiello rilascio 3	3
+34	764	Gioiello occhio critico 1	1
+35	765	Gioiello bonus critico 2	2
+36	766	Gioiello punto debole 2	2
+37	767	Gioiello concentrazione 2	2
+38	768	Gioiello artigiano 3	3
+39	769	Gioiello critico rapido 2	2
+40	770	Gioiello spaccamostri 2	2
+41	771	Gioiello battitore 2	2
+42	772	Gioiello ruba resistenza 1	1
+43	774	Gioiello minaccia aerea 2	2
+44	775	Gioiello forza latente 2	2
+45	776	Gioiello istigatore 2	2
+46	777	Gioiello forma perfetta 2	2
+47	778	Gioiello eroismo 2	2
+48	779	Gioiello rafforzamento 1	1
+49	780	Gioiello risentimento 2	2
+50	781	Gioiello maestro del corno 1	1
+51	782	Gioiello bonus capacità 2	2
+52	783	Gioiello munizioni speciali 1	1
+53	784	Gioiello artigliere 1	1
+54	785	Gioiello artiglieria pesante 1	1
+55	786	Gioiello maratoneta 2	2
+56	787	Gioiello atleta 2	2
+57	789	Gioiello super resistenza 2	2
+58	790	Gioiello resistenza fame 1	1
+59	791	Gioiello schivata 2	2
+60	792	Gioiello schivata estesa 2	2
+61	793	Gioiello blocco 1	1
+62	794	Gioiello rinfodero veloce 1	1
+63	795	Gioiello ampia area 1	1
+64	796	Gioiello estensione oggetti 1	1
+65	797	Gioiello pasto gratuito 1	1
+66	798	Gioiello pasto veloce 1	1
+67	799	Gioiello affilatura veloce 1	1
+68	800	Gioiello bombardiere 1	1
+69	801	Gioiello fungomante 1	1
+70	808	Gioiello angelo custode 1	1
+71	809	Gioiello gregario 1	1
+72	810	Gioiello botanico 1	1
+73	811	Gioiello geologo 1	1
+74	812	Gioiello massima potenza 2	2
+75	813	Gioiello capienza fionda 1	1
+76	814	Gioiello furtivo 1	1
+77	815	Gioiello antisussulto 3	3
+78	819	Gioiello esperto di spore 1	1
+79	820	Gioiello esperto acquatico 1	1
+80	824	Gioiello entomologo 1	1
+81	826	Gioiello segugio 1	1
+82	828	Gioiello intimidazione 1	1
+83	832	Gioiello affinità scivolata 2	2
+84	833	Gioiello bonus cura 1	1
+85	834	Gioiello bonus normali 3	3
+86	835	Gioiello bonus perforanti 3	3
+87	836	Gioiello bonus ventaglio 3	3
+88	837	Gioiello estensione di potenza 2	2
+89	838	Gioiello rianimazione 1	1
+90	839	Gioiello sigillo anziano 3	3
+91	842	Gioiello manutenzione 1	1
+92	874	Gioiello carica potenziata 2	2
+93	875	Gioiello preveggenza 2	2
+94	876	Gioiello guardia perfetta 2	2
+95	877	Gioiello strato protettivo 2	2
+96	878	Gioiello non elementale 2	2
+97	825	Gioiello resistenza effluvio 1	1
+98	1968	Gioiello coalescenza 3	3
+99	1969	Gioiello guardiano 2	2
+100	1970	Gioiello anticalore 2	2
+101	1971	Gioiello resistenza fuoco II 4	4
+102	1972	Gioiello resistenza acqua II 4	4
+103	1973	Gioiello resistenza ghiaccio II 4	4
+104	1974	Gioiello resistenza tuono II 4	4
+105	1975	Gioiello resistenza drago II 4	4
+106	1976	Gioiello attacco fuoco II 4	4
+107	1977	Gioiello attacco acqua II 4	4
+108	1978	Gioiello attacco ghiaccio II 4	4
+109	1979	Gioiello attacco tuono II 4	4
+110	1980	Gioiello attacco drago II 4	4
+111	1981	Gioiello attacco veleno II 4	4
+112	1982	Gioiello attacco paralisi II 4	4
+113	1983	Gioiello attacco sonno II 4	4
+114	1984	Gioiello attacco scoppio II 4	4
+115	1985	Gioiello resistenza fuoco III 4	4
+116	1986	Gioiello resistenza acqua III 4	4
+117	1987	Gioiello resistenza ghiaccio III 4	4
+118	1988	Gioiello resistenza tuono III 4	4
+119	1989	Gioiello resistenza drago III 4	4
+120	1990	Gioiello resistenza veleno II 4	4
+121	1991	Gioiello resistenza paralisi II 4	4
+122	1992	Gioiello resistenza sonno II 4	4
+123	1993	Gioiello resistenza stordimento II 4	4
+124	1994	Gioiello resistenza scoppio II 4	4
+125	1995	Gioiello resist. sanguinamento II 4	4
+126	1996	Gioiello pelle di ferro II 4	4
+127	1997	Gioiello resistenza effluvio II 4	4
+128	1998	Gioiello resistenza fame II 4	4
+129	1999	Gioiello guarigione II 4	4
+130	2000	Gioiello furtivo II 4	4
+131	2001	Gioiello intimidazione II 4	4
+132	2002	Gioiello gregario II 4	4
+133	2003	Gioiello furtivo III 4	4
+134	2004	Gioiello intimidazione III 4	4
+135	2005	Gioiello gregario III 4	4
+136	2006	Gioiello munizioni speciali II 4	4
+137	2007	Gioiello artiglieria pesante II 4	4
+138	2008	Gioiello botanico II 4	4
+139	2009	Gioiello geologo II 4	4
+140	2010	Gioiello sopravvivenza II 4	4
+141	2011	Gioiello esperto acquatico II 4	4
+142	2012	Gioiello entomologo II 4	4
+143	2013	Gioiello maestro del corno II 4	4
+144	2014	Gioiello botanico IV 4	4
+145	2015	Gioiello geologo III 4	4
+146	2016	Gioiello sopravvivenza III 4	4
+147	2017	Gioiello entomologo III 4	4
+148	2018	Gioiello estensione oggetti II 4	4
+149	2019	Gioiello difesa II 4	4
+150	2020	Gioiello estensione oggetti III 4	4
+151	2021	Gioiello difesa III 4	4
+152	2022	Gioiello artigliere II 4	4
+153	2023	Gioiello udito II 4	4
+154	2024	Gioiello paravento II 4	4
+155	2025	Gioiello attacco II 4	4
+156	2026	Gioiello occhio critico II 4	4
+157	2027	Gioiello artigiano II 4	4
+158	2028	Gioiello forza latente II 4	4
+159	2029	Gioiello istigatore II 4	4
+160	2030	Gioiello eroismo II 4	4
+161	2031	Gioiello risentimento II 4	4
+162	2032	Gioiello atleta II 4	4
+163	2033	Gioiello schivata II 4	4
+164	2034	Gioiello blocco II 4	4
+165	2035	Gioiello ampia area II 4	4
+166	2036	Gioiello ruba res./atleta 4	4
+167	2037	Gioiello rafforz./atleta 4	4
+168	2038	Gioiello rianimaz./atleta 4	4
+169	2039	Gioiello blocco/atleta 4	4
+170	2040	Gioiello ampia area/atleta 4	4
+171	2041	Gioiello pasto gratuito/atleta 4	4
+172	2042	Gioiello cap. fionda/atleta 4	4
+173	2043	Gioiello res. malus/atleta 4	4
+174	2044	Gioiello min. aerea/atleta 4	4
+175	2045	Gioiello maratoneta/atleta 4	4
+176	2046	Gioiello super res./atleta 4	4
+177	2047	Gioiello schiv. estesa/atleta 4	4
+178	2048	Gioiello rinf. veloce/atleta 4	4
+179	2049	Gioiello pasto veloce/atleta 4	4
+180	2050	Gioiello aff. veloce/atleta 4	4
+181	2051	Gioiello bombardiere/atleta 4	4
+182	2052	Gioiello fungomante/atleta 4	4
+183	2053	Gioiello aff. scivolata/atleta 4	4
+184	2054	Gioiello guardiano/atleta 4	4
+185	2055	Gioiello ruba res./schivata 4	4
+186	2056	Gioiello rafforz./schivata 4	4
+187	2057	Gioiello rianimaz./schivata 4	4
+188	2058	Gioiello blocco/schivata 4	4
+189	2059	Gioiello ampia area/schivata 4	4
+190	2060	Gioiello pasto grat./schivata 4	4
+191	2061	Gioiello cap. fionda/schivata 4	4
+192	2062	Gioiello res. malus/schivata 4	4
+193	2063	Gioiello min. aerea/schivata 4	4
+194	2064	Gioiello maratoneta/schivata 4	4
+195	2065	Gioiello super res./schivata 4	4
+196	2066	Gioiello schiv. estesa/schivata 4	4
+197	2067	Gioiello rinf. veloce/schivata 4	4
+198	2068	Gioiello pasto veloce/schivata 4	4
+199	2069	Gioiello aff. veloce/schivata 4	4
+200	2070	Gioiello bombardiere/schivata 4	4
+201	2071	Gioiello fungomante/schivata 4	4
+202	2072	Gioiello aff. scivolata/schivata 4	4
+203	2073	Gioiello guardiano/schivata 4	4
+204	2074	Gioiello ruba res./attacco 4	4
+205	2075	Gioiello rafforz./attacco 4	4
+206	2076	Gioiello rianim./attacco 4	4
+207	2077	Gioiello blocco/attacco 4	4
+208	2078	Gioiello ampia area/attacco 4	4
+209	2079	Gioiello pasto grat./attacco 4	4
+210	2080	Gioiello cap. fionda/attacco 4	4
+211	2081	Gioiello res. malus/attacco 4	4
+212	2082	Gioiello min. aerea/attacco 4	4
+213	2083	Gioiello maratoneta/attacco 4	4
+214	2084	Gioiello super res./attacco 4	4
+215	2085	Gioiello schiv. estesa/attacco 4	4
+216	2086	Gioiello rinf. veloce/attacco 4	4
+217	2087	Gioiello pasto veloce/attacco 4	4
+218	2088	Gioiello aff. veloce/attacco 4	4
+219	2089	Gioiello bombardiere/attacco 4	4
+220	2090	Gioiello fungomante/attacco 4	4
+221	2091	Gioiello aff. scivolata/attacco 4	4
+222	2092	Gioiello guardiano/attacco 4	4
+223	2093	Gioiello ruba res./occhio crit. 4	4
+224	2094	Gioiello rafforz./occhio crit. 4	4
+225	2095	Gioiello rianimaz./occhio crit. 4	4
+226	2096	Gioiello blocco/occhio crit. 4	4
+227	2097	Gioiello ampia area/occhio crit. 4	4
+228	2098	Gioiello pasto grat./occhio crit. 4	4
+229	2099	Gioiello cap. fionda/occhio crit. 4	4
+230	2100	Gioiello res. malus/occhio crit. 4	4
+231	2101	Gioiello min. aerea/occhio crit. 4	4
+232	2102	Gioiello maratoneta/occhio crit. 4	4
+233	2103	Gioiello super res./occhio crit. 4	4
+234	2104	Gioiello schiv. estesa/occhio crit. 4	4
+235	2105	Gioiello rinf. veloce/occhio crit. 4	4
+236	2106	Gioiello pasto veloce/occhio crit. 4	4
+237	2107	Gioiello aff. veloce/occhio crit. 4	4
+238	2108	Gioiello bombardiere/occhio crit. 4	4
+239	2109	Gioiello fungomante/occhio crit. 4	4
+240	2110	Gioiello aff. scivolata/occhio crit. 4	4
+241	2111	Gioiello guardiano/occhio crit. 4	4
+242	2112	Gioiello ruba resis./rilascio 4	4
+243	2113	Gioiello rafforz./rilascio 4	4
+244	2114	Gioiello rianimaz./rilascio 4	4
+245	2115	Gioiello blocco/rilascio 4	4
+246	2116	Gioiello ampia area/rilascio 4	4
+247	2117	Gioiello pasto grat./rilascio 4	4
+248	2118	Gioiello cap. fionda/rilascio 4	4
+249	2119	Gioiello res. malus/rilascio 4	4
+250	2120	Gioiello min. aerea/rilascio 4	4
+251	2121	Gioiello maratoneta/rilascio 4	4
+252	2122	Gioiello super resistenza/rilascio 4	4
+253	2123	Gioiello schiv. estesa/rilascio 4	4
+254	2124	Gioiello rinf. veloce/rilascio 4	4
+255	2125	Gioiello pasto veloce/rilascio 4	4
+256	2126	Gioiello aff. veloce/rilascio 4	4
+257	2127	Gioiello bombardiere/rilascio 4	4
+258	2128	Gioiello fungomante/rilascio 4	4
+259	2129	Gioiello aff. scivolata/rilascio 4	4
+260	2130	Gioiello guardiano/rilascio 4	4
+261	2131	Gioiello ruba res./artigiano 4	4
+262	2132	Gioiello rafforz./artigiano 4	4
+263	2133	Gioiello rianim./artigiano 4	4
+264	2134	Gioiello blocco/artigiano 4	4
+265	2135	Gioiello a. area/artigiano 4	4
+266	2136	Gioiello pasto grat./artigiano 4	4
+267	2137	Gioiello cap. fionda/artigiano 4	4
+268	2138	Gioiello res. malus/artigiano 4	4
+269	2139	Gioiello min. aerea/artigiano 4	4
+270	2140	Gioiello maratoneta/artigiano 4	4
+271	2141	Gioiello super res./artigiano 4	4
+272	2142	Gioiello schiv. estesa/artigiano 4	4
+273	2143	Gioiello rinf. veloce/artigiano 4	4
+274	2144	Gioiello pasto veloce/artigiano 4	4
+275	2145	Gioiello aff. veloce/artigiano 4	4
+276	2146	Gioiello bombardiere/artigiano 4	4
+277	2147	Gioiello fungomante/artigiano 4	4
+278	2148	Gioiello aff. scivolata/artigiano 4	4
+279	2149	Gioiello guardiano/artigiano 4	4
+280	2150	Gioiello antisismico/a. custode 4	4
+281	2151	Gioiello concen./a. custode 4	4
+282	2152	Gioiello est. di potenza/a. custode 4	4
+283	2153	Gioiello spaccamostri/a. custode 4	4
+284	2154	Gioiello battitore/a. custode 4	4
+285	2155	Gioiello eroismo/a. custode 4	4
+286	2156	Gioiello paravento/a. custode 4	4
+287	2157	Gioiello critico rapido/a. custode 4	4
+288	2158	Gioiello forza latente/a. custode 4	4
+289	2159	Gioiello istigatore/a. custode 4	4
+290	2160	Gioiello forma perfetta/a. custode 4	4
+291	2161	Gioiello risentimento/a. custode 4	4
+292	2162	Gioiello massima pot./a. custode 4	4
+293	2163	Gioiello antisussulto/a. custode 4	4
+294	2164	Gioiello coalescen./a. custode 4	4
+295	2165	Gioiello udito/a. custode 4	4
+296	2166	Gioiello bonus critico/a. custode 4	4
+297	2167	Gioiello punto debole/a. custode 4	4
+298	2168	Gioiello artigiano/a. custode 4	4
+299	2169	Gioiello rilascio/a. custode 4	4
+300	2170	Gioiello antisis./bonus cura 4	4
+301	2171	Gioiello concentr./bonus cura 4	4
+302	2172	Gioiello est. di potenza/bonus cura 4	4
+303	2173	Gioiello spaccamos./bonus cura 4	4
+304	2174	Gioiello battitore/bonus cura 4	4
+305	2175	Gioiello eroismo/bonus cura 4	4
+306	2176	Gioiello paravento/bonus cura 4	4
+307	2177	Gioiello critico rapido/bonus cura 4	4
+308	2178	Gioiello forza latente/bonus cura 4	4
+309	2179	Gioiello istigatore/bonus cura 4	4
+310	2180	Gioiello forma perf./bonus cura 4	4
+311	2181	Gioiello risentimen./bonus cura 4	4
+312	2182	Gioiello massima pot./bonus cura 4	4
+313	2183	Gioiello antisussulto/bonus cura 4	4
+314	2184	Gioiello coalescen./bonus cura 4	4
+315	2185	Gioiello udito/bonus cura 4	4
+316	2186	Gioiello b. critico/bonus cura 4	4
+317	2187	Gioiello punto debole/bonus cura 4	4
+318	2188	Gioiello artigiano/bonus cura 4	4
+319	2189	Gioiello rilascio/bonus cura 4	4
+320	2190	Gioiello antisismico/salute 4	4
+321	2191	Gioiello concentr./salute 4	4
+322	2192	Gioiello est. di potenza/salute 4	4
+323	2193	Gioiello spaccamostri/salute 4	4
+324	2194	Gioiello battitore/salute 4	4
+325	2195	Gioiello eroismo/salute 4	4
+326	2196	Gioiello paravento/salute 4	4
+327	2197	Gioiello critico rapido/salute 4	4
+328	2198	Gioiello forza latente/salute 4	4
+329	2199	Gioiello istigatore/salute 4	4
+330	2200	Gioiello forma perf./salute 4	4
+331	2201	Gioiello risentimento/salute 4	4
+332	2202	Gioiello massima pot./salute 4	4
+333	2203	Gioiello antisussulto/salute 4	4
+334	2204	Gioiello coalescen./salute 4	4
+335	2205	Gioiello udito/salute 4	4
+336	2206	Gioiello bonus critico/salute 4	4
+337	2207	Gioiello punto debole/salute 4	4
+338	2208	Gioiello artigiano/salute 4	4
+339	2209	Gioiello rilascio/salute 4	4
+340	2210	Gioiello antisis./manutenzione 4	4
+341	2211	Gioiello concentr./manuten. 4	4
+342	2212	Gioiello est. di potenza/manuten. 4	4
+343	2213	Gioiello spaccamostri/manuten. 4	4
+344	2214	Gioiello battitore/manuten. 4	4
+345	2215	Gioiello eroismo/manutenzione 4	4
+346	2216	Gioiello paravento/manuten. 4	4
+347	2217	Gioiello critico rapido/manuten. 4	4
+348	2218	Gioiello forza latente/manuten. 4	4
+349	2219	Gioiello istigatore/manuten. 4	4
+350	2220	Gioiello forma perfetta/manuten. 4	4
+351	2221	Gioiello risentimento/manuten. 4	4
+352	2222	Gioiello massima pot./manuten. 4	4
+353	2223	Gioiello antisussulto/manuten. 4	4
+354	2224	Gioiello coalescen./manuten. 4	4
+355	2225	Gioiello udito/manutenzione 4	4
+356	2226	Gioiello bonus critico/manuten. 4	4
+357	2227	Gioiello punto debole/manuten. 4	4
+358	2228	Gioiello artigiano/manuten. 4	4
+359	2229	Gioiello rilascio/manutenzione 4	4
+360	2230	Gioiello antisismico/atleta 4	4
+361	2231	Gioiello concentrazione/atleta 4	4
+362	2232	Gioiello estens. di potenza/atleta 4	4
+363	2233	Gioiello spaccamostri/atleta 4	4
+364	2234	Gioiello battitore/atleta 4	4
+365	2235	Gioiello eroismo/atleta 4	4
+366	2236	Gioiello paravento/atleta 4	4
+367	2237	Gioiello critico rapido/atleta 4	4
+368	2238	Gioiello forza latente/atleta 4	4
+369	2239	Gioiello istigatore/atleta 4	4
+370	2240	Gioiello forma perfetta/atleta 4	4
+371	2241	Gioiello risentimento/atleta 4	4
+372	2242	Gioiello massima potenza/atleta 4	4
+373	2243	Gioiello antisussulto/atleta 4	4
+374	2244	Gioiello coalescen./atleta 4	4
+375	2245	Gioiello udito/atleta 4	4
+376	2246	Gioiello bonus critico/atleta 4	4
+377	2247	Gioiello punto debole/atleta 4	4
+378	2248	Gioiello artigiano/atleta 4	4
+379	2249	Gioiello rilascio/atleta 4	4
+380	2250	Gioiello antisismico/schivata 4	4
+381	2251	Gioiello concentr./schivata 4	4
+382	2252	Gioiello est. di potenza/schivata 4	4
+383	2253	Gioiello spaccamostri/schivata 4	4
+384	2254	Gioiello battitore/schivata 4	4
+385	2255	Gioiello eroismo/schivata 4	4
+386	2256	Gioiello paravento/schivata 4	4
+387	2257	Gioiello critico rapido/schivata 4	4
+388	2258	Gioiello forza latente/schivata 4	4
+389	2259	Gioiello istigatore/schivata 4	4
+390	2260	Gioiello forma perf./schivata 4	4
+391	2261	Gioiello risentimento/schivata 4	4
+392	2262	Gioiello massima pot./schivata 4	4
+393	2263	Gioiello antisussulto/schivata 4	4
+394	2264	Gioiello coalescen./schivata 4	4
+395	2265	Gioiello udito/schivata 4	4
+396	2266	Gioiello bonus critico/schivata 4	4
+397	2267	Gioiello punto debole/schivata 4	4
+398	2268	Gioiello artigiano/schivata 4	4
+399	2269	Gioiello rilascio/schivata 4	4
+400	2272	Gioiello riscaldante 2	2

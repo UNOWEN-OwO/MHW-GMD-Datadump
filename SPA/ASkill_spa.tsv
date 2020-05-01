@@ -1,0 +1,21 @@
+Askill ID	Askill Code	Askill Name	Askill Upgrade Name	Askill Desc
+0	ASkill001	Manto de camuflaje	Manto de camuflaje+	Te permite ocultarte de la visióndel enemigo por un tiempo.El efecto se agota si lanzas unataque o recibes algún daño.
+1	ASkill002	Manto temporal	Manto temporal+	Anula el daño de los ataques máspoderosos al hacerte esquivarautomáticamente.
+2	ASkill003	Potenciador de salud	Potenciador de salud+	Coloca una bengala que produceun humo que te hace recuperarsalud progresivamente.
+3	ASkill004	Manto de firmeza	Manto de firmeza+	Evita que reacciones al daño,los efectos del viento y tembloresy protege tu oído. Reduceel daño recibido por ataques.
+4	ASkill005	Manto de desafíos	Manto de desafíos+	Los monstruos se sentirán másatraídos por ti y te atacarán más.El efecto se agota si recibesun ataque.
+5	ASkill006	Manto de vitalidad	Manto de vitalidad+	Anula una cantidad fija de daño,tras la cual el efecto se agotará.
+6	ASkill007	Manto ignífugo	Manto ignífugo+	Reduce el daño por fuego,anula las plagas de fuego y nitroy evita daños ambientales porentornos muy calientes.
+7	ASkill008	Manto impermeable	Manto impermeable+	Reduce el daño por agua, anulala plaga de agua, reduce todarestricción al movimiento en lodoy las anula en agua profunda.
+8	ASkill009	Manto anticongelante	Manto anticongelante+	Reduce el daño por hielo y anulala plaga de hielo.
+9	ASkill010	Manto repelerrayos	Manto repelerrayos+	Reduce el daño por rayo y anulala plaga de rayo y la parálisis.
+10	ASkill011	Manto antidraco	Manto antidraco+	Reduce el daño por draco, anulala plaga de draco y potenciael elemento draco en tu arma.
+11	ASkill012	Potenciador de pureza	Potenciador de pureza+	Coloca una bengala que produceun humo que cura los estadosalterados y plagas elementales.
+14	ASkill015	Manto planeador	Manto planeador+	Aumenta el tiempo en el aireen salto y permite planear convientos fuertes. Facilita podermontar sobre monstruos.
+15	ASkill016	Manto de evasión	Manto de evasión+	Mayor tiempo de invulnerabilidadal esquivar y bonus de ataquetemporal si esquivas en el últimomomento.
+16	ASkill017	Manto de impacto	Manto de impacto+	Añade efecto aturdidor a muchosataques, o aumenta la potenciadel efecto si ya cuentas con él.
+17	ASkill018	Manto de boticario	Manto de boticario+	Aumenta la probabilidad de causarestados agravados al atacar conarmas que provoquen estadosalterados.
+18	ASkill019	Manto de inmunidad	Manto de inmunidad+	Elimina y anula los estadosalterados mientras dura el efecto.
+19	ASkill020	Potenciador de afinidad	Potenciador de afinidad+	Coloca una bengala que produceun humo que aumenta la afinidad.
+20	ASkill021	Manto de bandido	Manto de bandido+	Hace que de los monstruoscaigan objetos vendibles rarosal atacarlos.
+21	ASkill022	Capucha de asesino	Capucha de asesino+	Te permite moverte y escondertemás rápido. Atacar a un monstruodesprevenido causa gran daño,pero hace que el efecto termine.

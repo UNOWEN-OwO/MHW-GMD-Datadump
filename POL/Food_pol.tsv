@@ -1,0 +1,115 @@
+Food Code	Food Name	Food Desc
+MEAT_00_ID	Udo wiwerny	Mięso pomagające aktywować umiejętność Odwagi.Zbyt długie gotowanie uczyniło je żylastym.
+MEAT_01_ID	Stek z łaty wiwerny	Mięso pomagające aktywować umiejętności Odwagi.Najlepsze podawane w cienkich plastrach i pieczonena węglu drzewnym.
+MEAT_02_ID	Jajo wiwerny	Mięso pomagające aktywować umiejętności Odwagi.Cenny łup z gniazda wiwerny.
+MEAT_03_ID	Ogon wiwerny	Mięso pomagające aktywować umiejętności Odwagi.Ogon wiwerny latającej. Warto go choć raz spróbować.
+MEAT_04_ID	Głowa wiwerny	Mięso pomagające aktywować umiejętności Odwagi.Podstawa wykwintnej kuchni, czasem pojawia sięteż na uroczystych ucztach.
+MEAT_05_ID	Filet z wiwerny	Mięso pomagające aktywować umiejętności Odwagi.Najwyżej ceniona część mięsa wiwerny.
+MEAT_06_ID	Twarde mięso	Mięso pomagające aktywować umiejętności Odporności.Przegryzienie się przez to żylaste mięsowzmacnia szczękę.
+MEAT_07_ID	Kolczaste mięso	Mięso pomagające aktywować umiejętności Odporności.Ze względu na wciąż tkwiące w nim kolczaste łuskiwymaga ostrożnego, powolnego jedzenia.
+MEAT_08_ID	Mięso na bogato	Mięso pomagające aktywować umiejętności Odporności.Stosunkowo droga, ale czasami trzeba zrobićsobie przyjemność.
+MEAT_09_ID	Mięso ze stali	Mięso pomagające aktywować umiejętności Odporności.Można połamać na nim zęby, ale warto zaryzykowaćze względu na zawarte w nim białka i witaminy.
+MEAT_10_ID	Dzika kura	Mięso pomagające aktywować umiejętności Odporności.Smakuje najlepiej, kiedy kroi się go brutalnymicięciami i wpycha do ust bez opamiętania.
+MEAT_11_ID	Marynowane carpaccio	Mięso pomagające aktywować umiejętności Odporności.To surowe mięso, zanurzone w tajemnej marynacie,dosłownie ocieka smakiem.
+MEAT_12_ID	Mięso Aptonotha	Mięso pomagające aktywować umiejętności Wigoru.Podstawa żywienia łowcy, wykorzystywanaw różnych potrawach mięsnych.
+MEAT_13_ID	Pieczony Apceros	Mięso pomagające aktywować umiejętności Wigoru.Przysmak żarłocznych łowców, niemal zawszepodawany w ogromnych porcjach.
+MEAT_14_ID	Siekany stek	Mięso pomagające aktywować umiejętności Wigoru.Mięso stosunkowo dobrej jakości, siekanena niewielkie kawałeczki.
+MEAT_15_ID	Wielka polędwica	Mięso pomagające aktywować umiejętności Wigoru.Piękny plaster smacznego i sycącego mięsa apnototha.
+MEAT_16_ID	Burger wielki gryz	Mięso pomagające aktywować umiejętności Wigoru.Burger przygotowany jak należy: niemal zbytwielki, by zmieścił się w ustach.
+MEAT_17_ID	Gigastek	Mięso pomagające aktywować umiejętności Wigoru.Poprzerastany tłuszczem stek tak pyszny, że trudnoprzestać jeść, nawet gdy się już nasycisz.
+MEAT_18_ID	Biała wątróbka	Mięso pomagające aktywować umiejętności Bystrości.Przysmak rozpływający się w ustach.
+MEAT_19_ID	Pieczone żeberka	Mięso pomagające aktywować umiejętności Bystrości.To tłuste, smakowite mięso potrafi uzależnić.
+MEAT_20_ID	Flaczki na ostro	Mięso pomagające aktywować umiejętności Bystrości.Z żołądkiem pełnym tej potrawy trudno usiedziećna miejscu.
+MEAT_21_ID	Gorące serce	Mięso pomagające aktywować umiejętności Bystrości.Cenione za swoją fakturę, najlepsze na gorąco.
+MEAT_22_ID	Soczysty zad	Mięso pomagające aktywować umiejętności Bystrości.Wyjątkowo soczysta porcja mięsa z wysokocenionej części ciała potwora.
+MEAT_23_ID	Wykwintne foie gras	Mięso pomagające aktywować umiejętności Bystrości.Ze względu na kremową konsystencję i wyborny smakjest to bardzo poszukiwany składnik.
+MEAT_24_ID	Chłopski indyk	Mięso pomagające aktywować umiejętności Artylerii.Niestety więcej w nim kości niż mięsa.
+MEAT_25_ID	Wspaniała baranina	Mięso pomagające aktywować umiejętności Artylerii.Uniwersalna, wykorzystywana w rozmaitych daniach.
+MEAT_26_ID	Jajo roślinożercy	Mięso pomagające aktywować umiejętności Artylerii.Zrobionym z niego omletem można wykarmićkilka głodnych rodzin.
+MEAT_27_ID	Królewski indyk	Mięso pomagające aktywować umiejętności Artylerii.Ze względu na zawartość mięsa jest godzien swojejnazwy. Chłopski indyk to przy nim fraszka.
+MEAT_28_ID	Baranina magmowa	Mięso pomagające aktywować umiejętności Artylerii.Soczysta baranina nabierająca smakuw miarę duszenia.
+MEAT_29_ID	Indyk kajzera	Mięso pomagające aktywować umiejętności Artylerii.Noga zawierająca tyle mięsa, że nawet królewskiindyk jest przy niej niczym.
+FISH_00_ID	Tuńczyk grzywowy	Ryba pomagająca aktywować umiejętności Odwagi.Wyróżnia się smacznym mięsemi rzucającą się w oczy grzywą.
+FISH_01_ID	Łosoś wężowy	Ryba pomagająca aktywować umiejętności Odwagi.Wije się i wygina, wygląda bardziej jak wążniż jak ryba.
+FISH_02_ID	Węgorz odważny	Ryba pomagająca aktywować umiejętności Odwagi.Jeden kęs i odwagi ci nie zabraknie.
+FISH_03_ID	Ryba sushi	Ryba pomagająca aktywować umiejętności Odwagi.Pyszna, zawierająca tyle tłuszczu, ile trzeba.Lubiana w bliższych i dalszych stronach.
+FISH_04_ID	Pradawna dorada	Ryba pomagająca aktywować umiejętności Odwagi.Wykwintna ryba, od starożytnych czasów cenionajako przysmak.
+FISH_05_ID	Ordynarna seriolanda	Ryba pomagająca aktywować umiejętności Odwagi.Krytykowana za wulgarny wygląd,w rzeczywistości jest uosobieniem odwagi.
+FISH_06_ID	Wielki trąbik	Ryba pomagająca aktywować umiejętności Odporności.Większe muszle są więcej warte.
+FISH_07_ID	Suszone przegrzebki	Ryba pomagająca aktywować umiejętności Odporności.Przegrzebki zakonserwowane przez suszenie.Można z nich też ugotować smaczną zupę.
+FISH_08_ID	Wyborowy uchowiec	Ryba pomagająca aktywować umiejętności Odporności.Pierwszorzędne rozmiary i smak.
+FISH_09_ID	Fioletowy uchowiec	Ryba pomagająca aktywować umiejętności Odporności.Jego smak i zapach uległy zmianiepodobnie jak barwa.
+FISH_10_ID	Cenny uchowiec	Ryba pomagająca aktywować umiejętności Odporności.Rarytas rarytasów.
+FISH_11_ID	Turban wielkorogi	Ryba pomagająca aktywować umiejętności Odporności.Mimo badań przeznaczenie jego wielkichrogów pozostaje nieznane.
+FISH_12_ID	Sardynka oddziałowa	Ryba pomagająca aktywować umiejętności Wigoru.Tworzą ławice przypominające oddziały,by chronić swoje terytorium.
+FISH_13_ID	Tuńczyk samurajski	Ryba pomagająca aktywować umiejętności Wigoru.Na głowie ma charakterystyczne wzoryprzypominające hełm samuraja.
+FISH_14_ID	Skrzele Gajau	Ryba pomagająca aktywować umiejętności Wigoru.Trzeba ją długo gotować, alena ten smak warto poczekać.
+FISH_15_ID	Wątroba Gajau	Ryba pomagająca aktywować umiejętności Wigoru.Pełna zdrowych tłuszczów, jest pyszna i pożywna.
+FISH_16_ID	Tuńczyk szoguński	Ryba pomagająca aktywować umiejętności Wigoru.Wzory na jego ciele przypominająpełną zbroję samuraja.
+FISH_17_ID	Ognista dorada	Ryba pomagająca aktywować umiejętności Wigoru.Ta ognistoczerwona ryba wygląda,jakby cały czas się paliła.
+FISH_18_ID	Krewetka łukowata	Ryba pomagająca aktywować umiejętności Bystrości.Ze względu na charakterystycznie wygięteciało trudno zjeść tę krewetkę.
+FISH_19_ID	Krab pancerny	Ryba pomagająca aktywować umiejętności Bystrości.Skorupiak, którego skorupa przypomina wyglądemzbroję i jest równie twarda.
+FISH_20_ID	Krewetka koralowa	Ryba pomagająca aktywować umiejętności Bystrości.Drobna, o olśniewającej, różowej skorupce.
+FISH_21_ID	Krab forteczny	Ryba pomagająca aktywować umiejętności Bystrości.Przyciąga symbionty żyjące na jego skorupie,przez co wydaje się większy.
+FISH_22_ID	Krewetka królowej	Ryba pomagająca aktywować umiejętności Bystrości.Panuje nad innymi krewetkami jako ich królowa.
+FISH_23_ID	Tysiącletni krab	Ryba pomagająca aktywować umiejętności Bystrości.Wspaniały krab, który ponoć żyje tysiąc lat.
+FISH_24_ID	Kośćmiornica	Ryba pomagająca aktywować umiejętności Artylerii.Ma bardzo kruchą budowę, przez co możnaodnieść wrażenie, że gryzie się kość.
+FISH_25_ID	Różowy kawior	Ryba pomagająca aktywować umiejętności Artylerii.Mieniąca się na różowo ikra,lekko marynowana w solance.
+FISH_26_ID	Kalmar liliowy	Ryba pomagająca aktywować umiejętności Artylerii.Podobno wywołuje przebłyski przenikliwości.
+FISH_27_ID	Ośmiornica baletowa	Ryba pomagająca aktywować umiejętności Artylerii.Podczas gotowania podkurcza nogi jak baletnica.
+FISH_28_ID	Kawior duszy	Ryba pomagająca aktywować umiejętności Artylerii.Ikra tak pyszna, że porusza duszę.
+FISH_29_ID	Kalmar władczy	Ryba pomagająca aktywować umiejętności Artylerii.Kalmar, którego rozmiary właściwie nakazująuważać go za jakiegoś władcę.
+VEGE_00_ID	Magniseler	Roślina pomagająca aktywować umiejętności Odwagi.Kiedy w nim zasmakujesz, trudno ci będziemu się oprzeć.
+VEGE_01_ID	Szubrawczyk	Roślina pomagająca aktywować umiejętności Odwagi.Na surowo jest tak ostry, że nawetdeviljho uroni łzę.
+VEGE_02_ID	Kaktus klejnotowy	Roślina pomagająca aktywować umiejętności Odwagi.Wielki i wypełniony soczystym miąższem.
+VEGE_03_ID	Smoczy kwiat	Roślina pomagająca aktywować umiejętności Odwagi.Kwiat o owocach twardych jak łuski wiwerny.
+VEGE_04_ID	Kaktus królewski	Roślina pomagająca aktywować umiejętności Odwagi.Kaktus majestatycznej - niemalkrólewskiej - jakości.
+VEGE_05_ID	Tłusty pomidor	Roślina pomagająca aktywować umiejętności Odwagi.Wyborny pomidor tryskający słodkimi sokami.
+VEGE_06_ID	Kamiennik	Roślina pomagająca aktywować umiejętnościOdporności. Wyłuskanie ziarna z tego zbożawymaga niemal nadludzkiej siły.
+VEGE_07_ID	Krzepki kartofel	Roślina pomagająca aktywować umiejętnościOdporności. Zapuszcza mocne korzenie, przez cojego zbiory są wyczerpującą harówką.
+VEGE_08_ID	Grzybek wyborny	Roślina pomagająca aktywować umiejętnościOdporności. Grzyb tak pyszny, że nawet kucharzelubią podjadać go w czasie gotowania.
+VEGE_09_ID	Grzyb księżycowy	Roślina pomagająca aktywować umiejętnościOdporności. Grzyb lśniący lekko niczym księżyc.
+VEGE_10_ID	Grzybek duchowy	Roślina pomagająca aktywować umiejętnościOdporności. Blask tego grzybka można opisać tylkosłowami: nie z tej ziemi.
+VEGE_11_ID	Brudny grzybek	Roślina pomagająca aktywować umiejętnościOdporności. Zaskakująco trudna do znalezienia,dawniej uważano ją za legendę.
+VEGE_12_ID	Dynisko	Roślina pomagająca aktywować umiejętności Wigoru.Ogromna dynia o pięknych proporcjach.Jej smak jest niemal bez znaczenia.
+VEGE_13_ID	Cebula pałowata	Roślina pomagająca aktywować umiejętności Wigoru.Jak wskazuje nazwa, przez swój ostry smaki grubiański wygląd kojarzy się z ogrem.
+VEGE_14_ID	Blaskokwiat	Roślina pomagająca aktywować umiejętności Wigoru.Jego aromat przywodzi na myśl delikatne,lekko przesłonięte światło słoneczne.
+VEGE_15_ID	Muśnięta słońcem trawa	Roślina pomagająca aktywować umiejętności Wigoru.Zioło, któremu przypisuje się rozmaitewłaściwości lecznicze.
+VEGE_16_ID	Złotokwiat	Roślina pomagająca aktywować umiejętności Wigoru.Kwiat promieniujący złotym pięknem.
+VEGE_17_ID	Trufla królewska	Roślina pomagająca aktywować umiejętności Wigoru.Nawet szczypta wzbogaca danie o mnóstwowybornych aromatów.
+VEGE_18_ID	Aromatyseler	Roślina pomagająca aktywować umiejętności Bystrości.Jego aromat zależy w dużym stopniuod sposobu przygotowania.
+VEGE_19_ID	Papryka pryzmatyczna	Roślina pomagająca aktywować umiejętności Bystrości.Jej barwa zależy w dużym stopniuod sposobu przygotowania.
+VEGE_20_ID	Splamiony owoc	Roślina pomagająca aktywować umiejętności Bystrości.Owoc, który dojrzał mimo skrajnych warunkówpanujących w Gnijącej Dolinie.
+VEGE_21_ID	Niebiańska jagoda	Roślina pomagająca aktywować umiejętności Bystrości.Chwalona za niebiański smak.
+VEGE_22_ID	Owoc elizejski	Roślina pomagająca aktywować umiejętności Bystrości.Ma tak magiczny aromat, jakby pochodziłz innego świata.
+VEGE_23_ID	Kapusta milionowa	Roślina pomagająca aktywować umiejętności Bystrości.Swą fenomenalną teksturę zawdzięczaniezliczonym warstwom liści.
+VEGE_24_ID	Fasola kut-ku	Roślina pomagająca aktywować umiejętności Artylerii.Ta fasola jest tak ostra, że ziejesz ogniemjak yian kut-ku.
+VEGE_25_ID	Roztopione mango	Roślina pomagająca aktywować umiejętności Artylerii.Mango, które po zebraniu szybko dojrzewai jeszcze długo wrze z gorąca.
+VEGE_26_ID	Kamieniówka	Roślina pomagająca aktywować umiejętności Artylerii.Owoc o twardej skórce, przypominającej kamień.
+VEGE_27_ID	Świętojabłko	Roślina pomagająca aktywować umiejętności Artylerii.Owoc tropikalny, trudny w uprawie.
+VEGE_28_ID	Dziki owoc	Roślina pomagająca aktywować umiejętności Artylerii.Jego dziki smak uwielbiają smakosze.
+VEGE_29_ID	Durian szmaragdowy	Roślina pomagająca aktywować umiejętności Artylerii.Rzadki owoc lśniący jak szmaragdi niemal tak cenny.
+LIQUOR_00_ID	Kartoflane błocko	Alkohol pomagający aktywować umiejętności Percepcji.Trunek, który wchodzi tak, jak możnaspodziewać się z nazwy.
+LIQUOR_01_ID	Smocze piwo	Alkohol pomagający aktywować umiejętności Percepcji.Ma dość mocy, by powalić wiwernę,choć nie wiadomo, jak to sprawdzono.
+LIQUOR_02_ID	Demoniczne piwo	Alkohol pomagający aktywować umiejętności Percepcji.Tak gorzkie, że może wypalić dziuręw żołądku deviljho.
+LIQUOR_03_ID	Wiwernowy bursztyniak	Alkohol pomagający aktywować umiejętności Percepcji.Aromatyczne piwo o wyrazistym smaku.
+LIQUOR_04_ID	Piwo złotej rybki	Alkohol pomagający aktywować umiejętności Percepcji.Jeśli to wyjątkowe piwo wpadnie ci w ręce,możesz uważać się za szczęściarza.
+LIQUOR_05_ID	Sake pogromcy smoków	Alkohol pomagający aktywować umiejętności Percepcji.Wino ryżowe destylowane długo opracowywanąmetodą. Kwintesencja sake.
+LIQUOR_06_ID	Piwo łowieckie	Alkohol pomagający aktywować umiejętności Szczęścia.Doskonałe orzeźwienie po długich łowach.
+LIQUOR_07_ID	Gwiezdna brandy	Alkohol pomagający aktywować umiejętności Szczęścia.Na etykiecie widnieje słynna szafirowagwiazda Komisji Badawczej.
+LIQUOR_08_ID	Mistrzowskie piwo	Alkohol pomagający aktywować umiejętności Szczęścia.To piwo o aksamitnym smaku, warzone z palonegosłodu, jest popularne wśród piwoszy.
+LIQUOR_09_ID	Rathawhiskey	Alkohol pomagający aktywować umiejętności Szczęścia.Whiskey dojrzewająca w beczce osmalonejognistym tchem Rathalosa.
+LIQUOR_10_ID	Piwo asterskie	Alkohol pomagający aktywować umiejętności Szczęścia.Miejscowy wyrób Komisji Badawczej.Doskonałe do wznoszenia toastów.
+LIQUOR_11_ID	Błogosławione wino	Alkohol pomagający aktywować umiejętności Szczęścia.Rekordowo długo utrzymuje się na szczycielisty Miesięcznika Łowcy Win.
+LIQUOR_12_ID	Sznaps wielkogoroga	Alkohol pomagający aktywować umiejętnościGotowości. Wytwarzany ze sproszkowanychrogów zwierząt występujących na Szronistym Brzegu.
+LIQUOR_13_ID	Pomyślne piwo	Alkohol pomagający aktywować umiejętnościGotowości. Tradycyjny prezent przekazywanypodróżnikom na szczęście.
+LIQUOR_14_ID	Maślany trunek	Alkohol pomagający aktywować umiejętnościGotowości. Orzeźwiający trunek zesfermentowanych masłorzepów ze Szronistego Brzegu.
+LIQUOR_15_ID	Wzmocniony miód	Alkohol pomagający aktywować umiejętnościGotowości. Starannie dobrane naturalneskładniki rozgrzewają całe ciało.
+LIQUOR_16_ID	Urzekający alembik	Alkohol pomagający aktywować umiejętnościGotowości. Słodki zapach tego owocowegotrunku oczaruje każdego.
+LIQUOR_17_ID	Szalona tequila	Alkohol pomagający aktywować umiejętnościGotowości. Wyjątkowo silny trunek, pity przezlekkomyślnych łowców chcących dowieść swego męstwa.
+LIQUOR_18_ID	Wódka lodowcowa	Alkohol pomagający aktywować umiejętnościPionierskie. Wódka z lodem z lokalnejkantyny, fikuśnie podana na soplu.
+LIQUOR_19_ID	Toastowa tequila	Alkohol pomagający aktywować umiejętnościPionierskie. Krzepiący trunek do oblewaniaudanych polowań i innych specjalnych okazji.
+LIQUOR_20_ID	Koniak roztopów	Alkohol pomagający aktywować umiejętnościPionierskie. Czysty smak roztopionego śniegusprawia, że trunek ten jest często pity na zgodę.
+LIQUOR_21_ID	Szampan z przełęczy	Alkohol pomagający aktywować umiejętnościPionierskie. Luksusowy trunek podawanyze srebrnymi kawałkami wyjątkowo gęstego lodu.
+LIQUOR_22_ID	Kryształowy sznaps	Alkohol pomagający aktywować umiejętnościPionierskie. Napój tak czysty i delikatny,że bąbelki wydają się wylatywać z pustej szklanki.
+LIQUOR_23_ID	Wypalający spirytus	Alkohol pomagający aktywować umiejętnościPionierskie. Jeden łyk tego mocnego trunkusprawia, że po ciele zaczyna rozchodzić się ogień.

@@ -1,0 +1,185 @@
+Pendant ID	Pendant Code	Pendant Name	Model
+0	CHARM_000_NAME	길드 포상-동 지원대	charm002
+1	CHARM_001_NAME	길드 포상-은 지원대	charm002
+2	CHARM_002_NAME	길드 포상-금 지원대	charm002
+3	CHARM_003_NAME	동장 스카프-빨강	charm003
+4	CHARM_004_NAME	동장 스카프-노랑	charm003
+5	CHARM_005_NAME	동장 스카프-파랑	charm003
+6	CHARM_006_NAME	동장 스카프-분홍	charm003
+7	CHARM_007_NAME	동장 스카프-초록	charm003
+8	CHARM_008_NAME	동장 스카프-회색	charm003
+9	CHARM_009_NAME	동장 스카프-홍차	charm003
+10	CHARM_010_NAME	은장 스카프-하양	charm003
+11	CHARM_011_NAME	은장 스카프-빨강	charm003
+12	CHARM_012_NAME	은장 스카프-초록	charm003
+13	CHARM_013_NAME	은장 스카프-하늘	charm003
+14	CHARM_014_NAME	은장 스카프-자주	charm003
+15	CHARM_015_NAME	은장 스카프-분홍	charm003
+16	CHARM_016_NAME	은장 스카프-주황	charm003
+17	CHARM_017_NAME	금장 스카프-갈색	charm003
+18	CHARM_018_NAME	금장 스카프-하양	charm003
+19	CHARM_019_NAME	금장 스카프-초록	charm003
+20	CHARM_020_NAME	금장 스카프-황록	charm003
+21	CHARM_021_NAME	금장 스카프-자주	charm003
+22	CHARM_022_NAME	금장 스카프-주황	charm003
+23	CHARM_023_NAME	금장 스카프-하늘	charm003
+24	CHARM_024_NAME	인도하는 결정-심록	charm004
+25	CHARM_025_NAME	인도하는 결정-신록	charm004
+26	CHARM_026_NAME	인도하는 결정-태양	charm004
+27	CHARM_027_NAME	인도하는 결정-어스름	charm004
+28	CHARM_028_NAME	인도하는 결정-앵화	charm004
+29	CHARM_029_NAME	인도하는 결정-창공	charm004
+30	CHARM_030_NAME	인도하는 결정-독기	charm004
+31	CHARM_031_NAME	인도하는 결정-청류	charm004
+32	CHARM_032_NAME	인도하는 결정-홍련	charm004
+33	CHARM_033_NAME	인도하는 결정-먹구름	charm004
+34	CHARM_034_NAME	인도하는 결정-빙하	charm004
+35	CHARM_035_NAME	인도하는 결정-자주	charm004
+36	CHARM_036_NAME	인도하는 별【삼림】	charm001
+37	CHARM_037_NAME	인도하는 별【황야】	charm001
+38	CHARM_038_NAME	인도하는 별【육산호】	charm001
+39	CHARM_039_NAME	인도하는 별【독기】	charm001
+40	CHARM_040_NAME	인도하는 별【용암】	charm001
+41	CHARM_041_NAME	인도하는 별【빙설】	charm001
+42	CHARM_042_NAME	역전 사냥꾼의 증표-동	charm005
+43	CHARM_043_NAME	역전 사냥꾼의 증표-은	charm005
+44	CHARM_044_NAME	역전 사냥꾼의 증표-금	charm005
+45	CHARM_045_NAME	패자의 증표-다이아몬드	charm005
+46	CHARM_046_NAME	패자의 증표-루비	charm005
+47	CHARM_047_NAME	패자의 증표-에메랄드	charm005
+48	CHARM_048_NAME	패자의 증표-앰버	charm005
+49	CHARM_049_NAME	패자의 증표-사파이어	charm005
+50	CHARM_050_NAME	패자의 증표-토파즈	charm005
+51	CHARM_051_NAME	패자의 증표-자수정	charm005
+52	CHARM_052_NAME	패자의 증표-골드 레드	charm005
+53	CHARM_053_NAME	패자의 증표-골드 블루	charm005
+54	CHARM_054_NAME	패자의 증표-브론즈	charm005
+55	CHARM_055_NAME	패자의 증표-아이스 블루	charm005
+56	CHARM_056_NAME	패자의 증표-바이올렛	charm005
+57	CHARM_057_NAME	패자의 증표-옵시디언	charm005
+58	CHARM_058_NAME	패자의 증표-레우스 레드	charm005
+59	CHARM_059_NAME	패자의 증표-레이아 그린	charm005
+60	CHARM_060_NAME	패자의 증표-레이아 로즈	charm005
+61	CHARM_061_NAME	활짝 핀 부케	charm006
+62	DUMMY000000	Unavailable	charm001
+63	DUMMY000001	Unavailable	charm001
+64	CHARM_064_NAME	만복의 호랑이-주홍	charm009
+65	CHARM_065_NAME	대감사 은장식-하늘	charm010
+66	CHARM_066_NAME	강자의 손톱 장식【금사자】	charm011
+67	CHARM_067_NAME	호걸의 뿔 장식【금사자】	charm012
+68	CHARM_068_NAME	강자의 손톱 장식【옥랑룡】	charm013
+69	CHARM_069_NAME	강자의 손톱 장식【명적룡】	charm014
+70	CHARM_070_NAME	호걸의 휘석【쇄룡】	charm015
+71	DUMMY000002	Unavailable	charm001
+72	CHARM_072_NAME	용자의 손톱 장식【금화룡】	charm017
+73	CHARM_073_NAME	용자의 손톱 장식【은화룡】	charm018
+74	DUMMY000003	Unavailable	charm001
+75	DUMMY000004	Unavailable	charm001
+76	DUMMY000005	Unavailable	charm001
+77	DUMMY000006	Unavailable	charm001
+78	DUMMY000007	Unavailable	charm001
+79	DUMMY000008	Unavailable	charm001
+80	DUMMY000009	Unavailable	charm001
+81	DUMMY000010	Unavailable	charm001
+82	CHARM_082_NAME	역전왕의 휘석【명룡】	charm027
+83	DUMMY000011	Unavailable	charm001
+84	DUMMY000012	Unavailable	charm001
+85	DUMMY000013	Unavailable	charm001
+86	CHARM_086_NAME	HARDUMMY	charm031
+87	CHARM_087_NAME	HARDUMMY	charm032
+88	CHARM_088_NAME	R.P.D.	charm033
+89	CHARM_089_NAME	엄브렐러	charm034
+90	CHARM_090_NAME	부적모그이【행운】	charm035
+91	CHARM_091_NAME	부적모그이【건강】	charm036
+92	CHARM_092_NAME	부적모그이【안전】	charm037
+93	CHARM_093_NAME	부적모그이【연애】	charm038
+94	CHARM_094_NAME	부적모그이【액막이】	charm039
+95	CHARM_095_NAME	부적모그이【정열】	charm040
+96	CHARM_096_NAME	부적모그이【평온】	charm041
+97	CHARM_097_NAME	아이루 테디	charm042
+98	CHARM_098_NAME	HARDUMMY	charm044
+99	CHARM_099_NAME	HARDUMMY	charm045
+100	CHARM_100_NAME	HARDUMMY	charm043
+101	CHARM_101_NAME	활짝 핀 부케-핑크	charm006
+102	CHARM_102_NAME	활짝 핀 부케-오렌지	charm006
+103	CHARM_103_NAME	활짝 핀 부케-레드	charm006
+104	CHARM_104_NAME	활짝 핀 부케-블루	charm006
+105	DUMMY000014	Unavailable	charm001
+106	DUMMY000015	Unavailable	charm001
+107	DUMMY000016	Unavailable	charm001
+108	DUMMY000017	Unavailable	charm001
+109	DUMMY000018	Unavailable	charm001
+110	DUMMY000019	Unavailable	charm001
+111	DUMMY000020	Unavailable	charm001
+112	DUMMY000021	Unavailable	charm001
+113	CHARM_113_NAME	만복의 호랑이-분홍	charm009
+114	CHARM_114_NAME	만복의 호랑이-연두	charm009
+115	CHARM_115_NAME	만복의 호랑이-연보라	charm009
+116	CHARM_116_NAME	만복의 호랑이-하늘	charm009
+117	CHARM_117_NAME	대감사 은장식-벚꽃	charm010
+118	CHARM_118_NAME	대감사 금장식-빨강	charm010
+119	CHARM_119_NAME	대감사 금장식-파랑	charm010
+120	CHARM_120_NAME	대감사 동장식-초록	charm010
+121	DUMMY000022	Unavailable	charm001
+122	CHARM_122_NAME	활짝 핀 부케-그린	charm006
+123	CHARM_123_NAME	활짝 핀 부케-퍼플	charm006
+124	DUMMY000023	Unavailable	charm001
+125	DUMMY000024	Unavailable	charm001
+126	DUMMY000025	Unavailable	charm001
+127	DUMMY000026	Unavailable	charm001
+128	CHARM_128_NAME	만복의 호랑이-짙은 초록	charm009
+129	CHARM_129_NAME	만복의 호랑이-오렌지	charm009
+130	CHARM_130_NAME	대감사 동장식-보라	charm010
+131	CHARM_131_NAME	대감사 흑요장식	charm010
+132	CHARM_132_NAME	두부 생존자	charm047
+133	CHARM_133_NAME	성역의 용해포-빨강	charm048
+134	CHARM_134_NAME	심연의 용해포-빨강	charm049
+135	CHARM_135_NAME	아이루 테디-화이트	charm042
+136	CHARM_136_NAME	메라루 테디	charm053
+137	CHARM_137_NAME	아이루 테디-핑크	charm042
+138	CHARM_138_NAME	아이루 테디-그레이프	charm042
+139	CHARM_139_NAME	아이루 테디-민트	charm042
+140	CHARM_140_NAME	아이루 테디-오렌지	charm042
+141	CHARM_141_NAME	성역의 용해포-초록	charm048
+142	CHARM_142_NAME	성역의 용해포-파랑	charm048
+143	CHARM_143_NAME	성역의 용해포-하늘	charm048
+144	CHARM_144_NAME	성역의 용해포-보라	charm048
+145	CHARM_145_NAME	성역의 용해포-오렌지	charm048
+146	CHARM_146_NAME	성역의 용해포-벚꽃	charm048
+147	CHARM_147_NAME	심연의 용해포-녹색	charm049
+148	CHARM_148_NAME	심연의 용해포-파랑	charm049
+149	CHARM_149_NAME	심연의 용해포-하늘	charm049
+150	CHARM_150_NAME	심연의 용해포-보라	charm049
+151	CHARM_151_NAME	심연의 용해포-오렌지	charm049
+152	CHARM_152_NAME	심연의 용해포-벚꽃	charm049
+153	CHARM_153_NAME	푸케푸케 스트랩	charm052
+154	CHARM_154_NAME	푸케푸케 아종 스트랩	charm056
+155	CHARM_155_NAME	외출용 파오우르무	charm050
+156	CHARM_156_NAME	외출용 파오우르무 아종	charm054
+157	CHARM_157_NAME	그네 라잔	charm055
+158	CHARM_158_NAME	그네 격앙 라잔	charm051
+159	CHARM_159_NAME	하늘의 해파리	charm057
+160	CHARM_160_NAME	풍선【적】	charm058
+161	CHARM_161_NAME	풍선【홍백】	charm058
+162	CHARM_162_NAME	풍선【컬러풀】	charm058
+163	CHARM_163_NAME	하늘의 해파리【군체】	charm057
+164	CHARM_164_NAME	샛별의 수호	charm069
+165	CHARM_165_NAME	금빛장신구【난휘룡】	charm059
+166	CHARM_166_NAME	황제금 장신구【난휘룡】	charm060
+167	CHARM_167_NAME	골드맘하트-취옥	charm061
+168	CHARM_168_NAME	골드맘하트-홍옥	charm061
+169	CHARM_169_NAME	골드맘하트-수정	charm061
+170	CHARM_170_NAME	플래티넘맘하트-황옥	charm062
+171	CHARM_171_NAME	플래티넘맘하트-청옥	charm062
+172	CHARM_172_NAME	플래티넘맘하트-벚꽃	charm062
+173	DUMMY000027	Unavailable	charm001
+174	DUMMY000028	Unavailable	charm001
+175	DUMMY000029	Unavailable	charm001
+176	DUMMY000030	Unavailable	charm001
+177	DUMMY000031	Unavailable	charm001
+178	DUMMY000032	Unavailable	charm001
+179	DUMMY000033	Unavailable	charm001
+180	DUMMY000034	Unavailable	charm001
+181	DUMMY000035	Unavailable	charm001
+182	DUMMY000036	Unavailable	charm001
+183	DUMMY000037	Unavailable	charm001

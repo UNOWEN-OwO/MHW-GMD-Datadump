@@ -1,0 +1,225 @@
+Skill ID	Skill Code	Skill Name	Skill Desc
+0	DUMMY000000	Unavailable	Unavailable
+1	G_PT_POISON_RESIST_SKILL_PT	Odporność na Truciznę	Zmniejsza obrażenia od trucizny.
+2	PT_PARALYSIS_RESIST_SKILL_PT	Odporność na Paraliż	Zmniejsza czas trwania paraliżu.
+3	PT_SLEEP_RESIST_SKILL_PT	Odporność na Uśpienie	Zmniejsza czas trwania uśpienia.
+4	PT_STUN_RESIST_SKILL_PT	Odporność na Ogłuszenie	Zmniejsza czas trwania ogłuszenia.
+5	PT_DARUMA_RESIST_SKILL_PT	Odporność na Wydzieliny	Zmniejsza ograniczenia związane zmobilnością, kiedy poruszasz się wwydzielinach potwora.
+6	PT_BOMB_RES_SKILL_PT	Odporność na Wybuch	Zapewnia ochronę przed wybuchoplagą.
+7	PT_PT_SCAR_RES_SKILL_PT	Odporność na Krwawienie	Zapewnia ochronę przed krwawieniem.
+8	PT_DEFDOWN_RESIST_SKILL_PT	Żelazna Skóra	Zapewnia ochronę przed SpadkiemObrony.
+9	DUMMY000003	Unavailable	Unavailable
+10	DUMMY000006	Unavailable	Unavailable
+11	PT_EARPLUG_SKILL_PT	Zatyczki do Uszu	Zapewnia ochronę przed rykiemdużych potworów.
+12	PT_HUUATU_SKILL_PT	Wiatrochron	Zapewnia ochronę przed naporemwiatru.
+13	PT_EATHQUAKE_RESIST_SKILL_PT	Odporność na Wstrząsy	Zapewnia ochronę przedwstrząsami ziemi.
+14	PT_UNKO_SKILL_PT	Gnojomistrz	Sprawia, że potwory trafione z procygnojem częściej uciekają.
+15	DUMMY000009	Unavailable	Unavailable
+16	PT_MIASMA_ADAPT_SKILL_PT	Ekspert Wydzielinowy	Neutralizuje lub zmniejsza obrażeniazadawane przez otoczenie w DolinieWydzielin.
+17	PT_ADAPT_SKILL_PT	Ochrona Termiczna	Neutralizuje obrażenia od wysokiejtemperatury.
+18	DUMMY000012	Unavailable	Unavailable
+19	PT_ATK_SKILL_PT	Wzmocnienie Ataku	Zwiększa siłę ataku. Poprawia teżzgodność na wyższych poziomach.
+20	PT_DEF_SKILL_PT	Wzmocnienie Obrony	Zwiększa obronę.Na wyższych poziomach wzmacnia teżodporności.
+21	PT_VIT_SKILL_PT	Wzmocnienie Zdrowia	Zwiększa zdrowie.
+22	PT_HEEL_SKILL_PT	Wzrost Regeneracji	Zwiększa liczbę punktów uzupełnianychpodczas regeneracji zdrowia.
+23	PT_HEEL_SPEED_SKILL_PT	Szybkość Regeneracji	Przyspiesza regenerację odzyskiwalnegozdrowia (czerwona część paska zdrowia).
+24	PT_FIRE_RESIST_SKILL_PT	Odporność na Ogień	Zwiększa odporność na ogień. Poprawiateż obronę na wyższych poziomach.
+25	PT_WATER_RESIST_SKILL_PT	Odporność na Wodę	Zwiększa odporność na wodę. Poprawiateż obronę na wyższych poziomach.
+26	PT_ICE_RESIST_SKILL_PT	Odporność na Lód	Zwiększa odporność na lód. Poprawiateż obronę na wyższych poziomach.
+27	PT_THUNDER_RESIST_SKILL_PT	Odporność na Pioruny	Zwiększa odporność na pioruny. Poprawiateż obronę na wyższych poziomach.
+28	PT_DRAGON_RESIST_SKILL_PT	Odporność na Smoki	Zwiększa odporność na smoki. Poprawiateż obronę na wyższych poziomach.
+29	PT_ATT_RESIST_SKILL_PT	Odporność na Plagę	Zapewnia ochronę przed wszystkimiplagami żywiołów.
+30	PT_FIRE_ATK_SKILL_PT	Atak Ogniem	Zwiększa moc ataku żywiołu ognia.(Moc ataku żywiołu ma ograniczenie).
+31	PT_WATER_ATK_SKILL_PT	Atak Wodą	Zwiększa moc ataku żywiołu wody.(Moc ataku żywiołu ma ograniczenie).
+32	PT_ICE_ATK_SKILL_PT	Atak Lodem	Zwiększa moc ataku żywiołu lodu.(Moc ataku żywiołu ma ograniczenie).
+33	PT_THUNDER_ATK_SKILL_PT	Atak Piorunem	Zwiększa moc ataku żywiołu pioruna.(Moc ataku żywiołu ma ograniczenie).
+34	PT_DRAGON_ATK_SKILL_PT	Smoczy Atak	Zwiększa moc ataku żywiołu smoka.(Moc ataku żywiołu ma ograniczenie).
+35	PT_POISON_ATK_SKILL_PT	Atak Trucizną	Zwiększa tempo akumulacji trucizny.(Akumulacja żywiołu ma ograniczenie).
+36	PT_PARALYSIS_ATK_SKILL_PT	Atak Paraliżem	Zwiększa tempo akumulacji paraliżu.(Akumulacja żywiołu ma ograniczenie).
+37	PT_SLEEP_ATK_SKILL_PT	Atak Uśpieniem	Zwiększa tempo akumulacji snu.(Akumulacja żywiołu ma ograniczenie).
+38	PT_BLAST_ATK_SKILL_PT	Atak Wybuchem	Zwiększa tempo akumulacji wybuchu.(Akumulacja żywiołu ma ograniczenie).
+39	PT_NORMAL_UP_SKILL_PT	Normalne Strzały	Zwiększa siłę ataku normalnej amunicjii strzał.
+40	PT_PIERCE_UP_SKILL_PT	Przebijające strzały	Zwiększa siłę ataku amunicji przebija-jącej i przebijacza smoków.
+41	PT_SPREAD_UP_G_SKILL_PT	Strzały Mocy/Rozrzutowe	Zwiększa siłę ataku amunicjirozrzutowej, strzału mocyi tysiąca smoków.
+42	PT_ADD_POISONBIN_SKILL_PT	Funkcja Trucizny	Pozwala nakładać trujące powłoki.
+43	PT_ADD_PARALYSISBIN_SKILL_PT	Funkcja Paraliżu	Pozwala nakładać paraliżujące powłoki.
+44	PT_ADD_SLEEPBIN_SKILL_PT	Funkcja Uśpienia	Pozwala nakładać usypiające powłoki.
+45	DUMMY000015	Unavailable	Unavailable
+46	PT_ADD_BOMBBIN_SKILL_PT	Funkcja Wybuchu	Pozwala nakładać powłoki wybuchu.
+47	PT_AWAKE_SKILL_PT	Wolny żywioł/Amunicja	Odblokowuje ukryty żywioł twojej bronii zwiększa pojemność magazynkałukodziałka.(Magazynek posiada limit).
+48	PT_CRI_SKILL_PT	Krytyczne Oko	Zwiększa zgodność.
+49	PT_SUPER_CRI_SKILL_PT	Wzmocnienie Krytyków	Zwiększa obrażenia trafień krytycznych.
+50	PT_WEAK_ATK_SKILL_PT	Wykorzystanie Słabości	Zwiększa zgodność ataków, którewykorzystują słaby punkt potwora.
+51	DUMMY000018	Unavailable	Unavailable
+52	PT_CONCENTRATION_SKILL_PT	Skupienie	Jeśli twoja broń posiada pasek, wypełniasię on szybciej. Jeśli pozwala ładowaćataki, proces ten ulega przyspieszeniu.
+53	PT_KEEP_SKILL_PT	Przedłużenie Mocy	Długie miecze, bliźniacze ostrza,owadzie glewie, topory sprężynowe iładowane ostrza są wzmacniane na dłużej.
+54	PT_TAKUMI_SKILL_PT	Rękodzieło	Wydłuża pasek ostrości broni.Maksymalny poziom ostrości nie możejednak zostać przekroczony.
+55	PT_BATTO_WAZA_SKILL_PT	Dobycie Krytyczne	Zwiększa zgodność przy wyprowadzaniuataków z dobyciem.
+56	PT_CRUSH_SKILL_PT	Rozłamywacz	Ułatwia łamanie i odcinanie części ciaładużych potworów.
+57	PT_KO_SKILL_PT	Powalacz	Ułatwia oszałamianie potworów.
+58	PT_STAMINA_DMG_SKILL_PT	Kradzież Wytrzymałości	Zwiększa skuteczność pewnych ataków wzakresie doprowadzania potworów dowyczerpania.
+59	PT_NORI_SKILL_PT	Mistrz Dosiadania	Ułatwia dosiadanie potworów.
+60	PT_HIEN_SKILL_PT	Wzlot	Zwiększa obrażenia zadawane przez atakiz wyskoku.
+61	PT_POWER_AWAKE_SKILL_PT	Uśpiona Moc	Tymczasowo zwiększa zgodność i zmniejszaspadek wytrzymałości po spełnieniuokreślonych warunków.
+62	PT_CHALLENGER_SKILL_PT	Podżegacz	Zwiększa siłę ataku i zgodność, kiedyduże potwory wpadają w szał.
+63	PT_FULL_CHARGE_SKILL_PT	Szczyt Możliwości	Wzmacnia atak, kiedy masz pełne zdrowie.
+64	PT_KAZIBA_SKILL_PT	Wyczyny	Zwiększa siłę ataku i obronę, kiedyzdrowie spada do 35% lub poniżej.
+65	PT_HUKUTU_G_SKILL_PT	Wzmocnienie	Chwilowo zwiększa twój atak i obronę,gdy zemdlejesz,maksymalnie 2 razy.
+66	PT_SAKAURAMI_SKILL_PT	Uraza	Wzmacnia atak, gdy stracisz odzyskiwalnezdrowie (czerwona część paskazdrowia).
+67	PT_KATSU_SKILL_PT	Ożywienie	Ulepsza uniki i zmniejsza spadekwytrzymałości, kiedy działają naciebie szkodliwe efekty.
+68	PT_HUE_SKILL_PT	Wirtuoz Rogu	Zwiększa czas trwania efektów melodiizagranych na rogu łowieckim.
+69	PT_LOAD_UP_SKILL_PT	Zwiększenie Pojemności	Zwiększa pojemność magazynka lancopału ipojemność fiolki ładowanego ostrza.
+70	PT_EXBULLET_UP_G_SKILL_PT	Moc Amunicji Specjalnej	Zwiększa moc specjalnej amunicjido łukodziałka, tysiąca smokówi przebijacza smoków.
+71	PT_CANNON_SKILL_PT	Artyleria	Wzmacnia ataki wybuchowe, takie jakostrzał z lancopału, ogień wiwerny, atakład. ostrzem z fiolką i am. przylepna.
+72	PT_GUNNER_SKILL_PT	Ciężka Artyleria	Zwiększa siłę ognia balist i dział.
+73	PT_RUNNER_SKILL_PT	Maratończyk	Spowalnia spadek wytrzymałości, jeślitwoja akcja wyczerpuje ją przez jakiśczas (jak na przykład zrywy).
+74	PT_GYM_SKILL_PT	Tężyzna	Zmniejsza spadek wytrzymałości podczaswykonywania manewrów, które jąwyczerpują, takich jak uniki itd.
+75	PT_JUMP_SKILL_PT	Skok Wiary	Pozwala ci unikać ataków dużych potworówza pomocą wykonywanych w ich stronęskoków.
+76	PT_STAMINA_SPEED_SKILL_PT	Przypływ Wytrzymałości	Przyspiesza regenerację wytrzymałości.
+77	G_PT_HUNGER_SKILL_PT	Odporność na Głód	Sprawia, że z czasem maksymalnawytrzymałość spada wolniej. Nie pomagana zimno obniżające wytrzymałość.
+78	PT_AVOID_UP_SKILL_PT	Czas na Unik	Wydłuża okres nietykalności podczaswykonywania uników.
+79	PT_AVOID_DISTANCE_SKILL_PT	Wydłużenie Uniku	Zwiększa odległość, którą pokonujesz,kiedy wykonujesz unik.
+80	PT_GUARD_UP_SKILL_PT	Garda	Redukuje efekt odepchnięcia i spadekwytrzymałości, kiedy blokujesz ataki.
+81	PT_NOUTOU_SPEED_SKILL_PT	Szybkie Chowanie	Przyspiesza chowanie broni.
+82	PT_WIDE_SKILL_PT	Duży Zasięg	Pozwala efektom pewnych przedmiotówwpływać również na pobliskichsojuszników.
+83	PT__ITEM_UP_SKILL_PT	Długie Trwanie	Wydłuża czas trwania pewnych efektówprzedmiotów.
+84	PT_MANZOK_SKILL_PT	Darmowy Posiłek	Daje ci określoną z góry szansę naskonsumowanie przedmiotu posiłkulub napoju za darmo.
+85	PT_HAYAGUI_SKILL_PT	Szybkie Jedzenie	Zwiększa szybkość jedzenia mięsa ikonsumpcji przedmiotów.
+86	PT_TOISI_SPEED_SKILL_PT	Szybkie Ostrzenie	Przyspiesza ostrzenie broni, kiedykorzystasz z osełki.
+87	DUMMY000021	Unavailable	Unavailable
+88	PT_BOMBER_SKILL_PT	Bombardier	Zwiększa obrażenia zadawane przezprzedmioty wybuchowe.
+89	DUMMY000024	Unavailable	Unavailable
+90	PT_KINOKO_LOVER_SKILL_PT	Grzybomanta	Pozwala ci trawić grzyby, którenormalnie są niejadalne, i uzyskaćich korzystne efekty.
+91	PT_FISHING_SKILL_PT	Mistrz Rybołówstwa	Poprawia twoje umiejętności w zakresiełowienia ryb.
+92	PT_STEAK_SKILL_PT	Mistrz Grillowania	Poprawia twoje umiejętności w zakresieprzyrządzania mięsa.
+93	PT_TRANSPORTER_SKILL_PT	Profesjonalny Tragarz	Zwiększa twoją szybkość, kiedytransportujesz przedmioty, i zmniejszaprawdopodobieństwo tego, że je upuścisz.
+94	PT_SAISYU_SKILL_PT	Mistrz Zbieractwa	Pozwala zbierać zasoby szybciej izapobiega odepchnięciom w wyniku atakupodczas zbierania zasobów.
+95	PT_HONEY_HUNTER_SKILL_PT	Łowca Miodu	Zwiększa ilość miodu, który otrzymujesz,kiedy zbierasz go w terenie.
+96	PT_HAGI_IRON_SKILL_PT	Spec od Wycinania	Zapobiega odepchnięciom w wyniku atakupodczas wycinania części potworów.
+97	PT_BREATH_SKILL_PT	Boskie Błogosławieństwo	Daje odgórnie ustaloną szansę nazmniejszenie obrażeń, które otrzymujesz.
+98	PT_OTOMO_LEADER_SKILL_PT	Mobilizacja Koleżkotów	Wzmacnia koleżkoty.
+99	PT_BOTANY_SKILL_PT	Botanik	Zwiększa liczbę ziół i innychprzedmiotów jednorazowych, któreotrzymujesz podczas zbierania.
+100	PT_GEOLOGY_SKILL_PT	Geolog	Pozwala korzystać z punktu pozyskiwaniazasobów więcej razy.
+101	G_PT_KONSHIN_SKILL_PT	Maksymalna Moc	Zwiększa zgodność, kiedy wytrzymałośćjest pełna przez pewien czas.
+102	G_PT_SLING_B_PLUS_SKILL_PT	Pojemność Procy	Zwiększa pojemność procy dla amunicjizebranej w terenie. Zmniejsza zużycieamunicji przy niektórych strzałach.
+103	PT_MIUSINAI_SKILL_PT	Ukrycie	Sprawia, że potworyłatwiej tracą cię z oczu.
+104	PT_NOKEZORI_SKILL_PT	Kamienna Twarz	Zapobiega odepchnięciom i innym reakcjomna nieznaczne obrażenia.
+105	PT_GUIDE_LONG_SKILL_PT	Lepszy Zwiad	Zwiększa zasięg wykrywania świetlikówzwiadowczych.
+106	PT_SYAGAMI_SPEED_SKILL_PT	Szybkie Pełzanie	Zwiększa szybkość ruchuw przykucniętej pozycji.
+107	PT_JUMP_DISTANCE_SKILL_PT	Mistrz Skakania	Zapobiega odepchnięciom w wyniku atakupodczas skoku.
+108	PT_HEEL_SMOKE_G_SKILL_PT	Mistrz Przetrwania	Interakcje z elementamiotoczenia takimi jak purchawicei wijoliczki dają dodatkowe zdrowie.
+109	PT_NAGAGUTU_G_SKILL_PT	Mobilność Wodno-Polarna	Daje swobodę ruchów w wodzie.Zapobiega też spowalnianiu ruchów przezwpływ terenu, takiego jak głęboki śnieg.
+110	DUMMY000027	Unavailable	Unavailable
+111	PT_CLIMBER_G_SKILL_PT	Wisielec	Zmniejsza spadek wytrzymałości przyunikach na ścianach i bluszczu lub przyruchach podczas chwytania się wroga.
+112	PT_FLASH_UP_SKILL_PT	Oślepiacz	Zwiększa skuteczność ataków iprzedmiotów błyskowych.
+113	DUMMY000030	Unavailable	Unavailable
+114	PT_LAB_SKILL_PT	Uczony	Przyśpiesza wzrost poziomu badawczegoi postęp śledztw specjalnych. (Efekt jestaktywny na ekranie wyników zadania.)
+115	PT_MUSIHAGI_SKILL_PT	Entomolog	Zmniejsza prawdopodobieństwo zniszczeniaciał małych owadów, pozwalając nawycinanie z nich materiałów.
+116	PT_MIST_RESIST_SKILL_PT	Odporność na Wydzieliny	Daje odporność na akumulację wydzielin.
+117	PT_SMELL_SKILL_PT	Tropiciel	Zwiększa szybkość wypełniania świetlikówzwiadowczych, kiedy łapiesz trop iznajdujesz inne ślady potworów.
+118	PT_RARE_POP_HIT_SKILL_PT	Fart Zbieracza	Zwiększa prawdopodobieństwoodnalezienia rzadkich punktówpozyskiwania zasobów.
+119	PT_RARE_POP_LOCATE_SKILL_PT	Wykrywacz	Zaznacza rzadkie punkty pozyskiwaniazasobów na mapie fauny.
+120	PT_MONOMOTI_SKILL_PT	Spec od Narzędzi	Skraca czas ładowania narzędzispecjalistycznych.
+121	DUMMY000033	Unavailable	Unavailable
+122	PT_SLIDING_UP_SKILL_PT	Wślizg Zgodności	Wślizgi na krótko zwiększają twojązgodność.
+123	PT_DRASEAL_UP_SKILL_PT	Wzmoc. Smoczej Pieczęci	Zwiększa poziom smoczej pieczęcibroni i smoczej amunicji.
+124	PT_4SOKU_SKILL_PT	Zastraszacz	Zmniejsza szanse na to, że małe potworyrzucą się na ciebie, kiedy cię zauważą.(Nie działa na niektóre potwory.)
+125	PT_NEWZYUURYU_1_SKILL_PT	Moc Anjanatha	Unavailable
+126	PT_NEWMAIN_SKILL_PT	Głód Nergiganta	Unavailable
+127	PT_DRAGONZOMBIE_SKILL_PT	Witalność Vaal Hazaka	Unavailable
+128	PT_REUSU_SKILL_PT	Moc Rathalosa	Unavailable
+129	PT_DIABROS_SKILL_PT	Moc Diablosa	Unavailable
+130	PT_KIRIN_SKILL_PT	Błogosławieństwo Kirina	Unavailable
+131	PT_REIA_ASHU_SKILL_PT	Mistrzostwo R. Rathiany	Unavailable
+132	PT_NEWZYUURYU_S_SKILL_PT	Wola Anjanatha	Unavailable
+133	DUMMY000044	Unavailable	Unavailable
+134	DUMMY000047	Unavailable	Unavailable
+135	PT_REUSU_S_SKILL_PT	Mistrzostwo Rathalosa	Unavailable
+136	PT_DIABROS_S_SKILL_PT	Mistrzostwo Diablosa	Unavailable
+137	PT_KIRIN_S_SKILL_PT	Łaska Kirina	Unavailable
+138	PT_GANKIN_SKILL_PT	Ochrona Uragaana	Unavailable
+139	DUMMY000054	Unavailable	Unavailable
+140	DUMMY000057	Unavailable	Unavailable
+141	DUMMY000060	Unavailable	Unavailable
+142	PT_NEWARASHI_SKILL_PT	Ochrona Bazelgeza	Unavailable
+143	PT_TEO_SKILL_PT	Technika Teostry	Unavailable
+144	PT_KUSHA_SKILL_PT	Lot Kushali Daory	Unavailable
+145	PT_MUKURO_SKILL_PT	Boskość Xeno'jiiva	Unavailable
+146	DUMMY000067	Unavailable	Unavailable
+147	PT_KAZANRYU_SKILL_PT	Mistrzostwo Zoraha	Unavailable
+148	DUMMY000071	Unavailable	Unavailable
+149	PT_GUILDX_SKILL_PT	Opieka Gildii	Unavailable
+150	PT_SEEKER_SKILL_PT	Opieka Komisji	Unavailable
+151	PT_FUFYO_SKILL_PT	Błogosławieństwo Legiany	Unavailable
+152	PT_FUFYO_S_SKILL_PT	Łaska Legiany	Unavailable
+153	PT_ZANSO_SKILL_PT	Moc Odogarona	Unavailable
+154	PT_ZANSO_S_SKILL_PT	Mistrzostwo Odogarona	Unavailable
+155	PT_ARROW_CHARGE2_SKILL_PT	Lepsze Ładowanie Łuku	Zwiększa maksymalny poziomnaładowania łuku o jeden.
+156	PT_SHINGAN2_SKILL_PT	Oko Umysłu/Balistyka	Zapobiega odbijaniu ataków.Sprawia, że amunicja i strzałyszybciej osiągają maksymalną moc.
+157	PT_EXGUARD2_SKILL_PT	Wzniesiona Garda	Pozwala parować ataki,których nie da się zablokować wnormalnych warunkach.
+158	PT_GOJIN2_SKILL_PT	Lakier Ochronny	Ostrość broni nie spada przezokreślony czas po ostrzeniu.
+159	PT_BLANK_UP2_SKILL_PT	Nieżywiołowe Wzmocnienie	Wzmacnia nieżywiołową broń,która została wyposażona.
+160	PT_NANA_01_SKILL_PT	Męstwo	Powyżej pewnego poziomu zdrowiamożesz jednokrotnie wytrzymaćatak, który by cię pokonał.
+161	PT_NANA_02_SKILL_PT	Szybsza Regeneracja	Regeneruje zdrowie, kiedy bezprzerwy atakujesz potwora. Poz.regeneracji zależy od broni.
+162	PT_NANA_03_SKILL_PT	Naostrz./Wol. Strzał	Ostrość spada dwa razy wolniej.Łuki i łukodziałka czasami niezużywają amunicji i powłok.
+163	PT_NANA_S_SKILL_PT	Łaska Lunastry	Unavailable
+164	PT_FF_S_SKILL_PT	Dusza Dragona	Unavailable
+165	PT_MAMM1_SKILL_PT	Żywioł Krytyczny	Zwiększa obrażenia od żywiołów(ogień, woda, pioruny, lód,smok) przy traf. krytycznych.
+166	PT_MAMM2_SKILL_PT	Status Krytyczny	Zwiększa obrażenia od szkod.efektów (paraliż, trucizna, sen,wybuch) przy traf. krytycznych.
+167	PT_WITCHER_SKILL_PT	Wiedźmińska wiedza	Unavailable
+168	PT_ANNIVERSARY_SKILL_PT	Błogosławieństwo Astery	Unavailable
+169	PT_ZINOGRE_SKILL_PT	Esencja Zinogra	Unavailable
+170	PT_TIGREX_SKILL_PT	Esencja Tigrexa	Unavailable
+171	PT_NARGACUGA_SKILL_PT	Esencja Nargacuga	Unavailable
+172	PT_BRACCHIDIOS_SKILL_PT	Esencja Brachydiosa	Unavailable
+173	PT_DINOVALDE_SKILL_PT	Esencja Glavenusa	Unavailable
+174	PT_SILVER_SKILL_PT	Esencja Srebrnego Rathalosa	Unavailable
+175	PT_GOLD_SKILL_PT	Esencja Złotej Rathiany	Unavailable
+176	PT_EARTH_SKILL_PT	Boskość Shar Ishvalda	Unavailable
+177	PT_NERO_SKILL_PT	Boskość Namiella	Unavailable
+178	PT_HIVER_SKILL_PT	Boskość Velkhana	Unavailable
+179	PT_UNDECIDED1_SKILL_PT	Boskość Prastarego	Unavailable
+180	PT_UNDECIDED2_SKILL_PT	Alchemia Komisji	Unavailable
+181	PT_UNDECIDED3_SKILL_PT	Opieka Instruktora	Unavailable
+182	PT_UNDECIDED4_SKILL_PT	Dominacja Anjanatha	Unavailable
+183	PT_UNDECIDED5_SKILL_PT	Esencja Rathiany	Unavailable
+184	PT_GUST_SKILL_PT	Prowokator	Zwiększa przyciąganie uwagipodczas atakowania potwora.
+185	PT_KNIGHT_SKILL_PT	Garda Ofensywna	Czasowo zwiększa siłę ataku po wykonaniuidealnej gardy.
+186	PT_DISASTER_SKILL_PT	Zjednoczenie	Czasowo wzmacnia atakipo wyjściu ze statusówplagi lub niestandardowych.
+187	PT_EXDODGE_SKILL_PT	Bezpieczne Lądowanie	Pozwala szybko pozbierać się po silnychatakach, które cię odrzuciły, kiedymasz dobytą broń.
+188	PT_EX06_SKILL_PT	Ukryta sztuka Bariotha	Unavailable
+189	PT_EX07_SKILL_PT	Esencja Rathalosa	Unavailable
+190	PT_EX08_SKILL_PT	Ambicja Diablosa	Unavailable
+191	PT_EX09_SKILL_PT	Ambicja Legiany	Unavailable
+192	PT_EX10_SKILL_PT	Esencja Odogarona	Unavailable
+193	PT_EX11_SKILL_PT	Ambicja Uragaana	Unavailable
+194	PT_EX12_SKILL_PT	Ambicja Bazelgeza	Unavailable
+195	PT_EX13_SKILL_PT	Esencja Deviljho	Unavailable
+196	PT_EX14_SKILL_PT	Żyła duszy Vaala	Unavailable
+197	DUMMY000108	Unavailable	Unavailable
+198	DUMMY000111	Unavailable	Unavailable
+199	PT_EX17_SKILL_PT	Boskość Kirina	Unavailable
+200	PT_EX18_SKILL_PT	Duma Gildii	Unavailable
+201	PT_EX19_SKILL_PT	Esencja Zoraha Magdarosa	Unavailable
+202	PT_EX20_SKILL_PT	Esencja Lunastry	Unavailable
+203	PT_EX21_SKILL_PT	Ambicja Nergiganta	Unavailable
+204	DUMMY000119	Unavailable	Unavailable
+205	PT_DONKI_SKILL_PT	Pałkarz	Zwiększa atak, gdy ostrość bronispada. Wzmacnia ataki wręczbronią dystansową i ogłuszającą.
+206	PT_STAMINA_PINCH_SKILL_PT	Adrenalina	Tymczasowo zmniejsza spadekwytrzymałości, gdy posiadasz 40%punktów zdrowia lub mniej.
+207	PT_COLD_RES_SKILL_PT	Odporność na zimno	Usuwa efekty zimnej pogody.
+208	PT_EX22_SKILL_PT	Gniew Rajanga	Unavailable
+209	PT_HORIZON_SKILL_PT	Ogniwo zasilające	Unavailable
+210	PT_RE_SKILL_PT	Ocaleni	Unavailable
+211	PT_MUFET_SKILL_PT	Pieczęć Safi'jiiva	Unavailable
+212	PT_WINTER_SKILL_PT	Radosne Błogosławieństwo	Unavailable
+213	PT_ANNIVERSARY_S_SKILL_PT	Błogosław. Wdzięczności	Unavailable
+214	PT_SPRING_SKILL_PT	Błogosł. Rozkwitu	Unavailable
+215	DUMMY000129	Unavailable	Unavailable
+216	DUMMY000132	Unavailable	Unavailable
+217	PT_EX23_SKILL_PT	Wola Rajanga	Unavailable
+218	PT_EX24_SKILL_PT	Wola Brachydiosa	Unavailable
+219	PT_EX25_SKILL_PT	Esencja Kulve Taroth	Unavailable
+220	DUMMY000138	Unavailable	Unavailable
+221	DUMMY000141	Unavailable	Unavailable
+222	DUMMY000144	Unavailable	Unavailable
+223	DUMMY000147	Unavailable	Unavailable

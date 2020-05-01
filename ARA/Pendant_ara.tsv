@@ -1,0 +1,185 @@
+Pendant ID	Pendant Code	Pendant Name	Model
+0	CHARM_000_NAME	ميدالية نقابة برونزية	charm002
+1	CHARM_001_NAME	ميدالية نقابة فضية	charm002
+2	CHARM_002_NAME	ميدالية نقابة ذهبية	charm002
+3	CHARM_003_NAME	وشاح ختم برونزي (أحمر)	charm003
+4	CHARM_004_NAME	وشاح ختم برونزي (أصفر)	charm003
+5	CHARM_005_NAME	وشاح ختم برونزي (أزرق)	charm003
+6	CHARM_006_NAME	وشاح ختم برونزي (وردي)	charm003
+7	CHARM_007_NAME	وشاح ختم برونزي (أخضر)	charm003
+8	CHARM_008_NAME	وشاح ختم برونزي (رمادي)	charm003
+9	CHARM_009_NAME	وشاح ختم برونزي (بني)	charm003
+10	CHARM_010_NAME	وشاح ختم فضي (أبيض)	charm003
+11	CHARM_011_NAME	وشاح ختم فضي (أحمر)	charm003
+12	CHARM_012_NAME	وشاح ختم فضي (أخضر)	charm003
+13	CHARM_013_NAME	وشاح ختم فضي (سماوي)	charm003
+14	CHARM_014_NAME	وشاح ختم فضي (أرجواني)	charm003
+15	CHARM_015_NAME	وشاح ختم فضي (وردي)	charm003
+16	CHARM_016_NAME	وشاح ختم فضي (برتقالي)	charm003
+17	CHARM_017_NAME	وشاح ختم ذهبي (بني)	charm003
+18	CHARM_018_NAME	وشاح ختم ذهبي (أبيض)	charm003
+19	CHARM_019_NAME	وشاح ختم ذهبي (أخضر داكن)	charm003
+20	CHARM_020_NAME	وشاح ختم ذهبي (أخضر فاتح)	charm003
+21	CHARM_021_NAME	وشاح ختم ذهبي (أرجواني)	charm003
+22	CHARM_022_NAME	وشاح ختم ذهبي (برتقالي)	charm003
+23	CHARM_023_NAME	وشاح ختم ذهبي (أزرق)	charm003
+24	CHARM_024_NAME	بلورة زمردية توجيهية	charm004
+25	CHARM_025_NAME	بلورة خضراء توجيهية	charm004
+26	CHARM_026_NAME	بلورة شمس توجيهية	charm004
+27	CHARM_027_NAME	بلورة غسق توجيهية	charm004
+28	CHARM_028_NAME	بلورة مرغنيت توجيهية	charm004
+29	CHARM_029_NAME	بلورة سليستيت توجيهية	charm004
+30	CHARM_030_NAME	بلورة سيترينية توجيهية	charm004
+31	CHARM_031_NAME	بلورة ألماسية توجيهية	charm004
+32	CHARM_032_NAME	بلورة قرمزية توجيهية	charm004
+33	CHARM_033_NAME	بلورة هيماتيت توجيهية	charm004
+34	CHARM_034_NAME	بلورة جليدية توجيهية	charm004
+35	CHARM_035_NAME	بلورة تنزانيت توجيهية	charm004
+36	CHARM_036_NAME	نجم الغابة التوجيهي	charm001
+37	CHARM_037_NAME	نجم الأرض القاحلة التوجيهي	charm001
+38	CHARM_038_NAME	نجم مرجاني توجيهي	charm001
+39	CHARM_039_NAME	نجم وبائي توجيهي	charm001
+40	CHARM_040_NAME	نجم حمم بركانية توجيهية	charm001
+41	CHARM_041_NAME	نجم متجمد توجيهي	charm001
+42	CHARM_042_NAME	رمز صيّاد برونزي	charm005
+43	CHARM_043_NAME	رمز صيّاد فضي	charm005
+44	CHARM_044_NAME	رمز صيّاد ذهبي	charm005
+45	CHARM_045_NAME	رمز متميز ألماسي	charm005
+46	CHARM_046_NAME	رمز متميز ياقوتي	charm005
+47	CHARM_047_NAME	رمز متميز زمردي	charm005
+48	CHARM_048_NAME	رمز متميز كهرماني	charm005
+49	CHARM_049_NAME	رمز متميز ياقوتي أزرق	charm005
+50	CHARM_050_NAME	رمز متميز توبازي	charm005
+51	CHARM_051_NAME	رمز متميز كريستالي	charm005
+52	CHARM_052_NAME	رمز متميز أحمر ذهبي	charm005
+53	CHARM_053_NAME	رمز متميز أزرق ذهبي	charm005
+54	CHARM_054_NAME	رمز متميز برونزي	charm005
+55	CHARM_055_NAME	رمز متميز أزرق ثلجي	charm005
+56	CHARM_056_NAME	رمز متميز بنفسجي	charm005
+57	CHARM_057_NAME	رمز متميز بركاني	charm005
+58	CHARM_058_NAME	رمز متميز راذالوس أحمر	charm005
+59	CHARM_059_NAME	رمز متميز راثيان أخضر	charm005
+60	CHARM_060_NAME	رمز متميز راثيان وردي	charm005
+61	CHARM_061_NAME	ازدهار الباقة	charm006
+62	DUMMY000000	Unavailable	charm001
+63	DUMMY000001	Unavailable	charm001
+64	CHARM_064_NAME	النمر القرمزي المحظوظ	charm009
+65	CHARM_065_NAME	الوميض السماوي	charm010
+66	CHARM_066_NAME	مخالب راجانغ	charm011
+67	CHARM_067_NAME	قرن راجانغ الغاضب	charm012
+68	CHARM_068_NAME	مخالب زينغر جهنمي	charm013
+69	CHARM_069_NAME	قرن أحمر بطولي	charm014
+70	CHARM_070_NAME	شظية براكيديوس الحانق	charm015
+71	DUMMY000002	Unavailable	charm001
+72	CHARM_072_NAME	مخالب راثيان ذهبية	charm017
+73	CHARM_073_NAME	مخالب راذالوس فضي	charm018
+74	DUMMY000003	Unavailable	charm001
+75	DUMMY000004	Unavailable	charm001
+76	DUMMY000005	Unavailable	charm001
+77	DUMMY000006	Unavailable	charm001
+78	DUMMY000007	Unavailable	charm001
+79	DUMMY000008	Unavailable	charm001
+80	DUMMY000009	Unavailable	charm001
+81	DUMMY000010	Unavailable	charm001
+82	CHARM_082_NAME	شظية ناميال شديد الغضب	charm027
+83	DUMMY000011	Unavailable	charm001
+84	DUMMY000012	Unavailable	charm001
+85	DUMMY000013	Unavailable	charm001
+86	CHARM_086_NAME	HARDUMMY	charm031
+87	CHARM_087_NAME	HARDUMMY	charm032
+88	CHARM_088_NAME	"قسم شرطة مدينة ""راكون"""	charm033
+89	CHARM_089_NAME	مظلة	charm034
+90	CHARM_090_NAME	عِقد مولي - الحظ	charm035
+91	CHARM_091_NAME	عِقد مولي - الصحة	charm036
+92	CHARM_092_NAME	عِقد مولي - الأمان	charm037
+93	CHARM_093_NAME	عِقد مولي - الحب	charm038
+94	CHARM_094_NAME	عِقد مولي - الحماية	charm039
+95	CHARM_095_NAME	عِقد مولي - الشغف	charm040
+96	CHARM_096_NAME	عِقد مولي - السلام	charm041
+97	CHARM_097_NAME	دمية فيلاين محشوة	charm042
+98	CHARM_098_NAME	HARDUMMY	charm044
+99	CHARM_099_NAME	HARDUMMY	charm045
+100	CHARM_100_NAME	HARDUMMY	charm043
+101	CHARM_101_NAME	ازدهار الباقة (زهري)	charm006
+102	CHARM_102_NAME	ازدهار الباقة (برتقالي)	charm006
+103	CHARM_103_NAME	ازدهار الباقة (أحمر)	charm006
+104	CHARM_104_NAME	ازدهار الباقة (أزرق)	charm006
+105	DUMMY000014	Unavailable	charm001
+106	DUMMY000015	Unavailable	charm001
+107	DUMMY000016	Unavailable	charm001
+108	DUMMY000017	Unavailable	charm001
+109	DUMMY000018	Unavailable	charm001
+110	DUMMY000019	Unavailable	charm001
+111	DUMMY000020	Unavailable	charm001
+112	DUMMY000021	Unavailable	charm001
+113	CHARM_113_NAME	النمر الخوخي المحظوظ	charm009
+114	CHARM_114_NAME	النمر الأخضر المحظوظ	charm009
+115	CHARM_115_NAME	النمر البنفسجي المحظوظ	charm009
+116	CHARM_116_NAME	النمر المحظوظ السماوي	charm009
+117	CHARM_117_NAME	الوميض الخوخي	charm010
+118	CHARM_118_NAME	الوميض الأحمر	charm010
+119	CHARM_119_NAME	الوميض الأزرق	charm010
+120	CHARM_120_NAME	الوميض الأخضر	charm010
+121	DUMMY000022	Unavailable	charm001
+122	CHARM_122_NAME	ازدهار الباقة (أخضر)	charm006
+123	CHARM_123_NAME	ازدهار الباقة (أرجواني)	charm006
+124	DUMMY000023	Unavailable	charm001
+125	DUMMY000024	Unavailable	charm001
+126	DUMMY000025	Unavailable	charm001
+127	DUMMY000026	Unavailable	charm001
+128	CHARM_128_NAME	النمر الأخضر الداكن المحظوظ	charm009
+129	CHARM_129_NAME	النمر البرتقالي المحظوظ	charm009
+130	CHARM_130_NAME	الوميض الأرجواني	charm010
+131	CHARM_131_NAME	الوميض العقيق	charm010
+132	CHARM_132_NAME	ناجية توفو	charm047
+133	CHARM_133_NAME	وشاح مقدس أحمر	charm048
+134	CHARM_134_NAME	وشاح الأعماق أحمر	charm049
+135	CHARM_135_NAME	دمية فيلاين البيضاء	charm042
+136	CHARM_136_NAME	دمية ميلينكس المحشوة	charm053
+137	CHARM_137_NAME	دمية فيلاين الوردية	charm042
+138	CHARM_138_NAME	دمية فيلاين العنبية	charm042
+139	CHARM_139_NAME	دمية فيلاين الخضراء	charm042
+140	CHARM_140_NAME	دمية فيلاين البرتقالية	charm042
+141	CHARM_141_NAME	وشاح مقدس أخضر	charm048
+142	CHARM_142_NAME	وشاح مقدس لازوردي	charm048
+143	CHARM_143_NAME	الوشاح المقدس السماوي	charm048
+144	CHARM_144_NAME	وشاح مقدس أرجواني	charm048
+145	CHARM_145_NAME	وشاح مقدس برتقالي	charm048
+146	CHARM_146_NAME	وشاح مقدس وردي	charm048
+147	CHARM_147_NAME	وشاح الأعماق أخضر	charm049
+148	CHARM_148_NAME	وشاح الأعماق لازوردي	charm049
+149	CHARM_149_NAME	وشاح الأعماق السماوي	charm049
+150	CHARM_150_NAME	وشاح الأعماق الأرجواني	charm049
+151	CHARM_151_NAME	وشاح الأعماق البرتقالي	charm049
+152	CHARM_152_NAME	وشاح الأعماق الوردي	charm049
+153	CHARM_153_NAME	شريط بوكي	charm052
+154	CHARM_154_NAME	شريط بوكي المرجاني	charm056
+155	CHARM_155_NAME	نزهة باولومو	charm050
+156	CHARM_156_NAME	نزهة ظل الليل	charm054
+157	CHARM_157_NAME	تأرجح راجانغ	charm055
+158	CHARM_158_NAME	تأرجح راجانغ الغاضب	charm051
+159	CHARM_159_NAME	الميدوسو الطائرة	charm057
+160	CHARM_160_NAME	البالون الأحمر	charm058
+161	CHARM_161_NAME	البالون الأحمر والأبيض	charm058
+162	CHARM_162_NAME	بالون قوس قزح	charm058
+163	CHARM_163_NAME	مستوطنة الميدوسو الطائرة	charm057
+164	CHARM_164_NAME	تميمة النجمة الوحيدة	charm069
+165	CHARM_165_NAME	حلية كولف ذهبي متدلية	charm059
+166	CHARM_166_NAME	حلية إمبراطور ذهبي متدلية	charm060
+167	CHARM_167_NAME	قلب كولف زمردي	charm061
+168	CHARM_168_NAME	قلب كولف ياقوتي	charm061
+169	CHARM_169_NAME	قلب كولف بلوري	charm061
+170	CHARM_170_NAME	قلب كولف توباز	charm062
+171	CHARM_171_NAME	قلب كولف ياقوتي أزرق	charm062
+172	CHARM_172_NAME	قلب كولف جوهرة وردية	charm062
+173	DUMMY000027	Unavailable	charm001
+174	DUMMY000028	Unavailable	charm001
+175	DUMMY000029	Unavailable	charm001
+176	DUMMY000030	Unavailable	charm001
+177	DUMMY000031	Unavailable	charm001
+178	DUMMY000032	Unavailable	charm001
+179	DUMMY000033	Unavailable	charm001
+180	DUMMY000034	Unavailable	charm001
+181	DUMMY000035	Unavailable	charm001
+182	DUMMY000036	Unavailable	charm001
+183	DUMMY000037	Unavailable	charm001

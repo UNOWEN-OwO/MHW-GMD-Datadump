@@ -1,0 +1,103 @@
+Monster ID	Monster Code	Monster Name
+0	EM100	Anjanath
+1	EM002	Rathalos
+2	EMS001	Aptonoth
+3	EMS049	Jagras
+4	EM106	Zorah Magdaros
+5	EMS004	Mchoświnia
+6	EMS029	Gajau
+7	EM101	Wielki Jagras
+8	EMS051	Kestodon (samiec)
+9	EM001	Rathiana
+10	EM001_01	Różowa Rathiana
+11	EM002_01	Lazurowy Rathalos
+12	EM007	Diablos
+13	EM007_01	Czarna Diabla
+14	EM011	Kirin
+15	EM121_01	Behemot
+16	EM024	Kushala Daora
+17	EM026	Lunastra
+18	EM027	Teostra
+19	EM036	Lavasioth
+20	EM043	Deviljho
+21	EM044	Barroth
+22	EM045	Uragaan
+23	EM127_00	Leszy
+24	EM102	Pukei-Pukei
+25	EM103	Nergigant
+26	EM105	Xeno'jiiv
+27	EM107	Kulu-Ya-Ku
+28	EM107_01	Tzitzi-Ya-Ku
+29	EM108	Jyuratodus
+30	EM109	Tobi-Kadachi
+31	EM110	Paolumu
+32	EM111	Legiana
+33	EM112	Wielki Girros
+34	EM113	Odogaron
+35	EM114	Radobaan
+36	EM115	Vaal Hazak
+37	EM116	Dodogama
+38	EM117	Kulve Taroth
+39	EM118	Bazelgez
+40	EMS002	Apceros
+41	EMS003	Kelbi
+42	EMS003_05	Kelbi
+43	EMS005	Hornetaur
+44	EMS006	Vespoid
+45	EMS050	Mernos
+46	EMS051_05	Kestodon (samica)
+47	EMS053	Raphinos
+48	EMS054	Shamos
+49	EMS055	Barnos
+50	EMS056	Girros
+51	EM127_01	Starożytny leszy
+52	EMS058	Gastodon
+53	EMS059	Noios
+54	EMS060_00	Rdzeń magmowy
+55	EMS060_01	Rdzeń magmowy
+56	EMS061	Gajalaka
+57	EMXXX	Nieznany
+58	EM001_99	Rathiana: ???
+59	EMS051_99	Kestodon
+60	EMS061_02	Złote plemię
+61	EM032_00	Tigrex
+62	EM037_00	Nargacug
+63	EM042_00	Barioth
+64	EM_TEST_00001	Dziki Deviljho
+65	EM063_00	Brachydios
+66	EM080_00	Glavenus
+67	EM080_01	Kwasowy Glavenus
+68	EM100_01	Piorunowy Anjanath
+69	EM102_01	Koralowy Pukei-Pukei
+70	EM103_05	Niszczycielski Nergigant
+71	EM109_01	Żmijowy Tobi-Kadachi
+72	EM110_01	Bieluniowaty Paolumu
+73	EM111_05	Wrzeszcząca Legiana
+74	EM113_01	Hebanowy Odogaron
+75	EM115_05	Welonowy Vaal Hazak
+76	EM118_05	Rozzłoszczony Bazelgez
+77	EM122_00	Beotodus
+78	EM123_00	Banbaro
+79	EM124_00	Velkhan
+80	EM125_00	Namiell
+81	EM126_00	Shar Ishvald
+82	EMS014_00	Popo
+83	EMS016_00	Anteka
+84	EMS063_00	Wulg
+85	EMS064_00	Cortos
+86	EMS061_01	Boaboa
+87	DUMMY000014	Unavailable
+88	EM001_02	Złota Rathiana
+89	EM002_02	Srebrny Rathalos
+90	EM018_00	Yian Garuga
+91	EM023	Rajang
+92	EM023_05	Wściekły Rajang
+93	EM_TEST_00002	Zwalisty Tigrex
+94	EM057_00	Zinogr
+95	EM057_01	Stygijski Zinogr
+96	EM063_05	Rozgniewany Brachydios
+97	EM104	Safi'jiiv
+98	DUMMY000016	Unavailable
+99	EM018_05	Oszpecony Yian Garuga
+100	DUMMY000018	Unavailable
+101	DUMMY000020	Unavailable

@@ -1,0 +1,324 @@
+Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
+0	Helmet	1	قبعة فيلاين جلدية	otomo/equip/ot001/helm
+0	Helmet	28	خوذة فيلاين العظمية	otomo/equip/ot028/helm
+0	Helmet	29	خوذة خليط معدني للفيلاين	otomo/equip/ot029/helm
+0	Helmet	2	خوذة فيلاين جاغراس	otomo/equip/ot002/helm
+0	Helmet	3	عمامة فيلاين كولو	otomo/equip/ot003/helm
+0	Helmet	4	قلنسوة فيلاين بوكي	otomo/equip/ot004/helm
+0	Helmet	5	خوذة فيلاين باروث	otomo/equip/ot005/helm
+0	Helmet	6	خوذة فيلاين جيورا	otomo/equip/ot006/helm
+0	Helmet	7	قلنسوة فيلاين كاداتشي	otomo/equip/ot007/helm
+0	Helmet	8	خوذة فيلاين أنجا	otomo/equip/ot008/helm
+0	Helmet	11	قبعة فيلاين لومو	otomo/equip/ot011/helm
+0	Helmet	9	خوذة فيلاين راثيان	otomo/equip/ot009/helm
+0	Helmet	13	خوذة فيلاين بان	otomo/equip/ot013/helm
+0	Helmet	30	قبعة فيلاين لاديبغ	otomo/equip/ot030/helm
+0	Helmet	12	خوذة فيلاين ليغيانا	otomo/equip/ot012/helm
+0	Helmet	14	خوذة فيلاين أودوغارون	otomo/equip/ot014/helm
+0	Helmet	16	خوذة فيلاين راذالوس	otomo/equip/ot016/helm
+0	Helmet	17	خوذة فيلاين ديابلوس	otomo/equip/ot017/helm
+0	Helmet	18	قرن فيلاين كيرين	otomo/equip/ot018/helm
+0	Helmet	27	قلنسوة فيلاين عتاد الموت	otomo/equip/ot027/helm
+0	Helmet	32	قبعة فيلاين جلدية<ICON ALPHA>	otomo/equip/ot001/helm
+0	Helmet	33	خوذة فيلاين العظمية<ICON ALPHA>	otomo/equip/ot028/helm
+0	Helmet	34	خوذة خليط معدني للفيلاين<ICON ALPHA>	otomo/equip/ot029/helm
+0	Helmet	35	خوذة فيلاين جاغراس<ICON ALPHA>	otomo/equip/ot002/helm
+0	Helmet	36	عمامة فيلاين كولو<ICON ALPHA>	otomo/equip/ot003/helm
+0	Helmet	37	قلنسوة فيلاين بوكي<ICON ALPHA>	otomo/equip/ot004/helm
+0	Helmet	38	خوذة فيلاين باروث<ICON ALPHA>	otomo/equip/ot005/helm
+0	Helmet	39	خوذة فيلاين جيورا<ICON ALPHA>	otomo/equip/ot006/helm
+0	Helmet	40	قلنسوة فيلاين كاداتشي<ICON ALPHA>	otomo/equip/ot007/helm
+0	Helmet	19	تاج فيلاين زوراه<ICON ALPHA>	otomo/equip/ot019/helm
+0	Helmet	41	خوذة فيلاين أنجا<ICON ALPHA>	otomo/equip/ot008/helm
+0	Helmet	42	قبعة فيلاين لومو<ICON ALPHA>	otomo/equip/ot011/helm
+0	Helmet	43	خوذة فيلاين راثيان<ICON ALPHA>	otomo/equip/ot009/helm
+0	Helmet	44	خوذة فيلاين بان<ICON ALPHA>	otomo/equip/ot013/helm
+0	Helmet	45	قبعة فيلاين لاديبغ<ICON ALPHA>	otomo/equip/ot030/helm
+0	Helmet	46	خوذة فيلاين ليغيانا<ICON ALPHA>	otomo/equip/ot012/helm
+0	Helmet	47	خوذة فيلاين أودوغارون<ICON ALPHA>	otomo/equip/ot014/helm
+0	Helmet	48	خوذة فيلاين راذالوس<ICON ALPHA>	otomo/equip/ot016/helm
+0	Helmet	49	خوذة فيلاين ديابلوس<ICON ALPHA>	otomo/equip/ot017/helm
+0	Helmet	50	قرن فيلاين كيرين<ICON ALPHA>	otomo/equip/ot018/helm
+0	Helmet	20	خوذة فيلاين لافاسيوث<ICON ALPHA>	otomo/equip/ot020/helm
+0	Helmet	21	خوذة فيلاين أوراغان<ICON ALPHA>	otomo/equip/ot021/helm
+0	Helmet	26	خوذة فيلاين بازيل<ICON ALPHA>	otomo/equip/ot026/helm
+0	Helmet	51	قلنسوة فيلاين عتاد الموت<ICON ALPHA>	otomo/equip/ot027/helm
+0	Helmet	52	قناع فيلاين غاجالاكا<ICON ALPHA>	otomo/equip/ot031/helm
+0	Helmet	10	خوذة فيلاين نيرغي<ICON ALPHA>	otomo/equip/ot010/helm
+0	Helmet	15	جمجمة فيلاين فال<ICON ALPHA>	otomo/equip/ot015/helm
+0	Helmet	22	كورونا فيلاين القيصر<ICON ALPHA>	otomo/equip/ot022/helm
+0	Helmet	23	عقدة فيلاين داورا<ICON ALPHA>	otomo/equip/ot023/helm
+0	Helmet	24	حجاب فيلاين زينو<ICON ALPHA>	otomo/equip/ot024/helm
+0	Helmet	25	رأس نيكر<ICON ALPHA>	otomo/equip/ot073/helm
+0	Helmet	100	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	101	قبعة فراشة الفيلاين	otomo/equip/ot040/helm
+0	Helmet	102	قبعة ألوها فيلاين	otomo/equip/ot041/helm
+0	Helmet	103	قناع فيلاين ميولوين	otomo/equip/ot042/helm
+0	Helmet	104	عتاد الرأس القطبي لفيلاين	otomo/equip/ot043/helm
+0	Helmet	105	عتاد رأس النجم لفيلاين	otomo/equip/ot044/helm
+0	Helmet	55	فراء كولف لفيلاين<ICON ALPHA>	otomo/equip/ot025/helm
+0	Helmet	56	خوذة فانغيس فيلاين<ICON ALPHA>	otomo/equip/ot033/helm
+0	Helmet	57	غطاء رأس إليزا فيلاين<ICON ALPHA>	otomo/equip/ot034/helm
+0	Helmet	58	خوذة ميجا مان	otomo/equip/ot035/helm
+0	Helmet	59	HARDUMMY	otomo/equip/ot036/helm
+0	Helmet	60	تاج فيلاين نجمي لازوردي	otomo/equip/ot037/helm
+0	Helmet	61	رأس موغل<ICON ALPHA>	otomo/equip/ot038/helm
+0	Helmet	62	خوذة ساموراي لفيلاين<ICON ALPHA>	otomo/equip/ot039/helm
+0	Helmet	63	قبعة فراشة الفيلاين<ICON ALPHA>	otomo/equip/ot040/helm
+0	Helmet	64	قبعة ألوها فيلاين<ICON ALPHA>	otomo/equip/ot041/helm
+0	Helmet	65	قناع فيلاين ميولوين<ICON ALPHA>	otomo/equip/ot042/helm
+0	Helmet	66	عتاد الرأس القطبي لفيلاين<ICON ALPHA>	otomo/equip/ot043/helm
+0	Helmet	67	عتاد رأس النجم لفيلاين<ICON ALPHA>	otomo/equip/ot044/helm
+0	Helmet	110	قلنسوة فيلاين منفوشة<ICON ALPHA>+	otomo/equip/ot060/helm
+0	Helmet	111	خوذة فيلاين العظمية<ICON ALPHA>+	otomo/equip/ot028/helm
+0	Helmet	112	خوذة خليط لفيلاين<ICON ALPHA>+	otomo/equip/ot029/helm
+0	Helmet	113	خوذة فيلاين جاغراس<ICON ALPHA>+	otomo/equip/ot002/helm
+0	Helmet	114	عمامة فيلاين كولو<ICON ALPHA>+	otomo/equip/ot003/helm
+0	Helmet	115	قبعة فيلاين بوكي<ICON ALPHA>+	otomo/equip/ot004/helm
+0	Helmet	116	خوذة فيلاين باروث<ICON ALPHA>+	otomo/equip/ot005/helm
+0	Helmet	117	خوذة فيلاين جيورا<ICON ALPHA>+	otomo/equip/ot006/helm
+0	Helmet	118	نظارات فيلاين بيو<ICON ALPHA>+	otomo/equip/ot051/helm
+0	Helmet	119	قلنسوة فيلاين كاداتشي<ICON ALPHA>+	otomo/equip/ot007/helm
+0	Helmet	120	قلنسوة فيلاين بنبارو<ICON ALPHA>+	otomo/equip/ot052/helm
+0	Helmet	121	خوذة فيلاين أنجا<ICON ALPHA>+	otomo/equip/ot008/helm
+0	Helmet	122	خوذة فيلاين راثيان<ICON ALPHA>+	otomo/equip/ot009/helm
+0	Helmet	123	قبعة فيلاين لومو<ICON ALPHA>+	otomo/equip/ot011/helm
+0	Helmet	124	خوذة فيلاين بان<ICON ALPHA>+	otomo/equip/ot013/helm
+0	Helmet	125	قبعة فيلاين لاديبغ<ICON ALPHA>+	otomo/equip/ot030/helm
+0	Helmet	126	قلنسوة فيلاين عتاد الموت<ICON ALPHA>+	otomo/equip/ot027/helm
+0	Helmet	127	خوذة فيلاين باريوث<ICON ALPHA>+	otomo/equip/ot046/helm
+0	Helmet	128	خوذة فيلاين راذالوس<ICON ALPHA>+	otomo/equip/ot016/helm
+0	Helmet	129	خوذة فيلاين ديابلوس<ICON ALPHA>+	otomo/equip/ot017/helm
+0	Helmet	130	خوذة فيلاين ليغيانا<ICON ALPHA>+	otomo/equip/ot012/helm
+0	Helmet	131	خوذة فيلاين أودوغارون<ICON ALPHA>+	otomo/equip/ot014/helm
+0	Helmet	132	خوذة فيلاين لافاسيوث<ICON ALPHA>+	otomo/equip/ot020/helm
+0	Helmet	133	خوذة فيلاين أوراغان<ICON ALPHA>+	otomo/equip/ot021/helm
+0	Helmet	134	خوذة فيلاين نارغا<ICON ALPHA>+	otomo/equip/ot047/helm
+0	Helmet	135	خوذة فيلاين غلافنيوس<ICON ALPHA>+	otomo/equip/ot048/helm
+0	Helmet	136	عتاد رأس فيلاين براكي<ICON ALPHA>+	otomo/equip/ot049/helm
+0	Helmet	137	خوذة فيلاين تغريكس<ICON ALPHA>+	otomo/equip/ot050/helm
+0	Helmet	138	خوذة صرخة صقيع فيلاين<ICON ALPHA>+	otomo/equip/ot056/helm
+0	Helmet	139	جوهر فيلاين الفني<ICON ALPHA>+	otomo/equip/ot061/helm
+0	Helmet	140	قناع فيلاين غاجالاكا<ICON ALPHA>+	otomo/equip/ot031/helm
+0	Helmet	141	قناع فيلاين بوابوا<ICON ALPHA>+	otomo/equip/ot062/helm
+0	Helmet	142	خوذة حارس الصقيع فيلاين<ICON ALPHA>+	otomo/equip/ot053/helm
+0	Helmet	143	خوذة كبرياء فيلاين<ICON ALPHA>+	otomo/equip/ot059/helm
+0	Helmet	144	جمجمة شبح فيلاين<ICON ALPHA>+	otomo/equip/ot057/helm
+0	Helmet	145	قلنسوة نامي فيلاين<ICON ALPHA>+	otomo/equip/ot054/helm
+0	Helmet	146	كورونا فيلاين القيصر<ICON ALPHA>+	otomo/equip/ot022/helm
+0	Helmet	147	عقدة فيلاين داورا<ICON ALPHA>+	otomo/equip/ot023/helm
+0	Helmet	148	قرن فيلاين كيرين<ICON ALPHA>+	otomo/equip/ot018/helm
+0	Helmet	149	تاج إشفالدا فيلاين<ICON ALPHA>+	otomo/equip/ot055/helm
+0	Helmet	150	خوذة الضَرُوس فيلاين<ICON ALPHA>+	otomo/equip/ot058/helm
+0	Helmet	151	قناع فيلاين الشره<ICON ALPHA>+	otomo/equip/ot069/helm
+0	Helmet	152	خوذة فيلاين الصياد<ICON ALPHA>+	otomo/equip/ot072/helm
+0	Helmet	153	قلنسوة فيلاين غاروغا<ICON ALPHA>+	otomo/equip/ot064/helm
+0	Helmet	154	خوذة فيلاين زينغر<ICON ALPHA>+	otomo/equip/ot065/helm
+0	Helmet	155	تاج فيلاين زوراه<ICON ALPHA>+	otomo/equip/ot019/helm
+0	Helmet	156	قناع ف مُحرك الدمى<ICON ALPHA>+	otomo/equip/ot066/helm
+0	Helmet	157	رباط فيلاين العناية الكبرى<ICON ALPHA>+	otomo/equip/ot071/helm
+0	Helmet	158	خوذة المهشم فيلاين<ICON ALPHA>+	otomo/equip/ot070/helm
+0	Helmet	159	تاج فيلاين صافي<ICON ALPHA>+	otomo/equip/ot067/helm
+0	Helmet	160	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	161	كورونا فيلاين إليزا<ICON ALPHA>+	otomo/equip/ot034/helm
+0	Helmet	162	فراء كولف لفيلاين<ICON ALPHA>+	otomo/equip/ot025/helm
+0	Helmet	163	خوذة ميجا مان<ICON ALPHA>+	otomo/equip/ot035/helm
+0	Helmet	164	عتاد رأس موغل<ICON ALPHA>+	otomo/equip/ot038/helm
+0	Helmet	165	HARDUMMY	otomo/equip/ot037/helm
+0	Helmet	166	HARDUMMY	otomo/equip/ot036/helm
+0	Helmet	167	خوذة ساموراي لفيلاين<ICON ALPHA>+	otomo/equip/ot039/helm
+0	Helmet	168	قبعة فراشة الفيلاين<ICON ALPHA>+	otomo/equip/ot040/helm
+0	Helmet	169	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	170	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	171	عتاد الرأس القطبي لفيلاين<ICON ALPHA>+	otomo/equip/ot043/helm
+0	Helmet	172	عتاد رأس النجم لفيلاين<ICON ALPHA>+	otomo/equip/ot044/helm
+0	Helmet	173	قبعة فيلاين جلدية<ICON ALPHA>+	otomo/equip/ot001/helm
+0	Helmet	174	خوذة فيلاين بازيل<ICON ALPHA>+	otomo/equip/ot026/helm
+0	Helmet	175	خوذة فانغيس فيلاين<ICON ALPHA>+	otomo/equip/ot033/helm
+0	Helmet	176	خوذة فيلاين نيرغي<ICON ALPHA>+	otomo/equip/ot010/helm
+0	Helmet	177	جمجمة فيلاين فال<ICON ALPHA>+	otomo/equip/ot015/helm
+0	Helmet	178	حجاب فيلاين زينو<ICON ALPHA>+	otomo/equip/ot024/helm
+0	Helmet	179	قبعة فيلاين النقابة<ICON ALPHA>+	otomo/equip/ot063/helm
+0	Helmet	180	خوذة فيلاين الوردية<ICON ALPHA>+	otomo/equip/ot075/helm
+0	Helmet	181	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	182	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	183	رأس شيشيماي فيلاين<ICON ALPHA>+	otomo/equip/ot078/helm
+0	Helmet	184	خوذة فيلاين فضائية<ICON ALPHA>+	otomo/equip/ot079/helm
+0	Helmet	185	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	186	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	187	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	188	HARDUMMY	otomo/equip/ot080/helm
+0	Helmet	189	HARDUMMY	otomo/equip/ot081/helm
+0	Helmet	190	عتاد رأس دودة فيلاين<ICON ALPHA>+	otomo/equip/ot082/helm
+0	Helmet	191	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	192	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	193	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	194	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	195	شعر الملحن لفيلاين<ICON ALPHA>+	otomo/equip/ot085/helm
+0	Helmet	196	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	197	رأس نيكر<ICON ALPHA>+	otomo/equip/ot073/helm
+0	Helmet	198	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	199	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	200	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+1	Armor	1	صديري فيلاين الجلدي	otomo/equip/ot001/body
+1	Armor	28	درع فيلاين العظمي	otomo/equip/ot028/body
+1	Armor	29	درع خليط معدني للفيلاين	otomo/equip/ot029/body
+1	Armor	2	درع فيلاين جاغراس	otomo/equip/ot002/body
+1	Armor	3	صديري فيلاين كولو	otomo/equip/ot003/body
+1	Armor	4	عباءة فيلاين بوكي	otomo/equip/ot004/body
+1	Armor	5	درع فيلاين باروث	otomo/equip/ot005/body
+1	Armor	6	درع فيلاين جيورا	otomo/equip/ot006/body
+1	Armor	7	بذلة فيلاين كاداتشي	otomo/equip/ot007/body
+1	Armor	8	درع فيلاين أنجا	otomo/equip/ot008/body
+1	Armor	11	رداء فيلاين لومو	otomo/equip/ot011/body
+1	Armor	9	درع فيلاين راثيان	otomo/equip/ot009/body
+1	Armor	13	بذلة فيلاين بان	otomo/equip/ot013/body
+1	Armor	30	أجنحة فيلاين لاديبغ	otomo/equip/ot030/body
+1	Armor	12	درع فيلاين ليغيانا	otomo/equip/ot012/body
+1	Armor	14	درع فيلاين أودوغارون	otomo/equip/ot014/body
+1	Armor	16	درع فيلاين راذالوس	otomo/equip/ot016/body
+1	Armor	17	درع فيلاين ديابلوس	otomo/equip/ot017/body
+1	Armor	18	صديري فيلاين كيرين	otomo/equip/ot018/body
+1	Armor	27	درع فيلاين عتاد الموت	otomo/equip/ot027/body
+1	Armor	32	صديري فيلاين جلدي<ICON ALPHA>	otomo/equip/ot001/body
+1	Armor	33	درع فيلاين عظمي<ICON ALPHA>	otomo/equip/ot028/body
+1	Armor	34	درع خليط معدني للفيلاين<ICON ALPHA>	otomo/equip/ot029/body
+1	Armor	35	درع فيلاين جاغراس<ICON ALPHA>	otomo/equip/ot002/body
+1	Armor	36	صديري فيلاين كولو<ICON ALPHA>	otomo/equip/ot003/body
+1	Armor	37	عباءة فيلاين بوكي<ICON ALPHA>	otomo/equip/ot004/body
+1	Armor	38	درع فيلاين باروث<ICON ALPHA>	otomo/equip/ot005/body
+1	Armor	39	درع فيلاين جيورا<ICON ALPHA>	otomo/equip/ot006/body
+1	Armor	40	بذلة فيلاين كاداتشي<ICON ALPHA>	otomo/equip/ot007/body
+1	Armor	19	بذلة فيلاين زوراه<ICON ALPHA>	otomo/equip/ot019/body
+1	Armor	41	درع فيلاين أنجا<ICON ALPHA>	otomo/equip/ot008/body
+1	Armor	42	رداء فيلاين لومو<ICON ALPHA>	otomo/equip/ot011/body
+1	Armor	43	درع فيلاين راثيان<ICON ALPHA>	otomo/equip/ot009/body
+1	Armor	44	بذلة فيلاين بان<ICON ALPHA>	otomo/equip/ot013/body
+1	Armor	45	أجنحة فيلاين لاديبغ<ICON ALPHA>	otomo/equip/ot030/body
+1	Armor	46	درع فيلاين ليغيانا<ICON ALPHA>	otomo/equip/ot012/body
+1	Armor	47	درع فيلاين أودوغارون<ICON ALPHA>	otomo/equip/ot014/body
+1	Armor	48	درع فيلاين راذالوس<ICON ALPHA>	otomo/equip/ot016/body
+1	Armor	49	درع فيلاين ديابلوس<ICON ALPHA>	otomo/equip/ot017/body
+1	Armor	50	صديري فيلاين كيرين<ICON ALPHA>	otomo/equip/ot018/body
+1	Armor	20	درع فيلاين لافاسيوث<ICON ALPHA>	otomo/equip/ot020/body
+1	Armor	21	درع فيلاين أوراغان<ICON ALPHA>	otomo/equip/ot021/body
+1	Armor	26	مدرع فيلاين بازيل<ICON ALPHA>	otomo/equip/ot026/body
+1	Armor	51	درع فيلاين عتاد الموت<ICON ALPHA>	otomo/equip/ot027/body
+1	Armor	52	شمْلَة فيلاين غاجالاكا<ICON ALPHA>	otomo/equip/ot031/body
+1	Armor	10	مدرع فيلاين نيرغي<ICON ALPHA>	otomo/equip/ot010/body
+1	Armor	15	عظام فيلاين فال<ICON ALPHA>	otomo/equip/ot015/body
+1	Armor	22	ثوب فيلاين القيصر<ICON ALPHA>	otomo/equip/ot022/body
+1	Armor	23	سيئة فيلاين داورا<ICON ALPHA>	otomo/equip/ot023/body
+1	Armor	24	فستان فيلاين زينو<ICON ALPHA>	otomo/equip/ot024/body
+1	Armor	25	جسد نيكر<ICON ALPHA>	otomo/equip/ot073/body
+1	Armor	53	Unavailable	otomo/equip/ot032/body
+1	Armor	100	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	101	صديري فراشة الفيلاين	otomo/equip/ot040/body
+1	Armor	102	قميص ألوها فيلاين	otomo/equip/ot041/body
+1	Armor	103	ثوب شبح فيلاين	otomo/equip/ot042/body
+1	Armor	104	بدلة النمر القطبي لفيلاين	otomo/equip/ot043/body
+1	Armor	105	بذلة النجم لفيلاين	otomo/equip/ot044/body
+1	Armor	55	بذلة كولف لفيلاين<ICON ALPHA>	otomo/equip/ot025/body
+1	Armor	56	مدرع فانغيس فيلاين<ICON ALPHA>	otomo/equip/ot033/body
+1	Armor	57	رداء وسط إليزا فيلاين<ICON ALPHA>	otomo/equip/ot034/body
+1	Armor	58	بذلة ميجا مان	otomo/equip/ot035/body
+1	Armor	59	HARDUMMY	otomo/equip/ot036/body
+1	Armor	60	درع فيلاين نجمي لازوردي	otomo/equip/ot037/body
+1	Armor	61	جسد موغل<ICON ALPHA>	otomo/equip/ot038/body
+1	Armor	62	درع ساموراي لفيلاين<ICON ALPHA>	otomo/equip/ot039/body
+1	Armor	63	صديري فراشة الفيلاين<ICON ALPHA>	otomo/equip/ot040/body
+1	Armor	64	قميص ألوها فيلاين<ICON ALPHA>	otomo/equip/ot041/body
+1	Armor	65	ثوب شبح فيلاين<ICON ALPHA>	otomo/equip/ot042/body
+1	Armor	66	بدلة النمر القطبي لفيلاين<ICON ALPHA>	otomo/equip/ot043/body
+1	Armor	67	بذلة النجم لفيلاين<ICON ALPHA>	otomo/equip/ot044/body
+1	Armor	110	معطف فيلاين منفوش<ICON ALPHA>+	otomo/equip/ot060/body
+1	Armor	111	درع فيلاين عظمي<ICON ALPHA>+	otomo/equip/ot028/body
+1	Armor	112	درع فيلاين خليط<ICON ALPHA>+	otomo/equip/ot029/body
+1	Armor	113	درع فيلاين جاغراس<ICON ALPHA>+	otomo/equip/ot002/body
+1	Armor	114	صديري فيلاين كولو<ICON ALPHA>+	otomo/equip/ot003/body
+1	Armor	115	عباءة فيلاين بوكي<ICON ALPHA>+	otomo/equip/ot004/body
+1	Armor	116	درع فيلاين باروث<ICON ALPHA>+	otomo/equip/ot005/body
+1	Armor	117	درع فيلاين جيورا<ICON ALPHA>+	otomo/equip/ot006/body
+1	Armor	118	عتاد فيلاين بيو<ICON ALPHA>+	otomo/equip/ot051/body
+1	Armor	119	بذلة فيلاين كاداتشي<ICON ALPHA>+	otomo/equip/ot007/body
+1	Armor	120	بذلة فيلاين بنبارو<ICON ALPHA>+	otomo/equip/ot052/body
+1	Armor	121	درع فيلاين أنجا<ICON ALPHA>+	otomo/equip/ot008/body
+1	Armor	122	درع فيلاين راثيان<ICON ALPHA>+	otomo/equip/ot009/body
+1	Armor	123	رداء فيلاين لومو<ICON ALPHA>+	otomo/equip/ot011/body
+1	Armor	124	بذلة فيلاين بان<ICON ALPHA>+	otomo/equip/ot013/body
+1	Armor	125	أجنحة فيلاين لاديبغ<ICON ALPHA>+	otomo/equip/ot030/body
+1	Armor	126	درع فيلاين عتاد الموت<ICON ALPHA>+	otomo/equip/ot027/body
+1	Armor	127	درع فيلاين باريوث<ICON ALPHA>+	otomo/equip/ot046/body
+1	Armor	128	درع فيلاين راذالوس<ICON ALPHA>+	otomo/equip/ot016/body
+1	Armor	129	درع فيلاين ديابلوس<ICON ALPHA>+	otomo/equip/ot017/body
+1	Armor	130	درع فيلاين ليغيانا<ICON ALPHA>+	otomo/equip/ot012/body
+1	Armor	131	درع فيلاين أودوغارون<ICON ALPHA>+	otomo/equip/ot014/body
+1	Armor	132	درع فيلاين لافاسيوث<ICON ALPHA>+	otomo/equip/ot020/body
+1	Armor	133	درع فيلاين أوراغان<ICON ALPHA>+	otomo/equip/ot021/body
+1	Armor	134	درع فيلاين نارغا<ICON ALPHA>+	otomo/equip/ot047/body
+1	Armor	135	درع فيلاين غلافنيوس<ICON ALPHA>+	otomo/equip/ot048/body
+1	Armor	136	قفازات فيلاين براكي<ICON ALPHA>+	otomo/equip/ot049/body
+1	Armor	137	درع فيلاين تغريكس<ICON ALPHA>+	otomo/equip/ot050/body
+1	Armor	138	درع صرخة صقيع فيلاين<ICON ALPHA>+	otomo/equip/ot056/body
+1	Armor	139	عتاد فيلاين تحفة فنية<ICON ALPHA>+	otomo/equip/ot061/body
+1	Armor	140	شمْلَة فيلاين غاجالاكا<ICON ALPHA>+	otomo/equip/ot031/body
+1	Armor	141	معطف فيلاين بوابوا<ICON ALPHA>+	otomo/equip/ot062/body
+1	Armor	142	درع حارس الصقيع فيلاين<ICON ALPHA>+	otomo/equip/ot053/body
+1	Armor	143	درع كبرياء فيلاين<ICON ALPHA>+	otomo/equip/ot059/body
+1	Armor	144	معطف شبح فيلاين<ICON ALPHA>+	otomo/equip/ot057/body
+1	Armor	145	بذلة نامي فيلاين<ICON ALPHA>+	otomo/equip/ot054/body
+1	Armor	146	ثوب فيلاين القيصر<ICON ALPHA>+	otomo/equip/ot022/body
+1	Armor	147	ملزمة فيلاين داورا<ICON ALPHA>+	otomo/equip/ot023/body
+1	Armor	148	صديري فيلاين كيرين<ICON ALPHA>+	otomo/equip/ot018/body
+1	Armor	149	ثياب إشفالدا فيلاين<ICON ALPHA>+	otomo/equip/ot055/body
+1	Armor	150	درع الضَرُوس فيلاين<ICON ALPHA>+	otomo/equip/ot058/body
+1	Armor	151	بذلة فيلاين الشره<ICON ALPHA>+	otomo/equip/ot069/body
+1	Armor	152	درع فيلاين الصياد<ICON ALPHA>+	otomo/equip/ot072/body
+1	Armor	153	ثوب فيلاين غاروغا<ICON ALPHA>+	otomo/equip/ot064/body
+1	Armor	154	درع فيلاين زينغر<ICON ALPHA>+	otomo/equip/ot065/body
+1	Armor	155	بذلة فيلاين زوراه<ICON ALPHA>+	otomo/equip/ot019/body
+1	Armor	156	غطاء ف مُحرك الدمى<ICON ALPHA>+	otomo/equip/ot066/body
+1	Armor	157	درع فيلاين العناية الكبرى<ICON ALPHA>+	otomo/equip/ot071/body
+1	Armor	158	قفازات المهشم فيلاين<ICON ALPHA>+	otomo/equip/ot070/body
+1	Armor	159	درع صافي فيلاين<ICON ALPHA>+	otomo/equip/ot067/body
+1	Armor	160	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	161	رداء فيلاين إليزا<ICON ALPHA>+	otomo/equip/ot034/body
+1	Armor	162	بذلة كولف لفيلاين<ICON ALPHA>+	otomo/equip/ot025/body
+1	Armor	163	بذلة ميجا مان<ICON ALPHA>+	otomo/equip/ot035/body
+1	Armor	164	جسد موغل<ICON ALPHA>+	otomo/equip/ot038/body
+1	Armor	165	HARDUMMY	otomo/equip/ot037/body
+1	Armor	166	HARDUMMY	otomo/equip/ot036/body
+1	Armor	167	درع ساموراي لفيلاين<ICON ALPHA>+	otomo/equip/ot039/body
+1	Armor	168	صديري فراشة الفيلاين<ICON ALPHA>+	otomo/equip/ot040/body
+1	Armor	169	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	170	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	171	بدلة النمر القطبي لفيلاين<ICON ALPHA>+	otomo/equip/ot043/body
+1	Armor	172	بذلة النجم لفيلاين<ICON ALPHA>+	otomo/equip/ot044/body
+1	Armor	173	صديري فيلاين جلدي<ICON ALPHA>+	otomo/equip/ot001/body
+1	Armor	174	مدرع فيلاين بازيل<ICON ALPHA>+	otomo/equip/ot026/body
+1	Armor	175	مدرع فانغيس فيلاين<ICON ALPHA>+	otomo/equip/ot033/body
+1	Armor	176	مدرع فيلاين نيرغي<ICON ALPHA>+	otomo/equip/ot010/body
+1	Armor	177	عظام فيلاين فال<ICON ALPHA>+	otomo/equip/ot015/body
+1	Armor	178	فستان فيلاين زينو<ICON ALPHA>+	otomo/equip/ot024/body
+1	Armor	179	معطف فيلاين للنقابة<ICON ALPHA>+	otomo/equip/ot063/body
+1	Armor	180	فستان فيلاين الوردي<ICON ALPHA>+	otomo/equip/ot075/body
+1	Armor	181	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	182	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	183	جسد شيشيماي فيلاين<ICON ALPHA>+	otomo/equip/ot078/body
+1	Armor	184	بذلة فضاء فيلاين<ICON ALPHA>+	otomo/equip/ot079/body
+1	Armor	185	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	186	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	187	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	188	HARDUMMY	otomo/equip/ot080/body
+1	Armor	189	HARDUMMY	otomo/equip/ot081/body
+1	Armor	190	بوتقة دودة فيلاين ضخمة<ICON ALPHA>+	otomo/equip/ot082/body
+1	Armor	191	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	192	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	193	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	194	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	195	بذلة الملحن لفيلاين<ICON ALPHA>+	otomo/equip/ot085/body
+1	Armor	196	درع البلوط لفيلاين<ICON ALPHA>+	otomo/equip/ot086/body
+1	Armor	197	جسد نيكر<ICON ALPHA>+	otomo/equip/ot073/body
+1	Armor	198	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	199	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	200	قبعة فيلاين جلدية	otomo/equip/ot000/body

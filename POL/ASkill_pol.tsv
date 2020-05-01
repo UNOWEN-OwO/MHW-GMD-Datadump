@@ -1,0 +1,21 @@
+Askill ID	Askill Code	Askill Name	Askill Upgrade Name	Askill Desc
+0	ASkill001	Opończa maskująca	Opończa maskująca+	Tymczasowo ukrywa cię przedwzrokiem wroga. Efekt ustaje,kiedy zaatakujeszlub otrzymasz obrażenia.
+1	ASkill002	Opończa czasowa	Opończa czasowa+	Automatycznie wykonuje uniki,by nie otrzymywać obrażeńprzy potężnych atakach.
+2	ASkill003	Wzmocnienie zdrowia	Wzmocnienie zdrowia+	Ustawia świecę dymną, którastopniowo przywraca ci zdrowie.
+3	ASkill004	Opończa stabilności	Opończa stabilności+	Eliminuje reakcje na obrażenia,osłania przed efektami wiatru,chroni słuch i daje odpornośćna wstrząsy. Zmniejsza teżobrażenia od ataków.
+4	ASkill005	Opończa prowokatora	Opończa prowokatora+	Zmusza potwory do częstszegobrania cię na cel i ułatwiaich wabienie. Efekt ustaje,kiedy potwór cię atakuje.
+5	ASkill006	Opończa żywotności	Opończa żywotności+	Anuluje stałą ilość obrażeń,po czym efekt ustaje.
+6	ASkill007	Opończa ognioodporna	Opończa ognioodporna+	Zmniejsza obrażenia od ognia,leczy plagę ognia i wybuchoplagęoraz zapobiega obrażeniomod gorącego otoczenia.
+7	ASkill008	Opończa wodoodporna	Opończa wodoodporna+	Zmniejsza obrażenia od wody,ulecza plagę wody, zmniejszaograniczenia ruchu w błociei całkowicie je niwelujew głębokiej wodzie.
+8	ASkill009	Opończa lodoodporna	Opończa lodoodporna+	Zmniejsza obrażenia od lodui ulecza plagę lodu.
+9	ASkill010	Opończa piorunoodporna	Opończa piorunoodporna+	Zmniejsza obrażenia od piorunóworaz ulecza plagę piorunai paraliż.
+10	ASkill011	Opończa smokoodporna	Opończa smokoodporna+	Zmniejsza obrażenia od smoków,zdejmuje plagę smoka i wzmacniasmocze właściwości broni.
+11	ASkill012	Wzmocnienie czyszczące	Wzmocnienie czyszczące+	Ustawia świecę dymną, którausuwa wszelkie szkodliwe efektyi plagi żywiołów.
+14	ASkill015	Opończa lotu	Opończa lotu+	Umożliwia szybowanie w powietrzupo skoku i pozwala unosić sięna silnym wietrze.Ułatwia dosiadanie potworów.
+15	ASkill016	Opończa uników	Opończa uników+	Wydłuża okres nietykalnościpodczas uniku i daje chwilowąpremię do ataku za uniknięcieataku w ostatniej chwili.
+16	ASkill017	Opończa uderzenia	Opończa uderzenia+	Dodaje ogłuszenie do większościataków lub zwiększa siłęobecnego efektu ogłuszenia.
+17	ASkill018	Opończa aptekarza	Opończa aptekarza+	Zwiększa szansę na akumulacjęefektów przy ataku broniąnakładającą szkodliwe efekty.
+18	ASkill019	Opończa niewrażliwości	Opończa niewrażliwości+	Usuwa wszystkie szkodliweefekty i zapobiega imna okres swojego działania.
+19	ASkill020	Wzmocnienie zgodności	Wzmocnienie zgodności+	Ustawia świecę dymną, którazwiększa zgodność.
+20	ASkill021	Opończa bandyty	Opończa bandyty+	Powoduje, że zaatakowane potworypozostawiają rzadkie przedmiotyna sprzedaż.
+21	ASkill022	Kaptur asasyna	Kaptur asasyna+	Zwiększa szybkość ruchów,pozwala szybciej się ukryć.Działa do zadania obrażeńzaskoczonemu tym potworowi.

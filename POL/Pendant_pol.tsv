@@ -1,0 +1,185 @@
+Pendant ID	Pendant Code	Pendant Name	Model
+0	CHARM_000_NAME	Brązowy medal Gildii	charm002
+1	CHARM_001_NAME	Srebrny medal Gildii	charm002
+2	CHARM_002_NAME	Złoty medal Gildii	charm002
+3	CHARM_003_NAME	Brązowy szal symbolu (czer.)	charm003
+4	CHARM_004_NAME	Brązowy szal symbolu (żółty)	charm003
+5	CHARM_005_NAME	Brązowy szal symbolu (nieb.)	charm003
+6	CHARM_006_NAME	Brązowy szal symbolu (róż.)	charm003
+7	CHARM_007_NAME	Brązowy szal symbolu (ziel.)	charm003
+8	CHARM_008_NAME	Brązowy szal symbolu (szary)	charm003
+9	CHARM_009_NAME	Brązowy szal symbolu (brun.)	charm003
+10	CHARM_010_NAME	Srebrny szal symbolu (biały)	charm003
+11	CHARM_011_NAME	Srebrny szal symbolu (czer.)	charm003
+12	CHARM_012_NAME	Srebrny szal symbolu (ziel.)	charm003
+13	CHARM_013_NAME	Srebrny szal symbolu (turk.)	charm003
+14	CHARM_014_NAME	Srebrny szal symbolu (fiol.)	charm003
+15	CHARM_015_NAME	Srebrny szal symbolu (róż.)	charm003
+16	CHARM_016_NAME	Srebrny szal symbolu (pom.)	charm003
+17	CHARM_017_NAME	Złoty szal symbolu (brun.)	charm003
+18	CHARM_018_NAME	Złoty szal symbolu (biały)	charm003
+19	CHARM_019_NAME	Złoty szal symbolu (c. ziel.)	charm003
+20	CHARM_020_NAME	Złoty szal symbolu (j. ziel.)	charm003
+21	CHARM_021_NAME	Złoty szal symbolu (fiol.)	charm003
+22	CHARM_022_NAME	Złoty szal symbolu (pom.)	charm003
+23	CHARM_023_NAME	Złoty szal symbolu (nieb.)	charm003
+24	CHARM_024_NAME	Przew. szmaragdowy kryształ	charm004
+25	CHARM_025_NAME	Przewodni zielony kryształ	charm004
+26	CHARM_026_NAME	Przewodni słoneczny kryształ	charm004
+27	CHARM_027_NAME	Przewodni mroczny kryształ	charm004
+28	CHARM_028_NAME	Przew. morganitowy kryształ	charm004
+29	CHARM_029_NAME	Przew. celestynowy kryształ	charm004
+30	CHARM_030_NAME	Przewodni cytrynowy kryształ	charm004
+31	CHARM_031_NAME	Przew. diamentowy kryształ	charm004
+32	CHARM_032_NAME	Przew. karmazynowy kryształ	charm004
+33	CHARM_033_NAME	Przew. hematytowy kryształ	charm004
+34	CHARM_034_NAME	Przewodni lodowcowy kryształ	charm004
+35	CHARM_035_NAME	Przew. tanzanitowy kryształ	charm004
+36	CHARM_036_NAME	Przewodnia gwiazda lasu	charm001
+37	CHARM_037_NAME	Przewodnia gwiazda pustkowia	charm001
+38	CHARM_038_NAME	Przewodnia gwiazda koralu	charm001
+39	CHARM_039_NAME	Przewodnia gwiazda wydzielin	charm001
+40	CHARM_040_NAME	Przewodnia gwiazda magmy	charm001
+41	CHARM_041_NAME	Przewodnia gwiazda szronu	charm001
+42	CHARM_042_NAME	Brązowy symbol łowcy	charm005
+43	CHARM_043_NAME	Srebrny symbol łowcy	charm005
+44	CHARM_044_NAME	Złoty symbol łowcy	charm005
+45	CHARM_045_NAME	Diamentowy symbol mistrza	charm005
+46	CHARM_046_NAME	Rubinowy symbol mistrza	charm005
+47	CHARM_047_NAME	Szmaragdowy symbol mistrza	charm005
+48	CHARM_048_NAME	Bursztynowy symbol mistrza	charm005
+49	CHARM_049_NAME	Szafirowy symbol mistrza	charm005
+50	CHARM_050_NAME	Topazowy symbol mistrza	charm005
+51	CHARM_051_NAME	Ametystowy symbol mistrza	charm005
+52	CHARM_052_NAME	Złoto-czerwony symbol mistrza	charm005
+53	CHARM_053_NAME	Złoto-niebieski symbol mistrza	charm005
+54	CHARM_054_NAME	Brązowy symbol mistrza	charm005
+55	CHARM_055_NAME	Lazurowy symbol mistrza	charm005
+56	CHARM_056_NAME	Fioletowy symbol mistrza	charm005
+57	CHARM_057_NAME	Obsydianowy symbol mistrza	charm005
+58	CHARM_058_NAME	Czerw. symbol mistrza Ratha	charm005
+59	CHARM_059_NAME	Ziel. symbol mistrza Ratha	charm005
+60	CHARM_060_NAME	Róż. symbol mistrza Ratha	charm005
+61	CHARM_061_NAME	Kwitnący bukiet	charm006
+62	DUMMY000000	Unavailable	charm001
+63	DUMMY000001	Unavailable	charm001
+64	CHARM_064_NAME	Szkarł. tygrys szczęścia	charm009
+65	CHARM_065_NAME	Błękitna srebrzystka	charm010
+66	CHARM_066_NAME	Pazury Rajanga	charm011
+67	CHARM_067_NAME	Róg Wściekłego Rajanga	charm012
+68	CHARM_068_NAME	Pazury Stygijskiego Zinogra	charm013
+69	CHARM_069_NAME	Heroiczny czerwony róg	charm014
+70	CHARM_070_NAME	Okr. Rozgn. Brachydiosa	charm015
+71	DUMMY000002	Unavailable	charm001
+72	CHARM_072_NAME	Pazury Złotej Rathiany	charm017
+73	CHARM_073_NAME	Pazury Srebrnego Rathalosa	charm018
+74	DUMMY000003	Unavailable	charm001
+75	DUMMY000004	Unavailable	charm001
+76	DUMMY000005	Unavailable	charm001
+77	DUMMY000006	Unavailable	charm001
+78	DUMMY000007	Unavailable	charm001
+79	DUMMY000008	Unavailable	charm001
+80	DUMMY000009	Unavailable	charm001
+81	DUMMY000010	Unavailable	charm001
+82	CHARM_082_NAME	Okr. Arcyzah. Namiella	charm027
+83	DUMMY000011	Unavailable	charm001
+84	DUMMY000012	Unavailable	charm001
+85	DUMMY000013	Unavailable	charm001
+86	CHARM_086_NAME	HARDUMMY	charm031
+87	CHARM_087_NAME	HARDUMMY	charm032
+88	CHARM_088_NAME	R.P.D.	charm033
+89	CHARM_089_NAME	Umbrella	charm034
+90	CHARM_090_NAME	Dek. kretka – Szczęście	charm035
+91	CHARM_091_NAME	Dek. kretka – Zdrowie	charm036
+92	CHARM_092_NAME	Dek. kretka – Bezpiecz.	charm037
+93	CHARM_093_NAME	Dek. kretka – Miłość	charm038
+94	CHARM_094_NAME	Dek. kretka – Ochrona	charm039
+95	CHARM_095_NAME	Dek. kretka – Pasja	charm040
+96	CHARM_096_NAME	Dek. kretka – Pokój	charm041
+97	CHARM_097_NAME	Pluszowy felin	charm042
+98	CHARM_098_NAME	HARDUMMY	charm044
+99	CHARM_099_NAME	HARDUMMY	charm045
+100	CHARM_100_NAME	HARDUMMY	charm043
+101	CHARM_101_NAME	Kwitnący bukiet (różowy)	charm006
+102	CHARM_102_NAME	Kwitnący bukiet (pomar.)	charm006
+103	CHARM_103_NAME	Kwitnący bukiet (czerw.)	charm006
+104	CHARM_104_NAME	Kwitnący bukiet (nieb.)	charm006
+105	DUMMY000014	Unavailable	charm001
+106	DUMMY000015	Unavailable	charm001
+107	DUMMY000016	Unavailable	charm001
+108	DUMMY000017	Unavailable	charm001
+109	DUMMY000018	Unavailable	charm001
+110	DUMMY000019	Unavailable	charm001
+111	DUMMY000020	Unavailable	charm001
+112	DUMMY000021	Unavailable	charm001
+113	CHARM_113_NAME	Brzosk. tygrys szczęścia	charm009
+114	CHARM_114_NAME	Zielony tygrys szczęścia	charm009
+115	CHARM_115_NAME	Fiolet. tygrys szczęścia	charm009
+116	CHARM_116_NAME	Błękitny tygrys szczęścia	charm009
+117	CHARM_117_NAME	Brzoskwin. srebrzystka	charm010
+118	CHARM_118_NAME	Czerwona srebrzystka	charm010
+119	CHARM_119_NAME	Niebieska srebrzystka	charm010
+120	CHARM_120_NAME	Zielona srebrzystka	charm010
+121	DUMMY000022	Unavailable	charm001
+122	CHARM_122_NAME	Kwitnący bukiet (ziel.)	charm006
+123	CHARM_123_NAME	Kwitnący bukiet (fiolet.)	charm006
+124	DUMMY000023	Unavailable	charm001
+125	DUMMY000024	Unavailable	charm001
+126	DUMMY000025	Unavailable	charm001
+127	DUMMY000026	Unavailable	charm001
+128	CHARM_128_NAME	Ciemnoz. tygrys szczęścia	charm009
+129	CHARM_129_NAME	Pomar. tygrys szczęścia	charm009
+130	CHARM_130_NAME	Fioletowa srebrzystka	charm010
+131	CHARM_131_NAME	Onyksowa srebrzystka	charm010
+132	CHARM_132_NAME	Ocalały tofu	charm047
+133	CHARM_133_NAME	Czerwony święty woal	charm048
+134	CHARM_134_NAME	Czerwony woal głębin	charm049
+135	CHARM_135_NAME	Biały pluszowy felin	charm042
+136	CHARM_136_NAME	Pluszowy melynks	charm053
+137	CHARM_137_NAME	Różowy pluszowy felin	charm042
+138	CHARM_138_NAME	Fioletowy pluszowy felin	charm042
+139	CHARM_139_NAME	Miętowy pluszowy felin	charm042
+140	CHARM_140_NAME	Pomarań. pluszowy felin	charm042
+141	CHARM_141_NAME	Zielony święty woal	charm048
+142	CHARM_142_NAME	Lazurowy święty woal	charm048
+143	CHARM_143_NAME	Błękitny święty woal	charm048
+144	CHARM_144_NAME	Fioletowy święty woal	charm048
+145	CHARM_145_NAME	Pomarańczowy święty woal	charm048
+146	CHARM_146_NAME	Różowy święty woal	charm048
+147	CHARM_147_NAME	Zielony woal głębin	charm049
+148	CHARM_148_NAME	Lazurowy woal głębin	charm049
+149	CHARM_149_NAME	Błękitny woal głębin	charm049
+150	CHARM_150_NAME	Fioletowy woal głębin	charm049
+151	CHARM_151_NAME	Pomarańczowy woal głębin	charm049
+152	CHARM_152_NAME	Różowy woal głębin	charm049
+153	CHARM_153_NAME	Pasek z Pukei	charm052
+154	CHARM_154_NAME	Pasek z Koralowego Pukei	charm056
+155	CHARM_155_NAME	Kroczący Paolumu	charm050
+156	CHARM_156_NAME	Kroczący bieluniowaty	charm054
+157	CHARM_157_NAME	Atakujący Rajang	charm055
+158	CHARM_158_NAME	Atakuj. wściekły Rajang	charm051
+159	CHARM_159_NAME	Meduzos latający	charm057
+160	CHARM_160_NAME	Czerwony balon	charm058
+161	CHARM_161_NAME	Czerwono-białe balony	charm058
+162	CHARM_162_NAME	Tęczowe balony	charm058
+163	CHARM_163_NAME	Kolonia meduzosów lataj.	charm057
+164	CHARM_164_NAME	Amulet samotnej gwiazdy	charm069
+165	CHARM_165_NAME	Złote zdobienie Kulve	charm059
+166	CHARM_166_NAME	Złote zdobienie Kjárra	charm060
+167	CHARM_167_NAME	Szmaragdowe serce Kulve	charm061
+168	CHARM_168_NAME	Rubinowe serce Kulve	charm061
+169	CHARM_169_NAME	Kryształowe serce Kulve	charm061
+170	CHARM_170_NAME	Topazowe serce Kulve	charm062
+171	CHARM_171_NAME	Szafirowe serce Kulve	charm062
+172	CHARM_172_NAME	Serce Kulve z róż. kl.	charm062
+173	DUMMY000027	Unavailable	charm001
+174	DUMMY000028	Unavailable	charm001
+175	DUMMY000029	Unavailable	charm001
+176	DUMMY000030	Unavailable	charm001
+177	DUMMY000031	Unavailable	charm001
+178	DUMMY000032	Unavailable	charm001
+179	DUMMY000033	Unavailable	charm001
+180	DUMMY000034	Unavailable	charm001
+181	DUMMY000035	Unavailable	charm001
+182	DUMMY000036	Unavailable	charm001
+183	DUMMY000037	Unavailable	charm001

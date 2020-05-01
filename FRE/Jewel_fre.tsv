@@ -1,0 +1,402 @@
+Deco ID	Item ID	Deco Name	Slot Size
+0	727	Joyau antidote <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+1	728	Joyau antiparalysie <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+2	729	Joyau insomnie <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+3	730	Joyau volonté <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+4	731	Joyau blindage <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+5	732	Joyau hémostatique <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+6	733	Joyau de fer <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+7	734	Joyau insonorisation <STYL MOJI_YELLOW_DEFAULT>[3]</STYL>	3
+8	735	Joyau anti-vent <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+9	736	Joyau anti-séisme <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+10	739	Joyau attaque <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+11	740	Joyau défense <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+12	741	Joyau vitalité <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+13	742	Joyau facteur X <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+14	743	Joyau ignifuge <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+15	744	Joyau étanche <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+16	745	Joyau antigel <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+17	746	Joyau isolant <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+18	747	Joyau draconien <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+19	748	Joyau fléau <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+20	749	Joyau de feu <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+21	750	Joyau d'eau <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+22	751	Joyau de glace <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+23	752	Joyau de foudre <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+24	753	Joyau tueur de dragon <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+25	754	Joyau venin <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+26	755	Joyau paralysant <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+27	756	Joyau du sommeil <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+28	757	Joyau explosion <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+29	758	Joyau poison <STYL MOJI_YELLOW_DEFAULT>[3]</STYL>	3
+30	759	Joyau léthargie <STYL MOJI_YELLOW_DEFAULT>[3]</STYL>	3
+31	760	Joyau sporifère <STYL MOJI_YELLOW_DEFAULT>[3]</STYL>	3
+32	761	Joyau explosif <STYL MOJI_YELLOW_DEFAULT>[3]</STYL>	3
+33	763	Joyau du tireur <STYL MOJI_YELLOW_DEFAULT>[3]</STYL>	3
+34	764	Joyau du maître <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+35	765	Joyau du berserk <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+36	766	Joyau faiblesse <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+37	767	Joyau concentration <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+38	768	Joyau artisanat <STYL MOJI_YELLOW_DEFAULT>[3]</STYL>	3
+39	769	Joyau dégainage <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+40	770	Joyau destruction <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+41	771	Joyau cogneur <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+42	772	Joyau fatigue <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+43	774	Joyau acrobatie <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+44	775	Joyau occulte <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+45	776	Joyau de témérité <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+46	777	Joyau parfait <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+47	778	Joyau du héros <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+48	779	Joyau du courage <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+49	780	Joyau de vengeance <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+50	781	Joyau de musique <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+51	782	Joyau du franc-tireur <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+52	783	Joyau du sniper <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+53	784	Joyau dynamite <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+54	785	Joyau artillerie <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+55	786	Joyau du marathonien <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+56	787	Joyau de l'athlète <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+57	789	Joyau métabolisme <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+58	790	Joyau du spartiate <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+59	791	Joyau d'invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+60	792	Joyau de l'esquive <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+61	793	Joyau du paladin <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+62	794	Joyau rengainage <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+63	795	Joyau du mousquetaire <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+64	796	Joyau du chimiste <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+65	797	Joyau du parasite <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+66	798	Joyau du carnassier <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+67	799	Joyau de l'aiguiseur <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+68	800	Joyau du bombardier <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+69	801	Joyau du mycologue <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+70	808	Joyau de bénédiction <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+71	809	Joyau Palico <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+72	810	Joyau du botaniste <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+73	811	Joyau géologie <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+74	812	Joyau d'omnipotence <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+75	813	Joyau de pierre <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+76	814	Joyau de furtivité <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+77	815	Joyau inflexible <STYL MOJI_YELLOW_DEFAULT>[3]</STYL>	3
+78	819	Joyau fumigène <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+79	820	Joyau d'Atlantis <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+80	824	Joyau insectoïde <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+81	826	Joyau de prémonition <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+82	828	Joyau intimidation <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+83	832	Joyau du glisseur <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+84	833	Joyau de médecin <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+85	834	Joyau de l'artilleur <STYL MOJI_YELLOW_DEFAULT>[3]</STYL>	3
+86	835	Joyau de titane <STYL MOJI_YELLOW_DEFAULT>[3]</STYL>	3
+87	836	Joyau de plomb <STYL MOJI_YELLOW_DEFAULT>[3]</STYL>	3
+88	837	Joyau de puissance <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+89	838	Joyau sauvage <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+90	839	Joyau Sceau-de-dragon <STYL MOJI_YELLOW_DEFAULT>[3]</STYL>	3
+91	842	Joyau de survie <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+92	874	Joyau de l'archer <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+93	875	Joyau spirituel <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+94	876	Joyau bouclier <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+95	877	Joyau de trempe <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+96	878	Joyau d'acier <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+97	825	Joyau de pureté <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	1
+98	1968	Joyau phénix <STYL MOJI_YELLOW_DEFAULT>[3]</STYL>	3
+99	1969	Joyau gardien <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+100	1970	Joyau de refroidissement <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2
+101	1971	Joyau ignifuge II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+102	1972	Joyau étanche II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+103	1973	Joyau antigel II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+104	1974	Joyau isolant II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+105	1975	Joyau draconien II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+106	1976	Joyau de feu II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+107	1977	Joyau d'eau II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+108	1978	Joyau de glace II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+109	1979	Joyau de foudre II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+110	1980	Joyau tueur de dragon II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+111	1981	Joyau venin II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+112	1982	Joyau paralysant II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+113	1983	Joyau du sommeil II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+114	1984	Joyau explosion II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+115	1985	Joyau ignifuge III <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+116	1986	Joyau étanche III <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+117	1987	Joyau antigel III <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+118	1988	Joyau isolant III <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+119	1989	Joyau draconien III <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+120	1990	Joyau antidote II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+121	1991	Joyau antiparalysie II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+122	1992	Joyau insomnie II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+123	1993	Joyau volonté II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+124	1994	Joyau blindage II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+125	1995	Joyau hémostatique II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+126	1996	Joyau de fer II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+127	1997	Joyau de pureté II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+128	1998	Joyau du spartiate II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+129	1999	Joyau facteur X II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+130	2000	Joyau de furtivité II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+131	2001	Joyau intimidation II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+132	2002	Joyau Palico II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+133	2003	Joyau de furtivité III <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+134	2004	Joyau intimidation III <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+135	2005	Joyau Palico III <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+136	2006	Joyau du sniper II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+137	2007	Joyau artillerie II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+138	2008	Joyau du botaniste II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+139	2009	Joyau géologie II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+140	2010	Joyau de la nature II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+141	2011	Joyau d'Atlantis II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+142	2012	Joyau insectoïde II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+143	2013	Joyau de musique II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+144	2014	Joyau du botaniste IV <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+145	2015	Joyau géologie III <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+146	2016	Joyau de la nature III <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+147	2017	Joyau insectoïde III <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+148	2018	Joyau du chimiste II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+149	2019	Joyau défense II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+150	2020	Joyau du chimiste III <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+151	2021	Joyau défense III <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+152	2022	Joyau dynamite II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+153	2023	Joyau insonorisation II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+154	2024	Joyau anti-vent II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+155	2025	Joyau attaque II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+156	2026	Joyau du maître II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+157	2027	Joyau artisanat II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+158	2028	Joyau occulte II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+159	2029	Joyau de témérité II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+160	2030	Joyau du héros II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+161	2031	Joyau de vengeance II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+162	2032	Joyau de l'athlète II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+163	2033	Joyau d'invulnérabilité II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+164	2034	Joyau du paladin II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+165	2035	Joyau du mousquetaire II <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+166	2036	Joyau fatigue/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+167	2037	Joyau courage/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+168	2038	Joyau sauvage/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+169	2039	Joyau paladin/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+170	2040	Joyau mousquetaire/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+171	2041	Joyau parasite/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+172	2042	Joyau pierre/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+173	2043	Joyau fléau/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+174	2044	Joyau acrobatie/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+175	2045	Joyau marathonien/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+176	2046	Joyau métabolisme/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+177	2047	Joyau esquive/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+178	2048	Joyau rengainage/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+179	2049	Joyau carnassier/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+180	2050	Joyau aiguiseur/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+181	2051	Joyau bombardier/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+182	2052	Joyau mycologue/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+183	2053	Joyau glisseur/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+184	2054	Joyau gardien/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+185	2055	Joyau fatigue/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+186	2056	Joyau courage/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+187	2057	Joyau sauvage/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+188	2058	Joyau paladin/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+189	2059	Joyau mousquetaire/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+190	2060	Joyau parasite/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+191	2061	Joyau pierre/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+192	2062	Joyau fléau/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+193	2063	Joyau acrobatie/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+194	2064	Joyau marathonien/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+195	2065	Joyau métabolisme/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+196	2066	Joyau esquive/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+197	2067	Joyau rengainage/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+198	2068	Joyau carnassier/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+199	2069	Joyau aiguiseur/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+200	2070	Joyau bombardier/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+201	2071	Joyau mycologue/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+202	2072	Joyau glisseur/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+203	2073	Joyau gardien/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+204	2074	Joyau fatigue/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+205	2075	Joyau courage/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+206	2076	Joyau sauvage/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+207	2077	Joyau paladin/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+208	2078	Joyau mousquetaire/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+209	2079	Joyau parasite/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+210	2080	Joyau pierre/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+211	2081	Joyau fléau/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+212	2082	Joyau acrobatie/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+213	2083	Joyau marathonien/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+214	2084	Joyau métabolisme/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+215	2085	Joyau esquive/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+216	2086	Joyau rengainage/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+217	2087	Joyau carnassier/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+218	2088	Joyau aiguiseur/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+219	2089	Joyau bombardier/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+220	2090	Joyau mycologue/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+221	2091	Joyau glisseur/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+222	2092	Joyau gardien/attaque <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+223	2093	Joyau fatigue/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+224	2094	Joyau courage/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+225	2095	Joyau sauvage/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+226	2096	Joyau paladin/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+227	2097	Joyau mousquetaire/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+228	2098	Joyau parasite/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+229	2099	Joyau pierre/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+230	2100	Joyau fléau/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+231	2101	Joyau acrobatie/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+232	2102	Joyau marathonien/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+233	2103	Joyau métabolisme/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+234	2104	Joyau esquive/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+235	2105	Joyau rengainage/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+236	2106	Joyau carnassier/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+237	2107	Joyau aiguiseur/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+238	2108	Joyau bombardier/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+239	2109	Joyau mycologue/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+240	2110	Joyau glisseur/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+241	2111	Joyau gardien/maître <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+242	2112	Joyau fatigue/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+243	2113	Joyau courage/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+244	2114	Joyau sauvage/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+245	2115	Joyau paladin/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+246	2116	Joyau mousquetaire/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+247	2117	Joyau parasite/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+248	2118	Joyau pierre/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+249	2119	Joyau fléau/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+250	2120	Joyau acrobatie/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+251	2121	Joyau marathonien/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+252	2122	Joyau métabolisme/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+253	2123	Joyau esquive/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+254	2124	Joyau rengainage/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+255	2125	Joyau carnassier/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+256	2126	Joyau aiguiseur/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+257	2127	Joyau bombardier/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+258	2128	Joyau mycologue/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+259	2129	Joyau glisseur/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+260	2130	Joyau gardien/tireur <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+261	2131	Joyau fatigue/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+262	2132	Joyau courage/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+263	2133	Joyau sauvage/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+264	2134	Joyau paladin/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+265	2135	Joyau mousquetaire/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+266	2136	Joyau parasite/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+267	2137	Joyau pierre/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+268	2138	Joyau fléau/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+269	2139	Joyau acrobatie/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+270	2140	Joyau marathonien/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+271	2141	Joyau métabolisme/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+272	2142	Joyau esquive/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+273	2143	Joyau rengainage/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+274	2144	Joyau carnassier/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+275	2145	Joyau aiguiseur/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+276	2146	Joyau bombardier/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+277	2147	Joyau mycologue/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+278	2148	Joyau glisseur/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+279	2149	Joyau gardien/artisanat <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+280	2150	Joyau anti-séisme/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+281	2151	Joyau concentration/bénédic <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+282	2152	Joyau puissance/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+283	2153	Joyau destruction/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+284	2154	Joyau cogneur/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+285	2155	Joyau héros/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+286	2156	Joyau anti-vent/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+287	2157	Joyau dégainage/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+288	2158	Joyau occulte/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+289	2159	Joyau témérité/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+290	2160	Joyau parfait/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+291	2161	Joyau vengeance/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+292	2162	Joyau omnipotence/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+293	2163	Joyau inflexible/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+294	2164	Joyau phénix/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+295	2165	Joyau insonorisation/bénédic <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+296	2166	Joyau berserk/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+297	2167	Joyau faiblesse/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+298	2168	Joyau artisanat/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+299	2169	Joyau tireur/bénédiction <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+300	2170	Joyau anti-séisme/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+301	2171	Joyau concentration/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+302	2172	Joyau puissance/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+303	2173	Joyau destruction/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+304	2174	Joyau cogneur/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+305	2175	Joyau héros/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+306	2176	Joyau anti-vent/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+307	2177	Joyau dégainage/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+308	2178	Joyau occulte/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+309	2179	Joyau témérité/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+310	2180	Joyau parfait/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+311	2181	Joyau vengeance/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+312	2182	Joyau omnipotence/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+313	2183	Joyau inflexible/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+314	2184	Joyau phénix/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+315	2185	Joyau insonorisation/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+316	2186	Joyau berserk/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+317	2187	Joyau faiblesse/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+318	2188	Joyau artisanat/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+319	2189	Joyau tireur/médecin <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+320	2190	Joyau anti-séisme/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+321	2191	Joyau concentration/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+322	2192	Joyau puissance/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+323	2193	Joyau destruction/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+324	2194	Joyau cogneur/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+325	2195	Joyau héros/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+326	2196	Joyau anti-vent/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+327	2197	Joyau dégainage/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+328	2198	Joyau occulte/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+329	2199	Joyau témérité/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+330	2200	Joyau parfait/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+331	2201	Joyau vengeance/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+332	2202	Joyau omnipotence/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+333	2203	Joyau inflexible/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+334	2204	Joyau phénix/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+335	2205	Joyau insonorisation/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+336	2206	Joyau berserk/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+337	2207	Joyau faiblesse/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+338	2208	Joyau artisanat/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+339	2209	Joyau tireur/vitalité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+340	2210	Joyau anti-séisme/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+341	2211	Joyau concentration/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+342	2212	Joyau puissance/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+343	2213	Joyau destruction/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+344	2214	Joyau cogneur/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+345	2215	Joyau héros/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+346	2216	Joyau anti-vent/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+347	2217	Joyau dégainage/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+348	2218	Joyau occulte/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+349	2219	Joyau témérité/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+350	2220	Joyau parfait/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+351	2221	Joyau vengeance/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+352	2222	Joyau omnipotence/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+353	2223	Joyau inflexible/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+354	2224	Joyau phénix/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+355	2225	Joyau insonorisation/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+356	2226	Joyau berserk/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+357	2227	Joyau faiblesse/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+358	2228	Joyau artisanat/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+359	2229	Joyau tireur/survie <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+360	2230	Joyau anti-séisme/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+361	2231	Joyau concentration/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+362	2232	Joyau puissance/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+363	2233	Joyau destruction/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+364	2234	Joyau cogneur/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+365	2235	Joyau héros/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+366	2236	Joyau anti-vent/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+367	2237	Joyau dégainage/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+368	2238	Joyau occulte/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+369	2239	Joyau témérité/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+370	2240	Joyau parfait/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+371	2241	Joyau vengeance/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+372	2242	Joyau omnipotence/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+373	2243	Joyau inflexible/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+374	2244	Joyau phénix/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+375	2245	Joyau insonorisation/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+376	2246	Joyau berserk/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+377	2247	Joyau faiblesse/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+378	2248	Joyau artisanat/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+379	2249	Joyau tireur/athlète <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+380	2250	Joyau anti-séisme/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+381	2251	Joyau concentration/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+382	2252	Joyau puissance/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+383	2253	Joyau destruction/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+384	2254	Joyau cogneur/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+385	2255	Joyau héros/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+386	2256	Joyau anti-vent/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+387	2257	Joyau dégainage/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+388	2258	Joyau occulte/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+389	2259	Joyau témérité/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+390	2260	Joyau parfait/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+391	2261	Joyau vengeance/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+392	2262	Joyau omnipotence/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+393	2263	Joyau inflexible/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+394	2264	Joyau phénix/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+395	2265	Joyau insonorisation/invulnéra <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+396	2266	Joyau berserk/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+397	2267	Joyau faiblesse/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+398	2268	Joyau artisanat/invulnérab <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+399	2269	Joyau tireur/invulnérabilité <STYL MOJI_YELLOW_DEFAULT>[4]</STYL>	4
+400	2272	Joyau chauffant <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	2

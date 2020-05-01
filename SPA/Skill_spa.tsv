@@ -1,0 +1,225 @@
+Skill ID	Skill Code	Skill Name	Skill Desc
+0	DUMMY000000	Unavailable	Unavailable
+1	G_PT_POISON_RESIST_SKILL_PT	Anti veneno	Reduce el daño al estar envenenado.
+2	PT_PARALYSIS_RESIST_SKILL_PT	Anti parálisis	Reduce o elimina los efectosde la parálisis.
+3	PT_SLEEP_RESIST_SKILL_PT	Anti sueño	Reduce o elimina los efectosdel sueño.
+4	PT_STUN_RESIST_SKILL_PT	Anti aturdimiento	Reduce la duración del aturdimiento.
+5	PT_DARUMA_RESIST_SKILL_PT	Anti fango	Reduce la movilidad impedidacuando estás atrapado en fangode monstruo.
+6	PT_BOMB_RES_SKILL_PT	Anti nitro	Reduce o elimina los efectosde la plaga de nitro.
+7	PT_PT_SCAR_RES_SKILL_PT	Anti sangrado	Reduce o anula el sangrado.
+8	PT_DEFDOWN_RESIST_SKILL_PT	Anti reducción de defensa	Protege contra la defensareducida.
+9	DUMMY000003	Unavailable	Unavailable
+10	DUMMY000006	Unavailable	Unavailable
+11	PT_EARPLUG_SKILL_PT	Anti rugidos	Protege contra los rugidosde monstruos grandes.
+12	PT_HUUATU_SKILL_PT	Anti viento	Reduce o anula los efectosde las ráfagas de viento.
+13	PT_EATHQUAKE_RESIST_SKILL_PT	Anti temblores	Protege contra los temblores de tierra.
+14	PT_UNKO_SKILL_PT	Bonus cápsula boñiga	Hace más fácil ahuyentar a monstruosgrandes con cápsulas boñiga.
+15	DUMMY000009	Unavailable	Unavailable
+16	PT_MIASMA_ADAPT_SKILL_PT	Anti efluvio	Anula o reduce el daño del efluvioen el Valle Putrefacto.
+17	PT_ADAPT_SKILL_PT	Anti calor	Anula el daño por calor.
+18	DUMMY000012	Unavailable	Unavailable
+19	PT_ATK_SKILL_PT	Bonus ataque	Aumenta el ataque.En niveles altos tambiénmejora la afinidad.
+20	PT_DEF_SKILL_PT	Bonus defensa	Aumenta la defensa.A niveles altos mejora tambiénlas resistencias elementales.
+21	PT_VIT_SKILL_PT	Bonus salud	Aumenta la salud.
+22	PT_HEEL_SKILL_PT	Bonus curación	Aumenta la cantidad de saludrecuperada al usar un objetocurativo.
+23	PT_HEEL_SPEED_SKILL_PT	Recuperación rápida	Acelera la recuperación de dañotemporal (la parte roja de labarra de salud).
+24	PT_FIRE_RESIST_SKILL_PT	Anti fuego	Aumenta la resistencia al fuego.En niveles más altos tambiénmejora la defensa.
+25	PT_WATER_RESIST_SKILL_PT	Anti agua	Aumenta la resistencia al agua.En niveles más altos tambiénmejora la defensa.
+26	PT_ICE_RESIST_SKILL_PT	Anti hielo	Aumenta la resistencia al hielo.En niveles más altos tambiénmejora la defensa.
+27	PT_THUNDER_RESIST_SKILL_PT	Anti rayo	Aumenta la resistencia al rayo.En niveles más altos tambiénmejora la defensa.
+28	PT_DRAGON_RESIST_SKILL_PT	Anti draco	Aumenta la resistencia al draco.En niveles más altos tambiénmejora la defensa.
+29	PT_ATT_RESIST_SKILL_PT	Anti plagas	Otorga protección contra todaslas plagas elementales.
+30	PT_FIRE_ATK_SKILL_PT	Ataque de fuego	Potencia los ataques elementales de fuego.(El poder elemental tiene un máximo).
+31	PT_WATER_ATK_SKILL_PT	Ataque de agua	Potencia los ataques elementales de agua.(El poder elemental tiene un máximo).
+32	PT_ICE_ATK_SKILL_PT	Ataque de hielo	Potencia los ataques elementales de hielo.(El poder elemental tiene un máximo).
+33	PT_THUNDER_ATK_SKILL_PT	Ataque de rayo	Potencia los ataques elementales de rayo.(El poder elemental tiene un máximo).
+34	PT_DRAGON_ATK_SKILL_PT	Ataque de draco	Potencia los ataques elementales de draco.(El poder elemental tiene un máximo).
+35	PT_POISON_ATK_SKILL_PT	Ataque venenoso	Acelera la acumulación de veneno.(La acumulación de estados alteradostiene un nivel máximo).
+36	PT_PARALYSIS_ATK_SKILL_PT	Ataque paralizante	Acelera la acumulación de parálisis.(La acumulación de estados alteradostiene un nivel máximo).
+37	PT_SLEEP_ATK_SKILL_PT	Ataque de sueño	Acelera la acumulación de sueño.(La acumulación de estados alteradostiene un nivel máximo).
+38	PT_BLAST_ATK_SKILL_PT	Ataque nitro	Acelera la acumulación de nitro.(La acumulación de estados alteradostiene un nivel máximo).
+39	PT_NORMAL_UP_SKILL_PT	Disparo normal	Aumenta el poder de la municióny flechas normales.
+40	PT_PIERCE_UP_SKILL_PT	Disparo perforante	Aumenta el poder de la municiónperforante y perforadragones.
+41	PT_SPREAD_UP_G_SKILL_PT	Disparo abanico/potente	Aumenta el poder de ataque de los tiroscon munición abanico, las flechasde disparo potente y mil dragones.
+42	PT_ADD_POISONBIN_SKILL_PT	Añade veneno	Permite aplicar viales de veneno.
+43	PT_ADD_PARALYSISBIN_SKILL_PT	Añade parálisis	Permite aplicar viales paralizantes.
+44	PT_ADD_SLEEPBIN_SKILL_PT	Añade sueño	Permite aplicar viales sedantes.
+45	DUMMY000015	Unavailable	Unavailable
+46	PT_ADD_BOMBBIN_SKILL_PT	Añade nitro	Permite aplicar viales de nitro.
+47	PT_AWAKE_SKILL_PT	Elem. oculto/munición+	Desbloquea el elemento oculto de tu armay mejora la capacidad de la ballesta.(La capacidad de carga tiene un máximo).
+48	PT_CRI_SKILL_PT	Bonus afinidad	Aumenta la afinidad.
+49	PT_SUPER_CRI_SKILL_PT	Bonus críticos	Aumenta el daño de golpes críticos.
+50	PT_WEAK_ATK_SKILL_PT	Bonus punto débil	Aumenta la afinidad de ataquesque aprovechan el puntodébil de un monstruo.
+51	DUMMY000018	Unavailable	Unavailable
+52	PT_CONCENTRATION_SKILL_PT	Tiempo de carga	Carga los indicadores de armasrápidamente, así como los ataquescargados con armas que lo permitan.
+53	PT_KEEP_SKILL_PT	Carga prolongada	Las espadas largas, espadas dobles, glaivesinsecto, hachas espada y hachas cargadaspermanecen cargadas más tiempo.
+54	PT_TAKUMI_SKILL_PT	Artesanía	Extiende la barra de afilado del arma.Sin embargo, no lo hará más alláde su máximo predeterminado.
+55	PT_BATTO_WAZA_SKILL_PT	Bonus al desenfundar	Aumenta la afinidad al realizar ataquestras desenfundar o preparar el arma.
+56	PT_CRUSH_SKILL_PT	Bonus rompe-partes	Facilita el partir o romper algunaspartes de monstruos grandes.
+57	PT_KO_SKILL_PT	Bonus al aturdir	Hace más probable que consigasaturdir a un monstruo.
+58	PT_STAMINA_DMG_SKILL_PT	Bonus agotador	Aumenta la posibilidad de que ciertosataques agoten a los monstruos.
+59	PT_NORI_SKILL_PT	Bonus al montar	Hace más fácil que consigasmontar sobre los monstruos.
+60	PT_HIEN_SKILL_PT	Bonus ataque en salto	Aumenta el daño provocadopor los ataques en salto.
+61	PT_POWER_AWAKE_SKILL_PT	Poder latente	Aumenta temporalmente la afinidady reduce el gasto de resistenciaal cumplir con ciertas condiciones.
+62	PT_CHALLENGER_SKILL_PT	Instigador	Aumenta el ataque y la afinidad cuandociertos monstruos se enfurecen.
+63	PT_FULL_CHARGE_SKILL_PT	Bonus salud completa	Aumenta el ataque cuando la saludestá completa.
+64	PT_KAZIBA_SKILL_PT	Bonus salud baja	Aumenta el poder de ataque y la defensacuando la salud baja al 35% o menos.
+65	PT_HUKUTU_G_SKILL_PT	Bonus de desmayo	Aumenta temporalmente ataque y defensacada vez que te desmayes (máx. 2 veces).
+66	PT_SAKAURAMI_SKILL_PT	Bonus daño temporal	Aumenta el ataque cuando se activeel daño temporal (la parte roja dela barra de salud).
+67	PT_KATSU_SKILL_PT	Bonus evasión/resist.	Mejora la evasión y reduce el gastode resistencia mientras te afectenestados alterados.
+68	PT_HUE_SKILL_PT	Bonus cornamusa	Aumenta el tiempo que duranlas melodías de la cornamusa.
+69	PT_LOAD_UP_SKILL_PT	Bonus capacidad	Aumenta la capacidad de munición de lalanza pistola y la capacidad de vialesdel hacha cargada.
+70	PT_EXBULLET_UP_G_SKILL_PT	Bonus tiro especial	Aumenta el poder del tiro especialde la ballesta, perforadragonesy mil dragones.
+71	PT_CANNON_SKILL_PT	Artillería	Potencia ataques explosivos como disparosde lanza pistola y fuego de wyvern, vialesdel hacha cargada y disparos explosivos.
+72	PT_GUNNER_SKILL_PT	Artillería pesada	Aumenta el poder de las balistasy de los cañones.
+73	PT_RUNNER_SKILL_PT	Bonus esprint	Reduce el gasto de resistenciapara acciones que la consumengradualmente (como esprintar).
+74	PT_GYM_SKILL_PT	Bonus evasión	Reduce el gasto de resistenciapara acciones que la consumengradualmente (como evadir).
+75	PT_JUMP_SKILL_PT	Bonus de salto	Te permite esquivar lanzándote cuandoestás de cara a monstruos grandes,y alarga la distancia de esquiva.
+76	PT_STAMINA_SPEED_SKILL_PT	Bonus de adrenalina	Aumenta la velocidad derecuperación de tu resistencia.
+77	G_PT_HUNGER_SKILL_PT	Bonus reducción resist.	Reduce el gasto de resistencia máximoa lo largo del tiempo. No sirve contrala reducción de resistencia por el frío.
+78	PT_AVOID_UP_SKILL_PT	Intervalo de evasión	Prolonga el momento de invulnerabilidadal esquivar.
+79	PT_AVOID_DISTANCE_SKILL_PT	Distancia de evasión	Aumenta la distancia al esquivar.
+80	PT_GUARD_UP_SKILL_PT	Guardia mejorada	Reduce la distancia que retrocedesy el gasto de resistencia al bloquear ataques.
+81	PT_NOUTOU_SPEED_SKILL_PT	Desenfunde veloz	Aumenta la velocidad al desenfundarel arma equipada.
+82	PT_WIDE_SKILL_PT	Alcance extendido	Permite que el efecto de ciertos objetostambién afecte a aliados cercanos.
+83	PT__ITEM_UP_SKILL_PT	Duración de objetos	Aumenta la duración del efecto dealgunos objetos.
+84	PT_MANZOK_SKILL_PT	Comida gratis	Ofrece una probabilidad determinadade consumir un objeto de comida obebida gratis.
+85	PT_HAYAGUI_SKILL_PT	Velocidad al comer	Aumenta la velocidad al comer carney consumir objetos.
+86	PT_TOISI_SPEED_SKILL_PT	Velocidad de afilado	Aumenta la velocidad de afilado del armaal usar una piedra de afilar.
+87	DUMMY000021	Unavailable	Unavailable
+88	PT_BOMBER_SKILL_PT	Explosivos mejorados	Aumenta el daño de objetos explosivos.
+89	DUMMY000024	Unavailable	Unavailable
+90	PT_KINOKO_LOVER_SKILL_PT	Experto en setas	Te permite digerir setas no comestiblesy beneficiarte de sus efectos.
+91	PT_FISHING_SKILL_PT	Experto en pesca	Mejora tu habilidad al pescar.
+92	PT_STEAK_SKILL_PT	Chef de barbacoa	Mejora tu habilidad al cocinar carne.
+93	PT_TRANSPORTER_SKILL_PT	Experto en transporte	Aumenta tu velocidad cuando transportasobjetos y disminuye la probabilidadde que se caigan.
+94	PT_SAISYU_SKILL_PT	Experto en recolección	Hace que extraer recursos seamás rápido y además evita quete derriben mientras extraes.
+95	PT_HONEY_HUNTER_SKILL_PT	Experto en miel	Aumenta la cantidad de miel querecibes al recolectar.
+96	PT_HAGI_IRON_SKILL_PT	Experto en despiece	Evita que te derriben mientrascortas partes de monstruos.
+97	PT_BREATH_SKILL_PT	Protección divina	Posibilidad predeterminada de reducirel daño que recibes.
+98	PT_OTOMO_LEADER_SKILL_PT	Mejora de camarada	Fortalece a los camaradas.
+99	PT_BOTANY_SKILL_PT	Experto en recursos	Aumenta la cantidad de las hierbasy otros objetos de consumo querecibes al extraer recursos.
+100	PT_GEOLOGY_SKILL_PT	Experto en minerales	Aumenta la cantidad de veces que puedesrecolectar de un punto de recolección.
+101	G_PT_KONSHIN_SKILL_PT	Bonus de afinidad	Aumenta la afinidad mientrasla resistencia esté llena durantecierto tiempo.
+102	G_PT_SLING_B_PLUS_SKILL_PT	Capacidad de eslinga	Da más capacidad de carga para municiónde eslinga hallada en el entorno, y limitacuánta munición gastan ciertos disparos.
+103	PT_MIUSINAI_SKILL_PT	Experto en sigilo	Facilita que los monstruoste pierdan de vista.
+104	PT_NOKEZORI_SKILL_PT	Mejora de balance	Previene reacciones a pequeños ataquescomo ser empujado hacia atrás.
+105	PT_GUIDE_LONG_SKILL_PT	Rango de Lafarillos	Expande el rango de detecciónde los Lafarillos.
+106	PT_SYAGAMI_SPEED_SKILL_PT	Movimiento agachado	Aumenta la velocidad al movertecuando lo hagas estando agachado.
+107	PT_JUMP_DISTANCE_SKILL_PT	Experto en salto	Evita que los ataques te interrumpanmientras saltas.
+108	PT_HEEL_SMOKE_G_SKILL_PT	Experto en supervivencia	Recuperas salud adicional cuandointeractúas con elementos del entorno,como hierbasporas o lichibichos.
+109	PT_NAGAGUTU_G_SKILL_PT	Movilidad acuática/polar	Te permite moverte libremente por elagua e impide que el terreno por el queandes te ralentice, aunque sea nieve.
+110	DUMMY000027	Unavailable	Unavailable
+111	PT_CLIMBER_G_SKILL_PT	Experto en trepar	Reduce el gasto de resistencia alesquivar, mientras te agarras a una paredo hiedra, o cuando te aferras al enemigo.
+112	PT_FLASH_UP_SKILL_PT	Mejora al deslumbrar	Mejora la efectividad de los ataquesy objetos que provoquen fogonazos.
+113	DUMMY000030	Unavailable	Unavailable
+114	PT_LAB_SKILL_PT	Experto en investigación	Acelera el progreso de los niveles deinvestigación/investigaciones especiales.(Se aplica en los resultados de misión).
+115	PT_MUSIHAGI_SKILL_PT	Experto en insectos	Reduce la posibilidad de destruir el cuerpode insectos pequeños, lo que te permiteconseguir recursos de ellos.
+116	PT_MIST_RESIST_SKILL_PT	Experto en efluvio	Ganas resistencia a la acumulacióndel efluvio.
+117	PT_SMELL_SKILL_PT	Experto en rastreo	Acelera la recarga de la barra de Lafarillosal encontrar rastros y otros residuos.
+118	PT_RARE_POP_HIT_SKILL_PT	Suerte del mendigo	Aumenta la probabilidad de encontrarpuntos de recolección de recursos raros.
+119	PT_RARE_POP_LOCATE_SKILL_PT	Cartografía	Indica en el mapa los puntos derecolección de recursos raros.
+120	PT_MONOMOTI_SKILL_PT	Experto en herramientas	Reduce el tiempo de recargade las herramientas especializadas.
+121	DUMMY000033	Unavailable	Unavailable
+122	PT_SLIDING_UP_SKILL_PT	Afinidad deslizante	Deslizarte aumenta la afinidadun tiempo.
+123	PT_DRASEAL_UP_SKILL_PT	Bonus sello ancianos	Mejora el sello de ancianos delas armas y de la munición draco.
+124	PT_4SOKU_SKILL_PT	Intimidador	Reduce las probabilidades de que losmonstruos pequeños ataquen al verte.(No tiene efecto sobre ciertos monstruos).
+125	PT_NEWZYUURYU_1_SKILL_PT	Poder de Anjanath	Unavailable
+126	PT_NEWMAIN_SKILL_PT	Hambre de Nergigante	Unavailable
+127	PT_DRAGONZOMBIE_SKILL_PT	Vitalidad de Vaal Hazak	Unavailable
+128	PT_REUSU_SKILL_PT	Poder de Rathalos	Unavailable
+129	PT_DIABROS_SKILL_PT	Poder de Diablos	Unavailable
+130	PT_KIRIN_SKILL_PT	Bendición de Kirin	Unavailable
+131	PT_REIA_ASHU_SKILL_PT	Maestría de Rathian Rosa	Unavailable
+132	PT_NEWZYUURYU_S_SKILL_PT	Voluntad de Anjanath	Unavailable
+133	DUMMY000044	Unavailable	Unavailable
+134	DUMMY000047	Unavailable	Unavailable
+135	PT_REUSU_S_SKILL_PT	Maestría de Rathalos	Unavailable
+136	PT_DIABROS_S_SKILL_PT	Maestría de Diablos	Unavailable
+137	PT_KIRIN_S_SKILL_PT	Favor de Kirin	Unavailable
+138	PT_GANKIN_SKILL_PT	Protección de Uragaan	Unavailable
+139	DUMMY000054	Unavailable	Unavailable
+140	DUMMY000057	Unavailable	Unavailable
+141	DUMMY000060	Unavailable	Unavailable
+142	PT_NEWARASHI_SKILL_PT	Protección de Bazelgeuse	Unavailable
+143	PT_TEO_SKILL_PT	Técnica de Teostra	Unavailable
+144	PT_KUSHA_SKILL_PT	Vuelo de Kushala Daora	Unavailable
+145	PT_MUKURO_SKILL_PT	Divinidad Xeno'jiiva	Unavailable
+146	DUMMY000067	Unavailable	Unavailable
+147	PT_KAZANRYU_SKILL_PT	Maestría de Zorah	Unavailable
+148	DUMMY000071	Unavailable	Unavailable
+149	PT_GUILDX_SKILL_PT	Ayuda del gremio	Unavailable
+150	PT_SEEKER_SKILL_PT	Ayuda de la comisión	Unavailable
+151	PT_FUFYO_SKILL_PT	Bendición de Legiana	Unavailable
+152	PT_FUFYO_S_SKILL_PT	Favor de Legiana	Unavailable
+153	PT_ZANSO_SKILL_PT	Poder de Odogaron	Unavailable
+154	PT_ZANSO_S_SKILL_PT	Maestría de Odogaron	Unavailable
+155	PT_ARROW_CHARGE2_SKILL_PT	Arquero maestro	Aumenta en 1 el nivel de carga del arco.
+156	PT_SHINGAN2_SKILL_PT	Ojo mental/balística	Evita que tus ataques reboten.La munición y flechas alcanzan máximapotencia en una distancia más corta.
+157	PT_EXGUARD2_SKILL_PT	Escudo	Permite protegerse contra ataques quenormalmente no se pueden bloquear.
+158	PT_GOJIN2_SKILL_PT	Acabado protector	El afilado del arma no disminuyedurante un tiempo tras afilarla.
+159	PT_BLANK_UP2_SKILL_PT	Bonus no elemental	Potencia las armas no elementalesque tengas equipadas.
+160	PT_NANA_01_SKILL_PT	Arrojo	Si tu salud supera cierto nivel, resistirásun ataque que normalmente te habríahecho desmayarte. (Solo una vez).
+161	PT_NANA_02_SKILL_PT	Regeneración	Regenera la salud mientras ataquescontinuamente a un monstruo.La salud ganada depende del arma.
+162	PT_NANA_03_SKILL_PT	Afiladísimo/tiro extra	Reduce a la mitad la pérdida de afilado.Para arcos/ballestas, a veces disparassin gastar viales ni munición.
+163	PT_NANA_S_SKILL_PT	Favor de Lunastra	Unavailable
+164	PT_FF_S_SKILL_PT	Alma de caballero dragón	Unavailable
+165	PT_MAMM1_SKILL_PT	Elemento crítico	Aumenta el daño elemental(fuego, agua, rayo, hielo, draco)cuando es resultado de un crítico.
+166	PT_MAMM2_SKILL_PT	Estado crítico	Aumenta el daño de estados alterados(parálisis, sueño, explosión veneno)cuando son resultado de un crítico.
+167	PT_WITCHER_SKILL_PT	Astucia de brujo	Unavailable
+168	PT_ANNIVERSARY_SKILL_PT	Bendición de Astera	Unavailable
+169	PT_ZINOGRE_SKILL_PT	Esencia Zinogre	Unavailable
+170	PT_TIGREX_SKILL_PT	Esencia Tigrex	Unavailable
+171	PT_NARGACUGA_SKILL_PT	Esencia Nargacuga	Unavailable
+172	PT_BRACCHIDIOS_SKILL_PT	Esencia Brachydios	Unavailable
+173	PT_DINOVALDE_SKILL_PT	Esencia Glavenus	Unavailable
+174	PT_SILVER_SKILL_PT	Esencia Rathalos Plateado	Unavailable
+175	PT_GOLD_SKILL_PT	Esencia Rathian Dorada	Unavailable
+176	PT_EARTH_SKILL_PT	Divinidad Shara Ishvalda	Unavailable
+177	PT_NERO_SKILL_PT	Divinidad Namielle	Unavailable
+178	PT_HIVER_SKILL_PT	Divinidad Velkhana	Unavailable
+179	PT_UNDECIDED1_SKILL_PT	Divinidad primigenia	Unavailable
+180	PT_UNDECIDED2_SKILL_PT	Alquimia de la comisión	Unavailable
+181	PT_UNDECIDED3_SKILL_PT	Ayuda del instructor	Unavailable
+182	PT_UNDECIDED4_SKILL_PT	Dominio de Anjanath	Unavailable
+183	PT_UNDECIDED5_SKILL_PT	Esencia Rathian	Unavailable
+184	PT_GUST_SKILL_PT	Provocación	Llamarás más la atención al atacara un monstruo.
+185	PT_KNIGHT_SKILL_PT	Bloqueo agresivo	Aumenta el poder de ataque de maneratemporal tras realizar un bloqueoperfecto.
+186	PT_DISASTER_SKILL_PT	Coalescencia	Potencia los ataques de forma temporalinmediatamente después de recuperartede plagas y estados alterados.
+187	PT_EXDODGE_SKILL_PT	Aterrizaje seguro	Te permite recuperarte rápidamente deataques contundentes que te tiren haciaatrás, si tienes el arma desenvainada.
+188	PT_EX06_SKILL_PT	Arte oculto de Barioth	Unavailable
+189	PT_EX07_SKILL_PT	Esencia Rathalos	Unavailable
+190	PT_EX08_SKILL_PT	Ambición de Diablos	Unavailable
+191	PT_EX09_SKILL_PT	Ambición de Legiana	Unavailable
+192	PT_EX10_SKILL_PT	Esencia Odogaron	Unavailable
+193	PT_EX11_SKILL_PT	Ambición de Uragaan	Unavailable
+194	PT_EX12_SKILL_PT	Ambición de Bazelgeuse	Unavailable
+195	PT_EX13_SKILL_PT	Esencia Deviljho	Unavailable
+196	PT_EX14_SKILL_PT	Psicovena de Vaal	Unavailable
+197	DUMMY000108	Unavailable	Unavailable
+198	DUMMY000111	Unavailable	Unavailable
+199	PT_EX17_SKILL_PT	Divinidad Kirin	Unavailable
+200	PT_EX18_SKILL_PT	Orgullo del gremio	Unavailable
+201	PT_EX19_SKILL_PT	Esencia Zorah Magdaros	Unavailable
+202	PT_EX20_SKILL_PT	Esencia Lunastra	Unavailable
+203	PT_EX21_SKILL_PT	Ambición de Nergigante	Unavailable
+204	DUMMY000119	Unavailable	Unavailable
+205	PT_DONKI_SKILL_PT	Impacto mejorado	Mejora el ataque a medida que pierdesafilado, el ataque físico de armas deproyectil y la posibilidad de aturdir.
+206	PT_STAMINA_PINCH_SKILL_PT	Adrenalina	Reduce temporalmente el gastode resistencia cuando la saludesté al 40% o menos.
+207	PT_COLD_RES_SKILL_PT	Anti frío	Anula los efectos del clima frío.
+208	PT_EX22_SKILL_PT	Ira de Rajang	Unavailable
+209	PT_HORIZON_SKILL_PT	Célula de energía	Unavailable
+210	PT_RE_SKILL_PT	Superviviente	Unavailable
+211	PT_MUFET_SKILL_PT	Sello de Safi'jiiva	Unavailable
+212	PT_WINTER_SKILL_PT	Bendición lunar	Unavailable
+213	PT_ANNIVERSARY_S_SKILL_PT	Bendición astral	Unavailable
+214	PT_SPRING_SKILL_PT	Bendición floral	Unavailable
+215	DUMMY000129	Unavailable	Unavailable
+216	DUMMY000132	Unavailable	Unavailable
+217	PT_EX23_SKILL_PT	Voluntad de Rajang	Unavailable
+218	PT_EX24_SKILL_PT	Voluntad de Brachydios	Unavailable
+219	PT_EX25_SKILL_PT	Esencia Kulve Taroth	Unavailable
+220	DUMMY000138	Unavailable	Unavailable
+221	DUMMY000141	Unavailable	Unavailable
+222	DUMMY000144	Unavailable	Unavailable
+223	DUMMY000147	Unavailable	Unavailable

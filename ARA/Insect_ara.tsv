@@ -1,0 +1,106 @@
+Insect ID	Insect Code	Insect Name	Model
+0	ROD_INSECT_000_NAME	كولدرون I	mus001
+1	ROD_INSECT_001_NAME	كولدرون II	mus001
+2	ROD_INSECT_002_NAME	كولدرون III	mus001
+3	ROD_INSECT_003_NAME	ألوكانيد I	mus003
+4	ROD_INSECT_004_NAME	ألوكانيد II	mus003
+5	ROD_INSECT_005_NAME	ألوكانيد III	mus003
+6	ROD_INSECT_006_NAME	مونارك ألوكانيد I	mus004
+7	ROD_INSECT_007_NAME	مونارك ألوكانيد II	mus004
+8	ROD_INSECT_008_NAME	مونارك ألوكانيد III	mus004
+9	ROD_INSECT_009_NAME	إمبريسوينغ I	mus005
+10	ROD_INSECT_010_NAME	إمبريسوينغ II	mus005
+11	ROD_INSECT_011_NAME	إمبريسوينغ III	mus005
+12	ROD_INSECT_012_NAME	ريغيبراين I	mus006
+13	ROD_INSECT_013_NAME	ريغيبراين II	mus006
+14	ROD_INSECT_014_NAME	ريغيبراين III	mus006
+15	ROD_INSECT_015_NAME	كانكادامان I	mus007
+16	ROD_INSECT_016_NAME	كانكادامان II	mus007
+17	ROD_INSECT_017_NAME	كانكادامان III	mus007
+18	ROD_INSECT_018_NAME	فيدلبريكس I	mus008
+19	ROD_INSECT_019_NAME	فيدلبريكس II	mus008
+20	ROD_INSECT_020_NAME	فيدلبريكس III	mus008
+21	ROD_INSECT_021_NAME	ويندتشوبر I	mus009
+22	ROD_INSECT_022_NAME	ويندتشوبر II	mus009
+23	ROD_INSECT_023_NAME	ويندتشوبر III	mus009
+24	ROD_INSECT_024_NAME	غرانكاثار I	mus010
+25	ROD_INSECT_025_NAME	غرانكاثار II	mus010
+26	ROD_INSECT_026_NAME	غرانكاثار III	mus010
+27	ROD_INSECT_027_NAME	بسيودوكاث I	mus011
+28	ROD_INSECT_028_NAME	بسيودوكاث II	mus011
+29	ROD_INSECT_029_NAME	بسيودوكاث III	mus011
+30	ROD_INSECT_030_NAME	مولدرون I	mus012
+31	ROD_INSECT_031_NAME	مولدرون II	mus012
+32	ROD_INSECT_032_NAME	مولدرون III	mus012
+33	ROD_INSECT_033_NAME	فوبيتل I	mus014
+34	ROD_INSECT_034_NAME	فوبيتل II	mus014
+35	ROD_INSECT_035_NAME	فوبيتل III	mus014
+36	ROD_INSECT_036_NAME	كارنغ بيتل I	mus015
+37	ROD_INSECT_037_NAME	كارنغ بيتل II	mus015
+38	ROD_INSECT_038_NAME	كارنغ بيتل III	mus015
+39	ROD_INSECT_039_NAME	بونيتفايل I	mus016
+40	ROD_INSECT_040_NAME	بونيتفايل II	mus016
+41	ROD_INSECT_041_NAME	بونيتفايل III	mus016
+42	ROD_INSECT_042_NAME	لايديتارغ I	mus017
+43	ROD_INSECT_043_NAME	لايديتارغ II	mus017
+44	ROD_INSECT_044_NAME	لايديتارغ III	mus017
+45	ROD_INSECT_045_NAME	لايديبافيس I	mus018
+46	ROD_INSECT_046_NAME	لايديبافيس II	mus018
+47	ROD_INSECT_047_NAME	لايديبافيس III	mus018
+48	ROD_INSECT_048_NAME	أركمايدن I	mus019
+49	ROD_INSECT_049_NAME	أركمايدن II	mus019
+50	ROD_INSECT_050_NAME	أركمايدن III	mus019
+51	ROD_INSECT_051_NAME	غالشاد I	mus020
+52	ROD_INSECT_052_NAME	غالشاد II	mus020
+53	ROD_INSECT_053_NAME	غالشاد III	mus020
+54	ROD_INSECT_054_NAME	بولشراود I	mus021
+55	ROD_INSECT_055_NAME	بولشراود II	mus021
+56	ROD_INSECT_056_NAME	بولشراود III	mus021
+57	ROD_INSECT_057_NAME	ويسبرفيسب I	mus022
+58	ROD_INSECT_058_NAME	ويسبرفيسب II	mus022
+59	ROD_INSECT_059_NAME	ويسبرفيسب III	mus022
+60	ROD_INSECT_190_NAME	روح التنين	mus023
+61	ROD_INSECT_191_NAME	روح التنين الحقيقية	mus023
+62	ROD_INSECT_060_NAME	فيزيرستاغ I فيلوكس	mus024
+63	ROD_INSECT_061_NAME	فيزيرستاغ II فيلوكس	mus024
+64	ROD_INSECT_062_NAME	فيزيرستاغ III فيلوكس	mus024
+65	ROD_INSECT_063_NAME	فيزيرستاغ I فورز	mus024
+66	ROD_INSECT_064_NAME	فيزيرستاغ II فورز	mus024
+67	ROD_INSECT_065_NAME	فيزيرستاغ III فورز	mus024
+68	ROD_INSECT_066_NAME	بيلبوبريكس I فيلوكس	mus025
+69	ROD_INSECT_067_NAME	بيلبوبريكس II فيلوكس	mus025
+70	ROD_INSECT_068_NAME	بيلبوبريكس III فيلوكس	mus025
+71	ROD_INSECT_069_NAME	بيلبوبريكس I فورز	mus025
+72	ROD_INSECT_070_NAME	بيلبوبريكس II فورز	mus025
+73	ROD_INSECT_071_NAME	بيلبوبريكس III فورز	mus025
+74	ROD_INSECT_072_NAME	فولياكاث I ميديز	mus026
+75	ROD_INSECT_073_NAME	فولياكاث II ميديز	mus026
+76	ROD_INSECT_074_NAME	فولياكاث III ميديز	mus026
+77	ROD_INSECT_075_NAME	فولياكاث I فورز	mus026
+78	ROD_INSECT_076_NAME	فولياكاث II فورز	mus026
+79	ROD_INSECT_077_NAME	فولياكاث III فورز	mus026
+80	ROD_INSECT_078_NAME	أليسكاراد I	mus002
+81	ROD_INSECT_079_NAME	أليسكاراد II	mus002
+82	ROD_INSECT_080_NAME	أليسكاراد III	mus002
+83	ROD_INSECT_081_NAME	غليمبيتل I فيلوكس	mus027
+84	ROD_INSECT_082_NAME	غليمبيتل II فيلوكس	mus027
+85	ROD_INSECT_083_NAME	غليمبيتل III فيلوكس	mus027
+86	ROD_INSECT_084_NAME	غليمبيتل I ميديز	mus027
+87	ROD_INSECT_085_NAME	غليمبيتل II ميديز	mus027
+88	ROD_INSECT_086_NAME	غليمبيتل III ميديز	mus027
+89	ROD_INSECT_087_NAME	ليديتاور I فورز	mus028
+90	ROD_INSECT_088_NAME	ليديتاور II فورز	mus028
+91	ROD_INSECT_089_NAME	ليديتاور III فورز	mus028
+92	ROD_INSECT_090_NAME	ليديتاور I فيلوكس	mus028
+93	ROD_INSECT_091_NAME	ليديتاور II فيلوكس	mus028
+94	ROD_INSECT_092_NAME	ليديتاور III فيلوكس	mus028
+95	ROD_INSECT_093_NAME	فالوروينغ I فورز	mus029
+96	ROD_INSECT_094_NAME	فالوروينغ II فورز	mus029
+97	ROD_INSECT_095_NAME	فالوروينغ III فورز	mus029
+98	ROD_INSECT_096_NAME	فالوروينغ I ميديز	mus029
+99	ROD_INSECT_097_NAME	فالوروينغ II ميديز	mus029
+100	ROD_INSECT_098_NAME	فالوروينغ III ميديز	mus029
+101	ROD_INSECT_099_NAME	أرجينيس I	mus013
+102	ROD_INSECT_100_NAME	أرجينيس II	mus013
+103	ROD_INSECT_101_NAME	أرجينيس III	mus013
+104	ROD_INSECT_192_NAME	روح التنين نيكسوس	mus023

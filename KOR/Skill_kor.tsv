@@ -1,0 +1,225 @@
+Skill ID	Skill Code	Skill Name	Skill Desc
+0	DUMMY000000	Unavailable	Unavailable
+1	G_PT_POISON_RESIST_SKILL_PT	독 내성	독 상태에서 받는 데미지가 줄어든다.
+2	PT_PARALYSIS_RESIST_SKILL_PT	마비 내성	마비 상태의 시간을 단축한다.
+3	PT_SLEEP_RESIST_SKILL_PT	수면 내성	수면 상태의 시간을 단축한다.
+4	PT_STUN_RESIST_SKILL_PT	기절 내성	기절 상태의 시간을 단축한다.
+5	PT_DARUMA_RESIST_SKILL_PT	진흙 내성	몬스터가 발생시킨 진창에서의 행동 제한을 감소한다.
+6	PT_BOMB_RES_SKILL_PT	폭파 피해 내성	폭파 피해에 대한 내성을 얻는다.
+7	PT_PT_SCAR_RES_SKILL_PT	열상 내성	열상 상태에 대한 내성을 얻는다.
+8	PT_DEFDOWN_RESIST_SKILL_PT	방어력 DOWN 내성	방어력 DOWN에 대한 내성을 얻는다.
+9	DUMMY000003	Unavailable	Unavailable
+10	DUMMY000006	Unavailable	Unavailable
+11	PT_EARPLUG_SKILL_PT	귀마개	대형 몬스터의 포효에 대한 내성을 지닌다.
+12	PT_HUUATU_SKILL_PT	풍압 내성	풍압에 대한 내성을 얻는다.
+13	PT_EATHQUAKE_RESIST_SKILL_PT	내진	지면 진동에 대한 내성을 얻는다.
+14	PT_UNKO_SKILL_PT	거름 명인	슬링어 거름탄을 맞힌 몬스터는도망칠 확률이 높아진다.
+15	DUMMY000009	Unavailable	Unavailable
+16	PT_MIASMA_ADAPT_SKILL_PT	독기 환경 적응	독기의 골짜기의 환경 데미지를 감소하고무효화한다.
+17	PT_ADAPT_SKILL_PT	열 데미지 무효	더위나 열에 의한 데미지를무효화한다.
+18	DUMMY000012	Unavailable	Unavailable
+19	PT_ATK_SKILL_PT	공격	플레이어의 공격력을 올린다.레벨이 오르면 회심률에도 영향을 준다.
+20	PT_DEF_SKILL_PT	방어	플레이어의 방어력을 올린다.레벨이 오르면 내성치에도 영향을 준다.
+21	PT_VIT_SKILL_PT	체력 증강	플레이어의 체력을 올린다.
+22	PT_HEEL_SKILL_PT	체력 회복량 UP	체력 회복이 발생했을 때회복량이 오른다.
+23	PT_HEEL_SPEED_SKILL_PT	회복 속도	데미지를 받았을 때붉은 게이지 부분의회복 속도가 상승한다.
+24	PT_FIRE_RESIST_SKILL_PT	불 내성	플레이어의 불 내성을 올린다.레벨이 오르면 방어력에도영향을 준다.
+25	PT_WATER_RESIST_SKILL_PT	물 내성	플레이어의 물 내성을 올린다.레벨이 오르면 방어력에도영향을 준다.
+26	PT_ICE_RESIST_SKILL_PT	얼음 내성	플레이어의 얼음 내성을 올린다.레벨이 오르면 방어력에도영향을 준다.
+27	PT_THUNDER_RESIST_SKILL_PT	번개 내성	플레이어의 번개 내성을 올린다.레벨이 오르면 방어력에도영향을 준다.
+28	PT_DRAGON_RESIST_SKILL_PT	용 내성	플레이어의 용 내성을 올린다.레벨이 오르면 방어력에도영향을 준다.
+29	PT_ATT_RESIST_SKILL_PT	속성 피해 내성	모든 속성 피해 상태에 대한내성을 얻는다.
+30	PT_FIRE_ATK_SKILL_PT	불속성 공격 강화	불속성의 힘을 강화한다.(무기의 속성치 강화에는한계가 있습니다)
+31	PT_WATER_ATK_SKILL_PT	물속성 공격 강화	물속성의 힘을 강화한다.(무기의 속성치 강화에는한계가 있습니다)
+32	PT_ICE_ATK_SKILL_PT	얼음속성 공격 강화	얼음속성의 힘을 강화한다.(무기의 속성치 강화에는한계가 있습니다)
+33	PT_THUNDER_ATK_SKILL_PT	번개속성 공격 강화	번개속성의 힘을 강화한다.(무기의 속성치 강화에는한계가 있습니다)
+34	PT_DRAGON_ATK_SKILL_PT	용속성 공격 강화	용속성의 힘을 강화한다.(무기의 속성치 강화에는한계가 있습니다)
+35	PT_POISON_ATK_SKILL_PT	독속성 강화	독의 축적치를 강화한다.(무기의 속성치 강화에는한계가 있습니다)
+36	PT_PARALYSIS_ATK_SKILL_PT	마비속성 강화	마비의 축적치가 강화한다.(무기의 속성치 강화에는한계가 있습니다)
+37	PT_SLEEP_ATK_SKILL_PT	수면속성 강화	수면의 축적치를 강화한다.(무기의 속성치 강화에는한계가 있습니다)
+38	PT_BLAST_ATK_SKILL_PT	폭파속성 강화	폭파의 축적치가 강화한다.(무기의 속성치 강화에는한계가 있습니다)
+39	PT_NORMAL_UP_SKILL_PT	통상탄/통상화살 강화	보우건의 통상탄 또는활의 통상화살 공격력이 오른다.
+40	PT_PIERCE_UP_SKILL_PT	관통탄/용화살 강화	보우건의 관통탄 또는활의 용화살 공격력이 오른다.
+41	PT_SPREAD_UP_G_SKILL_PT	산탄/강사 강화	보우건의 산탄 또는 활의 강사,용의 천천시의 공격력이 오른다.
+42	PT_ADD_POISONBIN_SKILL_PT	독병 추가	활 장비 중, 독병을 장착할 수 있게 한다.
+43	PT_ADD_PARALYSISBIN_SKILL_PT	마비병 추가	활 장비 중, 마비병을장착할 수 있게 한다.
+44	PT_ADD_SLEEPBIN_SKILL_PT	수면병 추가	활 장비 중, 수면병을장착할 수 있게 한다.
+45	DUMMY000015	Unavailable	Unavailable
+46	PT_ADD_BOMBBIN_SKILL_PT	폭파병 추가	활 장비 중, 폭파병을장착할 수 있게 한다.
+47	PT_AWAKE_SKILL_PT	속성해방/장전 확장	무기의 숨은 속성을 해제한다.보우건의 장전 수가 늘어난다.(장전 수에는 한계가 있습니다)
+48	PT_CRI_SKILL_PT	간파	회심률이 상승한다.
+49	PT_SUPER_CRI_SKILL_PT	슈퍼회심	회심 공격 시, 데미지가 증가한다.
+50	PT_WEAK_ATK_SKILL_PT	약점 특효	몬스터를 공격할 때 명중한 부위가꽤 효과적이면 회심률이 오른다.
+51	DUMMY000018	Unavailable	Unavailable
+52	PT_CONCENTRATION_SKILL_PT	집중	태도, 쌍검, 슬래시액스, 차지액스의게이지와 대검, 해머, 활의 모으기속도가 빨라진다.
+53	PT_KEEP_SKILL_PT	강화 지속	태도, 쌍검, 조충곤, 슬래시액스,차지액스로 발생한 강화 상태의지속 시간을 길게 한다.
+54	PT_TAKUMI_SKILL_PT	장인	무기의 예리도 게이지가 늘어난다.단, 예리도 게이지의 한계 이상으로늘어나지는 않는다.
+55	PT_BATTO_WAZA_SKILL_PT	발도술【기】	무기 발도 공격의 회심률이 오른다.
+56	PT_CRUSH_SKILL_PT	파괴왕	대형 몬스터의 부위를파괴하기가 쉬워진다.
+57	PT_KO_SKILL_PT	KO술	몬스터를 기절 상태로 만들확률이 높아진다.
+58	PT_STAMINA_DMG_SKILL_PT	스태미나 탈취	특정 공격을 통해 몬스터를피로하게 하는 효과가 상승한다.
+59	PT_NORI_SKILL_PT	탑승 명인	몬스터에게 탑승하기가 쉬워진다.
+60	PT_HIEN_SKILL_PT	비연	점프 공격이 강화된다.
+61	PT_POWER_AWAKE_SKILL_PT	힘의 해방	특정 조건을 만족시키면 일정 시간회심률이 상승하고, 스태미나를 고정적으로 소비하는 행동의 소비량이 감소한다.
+62	PT_CHALLENGER_SKILL_PT	도전자	전투 중에 대형 몬스터가분노하면 공격력과 회심률이상승한다.
+63	PT_FULL_CHARGE_SKILL_PT	완전 충전	체력이 최대일 때 공격력이 오른다.
+64	PT_KAZIBA_SKILL_PT	재난대처능력	체력이 최대치의 35％ 이하이면방어력과 공격력이 오른다.
+65	PT_HUKUTU_G_SKILL_PT	불굴	일정 시간 동안, 힘이 다할 때마다 공격력과방어력이 오른다.(최대 2번까지)
+66	PT_SAKAURAMI_SKILL_PT	앙심	체력 게이지에 빨간 부분이있는 동안 공격력이 오른다.
+67	PT_KATSU_SKILL_PT	돌파구	상태 이상 중에 회피 성능이 상승하고스태미나의 소비량도 줄어든다.
+68	PT_HUE_SKILL_PT	피리 명인	수렵피리의 선율 효과지속 시간이 늘어난다.
+69	PT_LOAD_UP_SKILL_PT	포탄 장전 수 UP	건랜스의 포격 장전 수,차지액스의 병 장전 수가 늘어난다.
+70	PT_EXBULLET_UP_G_SKILL_PT	특수 사격 강화	보우건의 특수탄과활의 용화살, 용의 천천시위력이 상승한다.
+71	PT_CANNON_SKILL_PT	포술	건랜스의 포격, 용격포와 차지액스의병공격, 철갑유탄 등 폭발을 일으키는공격의 위력이 상승.
+72	PT_GUNNER_SKILL_PT	포격수	발리스타, 대포의 위력이 오른다.
+73	PT_RUNNER_SKILL_PT	런너	대시 등 서서히 스태미나를 소비하는행동의 스태미나 소비량이 감소한다.
+74	PT_GYM_SKILL_PT	체술	회피 등 고정적으로 스태미나를소비하는 행동의 스태미나소비량이 감소한다.
+75	PT_JUMP_SKILL_PT	뛰어들기	대형 몬스터를 향해 점프회피가 가능해진다. 또한비거리도 늘어난다.
+76	PT_STAMINA_SPEED_SKILL_PT	스태미나 급속 회복	스태미나의 회복 속도가 빨라진다.
+77	G_PT_HUNGER_SKILL_PT	배고픔 내성	시간 경과에 따른 스태미나 게이지의최대치 감소를 억제한다.하지만 추위에 의한 감소는 억제할 수 없다.
+78	PT_AVOID_UP_SKILL_PT	회피 성능	회피 시 무적 시간이 늘어난다.
+79	PT_AVOID_DISTANCE_SKILL_PT	회피 거리 UP	회피 시의 이동 거리가 길어진다.
+80	PT_GUARD_UP_SKILL_PT	가드 성능	가드 시에는 좀처럼 움츠리지 않게 되고,소비 스태미나도 줄어든다.
+81	PT_NOUTOU_SPEED_SKILL_PT	납도술	무기를 집어넣는 속도가 빨라진다.
+82	PT_WIDE_SKILL_PT	광역화	일부 아이템을 사용했을 때의효과가 일정 범위 안에 있는동료에게도 작용한다.
+83	PT__ITEM_UP_SKILL_PT	아이템 사용 강화	일부 아이템의 효과 시간이 늘어난다.
+84	PT_MANZOK_SKILL_PT	만족감	먹거나 마시는 아이템을 일정 확률로한 번 더 사용할 수 있게 된다.
+85	PT_HAYAGUI_SKILL_PT	빨리 먹기	고기나 아이템을 먹는 속도가 빨라진다.
+86	PT_TOISI_SPEED_SKILL_PT	숫돌 사용 고속화	숫돌의 사용 시간이 짧아진다.
+87	DUMMY000021	Unavailable	Unavailable
+88	PT_BOMBER_SKILL_PT	보머	폭탄 계열 아이템의 데미지가 상승한다.
+89	DUMMY000024	Unavailable	Unavailable
+90	PT_KINOKO_LOVER_SKILL_PT	버섯 애호가	평소에는 먹을 수 없는 버섯을먹을 수 있게 되어좋은 효과를 얻을 수 있다.
+91	PT_FISHING_SKILL_PT	낚시 명인	낚시를 잘하게 되는 스킬.
+92	PT_STEAK_SKILL_PT	고기굽기 명인	고기를 잘 굽게 되는 스킬.
+93	PT_TRANSPORTER_SKILL_PT	운반의 달인	운반 시 이동 속도가 증가하고,어느 정도 높은 곳에서 뛰어내려도운반 중인 물건을 떨어뜨리지 않는다.
+94	PT_SAISYU_SKILL_PT	채집의 달인	채집 행동의 속도가 빨라지고,행동 중에 공격을 받아도움츠리지 않게 된다.
+95	PT_HONEY_HUNTER_SKILL_PT	허니 헌터	필드에서 벌꿀을 채취했을 때의취득 수가 증가한다.
+96	PT_HAGI_IRON_SKILL_PT	갈무리 철인	갈무리 도중에 공격을 받아도움츠리지 않는다.
+97	PT_BREATH_SKILL_PT	정령의 가호	플레이어가 받는 데미지를일정 확률로 감소시킨다.
+98	PT_OTOMO_LEADER_SKILL_PT	동반자 지휘	동반자의 공격력과 방어력이 강화된다.
+99	PT_BOTANY_SKILL_PT	식생학	약초 등, 소비 아이템의취득 수가 증가한다.
+100	PT_GEOLOGY_SKILL_PT	지질학	채취 포인트의 채취 횟수가 증가한다.
+101	G_PT_KONSHIN_SKILL_PT	혼신	스태미나 게이지가 가득 찬 상태를잠시 유지하고 있으면회심률이 오른다.
+102	G_PT_SLING_B_PLUS_SKILL_PT	슬링어 장전 수 UP	필드에서 취득하는 슬링어 탄의장전 수가 증가한다. 슬링어 전탄 발사 시 소모하는 탄 수를 억제한다.
+103	PT_MIUSINAI_SKILL_PT	잠복	몬스터가 플레이어를 못 보고지나칠 확률이 증가한다.
+104	PT_NOKEZORI_SKILL_PT	움찔 감소	적은 데미지를 받을 때 리액션을 줄인다.
+105	PT_GUIDE_LONG_SKILL_PT	안내벌레의 반응 거리 UP	안내벌레의 반응 범위가 넓어진다.
+106	PT_SYAGAMI_SPEED_SKILL_PT	앉아 이동 속도 UP	앉아서 이동 속도가 빨라진다.
+107	PT_JUMP_DISTANCE_SKILL_PT	점프 철인	점프 중에 공격을 받아도움츠리지 않게 된다.
+108	PT_HEEL_SMOKE_G_SKILL_PT	환경 이용 지식	면 포자풀이나, 얼음 내성 풀 등임의로 발동할 수 있는 환경 이용 시체력이 추가로 회복된다.
+109	PT_NAGAGUTU_G_SKILL_PT	물가/쌓인 눈 적응	물가에 적응해서 행동할 수 있게 된다.눈이 쌓여 있는 장소 등 지형 효과로이동 속도가 느려지는 장소에도 적응한다.
+110	DUMMY000027	Unavailable	Unavailable
+111	PT_CLIMBER_G_SKILL_PT	클라이머	벽이나 넝쿨에 매달린 상태의회피 이동이나 클러치 중 이동으로소비되는 스태미나양이 감소한다.
+112	PT_FLASH_UP_SKILL_PT	섬광 강화	발생시킨 섬광이 효과를발휘할 확률이 높아진다.
+113	DUMMY000030	Unavailable	Unavailable
+114	PT_LAB_SKILL_PT	연구자	대형 몬스터의 조사 및 연구가진행하기 쉬워진다.(결과 화면에서 효과를 얻을 수 있음)
+115	PT_MUSIHAGI_SKILL_PT	곤충 표본의 달인	곤충형의 소형 몬스터를 공격해서토벌해도 갈무리할 수 있는 상태로남을 확률이 높아진다.
+116	PT_MIST_RESIST_SKILL_PT	독기 내성	독기 침식 상태에 대한 내성을 얻는다.
+117	PT_SMELL_SKILL_PT	추적의 달인	안내벌레가 대형 몬스터에게 유도를시작하기까지 필요한 흔적의 수가줄어든다.
+118	PT_RARE_POP_HIT_SKILL_PT	탐색자의 행운	활성화되어 있는 채취 포인트의발생 확률이 오른다.
+119	PT_RARE_POP_LOCATE_SKILL_PT	감지	활성화되어 있는 채취 포인트를생태 MAP에서 알 수 있게 된다.
+120	PT_MONOMOTI_SKILL_PT	정비	특수 장비를 다시 사용할 수 있게되기까지의 시간이 단축된다.
+121	DUMMY000033	Unavailable	Unavailable
+122	PT_SLIDING_UP_SKILL_PT	활주 강화	슬라이딩을 실시하면 일정 시간회심률이 오른다.
+123	PT_DRASEAL_UP_SKILL_PT	용봉력 강화	무기와 멸룡탄이 지닌 용봉력을강화한다.
+124	PT_4SOKU_SKILL_PT	위협	소형 몬스터에게 들켜도전투 상태가 될 확률이 낮아진다.(갑충종등 일부 몬스터에는 효과가 없음)
+125	PT_NEWZYUURYU_1_SKILL_PT	만악룡의 힘	Unavailable
+126	PT_NEWMAIN_SKILL_PT	멸진룡의 굶주림	Unavailable
+127	PT_DRAGONZOMBIE_SKILL_PT	시투룡의 명맥	Unavailable
+128	PT_REUSU_SKILL_PT	화룡의 힘	Unavailable
+129	PT_DIABROS_SKILL_PT	각룡의 힘	Unavailable
+130	PT_KIRIN_SKILL_PT	환수의 은혜	Unavailable
+131	PT_REIA_ASHU_SKILL_PT	앵화룡의 비기	Unavailable
+132	PT_NEWZYUURYU_S_SKILL_PT	만악룡의 투지	Unavailable
+133	DUMMY000044	Unavailable	Unavailable
+134	DUMMY000047	Unavailable	Unavailable
+135	PT_REUSU_S_SKILL_PT	화룡의 비기	Unavailable
+136	PT_DIABROS_S_SKILL_PT	각룡의 비기	Unavailable
+137	PT_KIRIN_S_SKILL_PT	환수의 은총	Unavailable
+138	PT_GANKIN_SKILL_PT	폭추룡의 수호	Unavailable
+139	DUMMY000054	Unavailable	Unavailable
+140	DUMMY000057	Unavailable	Unavailable
+141	DUMMY000060	Unavailable	Unavailable
+142	PT_NEWARASHI_SKILL_PT	폭린룡의 수호	Unavailable
+143	PT_TEO_SKILL_PT	염왕룡의 무예	Unavailable
+144	PT_KUSHA_SKILL_PT	강룡의 비상	Unavailable
+145	PT_MUKURO_SKILL_PT	명등룡의 신비	Unavailable
+146	DUMMY000067	Unavailable	Unavailable
+147	PT_KAZANRYU_SKILL_PT	용산룡의 비기	Unavailable
+148	DUMMY000071	Unavailable	Unavailable
+149	PT_GUILDX_SKILL_PT	길드의 안내	Unavailable
+150	PT_SEEKER_SKILL_PT	조사단의 안내	Unavailable
+151	PT_FUFYO_SKILL_PT	풍표룡의 은혜	Unavailable
+152	PT_FUFYO_S_SKILL_PT	풍표룡의 은총	Unavailable
+153	PT_ZANSO_SKILL_PT	참조룡의 힘	Unavailable
+154	PT_ZANSO_S_SKILL_PT	참조룡의 비기	Unavailable
+155	PT_ARROW_CHARGE2_SKILL_PT	활 모으기 단계 해제	활의 모으기 단계가 1단계 증가.
+156	PT_SHINGAN2_SKILL_PT	심안/탄도 강화	공격이 튕겨 나가지 않는다./탄과 화살이 최대 위력이되기까지의 거리가 짧아진다.
+157	PT_EXGUARD2_SKILL_PT	가드 강화	평소에는 가드할 수 없는 공격도가드할 수 있게 된다.
+158	PT_GOJIN2_SKILL_PT	칼날 연마	무기를 연마하면, 일정 시간동안 예리도가 떨어지지 않는다.
+159	PT_BLANK_UP2_SKILL_PT	무속성 강화	장비 중인 무속성 무기를강화한다.
+160	PT_NANA_01_SKILL_PT	근성	체력이 일정량 이상 남아 있을 때체력을 초과하는 데미지를 받아도한 번만 힘이 다하지 않고 버틴다.
+161	PT_NANA_02_SKILL_PT	가속 재생	지속적으로 몬스터에게 공격을성공시키면 체력이 회복된다. 무기종류에 따라 회복량이 달라진다.
+162	PT_NANA_03_SKILL_PT	명검/탄환 절약	예리도 소모를 절반으로 억제한다./가끔 보우건의 탄과 활의 병을소모하지 않고 발사할 수 있다.
+163	PT_NANA_S_SKILL_PT	염비룡의 은총	Unavailable
+164	PT_FF_S_SKILL_PT	용기사의 증표	Unavailable
+165	PT_MAMM1_SKILL_PT	회심격【속성】	공격으로 회심이 발생했을 때주는 속성 데미지(불, 물,번개, 얼음, 용)가 높아진다.
+166	PT_MAMM2_SKILL_PT	회심격【특수】	공격으로 회심이 발생했을 때주는 상태 이상치(마비, 독,수면, 폭파)가 높아진다.
+167	PT_WITCHER_SKILL_PT	위쳐의 마음가짐	Unavailable
+168	PT_ANNIVERSARY_SKILL_PT	아스테라의 축복	Unavailable
+169	PT_ZINOGRE_SKILL_PT	뇌랑룡의 진수	Unavailable
+170	PT_TIGREX_SKILL_PT	굉룡의 진수	Unavailable
+171	PT_NARGACUGA_SKILL_PT	신룡의 진수	Unavailable
+172	PT_BRACCHIDIOS_SKILL_PT	쇄룡의 진수	Unavailable
+173	PT_DINOVALDE_SKILL_PT	참룡의 진수	Unavailable
+174	PT_SILVER_SKILL_PT	은화룡의 진수	Unavailable
+175	PT_GOLD_SKILL_PT	금화룡의 진수	Unavailable
+176	PT_EARTH_SKILL_PT	지제룡의 신비	Unavailable
+177	PT_NERO_SKILL_PT	명룡의 신비	Unavailable
+178	PT_HIVER_SKILL_PT	빙룡의 신비	Unavailable
+179	PT_UNDECIDED1_SKILL_PT	태고의 신비	Unavailable
+180	PT_UNDECIDED2_SKILL_PT	조사단의 연금술	Unavailable
+181	PT_UNDECIDED3_SKILL_PT	교관의 지도	Unavailable
+182	PT_UNDECIDED4_SKILL_PT	만악룡의 패기	Unavailable
+183	PT_UNDECIDED5_SKILL_PT	자화룡의 진수	Unavailable
+184	PT_GUST_SKILL_PT	양동 공격	공격을 명중시키면 몬스터의 주의를더욱 강하게 끈다.
+185	PT_KNIGHT_SKILL_PT	공격적인 방어	타이밍을 잘 맞춰 가드에 성공하면일정 시간 공격력이 상승한다.
+186	PT_DISASTER_SKILL_PT	전화위복	상태 이상 및 속성 피해에서 벗어나면일정 시간 공격 성능이 강화된다.
+187	PT_EXDODGE_SKILL_PT	낙법술	발도 중 공격을 받아 크게날려질 때 낙법을 취해빠르게 복귀할 수 있게 된다.
+188	PT_EX06_SKILL_PT	빙아룡의 비기	Unavailable
+189	PT_EX07_SKILL_PT	화룡의 진수	Unavailable
+190	PT_EX08_SKILL_PT	각룡의 패기	Unavailable
+191	PT_EX09_SKILL_PT	풍표룡의 패기	Unavailable
+192	PT_EX10_SKILL_PT	참조룡의 진수	Unavailable
+193	PT_EX11_SKILL_PT	폭추룡의 패기	Unavailable
+194	PT_EX12_SKILL_PT	폭린룡의 패기	Unavailable
+195	PT_EX13_SKILL_PT	공폭룡의 진수	Unavailable
+196	PT_EX14_SKILL_PT	시투룡의 영맥	Unavailable
+197	DUMMY000108	Unavailable	Unavailable
+198	DUMMY000111	Unavailable	Unavailable
+199	PT_EX17_SKILL_PT	환수의 신비	Unavailable
+200	PT_EX18_SKILL_PT	길드의 견식	Unavailable
+201	PT_EX19_SKILL_PT	용산룡의 진수	Unavailable
+202	PT_EX20_SKILL_PT	염비룡의 진수	Unavailable
+203	PT_EX21_SKILL_PT	멸진룡의 패기	Unavailable
+204	DUMMY000119	Unavailable	Unavailable
+205	PT_DONKI_SKILL_PT	둔기 사용	예리도가 나쁠수록 공격력 상승./원거리 무기의 근접공격 위력과기절시킬 확률이 매우 크게 상승
+206	PT_STAMINA_PINCH_SKILL_PT	분발	체력이 40％ 이하가 되면 일정 시간스태미나 소비량이 감소한다.
+207	PT_COLD_RES_SKILL_PT	추위 내성	추위에 의한 영향을 무효화한다.
+208	PT_EX22_SKILL_PT	금사자의 분노	Unavailable
+209	PT_HORIZON_SKILL_PT	동력 전지	Unavailable
+210	PT_RE_SKILL_PT	서바이벌	Unavailable
+211	PT_MUFET_SKILL_PT	명적룡의 봉인	Unavailable
+212	PT_WINTER_SKILL_PT	만복의 축복	Unavailable
+213	PT_ANNIVERSARY_S_SKILL_PT	대감사의 축복	Unavailable
+214	PT_SPRING_SKILL_PT	만개의 축복	Unavailable
+215	DUMMY000129	Unavailable	Unavailable
+216	DUMMY000132	Unavailable	Unavailable
+217	PT_EX23_SKILL_PT	금사자의 투지	Unavailable
+218	PT_EX24_SKILL_PT	쇄룡의 투지	Unavailable
+219	PT_EX25_SKILL_PT	난휘룡의 진수	Unavailable
+220	DUMMY000138	Unavailable	Unavailable
+221	DUMMY000141	Unavailable	Unavailable
+222	DUMMY000144	Unavailable	Unavailable
+223	DUMMY000147	Unavailable	Unavailable
