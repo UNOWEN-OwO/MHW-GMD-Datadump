@@ -395,6 +395,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 62607	Como polilla hacia la luz	Abate a Xeno'jiiva	Se te acaba el tiempoTe has desmayado tres veces
 62608	Observando el alba	Repele a Zorah Magdaros	Se te acaba el tiempoTe has desmayado tres vecesNo has repelido a Zorah Magdaros
 62609	Guardián del ultramundo	Abate a Xeno'jiiva	Se te acaba el tiempoTe has desmayado tres veces
+62801	Suena una marcha fúnebre	Abate a un Shara Ishvalda	Se te acaba el tiempoTe has desmayado tres veces
 63001	Misión desafío 1: principiante	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
 63002	Misión desafío 2: principiante	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
 63003	¡Infestación Vespoid!	Abate a 30 Vespoid	Se te acaba el tiempoTe has desmayado nueve veces
@@ -443,6 +444,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 65605	Trío desafío	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
 65606	Un trabajo fácil	Entrega 10 sombreros de seta gourmet	Se te acaba el tiempoTe has desmayado tres veces
 65607	Seguimiento de la entrega	Entrega 10 berilios azules	Se te acaba el tiempoTe has desmayado tres veces
+65801	Doble dolor Dodogama	Caza 2 Dodogama	Se te acaba el tiempoTe has desmayado tres veces
 66101	El doble de voraz	Caza 2 Gran Jagras	Se te acaba el tiempoTe has desmayado tres veces
 66102	Cazadores cazados	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
 66103	Procesado de residuos	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
@@ -481,6 +483,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66820	Un rugido hace temblar al mundo	Caza un Tigrex Pardo	Se te acaba el tiempoTe has desmayado tres veces
 66821	Vistazo de plata	Caza un Rathalos Plateado	Se te acaba el tiempoTe has desmayado tres veces
 66822	La luna es una reina cruel	Caza una Rathian Dorada	Se te acaba el tiempoTe has desmayado tres veces
+66823	A los masacrados, con amor	Abate a un Nergigante Regio	Se te acaba el tiempoTe has desmayado tres veces
 66824	Abtruso, conturbado y azacaneado	Caza a un Rajang	Se te acaba el tiempoTe has desmayado tres veces
 66825	Esas cicatrices han visto mucho	Caza un Yian Garuga Naevus	Se te acaba el tiempoTe has desmayado tres veces
 66826	Cantando en el bosque	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
@@ -506,3 +509,6 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67608	SMF: silencioso, mortal y feroz	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
 67610	Contrato: espíritu del bosque	Abate al leshen antiguo	Se te acaba el tiempoTe has desmayado tres veces
 67801	RE: Vuelve la amenaza biológica	Abate a un Vaal Hazak Espóreo	Se te acaba el tiempoTe has desmayado tres veces
+67802	Hacia las tierras heladas	Caza un Zinogre	Se te acaba el tiempoTe has desmayado tres veces
+67803	Superviviente	Caza un Zinogre Estigio	Se te acaba el tiempoTe has desmayado tres veces
+67804	Firebreak	Caza un Deviljho Salvaje	Se te acaba el tiempoTe has desmayado tres veces

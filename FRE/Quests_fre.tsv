@@ -395,6 +395,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 62607	Comme un papillon vers une flamme	Tuer le Xeno'jiiva	Temps imparti écouléS'évanouir 3 fois
 62608	Regard sur l'aube	Guider le Zorah Magdaros	Temps imparti écouléS'évanouir 3 foisZorah Magdaros non guidé
 62609	Gardien d'Outre-tombe	Abattre le Xeno'jiiva	Temps imparti écouléS'évanouir 3 fois
+62801	Marche funèbre	Tuer un Shara Ishvalda	Temps imparti écouléS'évanouir 3 fois
 63001	Quête Défi 1 : Débutant	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
 63002	Quête Défi 2 : Débutant	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
 63003	Infestation de Vespoid !	Tuer 30 Vespoid	Temps imparti écouléS'évanouir 9 fois
@@ -443,6 +444,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 65605	Menace triple	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
 65606	Une tâche aisée	Livrer 10 champignons délicats	Temps imparti écouléS'évanouir 3 fois
 65607	Suivi de livraison	Livrer 10 béryls bleus	Temps imparti écouléS'évanouir 3 fois
+65801	Tirer deux Dodogama du même sac	Chasser 2 Dodogama	Temps imparti écouléS'évanouir 3 fois
 66101	Gras-double	Chasser 2 Grands Jagras	Temps imparti écouléS'évanouir 3 fois
 66102	Ya-Ku... y a quoi ?	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
 66103	Un autre tas d'os à ronger	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
@@ -481,6 +483,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66820	Métal hurlant	Chasser un Tigrex berserk	Temps imparti écouléS'évanouir 3 fois
 66821	La couleur de l'argent	Chasser un Rathalos d'argent	Temps imparti écouléS'évanouir 3 fois
 66822	La lune est une reine cruelle	Chasser une Rathian d'or	Temps imparti écouléS'évanouir 3 fois
+66823	Le massacre du printemps	Tuer un Nergigante chaos	Temps imparti écouléS'évanouir 3 fois
 66824	Foudre de guerre	Chasser un Rajang	Temps imparti écouléS'évanouir 3 fois
 66825	Pas d'héroïsme sans cicatrices	Chasser un Yian Garuga balafré	Temps imparti écouléS'évanouir 3 fois
 66826	Yodel forestier	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
@@ -506,3 +509,6 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67608	Silencieux, mortel, et intense	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
 67610	Contrat : esprit de la forêt	Tuer le vieux leshen	Temps imparti écouléS'évanouir 3 fois
 67801	RE : Retour de l'arme biologique	Tuer un Vaal Hazak fléau	Temps imparti écouléS'évanouir 3 fois
+67802	Au cœur des contrées gelées	Chasser un Zinogre	Temps imparti écouléS'évanouir 3 fois
+67803	La survivante	Chasser un Zinogre stygien	Temps imparti écouléS'évanouir 3 fois
+67804	Embrasement	Chasser un Deviljho carnage	Temps imparti écouléS'évanouir 3 fois

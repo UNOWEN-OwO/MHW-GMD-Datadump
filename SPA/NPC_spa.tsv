@@ -1,0 +1,171 @@
+NPC Code	NPC Name	Model Address
+N001_NPC_NAME	Comandante	npc001
+N002_NPC_NAME	Encargada	npc002
+N003_NPC_NAME	Líder del equipo de campo	npc003
+N004_NPC_NAME	Gestora de recursos	npc004
+N005_NPC_NAME	Director de análisis	npc005
+N006_NPC_NAME	Jefe tecnólogo	npc006
+N007_NPC_NAME	Almacén	npc007
+N009_NPC_NAME	Ecólogo jefe	npc009
+N010_NPC_NAME	Botánico jefe	npc010
+N011_NPC_NAME	Maxifusionadora	npc011
+N012_NPC_NAME	Maestro de la 2.ª flota	npc012
+N014_NPC_NAME	Armería	npc014
+N015_NPC_NAME	Chef miausculoso	npc015
+N016_NPC_NAME	Ayudante	npc016
+N017_NPC_NAME	Maestro cazador	npc017
+N018_NPC_NAME	Rastreadora	npc018
+N019_NPC_NAME	Almirante	npc019
+N020_NPC_NAME	Cazador wyveriano	npc020
+N021_NPC_NAME	Maestra de la 3.ª flota	npc021
+N022_NPC_NAME	Proveedor de la 3.ª flota	npc022
+N023_NPC_NAME	Doctora lynian	npc023
+N024_NPC_NAME	Primer wyveriano	npc024
+N025_NPC_NAME	Entusiasta de clase A	npc025
+N026_NPC_NAME	Encargada seria	npc026
+N027_NPC_NAME	Investigador perdido	npc027
+N028_NPC_NAME	Erudito risueño	npc028
+N029_NPC_NAME	Erudito entusiasta	npc029
+N030_NPC_NAME	Erudito animado	npc030
+N032_NPC_NAME	Capitán	npc032
+N033_NPC_NAME	Ayudante	npc033
+N034_NPC_NAME	Ayudante	npc034
+N035_NPC_NAME	Ayudante	npc035
+N036_NPC_NAME	Primer wyveriano	npc036
+N037_NPC_NAME	Experto en pesca	npc037
+N038_NPC_NAME	Experta en fauna local	npc038
+N039_NPC_NAME	Experto lynian	npc039
+N040_NPC_NAME	Primer wyveriano	npc040
+N102_NPC_NAME	Intenso de la 5.ª	npc102
+N103_NPC_NAME	Amable de la 4.ª	npc103
+N104_NPC_NAME	Fogoso de la 4.ª	npc104
+N105_NPC_NAME	Enrollada de la 5.ª	npc105
+N106_NPC_NAME	Gracioso de la 4.ª	npc106
+N107_NPC_NAME	Enérgica de la 5.ª	npc107
+N108_NPC_NAME	Tímido de la 5.ª	npc108
+N109_NPC_NAME	Compañera de la 4.ª	npc109
+N111_NPC_NAME	Cazador investigador	npc111
+N112_NPC_NAME	Biólogo sabio	npc112
+N113_NPC_NAME	Bióloga impaciente	npc113
+N114_NPC_NAME	Botánica despreocupada	npc114
+N116_NPC_NAME	Colega de la 5.ª	npc116
+N117_NPC_NAME	Felyne de la sopa	npc117
+N118_NPC_NAME	Felyne del horno	npc118
+N121_NPC_NAME	Tranquilo de la 4.ª	npc121
+N123_NPC_NAME	Valiente de la 4.ª	npc123
+N124_NPC_NAME	Simpática de la 5.ª	npc124
+N125_NPC_NAME	Ingeniero aeronáutico	npc125
+N130_NPC_NAME	Erudito alegre	npc130
+N131_NPC_NAME	Erudito tímido	npc131
+N134_NPC_NAME	Gestora de eventos	npc134
+N140_NPC_NAME	Moguri	npc140
+N170_NPC_NAME	Geralt de Rivia	npc170
+N259_NPC_NAME	Felyne de la 3.ª flota	npc259
+N610_NPC_NAME	Aprendiz de la forja	npc610
+N611_NPC_NAME	Botánico jefe	npc611
+N612_NPC_NAME	Experta en fauna local	npc612
+N613_NPC_NAME	Experto lynian	npc613
+N251_NPC_NAME	Amante de las manzanas	npc251
+N252_NPC_NAME	Comprometido de la 5.ª	npc252
+N253_NPC_NAME	Amante del pescado	npc253
+N254_NPC_NAME	Experto en sigilo	npc254
+N255_NPC_NAME	Ocupado de la 5.ª	npc255
+N256_NPC_NAME	Afanoso de la 5.ª	npc256
+N257_NPC_NAME	Miembro de la comisión	npc257
+N258_NPC_NAME	Miembro de la comisión	npc258
+N301_NPC_NAME	Chica de la sala	npc301
+N302_NPC_NAME	Chica de la Arena	npc302
+N303_NPC_NAME	Provisiones de la sala	npc303
+N304_NPC_NAME	Gestora de eventos	npc304
+N305_NPC_NAME	Felyne esperanzado	npc305
+N307_NPC_NAME	Felyne camarero	npc307
+N701_NPC_NAME	Miaubuelita chef	npc701
+N702_NPC_NAME	Vendedor de Seliana	npc702
+N703_NPC_NAME	Fusionadora de Seliana	npc703
+N704_NPC_NAME	Marinero de Seliana	npc704
+N706_NPC_NAME	Armera de Seliana	npc706
+N707_NPC_NAME	Ayudante	npc707
+N708_NPC_NAME	Gestora eventos del bar	npc708
+N709_NPC_NAME	Gestora Arena del bar	npc709
+N710_NPC_NAME	Chica del bar	npc710
+N711_NPC_NAME	Vendedora del bar	npc711
+N712_NPC_NAME	Wyveriano del ártico	npc712
+N713_NPC_NAME	Gestora recursos del bar	npc713
+N714_NPC_NAME	Marinero del bar	npc714
+N715_NPC_NAME	Ayudante	npc715
+N730_NPC_NAME	Felyne atento	npc730
+N731_NPC_NAME	Felyne entrometido	npc731
+N732_NPC_NAME	Mozo de la 5.ª	npc732
+N741_NPC_NAME	Ambicioso de la 4.ª	npc741
+N743_NPC_NAME	Auxiliar de la 5.ª	npc743
+N749_NPC_NAME	Biólogo estudioso	npc749
+N754_NPC_NAME	Cazador con espadas	npc754
+N755_NPC_NAME	Felyne servicial	npc755
+N756_NPC_NAME	Camarero Felyne	npc756
+N757_NPC_NAME	Cazador ballestero	npc757
+N758_NPC_NAME	Miembro de la comisión	npc758
+N759_NPC_NAME	Fan de los baños	npc759
+N760_NPC_NAME	Tipo bañándose	npc760
+N761_NPC_NAME	Chica de los baños	npc761
+N762_NPC_NAME	Bañista solitario	npc762
+N763_NPC_NAME	Tipo de la sauna	npc763
+N764_NPC_NAME	Motivado de la 4.ª	npc764
+N765_NPC_NAME	Curioso de la 5.ª	npc765
+N766_NPC_NAME	Exigente de la 4.ª	npc766
+N767_NPC_NAME	Impulsiva de la 5.ª	npc767
+N781_NPC_NAME	Herrero joven	npc781
+N782_NPC_NAME	Vicejefe ecólogo	npc782
+N792_NPC_NAME	Vendedor de la forja	npc792
+N793_NPC_NAME	Recursos de la 3.ª	npc793
+HUNTER_00_NAME	Cazador novato	
+HUNTER_01_NAME	Cazador inexperto	
+HUNTER_02_NAME	Joven cazador	
+HUNTER_03_NAME	Cazador en prácticas	
+HUNTER_04_NAME	Cazador habitual	
+HUNTER_05_NAME	Cazador solucionador	
+HUNTER_06_NAME	Cazador sólido	
+HUNTER_07_NAME	Cazador entusiasta	
+HUNTER_08_NAME	Cazador veterano	
+HUNTER_09_NAME	Cazador profesional	
+HUNTER_10_NAME	Cazador errante	
+HUNTER_11_NAME	Cazador independiente	
+OTOMO_00_NAME	Albert	
+OTOMO_01_NAME	Akira	
+OTOMO_02_NAME	Algodón	
+OTOMO_03_NAME	Almendra	
+OTOMO_04_NAME	Andresín	
+OTOMO_05_NAME	Araujo	
+OTOMO_06_NAME	Burrito	
+OTOMO_07_NAME	Cereza	
+OTOMO_08_NAME	David	
+OTOMO_09_NAME	Farruco	
+OTOMO_10_NAME	Garfield	
+OTOMO_11_NAME	Graham	
+OTOMO_12_NAME	Hanzo	
+OTOMO_13_NAME	Jeff	
+OTOMO_14_NAME	Jet	
+OTOMO_15_NAME	Joel	
+OTOMO_16_NAME	Kidd	
+OTOMO_17_NAME	Laura	
+OTOMO_18_NAME	Lolo	
+OTOMO_19_NAME	Lucy	
+OTOMO_20_NAME	Manu	
+OTOMO_21_NAME	Manzanita	
+OTOMO_22_NAME	Marco	
+OTOMO_23_NAME	Misty	
+OTOMO_24_NAME	Panda	
+OTOMO_25_NAME	Patán	
+OTOMO_26_NAME	Peach	
+OTOMO_27_NAME	Piccadilly	
+OTOMO_28_NAME	Pulgoso	
+OTOMO_29_NAME	Ricky	
+OTOMO_30_NAME	Robo	
+OTOMO_31_NAME	Rocky	
+OTOMO_32_NAME	Roy	
+OTOMO_33_NAME	Sara	
+OTOMO_34_NAME	Scott	
+OTOMO_35_NAME	Sebastián	
+OTOMO_36_NAME	Solomon	
+OTOMO_37_NAME	Spike	
+OTOMO_38_NAME	Tofu	
+OTOMO_39_NAME	Zack	

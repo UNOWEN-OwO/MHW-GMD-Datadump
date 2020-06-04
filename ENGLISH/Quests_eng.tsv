@@ -395,6 +395,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 62607	Like a Moth to the Flame	Slay Xeno'jiiva	Time expiresFaint 3 times
 62608	Gaze Upon the Dawn	Guide Zorah Magdaros	Time expiresFaint 3 timesFail to guide Zorah Magdaros
 62609	Keeper of the Otherworld	Slay Xeno'jiiva	Time expiresFaint 3 times
+62801	When the Dirge Plays	Slay a Shara Ishvalda	Time expiresFaint 3 times
 63001	Challenge Quest 1: Beginner	Slay all target monsters	Time expiresFaint 9 times
 63002	Challenge Quest 2: Beginner	Slay all target monsters	Time expiresFaint 9 times
 63003	Vespoid Infestation!	Slay 30 Vespoid	Time expiresFaint 9 times
@@ -443,6 +444,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 65605	Triple Threat Throwdown	Hunt all target monsters	Time expiresFaint 3 times
 65606	A Simple Task	Deliver 10 Gourmet Shroomcap	Time expiresFaint 3 times
 65607	Tracking the Delivery	Deliver 10 Blue Beryl	Time expiresFaint 3 times
+65801	Double Dodogama Disturbance	Hunt 2 Dodogama	Time expiresFaint 3 times
 66101	Chew The Fat	Hunt 2 Great Jagras	Time expiresFaint 3 times
 66102	Ya-Ku With That?	Hunt all target monsters	Time expiresFaint 3 times
 66103	Flesh Cleaved to Bone	Hunt all target monsters	Time expiresFaint 3 times
@@ -481,6 +483,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66820	A Roar that Splinters the Sky	Hunt a Brute Tigrex	Time expiresFaint 3 times
 66821	A Glance of Silver	Hunt a Silver Rathalos	Time expiresFaint 3 times
 66822	The Moon is a Harsh Queen	Hunt a Gold Rathian	Time expiresFaint 3 times
+66823	To The Massacred, With Love	Slay a Ruiner Nergigante	Time expiresFaint 3 times
 66824	Razzled, Frazzled, and Dazzled	Hunt a Rajang	Time expiresFaint 3 times
 66825	Scars Tell the Whole Story	Hunt a Scarred Yian Garuga	Time expiresFaint 3 times
 66826	Yodeling in the Forest	Hunt all target monsters	Time expiresFaint 3 times
@@ -506,3 +509,6 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67608	SDF: Silent, Deadly, and Fierce	Hunt all target monsters	Time expiresFaint 3 times
 67610	Contract: Woodland Spirit	Slay the Ancient Leshen	Time expiresFaint 3 times
 67801	RE: Return of the Bioweapon	Slay a Blackveil Vaal Hazak	Time expiresFaint 3 times
+67802	Into the Frozen Wilds	Hunt a Zinogre	Time expiresFaint 3 times
+67803	The Survivor	Hunt a Stygian Zinogre	Time expiresFaint 3 times
+67804	Firebreak	Hunt a Savage Deviljho	Time expiresFaint 3 times

@@ -1,0 +1,171 @@
+NPC Code	NPC Name	Model Address
+N001_NPC_NAME	Comandante	npc001
+N002_NPC_NAME	Assistente	npc002
+N003_NPC_NAME	Capo squadra operativa	npc003
+N004_NPC_NAME	Addetta alle risorse	npc004
+N005_NPC_NAME	Analista	npc005
+N006_NPC_NAME	Capotecnico	npc006
+N007_NPC_NAME	Centro scorte	npc007
+N009_NPC_NAME	Capo biologo	npc009
+N010_NPC_NAME	Capo botanico	npc010
+N011_NPC_NAME	Alchimista	npc011
+N012_NPC_NAME	Capitano della Seconda	npc012
+N014_NPC_NAME	Armaiola	npc014
+N015_NPC_NAME	Chef miauscoloso	npc015
+N016_NPC_NAME	Attendente	npc016
+N017_NPC_NAME	Mastro cacciatore	npc017
+N018_NPC_NAME	Esploratrice	npc018
+N019_NPC_NAME	Ammiraglio	npc019
+N020_NPC_NAME	Segugio	npc020
+N021_NPC_NAME	Comandante della Terza	npc021
+N022_NPC_NAME	Addetto scorte della Terza	npc022
+N023_NPC_NAME	Ricercatrice di cacciaprede	npc023
+N024_NPC_NAME	Antico wyverniano	npc024
+N025_NPC_NAME	Spavaldo di classe A	npc025
+N026_NPC_NAME	Assistente seria	npc026
+N027_NPC_NAME	Erudito scomparso	npc027
+N028_NPC_NAME	Erudito gioviale	npc028
+N029_NPC_NAME	Erudito gioioso	npc029
+N030_NPC_NAME	Erudito vivace	npc030
+N032_NPC_NAME	Capitano	npc032
+N033_NPC_NAME	Attendente	npc033
+N034_NPC_NAME	Attendente	npc034
+N035_NPC_NAME	Attendente	npc035
+N036_NPC_NAME	Antico wyverniano	npc036
+N037_NPC_NAME	Esperto di pesca	npc037
+N038_NPC_NAME	Esperta di fauna endemica	npc038
+N039_NPC_NAME	Esperto di Lynian	npc039
+N040_NPC_NAME	Antico wyverniano	npc040
+N102_NPC_NAME	Compagnone della Quinta	npc102
+N103_NPC_NAME	Gentile della Quarta	npc103
+N104_NPC_NAME	Entusiasta della Quarta	npc104
+N105_NPC_NAME	Fantastica della Quinta	npc105
+N106_NPC_NAME	Spassoso della Quarta	npc106
+N107_NPC_NAME	Energica della Quinta	npc107
+N108_NPC_NAME	Timido della Quinta	npc108
+N109_NPC_NAME	Sorellona della Quarta	npc109
+N111_NPC_NAME	Cacciatore studioso	npc111
+N112_NPC_NAME	Biologo brillante	npc112
+N113_NPC_NAME	Biologa impaziente	npc113
+N114_NPC_NAME	Botanica flemmatica	npc114
+N116_NPC_NAME	Amicone della Quinta	npc116
+N117_NPC_NAME	Addetto alla zuppa	npc117
+N118_NPC_NAME	Addetto al forno	npc118
+N121_NPC_NAME	Silenzioso della Quarta	npc121
+N123_NPC_NAME	Testa calda della Quarta	npc123
+N124_NPC_NAME	Curiosa della Quinta	npc124
+N125_NPC_NAME	Ingegnere aeronavale	npc125
+N130_NPC_NAME	Erudito appassionato	npc130
+N131_NPC_NAME	Erudita timida	npc131
+N134_NPC_NAME	Addetta agli eventi	npc134
+N140_NPC_NAME	Moguri	npc140
+N170_NPC_NAME	Geralt di Rivia	npc170
+N259_NPC_NAME	Felyne della Terza flotta	npc259
+N610_NPC_NAME	Apprendista della forgia	npc610
+N611_NPC_NAME	Capo botanico	npc611
+N612_NPC_NAME	Esperta di fauna endemica	npc612
+N613_NPC_NAME	Esperto di Lynian	npc613
+N251_NPC_NAME	Amante delle mele	npc251
+N252_NPC_NAME	Impegnato della Quinta	npc252
+N253_NPC_NAME	Amante della pesca	npc253
+N254_NPC_NAME	Esperto conciatore	npc254
+N255_NPC_NAME	Oberato della Quinta	npc255
+N256_NPC_NAME	Industrioso della Quinta	npc256
+N257_NPC_NAME	Membro della commissione	npc257
+N258_NPC_NAME	Membro della commissione	npc258
+N301_NPC_NAME	Dama della Caccia celeste	npc301
+N302_NPC_NAME	Dama dell'Arena	npc302
+N303_NPC_NAME	Addetta alle scorte	npc303
+N304_NPC_NAME	Addetta agli eventi	npc304
+N305_NPC_NAME	Felyne speranzoso	npc305
+N307_NPC_NAME	Felyne nutritore	npc307
+N701_NPC_NAME	Miaestra chef	npc701
+N702_NPC_NAME	Magazziniere di Seliana	npc702
+N703_NPC_NAME	Alchimista di Seliana	npc703
+N704_NPC_NAME	Marinaio di Seliana	npc704
+N706_NPC_NAME	Armeria di Seliana	npc706
+N707_NPC_NAME	Attendente	npc707
+N708_NPC_NAME	Addetta agli eventi	npc708
+N709_NPC_NAME	Addetta dell’arena	npc709
+N710_NPC_NAME	Dama della taverna	npc710
+N711_NPC_NAME	Magazziniera della taverna	npc711
+N712_NPC_NAME	Wyverniano tundrico	npc712
+N713_NPC_NAME	Addetta alle risorse	npc713
+N714_NPC_NAME	Marinaio della taverna	npc714
+N715_NPC_NAME	Attendente	npc715
+N730_NPC_NAME	Aiutante Felyne	npc730
+N731_NPC_NAME	Impiccione Felyne	npc731
+N732_NPC_NAME	Ficcanaso della Quinta	npc732
+N741_NPC_NAME	Ambizioso della Quarta	npc741
+N743_NPC_NAME	Affidabile della Quinta	npc743
+N749_NPC_NAME	Biologo studioso	npc749
+N754_NPC_NAME	Cacciatore con doppie lame	npc754
+N755_NPC_NAME	Domestico Felyne	npc755
+N756_NPC_NAME	Cameriere Felyne	npc756
+N757_NPC_NAME	Cacciatrice con balestra	npc757
+N758_NPC_NAME	Membro della commissione	npc758
+N759_NPC_NAME	Rilassata della Quinta	npc759
+N760_NPC_NAME	Tizio accaldato	npc760
+N761_NPC_NAME	Ragazza nell'acqua	npc761
+N762_NPC_NAME	Tipo solitario	npc762
+N763_NPC_NAME	Tipo della sauna	npc763
+N764_NPC_NAME	Motivato della Quarta	npc764
+N765_NPC_NAME	Curioso della Quinta	npc765
+N766_NPC_NAME	Pignola della Quarta	npc766
+N767_NPC_NAME	Zelante della Quinta	npc767
+N781_NPC_NAME	Giovane fabbro	npc781
+N782_NPC_NAME	Vicecapo biologo	npc782
+N792_NPC_NAME	Venditore della forgia	npc792
+N793_NPC_NAME	Risorse Terza flotta	npc793
+HUNTER_00_NAME	Cacciatore novizio	
+HUNTER_01_NAME	Cacciatore inesperto	
+HUNTER_02_NAME	Cacciatore giovane	
+HUNTER_03_NAME	Cacciatore apprendista	
+HUNTER_04_NAME	Cacciatore ordinario	
+HUNTER_05_NAME	Cacciatore autentico	
+HUNTER_06_NAME	Cacciatore affidabile	
+HUNTER_07_NAME	Cacciatore passionale	
+HUNTER_08_NAME	Cacciatore veterano	
+HUNTER_09_NAME	Cacciatore d'élite	
+HUNTER_10_NAME	Cacciatore vagabondo	
+HUNTER_11_NAME	Cacciatore solitario	
+OTOMO_00_NAME	Arthur	
+OTOMO_01_NAME	Fab	
+OTOMO_02_NAME	Draco	
+OTOMO_03_NAME	Andrew	
+OTOMO_04_NAME	Alex	
+OTOMO_05_NAME	Ashley	
+OTOMO_06_NAME	David	
+OTOMO_07_NAME	Sting	
+OTOMO_08_NAME	Gian	
+OTOMO_09_NAME	Laura	
+OTOMO_10_NAME	Graham	
+OTOMO_11_NAME	Dahdrai	
+OTOMO_12_NAME	Joel	
+OTOMO_13_NAME	Simon	
+OTOMO_14_NAME	Casey	
+OTOMO_15_NAME	Zack	
+OTOMO_16_NAME	Jet	
+OTOMO_17_NAME	Jasmin	
+OTOMO_18_NAME	Jin	
+OTOMO_19_NAME	Sarah	
+OTOMO_20_NAME	Luca	
+OTOMO_21_NAME	Ricky	
+OTOMO_22_NAME	Ginger	
+OTOMO_23_NAME	Scott	
+OTOMO_24_NAME	Stefano	
+OTOMO_25_NAME	Sebastian	
+OTOMO_26_NAME	Patrick	
+OTOMO_27_NAME	Matt	
+OTOMO_28_NAME	Marina	
+OTOMO_29_NAME	Marco	
+OTOMO_30_NAME	Valerie	
+OTOMO_31_NAME	Bell	
+OTOMO_32_NAME	Pawlermo	
+OTOMO_33_NAME	Araujo	
+OTOMO_34_NAME	Misty	
+OTOMO_35_NAME	Biscuit	
+OTOMO_36_NAME	Peach	
+OTOMO_37_NAME	Lucy	
+OTOMO_38_NAME	Fran	
+OTOMO_39_NAME	Miguel	

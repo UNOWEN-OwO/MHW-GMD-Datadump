@@ -395,6 +395,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 62607	Wie eine Motte zur Flamme	Töte den Xeno'jiiva.	Zeit abgelaufen3-mal ohnmächtig geworden
 62608	Kurz vor Sonnenaufgang	Leite den Zorah Magdaros.	Zeit abgelaufen3-mal ohnmächtig gewordenDen Zorah Magdaros nicht geleitet
 62609	Hüter der Anderwelt	Töte den Xeno'jiiva.	Zeit abgelaufen3-mal ohnmächtig geworden
+62801	Wenn das Klagelied spielt	Töte einen Shara Ishvalda.	Zeit abgelaufen3-mal ohnmächtig geworden
 63001	Herausforderung 1: Anfänger	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
 63002	Herausforderung 2: Anfänger	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
 63003	Vespoiden-Befall	Töte 30 Vespoiden.	Zeit abgelaufen9-mal ohnmächtig geworden
@@ -443,6 +444,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 65605	Dreifache Bedrohung	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
 65606	Eine einfache Aufgabe	Liefere zehn Gourmet-Pilzhüte.	Zeit abgelaufen3-mal ohnmächtig geworden
 65607	Überwachung der Lieferung	Liefere zehn Blaue Beryll.	Zeit abgelaufen3-mal ohnmächtig geworden
+65801	Doppeltes Dodogama-Desaster	Erjage zwei Dodogama.	Zeit abgelaufen3-mal ohnmächtig geworden
 66101	Fingerübung	Erjage zwei Groß-Jagras.	Zeit abgelaufen3-mal ohnmächtig geworden
 66102	Acht Leben zu wenig	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
 66103	Durch bis zum Knochen	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
@@ -481,6 +483,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66820	Ein berstendes Brüllen	Erjage einen Brachial-Tigrex.	Zeit abgelaufen3-mal ohnmächtig geworden
 66821	Ein silbernes Aufblitzen	Erjage einen Silbernen Rathalos.	Zeit abgelaufen3-mal ohnmächtig geworden
 66822	Der Mond ist eine herbe Königin	Erjage eine Goldene Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
+66823	In Gedenken an die Massakrierten	Töte einen Ruinen-Nergigante.	Zeit abgelaufen3-mal ohnmächtig geworden
 66824	Verwirrt, erschöpft, geblendet	Erjage einen Rajang.	Zeit abgelaufen3-mal ohnmächtig geworden
 66825	Wunden sagen alles...	Erjage einen Wundmal-Yian-Garuga.	Zeit abgelaufen3-mal ohnmächtig geworden
 66826	Walzer im Wald	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
@@ -506,3 +509,6 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67608	Leise, tödlich und wild	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
 67610	Auftrag: Geist des Waldes	Töte den Uralten Waldschrat.	Zeit abgelaufen3-mal ohnmächtig geworden
 67801	RE: Rückkehr der Biowaffe	Töte einen Velum-Vaal-Hazak.	Zeit abgelaufen3-mal ohnmächtig geworden
+67802	Auf in die eisige Wildnis	Erjage einen Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
+67803	Die Überlebende	Erjage einen Höllen-Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
+67804	Firebreak	Erjage einen Wilden Dämonjho.	Zeit abgelaufen3-mal ohnmächtig geworden

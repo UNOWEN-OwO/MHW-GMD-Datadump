@@ -1,0 +1,171 @@
+NPC Code	NPC Name	Model Address
+N001_NPC_NAME	Kommandant	npc001
+N002_NPC_NAME	Wildexpertin	npc002
+N003_NPC_NAME	Anführer des Feldteams	npc003
+N004_NPC_NAME	Küperin	npc004
+N005_NPC_NAME	Analytikleiter	npc005
+N006_NPC_NAME	Technikchef	npc006
+N007_NPC_NAME	Versorgungslager	npc007
+N009_NPC_NAME	Chefökologe	npc009
+N010_NPC_NAME	Chefbotaniker	npc010
+N011_NPC_NAME	Verschmelzita	npc011
+N012_NPC_NAME	Meister der 2. Flotte	npc012
+N014_NPC_NAME	Ausrüstungsladen	npc014
+N015_NPC_NAME	Miauskulärer Koch	npc015
+N016_NPC_NAME	Haushälter	npc016
+N017_NPC_NAME	Meister der Jagd	npc017
+N018_NPC_NAME	Fährtenleserin	npc018
+N019_NPC_NAME	Admiral	npc019
+N020_NPC_NAME	Wyverianischer Jäger	npc020
+N021_NPC_NAME	Meisterin der 3. Flotte	npc021
+N022_NPC_NAME	Versorger der Dritten	npc022
+N023_NPC_NAME	Lynianer-Expertin	npc023
+N024_NPC_NAME	Erster Wyverianer	npc024
+N025_NPC_NAME	Munterer Topauswahler	npc025
+N026_NPC_NAME	Ernste Wildexpertin	npc026
+N027_NPC_NAME	Vermisster Gelehrter	npc027
+N028_NPC_NAME	Heiterer Gelehrter	npc028
+N029_NPC_NAME	Fröhlicher Gelehrter	npc029
+N030_NPC_NAME	Lebhafter Gelehrter	npc030
+N032_NPC_NAME	Kapitän	npc032
+N033_NPC_NAME	Haushälter	npc033
+N034_NPC_NAME	Haushälter	npc034
+N035_NPC_NAME	Haushälter	npc035
+N036_NPC_NAME	Erster Wyverianer	npc036
+N037_NPC_NAME	Fischforscher	npc037
+N038_NPC_NAME	Einheimische-Wesen-Forscherin	npc038
+N039_NPC_NAME	Lynianer-Forscher	npc039
+N040_NPC_NAME	Erster Wyverianer	npc040
+N102_NPC_NAME	Energischer Fünfer	npc102
+N103_NPC_NAME	Sanfte Viererin	npc103
+N104_NPC_NAME	Eifriger Vierer	npc104
+N105_NPC_NAME	Coole Fünferin	npc105
+N106_NPC_NAME	Spaßiger Vierer	npc106
+N107_NPC_NAME	Nachdrückliche Fünferin	npc107
+N108_NPC_NAME	Schüchterner Fünfer	npc108
+N109_NPC_NAME	Schwesterliche Viererin	npc109
+N111_NPC_NAME	Forschungsjäger	npc111
+N112_NPC_NAME	Kluger Biologe	npc112
+N113_NPC_NAME	Ungeduldige Biologin	npc113
+N114_NPC_NAME	Entspannte Botanikerin	npc114
+N116_NPC_NAME	Fünfer-Bro	npc116
+N117_NPC_NAME	Suppen-Felyne	npc117
+N118_NPC_NAME	Ofen-Felyne	npc118
+N121_NPC_NAME	Eindringlicher Vierer	npc121
+N123_NPC_NAME	Heißblütiger Vierer	npc123
+N124_NPC_NAME	Gelassene Fünferin	npc124
+N125_NPC_NAME	Luftschiff-Ingenieur	npc125
+N130_NPC_NAME	Freudvoller Gelehrter	npc130
+N131_NPC_NAME	Schüchterne Gelehrte	npc131
+N134_NPC_NAME	Event-Verwalterin	npc134
+N140_NPC_NAME	Mogry	npc140
+N170_NPC_NAME	Geralt von Riva	npc170
+N259_NPC_NAME	Felyne der 3. Flotte	npc259
+N610_NPC_NAME	Jungschmied	npc610
+N611_NPC_NAME	Chefbotaniker	npc611
+N612_NPC_NAME	Einheimische-Wesen-Forscherin	npc612
+N613_NPC_NAME	Lynianer-Forscher	npc613
+N251_NPC_NAME	Apfel-Enthusiast	npc251
+N252_NPC_NAME	Kommissionsmitglied	npc252
+N253_NPC_NAME	Fischliebhaberin	npc253
+N254_NPC_NAME	Fell-Experte	npc254
+N255_NPC_NAME	Eingenommener Fünfer	npc255
+N256_NPC_NAME	Beschäftigter Fünfer	npc256
+N257_NPC_NAME	Kommissionsmitglied	npc257
+N258_NPC_NAME	Kommissionsmitglied	npc258
+N301_NPC_NAME	Stätten-Mädel	npc301
+N302_NPC_NAME	Arena-Mädel	npc302
+N303_NPC_NAME	Stätten-Versorgerin	npc303
+N304_NPC_NAME	Event-Verwalterin	npc304
+N305_NPC_NAME	Anwärter-Felyne	npc305
+N307_NPC_NAME	Zuliefer-Felyne	npc307
+N701_NPC_NAME	Großomiau-Köchin	npc701
+N702_NPC_NAME	Seliana-Lagerist	npc702
+N703_NPC_NAME	Seliana-Verschmelzita	npc703
+N704_NPC_NAME	Seliana-Seemann	npc704
+N706_NPC_NAME	Seliana-Ausrüstungsladen	npc706
+N707_NPC_NAME	Haushälter	npc707
+N708_NPC_NAME	Schänken-Event-Verwalterin	npc708
+N709_NPC_NAME	Schänken-Arena-Verwalterin	npc709
+N710_NPC_NAME	Schänken-Mädel	npc710
+N711_NPC_NAME	Schänken-Lageristin	npc711
+N712_NPC_NAME	Tundra-Wyverianer	npc712
+N713_NPC_NAME	Schänken-Ressourcenverwalterin	npc713
+N714_NPC_NAME	Schänken-Seemann	npc714
+N715_NPC_NAME	Haushälter	npc715
+N730_NPC_NAME	Hilfreiche Felyne	npc730
+N731_NPC_NAME	Geschwätzige Felyne	npc731
+N732_NPC_NAME	Geschwätziger Fünfer	npc732
+N741_NPC_NAME	Ehrgeiziger Vierer	npc741
+N743_NPC_NAME	Verlässliche Fünferin	npc743
+N749_NPC_NAME	Gelehrter Biologe	npc749
+N754_NPC_NAME	Doppelklingen-Jäger	npc754
+N755_NPC_NAME	Felyne-Bedienung	npc755
+N756_NPC_NAME	Schänken-Felyne	npc756
+N757_NPC_NAME	Bogengewehr-Jägerin	npc757
+N758_NPC_NAME	Kommissionsmitglied	npc758
+N759_NPC_NAME	Fußbadende Fünferin	npc759
+N760_NPC_NAME	Quellengenießer	npc760
+N761_NPC_NAME	Badende Schönheit	npc761
+N762_NPC_NAME	Spencer	npc762
+N763_NPC_NAME	Dampfbadbesucher	npc763
+N764_NPC_NAME	Motivierter Vierer	npc764
+N765_NPC_NAME	Neugieriger Fünfer	npc765
+N766_NPC_NAME	Pingelige Viererin	npc766
+N767_NPC_NAME	Übereifrige Fünferin	npc767
+N781_NPC_NAME	Junger Schmied	npc781
+N782_NPC_NAME	Vize-Chefökologe	npc782
+N792_NPC_NAME	Schmiedeverkäufer	npc792
+N793_NPC_NAME	Dritte-Flotte-Ressourcen	npc793
+HUNTER_00_NAME	Neuer Jäger	
+HUNTER_01_NAME	Unerfahrener Jäger	
+HUNTER_02_NAME	Junger Jäger	
+HUNTER_03_NAME	Jäger im Training	
+HUNTER_04_NAME	Typischer Jäger	
+HUNTER_05_NAME	Ehrlicher Jäger	
+HUNTER_06_NAME	Verlässlicher Jäger	
+HUNTER_07_NAME	Eifriger Jäger	
+HUNTER_08_NAME	Erfahrener Jäger	
+HUNTER_09_NAME	Elite-Jäger	
+HUNTER_10_NAME	Vagabundenjäger	
+HUNTER_11_NAME	Unabhängiger Jäger	
+OTOMO_00_NAME	Alberto	
+OTOMO_01_NAME	Alex	
+OTOMO_02_NAME	Andrew	
+OTOMO_03_NAME	David	
+OTOMO_04_NAME	Florian	
+OTOMO_05_NAME	Francis	
+OTOMO_06_NAME	Jon	
+OTOMO_07_NAME	Graham	
+OTOMO_08_NAME	Janet	
+OTOMO_09_NAME	Joel	
+OTOMO_10_NAME	Kaori	
+OTOMO_11_NAME	Kilala	
+OTOMO_12_NAME	Luca	
+OTOMO_13_NAME	Manuel	
+OTOMO_14_NAME	Marco	
+OTOMO_15_NAME	Maurice	
+OTOMO_16_NAME	Miguel	
+OTOMO_17_NAME	Peter	
+OTOMO_18_NAME	Soichi	
+OTOMO_19_NAME	Stefano	
+OTOMO_20_NAME	Ugo	
+OTOMO_21_NAME	Kai	
+OTOMO_22_NAME	Martin	
+OTOMO_23_NAME	Steffi	
+OTOMO_24_NAME	Peach	
+OTOMO_25_NAME	Claas	
+OTOMO_26_NAME	Anna	
+OTOMO_27_NAME	Eva	
+OTOMO_28_NAME	Niels	
+OTOMO_29_NAME	Sabine	
+OTOMO_30_NAME	Tobias	
+OTOMO_31_NAME	Hamish	
+OTOMO_32_NAME	Dan	
+OTOMO_33_NAME	Kyoko	
+OTOMO_34_NAME	Andreas	
+OTOMO_35_NAME	Bocman	
+OTOMO_36_NAME	Denda	
+OTOMO_37_NAME	Dio	
+OTOMO_38_NAME	Don Como	
+OTOMO_39_NAME	Fabian	

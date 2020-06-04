@@ -395,6 +395,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 62607	La falena e la fiamma	Uccidi lo Xeno'jiiva	- Tempo scaduto- Tre svenimenti
 62608	L'alba dei ricordi	Dirotta lo Zorah Magdaros	- Tempo scaduto- Tre svenimenti- Zorah Magdaros non dirottato
 62609	Guardiano dell'oltretomba	Uccidi lo Xeno'jiiva	- Tempo scaduto- Tre svenimenti
+62801	Marcia funebre	Uccidi uno Shara Ishvalda	- Tempo scaduto- Tre svenimenti
 63001	Sfida 1: facile	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
 63002	Sfida 2: facile	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
 63003	Infestazione di Vespoid!	Uccidi 30 Vespoid	- Tempo scaduto- Nove svenimenti
@@ -443,6 +444,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 65605	Minaccia tripla	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
 65606	Una semplice richiesta	Ottieni 10 funghi gran gourmet	- Tempo scaduto- Tre svenimenti
 65607	Rintracciare la consegna	Ottieni 10 acquemarine blu	- Tempo scaduto- Tre svenimenti
+65801	Doppio disturbo Dodogama	Caccia 2 Dodogama	- Tempo scaduto- Tre svenimenti
 66101	Gran gioco da ragazzi	Caccia 2 Gran Jagras	- Tempo scaduto- Tre svenimenti
 66102	Cosa finisce per Ya-Ku?	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
 66103	Intrattenimento scientifico	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
@@ -481,6 +483,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66820	Il ruggito che squarciò i cieli	Caccia un Tigrex brutale	- Tempo scaduto- Tre svenimenti
 66821	M'illumino d'argento	Caccia un Rathalos argentato	- Tempo scaduto- Tre svenimenti
 66822	La luna è una severa regina	Caccia una Rathian dorata	- Tempo scaduto- Tre svenimenti
+66823	Ai massacrati, con affetto	Uccidi un Nergigante razziatore	- Tempo scaduto- Tre svenimenti
 66824	A chi scimmiotto, scimmione?	Caccia un Rajang	- Tempo scaduto- Tre svenimenti
 66825	Le cicatrici parlano da sole	Caccia uno Yian Garuga deturpato	- Tempo scaduto- Tre svenimenti
 66826	Jodel della foresta	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
@@ -506,3 +509,6 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67608	Il silenzioso, il letale e l'impetuosa	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
 67610	Contratto: Spirito della foresta	Uccidi il Leshen antico	- Tempo scaduto- Tre svenimenti
 67801	RE: Il ritorno dell'arma biologica	Uccidi un Vaal Hazak funereo	- Tempo scaduto- Tre svenimenti
+67802	Nelle terre gelate	Caccia uno Zinogre	- Tempo scaduto- Tre svenimenti
+67803	La sopravvissuta	Caccia uno Zinogre stigeo	- Tempo scaduto- Tre svenimenti
+67804	Firebreak	Caccia un Deviljho selvaggio	- Tempo scaduto- Tre svenimenti

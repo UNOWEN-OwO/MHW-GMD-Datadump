@@ -395,6 +395,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 62607	Mariposa Atraída pela Chama	Mate o Xeno'jiiva	Tempo expirarDesmaiar 3 vezes
 62608	Observe a Aurora	Guie Zorah Magdaros	Tempo expirarDesmaiar 3 vezesNão guiar Zorah Magdaros
 62609	Guardião do Outro Mundo	Mate o Xeno'jiiva	Tempo expirarDesmaiar 3 vezes
+62801	Ao Soar do Canto Fúnebre	Mate um Shara Ishvalda	Tempo expirarDesmaiar 3 vezes
 63001	Missão de Desafio 1: Iniciante	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
 63002	Missão de Desafio 2: Iniciante	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
 63003	Infestação Vespoidea!	Mate 30 Vespoideas	Tempo expirarDesmaiar 9 vezes
@@ -443,6 +444,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 65605	Ameaça Tripla	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
 65606	Uma Tarefa Simples	Entregue 10 Chap Cogum Gourmets	Tempo expirarDesmaiar 3 vezes
 65607	Rastreando a Encomenda	Entregue 10 Berilos Azuis	Tempo expirarDesmaiar 3 vezes
+65801	Destruição Dupla de Dodogama	Cace 2 Dodogamas	Tempo expirarDesmaiar 3 vezes
 66101	Jogar Conversa Fora	Cace 2 Grande Jagras	Tempo expirarDesmaiar 3 vezes
 66102	Ya-Ku-o-quê Mesmo?	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
 66103	Carne com Osso	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
@@ -481,6 +483,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66820	Um Rugido que Estilhaça o Céu	Cace um Tigrex Bruto	Tempo expirarDesmaiar 3 vezes
 66821	Um Vislumbre Prateado	Cace um Rathalos Prateado	Tempo expirarDesmaiar 3 vezes
 66822	A Lua é uma Rainha Cruel	Cace uma Rathian Dourada	Tempo expirarDesmaiar 3 vezes
+66823	Aos Massacrados, com Carinho	Mate um Nergigante Ferrenho	Tempo expirarDesmaiar 3 vezes
 66824	Agitado, Esgotado e Fascinado	Cace um Rajang	Tempo expirarDesmaiar 3 vezes
 66825	Cicatrizes Contam a História	Cace um Yian Garuga Escoriado	Tempo expirarDesmaiar 3 vezes
 66826	Cantando à Tirolesa na Floresta	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
@@ -506,3 +509,6 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67608	QMF: Quieto, Mortal e Feroz	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
 67610	Contrato: Espírito do Bosque	Mate o liche ancião	Tempo expirarDesmaiar 3 vezes
 67801	RE: Retorno da Arma Biológica	Mate um Vaal Hazak Velado	Tempo expirarDesmaiar 3 vezes
+67802	Para as Frozen Wilds	Cace um Zinogre	Tempo expirarDesmaiar 3 vezes
+67803	A Sobrevivente	Cace um Zinogre Tenebroso	Tempo expirarDesmaiar 3 vezes
+67804	Firebreak	Cace um Deviljho Selvagem	Tempo expirarDesmaiar 3 vezes

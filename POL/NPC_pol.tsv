@@ -1,0 +1,171 @@
+NPC Code	NPC Name	Model Address
+N001_NPC_NAME	Dowódca	npc001
+N002_NPC_NAME	Przewodniczka	npc002
+N003_NPC_NAME	Dowódca Zespołu Polowego	npc003
+N004_NPC_NAME	Szefowa Zaopatrzenia	npc004
+N005_NPC_NAME	Szef Działu Analiz	npc005
+N006_NPC_NAME	Kierownik Techniczny	npc006
+N007_NPC_NAME	Skład Zaopatrzenia	npc007
+N009_NPC_NAME	Główny Ekolog	npc009
+N010_NPC_NAME	Główny Botanik	npc010
+N011_NPC_NAME	Starsza Tyglowa	npc011
+N012_NPC_NAME	Kapitan Drugiej Floty	npc012
+N014_NPC_NAME	Zbrojownia	npc014
+N015_NPC_NAME	Miauskularny Kucharz	npc015
+N016_NPC_NAME	Gospodarz	npc016
+N017_NPC_NAME	Łowczy	npc017
+N018_NPC_NAME	Tropicielka	npc018
+N019_NPC_NAME	Admirał	npc019
+N020_NPC_NAME	Poszukiwacz	npc020
+N021_NPC_NAME	Kapitan Trzeciej Floty	npc021
+N022_NPC_NAME	Zaopatrzenie Trzeciej Floty	npc022
+N023_NPC_NAME	Ekspertka od Lynianów	npc023
+N024_NPC_NAME	Pierwszy Wiwerianin	npc024
+N025_NPC_NAME	Entuzjasta z Elitarnej	npc025
+N026_NPC_NAME	Poważna Przewodniczka	npc026
+N027_NPC_NAME	Zaginiony Uczony	npc027
+N028_NPC_NAME	Jowialny Uczony	npc028
+N029_NPC_NAME	Pogodny Uczony	npc029
+N030_NPC_NAME	Żwawy Uczony	npc030
+N032_NPC_NAME	Kapitan	npc032
+N033_NPC_NAME	Gospodarz	npc033
+N034_NPC_NAME	Gospodarz	npc034
+N035_NPC_NAME	Gospodarz	npc035
+N036_NPC_NAME	Pierwszy Wiwerianin	npc036
+N037_NPC_NAME	Badacz Fauny Wodnej	npc037
+N038_NPC_NAME	Badaczka Lokalnej Fauny	npc038
+N039_NPC_NAME	Badacz Lynianów	npc039
+N040_NPC_NAME	Pierwszy Wiwerianin	npc040
+N102_NPC_NAME	Przebojowy Piątak	npc102
+N103_NPC_NAME	Łagodna z Czwartej	npc103
+N104_NPC_NAME	Gorliwiec z Czwartej	npc104
+N105_NPC_NAME	Luzaczka z Piątej	npc105
+N106_NPC_NAME	Zabawny Czwartak	npc106
+N107_NPC_NAME	Stanowcza z Piątej	npc107
+N108_NPC_NAME	Bojaźliwy Piątak	npc108
+N109_NPC_NAME	Siostra z Czwartej	npc109
+N111_NPC_NAME	Łowca Badacz	npc111
+N112_NPC_NAME	Bystry Biolog	npc112
+N113_NPC_NAME	Niecierpliwa Biolog	npc113
+N114_NPC_NAME	Beztroska Botaniczka	npc114
+N116_NPC_NAME	Kumpel z Piątej	npc116
+N117_NPC_NAME	Felin od zupy	npc117
+N118_NPC_NAME	Felin od piekarnika	npc118
+N121_NPC_NAME	Uprzejmy Czwartak	npc121
+N123_NPC_NAME	Porywczy Czwartak	npc123
+N124_NPC_NAME	Wyluzowana z Piątej	npc124
+N125_NPC_NAME	Inżynier Powietrzny	npc125
+N130_NPC_NAME	Radosny Uczony	npc130
+N131_NPC_NAME	Nieśmiała Uczona	npc131
+N134_NPC_NAME	Zarządzanie Wydarzeniami	npc134
+N140_NPC_NAME	Mugiel	npc140
+N170_NPC_NAME	Geralt z Rivii	npc170
+N259_NPC_NAME	Felin z 3. Floty	npc259
+N610_NPC_NAME	Uczeń Kowala	npc610
+N611_NPC_NAME	Główny Botanik	npc611
+N612_NPC_NAME	Badaczka Lokalnej Fauny	npc612
+N613_NPC_NAME	Badacz Lynianów	npc613
+N251_NPC_NAME	Miłośnik jabłek	npc251
+N252_NPC_NAME	Wzięty Piątak	npc252
+N253_NPC_NAME	Miłośniczka Ryb	npc253
+N254_NPC_NAME	Ekspert od skór	npc254
+N255_NPC_NAME	Zapracowany Piątak	npc255
+N256_NPC_NAME	Zajęty Piątak	npc256
+N257_NPC_NAME	Członek Komisji	npc257
+N258_NPC_NAME	Członek Komisji	npc258
+N301_NPC_NAME	Obsługa Centrum	npc301
+N302_NPC_NAME	Obsługa Areny	npc302
+N303_NPC_NAME	Zaopatrzenie Centrum	npc303
+N304_NPC_NAME	Zarządzanie Wydarzeniami	npc304
+N305_NPC_NAME	Optymistyczny Felin	npc305
+N307_NPC_NAME	Felin Karmiciel	npc307
+N701_NPC_NAME	Kuchenny arcymiaustrz	npc701
+N702_NPC_NAME	Kwatermistrz z Seliany	npc702
+N703_NPC_NAME	Tyglowa z Seliany	npc703
+N704_NPC_NAME	Marynarz z Seliany	npc704
+N706_NPC_NAME	Zbrojownia w Selianie	npc706
+N707_NPC_NAME	Gospodarz	npc707
+N708_NPC_NAME	Szefowa Wydarzeń Pubu	npc708
+N709_NPC_NAME	Szefowa Areny Pubu	npc709
+N710_NPC_NAME	Obsługa Pubu	npc710
+N711_NPC_NAME	Kwatermistrzyni Pubu	npc711
+N712_NPC_NAME	Wiwerianin z tundry	npc712
+N713_NPC_NAME	Szefowa Zasobów Pubu	npc713
+N714_NPC_NAME	Marynarz z Pubu	npc714
+N715_NPC_NAME	Gospodarz	npc715
+N730_NPC_NAME	Pomocny Felin	npc730
+N731_NPC_NAME	Zajęty Felin	npc731
+N732_NPC_NAME	Zajęty Piątak	npc732
+N741_NPC_NAME	Ambitny Czwartak	npc741
+N743_NPC_NAME	Solidna z Piątej	npc743
+N749_NPC_NAME	Pilny Biolog	npc749
+N754_NPC_NAME	Łowca z dwoma ostrzami	npc754
+N755_NPC_NAME	Felin z Obsługi	npc755
+N756_NPC_NAME	Felin Kelner	npc756
+N757_NPC_NAME	Łowca z Łukodziałkiem	npc757
+N758_NPC_NAME	Członek Komisji	npc758
+N759_NPC_NAME	Mocząca Nogi Piątaczka	npc759
+N760_NPC_NAME	Kąpiący się Koleś	npc760
+N761_NPC_NAME	Kąpielowa Piękność	npc761
+N762_NPC_NAME	Samotny Moczynoga	npc762
+N763_NPC_NAME	Miłośnik Sauny	npc763
+N764_NPC_NAME	Zmotywowany Czwartak	npc764
+N765_NPC_NAME	Ciekawski Piątak	npc765
+N766_NPC_NAME	Pedantka z Czwartej	npc766
+N767_NPC_NAME	Nadgorliwa z Piątej	npc767
+N781_NPC_NAME	Młody Kowal	npc781
+N782_NPC_NAME	Drugi Ekolog	npc782
+N792_NPC_NAME	Kupiec z Kuźni	npc792
+N793_NPC_NAME	Zasoby Trzeciej Floty	npc793
+HUNTER_00_NAME	Nowy łowca	
+HUNTER_01_NAME	Początkujący łowca	
+HUNTER_02_NAME	Młody łowca	
+HUNTER_03_NAME	Szkolony łowca	
+HUNTER_04_NAME	Typowy łowca	
+HUNTER_05_NAME	Prawdziwy łowca	
+HUNTER_06_NAME	Solidny łowca	
+HUNTER_07_NAME	Zapalony łowca	
+HUNTER_08_NAME	Doświadczony łowca	
+HUNTER_09_NAME	Zawodowy łowca	
+HUNTER_10_NAME	Wędrowny łowca	
+HUNTER_11_NAME	Samotny łowca	
+OTOMO_00_NAME	Artur	
+OTOMO_01_NAME	Kamil	
+OTOMO_02_NAME	Adam	
+OTOMO_03_NAME	Andrzej	
+OTOMO_04_NAME	Aleksander	
+OTOMO_05_NAME	Anna	
+OTOMO_06_NAME	Dawid	
+OTOMO_07_NAME	Adrian	
+OTOMO_08_NAME	Kuba	
+OTOMO_09_NAME	Laura	
+OTOMO_10_NAME	Grzegorz	
+OTOMO_11_NAME	Daniel	
+OTOMO_12_NAME	Jacek	
+OTOMO_13_NAME	Szymon	
+OTOMO_14_NAME	Kasia	
+OTOMO_15_NAME	Zbyszek	
+OTOMO_16_NAME	Jarek	
+OTOMO_17_NAME	Jaśmina	
+OTOMO_18_NAME	Jan	
+OTOMO_19_NAME	Sara	
+OTOMO_20_NAME	Rafał	
+OTOMO_21_NAME	Rysiek	
+OTOMO_22_NAME	Gracja	
+OTOMO_23_NAME	Stefan	
+OTOMO_24_NAME	Samuel	
+OTOMO_25_NAME	Sebastian	
+OTOMO_26_NAME	Patryk	
+OTOMO_27_NAME	Mateusz	
+OTOMO_28_NAME	Maria	
+OTOMO_29_NAME	Marek	
+OTOMO_30_NAME	Wanda	
+OTOMO_31_NAME	Barbara	
+OTOMO_32_NAME	Pantaleon	
+OTOMO_33_NAME	Alan	
+OTOMO_34_NAME	Małgosia	
+OTOMO_35_NAME	Borys	
+OTOMO_36_NAME	Pola	
+OTOMO_37_NAME	Łucja	
+OTOMO_38_NAME	Roman	
+OTOMO_39_NAME	Michał	

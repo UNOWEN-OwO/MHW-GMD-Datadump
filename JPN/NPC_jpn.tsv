@@ -1,0 +1,171 @@
+NPC Code	NPC Name	Model Address
+N001_NPC_NAME	総司令	npc001
+N002_NPC_NAME	受付嬢	npc002
+N003_NPC_NAME	調査班リーダー	npc003
+N004_NPC_NAME	物資班リーダー	npc004
+N005_NPC_NAME	研究班リーダー	npc005
+N006_NPC_NAME	技術班リーダー	npc006
+N007_NPC_NAME	物資補給係	npc007
+N009_NPC_NAME	生態研究所の所長	npc009
+N010_NPC_NAME	植生研究所の所長	npc010
+N011_NPC_NAME	マカ錬金研究員	npc011
+N012_NPC_NAME	２期団の親方	npc012
+N014_NPC_NAME	武具屋	npc014
+N015_NPC_NAME	料理長	npc015
+N016_NPC_NAME	ルームサービス	npc016
+N017_NPC_NAME	ソードマスター	npc017
+N018_NPC_NAME	フィールドマスター	npc018
+N019_NPC_NAME	大団長	npc019
+N020_NPC_NAME	竜人族のハンター	npc020
+N021_NPC_NAME	３期団の期団長	npc021
+N022_NPC_NAME	基地の物資補給係	npc022
+N023_NPC_NAME	獣人族研究員	npc023
+N024_NPC_NAME	森の古代竜人	npc024
+N025_NPC_NAME	陽気な推薦組	npc025
+N026_NPC_NAME	勝気な推薦組	npc026
+N027_NPC_NAME	行方不明の学者	npc027
+N028_NPC_NAME	明朗な学者	npc028
+N029_NPC_NAME	陽気な学者	npc029
+N030_NPC_NAME	快活な学者	npc030
+N032_NPC_NAME	船長	npc032
+N033_NPC_NAME	案内アイルー	npc033
+N034_NPC_NAME	案内アイルー	npc034
+N035_NPC_NAME	ルームサービス	npc035
+N036_NPC_NAME	古代竜人	npc036
+N037_NPC_NAME	孤高の魚類調査員	npc037
+N038_NPC_NAME	情熱の生物調査員	npc038
+N039_NPC_NAME	老練の獣人族学者	npc039
+N040_NPC_NAME	古代竜人	npc040
+N102_NPC_NAME	威勢のいい５期団	npc102
+N103_NPC_NAME	優しげな４期団	npc103
+N104_NPC_NAME	調査熱心な４期団	npc104
+N105_NPC_NAME	クールな５期団	npc105
+N106_NPC_NAME	ノリの良い４期団	npc106
+N107_NPC_NAME	気の強い５期団	npc107
+N108_NPC_NAME	物腰柔らかな５期団	npc108
+N109_NPC_NAME	姉御肌の４期団	npc109
+N111_NPC_NAME	冷静な４期団	npc111
+N112_NPC_NAME	知的な生物学者	npc112
+N113_NPC_NAME	せっかちな生物学者	npc113
+N114_NPC_NAME	おっとりした植物学者	npc114
+N116_NPC_NAME	兄貴肌の５期団	npc116
+N117_NPC_NAME	鍋番アイルー	npc117
+N118_NPC_NAME	かまど番アイルー	npc118
+N121_NPC_NAME	物静かな４期団	npc121
+N123_NPC_NAME	熱血漢の４期団	npc123
+N124_NPC_NAME	マイペースな５期団	npc124
+N125_NPC_NAME	気球開発員	npc125
+N130_NPC_NAME	ほがらかな学者	npc130
+N131_NPC_NAME	シャイな学者	npc131
+N134_NPC_NAME	イベント案内嬢	npc134
+N140_NPC_NAME	モーグリ	npc140
+N170_NPC_NAME	ゲラルト	npc170
+N259_NPC_NAME	研究基地のアイルー	npc259
+N610_NPC_NAME	加工屋の弟子	npc610
+N611_NPC_NAME	植生研究所の所長	npc611
+N612_NPC_NAME	情熱の生物調査員	npc612
+N613_NPC_NAME	老練の獣人族学者	npc613
+N251_NPC_NAME	調査員	npc251
+N252_NPC_NAME	調査員	npc252
+N253_NPC_NAME	調査員	npc253
+N254_NPC_NAME	調査員	npc254
+N255_NPC_NAME	調査員	npc255
+N256_NPC_NAME	調査員	npc256
+N257_NPC_NAME	調査員	npc257
+N258_NPC_NAME	調査員	npc258
+N301_NPC_NAME	集会エリア受付嬢	npc301
+N302_NPC_NAME	闘技場受付嬢	npc302
+N303_NPC_NAME	集会エリア物資補給係	npc303
+N304_NPC_NAME	イベント案内嬢	npc304
+N305_NPC_NAME	配膳アイルー	npc305
+N307_NPC_NAME	配膳アイルー	npc307
+N701_NPC_NAME	セリエナの料理長	npc701
+N702_NPC_NAME	セリエナの物資補給係	npc702
+N703_NPC_NAME	セリエナのマカ錬金係	npc703
+N704_NPC_NAME	セリエナの船乗り	npc704
+N706_NPC_NAME	セリエナの武具屋	npc706
+N707_NPC_NAME	ルームサービス	npc707
+N708_NPC_NAME	酒場のイベント案内嬢	npc708
+N709_NPC_NAME	酒場の闘技場受付嬢	npc709
+N710_NPC_NAME	酒場の受付嬢	npc710
+N711_NPC_NAME	酒場の物資補給係	npc711
+N712_NPC_NAME	積り雪の古代竜人	npc712
+N713_NPC_NAME	酒場の調査資源管理係	npc713
+N714_NPC_NAME	酒場の船乗り	npc714
+N715_NPC_NAME	ルームサービス	npc715
+N730_NPC_NAME	お手伝いアイルー	npc730
+N731_NPC_NAME	お手伝いアイルー	npc731
+N732_NPC_NAME	世話好きな５期団	npc732
+N741_NPC_NAME	野心あふれる４期団	npc741
+N743_NPC_NAME	しっかり者の５期団	npc743
+N749_NPC_NAME	情熱的な生物学者	npc749
+N754_NPC_NAME	調査員	npc754
+N755_NPC_NAME	配膳アイルー	npc755
+N756_NPC_NAME	配膳アイルー	npc756
+N757_NPC_NAME	調査員	npc757
+N758_NPC_NAME	調査員	npc758
+N759_NPC_NAME	調査員	npc759
+N760_NPC_NAME	調査員	npc760
+N761_NPC_NAME	調査員	npc761
+N762_NPC_NAME	調査員	npc762
+N763_NPC_NAME	調査員	npc763
+N764_NPC_NAME	士気の高い４期団	npc764
+N765_NPC_NAME	新し物好きの５期団	npc765
+N766_NPC_NAME	多趣味な４期団	npc766
+N767_NPC_NAME	気が早い５期団	npc767
+N781_NPC_NAME	加工屋の若頭	npc781
+N782_NPC_NAME	生態研究所の副所長	npc782
+N792_NPC_NAME	加工屋お使い	npc792
+N793_NPC_NAME	基地の調査資源管理係	npc793
+HUNTER_00_NAME	新米ハンター	
+HUNTER_01_NAME	駆け出しハンター	
+HUNTER_02_NAME	若手ハンター	
+HUNTER_03_NAME	見習いハンター	
+HUNTER_04_NAME	一般ハンター	
+HUNTER_05_NAME	中堅ハンター	
+HUNTER_06_NAME	堅実ハンター	
+HUNTER_07_NAME	熱血ハンター	
+HUNTER_08_NAME	ベテランハンター	
+HUNTER_09_NAME	一流ハンター	
+HUNTER_10_NAME	流浪のハンター	
+HUNTER_11_NAME	孤高のハンター	
+OTOMO_00_NAME	アーサー	
+OTOMO_01_NAME	アーモンド	
+OTOMO_02_NAME	アップル	
+OTOMO_03_NAME	アキラ	
+OTOMO_04_NAME	イズミ	
+OTOMO_05_NAME	ウドン	
+OTOMO_06_NAME	オモチ	
+OTOMO_07_NAME	カルタ	
+OTOMO_08_NAME	キッド	
+OTOMO_09_NAME	ケイ	
+OTOMO_10_NAME	ココア	
+OTOMO_11_NAME	コジロー	
+OTOMO_12_NAME	コットン	
+OTOMO_13_NAME	サイモン	
+OTOMO_14_NAME	サスケ	
+OTOMO_15_NAME	ザック	
+OTOMO_16_NAME	ジェット	
+OTOMO_17_NAME	ジャスミン	
+OTOMO_18_NAME	ジュウベエ	
+OTOMO_19_NAME	ショウ	
+OTOMO_20_NAME	ジライヤ	
+OTOMO_21_NAME	シラタキ	
+OTOMO_22_NAME	ジンジャー	
+OTOMO_23_NAME	スコット	
+OTOMO_24_NAME	スパイク	
+OTOMO_25_NAME	セバスチャン	
+OTOMO_26_NAME	ツミキ	
+OTOMO_27_NAME	トウフ	
+OTOMO_28_NAME	ハンゾー	
+OTOMO_29_NAME	ピート	
+OTOMO_30_NAME	ピコ	
+OTOMO_31_NAME	ベル	
+OTOMO_32_NAME	ベンケイ	
+OTOMO_33_NAME	マサムネ	
+OTOMO_34_NAME	ミスティ	
+OTOMO_35_NAME	ムサシ	
+OTOMO_36_NAME	モモ	
+OTOMO_37_NAME	ルーシー	
+OTOMO_38_NAME	ロック	
+OTOMO_39_NAME	ロボ	

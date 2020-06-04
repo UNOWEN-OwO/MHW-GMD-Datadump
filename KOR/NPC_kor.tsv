@@ -1,0 +1,171 @@
+NPC Code	NPC Name	Model Address
+N001_NPC_NAME	사령관	npc001
+N002_NPC_NAME	접수원	npc002
+N003_NPC_NAME	조사팀 리더	npc003
+N004_NPC_NAME	물자팀 리더	npc004
+N005_NPC_NAME	연구팀 리더	npc005
+N006_NPC_NAME	기술팀 리더	npc006
+N007_NPC_NAME	물자보급 담당	npc007
+N009_NPC_NAME	생태연구소의 소장	npc009
+N010_NPC_NAME	식물연구소의 소장	npc010
+N011_NPC_NAME	마카연금 연구원	npc011
+N012_NPC_NAME	2기단의 대장	npc012
+N014_NPC_NAME	무기점	npc014
+N015_NPC_NAME	주방장	npc015
+N016_NPC_NAME	룸서비스	npc016
+N017_NPC_NAME	소드마스터	npc017
+N018_NPC_NAME	필드마스터	npc018
+N019_NPC_NAME	대단장	npc019
+N020_NPC_NAME	용인족 헌터	npc020
+N021_NPC_NAME	3기단의 기단장	npc021
+N022_NPC_NAME	기지의 물자보급 담당	npc022
+N023_NPC_NAME	수인족 연구원	npc023
+N024_NPC_NAME	숲의 고대용인	npc024
+N025_NPC_NAME	쾌활한 선발팀원	npc025
+N026_NPC_NAME	억척스러운 선발팀원	npc026
+N027_NPC_NAME	행방불명인 학자	npc027
+N028_NPC_NAME	명랑한 학자	npc028
+N029_NPC_NAME	쾌활한 학자	npc029
+N030_NPC_NAME	활기찬 학자	npc030
+N032_NPC_NAME	선장	npc032
+N033_NPC_NAME	안내 아이루	npc033
+N034_NPC_NAME	안내 아이루	npc034
+N035_NPC_NAME	룸서비스	npc035
+N036_NPC_NAME	고대용인	npc036
+N037_NPC_NAME	고고한 어류 조사원	npc037
+N038_NPC_NAME	정열의 생물 조사원	npc038
+N039_NPC_NAME	노련한 수인족 학자	npc039
+N040_NPC_NAME	고대용인	npc040
+N102_NPC_NAME	위세 좋은 5기단원	npc102
+N103_NPC_NAME	다정한 4기단원	npc103
+N104_NPC_NAME	열심히 조사하는 4기단원	npc104
+N105_NPC_NAME	침착한 5기단원	npc105
+N106_NPC_NAME	기세 좋은 4기단원	npc106
+N107_NPC_NAME	기가 센 5기단원	npc107
+N108_NPC_NAME	부드러운 5기단원	npc108
+N109_NPC_NAME	여장부 4기단원	npc109
+N111_NPC_NAME	냉정한 4기단원	npc111
+N112_NPC_NAME	지적인 생물학자	npc112
+N113_NPC_NAME	성급한 생물학자	npc113
+N114_NPC_NAME	느긋한 식물학자	npc114
+N116_NPC_NAME	대장부 5기단원	npc116
+N117_NPC_NAME	냄비담당 아이루	npc117
+N118_NPC_NAME	화덕담당 아이루	npc118
+N121_NPC_NAME	조용한 4기단원	npc121
+N123_NPC_NAME	열혈 4기단원	npc123
+N124_NPC_NAME	여유로운 5기단원	npc124
+N125_NPC_NAME	기구 개발원	npc125
+N130_NPC_NAME	명랑한 학자	npc130
+N131_NPC_NAME	수줍음많은 학자	npc131
+N134_NPC_NAME	이벤트 안내원	npc134
+N140_NPC_NAME	모그리	npc140
+N170_NPC_NAME	게롤트	npc170
+N259_NPC_NAME	연구기지 아이루	npc259
+N610_NPC_NAME	가공점의 제자	npc610
+N611_NPC_NAME	식물연구소의 소장	npc611
+N612_NPC_NAME	정열의 생물 조사원	npc612
+N613_NPC_NAME	노련한 수인족 학자	npc613
+N251_NPC_NAME	조사원	npc251
+N252_NPC_NAME	조사원	npc252
+N253_NPC_NAME	조사원	npc253
+N254_NPC_NAME	조사원	npc254
+N255_NPC_NAME	조사원	npc255
+N256_NPC_NAME	조사원	npc256
+N257_NPC_NAME	조사원	npc257
+N258_NPC_NAME	조사원	npc258
+N301_NPC_NAME	집회구역 접수원	npc301
+N302_NPC_NAME	격투장 접수원	npc302
+N303_NPC_NAME	집회구역 물자보급 담당	npc303
+N304_NPC_NAME	이벤트 안내원	npc304
+N305_NPC_NAME	상차림 아이루	npc305
+N307_NPC_NAME	상차림 아이루	npc307
+N701_NPC_NAME	세리에나 주방장	npc701
+N702_NPC_NAME	세리에나 물자보급 담당	npc702
+N703_NPC_NAME	세리에나 마카연금 담당	npc703
+N704_NPC_NAME	세리에나 선원	npc704
+N706_NPC_NAME	세리에나 무기점	npc706
+N707_NPC_NAME	룸서비스	npc707
+N708_NPC_NAME	주점 이벤트 안내원	npc708
+N709_NPC_NAME	주점 격투장 접수원	npc709
+N710_NPC_NAME	주점 접수원	npc710
+N711_NPC_NAME	주점 물자보급 담당	npc711
+N712_NPC_NAME	쌓인 눈의 고대용인	npc712
+N713_NPC_NAME	주점 조사자원 관리자	npc713
+N714_NPC_NAME	주점 선원	npc714
+N715_NPC_NAME	룸서비스	npc715
+N730_NPC_NAME	도우미 아이루	npc730
+N731_NPC_NAME	도우미 아이루	npc731
+N732_NPC_NAME	돕기 좋아하는 5기단원	npc732
+N741_NPC_NAME	야심 넘치는 4기단원	npc741
+N743_NPC_NAME	굳건한 5기단원	npc743
+N749_NPC_NAME	정열적인 생물학자	npc749
+N754_NPC_NAME	조사원	npc754
+N755_NPC_NAME	상차림 아이루	npc755
+N756_NPC_NAME	상차림 아이루	npc756
+N757_NPC_NAME	조사원	npc757
+N758_NPC_NAME	조사원	npc758
+N759_NPC_NAME	조사원	npc759
+N760_NPC_NAME	조사원	npc760
+N761_NPC_NAME	조사원	npc761
+N762_NPC_NAME	조사원	npc762
+N763_NPC_NAME	조사원	npc763
+N764_NPC_NAME	사기 높은 4기단원	npc764
+N765_NPC_NAME	새로운 게 좋은 5기단원	npc765
+N766_NPC_NAME	취미 많은 4기단원	npc766
+N767_NPC_NAME	성급한 5기단원	npc767
+N781_NPC_NAME	가공점 젊은 우두머리	npc781
+N782_NPC_NAME	생태연구소의 부소장	npc782
+N792_NPC_NAME	가공점 심부름꾼	npc792
+N793_NPC_NAME	기지 조사자원 관리자	npc793
+HUNTER_00_NAME	새내기 헌터	
+HUNTER_01_NAME	신출내기 헌터	
+HUNTER_02_NAME	젊은 헌터	
+HUNTER_03_NAME	수습 헌터	
+HUNTER_04_NAME	일반 헌터	
+HUNTER_05_NAME	중견 헌터	
+HUNTER_06_NAME	성실 헌터	
+HUNTER_07_NAME	열혈 헌터	
+HUNTER_08_NAME	베테랑 헌터	
+HUNTER_09_NAME	일류 헌터	
+HUNTER_10_NAME	떠돌이 헌터	
+HUNTER_11_NAME	고고한 헌터	
+OTOMO_00_NAME	아서	
+OTOMO_01_NAME	아몬드	
+OTOMO_02_NAME	애플	
+OTOMO_03_NAME	아키라	
+OTOMO_04_NAME	이즈미	
+OTOMO_05_NAME	우동	
+OTOMO_06_NAME	오모치	
+OTOMO_07_NAME	카르타	
+OTOMO_08_NAME	키드	
+OTOMO_09_NAME	케이	
+OTOMO_10_NAME	코코아	
+OTOMO_11_NAME	코지로	
+OTOMO_12_NAME	코튼	
+OTOMO_13_NAME	사이먼	
+OTOMO_14_NAME	사스케	
+OTOMO_15_NAME	잭	
+OTOMO_16_NAME	제트	
+OTOMO_17_NAME	재스민	
+OTOMO_18_NAME	쥬베이	
+OTOMO_19_NAME	쇼우	
+OTOMO_20_NAME	지라이야	
+OTOMO_21_NAME	시라타키	
+OTOMO_22_NAME	진저	
+OTOMO_23_NAME	스콧	
+OTOMO_24_NAME	스파이크	
+OTOMO_25_NAME	세바스찬	
+OTOMO_26_NAME	블록	
+OTOMO_27_NAME	두부	
+OTOMO_28_NAME	한조	
+OTOMO_29_NAME	비트	
+OTOMO_30_NAME	피코	
+OTOMO_31_NAME	벨	
+OTOMO_32_NAME	벤케이	
+OTOMO_33_NAME	마사무네	
+OTOMO_34_NAME	미스티	
+OTOMO_35_NAME	무사시	
+OTOMO_36_NAME	모모	
+OTOMO_37_NAME	루시	
+OTOMO_38_NAME	로크	
+OTOMO_39_NAME	로보	

@@ -1,0 +1,171 @@
+NPC Code	NPC Name	Model Address
+N001_NPC_NAME	Commandant	npc001
+N002_NPC_NAME	Assistante	npc002
+N003_NPC_NAME	Chef d'équipe	npc003
+N004_NPC_NAME	Intendante	npc004
+N005_NPC_NAME	Analyste en chef	npc005
+N006_NPC_NAME	Ingénieur en chef	npc006
+N007_NPC_NAME	Gérant du Bazar	npc007
+N009_NPC_NAME	Écologiste en chef	npc009
+N010_NPC_NAME	Chef botaniste	npc010
+N011_NPC_NAME	Alchimiste	npc011
+N012_NPC_NAME	Forgeron	npc012
+N014_NPC_NAME	Armurière	npc014
+N015_NPC_NAME	Miaousse Cuistot	npc015
+N016_NPC_NAME	Chambellan	npc016
+N017_NPC_NAME	Maître de la chasse	npc017
+N018_NPC_NAME	Grande traqueuse	npc018
+N019_NPC_NAME	Amiral	npc019
+N020_NPC_NAME	Voyageur	npc020
+N021_NPC_NAME	Capitaine de la Troisième flotte	npc021
+N022_NPC_NAME	Gérant de la Troisième flotte	npc022
+N023_NPC_NAME	Experte en lynien	npc023
+N024_NPC_NAME	Ancien Wyvérien	npc024
+N025_NPC_NAME	Camarade de la classe A	npc025
+N026_NPC_NAME	Assistante sérieuse	npc026
+N027_NPC_NAME	Chercheur disparu	npc027
+N028_NPC_NAME	Érudit heureux	npc028
+N029_NPC_NAME	Érudit optimiste	npc029
+N030_NPC_NAME	Érudit enjoué	npc030
+N032_NPC_NAME	Capitaine de l'Argosy	npc032
+N033_NPC_NAME	Chambellan	npc033
+N034_NPC_NAME	Chambellan	npc034
+N035_NPC_NAME	Chambellan	npc035
+N036_NPC_NAME	Ancien Wyvérien	npc036
+N037_NPC_NAME	Roi de la pêche	npc037
+N038_NPC_NAME	Zoologiste	npc038
+N039_NPC_NAME	Lynologue	npc039
+N040_NPC_NAME	Ancien Wyvérien	npc040
+N102_NPC_NAME	Querelleur de la Cinquième	npc102
+N103_NPC_NAME	Charmante de la Quatrième	npc103
+N104_NPC_NAME	Impatient de la Quatrième	npc104
+N105_NPC_NAME	Tranquille de la Cinquième	npc105
+N106_NPC_NAME	Sympa de la Quatrième	npc106
+N107_NPC_NAME	Énergique de la Cinquième	npc107
+N108_NPC_NAME	Timide de la Cinquième	npc108
+N109_NPC_NAME	Grande sœur de la Quatrième	npc109
+N111_NPC_NAME	Chasseur savant	npc111
+N112_NPC_NAME	Biologiste ingénieux	npc112
+N113_NPC_NAME	Biologiste impatiente	npc113
+N114_NPC_NAME	Botaniste relax	npc114
+N116_NPC_NAME	Pote de la Cinquième	npc116
+N117_NPC_NAME	Felyne soupier	npc117
+N118_NPC_NAME	Felyne rôtisseur	npc118
+N121_NPC_NAME	Pacifique de la Quatrième	npc121
+N123_NPC_NAME	Fougueux de la Quatrième	npc123
+N124_NPC_NAME	Sympa de la Cinquième	npc124
+N125_NPC_NAME	Ingénieur aéronautique	npc125
+N130_NPC_NAME	Érudit joyeux	npc130
+N131_NPC_NAME	Érudite timide	npc131
+N134_NPC_NAME	Hôtesse d'accueil	npc134
+N140_NPC_NAME	Mog	npc140
+N170_NPC_NAME	Geralt de Riv	npc170
+N259_NPC_NAME	Felyne de la Troisième flotte	npc259
+N610_NPC_NAME	Apprenti forgeron	npc610
+N611_NPC_NAME	Chef botaniste	npc611
+N612_NPC_NAME	Zoologiste	npc612
+N613_NPC_NAME	Lynologue	npc613
+N251_NPC_NAME	Amoureux des pommes	npc251
+N252_NPC_NAME	Motivé de la Cinquième	npc252
+N253_NPC_NAME	Passionnée de pêche	npc253
+N254_NPC_NAME	Expert tanneur	npc254
+N255_NPC_NAME	Débordé de la Cinquième	npc255
+N256_NPC_NAME	Actif de la Cinquième	npc256
+N257_NPC_NAME	Membre de la Commission	npc257
+N258_NPC_NAME	Membre de la Commission	npc258
+N301_NPC_NAME	Réceptionniste du Grand-Pont	npc301
+N302_NPC_NAME	Réceptionniste de l'Arène	npc302
+N303_NPC_NAME	Gérante du Grand-Pont	npc303
+N304_NPC_NAME	Hôtesse d'accueil	npc304
+N305_NPC_NAME	Felyne optimiste	npc305
+N307_NPC_NAME	Felyne gardien	npc307
+N701_NPC_NAME	Grande Miaîtresse Cuistot	npc701
+N702_NPC_NAME	Gérant Bazar de Seliana	npc702
+N703_NPC_NAME	Alchimiste de Seliana	npc703
+N704_NPC_NAME	Marin de Seliana	npc704
+N706_NPC_NAME	Armurière de Seliana	npc706
+N707_NPC_NAME	Chambellan	npc707
+N708_NPC_NAME	Hôtesse d'accueil	npc708
+N709_NPC_NAME	Réceptionniste de l'Arène	npc709
+N710_NPC_NAME	Réceptionniste de la Grand-Salle	npc710
+N711_NPC_NAME	Gérante du Bazar	npc711
+N712_NPC_NAME	Wyvérien de la toundra	npc712
+N713_NPC_NAME	Intendante de la Grand-Salle	npc713
+N714_NPC_NAME	Premier maître	npc714
+N715_NPC_NAME	Chambellan	npc715
+N730_NPC_NAME	Felyne serviable	npc730
+N731_NPC_NAME	Felyne fouine	npc731
+N732_NPC_NAME	Fouineur de la Cinquième	npc732
+N741_NPC_NAME	Ambitieux de la Quatrième	npc741
+N743_NPC_NAME	Sérieuse de la Cinquième	npc743
+N749_NPC_NAME	Biologiste studieux	npc749
+N754_NPC_NAME	Chasseur triomphant	npc754
+N755_NPC_NAME	Serviteur Felyne	npc755
+N756_NPC_NAME	Serveur Felyne	npc756
+N757_NPC_NAME	Fan de fusarbalète	npc757
+N758_NPC_NAME	Membre de la Commission	npc758
+N759_NPC_NAME	Nymphe aux pieds nues	npc759
+N760_NPC_NAME	Accroc au bain	npc760
+N761_NPC_NAME	Bimbo au cœur léger	npc761
+N762_NPC_NAME	Baigneur serein	npc762
+N763_NPC_NAME	Fou de sauna	npc763
+N764_NPC_NAME	Motivé de la Quatrième	npc764
+N765_NPC_NAME	Curieux de la Cinquième	npc765
+N766_NPC_NAME	Stressée de la Quatrième	npc766
+N767_NPC_NAME	Zélée de la Cinquième	npc767
+N781_NPC_NAME	Jeune forgeron	npc781
+N782_NPC_NAME	Sous-chef écologiste	npc782
+N792_NPC_NAME	Vendeur de la Forge	npc792
+N793_NPC_NAME	Ressources 3e flotte	npc793
+HUNTER_00_NAME	Chasseur nouveau	
+HUNTER_01_NAME	Chasseur novice	
+HUNTER_02_NAME	Chasseur en herbe	
+HUNTER_03_NAME	Chasseur en formation	
+HUNTER_04_NAME	Chasseur ordinaire	
+HUNTER_05_NAME	Chasseur irréprochable	
+HUNTER_06_NAME	Chasseur sérieux	
+HUNTER_07_NAME	Chasseur enthousiaste	
+HUNTER_08_NAME	Chasseur vétéran	
+HUNTER_09_NAME	Chasseur d'élite	
+HUNTER_10_NAME	Chasseur errant	
+HUNTER_11_NAME	Chasseur solitaire	
+OTOMO_00_NAME	Andrew	
+OTOMO_01_NAME	Ashley	
+OTOMO_02_NAME	Bergamote	
+OTOMO_03_NAME	Cajoline	
+OTOMO_04_NAME	Cammy	
+OTOMO_05_NAME	Cannelle	
+OTOMO_06_NAME	Caramel	
+OTOMO_07_NAME	Chataîgne	
+OTOMO_08_NAME	Chocolat	
+OTOMO_09_NAME	Citron	
+OTOMO_10_NAME	Clafoutis	
+OTOMO_11_NAME	David	
+OTOMO_12_NAME	Dorami	
+OTOMO_13_NAME	Duchesse	
+OTOMO_14_NAME	Evanko	
+OTOMO_15_NAME	Framboise	
+OTOMO_16_NAME	Fran	
+OTOMO_17_NAME	Graham	
+OTOMO_18_NAME	Guimauve	
+OTOMO_19_NAME	Ibuki	
+OTOMO_20_NAME	Jasmine	
+OTOMO_21_NAME	Luna	
+OTOMO_22_NAME	Macaron	
+OTOMO_23_NAME	Marco	
+OTOMO_24_NAME	Marie	
+OTOMO_25_NAME	Maya	
+OTOMO_26_NAME	Mirabelle	
+OTOMO_27_NAME	Myrtille	
+OTOMO_28_NAME	Napoléon	
+OTOMO_29_NAME	Natasha	
+OTOMO_30_NAME	Oscar	
+OTOMO_31_NAME	Pistache	
+OTOMO_32_NAME	Princesse	
+OTOMO_33_NAME	Sakura	
+OTOMO_34_NAME	Sora	
+OTOMO_35_NAME	Stefano	
+OTOMO_36_NAME	Tigrou	
+OTOMO_37_NAME	Ugo	
+OTOMO_38_NAME	Vanille	
+OTOMO_39_NAME	Wesker	

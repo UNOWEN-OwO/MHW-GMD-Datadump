@@ -395,6 +395,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 62607	Jak ćma do ognia	Zabij Xeno'jiiva	Koniec czasuTrzykrotne zemdlenie
 62608	Popatrz na świt	Poprowadź Zoraha Magdarosa	Koniec czasuTrzykrotne zemdlenieZorah Magdaros zboczył z drogi
 62609	Strażnik Zaświatów	Zabij Xeno'jiiva	Koniec czasuTrzykrotne zemdlenie
+62801	Gdy gra pieśń żałobna	Zabij Shar Ishvalda	Koniec czasuTrzykrotne zemdlenie
 63001	Wyzwanie 1: początkujący	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
 63002	Wyzwanie 2: początkujący	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
 63003	Plaga Vespoidów!	Zabij 30 Vespoidów	Koniec czasuDziewięciokrotne zemdlenie
@@ -443,6 +444,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 65605	Potrójne zagrożenie	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
 65606	Proste zadanie	Dostarcz 10grzybków przepysznych	Koniec czasuTrzykrotne zemdlenie
 65607	Śledzenie dostawy	Dostarcz 10 niebieskich beryli	Koniec czasuTrzykrotne zemdlenie
+65801	Dwie dokuczliwe Dodogamy	Upoluj 2 Dodogamy	Koniec czasuTrzykrotne zemdlenie
 66101	Grubsza sprawa	Upoluj 2 Wielkie Jagrasy	Koniec czasuTrzykrotne zemdlenie
 66102	Ya-Kuś ci to pójdzie	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
 66103	Mięso przecięte do kości	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
@@ -481,6 +483,7 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66820	Ryk rozrywający niebo	Upoluj Zwalistego Tigrexa	Koniec czasuTrzykrotne zemdlenie
 66821	Błysk srebra	Upoluj Srebrnego Rathalosa	Koniec czasuTrzykrotne zemdlenie
 66822	Luna to surowa władczyni	Upoluj Złotą Rathianę	Koniec czasuTrzykrotne zemdlenie
+66823	Chwała zmasakrowanym	Zabij Niszczycielskiego Nergiganta	Koniec czasuTrzykrotne zemdlenie
 66824	Zabawieni, wybawieni, oszołomieni	Upoluj Rajanga	Koniec czasuTrzykrotne zemdlenie
 66825	Blizny opowiadają tę historię	Upoluj Oszpeconego Yian Garugę	Koniec czasuTrzykrotne zemdlenie
 66826	Jodłowanie w lesie	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
@@ -506,3 +509,6 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67608	CZO: Cichy, Zabójczy i Ostry	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
 67610	Zlecenie: Duch Lasu	Zabij Starożytnego leszego	Koniec czasuTrzykrotne zemdlenie
 67801	RE: Powrót broni biologicznej...	Zabij Welonowego Vaal Hazaka	Koniec czasuTrzykrotne zemdlenie
+67802	Na Mroźne Pustkowia	Upoluj Zinogra	Koniec czasuTrzykrotne zemdlenie
+67803	Ocalona istota	Upoluj Stygijskiego Zinogra	Koniec czasuTrzykrotne zemdlenie
+67804	Przecinka	Upoluj Dzikiego Deviljho	Koniec czasuTrzykrotne zemdlenie

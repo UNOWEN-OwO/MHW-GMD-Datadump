@@ -1,0 +1,171 @@
+NPC Code	NPC Name	Model Address
+N001_NPC_NAME	القائد	npc001
+N002_NPC_NAME	العاملة	npc002
+N003_NPC_NAME	قائد الفريق الميداني	npc003
+N004_NPC_NAME	مديرة المؤن	npc004
+N005_NPC_NAME	مدير التحليلات	npc005
+N006_NPC_NAME	رئيس تقني	npc006
+N007_NPC_NAME	مخزّن المؤن	npc007
+N009_NPC_NAME	رئيس علم البيئة	npc009
+N010_NPC_NAME	رئيس النباتيين	npc010
+N011_NPC_NAME	ميلدر المعمِّرة	npc011
+N012_NPC_NAME	رئيس الأسطول الثاني	npc012
+N014_NPC_NAME	فتاة مستودع الأسلحة	npc014
+N015_NPC_NAME	رئيس مفتول العضلات	npc015
+N016_NPC_NAME	المدبرة	npc016
+N017_NPC_NAME	الصياد	npc017
+N018_NPC_NAME	المتعقبة	npc018
+N019_NPC_NAME	الأميرال	npc019
+N020_NPC_NAME	الباحث	npc020
+N021_NPC_NAME	رئيسة الأسطول الثالث	npc021
+N022_NPC_NAME	مموّن الأسطول الثالث	npc022
+N023_NPC_NAME	خبيرة اللينيان	npc023
+N024_NPC_NAME	أول بشري تنين	npc024
+N025_NPC_NAME	متفوق متحمس	npc025
+N026_NPC_NAME	العاملة الجادة	npc026
+N027_NPC_NAME	العالِم المفقود	npc027
+N028_NPC_NAME	العالِم المرح	npc028
+N029_NPC_NAME	العالِم المُنهك	npc029
+N030_NPC_NAME	العالِم النشيط	npc030
+N032_NPC_NAME	ربّان	npc032
+N033_NPC_NAME	المدبرة	npc033
+N034_NPC_NAME	المدبرة	npc034
+N035_NPC_NAME	المدبرة	npc035
+N036_NPC_NAME	أول بشري تنين	npc036
+N037_NPC_NAME	باحث الأسماك	npc037
+N038_NPC_NAME	باحثة الحياة المستوطنة	npc038
+N039_NPC_NAME	الباحث اللينياني	npc039
+N040_NPC_NAME	أول بشري تنين	npc040
+N102_NPC_NAME	الخامس العدائي	npc102
+N103_NPC_NAME	الرابعة العطوفة	npc103
+N104_NPC_NAME	الرابع المتلهّف	npc104
+N105_NPC_NAME	الخامسة الرائعة	npc105
+N106_NPC_NAME	الرابع المرح	npc106
+N107_NPC_NAME	الخامسة القوية	npc107
+N108_NPC_NAME	الخامس الخجول	npc108
+N109_NPC_NAME	الرابعة الشقيقة	npc109
+N111_NPC_NAME	صيّاد البحث	npc111
+N112_NPC_NAME	عالم الأحياء الذكي	npc112
+N113_NPC_NAME	عالمة أحياء نافدة الصبر	npc113
+N114_NPC_NAME	عالمة النبات الهادئة	npc114
+N116_NPC_NAME	الخامس الودود	npc116
+N117_NPC_NAME	فيلاين الحساء	npc117
+N118_NPC_NAME	فيلاين الفرن	npc118
+N121_NPC_NAME	الرابع اللطيف	npc121
+N123_NPC_NAME	الرابع المتحمس	npc123
+N124_NPC_NAME	الخامسة الودودة	npc124
+N125_NPC_NAME	مهندس السفينة الجوية	npc125
+N130_NPC_NAME	العالم المتفائل	npc130
+N131_NPC_NAME	العالم الجبان	npc131
+N134_NPC_NAME	مديرة الحدث	npc134
+N140_NPC_NAME	موغل	npc140
+N170_NPC_NAME	جيرالت من ريڤيا	npc170
+N259_NPC_NAME	فيلاين الأسطول الثالث	npc259
+N610_NPC_NAME	متمرّن ورشة الحدادة	npc610
+N611_NPC_NAME	رئيس النباتيين	npc611
+N612_NPC_NAME	باحثة الحياة المستوطنة	npc612
+N613_NPC_NAME	باحث اللينيان	npc613
+N251_NPC_NAME	محب التفاح	npc251
+N252_NPC_NAME	الخامس المشارك	npc252
+N253_NPC_NAME	عاشقة السمك	npc253
+N254_NPC_NAME	خبير الاختباء	npc254
+N255_NPC_NAME	الخامس المشغول	npc255
+N256_NPC_NAME	الخامس المنهمك	npc256
+N257_NPC_NAME	عضو اللجنة	npc257
+N258_NPC_NAME	عضو اللجنة	npc258
+N301_NPC_NAME	فتاة المركز	npc301
+N302_NPC_NAME	فتاة الحلبة	npc302
+N303_NPC_NAME	مموّنة المركز	npc303
+N304_NPC_NAME	مديرة الحدث	npc304
+N305_NPC_NAME	فيلاين المتفائل	npc305
+N307_NPC_NAME	فيلاين المُغذي	npc307
+N701_NPC_NAME	كبيرة الطهاة	npc701
+N702_NPC_NAME	مُخزِّن سيليانا	npc702
+N703_NPC_NAME	مسؤولة دمج سيليانا	npc703
+N704_NPC_NAME	بحّار سيليانا	npc704
+N706_NPC_NAME	فتاة مستودع سيليانا	npc706
+N707_NPC_NAME	المدبر	npc707
+N708_NPC_NAME	مديرة فرقة الحانة	npc708
+N709_NPC_NAME	مديرة حلبة الحانة	npc709
+N710_NPC_NAME	فتاة الحانة	npc710
+N711_NPC_NAME	مخزّنة الحانة	npc711
+N712_NPC_NAME	بشري تنين قطبي	npc712
+N713_NPC_NAME	مديرة موارد الحانة	npc713
+N714_NPC_NAME	بحّار الحانة	npc714
+N715_NPC_NAME	المدبرة	npc715
+N730_NPC_NAME	فيلاين المعاون	npc730
+N731_NPC_NAME	فيلاين الدؤوب	npc731
+N732_NPC_NAME	الخامس الدؤوب	npc732
+N741_NPC_NAME	الرابع الطموح	npc741
+N743_NPC_NAME	الخامسة الموثوقة	npc743
+N749_NPC_NAME	عالم الأحياء المجتهد	npc749
+N754_NPC_NAME	صيّاد النصل المزدوج	npc754
+N755_NPC_NAME	خادم فيلاين	npc755
+N756_NPC_NAME	نادل فيلاين	npc756
+N757_NPC_NAME	صيّادة بندقية القوس	npc757
+N758_NPC_NAME	عضو اللجنة	npc758
+N759_NPC_NAME	الخامسة مغمورة القدم	npc759
+N760_NPC_NAME	الصديق الثمل	npc760
+N761_NPC_NAME	السبّاحة الصغيرة	npc761
+N762_NPC_NAME	الثمل المنعزل	npc762
+N763_NPC_NAME	صديق الساونا	npc763
+N764_NPC_NAME	الرابع المُحفز	npc764
+N765_NPC_NAME	الخامس المراوغ	npc765
+N766_NPC_NAME	الرابعة الدقيقة	npc766
+N767_NPC_NAME	الخامسة الحريصة	npc767
+N781_NPC_NAME	الحدّاد الشاب	npc781
+N782_NPC_NAME	نائب رئيس علم البيئة	npc782
+N792_NPC_NAME	بائع ورشة الحدادة	npc792
+N793_NPC_NAME	موارد الأسطول الثالث	npc793
+HUNTER_00_NAME	صيّاد جديد	
+HUNTER_01_NAME	صيّاد الطائر الصغير	
+HUNTER_02_NAME	صيّاد شاب	
+HUNTER_03_NAME	صيّاد في التدريب	
+HUNTER_04_NAME	صيّاد نموذجي	
+HUNTER_05_NAME	صيّاد أصلي	
+HUNTER_06_NAME	صيّاد موثوق	
+HUNTER_07_NAME	صيّاد شغوف	
+HUNTER_08_NAME	صيّاد محنك	
+HUNTER_09_NAME	صيّاد محترف	
+HUNTER_10_NAME	صيّاد مشرّد	
+HUNTER_11_NAME	صيّاد وحيد	
+OTOMO_00_NAME	آرثر	
+OTOMO_01_NAME	كيث	
+OTOMO_02_NAME	آدم	
+OTOMO_03_NAME	أندرو	
+OTOMO_04_NAME	أليكس	
+OTOMO_05_NAME	آشلي	
+OTOMO_06_NAME	ديفيد	
+OTOMO_07_NAME	أدريان	
+OTOMO_08_NAME	كيد	
+OTOMO_09_NAME	لورا	
+OTOMO_10_NAME	غراهام	
+OTOMO_11_NAME	داهدراي	
+OTOMO_12_NAME	جويل	
+OTOMO_13_NAME	سيمون	
+OTOMO_14_NAME	كاسي	
+OTOMO_15_NAME	زاك	
+OTOMO_16_NAME	جيت	
+OTOMO_17_NAME	جاسمين	
+OTOMO_18_NAME	جون	
+OTOMO_19_NAME	سارة	
+OTOMO_20_NAME	روي	
+OTOMO_21_NAME	ريكي	
+OTOMO_22_NAME	غينغر	
+OTOMO_23_NAME	سكوت	
+OTOMO_24_NAME	سبايك	
+OTOMO_25_NAME	سيباستيان	
+OTOMO_26_NAME	باتريك	
+OTOMO_27_NAME	مات	
+OTOMO_28_NAME	مارينا	
+OTOMO_29_NAME	ماركو	
+OTOMO_30_NAME	فاليري	
+OTOMO_31_NAME	بيل	
+OTOMO_32_NAME	بوليرمو	
+OTOMO_33_NAME	آروجو	
+OTOMO_34_NAME	ميستي	
+OTOMO_35_NAME	بسكويت	
+OTOMO_36_NAME	خوخ	
+OTOMO_37_NAME	لوسي	
+OTOMO_38_NAME	روكي	
+OTOMO_39_NAME	ميغيل	

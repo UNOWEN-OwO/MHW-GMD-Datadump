@@ -1,0 +1,171 @@
+NPC Code	NPC Name	Model Address
+N001_NPC_NAME	Comandante	npc001
+N002_NPC_NAME	A Assistente	npc002
+N003_NPC_NAME	Líder da Equipe de Campo	npc003
+N004_NPC_NAME	Gestora de Provisões	npc004
+N005_NPC_NAME	Diretor de Análises	npc005
+N006_NPC_NAME	Chefe de Tecnologia	npc006
+N007_NPC_NAME	Estoque de Provisões	npc007
+N009_NPC_NAME	Chefe de Ecologia	npc009
+N010_NPC_NAME	Chefe de Botânica	npc010
+N011_NPC_NAME	Fundidora Anciã	npc011
+N012_NPC_NAME	Mestre da Segunda Frota	npc012
+N014_NPC_NAME	Arsenal	npc014
+N015_NPC_NAME	Chefe Miauscular	npc015
+N016_NPC_NAME	Zelador	npc016
+N017_NPC_NAME	O Caçador	npc017
+N018_NPC_NAME	A Rastreadora	npc018
+N019_NPC_NAME	Almirante	npc019
+N020_NPC_NAME	O Investigador	npc020
+N021_NPC_NAME	Mestra da Terceira Frota	npc021
+N022_NPC_NAME	Provisioneiro da Terceira Frota	npc022
+N023_NPC_NAME	Especialista Lyniano	npc023
+N024_NPC_NAME	Primeiro Serperiano	npc024
+N025_NPC_NAME	Agitado da Lista-A	npc025
+N026_NPC_NAME	Assistente Séria	npc026
+N027_NPC_NAME	Cientista Perdido	npc027
+N028_NPC_NAME	Cientista Jovial	npc028
+N029_NPC_NAME	Cientista Otimista	npc029
+N030_NPC_NAME	Cientista Alegre	npc030
+N032_NPC_NAME	Capitão	npc032
+N033_NPC_NAME	Zelador	npc033
+N034_NPC_NAME	Zelador	npc034
+N035_NPC_NAME	Zelador	npc035
+N036_NPC_NAME	Primeiro Serperiano	npc036
+N037_NPC_NAME	Pesquisador de Peixes	npc037
+N038_NPC_NAME	Pesquisadora Vida Nativa	npc038
+N039_NPC_NAME	Pesquisador Lyniano	npc039
+N040_NPC_NAME	Primeiro Serperiano	npc040
+N102_NPC_NAME	Irascível da Quinta	npc102
+N103_NPC_NAME	Gentil da Quarta	npc103
+N104_NPC_NAME	Impaciente da Quarta	npc104
+N105_NPC_NAME	Impassível da Quinta	npc105
+N106_NPC_NAME	Divertido da Quarta	npc106
+N107_NPC_NAME	Forte da Quinta	npc107
+N108_NPC_NAME	Tímido da Quinta	npc108
+N109_NPC_NAME	Irmã da Quarta	npc109
+N111_NPC_NAME	Caçador de Pesquisa	npc111
+N112_NPC_NAME	Biólogo Inteligente	npc112
+N113_NPC_NAME	Bióloga Impaciente	npc113
+N114_NPC_NAME	Botânica Descolada	npc114
+N116_NPC_NAME	Mano da Quinta	npc116
+N117_NPC_NAME	Felyno da Sopa	npc117
+N118_NPC_NAME	Felyno do Forno	npc118
+N121_NPC_NAME	Fala Mansa da Quarta	npc121
+N123_NPC_NAME	Esquentado da Quarta	npc123
+N124_NPC_NAME	Suave da Quinta	npc124
+N125_NPC_NAME	Engenheiro Aeronáutico	npc125
+N130_NPC_NAME	Cientista Agradável	npc130
+N131_NPC_NAME	Cientista Tímida	npc131
+N134_NPC_NAME	Gerente de Evento	npc134
+N140_NPC_NAME	Moogle	npc140
+N170_NPC_NAME	Geralt de Rívia	npc170
+N259_NPC_NAME	Felyno da Terceira Frota	npc259
+N610_NPC_NAME	Aprendiz de Ferreiro	npc610
+N611_NPC_NAME	Chefe de Botânica	npc611
+N612_NPC_NAME	Pesq. de Vida Nativa	npc612
+N613_NPC_NAME	Pesquisador Lyniano	npc613
+N251_NPC_NAME	Entusiasta das Maçãs	npc251
+N252_NPC_NAME	Engajado da Quinta	npc252
+N253_NPC_NAME	Aficionada por Peixe	npc253
+N254_NPC_NAME	Expert em Couro	npc254
+N255_NPC_NAME	Ocupado da Quinta	npc255
+N256_NPC_NAME	Atarefado da Quinta	npc256
+N257_NPC_NAME	Membro da Comissão	npc257
+N258_NPC_NAME	Membro da Comissão	npc258
+N301_NPC_NAME	Moça do Salão	npc301
+N302_NPC_NAME	Moça da Arena	npc302
+N303_NPC_NAME	Provisões do Centro	npc303
+N304_NPC_NAME	Gerente de Evento	npc304
+N305_NPC_NAME	Felyno Esperançoso	npc305
+N307_NPC_NAME	Felyno Alimentador	npc307
+N701_NPC_NAME	Chefe Miautrona	npc701
+N702_NPC_NAME	Estocador de Seliana	npc702
+N703_NPC_NAME	Fundidora de Seliana	npc703
+N704_NPC_NAME	Marinheiro de Seliana	npc704
+N706_NPC_NAME	Arsenal de Seliana	npc706
+N707_NPC_NAME	Zelador	npc707
+N708_NPC_NAME	Gerente de Evento do Bar	npc708
+N709_NPC_NAME	Gerente de Arena do Bar	npc709
+N710_NPC_NAME	Moça do Bar	npc710
+N711_NPC_NAME	Estocadora do Bar	npc711
+N712_NPC_NAME	Serperiano da Tundra	npc712
+N713_NPC_NAME	Ger. de Recursos do Bar	npc713
+N714_NPC_NAME	Marinheiro do Bar	npc714
+N715_NPC_NAME	Zelador	npc715
+N730_NPC_NAME	Felyno Prestativo	npc730
+N731_NPC_NAME	Felyno Enxerido	npc731
+N732_NPC_NAME	Enxerido da Quinta	npc732
+N741_NPC_NAME	Ambicioso da Quarta	npc741
+N743_NPC_NAME	Confiável da Quinta	npc743
+N749_NPC_NAME	Biólogo Estudioso	npc749
+N754_NPC_NAME	Caçador com Duplas-Lâminas	npc754
+N755_NPC_NAME	Garçom Felyno	npc755
+N756_NPC_NAME	Copeiro Felyno	npc756
+N757_NPC_NAME	Caçador com Fuzilarco	npc757
+N758_NPC_NAME	Membro da Comissão	npc758
+N759_NPC_NAME	Molha-pés da Quinta	npc759
+N760_NPC_NAME	Cara Tomando Banho	npc760
+N761_NPC_NAME	Bambina Banhista	npc761
+N762_NPC_NAME	Banhista Solitário	npc762
+N763_NPC_NAME	Cara da Sauna	npc763
+N764_NPC_NAME	Motivado da Quarta	npc764
+N765_NPC_NAME	Curioso da Quinta	npc765
+N766_NPC_NAME	Inquieta da Quarta	npc766
+N767_NPC_NAME	Cuidadosa da Quinta	npc767
+N781_NPC_NAME	Ferreiro Jovem	npc781
+N782_NPC_NAME	Vice-chefe de Ecologia	npc782
+N792_NPC_NAME	Vendedor do Ferreiro	npc792
+N793_NPC_NAME	Recursos Terceira Frota	npc793
+HUNTER_00_NAME	Iniciante na Caça	
+HUNTER_01_NAME	Inexperiente na Caça	
+HUNTER_02_NAME	Caçador Jovem	
+HUNTER_03_NAME	Caçador em Treino	
+HUNTER_04_NAME	Caçador Comum	
+HUNTER_05_NAME	Caçador Genuíno	
+HUNTER_06_NAME	Caçador Confiável	
+HUNTER_07_NAME	Caçador Passional	
+HUNTER_08_NAME	Caçador Veterano	
+HUNTER_09_NAME	Caçador Profissional	
+HUNTER_10_NAME	Caçador Vadio	
+HUNTER_11_NAME	Caçador Solitário	
+OTOMO_00_NAME	Arthur	
+OTOMO_01_NAME	Keith	
+OTOMO_02_NAME	Adam	
+OTOMO_03_NAME	Andrew	
+OTOMO_04_NAME	Alex	
+OTOMO_05_NAME	Ashley	
+OTOMO_06_NAME	David	
+OTOMO_07_NAME	Adrian	
+OTOMO_08_NAME	Kidd	
+OTOMO_09_NAME	Laura	
+OTOMO_10_NAME	Graham	
+OTOMO_11_NAME	Dahdrai	
+OTOMO_12_NAME	Joel	
+OTOMO_13_NAME	Simon	
+OTOMO_14_NAME	Casey	
+OTOMO_15_NAME	Zack	
+OTOMO_16_NAME	Jet	
+OTOMO_17_NAME	Jasmin	
+OTOMO_18_NAME	John	
+OTOMO_19_NAME	Sarah	
+OTOMO_20_NAME	Roy	
+OTOMO_21_NAME	Ricky	
+OTOMO_22_NAME	Ginger	
+OTOMO_23_NAME	Scott	
+OTOMO_24_NAME	Spike	
+OTOMO_25_NAME	Sebastian	
+OTOMO_26_NAME	Patrick	
+OTOMO_27_NAME	Matt	
+OTOMO_28_NAME	Marina	
+OTOMO_29_NAME	Marco	
+OTOMO_30_NAME	Valerie	
+OTOMO_31_NAME	Bell	
+OTOMO_32_NAME	Pawlermo	
+OTOMO_33_NAME	Araujo	
+OTOMO_34_NAME	Misty	
+OTOMO_35_NAME	Biscuit	
+OTOMO_36_NAME	Peach	
+OTOMO_37_NAME	Lucy	
+OTOMO_38_NAME	Rocky	
+OTOMO_39_NAME	Miguel	

@@ -1,0 +1,171 @@
+NPC代码	NPC名称	模型地址
+N001_NPC_NAME	總司令	npc001
+N002_NPC_NAME	接待員	npc002
+N003_NPC_NAME	調查班隊長	npc003
+N004_NPC_NAME	物資班隊長	npc004
+N005_NPC_NAME	研究班隊長	npc005
+N006_NPC_NAME	技術班隊長	npc006
+N007_NPC_NAME	補給物資負責人	npc007
+N009_NPC_NAME	生態研究所所長	npc009
+N010_NPC_NAME	植生研究所所長	npc010
+N011_NPC_NAME	神秘鍊金研究員	npc011
+N012_NPC_NAME	第二期團的頭領	npc012
+N014_NPC_NAME	武器店	npc014
+N015_NPC_NAME	料理長	npc015
+N016_NPC_NAME	管家	npc016
+N017_NPC_NAME	劍術大師	npc017
+N018_NPC_NAME	原野大師	npc018
+N019_NPC_NAME	大團長	npc019
+N020_NPC_NAME	龍人族的獵人	npc020
+N021_NPC_NAME	第三期團的期團長	npc021
+N022_NPC_NAME	基地的補給物資負責人	npc022
+N023_NPC_NAME	獸人族研究員	npc023
+N024_NPC_NAME	森之古代龍人	npc024
+N025_NPC_NAME	陽光的推薦組員	npc025
+N026_NPC_NAME	好勝的推薦組員	npc026
+N027_NPC_NAME	失蹤的學者	npc027
+N028_NPC_NAME	明朗的學者	npc028
+N029_NPC_NAME	陽光的學者	npc029
+N030_NPC_NAME	活潑的學者	npc030
+N032_NPC_NAME	船長	npc032
+N033_NPC_NAME	嚮導艾路	npc033
+N034_NPC_NAME	嚮導艾路	npc034
+N035_NPC_NAME	管家	npc035
+N036_NPC_NAME	古代龍人	npc036
+N037_NPC_NAME	孤高的魚類調查員	npc037
+N038_NPC_NAME	熱情的生物調查員	npc038
+N039_NPC_NAME	老練的獸人族學者	npc039
+N040_NPC_NAME	古代龍人	npc040
+N102_NPC_NAME	有活力的第五期團員	npc102
+N103_NPC_NAME	親切的第四期團員	npc103
+N104_NPC_NAME	熱衷調查的第四期團員	npc104
+N105_NPC_NAME	酷酷的第五期團員	npc105
+N106_NPC_NAME	興奮的第四期團員	npc106
+N107_NPC_NAME	好強的第五期團員	npc107
+N108_NPC_NAME	處事穩當的第五期團員	npc108
+N109_NPC_NAME	大姐頭風格的第四期團員	npc109
+N111_NPC_NAME	冷靜的第四期團員	npc111
+N112_NPC_NAME	知性的生物學者	npc112
+N113_NPC_NAME	性急的生物學者	npc113
+N114_NPC_NAME	溫和的植物學者	npc114
+N116_NPC_NAME	大哥風格的第五期團員	npc116
+N117_NPC_NAME	負責鍋子的艾路	npc117
+N118_NPC_NAME	負責調理的艾路	npc118
+N121_NPC_NAME	安靜的第四期團員	npc121
+N123_NPC_NAME	熱血漢子的第四期團員	npc123
+N124_NPC_NAME	我行我素的第五期團員	npc124
+N125_NPC_NAME	熱氣球開發員	npc125
+N130_NPC_NAME	豁達的學者	npc130
+N131_NPC_NAME	內向的學者	npc131
+N134_NPC_NAME	活動的接待員	npc134
+N140_NPC_NAME	莫古利	npc140
+N170_NPC_NAME	傑洛特	npc170
+N259_NPC_NAME	研究基地的艾路	npc259
+N610_NPC_NAME	加工屋的徒弟	npc610
+N611_NPC_NAME	植生研究所所長	npc611
+N612_NPC_NAME	熱情的生物調查員	npc612
+N613_NPC_NAME	老練的獸人族學者	npc613
+N251_NPC_NAME	調查員	npc251
+N252_NPC_NAME	調查員	npc252
+N253_NPC_NAME	調查員	npc253
+N254_NPC_NAME	調查員	npc254
+N255_NPC_NAME	調查員	npc255
+N256_NPC_NAME	調查員	npc256
+N257_NPC_NAME	調查員	npc257
+N258_NPC_NAME	調查員	npc258
+N301_NPC_NAME	集會區域的接待員	npc301
+N302_NPC_NAME	鬥技場的接待員	npc302
+N303_NPC_NAME	集會區域補給物資的人	npc303
+N304_NPC_NAME	活動的接待員	npc304
+N305_NPC_NAME	配膳艾路	npc305
+N307_NPC_NAME	配膳艾路	npc307
+N701_NPC_NAME	月辰的料理長	npc701
+N702_NPC_NAME	月辰的補給物資負責人	npc702
+N703_NPC_NAME	月辰的神秘鍊金負責人	npc703
+N704_NPC_NAME	月辰的船員	npc704
+N706_NPC_NAME	月辰的武器店	npc706
+N707_NPC_NAME	管家	npc707
+N708_NPC_NAME	酒場的活動接待員	npc708
+N709_NPC_NAME	酒場的鬥技場接待員	npc709
+N710_NPC_NAME	酒場的接待員	npc710
+N711_NPC_NAME	酒場的補給物資負責人	npc711
+N712_NPC_NAME	積雪處的古代龍人	npc712
+N713_NPC_NAME	酒場的調查資源管理負責人	npc713
+N714_NPC_NAME	酒場的船員	npc714
+N715_NPC_NAME	管家	npc715
+N730_NPC_NAME	助理艾路	npc730
+N731_NPC_NAME	助理艾路	npc731
+N732_NPC_NAME	熱心助人的第五期團員	npc732
+N741_NPC_NAME	野心勃勃的第四期團員	npc741
+N743_NPC_NAME	沉穩可靠的第五期團員	npc743
+N749_NPC_NAME	熱情的生物學者	npc749
+N754_NPC_NAME	調查員	npc754
+N755_NPC_NAME	配膳艾路	npc755
+N756_NPC_NAME	配膳艾路	npc756
+N757_NPC_NAME	調查員	npc757
+N758_NPC_NAME	調查員	npc758
+N759_NPC_NAME	調查員	npc759
+N760_NPC_NAME	調查員	npc760
+N761_NPC_NAME	調查員	npc761
+N762_NPC_NAME	調查員	npc762
+N763_NPC_NAME	調查員	npc763
+N764_NPC_NAME	士氣高昂的第四期團員	npc764
+N765_NPC_NAME	勇於嘗鮮的第五期團員	npc765
+N766_NPC_NAME	興趣多元的第四期團員	npc766
+N767_NPC_NAME	急性子的第五期團員	npc767
+N781_NPC_NAME	加工屋的大徒弟	npc781
+N782_NPC_NAME	生態研究所的副所長	npc782
+N792_NPC_NAME	加工屋幫手	npc792
+N793_NPC_NAME	基地的調查資源管理負責人	npc793
+HUNTER_00_NAME	新手獵人	
+HUNTER_01_NAME	生澀獵人	
+HUNTER_02_NAME	年輕獵人	
+HUNTER_03_NAME	見習獵人	
+HUNTER_04_NAME	一般獵人	
+HUNTER_05_NAME	中堅獵人	
+HUNTER_06_NAME	堅實獵人	
+HUNTER_07_NAME	熱血獵人	
+HUNTER_08_NAME	資深獵人	
+HUNTER_09_NAME	一流獵人	
+HUNTER_10_NAME	流浪獵人	
+HUNTER_11_NAME	孤高獵人	
+OTOMO_00_NAME	亞瑟	
+OTOMO_01_NAME	亞蒙德	
+OTOMO_02_NAME	阿波羅	
+OTOMO_03_NAME	輝	
+OTOMO_04_NAME	泉	
+OTOMO_05_NAME	烏冬	
+OTOMO_06_NAME	麻糬	
+OTOMO_07_NAME	加魯泰	
+OTOMO_08_NAME	基德	
+OTOMO_09_NAME	慶	
+OTOMO_10_NAME	可可亞	
+OTOMO_11_NAME	小次郎	
+OTOMO_12_NAME	科登	
+OTOMO_13_NAME	賽門	
+OTOMO_14_NAME	佐助	
+OTOMO_15_NAME	札克	
+OTOMO_16_NAME	傑特	
+OTOMO_17_NAME	茉莉	
+OTOMO_18_NAME	十兵衛	
+OTOMO_19_NAME	翔	
+OTOMO_20_NAME	自來也	
+OTOMO_21_NAME	白瀧	
+OTOMO_22_NAME	金格	
+OTOMO_23_NAME	史考特	
+OTOMO_24_NAME	史派克	
+OTOMO_25_NAME	塞巴斯蒂安	
+OTOMO_26_NAME	積木	
+OTOMO_27_NAME	德夫	
+OTOMO_28_NAME	漢卓	
+OTOMO_29_NAME	彼特	
+OTOMO_30_NAME	皮克	
+OTOMO_31_NAME	貝爾	
+OTOMO_32_NAME	弁慶	
+OTOMO_33_NAME	政宗	
+OTOMO_34_NAME	密斯堤	
+OTOMO_35_NAME	武藏	
+OTOMO_36_NAME	小桃	
+OTOMO_37_NAME	露西	
+OTOMO_38_NAME	洛克	
+OTOMO_39_NAME	羅伯	

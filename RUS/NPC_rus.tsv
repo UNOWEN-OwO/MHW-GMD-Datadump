@@ -1,0 +1,171 @@
+NPC Code	NPC Name	Model Address
+N001_NPC_NAME	Командир	npc001
+N002_NPC_NAME	Проводник	npc002
+N003_NPC_NAME	Лидер полевого отряда	npc003
+N004_NPC_NAME	Интендант	npc004
+N005_NPC_NAME	Главный аналитик	npc005
+N006_NPC_NAME	Техничный шеф	npc006
+N007_NPC_NAME	Склад припасов	npc007
+N009_NPC_NAME	Главный эколог	npc009
+N010_NPC_NAME	Главный ботаник	npc010
+N011_NPC_NAME	Старшая плавильщица	npc011
+N012_NPC_NAME	Наставник второго флота	npc012
+N014_NPC_NAME	Оружейная	npc014
+N015_NPC_NAME	Мяускулистый шеф-повар	npc015
+N016_NPC_NAME	Домоправитель	npc016
+N017_NPC_NAME	Охотник	npc017
+N018_NPC_NAME	Следопыт	npc018
+N019_NPC_NAME	Адмирал	npc019
+N020_NPC_NAME	Искатель	npc020
+N021_NPC_NAME	Наставница Третьего флота	npc021
+N022_NPC_NAME	Припасы Третьего флота	npc022
+N023_NPC_NAME	Эксперт по линианцам	npc023
+N024_NPC_NAME	Первый виверианец	npc024
+N025_NPC_NAME	Нервный элитник	npc025
+N026_NPC_NAME	Серьезный проводник	npc026
+N027_NPC_NAME	Пропавший ученый	npc027
+N028_NPC_NAME	Веселый ученый	npc028
+N029_NPC_NAME	Жизнерадостный ученый	npc029
+N030_NPC_NAME	Бодрый ученый	npc030
+N032_NPC_NAME	Капитан	npc032
+N033_NPC_NAME	Домоправитель	npc033
+N034_NPC_NAME	Домоправитель	npc034
+N035_NPC_NAME	Домоправитель	npc035
+N036_NPC_NAME	Первый виверианец	npc036
+N037_NPC_NAME	Исследователь рыб	npc037
+N038_NPC_NAME	Исследователь фауны	npc038
+N039_NPC_NAME	Исследователь линианцев	npc039
+N040_NPC_NAME	Первый виверианец	npc040
+N102_NPC_NAME	Грубый пятый	npc102
+N103_NPC_NAME	Добрая четвертая	npc103
+N104_NPC_NAME	Бодрый четвертый	npc104
+N105_NPC_NAME	Крутая пятая	npc105
+N106_NPC_NAME	Веселый четвертый	npc106
+N107_NPC_NAME	Сильная пятая	npc107
+N108_NPC_NAME	Робкий пятый	npc108
+N109_NPC_NAME	Ласковая четвертая	npc109
+N111_NPC_NAME	Охотник-исследователь	npc111
+N112_NPC_NAME	Умный биолог	npc112
+N113_NPC_NAME	Нетерпеливый биолог	npc113
+N114_NPC_NAME	Расслабленный биолог	npc114
+N116_NPC_NAME	Приятель Пятый	npc116
+N117_NPC_NAME	Котт-суповар	npc117
+N118_NPC_NAME	Котт-пекарь	npc118
+N121_NPC_NAME	Учтивый четвертый	npc121
+N123_NPC_NAME	Пылкий четвертый	npc123
+N124_NPC_NAME	Беспечная пятая	npc124
+N125_NPC_NAME	Инженер воздушного судна	npc125
+N130_NPC_NAME	Приветливый ученый	npc130
+N131_NPC_NAME	Застенчивый ученый	npc131
+N134_NPC_NAME	Менеджер событий	npc134
+N140_NPC_NAME	Мугл	npc140
+N170_NPC_NAME	Геральт из Ривии	npc170
+N259_NPC_NAME	Котт Третьего флота	npc259
+N610_NPC_NAME	Подмастерье кузнеца	npc610
+N611_NPC_NAME	Главный ботаник	npc611
+N612_NPC_NAME	Исследователь местных животных	npc612
+N613_NPC_NAME	Исследователь линианцев	npc613
+N251_NPC_NAME	Любитель яблок	npc251
+N252_NPC_NAME	Увлеченный пятый	npc252
+N253_NPC_NAME	Поклонница рыбы	npc253
+N254_NPC_NAME	Эксперт по шкурам	npc254
+N255_NPC_NAME	Занятой пятый	npc255
+N256_NPC_NAME	Деятельный пятый	npc256
+N257_NPC_NAME	Член экспедиции	npc257
+N258_NPC_NAME	Член экспедиции	npc258
+N301_NPC_NAME	Девушка из центра	npc301
+N302_NPC_NAME	Девушка с арены	npc302
+N303_NPC_NAME	Припасы центра	npc303
+N304_NPC_NAME	Менеджер событий	npc304
+N305_NPC_NAME	Оптимистичный котт	npc305
+N307_NPC_NAME	Котт-кормилец	npc307
+N701_NPC_NAME	Мяутерая повариха	npc701
+N702_NPC_NAME	Начальник снабж. Селианы	npc702
+N703_NPC_NAME	Плавильщица Селианы	npc703
+N704_NPC_NAME	Моряк Селианы	npc704
+N706_NPC_NAME	Оружейная Селианы	npc706
+N707_NPC_NAME	Домоправитель	npc707
+N708_NPC_NAME	Управл. соб. общ. центра	npc708
+N709_NPC_NAME	Управ. арены общ. центра	npc709
+N710_NPC_NAME	Девушка из общ. центра	npc710
+N711_NPC_NAME	Кладовщица общ. центра	npc711
+N712_NPC_NAME	Виверианец из тундры	npc712
+N713_NPC_NAME	Управл. рес. общ. центра	npc713
+N714_NPC_NAME	Моряк из общ. центра	npc714
+N715_NPC_NAME	Домоправитель	npc715
+N730_NPC_NAME	Котт-доброжелатель	npc730
+N731_NPC_NAME	Назойливый котт	npc731
+N732_NPC_NAME	Назойливый Пятый	npc732
+N741_NPC_NAME	Амбициозный Четвертый	npc741
+N743_NPC_NAME	Надежная Пятая	npc743
+N749_NPC_NAME	Усердный биолог	npc749
+N754_NPC_NAME	Двухклинковый охотник	npc754
+N755_NPC_NAME	Котт-прислуга	npc755
+N756_NPC_NAME	Котт-официант	npc756
+N757_NPC_NAME	Охотник с лукорудием	npc757
+N758_NPC_NAME	Член экспедиции	npc758
+N759_NPC_NAME	Пятый с ванночкой для ног	npc759
+N760_NPC_NAME	Подливатель	npc760
+N761_NPC_NAME	Купающаяся малышка	npc761
+N762_NPC_NAME	Одинокий подливатель	npc762
+N763_NPC_NAME	Парень из сауны	npc763
+N764_NPC_NAME	Целеустр. Четвертый	npc764
+N765_NPC_NAME	Любопытный Пятый	npc765
+N766_NPC_NAME	Суетливый Четвертый	npc766
+N767_NPC_NAME	Фанатичная Пятая	npc767
+N781_NPC_NAME	Молодой кузнец	npc781
+N782_NPC_NAME	Помощник глав. эколога	npc782
+N792_NPC_NAME	Торговец в кузне	npc792
+N793_NPC_NAME	Ресурсы Третьего флота	npc793
+HUNTER_00_NAME	Новый охотник	
+HUNTER_01_NAME	Начинающий охотник	
+HUNTER_02_NAME	Молодой охотник	
+HUNTER_03_NAME	Охотник-практикант	
+HUNTER_04_NAME	Типичный охотник	
+HUNTER_05_NAME	Истинный охотник	
+HUNTER_06_NAME	Надежный охотник	
+HUNTER_07_NAME	Страстный охотник	
+HUNTER_08_NAME	Охотник-ветеран	
+HUNTER_09_NAME	Охотник-профессионал	
+HUNTER_10_NAME	Охотник-скиталец	
+HUNTER_11_NAME	Охотник-одиночка	
+OTOMO_00_NAME	Артур	
+OTOMO_01_NAME	Кит	
+OTOMO_02_NAME	Адам	
+OTOMO_03_NAME	Эндрю	
+OTOMO_04_NAME	Алекс	
+OTOMO_05_NAME	Эшли	
+OTOMO_06_NAME	Дэвид	
+OTOMO_07_NAME	Адриан	
+OTOMO_08_NAME	Кидд	
+OTOMO_09_NAME	Лора	
+OTOMO_10_NAME	Грэм	
+OTOMO_11_NAME	Дэдра	
+OTOMO_12_NAME	Джоэл	
+OTOMO_13_NAME	Саймон	
+OTOMO_14_NAME	Кэйси	
+OTOMO_15_NAME	Зак	
+OTOMO_16_NAME	Джет	
+OTOMO_17_NAME	Жасмин	
+OTOMO_18_NAME	Джон	
+OTOMO_19_NAME	Сара	
+OTOMO_20_NAME	Рой	
+OTOMO_21_NAME	Рики	
+OTOMO_22_NAME	Джинджер	
+OTOMO_23_NAME	Скотт	
+OTOMO_24_NAME	Спайк	
+OTOMO_25_NAME	Себастьян	
+OTOMO_26_NAME	Патрик	
+OTOMO_27_NAME	Мэтт	
+OTOMO_28_NAME	Марина	
+OTOMO_29_NAME	Марко	
+OTOMO_30_NAME	Валери	
+OTOMO_31_NAME	Белл	
+OTOMO_32_NAME	Палермяу	
+OTOMO_33_NAME	Араухо	
+OTOMO_34_NAME	Мисти	
+OTOMO_35_NAME	Бисквит	
+OTOMO_36_NAME	Персик	
+OTOMO_37_NAME	Люси	
+OTOMO_38_NAME	Роки	
+OTOMO_39_NAME	Мигель	

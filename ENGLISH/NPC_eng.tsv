@@ -1,0 +1,171 @@
+NPC Code	NPC Name	Model Address
+N001_NPC_NAME	Commander	npc001
+N002_NPC_NAME	The Handler	npc002
+N003_NPC_NAME	Field Team Leader	npc003
+N004_NPC_NAME	Provisions Manager	npc004
+N005_NPC_NAME	Analytics Director	npc005
+N006_NPC_NAME	Tech Chief	npc006
+N007_NPC_NAME	Provisions Stockpile	npc007
+N009_NPC_NAME	Chief Ecologist	npc009
+N010_NPC_NAME	Chief Botanist	npc010
+N011_NPC_NAME	Elder Melder	npc011
+N012_NPC_NAME	Second Fleet Master	npc012
+N014_NPC_NAME	Armory	npc014
+N015_NPC_NAME	Meowscular Chef	npc015
+N016_NPC_NAME	Housekeeper	npc016
+N017_NPC_NAME	The Huntsman	npc017
+N018_NPC_NAME	The Tracker	npc018
+N019_NPC_NAME	Admiral	npc019
+N020_NPC_NAME	The Seeker	npc020
+N021_NPC_NAME	Third Fleet Master	npc021
+N022_NPC_NAME	Third Fleet Provisions	npc022
+N023_NPC_NAME	Lynian Expert	npc023
+N024_NPC_NAME	First Wyverian	npc024
+N025_NPC_NAME	Excitable A-Lister	npc025
+N026_NPC_NAME	Serious Handler	npc026
+N027_NPC_NAME	Missing Scholar	npc027
+N028_NPC_NAME	Jovial Scholar	npc028
+N029_NPC_NAME	Upbeat Scholar	npc029
+N030_NPC_NAME	Lively Scholar	npc030
+N032_NPC_NAME	Captain	npc032
+N033_NPC_NAME	Housekeeper	npc033
+N034_NPC_NAME	Housekeeper	npc034
+N035_NPC_NAME	Housekeeper	npc035
+N036_NPC_NAME	First Wyverian	npc036
+N037_NPC_NAME	Piscine Researcher	npc037
+N038_NPC_NAME	Endemic Life Researcher	npc038
+N039_NPC_NAME	Lynian Researcher	npc039
+N040_NPC_NAME	First Wyverian	npc040
+N102_NPC_NAME	Feisty Fiver	npc102
+N103_NPC_NAME	Gentle Fourth	npc103
+N104_NPC_NAME	Eager Fourth	npc104
+N105_NPC_NAME	Cool Fiver	npc105
+N106_NPC_NAME	Fun Fourth	npc106
+N107_NPC_NAME	Forceful Fiver	npc107
+N108_NPC_NAME	Timid Fiver	npc108
+N109_NPC_NAME	Sisterly Fourth	npc109
+N111_NPC_NAME	Research Hunter	npc111
+N112_NPC_NAME	Smart Biologist	npc112
+N113_NPC_NAME	Impatient Biologist	npc113
+N114_NPC_NAME	Laid-back Botanist	npc114
+N116_NPC_NAME	Fiver Bro	npc116
+N117_NPC_NAME	Soup Felyne	npc117
+N118_NPC_NAME	Oven Felyne	npc118
+N121_NPC_NAME	Softspoken Fourth	npc121
+N123_NPC_NAME	Hotblooded Fourth	npc123
+N124_NPC_NAME	Easygoing Fiver	npc124
+N125_NPC_NAME	Airship Engineer	npc125
+N130_NPC_NAME	Cheerful Scholar	npc130
+N131_NPC_NAME	Shy Scholar	npc131
+N134_NPC_NAME	Event Manager	npc134
+N140_NPC_NAME	Moogle	npc140
+N170_NPC_NAME	Geralt of Rivia	npc170
+N259_NPC_NAME	Third Fleet Felyne	npc259
+N610_NPC_NAME	Smithy Apprentice	npc610
+N611_NPC_NAME	Chief Botanist	npc611
+N612_NPC_NAME	Endemic Life Researcher	npc612
+N613_NPC_NAME	Lynian Researcher	npc613
+N251_NPC_NAME	Apple Enthusiast	npc251
+N252_NPC_NAME	Engaged Fiver	npc252
+N253_NPC_NAME	Fish Aficionado	npc253
+N254_NPC_NAME	Hide Expert	npc254
+N255_NPC_NAME	Occupied Fiver	npc255
+N256_NPC_NAME	Busy Fiver	npc256
+N257_NPC_NAME	Commission Member	npc257
+N258_NPC_NAME	Commission Member	npc258
+N301_NPC_NAME	Hub Lass	npc301
+N302_NPC_NAME	Arena Lass	npc302
+N303_NPC_NAME	Hub Provisions	npc303
+N304_NPC_NAME	Event Manager	npc304
+N305_NPC_NAME	Hopeful Felyne	npc305
+N307_NPC_NAME	Feeder Felyne	npc307
+N701_NPC_NAME	Grammeowster Chef	npc701
+N702_NPC_NAME	Seliana Stockpiler	npc702
+N703_NPC_NAME	Seliana Melder	npc703
+N704_NPC_NAME	Seliana Sailor	npc704
+N706_NPC_NAME	Seliana Armory	npc706
+N707_NPC_NAME	Housekeeper	npc707
+N708_NPC_NAME	Pub Event Manager	npc708
+N709_NPC_NAME	Pub Arena Manager	npc709
+N710_NPC_NAME	Pub Lass	npc710
+N711_NPC_NAME	Pub Stockpiler	npc711
+N712_NPC_NAME	Tundra Wyverian	npc712
+N713_NPC_NAME	Pub Resource Manager	npc713
+N714_NPC_NAME	Pub Sailor	npc714
+N715_NPC_NAME	Housekeeper	npc715
+N730_NPC_NAME	Helpful Felyne	npc730
+N731_NPC_NAME	Busybody Felyne	npc731
+N732_NPC_NAME	Busybody Fiver	npc732
+N741_NPC_NAME	Ambitious Fourth	npc741
+N743_NPC_NAME	Reliable Fiver	npc743
+N749_NPC_NAME	Studious Biologist	npc749
+N754_NPC_NAME	Dual-blading Hunter	npc754
+N755_NPC_NAME	Felyne Server	npc755
+N756_NPC_NAME	Felyne Waiter	npc756
+N757_NPC_NAME	Bowgunner Hunter	npc757
+N758_NPC_NAME	Commission Member	npc758
+N759_NPC_NAME	Foot Soaking Fiver	npc759
+N760_NPC_NAME	Soaker Dude	npc760
+N761_NPC_NAME	Bathing Bambina	npc761
+N762_NPC_NAME	Lone Soaker	npc762
+N763_NPC_NAME	Sauna Dude	npc763
+N764_NPC_NAME	Motivated Fourth	npc764
+N765_NPC_NAME	Curious Fiver	npc765
+N766_NPC_NAME	Fussy Fourth	npc766
+N767_NPC_NAME	Overzealous Fifth	npc767
+N781_NPC_NAME	Young Smithy	npc781
+N782_NPC_NAME	Vice Chief Ecologist	npc782
+N792_NPC_NAME	Smithy Vendor	npc792
+N793_NPC_NAME	Third Fleet Resources	npc793
+HUNTER_00_NAME	New Hunter	
+HUNTER_01_NAME	Fledgling Hunter	
+HUNTER_02_NAME	Young Hunter	
+HUNTER_03_NAME	Hunter-in-training	
+HUNTER_04_NAME	Typical Hunter	
+HUNTER_05_NAME	Genuine Hunter	
+HUNTER_06_NAME	Reliable Hunter	
+HUNTER_07_NAME	Passionate Hunter	
+HUNTER_08_NAME	Veteran Hunter	
+HUNTER_09_NAME	Professional Hunter	
+HUNTER_10_NAME	Vagabond Hunter	
+HUNTER_11_NAME	Lone-wolf Hunter	
+OTOMO_00_NAME	Arthur	
+OTOMO_01_NAME	Keith	
+OTOMO_02_NAME	Adam	
+OTOMO_03_NAME	Andrew	
+OTOMO_04_NAME	Alex	
+OTOMO_05_NAME	Ashley	
+OTOMO_06_NAME	David	
+OTOMO_07_NAME	Adrian	
+OTOMO_08_NAME	Kidd	
+OTOMO_09_NAME	Laura	
+OTOMO_10_NAME	Graham	
+OTOMO_11_NAME	Dahdrai	
+OTOMO_12_NAME	Joel	
+OTOMO_13_NAME	Simon	
+OTOMO_14_NAME	Casey	
+OTOMO_15_NAME	Zack	
+OTOMO_16_NAME	Jet	
+OTOMO_17_NAME	Jasmin	
+OTOMO_18_NAME	John	
+OTOMO_19_NAME	Sarah	
+OTOMO_20_NAME	Roy	
+OTOMO_21_NAME	Ricky	
+OTOMO_22_NAME	Ginger	
+OTOMO_23_NAME	Scott	
+OTOMO_24_NAME	Spike	
+OTOMO_25_NAME	Sebastian	
+OTOMO_26_NAME	Patrick	
+OTOMO_27_NAME	Matt	
+OTOMO_28_NAME	Marina	
+OTOMO_29_NAME	Marco	
+OTOMO_30_NAME	Valerie	
+OTOMO_31_NAME	Bell	
+OTOMO_32_NAME	Pawlermo	
+OTOMO_33_NAME	Araujo	
+OTOMO_34_NAME	Misty	
+OTOMO_35_NAME	Biscuit	
+OTOMO_36_NAME	Peach	
+OTOMO_37_NAME	Lucy	
+OTOMO_38_NAME	Rocky	
+OTOMO_39_NAME	Miguel	
