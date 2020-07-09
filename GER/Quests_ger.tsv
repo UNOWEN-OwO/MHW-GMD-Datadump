@@ -355,8 +355,9 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 51605	Der rote Drachen	Töte einen Safi'jiiva.	Zeit abgelaufen3-mal ohnmächtig geworden
 51606	Meine Wut trifft alle	Töte einen Wütigen Brachydios.	Zeit abgelaufen3-mal ohnmächtig geworden
 51607	Meine Wut bleibt	Erjage einen Zornigen Rajang.	Zeit abgelaufen3-mal ohnmächtig geworden
-51611	Unavailable	Unavailable	Unavailable
+51611	Feuerschwarzes Zwielicht	Töte den Alatreon.	Zeit abgelaufen3-mal ohnmächtig geworden
 51612	Unavailable	Unavailable	Unavailable
+51613	Unavailable	Unavailable	Unavailable
 51621	Spezialarena: MR Höllen-Zinogre	Erjage einen Höllen-Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
 51622	Brachyale Gegenwehr	Töte einen Wütigen Brachydios.	Zeit abgelaufen3-mal ohnmächtig geworden
 51623	Blind vor Zorn und Gier	Erjage einen Zornigen Rajang.	Zeit abgelaufen3-mal ohnmächtig geworden
@@ -384,6 +385,8 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 61812	Fleisch, Fleisch, Fleisch, ...	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
 61813	Eiskaltes Verlangen	Erjage einen Barioth.	Zeit abgelaufen3-mal ohnmächtig geworden
 61814	Ein schockierender Höhepunkt	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+61815	Schockschwere Not	Liefere fünf Urzeit-Mantamotten.	Zeit abgelaufen3-mal ohnmächtig geworden
+61816	Scharfer Fisch schärft	Liefere zwei Große Wetzfische.	Zeit abgelaufen3-mal ohnmächtig geworden
 62502	Der tödlich stille Vorhang	Töte den Vaal Hazak.	Zeit abgelaufen3-mal ohnmächtig geworden
 62503	Das Flüstern der weißen Mähne	Töte den Kirin.	Zeit abgelaufen3-mal ohnmächtig geworden
 62504	Das Gespött der Sonne	Töte den Teostra.	Zeit abgelaufen3-mal ohnmächtig geworden
@@ -493,9 +496,13 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66830	Ältesten-Arabeske	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
 66831	Raureif-Rhapsodie	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
 66832	Hölle, Hölle, Hölle!	Erjage einen Höllen-Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
+66833	Der ewige Goldrausch	Töte die Kulve Taroth.	Zeit abgelaufen3-mal ohnmächtig geworden
 66834	Promptes Brüllen	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
 66835	Der Zorn des Donners blitzt auf	Erjage einen Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
 66836	Ode an die Zerstörung	Töte einen Ruinen-Nergigante.	Zeit abgelaufen3-mal ohnmächtig geworden
+66847	Die ferne dunkle Flut	Töte einen Namielle.	Zeit abgelaufen3-mal ohnmächtig geworden
+66859	Eine übelriechende Party	Erjage einen Brodelnden Bazelgeuse.	Zeit abgelaufen3-mal ohnmächtig geworden
+66860	Der Zorn des Donners blitzt auf	Erjage einen Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
 67101	Die Erprobung	Erjage einen Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
 67102	Lektionen der Wildnis	Töte acht Barnos.	Zeit abgelaufen3-mal ohnmächtig geworden
 67103	Rushs Blutrausch	Erjage zwei Odogaron.	Zeit abgelaufen3-mal ohnmächtig geworden
@@ -512,3 +519,4 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67802	Auf in die eisige Wildnis	Erjage einen Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
 67803	Die Überlebende	Erjage einen Höllen-Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
 67804	Firebreak	Erjage einen Wilden Dämonjho.	Zeit abgelaufen3-mal ohnmächtig geworden
+67807	Der Assassine	Erjage einen Nargacuga.	Zeit abgelaufen3-mal ohnmächtig geworden

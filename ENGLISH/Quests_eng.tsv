@@ -355,8 +355,9 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 51605	The Red Dragon	Slay Safi'jiiva	Time expiresFaint 3 times
 51606	...And My Rage for All	Slay a Raging Brachydios	Time expiresFaint 3 times
 51607	The Fury Remains	Hunt a Furious Rajang	Time expiresFaint 3 times
-51611	Unavailable	Unavailable	Unavailable
+51611	Blazing Black Twilight	Slay an Alatreon	Time expiresFaint 3 times
 51612	Unavailable	Unavailable	Unavailable
+51613	Unavailable	Unavailable	Unavailable
 51621	Special Arena: MR Stygian Zinogre	Hunt a Stygian Zinogre	Time expiresFaint 3 times
 51622	Achy Brachy Heart	Slay a Raging Brachydios	Time expiresFaint 3 times
 51623	All That Glitters is Furious	Hunt a Furious Rajang	Time expiresFaint 3 times
@@ -384,6 +385,8 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 61812	Beef is Never a Mi-steak	Hunt all target monsters	Time expiresFaint 3 times
 61813	50 Shades of White	Hunt a Barioth	Time expiresFaint 3 times
 61814	A Shocking Climax	Hunt all target monsters	Time expiresFaint 3 times
+61815	Skyward Snipers	Deliver 5 Grandfather Mantagrells	Time expiresFaint 3 times
+61816	A Fish to Whet Your Appetite	Deliver 2 Great Whetfish	Time expiresFaint 3 times
 62502	The Deathly Quiet Curtain	Slay Vaal Hazak	Time expiresFaint 3 times
 62503	A Whisper of White Mane	Slay Kirin	Time expiresFaint 3 times
 62504	The Scorn of the Sun	Slay Teostra	Time expiresFaint 3 times
@@ -493,9 +496,13 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66830	Alt Rock Recess	Hunt all target monsters	Time expiresFaint 3 times
 66831	Ballad of the Hoarfrost	Hunt all target monsters	Time expiresFaint 3 times
 66832	Wolf Out of Hell	Hunt a Stygian Zinogre	Time expiresFaint 3 times
+66833	The Eternal Gold Rush	Slay Kulve Taroth	Time expiresFaint 3 times
 66834	When the Swift Meets the Roar	Hunt all target monsters	Time expiresFaint 3 times
 66835	The Wrath of Thunder Descends	Hunt a Zinogre	Time expiresFaint 3 times
 66836	Ode to the Destruction	Slay a Ruiner Nergigante	Time expiresFaint 3 times
+66847	The Distant Dark Tide	Slay a Namielle	Time expiresFaint 3 times
+66859	Talk About a Party Foul...	Hunt a Seething Bazelgeuse	Time expiresFaint 3 times
+66860	The Wrath of Thunder Descends	Hunt a Zinogre	Time expiresFaint 3 times
 67101	The Proving	Hunt an Anjanath	Time expiresFaint 3 times
 67102	Lessons of the Wild	Slay 8 Barnos	Time expiresFaint 3 times
 67103	A Rush of Blood	Hunt 2 Odogaron	Time expiresFaint 3 times
@@ -512,3 +519,4 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67802	Into the Frozen Wilds	Hunt a Zinogre	Time expiresFaint 3 times
 67803	The Survivor	Hunt a Stygian Zinogre	Time expiresFaint 3 times
 67804	Firebreak	Hunt a Savage Deviljho	Time expiresFaint 3 times
+67807	The Assassin	Hunt a Nargacuga	Time expiresFaint 3 times

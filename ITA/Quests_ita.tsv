@@ -355,8 +355,9 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 51605	Il drago rosso	Uccidi il Safi'jiiva	- Tempo scaduto- Tre svenimenti
 51606	Tutta la mia rabbia	Uccidi un Brachydios rabbioso	- Tempo scaduto- Tre svenimenti
 51607	La bionda furia	Caccia un Rajang furioso	- Tempo scaduto- Tre svenimenti
-51611	Unavailable	Unavailable	Unavailable
+51611	Folgore nera	Uccidi un Alatreon	- Tempo scaduto- Tre svenimenti
 51612	Unavailable	Unavailable	Unavailable
+51613	Unavailable	Unavailable	Unavailable
 51621	Arena speciale: Zinogre stigeo GM	Caccia uno Zinogre stigeo	- Tempo scaduto- Tre svenimenti
 51622	Brachy, dolore nel cuore	Uccidi un Brachydios furioso	- Tempo scaduto- Tre svenimenti
 51623	Tutto ciò che brilla è furioso	Caccia un Rajang furioso	- Tempo scaduto- Tre svenimenti
@@ -384,6 +385,8 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 61812	Una botta proteica	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
 61813	Cinquanta sfumature di bianco	Caccia un Barioth	- Tempo scaduto- Tre svenimenti
 61814	Una conclusione scioccante	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+61815	Cecchino dei cieli	Consegna 5 mantiche	- Tempo scaduto- Tre svenimenti
+61816	Sgombro-coltello multiuso	Consegna due gran sgombri-coltello	- Tempo scaduto- Tre svenimenti
 62502	Un silenzio mortale	Uccidi il Vaal Hazak	- Tempo scaduto- Tre svenimenti
 62503	Sussurro di un manto bianco	Uccidi un Kirin	- Tempo scaduto- Tre svenimenti
 62504	Lo sdegno del sole	Uccidi il Teostra	- Tempo scaduto- Tre svenimenti
@@ -493,9 +496,13 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66830	Alt rock cristallino	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
 66831	Ballata delle distese	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
 66832	Lupo infernale	Caccia uno Zinogre stigeo	- Tempo scaduto- Tre svenimenti
+66833	La febbre dell'oro eterna	Uccidi la Kulve Taroth	- Tempo scaduto- Tre svenimenti
 66834	Affilati e ruggenti	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
 66835	Fulmine a ciel sereno	Caccia uno Zinogre	- Tempo scaduto- Tre svenimenti
 66836	Inno alla distruzione	Uccidi un Nergigante razziatore	- Tempo scaduto- Tre svenimenti
+66847	L'oscura marea distante	Uccidi un Namielle	- Tempo scaduto- Tre svenimenti
+66859	Il guastafeste	Caccia un Bazelgeuse vulcanico	- Tempo scaduto- Tre svenimenti
+66860	Fulmine a ciel sereno	Caccia uno Zinogre	- Tempo scaduto- Tre svenimenti
 67101	La Prova	Caccia un Anjanath	- Tempo scaduto- Tre svenimenti
 67102	Lezione selvaggia	Uccidi 8 Barnos	- Tempo scaduto- Tre svenimenti
 67103	A cuccia, Rush!	Caccia due Odogaron	- Tempo scaduto- Tre svenimenti
@@ -512,3 +519,4 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67802	Nelle terre gelate	Caccia uno Zinogre	- Tempo scaduto- Tre svenimenti
 67803	La sopravvissuta	Caccia uno Zinogre stigeo	- Tempo scaduto- Tre svenimenti
 67804	Firebreak	Caccia un Deviljho selvaggio	- Tempo scaduto- Tre svenimenti
+67807	L'assassino	Caccia un Nargacuga	- Tempo scaduto- Tre svenimenti

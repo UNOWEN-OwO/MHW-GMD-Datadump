@@ -119,7 +119,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	157	EX제천고양이의머리띠α	otomo/equip/ot071/helm
 0	Helmet	158	EX폭쇄고양이헤드기어α	otomo/equip/ot070/helm
 0	Helmet	159	EX명적룡고양이왕관α	otomo/equip/ot067/helm
-0	Helmet	160	레더고양이헤드	otomo/equip/ot000/helm
+0	Helmet	160	EX에스카드고양이와이즈α	otomo/equip/ot068/helm
 0	Helmet	161	EX엘리자고양이코로나α	otomo/equip/ot034/helm
 0	Helmet	162	EX맘고양이퍼α	otomo/equip/ot025/helm
 0	Helmet	163	EX록맨헤드α	otomo/equip/ot035/helm
@@ -128,7 +128,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	166	HARDUMMY	otomo/equip/ot036/helm
 0	Helmet	167	EX무사고양이투구α	otomo/equip/ot039/helm
 0	Helmet	168	EX파피고양이해트α	otomo/equip/ot040/helm
-0	Helmet	169	레더고양이헤드	otomo/equip/ot000/helm
+0	Helmet	169	EX알로하냥이밀짚모자α	otomo/equip/ot041/helm
 0	Helmet	170	레더고양이헤드	otomo/equip/ot000/helm
 0	Helmet	171	EX스노고양이헤드α	otomo/equip/ot043/helm
 0	Helmet	172	EX스타고양이헤드α	otomo/equip/ot044/helm
@@ -140,7 +140,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	178	EX제노고양이베일α	otomo/equip/ot024/helm
 0	Helmet	179	EX길드고양이캡α	otomo/equip/ot063/helm
 0	Helmet	180	EX로제고양이헤드α	otomo/equip/ot075/helm
-0	Helmet	181	레더고양이헤드	otomo/equip/ot000/helm
+0	Helmet	181	EX푸케인형고양이헤드α	otomo/equip/ot076/helm
 0	Helmet	182	레더고양이헤드	otomo/equip/ot000/helm
 0	Helmet	183	EX사자춤고양이헤드α	otomo/equip/ot078/helm
 0	Helmet	184	EX우주고양이마스크α	otomo/equip/ot079/helm
@@ -151,7 +151,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	189	HARDUMMY	otomo/equip/ot081/helm
 0	Helmet	190	EX흔들흔들고양이페이크α	otomo/equip/ot082/helm
 0	Helmet	191	레더고양이헤드	otomo/equip/ot000/helm
-0	Helmet	192	레더고양이헤드	otomo/equip/ot000/helm
+0	Helmet	192	EX오르무고양이헬름α	otomo/equip/ot083/helm
 0	Helmet	193	레더고양이헤드	otomo/equip/ot000/helm
 0	Helmet	194	레더고양이헤드	otomo/equip/ot000/helm
 0	Helmet	195	EX마에스트로고양이헤어α	otomo/equip/ot085/helm
@@ -281,7 +281,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	157	EX제천고양이의옷α	otomo/equip/ot071/body
 1	Armor	158	EX폭쇄고양이글러브α	otomo/equip/ot070/body
 1	Armor	159	EX명적룡고양이갑옷α	otomo/equip/ot067/body
-1	Armor	160	레더고양이헤드	otomo/equip/ot000/body
+1	Armor	160	EX에스카드고양이소울α	otomo/equip/ot068/body
 1	Armor	161	EX엘리자고양이러플α	otomo/equip/ot034/body
 1	Armor	162	EX맘고양이슈트α	otomo/equip/ot025/body
 1	Armor	163	EX록맨바디α	otomo/equip/ot035/body
@@ -290,7 +290,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	166	HARDUMMY	otomo/equip/ot036/body
 1	Armor	167	EX무사고양이갑옷α	otomo/equip/ot039/body
 1	Armor	168	EX파피고양이베스트α	otomo/equip/ot040/body
-1	Armor	169	레더고양이헤드	otomo/equip/ot000/body
+1	Armor	169	EX알로하냥이알로하α	otomo/equip/ot041/body
 1	Armor	170	레더고양이헤드	otomo/equip/ot000/body
 1	Armor	171	EX스노고양이보디α	otomo/equip/ot043/body
 1	Armor	172	EX스타고양이점프슈트α	otomo/equip/ot044/body
@@ -302,7 +302,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	178	EX제노고양이드레스α	otomo/equip/ot024/body
 1	Armor	179	EX길드고양이코트α	otomo/equip/ot063/body
 1	Armor	180	EX제노고양이드레스α	otomo/equip/ot075/body
-1	Armor	181	레더고양이헤드	otomo/equip/ot000/body
+1	Armor	181	EX푸케인형고양이보디α	otomo/equip/ot076/body
 1	Armor	182	레더고양이헤드	otomo/equip/ot000/body
 1	Armor	183	EX사자춤고양이보디α	otomo/equip/ot078/body
 1	Armor	184	EX우주고양이슈트α	otomo/equip/ot079/body
@@ -313,7 +313,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	189	HARDUMMY	otomo/equip/ot081/body
 1	Armor	190	EX흔들흔들고양이항아리α	otomo/equip/ot082/body
 1	Armor	191	레더고양이헤드	otomo/equip/ot000/body
-1	Armor	192	레더고양이헤드	otomo/equip/ot000/body
+1	Armor	192	EX오르무고양이메일α	otomo/equip/ot083/body
 1	Armor	193	레더고양이헤드	otomo/equip/ot000/body
 1	Armor	194	레더고양이헤드	otomo/equip/ot000/body
 1	Armor	195	EX마에스트로고양이슈트α	otomo/equip/ot085/body

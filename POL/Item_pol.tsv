@@ -1401,13 +1401,13 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 1399	Płatkoskała Shar Ishvalda	Material	10	B. rzadki materiał z Shar Ishvalda.Uzyskiwany jako rzadka zdobycz.Służy do wyrobu wyposażenia.
 1400	Miękkopazur Shar Ishvalda	Material	10	B. rzadki materiał z Shar Ishvalda.Zdobywany przez połamanie ramionskrzydeł. Często używany w broni.
 1401	Klejnot Shar Ishvalda	Material	11	B. rzadki materiał z Shar Ishvalda.Używany do tworzenia broni takpotężnej, że nie ma sobie równych.
-1402	Unavailable	Item	3	Unavailable
-1403	Unavailable	Item	3	Unavailable
-1404	Unavailable	Item	3	Unavailable
-1405	Unavailable	Item	3	Unavailable
-1406	Unavailable	Item	3	Unavailable
-1407	Unavailable	Item	3	Unavailable
-1408	Unavailable	Item	3	Unavailable
+1402	Pallium z Alatreona	Material	10	Bardzo rzadki materiał z Alatreona.Zdobywany głównie w nagrodę.Właściciel otrzymuje łaskę niebios.
+1403	Opończa Alatreona	Material	10	Bardzo rzadki materiał z Alatreona.Zdobywany głównie przez wycięcie.Podobno zawiera wszystkie żywioły.
+1404	Wyrwiszpon Alatreona	Material	10	Bardzo rzadki materiał z Alatreona.Promieniuje czystą wrogością,sprowadzając wyłącznie złe myśli.
+1405	Złoskrzydło Alatreona	Material	10	Bardzo rzadki materiał z Alatreona.Podobno może przedzierać się przezmaterię przestrzeni, czasu i świata.
+1406	Złogon z Alatreona	Material	10	Bardzo rzadki materiał z Alatreona.Wycinany z oderwanego ogona.Wydaje się nierzeczywisty.
+1407	Nieboryt	Material	10	Bardzo rzadki materiał z Alatreona.Najokazalsze skręcone rogi,jakie kiedykolwiek widziano.
+1408	Lazurowy Smokafir	Material	11	Bardzo rzadki materiał z Alatreona.Zdobycie tego pięknego klejnotuzwiastuje koniec świata.
 1409	Prastary kamień mocy	Material	8	Klejnot kryjący w sobiepradawną moc.<STYL MOJI_YELLOW_DEFAULT>(przedmiot do wyceny)</STYL>
 1410	Rzeźbiony kamień mocy	Material	9	Klejnot kryjący w sobieogromną moc.<STYL MOJI_YELLOW_DEFAULT>(przedmiot do wyceny)</STYL>
 1411	Zapieczętowany kamień mocy	Material	10	Klejnot kryjący w sobieprzytłaczającą moc.<STYL MOJI_YELLOW_DEFAULT>(przedmiot do wyceny)</STYL>
@@ -2362,7 +2362,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2360	Tales Spun through Song	Room Decoration	3	Monster Hunter World: Iceborne– Motyw tła
 2361	Saudade	Room Decoration	3	Współpraca z Raccoon CityMotyw końcowy
 2362	Save Room	Room Decoration	3	Współpraca z Raccoon CityMotyw pokoju zapisuOdgrywany raz po wejściu do pokoju
-2363	Black Impact	Room Decoration	3	Współpraca z Raccoon CityMotyw walki z tyranem
+2363	Black Impact	Room Decoration	3	Współpraca z Raccoon CityMotyw bitwy z tyranem
 2364	A Day in the Town	Room Decoration	3	Monster Hunter– Motyw Minegarde
 2365	Bustlin' Dundorma	Room Decoration	3	Monster Hunter 2– Motyw Dundorma
 2366	Great Desert Outpost, Loc Lac	Room Decoration	3	Monster Hunter 3– Motyw Loc Lac
@@ -2416,29 +2416,29 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2414	Ozdobne drzewko	Room Decoration	3	Ozdobne gałęzie odznaczające sięenergią i urokiem.(Dekoracja Radości)
 2415	Ozdoba kwiatowa (mała)	Room Decoration	3	Wspaniałe czerwone kwiatyw małym wazonie.
 2416	Ozdoba kwiatowa (duża)	Room Decoration	3	Wspaniałe czerwone kwiatyw dużym wazonie.
-2417	Unavailable	Item	3	Unavailable
+2417	Rośliny tropikalne	Room Decoration	3	Rośliny doniczkowe przywiezionez ciepłych regionów.(Dekoracja na Św. Skwier. Przyprawy)
 2418	Unavailable	Item	3	Unavailable
 2419	Model statku Piątej Floty	Room Decoration	3	Szczegółowy model statkuPiątej Floty.
 2420	Model zmodyfikowanego statku	Room Decoration	3	Model statku zmodyfikowanegodo odparcia Zoraha Magdarosa.
 2421	Model Bazy badawczej	Room Decoration	3	Model bazy badawczej.Misternie wykonany przezwybitnego rzemieślnika.
 2422	Model obozu	Room Decoration	3	Model obozu łowców.Misternie wykonany przezwybitnego rzemieślnika.
 2423	Gustowny serwis do herbaty	Room Decoration	3	Serwis do herbaty pełen elegancji.
-2424	Unavailable	Item	3	Unavailable
-2425	Unavailable	Item	3	Unavailable
-2426	Unavailable	Item	3	Unavailable
-2427	Unavailable	Item	3	Unavailable
-2428	Unavailable	Item	3	Unavailable
+2424	Ciemne naczynie	Room Decoration	3	Ciemne naczyniez czerwonymi wzorami(Dekoracja na Św. Skwier. Przyprawy)
+2425	Ziemiste naczynie	Room Decoration	3	Naczynie zdobione wzoramiw kolorach ziemi.(Dekoracja na Św. Skwier. Przyprawy)
+2426	Maska Rathalosa	Room Decoration	3	Maska przypominającapysk Rathalosa.(Dekoracja na Św. Skwier. Przyprawy)
+2427	Maska Rathiany	Room Decoration	3	Maska przypominającapysk Rathiany.(Dekoracja na Św. Skwier. Przyprawy)
+2428	Maska Kulu-Ya-Ku	Room Decoration	3	Maska przypominającapysk Kulu-Ya-Ku.(Dekoracja na Św. Skwier. Przyprawy)
 2429	Unavailable	Item	3	Unavailable
 2430	Balon – felin	Room Decoration	3	Uroczy balon w kształcie felina.(Dekoracja Wielkiej Wdzięczności)
 2431	Balon – Grimalkin (biały)	Room Decoration	3	Uroczy balon w kształcie Grimalkina.(Dekoracja Wielkiej Wdzięczności)
 2432	Balon – Grimalkin (czarny)	Room Decoration	3	Uroczy balon w kształcie Grimalkina.(Dekoracja Wielkiej Wdzięczności)
 2433	Balon – Gajalak	Room Decoration	3	Uroczy balon w kształcie Gajalaka.(Dekoracja Wielkiej Wdzięczności)
-2434	Unavailable	Item	3	Unavailable
-2435	Unavailable	Item	3	Unavailable
-2436	Unavailable	Item	3	Unavailable
+2434	Wieszana maska Rathalosa	Room Decoration	3	Wieszana maska przypominającapysk Rathalosa.(Dekoracja na Św. Skwier. Przyprawy)
+2435	Wieszana maska Rathiany	Room Decoration	3	Wieszana maska przypominającapysk Rathiany.(Dekoracja na Św. Skwier. Przyprawy)
+2436	Wieszana maska Kulu-Ya-Ku	Room Decoration	3	Wieszana maska przypominającapysk Kulu-Ya-Ku.(Dekoracja na Św. Skwier. Przyprawy)
 2437	Portrety koleżkotów 2	Room Decoration	3	Radujące serce obrazyFelinów i Świnki.
 2438	Portrety koleżkotów 3	Room Decoration	3	Portret dwóch koleżkotóww słodkich strojach.
-2439	Unavailable	Item	3	Unavailable
+2439	Portrety koleżkotów 4	Room Decoration	3	Portret przedstawiającyzrelaksowanego koleżkota.
 2440	Szkic na chwilę przerwy	Room Decoration	3	Obraz łowcy szykującego posiłek.Wygląda na to, że apetyczny zapachcoś zwabił!
 2441	Obraz flory ze Starodrzewu	Room Decoration	3	Witalność roślinności Starodrzewuoddana na obrazie.
 2442	Martwa natura z owocami	Room Decoration	3	Martwa natura z pysznymii zdrowymi przekąskami.
@@ -2453,14 +2453,14 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2451	Proste oświetlenie (białe)	Room Decoration	3	Drewniany żyrandol o prostejkonstrukcji. Daje silnebiałe światło.
 2452	Wspaniałe oświetlenie	Room Decoration	3	Wspaniałe oświetlenieze złotymi zdobieniami.
 2453	Żyrandole	Room Decoration	3	Trzy żyrandole z migoczącymiświatłami. Uczta dla oka.
-2454	Unavailable	Item	3	Unavailable
+2454	Świnkolatarnie	Room Decoration	3	Świnkolatarnie dające ciepłeświatło.
 2455	Radosne latarnie	Room Decoration	3	Duże latarnie wypełniającepomieszczenie czerwonym blaskiem.(Dekoracja Radości)
 2456	Oświetlenie z latarni	Room Decoration	3	W powietrzu wiszą liczne latarnie,które rozświetlają pokój.
 2457	Wspaniała półka ścienna (duża)	Room Decoration	3	Półka ścienna ze złotanajwyższej próby.
 2458	Wspaniała półka ścienna (mała)	Room Decoration	3	Półka ścienna ze złotanajwyższej próby.
 2459	Obraz Szronistego Brzegu 2	Room Decoration	3	Obraz przedstawiający pejzażSzronistego Brzegu.
 2460	Mapy Nowego Świata	Room Decoration	3	Mapy Nowego Światai Zaziemia z rozrzuconymi po nichnotatkami.
-2461	Unavailable	Item	3	Unavailable
+2461	Portrety koleżkotów 5	Room Decoration	3	Grupowy portret koleżkotów.(Świnka też tu jest!)
 2462	Unavailable	Item	3	Unavailable
 2463	Sztandar 1. Floty	Room Decoration	3	Sztandar 1. Floty.
 2464	Sztandar 2. Floty	Room Decoration	3	Sztandar 2. Floty.
@@ -2474,7 +2474,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2472	Wspaniałe dywany (parter)	Room Decoration	3	Dywany dające poczucie luksusu.
 2473	Wspaniałe dywany (1. piętro)	Room Decoration	3	Dywany dające poczucie luksusu.
 2474	Papierowa latarnia	Room Decoration	3	Papierowa latarnia słaboświecąca ciepłym blaskiem.(Dekoracja Radości)
-2475	Unavailable	Item	3	Unavailable
+2475	Świnkolampa	Room Decoration	3	Urocza lampaprzypominająca Świnkę.
 2476	Okrągłe papierowe latarnie	Room Decoration	3	Prosta, ale modna lampa.(Dekoracja Wielkiej Wdzięczności)
 2477	Unavailable	Item	3	Unavailable
 2478	Zestaw badawczy	Room Decoration	3	Zbiór narzędzi badawczych używanychw Bazie Badawczej Trzeciej Floty.
@@ -2532,7 +2532,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2530	Radosny półmisek	Room Decoration	3	Specjalny półmisek jedzeniaugotowanego na dużej ilości oleju.(Specjalny półmisek Święta Radości)
 2531	Luksusowy półmisek	Room Decoration	3	Wykwintny półmisek przysmakówze składników najwyższej jakości.(Sp. półmisek Święta Wielkiej Wdzięcz.)
 2532	Półmisek Rozkwitu	Room Decoration	3	Fantastyczne nakrycie ozdobionekwiatowymi motywami.(Półmisek specjalny Święto Rozkwitu)
-2533	Unavailable	Item	3	Unavailable
+2533	Półmisek Skwiercz. Przyprawy	Room Decoration	3	Soczysta, treściwa potrawa, którarozpali Twoje serce!(Spec. półm. Św. Skwier. Przyprawy)
 2534	Figura Tobi-Kadachi	Room Decoration	3	Figura potworaTobi-Kadachi
 2535	Figura Bariotha	Room Decoration	3	Figura potworaBarioth
 2536	Figura Banbaro	Room Decoration	3	Figura potworaBanbaro
@@ -2549,21 +2549,21 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2547	Figura Zinogra	Room Decoration	3	Figura potworaZinogr
 2548	Figura Yian Garuga	Room Decoration	3	Figura potworaYian Garuga
 2549	Figura Wielkiego Girrosa	Room Decoration	3	Figura potworaWielki Girros i Girros
-2550	Unavailable	Item	3	Unavailable
-2551	Unavailable	Item	3	Unavailable
-2552	Unavailable	Item	3	Unavailable
+2550	Figura Tigrexa	Room Decoration	3	Figura potworaTigrex
+2551	Figura Odogarona	Room Decoration	3	Figura potworaOdogaron
+2552	Figura Radobaana	Room Decoration	3	Figura potworaRadobaan
 2553	Figura Namiella	Room Decoration	3	Figura potworaNamiell
 2554	Figura Paolumu	Room Decoration	3	Figura potworaPaolumu
 2555	Figura Tzitzi-Ya-Ku	Room Decoration	3	Figura potworaTzitzi-Ya-Ku
-2556	Unavailable	Item	3	Unavailable
-2557	Unavailable	Item	3	Unavailable
+2556	Figura Rajanga	Room Decoration	3	Figura potworaRajang
+2557	Figura Kirina	Room Decoration	3	Figura potworaKirin
 2558	Unavailable	Item	3	Unavailable
-2559	Unavailable	Item	3	Unavailable
-2560	Unavailable	Item	3	Unavailable
-2561	Unavailable	Item	3	Unavailable
-2562	Unavailable	Item	3	Unavailable
+2559	Figura Vaal Hazaka	Room Decoration	3	Figura potworaVaal Hazak
+2560	Figura Teostry	Room Decoration	3	Figura potworaTeostra
+2561	Figury Gajalaków	Room Decoration	3	Figura potworaGajalaka
+2562	Figura Brachydiosa	Room Decoration	3	Figura potworaBrachydios
 2563	Unavailable	Item	3	Unavailable
-2564	Unavailable	Item	3	Unavailable
+2564	Figura Lavasiotha	Room Decoration	3	Figura potworaLavasioth
 2565	Figura Wielkiej Wdzięczności	Room Decoration	3	Figura dwóch przerażającozbliżonych potworów.(Dekoracja Wielkiej Wdzięczności)
 2566	Marmurowa ściana (biała)	Room Decoration	3	Unavailable
 2567	Marmurowa podłoga (biała)	Room Decoration	3	Unavailable
@@ -2579,11 +2579,11 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2577	Maszyna do pisania	Room Decoration	3	Maszyna do pisania opowieścio mroku i ocaleniu.<STYL MOJI_RED_DEFAULT>Współpraca z Raccoon City</STYL>
 2578	Skrzynka na przedmioty	Room Decoration	3	Przydatna skrzynka na nadmiaroweprzedmioty.<STYL MOJI_RED_DEFAULT>Współpraca z Raccoon City</STYL>
 2579	Unavailable	Item	3	Unavailable
-2580	Unavailable	Item	3	Unavailable
+2580	Złota Świnka	Room Decoration	3	Złoty, lśniący posążek Świnki.
 2581	Radosny bałwan	Room Decoration	3	Podświetlany bałwan, którywygląda w miarę normalnie, ale...(Dekoracja Radości)
 2582	Dziękczynny bałwan	Room Decoration	3	Ciekawy niebieski bałwanz przyczepionym tajemniczym dyskiem.(Dekoracja Wielkiej Wdzięczności)
 2583	Kwitnący bałwan	Room Decoration	3	Bałwan z kęp kwiatów.(Ozdoba na Święto Rozkwitu)
-2584	Unavailable	Item	3	Unavailable
+2584	Skwierczący bałwan	Room Decoration	3	Wesoły bałwan w masce.(Dekoracja na Św. Skwier. Przyprawy)
 2585	Unavailable	Item	3	Unavailable
 2586	Podniebne latarnie	Room Decoration	3	Światełka unoszące sięciekawie w powietrzu.(Dekoracja Wielkiej Wdzięczności)
 2587	Wspaniała flaga	Room Decoration	3	Wspaniale wykonana flaga dekoracyjna.
@@ -2592,12 +2592,12 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2590	Płaskorzeźba	Room Decoration	3	Płaskorzeźba Rathalosa z brązu.
 2591	Obraz Admirała	Room Decoration	3	Obraz przedstawiającykrzepkiego Admirała.
 2592	Wspaniała ozdoba ścienna	Room Decoration	3	Biała ozdoba ścienna upiększonazłotym wzorem.
-2593	Unavailable	Item	3	Unavailable
-2594	Unavailable	Item	3	Unavailable
+2593	Portrety koleżkotów 6	Room Decoration	3	Grupowy portret koleżkotów.
+2594	Obraz Świnki 2	Room Decoration	3	Obraz przedstawiający eleganckąŚwinkę w wolnym czasie.
 2595	Mistrzowskie szkice	Room Decoration	3	Niezrównane rysunki dwóch słynnychtwórców. Oficjalne dzieła!(Dekoracja Wielkiej Wdzięczności)
 2596	Wystawne dywany (parter)	Room Decoration	3	Wystawne dywany ozdobionepłatkami kwiatów.(Ozdoba na Święto Rozkwitu)
 2597	Wystawne dywany (1. piętro)	Room Decoration	3	Wystawne dywany ozdobionepłatkami kwiatów.(Ozdoba na Święto Rozkwitu)
-2598	Unavailable	Item	3	Unavailable
+2598	Ozdoba Pukei-Pukei	Room Decoration	3	Ogromna ozdoba Pukei-Pukei.
 2599	Unavailable	Item	3	Unavailable
 2600	Figura Jyuratodusa	Room Decoration	3	Figura potworaJyuratodus
 2601	Figura Barrotha	Room Decoration	3	Figura potworaBarroth
@@ -2605,7 +2605,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2603	Figura Safi'jiiva	Room Decoration	3	Figura potworaSafi'jiiv
 2604	Figura Xeno'jiiva	Room Decoration	3	Figura potworaXeno'jiiv
 2605	Figury Wulgów	Room Decoration	3	Figura potworaWulg
-2606	Unavailable	Item	3	Unavailable
+2606	Figury roślinożerców	Room Decoration	3	Figura potworaAptonoth i Derkacze puchate
 2607	Unavailable	Item	3	Unavailable
 2608	Unavailable	Item	3	Unavailable
 2609	Unavailable	Item	3	Unavailable
@@ -2616,31 +2616,31 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2614	The Bustling Heart of the Snowy Village (MH Swing)	Room Decoration	3	Motyw Monster Hunter Portable 2nd PokkeVillage Hub - aranżacjaMonster Hunter Swing
 2615	Scat Cat Fever (MH Swing)	Room Decoration	3	Motyw areny Monster Hunter -aranżacjaMonster Hunter Swing
 2616	In Search of Hidden Springs (MH Swing)	Room Decoration	3	Motyw Monster Hunter Portable 3rdYukumo Village - aranżacjaMonster Hunter Swing
-2617	Unavailable	Item	3	Unavailable
-2618	Unavailable	Item	3	Unavailable
-2619	Unavailable	Item	3	Unavailable
-2620	Unavailable	Item	3	Unavailable
-2621	Unavailable	Item	3	Unavailable
-2622	Unavailable	Item	3	Unavailable
-2623	Unavailable	Item	3	Unavailable
-2624	Unavailable	Item	3	Unavailable
+2617	Scat Cat Fever	Room Decoration	3	Monster Hunter– Muzyka z Areny
+2618	Felyne Soup Strategy!	Room Decoration	3	Monster Hunter 2– Muzyka z Areny
+2619	Chime from a Shimmering Bell - Alatreon: World version	Room Decoration	3	Motyw bitwy z AlatreonemMonster Hunter World: Iceborne
+2620	A Day on Pokke Farm (MH The Jazz)	Room Decoration	3	Muzyka z Monster Hunter Portable 2ndPokke Farm w aranżacjiMonster Hunter The Jazz
+2621	Felynes of Yukumo Farm (MH The Jazz)	Room Decoration	3	Muzyka z Monster Hunter Portable 3rdYukumo Farm w aranżacjiMonster Hunter The Jazz
+2622	The Hunters' Secret Spring (MH The Jazz)	Room Decoration	3	Muzyka z Monster Hunter Portable 3rdCentrum Zgromadzeń w aranżacjiMonster Hunter The Jazz
+2623	Winds of Adventure (MH The Jazz)	Room Decoration	3	Motyw przewodni z Monster Hunter 4Ultimate w aranżacjiMonster Hunter The Jazz
+2624	Proof of a Hero (MH The Jazz)	Room Decoration	3	Motyw z serii Monster Hunterw aranżacjiMonster Hunter The Jazz
 2625	Unavailable	Item	3	Unavailable
 2626	Unavailable	Item	3	Unavailable
 2627	Unavailable	Item	3	Unavailable
-2628	Unavailable	Item	3	Unavailable
-2629	Unavailable	Item	3	Unavailable
-2630	Unavailable	Item	3	Unavailable
-2631	Unavailable	Item	3	Unavailable
-2632	Unavailable	Item	3	Unavailable
-2633	Unavailable	Item	3	Unavailable
-2634	Unavailable	Item	3	Unavailable
-2635	Unavailable	Item	3	Unavailable
-2636	Unavailable	Item	3	Unavailable
-2637	Unavailable	Item	3	Unavailable
-2638	Unavailable	Item	3	Unavailable
-2639	Unavailable	Item	3	Unavailable
+2628	Uczta Boaboa	Room Decoration	3	Półmisek nawiązujący dotradycyjnej uczty Boaboa.
+2629	Rzeźba Popo	Room Decoration	3	Prosta rzeźbaprzedstawiająca Popo.
+2630	Tratwa Boaboa	Room Decoration	3	Ozdoba przedstawiającaBoaboa na tratwie.
+2631	Przyjazny dar	Room Decoration	3	Prezent pełnywdzięczności.
+2632	Pluszak: Zielony Pukei-Pukei	Room Decoration	3	Kolorowa wypchana lalkaprzedstawiająca Pukei-Pukei.
+2633	Pluszak: Koralowy Pukei-Pukei	Room Decoration	3	Kolorowa wypchana lalkaKoralowego Pukei-Pukei.
+2634	Portrety koleżkotów 7	Room Decoration	3	Portret koleżkota złożonyz różnych kawałków.
+2635	Portret Pukei-Pukei	Room Decoration	3	Kolorowy portret Pukei-Pukeiwykonany osobliwą techniką.
+2636	Chata Boaboa	Room Decoration	3	Model siedliska Boaboa.
+2637	Posągi felinów	Room Decoration	3	Trzy posągi felinów.
+2638	Gliniane rzeźby Grimalkinów	Room Decoration	3	Posąg wykonanyz gliny przez Grimalkiny.
+2639	Rzeźby Popo	Room Decoration	3	Wyrzeźbiona głowa Popo.
 2640	Unavailable	Item	3	Unavailable
-2641	Unavailable	Item	3	Unavailable
+2641	Sprzęt Boaboa	Room Decoration	3	Dekoracja przypominającasprzęt Boaboa.
 2642	Unavailable	Item	3	Unavailable
 2643	Unavailable	Item	3	Unavailable
 2644	Unavailable	Item	3	Unavailable
@@ -2681,7 +2681,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2679	Kwit z Namiellem	Material	11	Kwit z Namiellem, mistrzem potoku.Możesz wymienić go u Kowala,aby stworzyć nowy sprzęt.
 2680	Unavailable	Item	3	Unavailable
 2681	Unavailable	Item	3	Unavailable
-2682	Unavailable	Item	3	Unavailable
+2682	Kwit Mrozokła	Material	10	Dowód upolowania zahartowanegoBariotha Mrozokła. Wymień go naniespodziankę w Kuźni!
 2683	Zielone zioło	Item	1	Zielone zioło rosnące lokalnie wGórach Arklay. Przywraca zdrowiei leczy z zombifikacji. <STYL MOJI_YELLOW_DEFAULT>(Tylko do zadania)</STYL>.
 2684	Czerwone zioło	Item	1	Czerwone zioło rosnące lokalnie wGórach Arklay. Pojedynczonieprzydatne. <STYL MOJI_YELLOW_DEFAULT>(Tylko do zadania)</STYL>.
 2685	Zmieszane zioło (ziel.+czer.)	Item	2	Mieszanka 2 różnych ziółleczy całkowicie z obrażeń izombifikacji. <STYL MOJI_YELLOW_DEFAULT>(Tylko do zadania)</STYL>.
@@ -2700,9 +2700,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2698	Duży drakolit	Material	9	W środku tkwi duża ilość energiiziemi. W połączeniu ze specjalnymimateriałami budzi ukryte moce.
 2699	Sztywny drakolit	Material	10	W środku tkwi wielka ilość energiiziemi. W połączeniu ze specjalnymimateriałami budzi ukryte moce.
 2700	Czysty drakolit	Material	11	W środku tkwi ogromna ilość energiiziemi. W połączeniu ze specjalnymimateriałami budzi ukryte moce.
-2701	Unavailable	Item	3	Unavailable
-2702	Unavailable	Item	3	Unavailable
-2703	Unavailable	Item	3	Unavailable
+2701	Srebrnośnieżna skórka	Material	10	Bardzo rzadki materiał z BariothaMrozokła. Uzyskiwany główniew nagrodę. Ma b. wiele zastosowań.
+2702	Szpon miażdżyciela gór	Material	10	B. rzadki mat. z Bariotha Mrozokła.Zdobyw. w nagrodę i przez wycięcie.Ostry, często używany w broni.
+2703	Srebrnośnieżny Kieł Mrozu	Material	10	B. rzadki mat. z Bariotha Mrozokła.Zdobywany przez rozbicie mu głowy.Ostry, często używany w broni.
 2704	Plany Czarnego Orła	Material	9	Plany pozostawione przez CzarnegoOrła, łowcę z obsesją na punkciesmoków. Pokaż je Kowalowi i patrz!
 2705	Sagan pełzacza	Material	8	Lynianie stworzyli ten sagan dlapełzaczy, stąd jego nazwa. Pokaż goKowalowi i zobacz, co się stanie!
 2706	Odznaka S.T.A.R.S.	Material	11	Odznaka S.T.A.R.S., specjalnegooddziału R.P.D. Można wymienićna unikalne sprzęt i dekoracje.
@@ -2723,21 +2723,21 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2721	Kwit Rozkwitu	Material	8	Kwit za udział w Święcie Rozkwitu.Do wymiany na wyposażeniespecjalne lub przedmioty.
 2722	Kwit ostrzalnika	Material	9	Kwit od Badacza fauny wodnejz różnymi planami ostrzalnika. Pokaż goKowalowi i zobacz, co się stanie!
 2723	Kwit derkacza puchatego II	Material	9	Kwit derkacza puchatego, bardzostarannie narysowany. Pokaż goKowalowi i zobacz, co się stanie!
-2724	Unavailable	Item	3	Unavailable
-2725	Unavailable	Item	3	Unavailable
-2726	Unavailable	Item	3	Unavailable
+2724	Kwit Skwierczącej Przyprawy	Material	8	Kwit za udział w ŚwięcieSkwierczącej Przyprawy. Wymień go nawyposażenie specjalne lub przedmioty.
+2725	Kwit Zająca pilota	Material	9	Kwit dla tych, co pragną zostaćZającem pilotem.Wymień go w Kuźni i...
+2726	Pogodny kwit z Kantyny	Material	9	Kupon na świąteczny napój,na koszt Miauskularnego kucharza!Wymień go w Kuźni i...
 2727	Unavailable	Item	3	Unavailable
 2728	Unavailable	Item	3	Unavailable
 2729	Unavailable	Item	3	Unavailable
 2730	Symbol jedności	Material	9	Dobre wieści od przyjaciół z całegoświata. Mowa w nich o niesamowitychrzeczach. Pokaż go Kowalowi!
 2731	Unavailable	Item	3	Unavailable
-2732	Unavailable	Item	3	Unavailable
+2732	Złoty kwit	Material	9	Kwit z pięknym rysunkiem Złotegomakaka.Wymień go na niespodziankę w Kuźni!
 2733	Duża łza bestii	Account Item	4	Duże, gorzkie łzy ronione przezbestie w pewnych sytuacjach.<STYL MOJI_YELLOW_DEFAULT>(przedmiot przypisany do konta)</STYL>
 2734	Wspaniała skórka	Material	9	Zdobywana przy użyciu opończybandyty. Obiekt pożądania każdegokolekcjonera. <STYL MOJI_YELLOW_DEFAULT>(Na sprzedaż)</STYL>
 2735	Kwit VIP Radości	Material	11	Rzadki kwit zdobywany w ŚwiętoRadości. Może służyć do wyrobupancerzy warstwowych i amuletów.
 2736	Kwit VIP Podzięki	Material	11	Rzadki kwit dostępny w Święto WielkiejWdzięczności. Może służyć do wyrobupancerzy warstwowych i amuletów.
 2737	Kwity VIP Rozkwitu	Material	11	Rzadki kwit zdobywany w ŚwiętoRozkwitu. Może służyć do wyrobupancerzy warstwowych i amuletów.
-2738	Unavailable	Item	3	Unavailable
+2738	Kwit VIP Skwier. Przyprawy	Material	11	Rzadki kwit zdobywany w ŚwiętoSkwierczącej Przyprawy. Do wyrobupancerzy warstwowych i amuletów.
 2739	Unavailable	Item	3	Unavailable
 2740	Przeganiająca kula	Item	8	Traf tym potwora,aby odszedł z Ziem Przewodnich.<STYL MOJI_YELLOW_DEFAULT>Tylko przywódca na Ziemiach Przewodnich.</STYL>
 2741	Unavailable	Item	3	Unavailable
@@ -2761,9 +2761,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2759	Unavailable	Item	3	Unavailable
 2760	Unavailable	Item	3	Unavailable
 2761	Unavailable	Item	3	Unavailable
-2762	Unavailable	Item	3	Unavailable
-2763	Unavailable	Item	3	Unavailable
-2764	Unavailable	Item	3	Unavailable
+2762	Kwit roślinożercy I	Material	9	Kwit przedstawiający stadodzikich Kelbi.Wymień go na niespodziankę w Kuźni!
+2763	Kwit roślinożercy II	Material	9	Kwit przedstawiający stadodzikich Aptonothów.Wymień go na niespodziankę w Kuźni!
+2764	Kwit wewnętrznego oka	Material	10	Kwit przedstawiającywszechwidzącego.Wymień go na niespodziankę w Kuźni!
 2765	Unavailable	Item	3	Unavailable
 2766	Unavailable	Item	3	Unavailable
 2767	Unavailable	Item	3	Unavailable

@@ -1401,13 +1401,13 @@
 1399	天地煌啼龙的散华石	素材	10	天地煌啼龙的大师级素材。容易经由掉落物获得。常用于防具上。
 1400	天地煌啼龙的慈爪	素材	10	天地煌啼龙的大师级素材。容易经由破坏翼腕部位获得。常用于武器上。
 1401	天地煌啼龙的显玉	素材	11	天地煌啼龙的大师级素材。用在装备上的话，据说能制成统御天地的梦幻稀有品。
-1402	Unavailable	物品	3	Unavailable
-1403	Unavailable	物品	3	Unavailable
-1404	Unavailable	物品	3	Unavailable
-1405	Unavailable	物品	3	Unavailable
-1406	Unavailable	物品	3	Unavailable
-1407	Unavailable	物品	3	Unavailable
-1408	Unavailable	物品	3	Unavailable
+1402	煌黑龙的天壳	素材	10	煌黑龙的大师级素材。主要经由报酬获得。据说得到它的人会受到上天眷顾。
+1403	煌黑龙的天鳞	素材	10	煌黑龙的大师级素材。主要经由剥取获得。似乎含有全属性的元素。
+1404	煌黑龙的凶爪	素材	10	煌黑龙的大师级素材。散发着阴暗诡魅的气氛，恐怕只能用穷凶恶极来形容。
+1405	煌黑龙的邪翼	素材	10	煌黑龙的大师级素材。据说其具有撕裂时空、毁天灭地的威能。
+1406	煌黑龙的妖尾	素材	10	煌黑龙的大师级素材。容易经由切断的尾巴获得。 得到的人都会怀疑自己是否身在梦中。
+1407	统天角	素材	10	煌黑龙的大师级素材。头部的角层叠生长所形成的最优质角素材。
+1408	琉璃色的龙神玉	素材	11	煌黑龙的大师级素材。传说一旦有人得到它，就会带来世界末日。
 1409	太古的宝珠	素材	8	秘藏着太古力量的宝珠。<STYL MOJI_YELLOW_DEFAULT>（鉴定道具）</STYL>
 1410	刻印的宝珠	素材	9	秘藏着强大力量的宝珠。<STYL MOJI_YELLOW_DEFAULT>（鉴定道具）</STYL>
 1411	封印的宝珠	素材	10	秘藏着压倒性力量的宝珠。<STYL MOJI_YELLOW_DEFAULT>（鉴定道具）</STYL>
@@ -2416,29 +2416,29 @@
 2414	点缀装饰的盆栽	房间装饰	3	在枝叶点缀热闹装饰的可爱盆栽。【万福之宴　特别家具】
 2415	花饰【小】	房间装饰	3	以艷丽红花点缀的小巧花瓶。【盛放之宴　特别家具】
 2416	花饰【大】	房间装饰	3	以艷丽红花点缀的大型花瓶。【盛放之宴　特别家具】
-2417	Unavailable	物品	3	Unavailable
+2417	热带的盆栽	房间装饰	3	据说生长于温暖地区的植物盆栽。【热情之宴　特别家具】
 2418	Unavailable	物品	3	Unavailable
 2419	模型【第五期团的船】	房间装饰	3	仿照第五期团的船而造的精巧模型。
 2420	模型【改造船】	房间装饰	3	对抗熔山龙的改造船的模型。
 2421	模型【研究基地】	房间装饰	3	熟练工匠亲手仿照研究基地而造的精巧模型。
 2422	模型【营地】	房间装饰	3	熟练工匠亲手仿照营地而造的精巧模型。
 2423	优雅茶具组	房间装饰	3	优雅陶器茶具组。
-2424	Unavailable	物品	3	Unavailable
-2425	Unavailable	物品	3	Unavailable
-2426	Unavailable	物品	3	Unavailable
-2427	Unavailable	物品	3	Unavailable
-2428	Unavailable	物品	3	Unavailable
+2424	壶子【黑】	房间装饰	3	上面画有黑底红色图案的豪华壶子。【热情之宴　特别家具】
+2425	壶子【黄】	房间装饰	3	有黄色装饰的豪华壶子。【热情之宴　特别家具】
+2426	面具【火龙】	房间装饰	3	火龙造型的面具。【热情之宴　特别家具】
+2427	面具【雌火龙】	房间装饰	3	雌火龙造型的面具。【热情之宴　特别家具】
+2428	面具【搔鸟】	房间装饰	3	搔鸟造型的面具。【热情之宴　特别家具】
 2429	Unavailable	物品	3	Unavailable
 2430	艾露猫气球	房间装饰	3	模仿艾露猫造型的可爱垂吊式气球。【大感谢之宴　特别家具】
 2431	德特尔气球·白	房间装饰	3	模仿德特尔造型的可爱垂吊式气球。【大感谢之宴　特别家具】
 2432	德特尔气球·黑	房间装饰	3	模仿德特尔造型的可爱垂吊式气球。【大感谢之宴　特别家具】
 2433	奇面族气球	房间装饰	3	模仿奇面族造型的可爱垂吊式气球。【大感谢之宴　特别家具】
-2434	Unavailable	物品	3	Unavailable
-2435	Unavailable	物品	3	Unavailable
-2436	Unavailable	物品	3	Unavailable
+2434	面具吊饰【火龙】	房间装饰	3	火龙造型的面具吊饰。【热情之宴　特别家具】
+2435	面具吊饰【雌火龙】	房间装饰	3	雌火龙造型的面具吊饰。【热情之宴　特别家具】
+2436	面具吊饰【搔鸟】	房间装饰	3	搔鸟造型的面具吊饰。【热情之宴　特别家具】
 2437	画作【艾露猫2】	房间装饰	3	画有艾露猫和噗吱猪的画作。风格温暖人心。
 2438	画作【艾露猫③】	房间装饰	3	描绘穿戴着不同装备的艾露猫。
-2439	Unavailable	物品	3	Unavailable
+2439	画作【艾露猫④】	房间装饰	3	描绘懒散艾露猫模样的画作。
 2440	画作【狩猎的空闲时光】	房间装饰	3	描绘猎人正在准备狩猎的情景。随着吸引人的味道前来的是···？
 2441	画作【古代树植物】	房间装饰	3	以古代树上盛开的花为主题的图画作品。
 2442	画作【水壶与水果】	房间装饰	3	描绘宁静日常情景的写实风格画作。
@@ -2453,14 +2453,14 @@
 2451	质朴灯具【白】	房间装饰	3	木制的质朴灯具。散发清净的白光照耀着室内。
 2452	豪华的灯具	房间装饰	3	用黄金装饰的豪华灯具。
 2453	吊灯	房间装饰	3	会发出灿亮光源的灯具。
-2454	Unavailable	物品	3	Unavailable
+2454	噗吱猪灯笼	房间装饰	3	透着温暖光线的噗吱猪造型灯笼。
 2455	万福提灯	房间装饰	3	为室内带来些许红色暖光的大型手提灯笼。【万福之宴　特别家具】
 2456	天灯灯具	房间装饰	3	大量天灯飘浮在空中，呈现出梦幻气氛的天灯灯具。
 2457	豪华壁挂墙架【大】	房间装饰	3	奢华地使用黄金原料打造的豪华壁挂墙架。
 2458	豪华壁挂墙架【小】	房间装饰	3	奢华地使用黄金原料打造的豪华壁挂墙架。
 2459	画作【永霜冻土②】	房间装饰	3	描绘永霜冻土的绘画作品。
 2460	大张的地图	房间装饰	3	描绘包含永霜冻土的大张地图。
-2461	Unavailable	物品	3	Unavailable
+2461	画作【艾露猫⑤】	房间装饰	3	画有各种艾露猫图像的壁挂画作。
 2462	Unavailable	物品	3	Unavailable
 2463	团旗【第一期团】	房间装饰	3	代表第一期团的团旗。
 2464	团旗【第二期团】	房间装饰	3	代表第二期团的团旗。
@@ -2474,7 +2474,7 @@
 2472	豪华的地毯（1楼）	房间装饰	3	高雅的豪华地毯。
 2473	豪华的地毯（2楼）	房间装饰	3	高雅的豪华地毯。
 2474	灯笼	房间装饰	3	以温暖光线照亮四周的灯笼。【万福之宴　特别家具】
-2475	Unavailable	物品	3	Unavailable
+2475	噗吱灯	房间装饰	3	仿造可爱噗吱猪打造的灯具。
 2476	立灯①	房间装饰	3	外观质朴、有造型感的立灯。【大感谢之宴　特别家具】
 2477	Unavailable	物品	3	Unavailable
 2478	研究组合	房间装饰	3	研究基地使用的研究用道具组合。
@@ -2532,7 +2532,7 @@
 2530	万福料理组合	房间装饰	3	用油毫不吝啬，以大火烹煮出来的特别料理。【万福之宴　特别料理】
 2531	高级料理拼盘	房间装饰	3	活用高级素材的原味，极尽豪奢之能事的特别料理【大感谢之宴　特别料理】
 2532	盛放料理组合	房间装饰	3	采用高雅精致食材，结合花朵盘饰的特别料理。【盛放之宴　特别料理】
-2533	Unavailable	物品	3	Unavailable
+2533	热情料理组合	房间装饰	3	一吃就暖心，肉类丰富的特别料理。【热情之宴　特别料理】
 2534	模型【飞雷龙】	房间装饰	3	怪物模型飞雷龙
 2535	模型【冰牙龙】	房间装饰	3	怪物模型冰牙龙
 2536	模型【猛牛龙】	房间装饰	3	怪物模型猛牛龙
@@ -2549,21 +2549,21 @@
 2547	模型【雷狼龙】	房间装饰	3	怪物模型雷狼龙
 2548	模型【黑狼鸟】	房间装饰	3	怪物模型黑狼鸟
 2549	模型【大痹贼龙】	房间装饰	3	怪物模型大痹贼龙＆痹贼龙
-2550	Unavailable	物品	3	Unavailable
-2551	Unavailable	物品	3	Unavailable
-2552	Unavailable	物品	3	Unavailable
+2550	模型【轰龙】	房间装饰	3	怪物模型轰龙
+2551	模型【惨爪龙】	房间装饰	3	怪物模型惨爪龙
+2552	模型【骨锤龙】	房间装饰	3	怪物模型骨锤龙
 2553	模型【溟波龙】	房间装饰	3	怪物模型溟波龙
 2554	模型【浮空龙】	房间装饰	3	怪物模型浮空龙
 2555	模型【眩鸟】	房间装饰	3	怪物模型眩鸟
-2556	Unavailable	物品	3	Unavailable
-2557	Unavailable	物品	3	Unavailable
+2556	模型【金狮子】	房间装饰	3	怪物模型金狮子
+2557	模型【幻兽】	房间装饰	3	怪物模型麒麟
 2558	Unavailable	物品	3	Unavailable
-2559	Unavailable	物品	3	Unavailable
-2560	Unavailable	物品	3	Unavailable
-2561	Unavailable	物品	3	Unavailable
-2562	Unavailable	物品	3	Unavailable
+2559	模型【尸套龙】	房间装饰	3	怪物模型尸套龙
+2560	模型【炎王龙】	房间装饰	3	怪物模型炎王龙
+2561	模型【奇面族】	房间装饰	3	怪物模型奇面族
+2562	模型【碎龙】	房间装饰	3	怪物模型碎龙
 2563	Unavailable	物品	3	Unavailable
-2564	Unavailable	物品	3	Unavailable
+2564	模型【熔岩龙】	房间装饰	3	怪物模型熔岩龙
 2565	模型【大感谢】	房间装饰	3	感情和睦的怪物夫妇欢庆诞生的模型。【大感谢之宴　特别家具】
 2566	大理石壁面【白】	房间装饰	3	Unavailable
 2567	大理石砖地板【白】	房间装饰	3	Unavailable
@@ -2579,11 +2579,11 @@
 2577	打字机	房间装饰	3	恐惧、安宁、人生。什么都可以记录的打字机。【浣熊市合作活动】
 2578	置物箱	房间装饰	3	可以保管过剩道具的置物箱。【浣熊市合作活动】
 2579	Unavailable	物品	3	Unavailable
-2580	Unavailable	物品	3	Unavailable
+2580	噗吱猪黄金像	房间装饰	3	闪耀黄金光芒的噗吱猪雕像。
 2581	雪人【万福】	房间装饰	3	拥有标准外观，装饰着热闹灯泡的雪人。【万福之宴　特别家具】
 2582	雪人【大感谢】	房间装饰	3	拥有奇妙蓝色外观，身上带有神秘圆盘的雪人。【大感谢之宴　特别家具】
 2583	雪人【盛放】	房间装饰	3	用花朵装饰的雪人。【盛放之宴　特别家具】
-2584	Unavailable	物品	3	Unavailable
+2584	雪人【热情】	房间装饰	3	戴上面具的爽朗雪人。【热情之宴　特别家具】
 2585	Unavailable	物品	3	Unavailable
 2586	天灯	房间装饰	3	带有梦幻气氛，飘浮在空中的天灯。【大感谢之宴　特别家具】
 2587	豪华的旗帜吊饰	房间装饰	3	加上豪华装饰的旗帜吊饰。
@@ -2592,12 +2592,12 @@
 2590	浮雕	房间装饰	3	描绘了火龙的青铜浮雕。
 2591	绘画【大团长】	房间装饰	3	描绘了大团长的英勇姿态的绘画。
 2592	豪华的壁饰	房间装饰	3	加入豪华设计的白色壁饰。
-2593	Unavailable	物品	3	Unavailable
-2594	Unavailable	物品	3	Unavailable
+2593	画作【艾露猫⑥】	房间装饰	3	画有各种艾露猫图像的壁挂作品。
+2594	画作【噗吱猪②】	房间装饰	3	让人享受优雅时光的噗吱猪画作。
 2595	画作【巨匠们的极品】	房间装饰	3	传说出自某巨匠之手的顶尖杰作。意外地是真品。【大感谢之宴　特别家具】
 2596	华丽的地毯（1楼）	房间装饰	3	落英缤纷的华丽地毯。【盛放之宴　特别家具】
 2597	华丽的地毯（2楼）	房间装饰	3	落英缤纷的华丽地毯。【盛放之宴　特别家具】
-2598	Unavailable	物品	3	Unavailable
+2598	毒妖鸟摆饰	房间装饰	3	仿造毒妖鸟打造，色彩缤纷而热情的装饰品。
 2599	Unavailable	物品	3	Unavailable
 2600	模型【泥鱼龙】	房间装饰	3	怪物模型泥鱼龙
 2601	模型【土砂龙】	房间装饰	3	怪物模型土砂龙
@@ -2605,7 +2605,7 @@
 2603	模型【冥赤龙】	房间装饰	3	怪物模型冥赤龙
 2604	模型【冥灯龙】	房间装饰	3	怪物模型冥灯龙
 2605	模型【冰豺狼】	房间装饰	3	怪物模型冰豺狼
-2606	Unavailable	物品	3	Unavailable
+2606	模型【草食】	房间装饰	3	怪物模型草食龙＆柔毛秧鸡
 2607	Unavailable	物品	3	Unavailable
 2608	Unavailable	物品	3	Unavailable
 2609	Unavailable	物品	3	Unavailable
@@ -2616,31 +2616,31 @@
 2614	The Bustling Heart of the Snowy Village (MH Swing)	房间装饰	3	Monster Hunter Portable 2nd PokkeVillage Hub 背景曲 - ArrangementMonster Hunter Swing
 2615	Scat Cat Fever (MH Swing)	房间装饰	3	Monster Hunter 斗技场背景曲 -ArrangementMonster Hunter Swing
 2616	In Search of Hidden Springs (MH Swing)	房间装饰	3	Monster Hunter Portable 3rdYukumo Village 背景曲 - ArrangementMonster Hunter Swing
-2617	Unavailable	物品	3	Unavailable
-2618	Unavailable	物品	3	Unavailable
-2619	Unavailable	物品	3	Unavailable
-2620	Unavailable	物品	3	Unavailable
-2621	Unavailable	物品	3	Unavailable
-2622	Unavailable	物品	3	Unavailable
-2623	Unavailable	物品	3	Unavailable
-2624	Unavailable	物品	3	Unavailable
+2617	Scat Cat Fever	房间装饰	3	Monster Hunter斗技场背景曲
+2618	Felyne Soup Strategy!	房间装饰	3	Monster Hunter 2斗技场背景曲
+2619	Chime from a Shimmering Bell - Alatreon: World version	房间装饰	3	Monster Hunter World: Iceborne煌黑龙战斗乐曲
+2620	A Day on Pokke Farm (MH The Jazz)	房间装饰	3	Monster Hunter Portable 2ndPokke Farm 背景曲Arranged Monster Hunter The Jazz
+2621	Felynes of Yukumo Farm (MH The Jazz)	房间装饰	3	Monster Hunter Portable 3rdYukumo Farm 背景曲Arranged Monster Hunter The Jazz
+2622	The Hunters' Secret Spring (MH The Jazz)	房间装饰	3	Monster Hunter Portable 3rdGathering Hub 背景曲Arranged Monster Hunter The Jazz
+2623	Winds of Adventure (MH The Jazz)	房间装饰	3	Monster Hunter 4 UltimateMain Theme ArrangedMonster Hunter The Jazz
+2624	Proof of a Hero (MH The Jazz)	房间装饰	3	Monster HunterSeries Theme ArrangedMonster Hunter The Jazz
 2625	Unavailable	物品	3	Unavailable
 2626	Unavailable	物品	3	Unavailable
 2627	Unavailable	物品	3	Unavailable
-2628	Unavailable	物品	3	Unavailable
-2629	Unavailable	物品	3	Unavailable
-2630	Unavailable	物品	3	Unavailable
-2631	Unavailable	物品	3	Unavailable
-2632	Unavailable	物品	3	Unavailable
-2633	Unavailable	物品	3	Unavailable
-2634	Unavailable	物品	3	Unavailable
-2635	Unavailable	物品	3	Unavailable
-2636	Unavailable	物品	3	Unavailable
-2637	Unavailable	物品	3	Unavailable
-2638	Unavailable	物品	3	Unavailable
-2639	Unavailable	物品	3	Unavailable
+2628	兽缠族的佳肴	房间装饰	3	重现兽缠族餐点的料理。
+2629	波波陶土烧	房间装饰	3	古朴的波波造型陶土制品。
+2630	兽缠族的竹筏	房间装饰	3	兽缠族乘坐竹筏的造型摆饰。
+2631	友好的献礼	房间装饰	3	充满感谢之意的礼物。
+2632	妖鸟玩偶【绿】	房间装饰	3	色彩缤纷的毒妖鸟玩偶。
+2633	妖鸟玩偶【橙】	房间装饰	3	色彩缤纷的水妖鸟玩偶。
+2634	画作【艾露猫⑦】	房间装饰	3	利用各种磁砖的艾露猫图像作品。
+2635	画作【毒妖鸟】	房间装饰	3	使用独特的手法创造，色彩缤纷的毒妖鸟画作。
+2636	兽缠族的宅邸	房间装饰	3	仿造兽缠族住处打造的装饰品。
+2637	猫的石像	房间装饰	3	呈现猫造型的石像。
+2638	德特尔的泥玩偶	房间装饰	3	德特尔所打造的泥制塑像。
+2639	波波陶土烧【群像】	房间装饰	3	呈现出波波群体样貌的陶土烧。
 2640	Unavailable	物品	3	Unavailable
-2641	Unavailable	物品	3	Unavailable
+2641	兽缠族的装备	房间装饰	3	模仿兽缠族装备的造型摆饰。
 2642	Unavailable	物品	3	Unavailable
 2643	Unavailable	物品	3	Unavailable
 2644	Unavailable	物品	3	Unavailable
@@ -2681,7 +2681,7 @@
 2679	溟波龙票	素材	11	上面画着产生浊流的溟波龙票券。交给加工屋后，他们会制作别有风味的防具。
 2680	Unavailable	物品	3	Unavailable
 2681	Unavailable	物品	3	Unavailable
-2682	Unavailable	物品	3	Unavailable
+2682	冰牙龙票	素材	10	这是狩猎了霜刃冰牙龙历战个体的象征。交给加工屋就会有好事发生！？
 2683	绿色药草	物品	1	阿克雷山区原生的绿色药草，可以治愈丧尸状态以及回复少量体力。<STYL MOJI_YELLOW_DEFAULT>（任务专用）</STYL>
 2684	红色药草	物品	1	阿克雷山区原生的红色药草，无法直接使用。<STYL MOJI_YELLOW_DEFAULT>（任务专用）</STYL>
 2685	混合药草（绿 + 红）	物品	2	透过混合2种不同的药草所制成，可以治愈丧尸状态以及完全回复体力。<STYL MOJI_YELLOW_DEFAULT>（任务专用）</STYL>
@@ -2700,9 +2700,9 @@
 2698	大龙光石	素材	9	含有大量地脉能量的素材。遇到特殊素材会产生共鸣，唤醒隐藏其中的力量。
 2699	刚龙光石	素材	10	含有相当大量地脉能量的素材。遇到特殊素材会产生共鸣，唤醒隐藏其中的力量。
 2700	真龙光石	素材	11	含有极为强大地脉能量的素材。遇到特殊素材会产生共鸣，唤醒隐藏其中的力量。
-2701	Unavailable	物品	3	Unavailable
-2702	Unavailable	物品	3	Unavailable
-2703	Unavailable	物品	3	Unavailable
+2701	银白霜雪之毛皮	素材	10	霜刃冰牙龙的大师级素材。主要经由报酬获得。泛用性高、用途广泛。
+2702	粉碎冰川之剑爪	素材	10	霜刃冰牙龙的大师级素材。主要经由报酬或剥取获得。材质锐利，常用于武器上。
+2703	白银之冰刃牙	素材	10	冰牙龙的大师级素材。容易经由破坏头部部位获得。材质尖锐，常用于武器上。
 2704	黑鹰的设计图	素材	9	一直为了追上某古龙而徘徊全世界的猎人【黑鹰】所留下的设计图。交给加工屋后，会……！？
 2705	摇曳鳗壶	素材	8	兽人族制作的壶。因为有时候摇曳鳗会入住，所以被称呼为摇曳鳗壶。交给加工屋后，会……！？
 2706	S.T.A.R.S. 徽章	素材	11	浣熊市警局特种部队「S.T.A.R.S.」的特殊徽章。可以用来交换特别的装备或家具。
@@ -2723,21 +2723,21 @@
 2721	盛放票	素材	8	只要参加月辰祭【盛放之宴】就能获得此票券。可交换特别的装备或道具。
 2722	磨刀鲹鱼票	素材	9	来自孤高的鱼类调查员，上面印有大大小小的磨刀鲹鱼鱼拓，交给加工屋就会……！？
 2723	松软票2	素材	9	上面画有柔毛秧鸡成长过程的票券，象征对于研究对象满满的爱。交给加工屋就会……！？
-2724	Unavailable	物品	3	Unavailable
-2725	Unavailable	物品	3	Unavailable
-2726	Unavailable	物品	3	Unavailable
+2724	热情票	素材	8	参加月辰祭【热情之宴】可获得之票券。可以用来交换特别的装备或道具。
+2725	向导兔票	素材	9	梦幻的票券，可实现猎人「想变成向导兔」的愿望。交给加工屋就会…！？
+2726	用餐地区票【酒】	素材	9	料理长送来了祝贺的好酒！喝起来畅快爽口，但小心不要过量！若将其交给加工屋的话…！？
 2727	Unavailable	物品	3	Unavailable
 2728	Unavailable	物品	3	Unavailable
 2729	Unavailable	物品	3	Unavailable
 2730	好友之证	素材	9	游历世界各国的朋友寄来的近况问候。内容彷佛异世界的冒险奇谈。交给加工屋会…！？
 2731	Unavailable	物品	3	Unavailable
-2732	Unavailable	物品	3	Unavailable
+2732	温泉金票	素材	9	描绘了梦幻生物温泉金猴的票券。细腻到一根根的毛发都清晰可见。交给加工屋就会有好事发生！？
 2733	大颗的牙兽泪	换算道具	4	兽类只有在特殊的行动时才会流下的大颗贵重眼泪。<STYL MOJI_YELLOW_DEFAULT>（结算道具）</STYL>
 2734	美好的毛皮	素材	9	利用盗掠衣装获得的素材。 收藏家垂涎欲滴的顶级品。<STYL MOJI_YELLOW_DEFAULT>（换金道具）</STYL>
 2735	特別万福票	素材	11	参加月辰祭【万福之宴】期间难得入手的票券。可生产外观装备或异色饰物。
 2736	特別大感谢票	素材	11	参加月辰祭【大感谢之宴】期间难得入手的票券。可生产外观装备或异色饰物。
 2737	特别盛放票	素材	11	参加月辰祭【盛放之宴】期间难得入手的票券，可生产外观装备或异色饰物。
-2738	Unavailable	物品	3	Unavailable
+2738	特別热情票	素材	11	参加月辰祭【热情之宴】期间难得入手的票券。可生产外观装备或不同颜色的饰物。
 2739	Unavailable	物品	3	Unavailable
 2740	撤退弹	物品	8	令大型怪物从聚魔之地撤退的道具。<STYL MOJI_YELLOW_DEFAULT>于聚魔之地进行探索时，仅限由队长使用。</STYL>
 2741	Unavailable	物品	3	Unavailable
@@ -2761,9 +2761,9 @@
 2759	Unavailable	物品	3	Unavailable
 2760	Unavailable	物品	3	Unavailable
 2761	Unavailable	物品	3	Unavailable
-2762	Unavailable	物品	3	Unavailable
-2763	Unavailable	物品	3	Unavailable
-2764	Unavailable	物品	3	Unavailable
+2762	草食票1	素材	9	细腻描绘了精灵鹿悠游于大自然样貌的票券。交给加工屋就会有好事发生！？
+2763	草食票2	素材	9	壮阔地描绘了草食龙悠游于大自然样貌的票券。交给加工屋就会有好事发生！？
+2764	三眼票	素材	10	献给能够看穿真实之人的票券。交给加工屋就会有好事发生！？
 2765	Unavailable	物品	3	Unavailable
 2766	Unavailable	物品	3	Unavailable
 2767	Unavailable	物品	3	Unavailable

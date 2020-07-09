@@ -119,7 +119,7 @@
 0	头盔	157	精英·激昂猫头阿尔法	otomo/equip/ot071/helm
 0	头盔	158	精英·爆碎猫拳击护头阿尔法	otomo/equip/ot070/helm
 0	头盔	159	精英·赤龙猫封冠阿尔法	otomo/equip/ot067/helm
-0	头盔	160	皮制猫头饰	otomo/equip/ot000/helm
+0	头盔	160	精英·煌黑龙猫智慧阿尔法	otomo/equip/ot068/helm
 0	头盔	161	精英·伊莉萨猫王冠阿尔法	otomo/equip/ot034/helm
 0	头盔	162	精英·绚辉龙猫毛皮阿尔法	otomo/equip/ot025/helm
 0	头盔	163	精英·洛克人头饰阿尔法	otomo/equip/ot035/helm
@@ -128,7 +128,7 @@
 0	头盔	166	HARDUMMY	otomo/equip/ot036/helm
 0	头盔	167	精英·武者猫头盔阿尔法	otomo/equip/ot039/helm
 0	头盔	168	精英·燕尾蝶猫头饰阿尔法	otomo/equip/ot040/helm
-0	头盔	169	皮制猫头饰	otomo/equip/ot000/helm
+0	头盔	169	精英·阿罗哈猫草帽阿尔法	otomo/equip/ot041/helm
 0	头盔	170	皮制猫头饰	otomo/equip/ot000/helm
 0	头盔	171	精英·雪猫头饰阿尔法	otomo/equip/ot043/helm
 0	头盔	172	精英·巨星猫头饰阿尔法	otomo/equip/ot044/helm
@@ -140,7 +140,7 @@
 0	头盔	178	精英·异国猫头纱阿尔法	otomo/equip/ot024/helm
 0	头盔	179	精英·公会猫帽阿尔法	otomo/equip/ot063/helm
 0	头盔	180	精英·蔷薇猫头饰阿尔法	otomo/equip/ot075/helm
-0	头盔	181	皮制猫头饰	otomo/equip/ot000/helm
+0	头盔	181	精英·毒妖鸟玩偶猫头饰阿尔法	otomo/equip/ot076/helm
 0	头盔	182	皮制猫头饰	otomo/equip/ot000/helm
 0	头盔	183	精英·狮子舞猫头饰阿尔法	otomo/equip/ot078/helm
 0	头盔	184	精英·宇宙猫面具阿尔法	otomo/equip/ot079/helm
@@ -151,7 +151,7 @@
 0	头盔	189	HARDUMMY	otomo/equip/ot081/helm
 0	头盔	190	精英·摇曳鳗头套阿尔法	otomo/equip/ot082/helm
 0	头盔	191	皮制猫头饰	otomo/equip/ot000/helm
-0	头盔	192	皮制猫头饰	otomo/equip/ot000/helm
+0	头盔	192	精英·霜刃冰牙猫头盔阿尔法	otomo/equip/ot083/helm
 0	头盔	193	皮制猫头饰	otomo/equip/ot000/helm
 0	头盔	194	皮制猫头饰	otomo/equip/ot000/helm
 0	头盔	195	精英·巨匠猫发饰阿尔法	otomo/equip/ot085/helm
@@ -281,7 +281,7 @@
 1	铠甲	157	精英·齐天猫上装阿尔法	otomo/equip/ot071/body
 1	铠甲	158	精英·爆碎猫拳击装阿尔法	otomo/equip/ot070/body
 1	铠甲	159	精英·赤龙猫封鎧阿尔法	otomo/equip/ot067/body
-1	铠甲	160	皮制猫头饰	otomo/equip/ot000/body
+1	铠甲	160	精英·煌黑龙猫灵魂阿尔法	otomo/equip/ot068/body
 1	铠甲	161	精英·伊莉萨猫胴铠阿尔法	otomo/equip/ot034/body
 1	铠甲	162	精英·绚辉龙猫服装阿尔法	otomo/equip/ot025/body
 1	铠甲	163	精英·洛克人身体阿尔法	otomo/equip/ot035/body
@@ -290,7 +290,7 @@
 1	铠甲	166	HARDUMMY	otomo/equip/ot036/body
 1	铠甲	167	精英·武者猫鎧甲阿尔法	otomo/equip/ot039/body
 1	铠甲	168	精英·燕尾蝶猫服饰阿尔法	otomo/equip/ot040/body
-1	铠甲	169	皮制猫头饰	otomo/equip/ot000/body
+1	铠甲	169	精英·阿罗哈猫阿罗哈阿尔法	otomo/equip/ot041/body
 1	铠甲	170	皮制猫头饰	otomo/equip/ot000/body
 1	铠甲	171	精英·雪猫身体阿尔法	otomo/equip/ot043/body
 1	铠甲	172	精英·巨星猫服装阿尔法	otomo/equip/ot044/body
@@ -302,7 +302,7 @@
 1	铠甲	178	精英·异国猫礼服阿尔法	otomo/equip/ot024/body
 1	铠甲	179	精英·公会猫风衣阿尔法	otomo/equip/ot063/body
 1	铠甲	180	精英·蔷薇猫礼服阿尔法	otomo/equip/ot075/body
-1	铠甲	181	皮制猫头饰	otomo/equip/ot000/body
+1	铠甲	181	精英·毒妖鸟玩偶猫身体阿尔法	otomo/equip/ot076/body
 1	铠甲	182	皮制猫头饰	otomo/equip/ot000/body
 1	铠甲	183	精英·狮子舞猫身体阿尔法	otomo/equip/ot078/body
 1	铠甲	184	精英·宇宙猫服装阿尔法	otomo/equip/ot079/body
@@ -313,7 +313,7 @@
 1	铠甲	189	HARDUMMY	otomo/equip/ot081/body
 1	铠甲	190	精英·摇曳猫壶阿尔法	otomo/equip/ot082/body
 1	铠甲	191	皮制猫头饰	otomo/equip/ot000/body
-1	铠甲	192	皮制猫头饰	otomo/equip/ot000/body
+1	铠甲	192	精英·霜刃冰牙猫鎧甲阿尔法	otomo/equip/ot083/body
 1	铠甲	193	皮制猫头饰	otomo/equip/ot000/body
 1	铠甲	194	皮制猫头饰	otomo/equip/ot000/body
 1	铠甲	195	精英·巨匠猫服装阿尔法	otomo/equip/ot085/body

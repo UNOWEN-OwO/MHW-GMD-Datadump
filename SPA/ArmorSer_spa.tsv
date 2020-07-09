@@ -324,9 +324,9 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 322	Kestodon	pl005_0000
 323	Gajau	pl006_0000
 324	Unavailable	pl095_0000
-325	Unavailable	None
+325	Macaco termáureo	pl113_0001
 326	Shamos	pl058_0000
-327	Unavailable	None
+327	Falso Kelbi	pl096_0000
 328	Lingotes <ICON ALPHA>+	pl031_0000
 329	Lingotes <ICON BETA>+	pl031_0000
 330	Barioth <ICON ALPHA>+	pl089_0000
@@ -435,11 +435,11 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 433	Brach Colérico <ICON BETA>+	pl082_0510
 434	Safi'jiiva <ICON ALPHA>+	pl087_0000
 435	Safi'jiiva <ICON BETA>+	pl087_0010
-436	Unavailable	None
-437	Unavailable	None
+436	Alatreon <ICON ALPHA>+	pl052_0000
+437	Alatreon <ICON BETA>+	pl052_0010
 438	Sudario de dragón <ICON ALPHA>+	pl100_0000
 439	Orejas wyverianas <ICON ALPHA>+	pl101_0000
-440	Unavailable	None
+440	Falso Aptonoth	pl097_0000
 441	Cabeza de pingüino <ICON ALPHA>+	pl098_0000
 442	Lunastra <ICON ALPHA>+	pl051_0001
 443	Lunastra <ICON BETA>+	pl051_0011
@@ -447,7 +447,7 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 445	Kulve Taroth <ICON BETA>+	pl049_0011
 446	Rosas <ICON ALPHA>+	pl124_0000
 447	Lumu	pl024_0000
-448	Unavailable	None
+448	Apasionado <ICON ALPHA>+	pl125_0000
 449	Rathian <ICON ALPHA>	pl021_0000
 450	Unavailable	None
 451	Rathian <ICON BETA>	pl021_0010
@@ -456,13 +456,13 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 454	Astral <ICON ALPHA>+	pl128_0000
 455	Radobaan <ICON BETA>	pl028_0010
 456	Rosas	pl124_0000
-457	Unavailable	None
+457	Pasión	pl125_0000
 458	Unavailable	None
 459	Feng Huo	pl127_0000
 460	Astral	pl128_0000
 461	Megametal	pl025_0000
 462	Termal	pl106_0000
-463	Unavailable	None
+463	Diadema liebre	pl111_0000
 464	Carrao algodón	pl112_0000
 465	Termargénteo <ICON ALPHA>+	pl113_0000
 466	Unavailable	None
@@ -477,8 +477,8 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 475	HARDUMMY	pl072_0000
 476	HARDUMMY	pl072_0001
 477	Unavailable	None
-478	Unavailable	None
-479	Unavailable	None
+478	Barioth Cynodon <ICON ALPHA>+	pl089_0500
+479	Barioth Cynodon <ICON BETA>+	pl089_0510
 480	Unavailable	None
 481	Unavailable	None
 482	HARDUMMY	pl068_0020
@@ -672,9 +672,9 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 670	Unavailable	None
 671	Unavailable	None
 672	Unavailable	None
-673	Unavailable	None
+673	Ropa íntima <ICON ALPHA>	pl500_0000
 674	Unavailable	None
-675	Unavailable	None
+675	Ropa íntima <ICON BETA>	pl501_0000
 676	Unavailable	None
 677	Unavailable	None
 678	Unavailable	None

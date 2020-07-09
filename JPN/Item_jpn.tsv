@@ -1401,13 +1401,13 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 1399	地啼龍の散華石	Material	10	アン・イシュワルダのマスター級素材。落とし物で入手しやすい。防具によく使われる。
 1400	地啼龍の慈爪	Material	10	アン・イシュワルダのマスター級素材。翼腕の部位破壊で入手しやすい。武器によく使われる。
 1401	地啼龍の顕玉	Material	11	アン・イシュワルダのマスター級素材。武具に用いれば、地を統べ、天を掴むといわれる幻の希少品。
-1402	Unavailable	Item	3	Unavailable
-1403	Unavailable	Item	3	Unavailable
-1404	Unavailable	Item	3	Unavailable
-1405	Unavailable	Item	3	Unavailable
-1406	Unavailable	Item	3	Unavailable
-1407	Unavailable	Item	3	Unavailable
-1408	Unavailable	Item	3	Unavailable
+1402	煌黒龍の天殻	Material	10	アルバトリオンのマスター級素材。主に報酬で入手できる。手に入れた者は天に愛されるという。
+1403	煌黒龍の天鱗	Material	10	アルバトリオンのマスター級素材。主に剥ぎ取りで入手できる。全属性のエレメントを含むらしい。
+1404	煌黒龍の凶爪	Material	10	アルバトリオンのマスター級素材。もはや凶悪としか表現できないと思わせる程の禍々しさを放つ。
+1405	煌黒龍の邪翼	Material	10	アルバトリオンのマスター級素材。その翼は時空を切り裂き世界を消滅させる…そんな噂が立つ程の素材。
+1406	煌黒龍の妖尾	Material	10	アルバトリオンのマスター級素材。切断した尻尾から入手しやすい。手に入れた者が夢かと疑いを抱く。
+1407	天を統べる角	Material	10	アルバトリオンのマスター級素材。頭部に生える角が重なり合った最も上質な角。統天角とも呼ばれる。
+1408	瑠璃色の龍神玉	Material	11	アルバトリオンのマスター級素材。それを手にした時、世界に終わりが訪れると噂される玉石。
 1409	太古の珠	Material	8	太古の力が秘められた珠。<STYL MOJI_YELLOW_DEFAULT>（鑑定アイテム）</STYL>
 1410	刻まれた珠	Material	9	強大な力が秘められた珠。<STYL MOJI_YELLOW_DEFAULT>（鑑定アイテム）</STYL>
 1411	封じられた珠	Material	10	圧倒的な力が秘められた珠。<STYL MOJI_YELLOW_DEFAULT>（鑑定アイテム）</STYL>
@@ -2416,29 +2416,29 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2414	飾り木の植木鉢	Room Decoration	3	枝に装飾を付けた賑やかで可愛らしい植木鉢。【万福の宴　特別家具】
 2415	花飾り【小】	Room Decoration	3	華麗な赤い花が飾られた小さい花瓶。【満開の宴　特別家具】
 2416	花飾り【大】	Room Decoration	3	華麗な赤い花が飾られた大きい花瓶。【満開の宴　特別家具】
-2417	Unavailable	Item	3	Unavailable
+2417	熱帯の鉢植え	Room Decoration	3	温暖な地域で育つと言われる植物の鉢植え。【情熱の宴　特別家具】
 2418	Unavailable	Item	3	Unavailable
 2419	模型【５期団船】	Room Decoration	3	５期団の船を模した、精巧な模型。
 2420	模型【改造船】	Room Decoration	3	ゾラ・マグダラオスに対抗するために改造された船の模型。
 2421	模型【研究基地】	Room Decoration	3	研究基地を模して造られた模型。職人の手で精巧に作られている。
 2422	模型【キャンプ】	Room Decoration	3	キャンプを模して造られた模型。職人の手で精巧に作られている。
 2423	優雅なティーセット	Room Decoration	3	優雅な陶器のティーセット。
-2424	Unavailable	Item	3	Unavailable
-2425	Unavailable	Item	3	Unavailable
-2426	Unavailable	Item	3	Unavailable
-2427	Unavailable	Item	3	Unavailable
-2428	Unavailable	Item	3	Unavailable
+2424	つぼ【黒】	Room Decoration	3	黒地に赤で模様が描かれている派手なつぼ。【情熱の宴　特別家具】
+2425	つぼ【黄】	Room Decoration	3	黄色の装飾が施されている派手なつぼ。【情熱の宴　特別家具】
+2426	仮面【火竜】	Room Decoration	3	リオレウスを模した仮面。【情熱の宴　特別家具】
+2427	仮面【雌火竜】	Room Decoration	3	リオレイアを模した仮面。【情熱の宴　特別家具】
+2428	仮面【掻鳥】	Room Decoration	3	クルルヤックを模した仮面。【情熱の宴　特別家具】
 2429	Unavailable	Item	3	Unavailable
 2430	アイルーバルーン	Room Decoration	3	アイルーをモチーフにしたかわいらしい吊り下げ型バルーン。【大感謝の宴　特別家具】
 2431	テトルーバルーン・白	Room Decoration	3	テトルーをモチーフにしたかわいらしい吊り下げ型バルーン。【大感謝の宴　特別家具】
 2432	テトルーバルーン・黒	Room Decoration	3	テトルーをモチーフにしたかわいらしい吊り下げ型バルーン。【大感謝の宴　特別家具】
 2433	ガジャブーバルーン	Room Decoration	3	ガジャブーをモチーフにしたかわいらしい吊り下げ型バルーン。【大感謝の宴　特別家具】
-2434	Unavailable	Item	3	Unavailable
-2435	Unavailable	Item	3	Unavailable
-2436	Unavailable	Item	3	Unavailable
+2434	吊り仮面【火竜】	Room Decoration	3	リオレウスを模した仮面の吊り飾り。【情熱の宴　特別家具】
+2435	吊り仮面【雌火竜】	Room Decoration	3	リオレイアを模した仮面の吊り飾り。【情熱の宴　特別家具】
+2436	吊り仮面【掻鳥】	Room Decoration	3	クルルヤックを模した仮面の吊り飾り。【情熱の宴　特別家具】
 2437	絵画【アイルー②】	Room Decoration	3	アイルーとプーギーを描いた絵画。ほのぼのとした絵柄が特徴的。
 2438	絵画【アイルー③】	Room Decoration	3	異なる装備を着ているアイルーの絵画。
-2439	Unavailable	Item	3	Unavailable
+2439	絵画【アイルー④】	Room Decoration	3	気怠そうなアイルーの様子を描いた絵画。
 2440	絵画【狩りの合間に】	Room Decoration	3	狩りの準備をしているハンター達を描いた絵画。おいしそうな匂いにつられてやってきたのは･･･？
 2441	絵画【古代樹の植物】	Room Decoration	3	古代樹に力強く咲き誇る花々を１枚の絵に閉じ込めた絵画。
 2442	絵画【水差しと果実】	Room Decoration	3	何気ない日常の風景を切り取ったかのような、写実的な絵画。
@@ -2453,14 +2453,14 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2451	素朴な照明【白】	Room Decoration	3	木製の素朴な照明。スッキリとした白い光で室内を照らす。
 2452	豪華な照明	Room Decoration	3	黄金で装飾された豪華な照明。
 2453	シャンデリア	Room Decoration	3	煌びやかな光が楽しめる照明。
-2454	Unavailable	Item	3	Unavailable
+2454	プーギー提灯	Room Decoration	3	あたたかい光を感じられる、プーギーの形の提灯。
 2455	万福提灯	Room Decoration	3	室内をほんのり赤く照らす大きいサイズの提灯。【万福の宴　特別家具】
 2456	天燈の照明	Room Decoration	3	たくさんの天燈が宙に浮かぶ幻想的な天燈の照明。
 2457	豪華な壁掛け棚【大】	Room Decoration	3	黄金が贅沢に使われている豪華な壁掛け棚。
 2458	豪華な壁掛け棚【小】	Room Decoration	3	黄金が贅沢に使われている豪華な壁掛け棚。
 2459	絵画【渡りの凍て地②】	Room Decoration	3	渡りの凍て地を描いた絵画。
 2460	大きな地図	Room Decoration	3	渡りの凍て地を含んだ、大きいサイズの地図。
-2461	Unavailable	Item	3	Unavailable
+2461	絵画【アイルー⑤】	Room Decoration	3	さまざまなアイルーの絵画をまとめた壁掛け。
 2462	Unavailable	Item	3	Unavailable
 2463	団旗【１期団】	Room Decoration	3	１期団を表す団旗。
 2464	団旗【２期団】	Room Decoration	3	２期団を表す団旗。
@@ -2474,7 +2474,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2472	豪華な絨毯(1階)	Room Decoration	3	気品あふれる豪華な絨毯。
 2473	豪華な絨毯(2階)	Room Decoration	3	気品あふれる豪華な絨毯。
 2474	灯籠	Room Decoration	3	付近をあたたかな光でぼんやりと照らす灯籠。【万福の宴　特別家具】
-2475	Unavailable	Item	3	Unavailable
+2475	プーギーランプ	Room Decoration	3	とても愛らしいプーギーの形を模したランプ。
 2476	行燈①	Room Decoration	3	シンプルで洒落た見た目のランプ。【大感謝の宴　特別家具】
 2477	Unavailable	Item	3	Unavailable
 2478	研究セット	Room Decoration	3	研究基地で使用されている、研究用の道具をまとめたセット。
@@ -2532,7 +2532,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2530	万福料理セット	Room Decoration	3	たっぷりと油を使い、強い火加減で調理された特別な料理。【万福の宴　特別料理】
 2531	高級料理プレート	Room Decoration	3	高級素材の味を活かし、贅の限りを尽くした特別な料理。【大感謝の宴　特別料理】
 2532	満開料理セット	Room Decoration	3	気品あふれる食材と共に花も盛り付けられた特別な料理。【満開の宴　特別料理】
-2533	Unavailable	Item	3	Unavailable
+2533	情熱料理セット	Room Decoration	3	食べたら心がアツアツになるお肉だらけの特別料理。【情熱の宴　特別料理】
 2534	フィギュア【飛雷竜】	Room Decoration	3	モンスターフィギュアトビカガチ
 2535	フィギュア【氷牙竜】	Room Decoration	3	モンスターフィギュアベリオロス
 2536	フィギュア【猛牛竜】	Room Decoration	3	モンスターフィギュアバフバロ
@@ -2549,21 +2549,21 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2547	フィギュア【雷狼竜】	Room Decoration	3	モンスターフィギュアジンオウガ
 2548	フィギュア【黒狼鳥】	Room Decoration	3	モンスターフィギュアイャンガルルガ
 2549	フィギュア【痺賊竜】	Room Decoration	3	モンスターフィギュアドスギルオス＆ギルオス
-2550	Unavailable	Item	3	Unavailable
-2551	Unavailable	Item	3	Unavailable
-2552	Unavailable	Item	3	Unavailable
+2550	フィギュア【轟竜】	Room Decoration	3	モンスターフィギュアティガレックス
+2551	フィギュア【惨爪竜】	Room Decoration	3	モンスターフィギュアオドガロン
+2552	フィギュア【骨鎚竜】	Room Decoration	3	モンスターフィギュアラドバルキン
 2553	フィギュア【溟龍】	Room Decoration	3	モンスターフィギュアネロミェール
 2554	フィギュア【浮空竜】	Room Decoration	3	モンスターフィギュアパオウルムー
 2555	フィギュア【眩鳥】	Room Decoration	3	モンスターフィギュアツィツィヤック
-2556	Unavailable	Item	3	Unavailable
-2557	Unavailable	Item	3	Unavailable
+2556	フィギュア【金獅子】	Room Decoration	3	モンスターフィギュアラージャン
+2557	フィギュア【幻獣】	Room Decoration	3	モンスターフィギュアキリン
 2558	Unavailable	Item	3	Unavailable
-2559	Unavailable	Item	3	Unavailable
-2560	Unavailable	Item	3	Unavailable
-2561	Unavailable	Item	3	Unavailable
-2562	Unavailable	Item	3	Unavailable
+2559	フィギュア【屍套龍】	Room Decoration	3	モンスターフィギュアヴァルハザク
+2560	フィギュア【炎王龍】	Room Decoration	3	モンスターフィギュアテオ・テスカトル
+2561	フィギュア【奇面族】	Room Decoration	3	モンスターフィギュアガジャブー
+2562	フィギュア【砕竜】	Room Decoration	3	モンスターフィギュアブラキディオス
 2563	Unavailable	Item	3	Unavailable
-2564	Unavailable	Item	3	Unavailable
+2564	フィギュア【溶岩竜】	Room Decoration	3	モンスターフィギュアヴォルガノス
 2565	フィギュア【大感謝】	Room Decoration	3	仲睦まじいモンスターの夫婦が誕生を祝うフィギュア。【大感謝の宴　特別家具】
 2566	大理石の壁【白】	Room Decoration	3	Unavailable
 2567	大理石の床【白】	Room Decoration	3	Unavailable
@@ -2579,11 +2579,11 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2577	タイプライター	Room Decoration	3	恐怖も安堵も、全てを記録するタイプライター。【ラクーンシティコラボ】
 2578	アイテムボックス	Room Decoration	3	持ちきれないアイテムを保管してくれる頼もしい収納箱。【ラクーンシティコラボ】
 2579	Unavailable	Item	3	Unavailable
-2580	Unavailable	Item	3	Unavailable
+2580	プーギー黄金像	Room Decoration	3	黄金に輝くプーギーの像。
 2581	雪だるま【万福】	Room Decoration	3	オーソドックスな見た目に賑やかな電飾を付けた雪だるま。【万福の宴　特別家具】
 2582	雪だるま【大感謝】	Room Decoration	3	奇妙な青い体に不思議な円盤を身に付けた雪だるま。【大感謝の宴　特別家具】
 2583	雪だるま【満開】	Room Decoration	3	花を盛りつけた雪だるま。【満開の宴　特別家具】
-2584	Unavailable	Item	3	Unavailable
+2584	雪だるま【情熱】	Room Decoration	3	仮面を付けた陽気な雪だるま。【情熱の宴　特別家具】
 2585	Unavailable	Item	3	Unavailable
 2586	天燈	Room Decoration	3	ふわふわと宙に浮かぶ幻想的な天燈。【大感謝の宴　特別家具】
 2587	豪華な旗飾り	Room Decoration	3	豪華な装飾があしらわれた旗飾り。
@@ -2592,12 +2592,12 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2590	レリーフ	Room Decoration	3	リオレウスが描かれたブロンズのレリーフ。
 2591	絵画【大団長】	Room Decoration	3	大団長の勇ましい姿を描いた絵画。
 2592	豪華な壁掛け	Room Decoration	3	豪華な装飾が施された白色の壁掛け。
-2593	Unavailable	Item	3	Unavailable
-2594	Unavailable	Item	3	Unavailable
+2593	絵画【アイルー⑥】	Room Decoration	3	さまざまなアイルーの絵画をまとめた壁掛け。
+2594	絵画【プーギー②】	Room Decoration	3	優雅なひとときを過ごすプーギーの絵画。
 2595	絵画【巨匠達の極品】	Room Decoration	3	とある巨匠達が描いたとされる至高の逸品。なんとオフィシャル。【大感謝の宴　特別家具】
 2596	華やかな絨毯（1階）	Room Decoration	3	花が舞い散る華麗な絨毯。【満開の宴　特別家具】
 2597	華やかな絨毯（2階）	Room Decoration	3	花が舞い散る華麗な絨毯。【満開の宴　特別家具】
-2598	Unavailable	Item	3	Unavailable
+2598	プケプケの置物	Room Decoration	3	プケプケを模したカラフルで情熱的な置物。
 2599	Unavailable	Item	3	Unavailable
 2600	フィギュア【泥魚竜】	Room Decoration	3	モンスターフィギュアジュラトドス
 2601	フィギュア【土砂竜】	Room Decoration	3	モンスターフィギュアボルボロス
@@ -2605,7 +2605,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2603	フィギュア【赤龍】	Room Decoration	3	モンスターフィギュアムフェト・ジーヴァ
 2604	フィギュア【冥灯龍】	Room Decoration	3	モンスターフィギュアゼノ・ジーヴァ
 2605	フィギュア【ウルグ】	Room Decoration	3	モンスターフィギュアウルグ
-2606	Unavailable	Item	3	Unavailable
+2606	フィギュア【草食】	Room Decoration	3	モンスターフィギュアアプトノス＆フワフワクイナ
 2607	Unavailable	Item	3	Unavailable
 2608	Unavailable	Item	3	Unavailable
 2609	Unavailable	Item	3	Unavailable
@@ -2616,31 +2616,31 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2614	雪村の盛り場(MH SWING)	Room Decoration	3	モンスターハンターポータブル 2nd「ポッケ村集会所」ＢＧＭ　アレンジ【モンスターハンター スウィング】
 2615	Scat Cat Fever(MH SWING)	Room Decoration	3	モンスターハンター「闘技場」ＢＧＭ　アレンジ【モンスターハンター スウィング】
 2616	秘湯を求めて(MH SWING)	Room Decoration	3	モンスターハンターポータブル 3rd「ユクモ村」ＢＧＭ　アレンジ【モンスターハンター スウィング】
-2617	Unavailable	Item	3	Unavailable
-2618	Unavailable	Item	3	Unavailable
-2619	Unavailable	Item	3	Unavailable
-2620	Unavailable	Item	3	Unavailable
-2621	Unavailable	Item	3	Unavailable
-2622	Unavailable	Item	3	Unavailable
-2623	Unavailable	Item	3	Unavailable
-2624	Unavailable	Item	3	Unavailable
+2617	Scat Cat Fever	Room Decoration	3	モンスターハンター「闘技場」ＢＧＭ
+2618	猫汁大作戦！	Room Decoration	3	モンスターハンター２「闘技場」ＢＧＭ
+2619	殷々たる煌鐘の音/アルバトリオン: World version	Room Decoration	3	モンスターハンターワールド：アイスボーンアルバトリオン　戦闘曲
+2620	ポッケ農場の一日(MH THE JAZZ)	Room Decoration	3	モンスターハンターポータブル 2nd「ポッケ農場」ＢＧＭ　アレンジ【MONSTER HUNTER THE JAZZ】
+2621	ユクモ農場のアイルーたち(MH THE JAZZ)	Room Decoration	3	モンスターハンターポータブル 3rd「ユクモ農場」ＢＧＭ　アレンジ【MONSTER HUNTER THE JAZZ】
+2622	狩人の集う秘湯(MH THE JAZZ)	Room Decoration	3	モンスターハンターポータブル 3rd「集会浴場」ＢＧＭ　アレンジ【MONSTER HUNTER THE JAZZ】
+2623	旅立ちの風(MH THE JAZZ)	Room Decoration	3	モンスターハンター４メインテーマ　アレンジ【MONSTER HUNTER THE JAZZ】
+2624	英雄の証(MH THE JAZZ)	Room Decoration	3	モンスターハンターシリーズテーマ　アレンジ【MONSTER HUNTER THE JAZZ】
 2625	Unavailable	Item	3	Unavailable
 2626	Unavailable	Item	3	Unavailable
 2627	Unavailable	Item	3	Unavailable
-2628	Unavailable	Item	3	Unavailable
-2629	Unavailable	Item	3	Unavailable
-2630	Unavailable	Item	3	Unavailable
-2631	Unavailable	Item	3	Unavailable
-2632	Unavailable	Item	3	Unavailable
-2633	Unavailable	Item	3	Unavailable
-2634	Unavailable	Item	3	Unavailable
-2635	Unavailable	Item	3	Unavailable
-2636	Unavailable	Item	3	Unavailable
-2637	Unavailable	Item	3	Unavailable
-2638	Unavailable	Item	3	Unavailable
-2639	Unavailable	Item	3	Unavailable
+2628	ボワボワのゴチソウ	Room Decoration	3	ボワボワの食事を再現した料理。
+2629	ポポハニワ	Room Decoration	3	素朴なポポのハニワ。
+2630	ボワボワのイカダ	Room Decoration	3	イカダに乗るボワボワを模した置物。
+2631	友好の贈り物	Room Decoration	3	感謝の気持ちが詰まった贈り物。
+2632	プケプケ人形【緑】	Room Decoration	3	カラフルなプケプケの人形。
+2633	プケプケ人形【燈】	Room Decoration	3	カラフルなプケプケ亜種の人形。
+2634	絵画【アイルー⑦】	Room Decoration	3	さまざまなタイルを組み合わせて作られたアイルーの絵画。
+2635	絵画【毒妖鳥】	Room Decoration	3	独特の手法で描かれているカラフルなプケプケの絵画。
+2636	ボワボワのヤシキ	Room Decoration	3	ボワボワの住処を模した置物。
+2637	ネコの石像	Room Decoration	3	ネコの形をした石像。
+2638	テトルーの泥人形	Room Decoration	3	テトルーが作ったとされる、泥粘土の像。
+2639	ポポハニワ【群れ】	Room Decoration	3	ポポの群れを表現したハニワ。
 2640	Unavailable	Item	3	Unavailable
-2641	Unavailable	Item	3	Unavailable
+2641	ボワボワのソウビ	Room Decoration	3	ボワボワの装備を模した置物。
 2642	Unavailable	Item	3	Unavailable
 2643	Unavailable	Item	3	Unavailable
 2644	Unavailable	Item	3	Unavailable
@@ -2681,7 +2681,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2679	溟龍チケット	Material	11	濁流を生み出す溟龍が描かれたチケット。加工屋に渡すと一味違う防具を作ってくれる。
 2680	Unavailable	Item	3	Unavailable
 2681	Unavailable	Item	3	Unavailable
-2682	Unavailable	Item	3	Unavailable
+2682	氷牙竜チケット	Material	10	氷刃佩くベリオロスの歴戦の個体を狩猟した証。加工屋に渡すと良いことが！？
 2683	グリーンハーブ	Item	1	アークレイ山地に自生する緑色のハーブ。ゾンビ状態を治し、体力を少量回復する。<STYL MOJI_YELLOW_DEFAULT>（クエスト専用）</STYL>
 2684	レッドハーブ	Item	1	アークレイ山地に自生する赤色のハーブ。単体で服用しても効果はない。<STYL MOJI_YELLOW_DEFAULT>（クエスト専用）</STYL>
 2685	調合ハーブ（緑+赤）	Item	2	２種のハーブを組み合わせたもの。ゾンビ状態を治し、体力を完全回復する。<STYL MOJI_YELLOW_DEFAULT>（クエスト専用）</STYL>
@@ -2700,9 +2700,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2698	大龍光石	Material	9	大きな地脈エネルギーを宿した素材。特殊な素材と共鳴し、秘められた力を覚醒させる事ができる。
 2699	剛龍光石	Material	10	とても大きな地脈エネルギーを宿した素材。特殊な素材と共鳴し、秘められた力を覚醒させる事ができる。
 2700	真龍光石	Material	11	極めて強大な地脈エネルギーを宿した素材。特殊な素材と共鳴し、秘められた力を覚醒させる事ができる。
-2701	Unavailable	Item	3	Unavailable
-2702	Unavailable	Item	3	Unavailable
-2703	Unavailable	Item	3	Unavailable
+2701	銀雪を冠した毛皮	Material	10	氷刃佩くベリオロスのマスター級素材。主に報酬で入手できる。汎用性が高く、幅広い用途に使われる。
+2702	氷河を砕く剣爪	Material	10	氷刃佩くベリオロスのマスター級素材。報酬や剥ぎ取りで入手できる。鋭い材質で、武器によく使われる。
+2703	白銀の氷刃牙	Material	10	氷刃佩くベリオロスのマスター級素材。頭部の部位破壊で入手しやすい。鋭い材質で、武器によく使われる。
 2704	黒鷲の図面	Material	9	ある古龍を追い求め、世界を彷徨う【黒鷲】と名乗るハンターが残した設計図。加工屋に渡すと…！？
 2705	ユラユラの壷	Material	8	獣人族が作った壷。ユラユラが住み着く事もあることから、この名で呼ばれている。加工屋に渡すと…！？
 2706	S.T.A.R.S.バッジ	Material	11	ラクーン市警の特殊部隊「S.T.A.R.S.」のバッジ。特別な装備や家具に交換できる。
@@ -2723,21 +2723,21 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2721	満開チケット	Material	8	セリエナ祭【満開の宴】に参加すると貰えるチケット。特別な装備やアイテムに交換できる。
 2722	キレアジチケット	Material	9	孤高の魚類調査員からもらった、大小様々なキレアジの魚拓が取られたチケット。加工屋に渡すと…！？
 2723	フワフワチケットⅡ	Material	9	一羽のフワフワクイナの成長過程が描かれた、研究対象への愛情に溢れたチケット。加工屋に渡すと…！？
-2724	Unavailable	Item	3	Unavailable
-2725	Unavailable	Item	3	Unavailable
-2726	Unavailable	Item	3	Unavailable
+2724	情熱チケット	Material	8	セリエナ祭【情熱の宴】に参加すると貰えるチケット。特別な装備やアイテムに交換できる。
+2725	ミチビキチケット	Material	9	「ミチビキウサギになりたい」そんなハンターの願いを叶える、夢のチケット。加工屋に渡すと…！？
+2726	食事場チケット【酒】	Material	9	料理長からお祝いのお酒をプレゼント！爽快なのどごしに、飲み過ぎ注意！ご注文の際は加工屋に…！？
 2727	Unavailable	Item	3	Unavailable
 2728	Unavailable	Item	3	Unavailable
 2729	Unavailable	Item	3	Unavailable
 2730	親友の証	Material	9	世界を飛びまわる友人達から届いた近況の便り。それはまさしく別世界の冒険譚。加工屋に渡すと…！？
 2731	Unavailable	Item	3	Unavailable
-2732	Unavailable	Item	3	Unavailable
+2732	キンセンチケット	Material	9	幻のキンセンザルが描かれたチケット。毛の一本一本まで確認できる程緻密な絵。加工屋に渡すと…！？
 2733	牙獣の大粒ナミダ	Account Item	4	特殊な行動のときにのみ獣たちがこぼす貴重な大粒の涙。<STYL MOJI_YELLOW_DEFAULT>（精算アイテム）</STYL>
 2734	すばらしい毛皮	Material	9	追い剥ぎの装衣で手に入る素材。コレクター垂涎の極上品。<STYL MOJI_YELLOW_DEFAULT>（換金アイテム）</STYL>
 2735	万福チケットＳＰ	Material	11	セリエナ祭【万福の宴】期間に稀に貰えるチケット。重ね着装備や色違いのチャームを生産できる。
 2736	大感謝チケットＳＰ	Material	11	セリエナ祭【大感謝の宴】期間に稀に貰えるチケット。重ね着装備や色違いのチャームを生産できる。
 2737	満開チケットＳＰ	Material	11	セリエナ祭【満開の宴】期間に稀に貰えるチケット。重ね着装備や色違いのチャームを生産できる。
-2738	Unavailable	Item	3	Unavailable
+2738	情熱チケットＳＰ	Material	11	セリエナ祭【情熱の宴】期間に稀に貰えるチケット。重ね着装備や色違いのチャームを生産できる。
 2739	Unavailable	Item	3	Unavailable
 2740	退散玉	Item	8	大型モンスターを導きの地から退散させる手投げ玉。<STYL MOJI_YELLOW_DEFAULT>導きの地の探索でリーダーのみ使用可能。</STYL>
 2741	Unavailable	Item	3	Unavailable
@@ -2761,9 +2761,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2759	Unavailable	Item	3	Unavailable
 2760	Unavailable	Item	3	Unavailable
 2761	Unavailable	Item	3	Unavailable
-2762	Unavailable	Item	3	Unavailable
-2763	Unavailable	Item	3	Unavailable
-2764	Unavailable	Item	3	Unavailable
+2762	草食獣チケットⅠ	Material	9	大自然に生きるケルビ達の姿が精密に描かれているチケット。加工屋に渡すと良いことが…！？
+2763	草食獣チケットⅡ	Material	9	大自然に生きるアプトノスの姿が雄大に描かれているチケット。加工屋に渡すと良いことが…！？
+2764	三眼チケット	Material	10	真実を見抜く目を持つ者に与えられるチケット。加工屋に渡すと良いことが…！？
 2765	Unavailable	Item	3	Unavailable
 2766	Unavailable	Item	3	Unavailable
 2767	Unavailable	Item	3	Unavailable

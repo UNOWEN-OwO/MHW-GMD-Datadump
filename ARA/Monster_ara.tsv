@@ -86,7 +86,7 @@ Monster ID	Monster Code	Monster Name
 84	EMS063_00	وولغ
 85	EMS064_00	كورتوس
 86	EMS061_01	بوابوا
-87	DUMMY000014	Unavailable
+87	EM050	ألاتريون
 88	EM001_02	راثيان ذهبية
 89	EM002_02	راذالوس فضي
 90	EM018_00	إيان غاروغا
@@ -97,7 +97,7 @@ Monster ID	Monster Code	Monster Name
 95	EM057_01	زينغر جهنمي
 96	EM063_05	براكيديوس الحانق
 97	EM104	صافيجيفا
-98	DUMMY000016	Unavailable
+98	DUMMY000014	Unavailable
 99	EM018_05	إيان غاروغا ذو الندبات
-100	DUMMY000018	Unavailable
-101	DUMMY000020	Unavailable
+100	EM042_05	باريوث أنياب الصقيع
+101	DUMMY000016	Unavailable

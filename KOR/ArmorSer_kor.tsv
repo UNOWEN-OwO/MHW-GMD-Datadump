@@ -324,9 +324,9 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 322	【케스토】의상	pl005_0000
 323	【가쟈우】의상	pl006_0000
 324	Unavailable	pl095_0000
-325	Unavailable	None
+325	【금천원숭이】의상	pl113_0001
 326	【샤무】의상	pl058_0000
-327	Unavailable	None
+327	【켈비페이크】의상	pl096_0000
 328	EX잉곳α	pl031_0000
 329	EX잉곳β	pl031_0000
 330	EX벨리오α	pl089_0000
@@ -435,11 +435,11 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 433	EX브라키움β	pl082_0510
 434	EX용문α	pl087_0000
 435	EX용문β	pl087_0010
-436	Unavailable	None
-437	Unavailable	None
+436	EX에스카드라α	pl052_0000
+437	EX에스카드라β	pl052_0010
 438	EX봉인의 용해포α	pl100_0000
 439	EX용인족의 귀α	pl101_0000
-440	Unavailable	None
+440	【아프토페이크】의상	pl097_0000
 441	EX껴입기펭귄페이크α	pl098_0000
 442	EX엠프리스α	pl051_0001
 443	EX엠프리스β	pl051_0011
@@ -447,7 +447,7 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 445	EX맘가이라β	pl049_0011
 446	EX로제α	pl124_0000
 447	【우르무】의상	pl024_0000
-448	Unavailable	None
+448	EX패션α	pl125_0000
 449	【레이아α】의상	pl021_0000
 450	Unavailable	None
 451	【레이아β】의상	pl021_0010
@@ -456,13 +456,13 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 454	EX아스트라α	pl128_0000
 455	【발킨β】의상	pl028_0010
 456	【로제】의상	pl124_0000
-457	Unavailable	None
+457	【패션】의상	pl125_0000
 458	Unavailable	None
 459	【우론】의상	pl127_0000
 460	【아스트라】의상	pl128_0000
 461	【하이메탈】의상	pl025_0000
 462	【테르마이】의상	pl106_0000
-463	Unavailable	None
+463	【토끼귀】의상	pl111_0000
 464	【폭신폭신 뜸부기】 의상	pl112_0000
 465	EX은천원숭이α	pl113_0000
 466	Unavailable	None
@@ -477,8 +477,8 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 475	HARDUMMY	pl072_0000
 476	HARDUMMY	pl072_0001
 477	Unavailable	None
-478	Unavailable	None
-479	Unavailable	None
+478	EX오르문그α	pl089_0500
+479	EX오르문그β	pl089_0510
 480	Unavailable	None
 481	Unavailable	None
 482	HARDUMMY	pl068_0020
@@ -672,9 +672,9 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 670	Unavailable	None
 671	Unavailable	None
 672	Unavailable	None
-673	Unavailable	None
+673	【이너α】의상	pl500_0000
 674	Unavailable	None
-675	Unavailable	None
+675	【이너β】의상	pl501_0000
 676	Unavailable	None
 677	Unavailable	None
 678	Unavailable	None

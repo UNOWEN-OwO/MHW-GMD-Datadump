@@ -123,7 +123,7 @@ Weapon ID	Weapon Name	File Path
 157	Bâton Prophète Felyne <ICON ALPHA>+	otomo/wp/ot_we071
 158	Poing broyeur Felyne <ICON ALPHA>+	otomo/wp/ot_we070
 159	Lance Safi'jiiva Felyne <ICON ALPHA>+	otomo/wp/ot_we067
-160	Pelle-gland Felyne	otomo/wp/ot_we000
+160	Faux Escadora Felyne <ICON ALPHA>+	otomo/wp/ot_we068
 161	Ombrelle Eliza Felyne <ICON ALPHA>+	otomo/wp/ot_we034
 162	Éventail Kulve Felyne <ICON ALPHA>+	otomo/wp/ot_we025
 163	Mega Buster <ICON ALPHA>+	otomo/wp/ot_we035
@@ -132,7 +132,7 @@ Weapon ID	Weapon Name	File Path
 166	HARDUMMY	otomo/wp/ot_we036
 167	Katana samouraï Felyne <ICON ALPHA>+	otomo/wp/ot_we039
 168	Baguette Papillon Felyne <ICON ALPHA>+	otomo/wp/ot_we040
-169	Pelle-gland Felyne	otomo/wp/ot_we000
+169	Ukulélé Aloha Felyne <ICON ALPHA>+	otomo/wp/ot_we041
 170	Pelle-gland Felyne	otomo/wp/ot_we000
 171	Cloche de fête <ICON ALPHA>+	otomo/wp/ot_we043
 172	Micro Felyne <ICON ALPHA>+	otomo/wp/ot_we044
@@ -144,7 +144,7 @@ Weapon ID	Weapon Name	File Path
 178	Bouquet Xeno Felyne <ICON ALPHA>+	otomo/wp/ot_we024
 179	Livre de Guilde Felyne <ICON ALPHA>+	otomo/wp/ot_we063
 180	Panier de roses Felyne <ICON ALPHA>+	otomo/wp/ot_we075
-181	Pelle-gland Felyne	otomo/wp/ot_we000
+181	Corne Pukei-Pukei Felyne <ICON ALPHA>+	otomo/wp/ot_we076
 182	Pelle-gland Felyne	otomo/wp/ot_we000
 183	Bonbori Felyne <ICON ALPHA>+	otomo/wp/ot_we078
 184	OVNI Felyne <ICON ALPHA>+	otomo/wp/ot_we079
@@ -155,7 +155,7 @@ Weapon ID	Weapon Name	File Path
 189	HARDUMMY	otomo/wp/ot_we081
 190	Corail tortilleur <ICON ALPHA>+	otomo/wp/ot_we082
 191	Marteau d'os Boaboa	otomo/wp/ot_we062
-192	Pelle-gland Felyne	otomo/wp/ot_we000
+192	Sabre crocgivre Felyne <ICON ALPHA>+	otomo/wp/ot_we083
 193	Pelle-gland Felyne	otomo/wp/ot_we000
 194	Pelle-gland Felyne	otomo/wp/ot_we000
 195	Baguette de maestro Felyne <ICON ALPHA>+	otomo/wp/ot_we085

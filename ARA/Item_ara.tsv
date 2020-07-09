@@ -1401,13 +1401,13 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 1399	حجر بيتال شارا إشفالدا	Material	10	من مواد شارا إشفالدا النادرة جدًا.يُحصل عليها بجمع عناصر إسقاط نادرة.تُستخدم في صناعة العتاد.
 1400	مخلب شارا إشفالدا أملس	Material	10	من مواد شارا إشفالدا النادرة جدًا.يُحصل عليها بكسر جناحيه.تُستخدم في أسلحة متعددة.
 1401	جوهرة شارا إشفالدا	Material	11	من مواد شارا إشفالدا النادرة جدًا.تُستخدم لصناعة أسلحة قويةبما يكفي للسيطرة على العالم.
-1402	Unavailable	Item	3	Unavailable
-1403	Unavailable	Item	3	Unavailable
-1404	Unavailable	Item	3	Unavailable
-1405	Unavailable	Item	3	Unavailable
-1406	Unavailable	Item	3	Unavailable
-1407	Unavailable	Item	3	Unavailable
-1408	Unavailable	Item	3	Unavailable
+1402	طيلسان ألاتريون	Material	10	من مواد ألاتريون النادرة جدًا.يمكن الحصول عليه في الأغلب كمكافأة.يحصل حاملها على حب السماوات.
+1403	عباءة ألاتريون	Material	10	من مواد ألاتريون النادرة جدًا.يمكن الحصول عليها في الأغلب بالتقطيع.يُقال إنها تحتوي على كافة العناصر.
+1404	مخلب ألاتريون للانتزاع	Material	10	من مواد ألاتريون النادرة جدًا.تبث حقًدايجعل المرء لا يفكر سوى في الشرور.
+1405	جناح ألاتريون مخيف	Material	10	من مواد ألاتريون النادرة جدًا.يُشاع أنها قادرة على اختراقالمكان والزمان والعالم.
+1406	ذيل ألاتريون مخيف	Material	10	من مواد ألاتريون النادرة جدًا.يمكن الحصول عليه بتقطيع ذيله المفصول.أهذا حلم أم علم؟
+1407	قرن الهيمنة	Material	10	من مواد ألاتريون النادرة جدًا.هذه القرون ذات الشكل المعقدتعود لأفضل فصيلة معروفة قط.
+1408	حجر زفير تنيني لازوردي	Material	11	من مواد ألاتريون النادرة جدًا.الحصول على هذه القطعة النادرةنذير على نهاية العالم.
 1409	حجر عتيق	Material	8	حلية تخفي قوة عتيقة في داخلها.<STYL MOJI_YELLOW_DEFAULT>(عنصر قيّم)</STYL>
 1410	حجر مُقطّع	Material	9	حلية تخفي قوة ضخمة في داخلها.<STYL MOJI_YELLOW_DEFAULT>(عنصر قيّم)</STYL>
 1411	حجر مختوم	Material	10	حلية تخفي قوة هائلة في داخلها.<STYL MOJI_YELLOW_DEFAULT>(عنصر قيّم)</STYL>
@@ -2416,29 +2416,29 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2414	شجرة مزخرفة	Room Decoration	3	فروع مزخرفة التي تتمتعبطاقة وجاذبية.(زينة بهجة العطلة)
 2415	زخرفة أزهار (صغيرة)	Room Decoration	3	تشكيلة أزهار مذهلة في إناءزهور صغير.
 2416	زخرفة أزهار (كبيرة)	Room Decoration	3	تشكيلة أزهار مذهلة في إناءزهور كبير.
-2417	Unavailable	Item	3	Unavailable
+2417	نبتة استوائية	Room Decoration	3	نباتات في أصيص يُقال إنهانبتت في بيئة دافئة.(زينة التوابل الساخنة)
 2418	Unavailable	Item	3	Unavailable
 2419	نموذج سفينة الأسطول الخامس	Room Decoration	3	نموذج دقيق لسفينة من الأسطولالخامس.
 2420	نموذج سفينة معدلة	Room Decoration	3	نموذج لسفينة معدلة لصد زوراهماغداروس.
 2421	نموذج قاعدة البحث	Room Decoration	3	نموذج لقاعدة البحث.التفاصيل المعقدة من صنع حرفيماهر.
 2422	نموذج معسكر القاعدة	Room Decoration	3	نموذج لمعسكر قاعدة الصّيادين.التفاصيل المعقدة من صنع حرفيماهر.
 2423	طقم شاي جميل	Room Decoration	3	طقم شاي رائع.
-2424	Unavailable	Item	3	Unavailable
-2425	Unavailable	Item	3	Unavailable
-2426	Unavailable	Item	3	Unavailable
-2427	Unavailable	Item	3	Unavailable
-2428	Unavailable	Item	3	Unavailable
+2424	إناء غامق	Room Decoration	3	إناء ذو لون غامقبأنماط حمراء.(زينة التوابل الساخنة)
+2425	إناء درجة لون الأرض	Room Decoration	3	إناء مُزيّنبأنماط ذات ألوان أرضية.(زينة التوابل الساخنة)
+2426	قناع راذالوس	Room Decoration	3	قناع مصمم تيمنًابوجه راذالوس.(زينة التوابل الساخنة)
+2427	قناع راثيان	Room Decoration	3	قناع مصمم تيمنًابوجه راثيان.(زينة التوابل الساخنة)
+2428	قناع كولو-يا-كو	Room Decoration	3	قناع مصمم تيمنًابوجه كولو-يا-كو.(زينة التوابل الساخنة)
 2429	Unavailable	Item	3	Unavailable
 2430	بالون فيلاين	Room Decoration	3	بالون لطيفة تبدو مثلالفيلاين.(زينة التقدير الكبير)
 2431	بالون غريمالكين (أبيض)	Room Decoration	3	بالون لطيفة تبدو مثلالغريمالكين.(زينة التقدير الكبير)
 2432	بالون غريمالكين (أسود)	Room Decoration	3	بالون لطيفة تبدو مثلالغريمالكين.(زينة التقدير الكبير)
 2433	بالون غاجالاكا	Room Decoration	3	بالون لطيفة تبدو مثلالغاجالاكا.(زينة التقدير الكبير)
-2434	Unavailable	Item	3	Unavailable
-2435	Unavailable	Item	3	Unavailable
-2436	Unavailable	Item	3	Unavailable
+2434	قناع راذالوس مُعلق	Room Decoration	3	قناع مُعلق مصمم تيمنًابوجه راذالوس.(زينة التوابل الساخنة)
+2435	قناع راثيان مُعلق	Room Decoration	3	قناع مُعلق مصمم تيمنًابوجه راثيان.(زينة التوابل الساخنة)
+2436	قناع كولو-يا-كو مُعلق	Room Decoration	3	قناع مُعلق مصمم تيمنًابوجه كولو-يا-كو.(زينة التوابل الساخنة)
 2437	لوحات باليكو الشخصية 2	Room Decoration	3	لوحات رائعة لفيلاين وبوغي.
 2438	لوحات باليكو الشخصية 3	Room Decoration	3	لوحة لاثنين من الباليكويرتديان بعض العتاد اللطيف.
-2439	Unavailable	Item	3	Unavailable
+2439	لوحات باليكو الشخصية 4	Room Decoration	3	لوحة لباليكو، في حالة استرخاء.
 2440	رسم وقت الاستراحة	Room Decoration	3	لوحة لصياد يُعد وجبة. يبدو أن ثمةشيء تم إغراؤهبواسطة رائحة شهية!
 2441	لوحة أزهار الغابة العتيقة	Room Decoration	3	لوحة توضح حيوية نباتاتالغابة العتيقة.
 2442	لوحة فواكه	Room Decoration	3	لوحة الحياة الكامنة لمجموعةمن المشروبات الصحية.
@@ -2453,14 +2453,14 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2451	مصابيح بسيطة (بيضاء)	Room Decoration	3	تصميم مصباح خشبي بسيطالتصميم. تضيف ضوءًا أبيض ساطعًا.
 2452	أضواء مذهلة	Room Decoration	3	أضواء مذهلة مزينة بالذهب.
 2453	ثريات	Room Decoration	3	ثلاث ثريات بأضواء متلألئةليستمتع بها الجميع.
-2454	Unavailable	Item	3	Unavailable
+2454	موقد البوغي	Room Decoration	3	مصباح بوغي يمنحوهجًا دافئًا.
 2455	المصابيح المبتهجة	Room Decoration	3	مصابيح كبيرة تملأ الغرفةبوهج أحمر.(زينة بهجة العطلة)
 2456	أضواء مصابيح سماوية	Room Decoration	3	مصابيح سماوية عديدة تطفوفي السماء وتضيء الغرفة.
 2457	رف حائط مذهل (كبير)	Room Decoration	3	رف حائط يستخدم أفضل الذهب فقط.
 2458	رف حائط مذهل (صغير)	Room Decoration	3	رف حائط يستخدم أفضل الذهب فقط.
 2459	لوحة نطاق الصقيع 2	Room Decoration	3	لوحة لنطاق الصقيع.
 2460	خرائط العالم الجديد	Room Decoration	3	خرائط العالم الجديد والمناطقالنائية عن الساحل مع ملاحظاتمتناثرة.
-2461	Unavailable	Item	3	Unavailable
+2461	لوحات باليكو الشخصية 5	Room Decoration	3	تشكيلة من لوحات باليكو.(والبوغي!)
 2462	Unavailable	Item	3	Unavailable
 2463	شعار الأسطول الأول	Room Decoration	3	شعار الأسطول الأول.
 2464	شعار الأسطول الثاني	Room Decoration	3	شعار الأسطول الثاني.
@@ -2474,7 +2474,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2472	سجاجيد مذهلة (الطابق الأرضي)	Room Decoration	3	سجاجيد بإحساس رائع.
 2473	سجاجيد مذهلة (الطابق الأول)	Room Decoration	3	سجاجيد بإحساس رائع.
 2474	مصباح ورقي	Room Decoration	3	مصباح ورقي يضيء إضاءةخافتة وينبعث منه بعض الدفء.(زينة بهجة العطلة)
-2475	Unavailable	Item	3	Unavailable
+2475	مصباح البوغي	Room Decoration	3	مصباح لطيف الشكل على هيئةبوغي.
 2476	مصابيح ورقية مستديرة	Room Decoration	3	مصباح بسيط ولكن عصري.(زينة التقدير الكبير)
 2477	Unavailable	Item	3	Unavailable
 2478	مجموعة أبحاث	Room Decoration	3	مجموعة من أدوات البحث المستخدمةفي قاعدة بحث الأسطول الثالث.
@@ -2532,7 +2532,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2530	الطبق المبهج	Room Decoration	3	طبق طعام خاص، مطهو باستخدامنار ساخنة وكمية وفيرة من الزيت.(طبق احتفال بهجة العطلة المميز)
 2531	الطبق الفاخر	Room Decoration	3	طبق طعام فائق الروعة، تُستخدمفيه المكونات عالية الجودة فقط.(طبق التقدير الكبير المميز)
 2532	صحن الازدهار الكامل	Room Decoration	3	زينة رائعة شائعة بأزهار زينة.(طبق احتفال الازدهار الكامل المميز)
-2533	Unavailable	Item	3	Unavailable
+2533	طبق التوابل الساخنة	Room Decoration	3	طبق لحوم بها عصارة تجعل قلبكيخفق من الشهية!(طبق احتفال التوابل الساخنة الخاص)
 2534	تمثال توبي-كاداتشي	Room Decoration	3	تمثال وحشتوبي-كاداتشي
 2535	تمثال باريوث	Room Decoration	3	تمثال وحشباريوث
 2536	تمثال بنبارو	Room Decoration	3	تمثال وحشبنبارو
@@ -2549,21 +2549,21 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2547	تمثال زينغر	Room Decoration	3	تمثال وحشزينغر
 2548	تمثال إيان غاروغا	Room Decoration	3	تمثال وحشإيان غاروغا
 2549	تمثال غيروس العظيم	Room Decoration	3	تمثال وحش غيروسالعظيم وغيروس
-2550	Unavailable	Item	3	Unavailable
-2551	Unavailable	Item	3	Unavailable
-2552	Unavailable	Item	3	Unavailable
+2550	تمثال تغريكس	Room Decoration	3	تمثال وحشتغريكس
+2551	تمثال أودوغارون	Room Decoration	3	تمثال وحشأودوغارون
+2552	تمثال رادوبان	Room Decoration	3	تمثال وحشرادوبان
 2553	تمثال ناميال	Room Decoration	3	تمثال وحشناميال
 2554	تمثال باولومو	Room Decoration	3	تمثال وحشباولومو
 2555	تمثال تسيتسي-يا-كو	Room Decoration	3	تمثال وحشتسيتسي-يا-كو
-2556	Unavailable	Item	3	Unavailable
-2557	Unavailable	Item	3	Unavailable
+2556	تمثال راجانغ	Room Decoration	3	تمثال وحشراجانغ
+2557	تمثال كيرين	Room Decoration	3	تمثال وحشكيرين
 2558	Unavailable	Item	3	Unavailable
-2559	Unavailable	Item	3	Unavailable
-2560	Unavailable	Item	3	Unavailable
-2561	Unavailable	Item	3	Unavailable
-2562	Unavailable	Item	3	Unavailable
+2559	تمثال فال هازاك	Room Decoration	3	تمثال وحشفال هازاك
+2560	تمثال تيوسترا	Room Decoration	3	تمثال وحشتيوسترا
+2561	تماثيل غاجالاكا	Room Decoration	3	تمثال وحشغاجالاكا
+2562	تمثال براكيديوس	Room Decoration	3	تمثال وحشبراكيديوس
 2563	Unavailable	Item	3	Unavailable
-2564	Unavailable	Item	3	Unavailable
+2564	تمثال لافاسيوث	Room Decoration	3	تمثال وحشلافاسيوث
 2565	مجسم التقدير الكبير	Room Decoration	3	مجسم لوحشين حميمينمفزعين.(زينة التقدير الكبير)
 2566	جدار رخامي (أبيض)	Room Decoration	3	Unavailable
 2567	أرضية رخامية (بيضاء)	Room Decoration	3	Unavailable
@@ -2579,11 +2579,11 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2577	آلة كاتبة	Room Decoration	3	آلة كاتبة مصنوعة لتدوينقصص الخوف والارتياح.<STYL MOJI_RED_DEFAULT>تعاون مدينة الراكون</STYL>
 2578	صندوق العناصر	Room Decoration	3	صندوق مفيد في حفظالعناصر الفائضة.<STYL MOJI_RED_DEFAULT>تعاون مدينة الراكون</STYL>
 2579	Unavailable	Item	3	Unavailable
-2580	Unavailable	Item	3	Unavailable
+2580	بوغي ذهبي	Room Decoration	3	تمثال بوغي ذهبي لامع.
 2581	رجل الثلج المبتهج	Room Decoration	3	رجل ثلج مضيءيبدو طبيعيًا، ولكن...؟(زينة بهجة العطلة)
 2582	رجل الثلج بالغ التقدير	Room Decoration	3	رجل ثلج أرزق ذو نظرة فضوليةومتصل به قرص غامض.(زينة التقدير الكبير)
 2583	رجل ثلج مزدهر	Room Decoration	3	رجل ثلج مصنوع من تجميع الزهور معًا.(زخرفة احتفال الازدهار الكامل)
-2584	Unavailable	Item	3	Unavailable
+2584	رجل ثلج ساخن	Room Decoration	3	رجل ثلج مبتسميرتدي قناعًا.(زينة التوابل الساخنة)
 2585	Unavailable	Item	3	Unavailable
 2586	مصابيح السماء	Room Decoration	3	فتحتات سقف غريبةفي الهواء.(زينة التقدير الكبير)
 2587	علم مذهل	Room Decoration	3	علم مزخرف بتصميم مذهل.
@@ -2592,12 +2592,12 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2590	مجسّم	Room Decoration	3	مجسّم برونزي لراذالوس.
 2591	لوحة الأميرال	Room Decoration	3	لوحة تصور هيئة الأميرالمفتول العضلات.
 2592	زينة حائط مذهلة	Room Decoration	3	زينة حائط بيضاء مزخرفةبتصميم ذهبي.
-2593	Unavailable	Item	3	Unavailable
-2594	Unavailable	Item	3	Unavailable
+2593	لوحات باليكو الشخصية 6	Room Decoration	3	لوحة زمرة باليكو.
+2594	لوحة بوغي 2	Room Decoration	3	لوحة لبوغي يستمتعباستراحة، بصورة أنيقة.
 2595	رسومات رائعة	Room Decoration	3	رسمة فريدة لاثنين من المبدعينالأعجوبة. أعمال رسمية!(زينة التقدير الكبير)
 2596	سجاجيد استعراضية (الطابق الأرضي)	Room Decoration	3	سجاد استعراضي مزخرفبأوراق الزهور المنثورة.(زخرفة احتفال الازدهار الكامل)
 2597	سجاجيد استعراضية (الطابق الأول)	Room Decoration	3	سجاد استعراضي مزخرفبأوراق الزهور المنثورة.(زخرفة احتفال الازدهار الكامل)
-2598	Unavailable	Item	3	Unavailable
+2598	زينة بوكي-بوكي	Room Decoration	3	زينة بوكي-بوكي ضخمة ولطيفةوعليها ريش.
 2599	Unavailable	Item	3	Unavailable
 2600	تمثال جيوراتودوس	Room Decoration	3	تمثال وحشجيوراتودوس
 2601	تمثال باروث	Room Decoration	3	تمثال وحشباروث
@@ -2605,7 +2605,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2603	تمثال صافيجيفا	Room Decoration	3	تمثال وحشصافيجيفا
 2604	تمثال زينوجيفا	Room Decoration	3	تمثال وحشزينوجيفا
 2605	تماثيل وولغ	Room Decoration	3	تمثال وحشوولغ
-2606	Unavailable	Item	3	Unavailable
+2606	تماثيل آكل النبات	Room Decoration	3	تمثال وحشأبتونوث والكراك الناعم
 2607	Unavailable	Item	3	Unavailable
 2608	Unavailable	Item	3	Unavailable
 2609	Unavailable	Item	3	Unavailable
@@ -2616,31 +2616,31 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2614	The Bustling Heart of the Snowy Village (MH Swing)	Room Decoration	3	Monster Hunter Portable 2ndسمة قرية بوكي -التوزيع الموسيقيMonster Hunter Swing
 2615	Scat Cat Fever (MH Swing)	Room Decoration	3	سمة الحلبة من Monster Hunter -التوزيع الموسيقيMonster Hunter Swing
 2616	In Search of Hidden Springs (MH Swing)	Room Decoration	3	Monster Hunter Portable 3rdسمة قرية يوكومو - التوزيع الموسيقيMonster Hunter Swing
-2617	Unavailable	Item	3	Unavailable
-2618	Unavailable	Item	3	Unavailable
-2619	Unavailable	Item	3	Unavailable
-2620	Unavailable	Item	3	Unavailable
-2621	Unavailable	Item	3	Unavailable
-2622	Unavailable	Item	3	Unavailable
-2623	Unavailable	Item	3	Unavailable
-2624	Unavailable	Item	3	Unavailable
+2617	Scat Cat Fever	Room Decoration	3	Monster Hunterموسيقى الخلفية للحلبة
+2618	Felyne Soup Strategy!	Room Decoration	3	Monster Hunter 2موسيقى الخلفية للحلبة
+2619	Chime from a Shimmering Bell - Alatreon: World version	Room Decoration	3	Monster Hunter World: Iceborneسمة معركة ألاتريون
+2620	A Day on Pokke Farm (MH The Jazz)	Room Decoration	3	Monster Hunter Portable 2ndموسيقى خلفية قرية بوكي موزعة موسيقيًاMonster Hunter The Jazz
+2621	Felynes of Yukumo Farm (MH The Jazz)	Room Decoration	3	Monster Hunter Portable 3rdموسيقى خلفية قرية يوكومو موزعة موسيقيًاMonster Hunter The Jazz
+2622	The Hunters' Secret Spring (MH The Jazz)	Room Decoration	3	Monster Hunter Portable 3rdموسيقى خلفية مركز التجمع موزعة موسيقيًاMonster Hunter The Jazz
+2623	Winds of Adventure (MH The Jazz)	Room Decoration	3	Monster Hunter 4 Ultimateالسمة الرئيسية موزعة موسيقيًاMonster Hunter The Jazz
+2624	Proof of a Hero (MH The Jazz)	Room Decoration	3	Monster Hunterسمة السلسلة موزعة موسيقيًاMonster Hunter The Jazz
 2625	Unavailable	Item	3	Unavailable
 2626	Unavailable	Item	3	Unavailable
 2627	Unavailable	Item	3	Unavailable
-2628	Unavailable	Item	3	Unavailable
-2629	Unavailable	Item	3	Unavailable
-2630	Unavailable	Item	3	Unavailable
-2631	Unavailable	Item	3	Unavailable
-2632	Unavailable	Item	3	Unavailable
-2633	Unavailable	Item	3	Unavailable
-2634	Unavailable	Item	3	Unavailable
-2635	Unavailable	Item	3	Unavailable
-2636	Unavailable	Item	3	Unavailable
-2637	Unavailable	Item	3	Unavailable
-2638	Unavailable	Item	3	Unavailable
-2639	Unavailable	Item	3	Unavailable
+2628	احتفال بوابوا	Room Decoration	3	طبق مبني على احتفالبوابوا تقليدي.
+2629	تمثال بوبو	Room Decoration	3	تمثال بوبوبسيط.
+2630	قارب نجاة بوابوا	Room Decoration	3	زينة تتضمنبوابوا يقود قارب نجاة
+2631	هدية ودية	Room Decoration	3	هدية مليئةبالعرفان.
+2632	دمية بوكي-بوكي أخضر محشوة	Room Decoration	3	دمية ملونة محشوة علىهيئة بوكي-بوكي.
+2633	دمية بوكي-بوكي مرجاني محشوة	Room Decoration	3	دمية ملونة محشوة علىهيئة بوكي-بوكي مرجاني.
+2634	لوحات باليكو الشخصية 7	Room Decoration	3	لوحة باليكو شخصية صنعتعن طريق تجميع قطع مختلفة.
+2635	لوحة بوكي-بوكي الشخصية	Room Decoration	3	لوحة شخصية زاهية لبوكي-بوكينفذت بأسلوب خاص.
+2636	كوخ بوابوا	Room Decoration	3	نسخة من مسكنبوابوا.
+2637	تماثيل فيلاين	Room Decoration	3	ثلاثة تماثيل فيلاين.
+2638	تماثيل غريمالكين طينية	Room Decoration	3	مجموعة تماثيل صُنعت بواسطةغريمالكين من الطين.
+2639	تماثيل بوبو	Room Decoration	3	تمثال لقطيع من البوبو.
 2640	Unavailable	Item	3	Unavailable
-2641	Unavailable	Item	3	Unavailable
+2641	عتاد بوابوا	Room Decoration	3	زينة لمعداتبوابوا.
 2642	Unavailable	Item	3	Unavailable
 2643	Unavailable	Item	3	Unavailable
 2644	Unavailable	Item	3	Unavailable
@@ -2681,7 +2681,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2679	تذكرة ناميال	Material	11	تذكرة تحمل صورة ناميال، سيد السيل. يمكن استعمالها في ورشة الحدادةلصناعة معدات جديدة.
 2680	Unavailable	Item	3	Unavailable
 2681	Unavailable	Item	3	Unavailable
-2682	Unavailable	Item	3	Unavailable
+2682	تذكرة أنياب الصقيع	Material	10	إثبات على أنك اصطدت باريوثأنياب الصقيع. يتم تسليمه للحدادمن أجل شيء جميل!
 2683	عشب أخضر	Item	1	عشب أخضر موطنه الأصليجبال أركلاي. يعيد الصحة ويعالجالتحول إلى الزومبي. <STYL MOJI_YELLOW_DEFAULT>(مهمة فقط)</STYL>
 2684	عشب أحمر	Item	1	عشب أحمر موطنه الأصلي جبال أركلاي.لا يمكن استخدامها كما هي.<STYL MOJI_YELLOW_DEFAULT>(مهمة فقط)</STYL>
 2685	عشب منوع (أخضر وأحمر)	Item	2	هذا المزيج من عشبين مختلفينسيعيد لك صحتك الكاملةويعالج التحول إلى زومبي. <STYL MOJI_YELLOW_DEFAULT>(مهمة فقط)</STYL>
@@ -2700,9 +2700,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2698	دراكولايت كبيرة	Material	9	كمية كبيرة من طاقة الأرض تقبع داخلها.تستطيع أن توقظ القوى المخبأة عنددمجها مع مواد خاصة.
 2699	دراكولايت متصلبة	Material	10	كمية هائلة من طاقة الأرض تقبع داخلها.تستطيع أن توقظ القوى المخبأة عنددمجها مع مواد خاصة.
 2700	دراكولايت خالصة	Material	11	كمية ضخمة للغاية من طاقة الأرض تقبعداخلها. تستطيع أن توقظ القوى المخبأةعند دمجها مع مواد خاصة.
-2701	Unavailable	Item	3	Unavailable
-2702	Unavailable	Item	3	Unavailable
-2703	Unavailable	Item	3	Unavailable
+2701	فراء الثلج الفضي	Material	10	من مواد باريوث أنياب الصقيع النادرةجدًا. يمكن الحصول عليه غالبًا كمكافأة.يُستخدم بشكل واسع لأغراض متعددة.
+2702	مخلب محطم الجبل	Material	10	من مواد باريوث أنياب الصقيع النادرةجدًا. يمكن الحصول عليه بالتقطيعوكمكافأة. حاد ويُستخدم في أسلحة كثيرة.
+2703	أنياب صقيع معدن أبيض	Material	10	من مواد باريوث أنياب الصقيع النادرةجدًا. يُحصل عليه بكسر رأسه.حاد، ويُستخدم في أسلحة متعددة.
 2704	مخطوطة النسر الأسود	Material	9	مخطوطة تركها النسر الأسودوهو صيّاد مهووس بالتنين المعمر.اعرضها على الحداد وشاهد ما سيحدث!
 2705	بوتقة دودة ضخمة	Material	8	صنع اللينيان هذه البوتقة لصيدالدود الضخم، وهذا سبب اسمها.اعرضها على الحداد وشاهد ما سيحدث!
 2706	شارة ستارز	Material	11	شارة مميزة لقسم العمليات الخاصةلشرطة مدينة راكون، ستارز.تُستبدل مقابل عتاد وإضافات مميزة.
@@ -2723,21 +2723,21 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2721	تذكرة الازدهار الكامل	Material	8	تذكرة يتم الحصول عليها لحضور احتفالالازدهار الكامل. يمكن استبدالها بمعداتخاصة أو بالعناصر.
 2722	تذكرة سمكة وِت	Material	9	تذكرة من باحث أسماك لديه مخطوطاتسمكة وِت. عليك عرضها على الحدادومشاهدة ما سيحدث!
 2723	تذكرة كراك ناعم II	Material	9	تذكرة من كراك ناعم بالغ، مرسومةبعناية. عليك عرضها على الحدادومشاهدة ما سيحدث!
-2724	Unavailable	Item	3	Unavailable
-2725	Unavailable	Item	3	Unavailable
-2726	Unavailable	Item	3	Unavailable
+2724	تذكرة التوابل الساخنة	Material	8	تذكرة يتم الحصول عليها لحضور احتفالالتوابل الساخنة. يمكن استبدالها بمعداتخاصة أو بالعناصر.
+2725	تذكرة الأرنب القائد	Material	9	تذكرة لمن يرغبون في تحقيق حلمهمفي أن يصبحوا أرنبًا قائدًا.يتم تسليمه للحداد و....!؟
+2726	تذكرة مطعم الأرواح	Material	9	إيصال للحصول على شراب احتفاليعلى حساب رئيس المطعم مفتول العضلات!يتم تسليمه للحداد و....!؟
 2727	Unavailable	Item	3	Unavailable
 2728	Unavailable	Item	3	Unavailable
 2729	Unavailable	Item	3	Unavailable
 2730	رمز الاتحاد	Material	9	أنباء سارة حديثة من أصدقاء حولالعالم. يحكون أساطير غير واقعية!يُعرض على ورشة الحدادة!
 2731	Unavailable	Item	3	Unavailable
-2732	Unavailable	Item	3	Unavailable
+2732	تذكرة الينبوع الذهبي	Material	9	تذكرة رُسم عليها مكّاك الينبوع الذهبي.يتم تسليمها للحدادمن أجل شيء جميل! 
 2733	دمعة وحش ضخمة	Account Item	4	دموع مريرة ضخمة يذرفهاالوحش في مناسبات خاصة.<STYL MOJI_YELLOW_DEFAULT>(عنصر حساب)</STYL>
 2734	فراء مهيب	Material	9	يتم الحصول عليها باستخدام عباءةقاطع الطريق. تُعجب الجامعين.<STYL MOJI_YELLOW_DEFAULT>(عنصر للمبادلة)</STYL>
 2735	تذكرة مبهجة للشخصيات المهمة	Material	11	تذكرة نادرة يتم الحصول عليها أثناءاحتفال بهجة العطلة. يمكن استخدامهافي صنع دروع سميكة وعناصر سحر.
 2736	تذكرة امتنان للشخصيات المهمة	Material	11	تذكرة نادرة يتم الحصول عليها أثناءاحتفال التقدير الكبير. يمكن استخدامهافي صنع دروع سميكة وعناصر سحر.
 2737	تذكرة ازدهار كامل للشخصيات المهمة	Material	11	تذكرة نادرة يتم الحصول عليها أثناءاحتفال الازدهار الكامل. يمكن استخدامهافي صنع دروع سميكة وعناصر سحر.
-2738	Unavailable	Item	3	Unavailable
+2738	تذكرة التوابل الساخنة للمهمين	Material	11	تذكرة نادرة يتم الحصول عليها أثناءاحتفال التوابل الساخنة. يمكن استخدامهافي صنع دروع سميكة وعناصر سحر.
 2739	Unavailable	Item	3	Unavailable
 2740	كرة الإبعاد	Item	8	عليك قذف هذه على وحش ضخم لإجبارهعلى مغادرة الأراضي التوجيهية.<STYL MOJI_YELLOW_DEFAULT>قائد الأراضي التوجيهية فقط.</STYL>
 2741	Unavailable	Item	3	Unavailable
@@ -2761,9 +2761,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2759	Unavailable	Item	3	Unavailable
 2760	Unavailable	Item	3	Unavailable
 2761	Unavailable	Item	3	Unavailable
-2762	Unavailable	Item	3	Unavailable
-2763	Unavailable	Item	3	Unavailable
-2764	Unavailable	Item	3	Unavailable
+2762	تذكرة آكل النبات I	Material	9	تذكرة رُسم عليها قطيع من كيلبييتجولون بحرية. يتمتسليمها للحداد من أجل شيء جميل!
+2763	تذكرة آكل النبات II	Material	9	تذكرة رُسم عليها قطيع من أبتونوثيتجولون بحرية. يتمتسليمها للحداد من أجل شيء جميل!
+2764	تذكرة العين الداخلية	Material	10	تذكرة رُسم عليها مفهوم الرؤية الأوضح.يتم تسليمها للحدادمن أجل شيء جميل!
 2765	Unavailable	Item	3	Unavailable
 2766	Unavailable	Item	3	Unavailable
 2767	Unavailable	Item	3	Unavailable

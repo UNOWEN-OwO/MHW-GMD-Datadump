@@ -220,8 +220,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 0	GreatSword	219	"Wyvern Impact ""Silver"""	11	Unique Model	wp/two/two010	
 0	GreatSword	220	Demon Rod	10	Unique Model	wp/two/two020	
 0	GreatSword	221	Demonlord Goldrod	11	Unique Model	wp/two/two021	
-0	GreatSword	222	Unavailable	0	Combined Model	wp/two/two002	
-0	GreatSword	223	Unavailable	0	Combined Model	wp/two/two002	
+0	GreatSword	222	Alatreon Great Sword	10	Unique Model	wp/two/two024	
+0	GreatSword	223	Alatreon Revolution	11	Unique Model	wp/two/two024	
 0	GreatSword	224	"Soulfire Edge ""Blaze"""	11	Combined Model	wp/two/two009	
 0	GreatSword	225	"Soulfire Edge ""Ruin"""	11	Combined Model	wp/two/two009	wp/two/parts/op_two005
 0	GreatSword	226	"Soulfire Edge ""Styx"""	11	Combined Model	wp/two/two009	wp/two/parts/op_two010
@@ -235,7 +235,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 0	GreatSword	234	Great Demon Rod	11	Unique Model	wp/two/two020	
 0	GreatSword	235	Xiphias Gladius	10	Unique Model	wp/two/two025	
 0	GreatSword	236	Infernal Executioner+	11	Combined Model	wp/two/two003	wp/two/parts/op_two023
-0	GreatSword	237	Unavailable	0	Combined Model	wp/two/two002	
+0	GreatSword	237	Glacial Demon	10	Unique Model	wp/two/two028	
 0	GreatSword	238	Unavailable	0	Combined Model	wp/two/two002	
 0	GreatSword	239	Unavailable	0	Combined Model	wp/two/two002	
 0	GreatSword	240	Royal Venus Blade	11	Unique Model	wp/two/two026	
@@ -543,8 +543,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 1	Sword&Shield	224	Fate's Shear	11	Unique Model	wp/one/one017	
 1	Sword&Shield	225	Rajang Club	10	Unique Model	wp/one/one023	
 1	Sword&Shield	226	Demonlord Mace	11	Unique Model	wp/one/one024	
-1	Sword&Shield	227	Unavailable	0	Combined Model	wp/one/one001	
-1	Sword&Shield	228	Unavailable	0	Combined Model	wp/one/one001	
+1	Sword&Shield	227	Alatreon Sword	10	Unique Model	wp/one/one027	
+1	Sword&Shield	228	Alatreon Star	11	Unique Model	wp/one/one027	
 1	Sword&Shield	229	"Soulfire Barb ""Blaze"""	11	Combined Model	wp/one/one009	
 1	Sword&Shield	230	"Soulfire Barb ""Ruin"""	11	Combined Model	wp/one/one009	wp/one/parts/op_one005
 1	Sword&Shield	231	"Soulfire Barb ""Styx"""	11	Combined Model	wp/one/one009	wp/one/parts/op_one011
@@ -552,7 +552,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 1	Sword&Shield	233	Stonebite	11	Unique Model	wp/one/one032	
 1	Sword&Shield	234	Guild Palace Sword	9	Unique Model	wp/one/one031	
 1	Sword&Shield	235	Banned Rajang Club	11	Unique Model	wp/one/one023	
-1	Sword&Shield	236	Unavailable	0	Combined Model	wp/one/one001	
+1	Sword&Shield	236	Silverbosche	10	Unique Model	wp/one/one033	
 1	Sword&Shield	237	Unavailable	0	Combined Model	wp/one/one001	
 1	Sword&Shield	238	Unavailable	0	Combined Model	wp/one/one001	
 1	Sword&Shield	239	Royal Nova Sword	11	Unique Model	wp/one/one031	
@@ -861,8 +861,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 2	DualBlades	226	Downy Paradise	10	Unique Model	wp/sou/sou017	
 2	DualBlades	227	Suzuka Takamaru	10	Unique Model	wp/sou/sou023	
 2	DualBlades	228	Demonlord Hellfists	11	Unique Model	wp/sou/sou024	
-2	DualBlades	229	Unavailable	0	Combined Model	wp/sou/sou001	
-2	DualBlades	230	Unavailable	0	Combined Model	wp/sou/sou001	
+2	DualBlades	229	Alatreon Dual Blades	10	Unique Model	wp/sou/sou026	
+2	DualBlades	230	Alatreon Madness	11	Unique Model	wp/sou/sou026	
 2	DualBlades	231	"Soulfire Fangs ""Blaze"""	11	Combined Model	wp/sou/sou009	
 2	DualBlades	232	"Soulfire Fangs ""Ruin"""	11	Combined Model	wp/sou/sou009	wp/sou/parts/op_sou005
 2	DualBlades	233	"Soulfire Fangs ""Styx"""	11	Combined Model	wp/sou/sou009	wp/sou/parts/op_sou011
@@ -872,12 +872,12 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 2	DualBlades	237	Guild Palace Sabers	9	Unique Model	wp/sou/sou030	
 2	DualBlades	238	Suzuka Otakemaru	11	Unique Model	wp/sou/sou023	
 2	DualBlades	239	Unavailable	0	Combined Model	wp/sou/sou001	
-2	DualBlades	240	Unavailable	0	Combined Model	wp/sou/sou001	
+2	DualBlades	240	Bergel Vetra	10	Unique Model	wp/sou/sou031	
 2	DualBlades	241	Unavailable	0	Combined Model	wp/sou/sou001	
 2	DualBlades	242	Unavailable	0	Combined Model	wp/sou/sou001	
 2	DualBlades	243	Unavailable	0	Combined Model	wp/sou/sou001	
-2	DualBlades	244	Unavailable	0	Combined Model	wp/sou/sou001	
-2	DualBlades	245	Unavailable	0	Combined Model	wp/sou/sou001	
+2	DualBlades	244	Strong Ale	9	Unique Model	wp/sou/sou033	
+2	DualBlades	245	Master Ale	10	Unique Model	wp/sou/sou033	
 2	DualBlades	246	Unavailable	0	Combined Model	wp/sou/sou001	
 2	DualBlades	247	Royal Savior Daggers	11	Unique Model	wp/sou/sou030	
 2	DualBlades	248	Unavailable	0	Combined Model	wp/sou/sou001	
@@ -1176,8 +1176,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 3	LongSword	225	HARDUMMY	11	Unique Model	wp/swo/swo010	
 3	LongSword	226	Demon Halberd	10	Unique Model	wp/swo/swo024	
 3	LongSword	227	Demonlord Halberd	11	Unique Model	wp/swo/swo025	
-3	LongSword	228	Unavailable	0	Combined Model	wp/swo/swo001	
-3	LongSword	229	Unavailable	0	Combined Model	wp/swo/swo001	
+3	LongSword	228	Dark Claw	10	Unique Model	wp/swo/swo027	
+3	LongSword	229	"Dark Claw ""Demise"""	11	Unique Model	wp/swo/swo027	
 3	LongSword	230	"Soulfire Lash ""Blaze"""	11	Combined Model	wp/swo/swo009	
 3	LongSword	231	"Soulfire Lash ""Ruin"""	11	Combined Model	wp/swo/swo009	wp/swo/parts/op_swo005
 3	LongSword	232	"Soulfire Lash ""Styx"""	11	Combined Model	wp/swo/swo009	wp/swo/parts/op_swo011
@@ -1187,7 +1187,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 3	LongSword	236	Demon Scavenger Pickaxe	10	Unique Model	wp/swo/swo030	
 3	LongSword	237	Guild Palace Rapier	9	Unique Model	wp/swo/swo031	
 3	LongSword	238	Great Demon Halberd	11	Unique Model	wp/swo/swo024	
-3	LongSword	239	Unavailable	0	Combined Model	wp/swo/swo001	
+3	LongSword	239	Adularia Edge	10	Unique Model	wp/swo/swo033	
 3	LongSword	240	Unavailable	0	Combined Model	wp/swo/swo001	
 3	LongSword	241	Unavailable	0	Combined Model	wp/swo/swo001	
 3	LongSword	242	Unavailable	0	Combined Model	wp/swo/swo001	
@@ -1487,8 +1487,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 4	Hammer	223	Bristly Inferno	10	Unique Model	wp/ham/ham018	
 4	Hammer	224	Mane Malice	10	Unique Model	wp/ham/ham024	
 4	Hammer	225	Demonlord Sledge	11	Unique Model	wp/ham/ham025	
-4	Hammer	226	Unavailable	0	Combined Model	wp/ham/ham001	
-4	Hammer	227	Unavailable	0	Combined Model	wp/ham/ham001	
+4	Hammer	226	Alatreon Hammer	10	Unique Model	wp/ham/ham028	
+4	Hammer	227	Alatreon Metamorph	11	Unique Model	wp/ham/ham028	
 4	Hammer	228	"Soulfire Heel ""Blaze"""	11	Combined Model	wp/ham/ham007	
 4	Hammer	229	"Soulfire Heel ""Ruin"""	11	Combined Model	wp/ham/ham007	wp/ham/parts/op_ham005
 4	Hammer	230	"Soulfire Heel ""Styx"""	11	Combined Model	wp/ham/ham007	wp/ham/parts/op_ham011
@@ -1502,7 +1502,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 4	Hammer	238	Mane Malice Rajang	11	Unique Model	wp/ham/ham024	
 4	Hammer	239	Blackwing Deathblow I	9	Combined Model	wp/ham/ham009	wp/ham/parts/op_ham021
 4	Hammer	240	Blackwing Deathblow II	10	Combined Model	wp/ham/ham009	wp/ham/parts/op_ham021
-4	Hammer	241	Unavailable	0	Combined Model	wp/ham/ham001	
+4	Hammer	241	Polaris Bash	10	Unique Model	wp/ham/ham032	
 4	Hammer	242	Unavailable	0	Combined Model	wp/ham/ham001	
 4	Hammer	243	Unavailable	0	Combined Model	wp/ham/ham001	
 4	Hammer	244	Unavailable	0	Combined Model	wp/ham/ham001	
@@ -1796,8 +1796,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 5	HuntingHorn	220	Fate's Dirge	11	Unique Model	wp/hue/hue017	
 5	HuntingHorn	221	Denden Daiko	10	Unique Model	wp/hue/hue022	
 5	HuntingHorn	222	Demonlord Wardrum	11	Unique Model	wp/hue/hue023	
-5	HuntingHorn	223	Unavailable	0	Combined Model	wp/hue/hue001	
-5	HuntingHorn	224	Unavailable	0	Combined Model	wp/hue/hue001	
+5	HuntingHorn	223	Alatreon Harmony	10	Unique Model	wp/hue/hue025	
+5	HuntingHorn	224	Alatreon Revival	11	Unique Model	wp/hue/hue025	
 5	HuntingHorn	225	"Soulfire Chorus ""Blaze"""	11	Combined Model	wp/hue/hue007	
 5	HuntingHorn	226	"Soulfire Chorus ""Ruin"""	11	Combined Model	wp/hue/hue007	wp/hue/parts/op_hue001
 5	HuntingHorn	227	"Soulfire Chorus ""Styx"""	11	Combined Model	wp/hue/hue007	wp/hue/parts/op_hue002
@@ -1805,7 +1805,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 5	HuntingHorn	229	Ogrebite	11	Unique Model	wp/hue/hue027	
 5	HuntingHorn	230	Guild Palace Bard	9	Unique Model	wp/hue/hue026	
 5	HuntingHorn	231	Denden Doomsounder	11	Unique Model	wp/hue/hue022	
-5	HuntingHorn	232	Unavailable	0	Combined Model	wp/hue/hue001	
+5	HuntingHorn	232	Bringuiro	10	Unique Model	wp/hue/hue028	
 5	HuntingHorn	233	Unavailable	0	Combined Model	wp/hue/hue001	
 5	HuntingHorn	234	Unavailable	0	Combined Model	wp/hue/hue001	
 5	HuntingHorn	235	Royal Song Symphony	11	Unique Model	wp/hue/hue026	
@@ -2107,8 +2107,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 6	Lance	219	Sweeping Gale Lance	10	Unique Model	wp/lan/lan019	
 6	Lance	220	Demon Lance	10	Unique Model	wp/lan/lan023	
 6	Lance	221	Demonlord Rajang	11	Unique Model	wp/lan/lan024	
-6	Lance	222	Unavailable	0	Combined Model	wp/lan/lan001	
-6	Lance	223	Unavailable	0	Combined Model	wp/lan/lan001	
+6	Lance	222	Alatreon Lance	10	Unique Model	wp/lan/lan026	
+6	Lance	223	Alatreon Gleam	11	Unique Model	wp/lan/lan026	
 6	Lance	224	"Soulfire Spike ""Blaze"""	11	Combined Model	wp/lan/lan009	
 6	Lance	225	"Soulfire Spike ""Ruin"""	11	Combined Model	wp/lan/lan009	wp/lan/parts/op_lan004
 6	Lance	226	"Soulfire Spike ""Styx"""	11	Combined Model	wp/lan/lan009	wp/lan/parts/op_lan011
@@ -2118,7 +2118,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 6	Lance	230	Great Demon Lance	11	Unique Model	wp/lan/lan023	
 6	Lance	231	Lightning Bolt II	9	Combined Model	wp/lan/lan010	
 6	Lance	232	Infernal Warlance+	11	Combined Model	wp/lan/lan010	wp/lan/parts/op_lan024
-6	Lance	233	Unavailable	0	Combined Model	wp/lan/lan001	
+6	Lance	233	Saber Fang	10	Unique Model	wp/lan/lan029	
 6	Lance	234	Unavailable	0	Combined Model	wp/lan/lan001	
 6	Lance	235	Unavailable	0	Combined Model	wp/lan/lan001	
 6	Lance	236	Royal Grace Pike	11	Unique Model	wp/lan/lan028	
@@ -2414,8 +2414,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 7	GunLance	220	Consummate Gunlance	11	Unique Model	wp/gun/gun017	
 7	GunLance	221	Demon Gunlance	10	Unique Model	wp/gun/gun022	
 7	GunLance	222	Demonlord Gunlance	11	Unique Model	wp/gun/gun023	
-7	GunLance	223	Unavailable	0	Combined Model	wp/gun/gun001	
-7	GunLance	224	Unavailable	0	Combined Model	wp/gun/gun001	
+7	GunLance	223	Alatreon Gunlance	10	Unique Model	wp/gun/gun025	
+7	GunLance	224	Alatreon Melt	11	Unique Model	wp/gun/gun025	
 7	GunLance	225	"Soulfire Talon ""Blaze"""	11	Combined Model	wp/gun/gun009	
 7	GunLance	226	"Soulfire Talon ""Ruin"""	11	Combined Model	wp/gun/gun009	wp/gun/parts/op_gun005
 7	GunLance	227	"Soulfire Talon ""Styx"""	11	Combined Model	wp/gun/gun009	wp/gun/parts/op_gun011
@@ -2428,7 +2428,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 7	GunLance	234	Unavailable	0	Combined Model	wp/gun/gun001	
 7	GunLance	235	Unavailable	0	Combined Model	wp/gun/gun001	
 7	GunLance	236	Unavailable	0	Combined Model	wp/gun/gun001	
-7	GunLance	237	Unavailable	0	Combined Model	wp/gun/gun001	
+7	GunLance	237	White Night	10	Unique Model	wp/gun/gun029	
 7	GunLance	238	Unavailable	0	Combined Model	wp/gun/gun001	
 7	GunLance	239	Unavailable	0	Combined Model	wp/gun/gun001	
 7	GunLance	240	Royal Guard Striker	11	Unique Model	wp/gun/gun027	
@@ -2729,8 +2729,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 8	SwitchAxe	228	Saligia Vileaxe	11	Unique Model	wp/saxe/saxe016	
 8	SwitchAxe	229	Undying Axe	10	Unique Model	wp/saxe/saxe019	
 8	SwitchAxe	230	Demonlord Edge	11	Unique Model	wp/saxe/saxe020	
-8	SwitchAxe	231	Unavailable	0	Combined Model	wp/saxe/saxe001	
-8	SwitchAxe	232	Unavailable	0	Combined Model	wp/saxe/saxe001	
+8	SwitchAxe	231	Dark Switch Axe	10	Unique Model	wp/saxe/saxe022	
+8	SwitchAxe	232	Black Harvest	11	Unique Model	wp/saxe/saxe022	
 8	SwitchAxe	233	"Soulfire Scourge ""Blaze"""	11	Combined Model	wp/saxe/saxe007	
 8	SwitchAxe	234	"Soulfire Scourge ""Ruin"""	11	Combined Model	wp/saxe/saxe007	wp/saxe/parts/op_saxe004
 8	SwitchAxe	235	"Soulfire Scourge ""Styx"""	11	Combined Model	wp/saxe/saxe007	wp/saxe/parts/op_saxe011
@@ -2738,7 +2738,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 8	SwitchAxe	237	Guild Palace Cleaver	9	Unique Model	wp/saxe/saxe023	
 8	SwitchAxe	238	Undying Light	11	Unique Model	wp/saxe/saxe019	
 8	SwitchAxe	239	Infernal Cleave-axe+	11	Combined Model	wp/saxe/saxe002	wp/saxe/parts/op_saxe026
-8	SwitchAxe	240	Unavailable	0	Combined Model	wp/saxe/saxe001	
+8	SwitchAxe	240	Moonstone Hoarfrost	10	Unique Model	wp/saxe/saxe024	
 8	SwitchAxe	241	Unavailable	0	Combined Model	wp/saxe/saxe001	
 8	SwitchAxe	242	Unavailable	0	Combined Model	wp/saxe/saxe001	
 8	SwitchAxe	243	Royal Titan Axe	11	Unique Model	wp/saxe/saxe023	
@@ -3018,8 +3018,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 9	ChargeBlade	215	Fate's Curtain	11	Unique Model	wp/caxe/caxe017	
 9	ChargeBlade	216	Rajang Beastblade	10	Unique Model	wp/caxe/caxe022	
 9	ChargeBlade	217	Demonlord Blade	11	Unique Model	wp/caxe/caxe023	
-9	ChargeBlade	218	Unavailable	0	Combined Model	wp/caxe/caxe001	
-9	ChargeBlade	219	Unavailable	0	Combined Model	wp/caxe/caxe001	
+9	ChargeBlade	218	Alatreon Edge	10	Unique Model	wp/caxe/caxe026	
+9	ChargeBlade	219	Alatreon Morphblade	11	Unique Model	wp/caxe/caxe026	
 9	ChargeBlade	220	"Soulfire Brand ""Blaze"""	11	Combined Model	wp/caxe/caxe007	
 9	ChargeBlade	221	"Soulfire Brand ""Ruin"""	11	Combined Model	wp/caxe/caxe007	wp/caxe/parts/op_caxe004
 9	ChargeBlade	222	"Soulfire Brand ""Styx"""	11	Combined Model	wp/caxe/caxe007	wp/caxe/parts/op_caxe011
@@ -3029,7 +3029,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 9	ChargeBlade	226	Unavailable	0	Combined Model	wp/caxe/caxe001	
 9	ChargeBlade	227	Unavailable	0	Combined Model	wp/caxe/caxe001	
 9	ChargeBlade	228	Unavailable	0	Combined Model	wp/caxe/caxe001	
-9	ChargeBlade	229	Unavailable	0	Combined Model	wp/caxe/caxe001	
+9	ChargeBlade	229	Raging Wolf Fang	10	Unique Model	wp/caxe/caxe029	
 9	ChargeBlade	230	Unavailable	0	Combined Model	wp/caxe/caxe001	
 9	ChargeBlade	231	Unavailable	0	Combined Model	wp/caxe/caxe001	
 9	ChargeBlade	232	Black Eagle	9	Unique Model	wp/caxe/caxe030	
@@ -3333,8 +3333,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 10	InsectGlaive	221	Fate's Wing	11	Unique Model	wp/rod/rod017	
 10	InsectGlaive	222	Metal Mauler	10	Unique Model	wp/rod/rod021	
 10	InsectGlaive	223	Demonlord Cudgel	11	Unique Model	wp/rod/rod022	
-10	InsectGlaive	224	Unavailable	0	Combined Model	wp/rod/rod001	
-10	InsectGlaive	225	Unavailable	0	Combined Model	wp/rod/rod001	
+10	InsectGlaive	224	Alatreon Dragonspire	10	Unique Model	wp/rod/rod025	
+10	InsectGlaive	225	Alatreon Embrace	11	Unique Model	wp/rod/rod025	
 10	InsectGlaive	226	"Soulfire Reach ""Blaze"""	11	Combined Model	wp/rod/rod007	
 10	InsectGlaive	227	"Soulfire Reach ""Ruin"""	11	Combined Model	wp/rod/rod007	wp/rod/parts/op_rod004
 10	InsectGlaive	228	"Soulfire Reach ""Styx"""	11	Combined Model	wp/rod/rod007	wp/rod/parts/op_rod011
@@ -3351,7 +3351,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 10	InsectGlaive	239	Unavailable	0	Combined Model	wp/rod/rod001	
 10	InsectGlaive	240	Unavailable	0	Combined Model	wp/rod/rod001	
 10	InsectGlaive	241	Unavailable	0	Combined Model	wp/rod/rod001	
-10	InsectGlaive	242	Unavailable	0	Combined Model	wp/rod/rod001	
+10	InsectGlaive	242	Fenrir Rose	10	Unique Model	wp/rod/rod028	
 10	InsectGlaive	243	Unavailable	0	Combined Model	wp/rod/rod001	
 10	InsectGlaive	244	Unavailable	0	Combined Model	wp/rod/rod001	
 10	InsectGlaive	245	Royal March Banner	11	Unique Model	wp/rod/rod027	
@@ -3631,8 +3631,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 11	Bow	215	Fate's Thread	128	Unique Model	wp/bow/bow018	
 11	Bow	216	Beast Thunderbow	96	Unique Model	wp/bow/bow021	
 11	Bow	217	Archbeast Paragon	64	Unique Model	wp/bow/bow022	
-11	Bow	218	Unavailable	0	Combined Model	wp/bow/bow001	
-11	Bow	219	Unavailable	0	Combined Model	wp/bow/bow001	
+11	Bow	218	Alatreon Bow	96	Unique Model	wp/bow/bow025	
+11	Bow	219	Alatreon Commandment	128	Unique Model	wp/bow/bow025	
 11	Bow	220	"Soulfire Arch ""Blaze"""	128	Combined Model	wp/bow/bow007	
 11	Bow	221	"Soulfire Arch ""Ruin"""	128	Combined Model	wp/bow/bow007	wp/bow/parts/op_bow001
 11	Bow	222	"Soulfire Arch ""Styx"""	128	Combined Model	wp/bow/bow007	wp/bow/parts/op_bow003
@@ -3646,7 +3646,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 11	Bow	230	Acidic Arrow II	192	Combined Model	wp/bow/bow003	wp/bow/parts/op_bow020
 11	Bow	231	Beastking Thunderbow	128	Unique Model	wp/bow/bow021	
 11	Bow	232	Unavailable	0	Combined Model	wp/bow/bow001	
-11	Bow	233	Unavailable	0	Combined Model	wp/bow/bow001	
+11	Bow	233	Edelescha	64	Unique Model	wp/bow/bow027	
 11	Bow	234	Unavailable	0	Combined Model	wp/bow/bow001	
 11	Bow	235	Unavailable	0	Combined Model	wp/bow/bow001	
 11	Bow	236	HARDUMMY	128	Unique Model	wp/bow/bow028	
@@ -3937,15 +3937,15 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 12	HeavyBowGun	213	Endless Famine	128	Unique Model	wp/hbg/hbg019	
 12	HeavyBowGun	214	Rajang Blaster	96	Unique Model	wp/hbg/hbg022	
 12	HeavyBowGun	215	Demonlord Beastbuster	64	Unique Model	wp/hbg/hbg023	
-12	HeavyBowGun	216	Unavailable	0	Combined Model	wp/hbg/hbg001	
-12	HeavyBowGun	217	Unavailable	0	Combined Model	wp/hbg/hbg001	
+12	HeavyBowGun	216	Chaos Wing	96	Unique Model	wp/hbg/hbg026	
+12	HeavyBowGun	217	Albadash	128	Unique Model	wp/hbg/hbg026	
 12	HeavyBowGun	218	"Soulfire Roar ""Blaze"""	128	Combined Model	wp/hbg/hbg005	
 12	HeavyBowGun	219	"Soulfire Roar ""Ruin"""	128	Combined Model	wp/hbg/hbg005	wp/hbg/parts/op_hbg001
 12	HeavyBowGun	220	"Soulfire Roar ""Styx"""	128	Combined Model	wp/hbg/hbg005	wp/hbg/parts/op_hbg002
 12	HeavyBowGun	221	Accursed Bellow	192	Unique Model	wp/hbg/hbg028	
 12	HeavyBowGun	222	Guild Palace Rifle	128	Unique Model	wp/hbg/hbg027	
 12	HeavyBowGun	223	Rajang Destroyer	128	Unique Model	wp/hbg/hbg022	
-12	HeavyBowGun	224	Unavailable	0	Combined Model	wp/hbg/hbg001	
+12	HeavyBowGun	224	Final Guerilla	64	Unique Model	wp/hbg/hbg029	
 12	HeavyBowGun	225	Unavailable	0	Combined Model	wp/hbg/hbg001	
 12	HeavyBowGun	226	Unavailable	0	Combined Model	wp/hbg/hbg001	
 12	HeavyBowGun	227	Royal Light Cortege	128	Unique Model	wp/hbg/hbg027	
@@ -4259,8 +4259,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 13	LightBowGun	222	"Diregun ""Dementia"""	128	Unique Model	wp/lbg/lbg015	
 13	LightBowGun	223	Rajang Barrage	96	Unique Model	wp/lbg/lbg018	
 13	LightBowGun	224	Demonlord Cannon	64	Unique Model	wp/lbg/lbg019	
-13	LightBowGun	225	Unavailable	0	Combined Model	wp/lbg/lbg001	
-13	LightBowGun	226	Unavailable	0	Combined Model	wp/lbg/lbg001	
+13	LightBowGun	225	Alatreon Razer	96	Unique Model	wp/lbg/lbg021	
+13	LightBowGun	226	Alatreon Dominator	128	Unique Model	wp/lbg/lbg021	
 13	LightBowGun	227	"Soulfire Rasp ""Blaze"""	128	Combined Model	wp/lbg/lbg005	
 13	LightBowGun	228	"Soulfire Rasp ""Ruin"""	128	Combined Model	wp/lbg/lbg005	wp/lbg/parts/op_lbg001
 13	LightBowGun	229	"Soulfire Rasp ""Styx"""	128	Combined Model	wp/lbg/lbg005	wp/lbg/parts/op_lbg003
@@ -4269,7 +4269,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 13	LightBowGun	232	Ten Thousand Volts	128	Unique Model	wp/lbg/lbg018	
 13	LightBowGun	233	Unavailable	0	Combined Model	wp/lbg/lbg001	
 13	LightBowGun	234	Unavailable	0	Combined Model	wp/lbg/lbg001	
-13	LightBowGun	235	Unavailable	0	Combined Model	wp/lbg/lbg001	
+13	LightBowGun	235	Blizzard Gust	64	Unique Model	wp/lbg/lbg023	
 13	LightBowGun	236	Unavailable	0	Combined Model	wp/lbg/lbg001	
 13	LightBowGun	237	Unavailable	0	Combined Model	wp/lbg/lbg001	
 13	LightBowGun	238	HARDUMMY	128	Unique Model	wp/lbg/lbg024	

@@ -355,8 +355,9 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 51605	El dragón rojo	Abate a Safi'jiiva	Se te acaba el tiempoTe has desmayado tres veces
 51606	Mi rabia es para todos	Abate a un Brachydios Colérico	Se te acaba el tiempoTe has desmayado tres veces
 51607	La furia permanece	Caza un Rajang Rabioso	Se te acaba el tiempoTe has desmayado tres veces
-51611	Unavailable	Unavailable	Unavailable
+51611	Crepúsculo negro flameante	Abate a un Alatreon	Se te acaba el tiempoTe has desmayado tres veces
 51612	Unavailable	Unavailable	Unavailable
+51613	Unavailable	Unavailable	Unavailable
 51621	Arena especial: Zinogre Estigio RM	Caza un Zinogre Estigio	Se te acaba el tiempoTe has desmayado tres veces
 51622	Clamor en tiempos de cólera	Abate a un Brachydios Colérico	Se te acaba el tiempoTe has desmayado tres veces
 51623	Para esta rabia no hay vacuna	Caza un Rajang Rabioso	Se te acaba el tiempoTe has desmayado tres veces
@@ -384,6 +385,8 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 61812	Toda la carne en el asador	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
 61813	50 sombras de blanco	Caza un Barioth	Se te acaba el tiempoTe has desmayado tres veces
 61814	Mal rayo les parta	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+61815	Disparando al aire	Entrega 5 milobátidos volantes	Se te acaba el tiempoTe has desmayado tres veces
+61816	¡Ca-vaya cuchillo voy a hacer!	Entrega 2 caballas cuchillo reales	Se te acaba el tiempoTe has desmayado tres veces
 62502	Cortina silenciosa y mortal	Abate a Vaal Hazak	Se te acaba el tiempoTe has desmayado tres veces
 62503	El susurro de una blanca crin	Abate al Kirin	Se te acaba el tiempoTe has desmayado tres veces
 62504	Aspirante al sol	Abate a Teostra	Se te acaba el tiempoTe has desmayado tres veces
@@ -493,9 +496,13 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66830	Rock en el lecho	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
 66831	Balada en el arroyo	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
 66832	Lobo infernal	Caza un Zinogre Estigio	Se te acaba el tiempoTe has desmayado tres veces
+66833	Fiebre del oro eterna	Abate a Kulve Taroth	Se te acaba el tiempoTe has desmayado tres veces
 66834	El veloz choca con el rugido	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
 66835	Desciende la furia del trueno	Caza un Zinogre	Se te acaba el tiempoTe has desmayado tres veces
 66836	Oda a la destrucción	Abate a un Nergigante Regio	Se te acaba el tiempoTe has desmayado tres veces
+66847	Lejana marea negra	Abate a un Namielle	Se te acaba el tiempoTe has desmayado tres veces
+66859	El típico brasas	Caza un Bazelgeuse Magma	Se te acaba el tiempoTe has desmayado tres veces
+66860	Desciende la furia del trueno	Caza un Zinogre	Se te acaba el tiempoTe has desmayado tres veces
 67101	La prueba	Caza un Anjanath	Se te acaba el tiempoTe has desmayado tres veces
 67102	Lecciones de un mundo hostil	Abate 8 Barnos	Se te acaba el tiempoTe has desmayado tres veces
 67103	Buen perro, perro malo	Caza 2 Odogaron	Se te acaba el tiempoTe has desmayado tres veces
@@ -512,3 +519,4 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67802	Hacia las tierras heladas	Caza un Zinogre	Se te acaba el tiempoTe has desmayado tres veces
 67803	Superviviente	Caza un Zinogre Estigio	Se te acaba el tiempoTe has desmayado tres veces
 67804	Firebreak	Caza un Deviljho Salvaje	Se te acaba el tiempoTe has desmayado tres veces
+67807	El asesino	Caza un Nargacuga	Se te acaba el tiempoTe has desmayado tres veces

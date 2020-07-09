@@ -214,12 +214,14 @@ Skill ID	Skill Code	Skill Name	Skill Desc
 212	PT_WINTER_SKILL_PT	Bênção Jovial	Unavailable
 213	PT_ANNIVERSARY_S_SKILL_PT	Benção da Apreciação	Unavailable
 214	PT_SPRING_SKILL_PT	Bênção Florescente	Unavailable
-215	DUMMY000129	Unavailable	Unavailable
-216	DUMMY000132	Unavailable	Unavailable
+215	PT_SUMMER_SKILL_PT	Bênção Ardente	Unavailable
+216	DUMMY000130	Unavailable	Unavailable
 217	PT_EX23_SKILL_PT	Vontade de Rajang	Unavailable
 218	PT_EX24_SKILL_PT	Vontade de Brachydios	Unavailable
 219	PT_EX25_SKILL_PT	Essência Kulve Taroth	Unavailable
-220	DUMMY000138	Unavailable	Unavailable
-221	DUMMY000141	Unavailable	Unavailable
-222	DUMMY000144	Unavailable	Unavailable
-223	DUMMY000147	Unavailable	Unavailable
+220	PT_EX26_SKILL_PT	Arte Absoluta de Presagélida	Unavailable
+221	PT_EX27_SKILL_PT	Divindade de Alatreon	Unavailable
+222	DUMMY000138	Unavailable	Unavailable
+223	DUMMY000141	Unavailable	Unavailable
+224	DUMMY000144	Unavailable	Unavailable
+225	DUMMY000147	Unavailable	Unavailable

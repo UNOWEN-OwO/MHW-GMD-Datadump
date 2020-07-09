@@ -119,7 +119,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	157	EX斉天ネコノ金環α	otomo/equip/ot071/helm
 0	Helmet	158	EX爆砕ネコヘッドギアα	otomo/equip/ot070/helm
 0	Helmet	159	EX赤龍ネコ封冠α	otomo/equip/ot067/helm
-0	Helmet	160	レザーネコヘッド	otomo/equip/ot000/helm
+0	Helmet	160	EXエスカドネコワイズα	otomo/equip/ot068/helm
 0	Helmet	161	EXエリザネココロナα	otomo/equip/ot034/helm
 0	Helmet	162	EXマムネコファーα	otomo/equip/ot025/helm
 0	Helmet	163	EXロックマンヘッドα	otomo/equip/ot035/helm
@@ -128,7 +128,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	166	HARDUMMY	otomo/equip/ot036/helm
 0	Helmet	167	EX武者ネコ兜α	otomo/equip/ot039/helm
 0	Helmet	168	EXパピネコハットα	otomo/equip/ot040/helm
-0	Helmet	169	レザーネコヘッド	otomo/equip/ot000/helm
+0	Helmet	169	EXアロハネコ麦わら帽α	otomo/equip/ot041/helm
 0	Helmet	170	レザーネコヘッド	otomo/equip/ot000/helm
 0	Helmet	171	EXスノーネコヘッドα	otomo/equip/ot043/helm
 0	Helmet	172	EXスターネコヘッドα	otomo/equip/ot044/helm
@@ -140,7 +140,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	178	EXゼノネコヴェールα	otomo/equip/ot024/helm
 0	Helmet	179	EXギルドネコキャップα	otomo/equip/ot063/helm
 0	Helmet	180	EXローゼネコヘッドα	otomo/equip/ot075/helm
-0	Helmet	181	レザーネコヘッド	otomo/equip/ot000/helm
+0	Helmet	181	EXプケぐるみネコヘッドα	otomo/equip/ot076/helm
 0	Helmet	182	レザーネコヘッド	otomo/equip/ot000/helm
 0	Helmet	183	EXシシマイネコヘッドα	otomo/equip/ot078/helm
 0	Helmet	184	EX宇宙ネコマスクα	otomo/equip/ot079/helm
@@ -151,7 +151,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	189	HARDUMMY	otomo/equip/ot081/helm
 0	Helmet	190	EXユラユラネコフェイクα	otomo/equip/ot082/helm
 0	Helmet	191	レザーネコヘッド	otomo/equip/ot000/helm
-0	Helmet	192	レザーネコヘッド	otomo/equip/ot000/helm
+0	Helmet	192	EXオルムネコヘルムα	otomo/equip/ot083/helm
 0	Helmet	193	レザーネコヘッド	otomo/equip/ot000/helm
 0	Helmet	194	レザーネコヘッド	otomo/equip/ot000/helm
 0	Helmet	195	EXマエストロネコヘアーα	otomo/equip/ot085/helm
@@ -281,7 +281,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	157	EX斉天ネコノ胴着α	otomo/equip/ot071/body
 1	Armor	158	EX爆砕ネコグローブα	otomo/equip/ot070/body
 1	Armor	159	EX赤龍ネコ封鎧α	otomo/equip/ot067/body
-1	Armor	160	レザーネコヘッド	otomo/equip/ot000/body
+1	Armor	160	EXエスカドネコソウルα	otomo/equip/ot068/body
 1	Armor	161	EXエリザネコラフルα	otomo/equip/ot034/body
 1	Armor	162	EXマムネコスーツα	otomo/equip/ot025/body
 1	Armor	163	EXロックマンボディα	otomo/equip/ot035/body
@@ -290,7 +290,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	166	HARDUMMY	otomo/equip/ot036/body
 1	Armor	167	EX武者ネコ鎧α	otomo/equip/ot039/body
 1	Armor	168	EXパピネコベストα	otomo/equip/ot040/body
-1	Armor	169	レザーネコヘッド	otomo/equip/ot000/body
+1	Armor	169	EXアロハネコアロハα	otomo/equip/ot041/body
 1	Armor	170	レザーネコヘッド	otomo/equip/ot000/body
 1	Armor	171	EXスノーネコボディα	otomo/equip/ot043/body
 1	Armor	172	EXスターネコツナギα	otomo/equip/ot044/body
@@ -302,7 +302,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	178	EXゼノネコドレスα	otomo/equip/ot024/body
 1	Armor	179	EXギルドネココートα	otomo/equip/ot063/body
 1	Armor	180	EXローゼネコドレスα	otomo/equip/ot075/body
-1	Armor	181	レザーネコヘッド	otomo/equip/ot000/body
+1	Armor	181	EXプケぐるみネコボディα	otomo/equip/ot076/body
 1	Armor	182	レザーネコヘッド	otomo/equip/ot000/body
 1	Armor	183	EXシシマイネコボディα	otomo/equip/ot078/body
 1	Armor	184	EX宇宙ネコスーツα	otomo/equip/ot079/body
@@ -313,7 +313,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	189	HARDUMMY	otomo/equip/ot081/body
 1	Armor	190	EXユラユラネコポットα	otomo/equip/ot082/body
 1	Armor	191	レザーネコヘッド	otomo/equip/ot000/body
-1	Armor	192	レザーネコヘッド	otomo/equip/ot000/body
+1	Armor	192	EXオルムネコメイルα	otomo/equip/ot083/body
 1	Armor	193	レザーネコヘッド	otomo/equip/ot000/body
 1	Armor	194	レザーネコヘッド	otomo/equip/ot000/body
 1	Armor	195	EXマエストロネコスーツα	otomo/equip/ot085/body

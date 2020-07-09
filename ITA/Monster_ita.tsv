@@ -86,7 +86,7 @@ Monster ID	Monster Code	Monster Name
 84	EMS063_00	Wulg
 85	EMS064_00	Cortos
 86	EMS061_01	Boaboa
-87	DUMMY000014	Unavailable
+87	EM050	Alatreon
 88	EM001_02	Rathian dorata
 89	EM002_02	Rathalos argentato
 90	EM018_00	Yian Garuga
@@ -97,7 +97,7 @@ Monster ID	Monster Code	Monster Name
 95	EM057_01	Zinogre stigeo
 96	EM063_05	Brachydios rabbioso
 97	EM104	Safi'jiiva
-98	DUMMY000016	Unavailable
+98	DUMMY000014	Unavailable
 99	EM018_05	Yian Garuga deturpato
-100	DUMMY000018	Unavailable
-101	DUMMY000020	Unavailable
+100	EM042_05	Barioth assiderato
+101	DUMMY000016	Unavailable

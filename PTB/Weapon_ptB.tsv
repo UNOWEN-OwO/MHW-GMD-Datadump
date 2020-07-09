@@ -220,8 +220,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 0	GreatSword	219	Impacto Serpe Prata	11	Unique Model	wp/two/two010	
 0	GreatSword	220	Bastão Demoníaco	10	Unique Model	wp/two/two020	
 0	GreatSword	221	Bastáureo do Demolorde	11	Unique Model	wp/two/two021	
-0	GreatSword	222	Unavailable	0	Combined Model	wp/two/two002	
-0	GreatSword	223	Unavailable	0	Combined Model	wp/two/two002	
+0	GreatSword	222	Espadão de Alatreon	10	Unique Model	wp/two/two024	
+0	GreatSword	223	Revolução de Alatreon	11	Unique Model	wp/two/two024	
 0	GreatSword	224	Gume Fogalma Chama	11	Combined Model	wp/two/two009	
 0	GreatSword	225	Gume Fogalma Ruína	11	Combined Model	wp/two/two009	wp/two/parts/op_two005
 0	GreatSword	226	Gume Fogalma Estige	11	Combined Model	wp/two/two009	wp/two/parts/op_two010
@@ -235,7 +235,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 0	GreatSword	234	Bastão Demoníaco Grande	11	Unique Model	wp/two/two020	
 0	GreatSword	235	Gládio de Espadarte	10	Unique Model	wp/two/two025	
 0	GreatSword	236	Algoz Infernal+	11	Combined Model	wp/two/two003	wp/two/parts/op_two023
-0	GreatSword	237	Unavailable	0	Combined Model	wp/two/two002	
+0	GreatSword	237	Demônio Glacial	10	Unique Model	wp/two/two028	
 0	GreatSword	238	Unavailable	0	Combined Model	wp/two/two002	
 0	GreatSword	239	Unavailable	0	Combined Model	wp/two/two002	
 0	GreatSword	240	Espadão Vênus Real	11	Unique Model	wp/two/two026	
@@ -543,8 +543,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 1	Sword&Shield	224	Tosa do Destino	11	Unique Model	wp/one/one017	
 1	Sword&Shield	225	Porrete de Rajang	10	Unique Model	wp/one/one023	
 1	Sword&Shield	226	Maça do Demolorde	11	Unique Model	wp/one/one024	
-1	Sword&Shield	227	Unavailable	0	Combined Model	wp/one/one001	
-1	Sword&Shield	228	Unavailable	0	Combined Model	wp/one/one001	
+1	Sword&Shield	227	Espada de Alatreon	10	Unique Model	wp/one/one027	
+1	Sword&Shield	228	Estrela de Alatreon	11	Unique Model	wp/one/one027	
 1	Sword&Shield	229	Farpa Fogalma Chama	11	Combined Model	wp/one/one009	
 1	Sword&Shield	230	Farpa Fogalma Ruína	11	Combined Model	wp/one/one009	wp/one/parts/op_one005
 1	Sword&Shield	231	Farpa Fogalma Estige	11	Combined Model	wp/one/one009	wp/one/parts/op_one011
@@ -552,7 +552,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 1	Sword&Shield	233	Morderrocha	11	Unique Model	wp/one/one032	
 1	Sword&Shield	234	Espada Palácio da Guilda	9	Unique Model	wp/one/one031	
 1	Sword&Shield	235	Porrete de Rajang Banido	11	Unique Model	wp/one/one023	
-1	Sword&Shield	236	Unavailable	0	Combined Model	wp/one/one001	
+1	Sword&Shield	236	Silverbosche	10	Unique Model	wp/one/one033	
 1	Sword&Shield	237	Unavailable	0	Combined Model	wp/one/one001	
 1	Sword&Shield	238	Unavailable	0	Combined Model	wp/one/one001	
 1	Sword&Shield	239	Espada Nova Real	11	Unique Model	wp/one/one031	
@@ -861,8 +861,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 2	DualBlades	226	Paraíso Plumoso	10	Unique Model	wp/sou/sou017	
 2	DualBlades	227	Suzuka Takamaru	10	Unique Model	wp/sou/sou023	
 2	DualBlades	228	Punhardentes do Demolorde	11	Unique Model	wp/sou/sou024	
-2	DualBlades	229	Unavailable	0	Combined Model	wp/sou/sou001	
-2	DualBlades	230	Unavailable	0	Combined Model	wp/sou/sou001	
+2	DualBlades	229	Duplas-lâminas de Alatreon	10	Unique Model	wp/sou/sou026	
+2	DualBlades	230	Loucura de Alatreon	11	Unique Model	wp/sou/sou026	
 2	DualBlades	231	Presas Fogalma Chama	11	Combined Model	wp/sou/sou009	
 2	DualBlades	232	Presas Fogalma Ruína	11	Combined Model	wp/sou/sou009	wp/sou/parts/op_sou005
 2	DualBlades	233	Presas Fogalma Estige	11	Combined Model	wp/sou/sou009	wp/sou/parts/op_sou011
@@ -872,12 +872,12 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 2	DualBlades	237	Sabres Palácio da Guilda	9	Unique Model	wp/sou/sou030	
 2	DualBlades	238	Suzuka Otakemaru	11	Unique Model	wp/sou/sou023	
 2	DualBlades	239	Unavailable	0	Combined Model	wp/sou/sou001	
-2	DualBlades	240	Unavailable	0	Combined Model	wp/sou/sou001	
+2	DualBlades	240	Bergel Vetra	10	Unique Model	wp/sou/sou031	
 2	DualBlades	241	Unavailable	0	Combined Model	wp/sou/sou001	
 2	DualBlades	242	Unavailable	0	Combined Model	wp/sou/sou001	
 2	DualBlades	243	Unavailable	0	Combined Model	wp/sou/sou001	
-2	DualBlades	244	Unavailable	0	Combined Model	wp/sou/sou001	
-2	DualBlades	245	Unavailable	0	Combined Model	wp/sou/sou001	
+2	DualBlades	244	Chope Forte	9	Unique Model	wp/sou/sou033	
+2	DualBlades	245	Chope-mestre	10	Unique Model	wp/sou/sou033	
 2	DualBlades	246	Unavailable	0	Combined Model	wp/sou/sou001	
 2	DualBlades	247	Adagas Salvador Real	11	Unique Model	wp/sou/sou030	
 2	DualBlades	248	Unavailable	0	Combined Model	wp/sou/sou001	
@@ -1176,8 +1176,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 3	LongSword	225	HARDUMMY	11	Unique Model	wp/swo/swo010	
 3	LongSword	226	Alabarda Demoníaca	10	Unique Model	wp/swo/swo024	
 3	LongSword	227	Alabarda do Demolorde	11	Unique Model	wp/swo/swo025	
-3	LongSword	228	Unavailable	0	Combined Model	wp/swo/swo001	
-3	LongSword	229	Unavailable	0	Combined Model	wp/swo/swo001	
+3	LongSword	228	Garra Sombria	10	Unique Model	wp/swo/swo027	
+3	LongSword	229	"Garra Sombria ""Ruína"""	11	Unique Model	wp/swo/swo027	
 3	LongSword	230	Relho Fogalma Chama	11	Combined Model	wp/swo/swo009	
 3	LongSword	231	Relho Fogalma Ruína	11	Combined Model	wp/swo/swo009	wp/swo/parts/op_swo005
 3	LongSword	232	Relho Fogalma Estige	11	Combined Model	wp/swo/swo009	wp/swo/parts/op_swo011
@@ -1187,7 +1187,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 3	LongSword	236	Picareta Catador Demoníaco	10	Unique Model	wp/swo/swo030	
 3	LongSword	237	Florete Palácio da Guilda	9	Unique Model	wp/swo/swo031	
 3	LongSword	238	Alabarda Demoníaca Grande	11	Unique Model	wp/swo/swo024	
-3	LongSword	239	Unavailable	0	Combined Model	wp/swo/swo001	
+3	LongSword	239	Gume de Adulária	10	Unique Model	wp/swo/swo033	
 3	LongSword	240	Unavailable	0	Combined Model	wp/swo/swo001	
 3	LongSword	241	Unavailable	0	Combined Model	wp/swo/swo001	
 3	LongSword	242	Unavailable	0	Combined Model	wp/swo/swo001	
@@ -1487,8 +1487,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 4	Hammer	223	Conflagração Eriçada	10	Unique Model	wp/ham/ham018	
 4	Hammer	224	Malícia de Juba	10	Unique Model	wp/ham/ham024	
 4	Hammer	225	Marreta do Demolorde	11	Unique Model	wp/ham/ham025	
-4	Hammer	226	Unavailable	0	Combined Model	wp/ham/ham001	
-4	Hammer	227	Unavailable	0	Combined Model	wp/ham/ham001	
+4	Hammer	226	Martelo de Alatreon	10	Unique Model	wp/ham/ham028	
+4	Hammer	227	Metamorfo de Alatreon	11	Unique Model	wp/ham/ham028	
 4	Hammer	228	Pata Fogalma Chama	11	Combined Model	wp/ham/ham007	
 4	Hammer	229	Pata Fogalma Ruína	11	Combined Model	wp/ham/ham007	wp/ham/parts/op_ham005
 4	Hammer	230	Pata Fogalma Estige	11	Combined Model	wp/ham/ham007	wp/ham/parts/op_ham011
@@ -1502,7 +1502,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 4	Hammer	238	Malícia de Juba de Rajang	11	Unique Model	wp/ham/ham024	
 4	Hammer	239	Golpe Mortal Asanegra I	9	Combined Model	wp/ham/ham009	wp/ham/parts/op_ham021
 4	Hammer	240	Golpe Mortal Asanegra II	10	Combined Model	wp/ham/ham009	wp/ham/parts/op_ham021
-4	Hammer	241	Unavailable	0	Combined Model	wp/ham/ham001	
+4	Hammer	241	Golpe Polaris	10	Unique Model	wp/ham/ham032	
 4	Hammer	242	Unavailable	0	Combined Model	wp/ham/ham001	
 4	Hammer	243	Unavailable	0	Combined Model	wp/ham/ham001	
 4	Hammer	244	Unavailable	0	Combined Model	wp/ham/ham001	
@@ -1796,8 +1796,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 5	HuntingHorn	220	Canto Fúnebre do Destino	11	Unique Model	wp/hue/hue017	
 5	HuntingHorn	221	Daiko de Denden	10	Unique Model	wp/hue/hue022	
 5	HuntingHorn	222	Tambor de Guerra Demolorde	11	Unique Model	wp/hue/hue023	
-5	HuntingHorn	223	Unavailable	0	Combined Model	wp/hue/hue001	
-5	HuntingHorn	224	Unavailable	0	Combined Model	wp/hue/hue001	
+5	HuntingHorn	223	Harmonia de Alatreon	10	Unique Model	wp/hue/hue025	
+5	HuntingHorn	224	Ressurreição de Alatreon	11	Unique Model	wp/hue/hue025	
 5	HuntingHorn	225	Coro Fogalma Chama	11	Combined Model	wp/hue/hue007	
 5	HuntingHorn	226	Coro Fogalma Ruína	11	Combined Model	wp/hue/hue007	wp/hue/parts/op_hue001
 5	HuntingHorn	227	Coro Fogalma Estige	11	Combined Model	wp/hue/hue007	wp/hue/parts/op_hue002
@@ -1805,7 +1805,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 5	HuntingHorn	229	Bocadogro	11	Unique Model	wp/hue/hue027	
 5	HuntingHorn	230	Bardo Palácio da Guilda	9	Unique Model	wp/hue/hue026	
 5	HuntingHorn	231	Som da Ruína de Denden	11	Unique Model	wp/hue/hue022	
-5	HuntingHorn	232	Unavailable	0	Combined Model	wp/hue/hue001	
+5	HuntingHorn	232	Guirogelante	10	Unique Model	wp/hue/hue028	
 5	HuntingHorn	233	Unavailable	0	Combined Model	wp/hue/hue001	
 5	HuntingHorn	234	Unavailable	0	Combined Model	wp/hue/hue001	
 5	HuntingHorn	235	Sinfonia Canção Real	11	Unique Model	wp/hue/hue026	
@@ -2107,8 +2107,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 6	Lance	219	Lança Vendaval	10	Unique Model	wp/lan/lan019	
 6	Lance	220	Lança Demoníaca	10	Unique Model	wp/lan/lan023	
 6	Lance	221	Rajang Demolorde	11	Unique Model	wp/lan/lan024	
-6	Lance	222	Unavailable	0	Combined Model	wp/lan/lan001	
-6	Lance	223	Unavailable	0	Combined Model	wp/lan/lan001	
+6	Lance	222	Lança de Alatreon	10	Unique Model	wp/lan/lan026	
+6	Lance	223	Brilho de Alatreon	11	Unique Model	wp/lan/lan026	
 6	Lance	224	Cravo Fogalma Chama	11	Combined Model	wp/lan/lan009	
 6	Lance	225	Cravo Fogalma Ruína	11	Combined Model	wp/lan/lan009	wp/lan/parts/op_lan004
 6	Lance	226	Cravo Fogalma Estige	11	Combined Model	wp/lan/lan009	wp/lan/parts/op_lan011
@@ -2118,7 +2118,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 6	Lance	230	Lança Demoníaca Grande	11	Unique Model	wp/lan/lan023	
 6	Lance	231	Corisco II	9	Combined Model	wp/lan/lan010	
 6	Lance	232	Lança de Guerra Infernal+	11	Combined Model	wp/lan/lan010	wp/lan/parts/op_lan024
-6	Lance	233	Unavailable	0	Combined Model	wp/lan/lan001	
+6	Lance	233	Presa de Sabre	10	Unique Model	wp/lan/lan029	
 6	Lance	234	Unavailable	0	Combined Model	wp/lan/lan001	
 6	Lance	235	Unavailable	0	Combined Model	wp/lan/lan001	
 6	Lance	236	Pique da Graça Real	11	Unique Model	wp/lan/lan028	
@@ -2414,8 +2414,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 7	GunLance	220	Lançarma Consumada	11	Unique Model	wp/gun/gun017	
 7	GunLance	221	Lançarma Demoníaca	10	Unique Model	wp/gun/gun022	
 7	GunLance	222	Lançarma do Demolorde	11	Unique Model	wp/gun/gun023	
-7	GunLance	223	Unavailable	0	Combined Model	wp/gun/gun001	
-7	GunLance	224	Unavailable	0	Combined Model	wp/gun/gun001	
+7	GunLance	223	Lançarma de Alatreon	10	Unique Model	wp/gun/gun025	
+7	GunLance	224	Degelo de Alatreon	11	Unique Model	wp/gun/gun025	
 7	GunLance	225	Garra Fogalma Chama	11	Combined Model	wp/gun/gun009	
 7	GunLance	226	Garra Fogalma Ruína	11	Combined Model	wp/gun/gun009	wp/gun/parts/op_gun005
 7	GunLance	227	Garra Fogalma Estige	11	Combined Model	wp/gun/gun009	wp/gun/parts/op_gun011
@@ -2428,7 +2428,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 7	GunLance	234	Unavailable	0	Combined Model	wp/gun/gun001	
 7	GunLance	235	Unavailable	0	Combined Model	wp/gun/gun001	
 7	GunLance	236	Unavailable	0	Combined Model	wp/gun/gun001	
-7	GunLance	237	Unavailable	0	Combined Model	wp/gun/gun001	
+7	GunLance	237	Noite Branca	10	Unique Model	wp/gun/gun029	
 7	GunLance	238	Unavailable	0	Combined Model	wp/gun/gun001	
 7	GunLance	239	Unavailable	0	Combined Model	wp/gun/gun001	
 7	GunLance	240	Atacante da Guarda Real	11	Unique Model	wp/gun/gun027	
@@ -2729,8 +2729,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 8	SwitchAxe	228	Machadovil Saligia	11	Unique Model	wp/saxe/saxe016	
 8	SwitchAxe	229	Machado Imortal	10	Unique Model	wp/saxe/saxe019	
 8	SwitchAxe	230	Gume do Demolorde	11	Unique Model	wp/saxe/saxe020	
-8	SwitchAxe	231	Unavailable	0	Combined Model	wp/saxe/saxe001	
-8	SwitchAxe	232	Unavailable	0	Combined Model	wp/saxe/saxe001	
+8	SwitchAxe	231	Transmachado Sombrio	10	Unique Model	wp/saxe/saxe022	
+8	SwitchAxe	232	Colheita Tétrica	11	Unique Model	wp/saxe/saxe022	
 8	SwitchAxe	233	Praga Fogalma Chama	11	Combined Model	wp/saxe/saxe007	
 8	SwitchAxe	234	Praga Fogalma Ruína	11	Combined Model	wp/saxe/saxe007	wp/saxe/parts/op_saxe004
 8	SwitchAxe	235	Praga Fogalma Estige	11	Combined Model	wp/saxe/saxe007	wp/saxe/parts/op_saxe011
@@ -2738,7 +2738,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 8	SwitchAxe	237	Cutelo Palácio da Guilda	9	Unique Model	wp/saxe/saxe023	
 8	SwitchAxe	238	Luz Imortal	11	Unique Model	wp/saxe/saxe019	
 8	SwitchAxe	239	Machado-cutelo Infernal+	11	Combined Model	wp/saxe/saxe002	wp/saxe/parts/op_saxe026
-8	SwitchAxe	240	Unavailable	0	Combined Model	wp/saxe/saxe001	
+8	SwitchAxe	240	Geada de Pedra Lunar	10	Unique Model	wp/saxe/saxe024	
 8	SwitchAxe	241	Unavailable	0	Combined Model	wp/saxe/saxe001	
 8	SwitchAxe	242	Unavailable	0	Combined Model	wp/saxe/saxe001	
 8	SwitchAxe	243	Machado Titã Real	11	Unique Model	wp/saxe/saxe023	
@@ -3018,8 +3018,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 9	ChargeBlade	215	Véu do Destino	11	Unique Model	wp/caxe/caxe017	
 9	ChargeBlade	216	Animalâmina de Rajang	10	Unique Model	wp/caxe/caxe022	
 9	ChargeBlade	217	Lâmina do Demolorde	11	Unique Model	wp/caxe/caxe023	
-9	ChargeBlade	218	Unavailable	0	Combined Model	wp/caxe/caxe001	
-9	ChargeBlade	219	Unavailable	0	Combined Model	wp/caxe/caxe001	
+9	ChargeBlade	218	Gume de Alatreon	10	Unique Model	wp/caxe/caxe026	
+9	ChargeBlade	219	Laminorfose Alatreon	11	Unique Model	wp/caxe/caxe026	
 9	ChargeBlade	220	Marca Fogalma Chama	11	Combined Model	wp/caxe/caxe007	
 9	ChargeBlade	221	Marca Fogalma Ruína	11	Combined Model	wp/caxe/caxe007	wp/caxe/parts/op_caxe004
 9	ChargeBlade	222	Marca Fogalma Estige	11	Combined Model	wp/caxe/caxe007	wp/caxe/parts/op_caxe011
@@ -3029,7 +3029,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 9	ChargeBlade	226	Unavailable	0	Combined Model	wp/caxe/caxe001	
 9	ChargeBlade	227	Unavailable	0	Combined Model	wp/caxe/caxe001	
 9	ChargeBlade	228	Unavailable	0	Combined Model	wp/caxe/caxe001	
-9	ChargeBlade	229	Unavailable	0	Combined Model	wp/caxe/caxe001	
+9	ChargeBlade	229	Presa do Lobo Feroz	10	Unique Model	wp/caxe/caxe029	
 9	ChargeBlade	230	Unavailable	0	Combined Model	wp/caxe/caxe001	
 9	ChargeBlade	231	Unavailable	0	Combined Model	wp/caxe/caxe001	
 9	ChargeBlade	232	Águia Negra	9	Unique Model	wp/caxe/caxe030	
@@ -3333,8 +3333,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 10	InsectGlaive	221	Asa do Destino	11	Unique Model	wp/rod/rod017	
 10	InsectGlaive	222	Malho de Metal	10	Unique Model	wp/rod/rod021	
 10	InsectGlaive	223	Porrete do Demolorde	11	Unique Model	wp/rod/rod022	
-10	InsectGlaive	224	Unavailable	0	Combined Model	wp/rod/rod001	
-10	InsectGlaive	225	Unavailable	0	Combined Model	wp/rod/rod001	
+10	InsectGlaive	224	Dragagulha de Alatreon	10	Unique Model	wp/rod/rod025	
+10	InsectGlaive	225	Abraço de Alatreon	11	Unique Model	wp/rod/rod025	
 10	InsectGlaive	226	Alcance Fogalma Chama	11	Combined Model	wp/rod/rod007	
 10	InsectGlaive	227	Alcance Fogalma Ruína	11	Combined Model	wp/rod/rod007	wp/rod/parts/op_rod004
 10	InsectGlaive	228	Alcance Fogalma Estige	11	Combined Model	wp/rod/rod007	wp/rod/parts/op_rod011
@@ -3351,7 +3351,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 10	InsectGlaive	239	Unavailable	0	Combined Model	wp/rod/rod001	
 10	InsectGlaive	240	Unavailable	0	Combined Model	wp/rod/rod001	
 10	InsectGlaive	241	Unavailable	0	Combined Model	wp/rod/rod001	
-10	InsectGlaive	242	Unavailable	0	Combined Model	wp/rod/rod001	
+10	InsectGlaive	242	Rosa de Fenrir	10	Unique Model	wp/rod/rod028	
 10	InsectGlaive	243	Unavailable	0	Combined Model	wp/rod/rod001	
 10	InsectGlaive	244	Unavailable	0	Combined Model	wp/rod/rod001	
 10	InsectGlaive	245	Pendão de Marcha Real	11	Unique Model	wp/rod/rod027	
@@ -3631,8 +3631,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 11	Bow	215	Fibra do Destino	128	Unique Model	wp/bow/bow018	
 11	Bow	216	Trovoarco Feral	96	Unique Model	wp/bow/bow021	
 11	Bow	217	Arquifera Modelo	64	Unique Model	wp/bow/bow022	
-11	Bow	218	Unavailable	0	Combined Model	wp/bow/bow001	
-11	Bow	219	Unavailable	0	Combined Model	wp/bow/bow001	
+11	Bow	218	Arco de Alatreon	96	Unique Model	wp/bow/bow025	
+11	Bow	219	Mandamento de Alatreon	128	Unique Model	wp/bow/bow025	
 11	Bow	220	Arco Fogalma Chama	128	Combined Model	wp/bow/bow007	
 11	Bow	221	Arco Fogalma Ruína	128	Combined Model	wp/bow/bow007	wp/bow/parts/op_bow001
 11	Bow	222	Arco Fogalma Estige	128	Combined Model	wp/bow/bow007	wp/bow/parts/op_bow003
@@ -3646,7 +3646,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 11	Bow	230	Flecha Ácida II	192	Combined Model	wp/bow/bow003	wp/bow/parts/op_bow020
 11	Bow	231	Trovoarco Rei das Feras	128	Unique Model	wp/bow/bow021	
 11	Bow	232	Unavailable	0	Combined Model	wp/bow/bow001	
-11	Bow	233	Unavailable	0	Combined Model	wp/bow/bow001	
+11	Bow	233	Edelescha	64	Unique Model	wp/bow/bow027	
 11	Bow	234	Unavailable	0	Combined Model	wp/bow/bow001	
 11	Bow	235	Unavailable	0	Combined Model	wp/bow/bow001	
 11	Bow	236	HARDUMMY	128	Unique Model	wp/bow/bow028	
@@ -3937,15 +3937,15 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 12	HeavyBowGun	213	Fome Incessante	128	Unique Model	wp/hbg/hbg019	
 12	HeavyBowGun	214	Detonador de Rajang	96	Unique Model	wp/hbg/hbg022	
 12	HeavyBowGun	215	Matafera do Demolorde	64	Unique Model	wp/hbg/hbg023	
-12	HeavyBowGun	216	Unavailable	0	Combined Model	wp/hbg/hbg001	
-12	HeavyBowGun	217	Unavailable	0	Combined Model	wp/hbg/hbg001	
+12	HeavyBowGun	216	Asa Caótica	96	Unique Model	wp/hbg/hbg026	
+12	HeavyBowGun	217	Albadash	128	Unique Model	wp/hbg/hbg026	
 12	HeavyBowGun	218	Rugido Fogalma Chama	128	Combined Model	wp/hbg/hbg005	
 12	HeavyBowGun	219	Rugido Fogalma Ruína	128	Combined Model	wp/hbg/hbg005	wp/hbg/parts/op_hbg001
 12	HeavyBowGun	220	Rugido Fogalma Estige	128	Combined Model	wp/hbg/hbg005	wp/hbg/parts/op_hbg002
 12	HeavyBowGun	221	Urro Amaldiçoado	192	Unique Model	wp/hbg/hbg028	
 12	HeavyBowGun	222	Rifle Palácio da Guilda	128	Unique Model	wp/hbg/hbg027	
 12	HeavyBowGun	223	Destruidor de Rajang	128	Unique Model	wp/hbg/hbg022	
-12	HeavyBowGun	224	Unavailable	0	Combined Model	wp/hbg/hbg001	
+12	HeavyBowGun	224	Guerrilha Final	64	Unique Model	wp/hbg/hbg029	
 12	HeavyBowGun	225	Unavailable	0	Combined Model	wp/hbg/hbg001	
 12	HeavyBowGun	226	Unavailable	0	Combined Model	wp/hbg/hbg001	
 12	HeavyBowGun	227	Cortejo da Luz Real	128	Unique Model	wp/hbg/hbg027	
@@ -4259,8 +4259,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 13	LightBowGun	222	Armorrenda Dementia	128	Unique Model	wp/lbg/lbg015	
 13	LightBowGun	223	Barragem de Rajang	96	Unique Model	wp/lbg/lbg018	
 13	LightBowGun	224	Canhão do Demolorde	64	Unique Model	wp/lbg/lbg019	
-13	LightBowGun	225	Unavailable	0	Combined Model	wp/lbg/lbg001	
-13	LightBowGun	226	Unavailable	0	Combined Model	wp/lbg/lbg001	
+13	LightBowGun	225	Demolidor Alatreon	96	Unique Model	wp/lbg/lbg021	
+13	LightBowGun	226	Dominador Alatreon	128	Unique Model	wp/lbg/lbg021	
 13	LightBowGun	227	Lima Fogalma Chama	128	Combined Model	wp/lbg/lbg005	
 13	LightBowGun	228	Lima Fogalma Ruína	128	Combined Model	wp/lbg/lbg005	wp/lbg/parts/op_lbg001
 13	LightBowGun	229	Lima Fogalma Estige	128	Combined Model	wp/lbg/lbg005	wp/lbg/parts/op_lbg003
@@ -4269,7 +4269,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 13	LightBowGun	232	Dez Mil Volts	128	Unique Model	wp/lbg/lbg018	
 13	LightBowGun	233	Unavailable	0	Combined Model	wp/lbg/lbg001	
 13	LightBowGun	234	Unavailable	0	Combined Model	wp/lbg/lbg001	
-13	LightBowGun	235	Unavailable	0	Combined Model	wp/lbg/lbg001	
+13	LightBowGun	235	Rajada Gelada	64	Unique Model	wp/lbg/lbg023	
 13	LightBowGun	236	Unavailable	0	Combined Model	wp/lbg/lbg001	
 13	LightBowGun	237	Unavailable	0	Combined Model	wp/lbg/lbg001	
 13	LightBowGun	238	HARDUMMY	128	Unique Model	wp/lbg/lbg024	

@@ -214,12 +214,14 @@ Skill ID	Skill Code	Skill Name	Skill Desc
 212	PT_WINTER_SKILL_PT	Радостное благословение	Unavailable
 213	PT_ANNIVERSARY_S_SKILL_PT	Благословение благодарности	Unavailable
 214	PT_SPRING_SKILL_PT	Благословение Полноцветия	Unavailable
-215	DUMMY000129	Unavailable	Unavailable
-216	DUMMY000132	Unavailable	Unavailable
+215	PT_SUMMER_SKILL_PT	Жгучее благословение	Unavailable
+216	DUMMY000130	Unavailable	Unavailable
 217	PT_EX23_SKILL_PT	Воля раянга	Unavailable
 218	PT_EX24_SKILL_PT	Воля брахидиоса	Unavailable
 219	PT_EX25_SKILL_PT	Сущность кулве тарот	Unavailable
-220	DUMMY000138	Unavailable	Unavailable
-221	DUMMY000141	Unavailable	Unavailable
-222	DUMMY000144	Unavailable	Unavailable
-223	DUMMY000147	Unavailable	Unavailable
+220	PT_EX26_SKILL_PT	Соверш. ледозубое искусство	Unavailable
+221	PT_EX27_SKILL_PT	Божество-алатреон	Unavailable
+222	DUMMY000138	Unavailable	Unavailable
+223	DUMMY000141	Unavailable	Unavailable
+224	DUMMY000144	Unavailable	Unavailable
+225	DUMMY000147	Unavailable	Unavailable

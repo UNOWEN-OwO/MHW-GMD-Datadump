@@ -220,8 +220,8 @@
 0	大剑	219	爆热机关式【银翼】	11	独立模型	wp/two/two010	
 0	大剑	220	鬼金棒	10	独立模型	wp/two/two020	
 0	大剑	221	鬼神金棒【猿魔王】	11	独立模型	wp/two/two021	
-0	大剑	222	Unavailable	0	组合模型	wp/two/two002	
-0	大剑	223	Unavailable	0	组合模型	wp/two/two002	
+0	大剑	222	煌黑之大剑	10	独立模型	wp/two/two024	
+0	大剑	223	煌黑大剑龙击	11	独立模型	wp/two/two024	
 0	大剑	224	魂焰刚剑·炎妃	11	组合模型	wp/two/two009	
 0	大剑	225	魂焰刚剑·灭尽	11	组合模型	wp/two/two009	wp/two/parts/op_two005
 0	大剑	226	魂焰刚剑·冥灯	11	组合模型	wp/two/two009	wp/two/parts/op_two010
@@ -235,7 +235,7 @@
 0	大剑	234	大鬼金棒	11	独立模型	wp/two/two020	
 0	大剑	235	瞬间冷冻剑鱼	10	独立模型	wp/two/two025	
 0	大剑	236	狱界断罪斧改	11	组合模型	wp/two/two003	wp/two/parts/op_two023
-0	大剑	237	Unavailable	0	组合模型	wp/two/two002	
+0	大剑	237	狂击巨凶	10	独立模型	wp/two/two028	
 0	大剑	238	Unavailable	0	组合模型	wp/two/two002	
 0	大剑	239	Unavailable	0	组合模型	wp/two/two002	
 0	大剑	240	宫廷王剑【金星】	11	独立模型	wp/two/two026	
@@ -543,8 +543,8 @@
 1	片手剑	224	业铊渴望	11	独立模型	wp/one/one017	
 1	片手剑	225	金兽棍	10	独立模型	wp/one/one023	
 1	片手剑	226	鬼神棍豪猩	11	独立模型	wp/one/one024	
-1	片手剑	227	Unavailable	0	组合模型	wp/one/one001	
-1	片手剑	228	Unavailable	0	组合模型	wp/one/one001	
+1	片手剑	227	煌黑之剑	10	独立模型	wp/one/one027	
+1	片手剑	228	煌黑剑双影	11	独立模型	wp/one/one027	
 1	片手剑	229	魂焰龙剑·炎妃	11	组合模型	wp/one/one009	
 1	片手剑	230	魂焰龙剑·灭尽	11	组合模型	wp/one/one009	wp/one/parts/op_one005
 1	片手剑	231	魂焰龙剑·冥灯	11	组合模型	wp/one/one009	wp/one/parts/op_one011
@@ -552,7 +552,7 @@
 1	片手剑	233	吼剑【地咬】	11	独立模型	wp/one/one032	
 1	片手剑	234	公会宫殿利剑	9	独立模型	wp/one/one031	
 1	片手剑	235	金兽棍【禁忌】	11	独立模型	wp/one/one023	
-1	片手剑	236	Unavailable	0	组合模型	wp/one/one001	
+1	片手剑	236	银白雪波	10	独立模型	wp/one/one033	
 1	片手剑	237	Unavailable	0	组合模型	wp/one/one001	
 1	片手剑	238	Unavailable	0	组合模型	wp/one/one001	
 1	片手剑	239	宫廷继剑【新星】	11	独立模型	wp/one/one031	
@@ -861,8 +861,8 @@
 2	双剑	226	松软天国	10	独立模型	wp/sou/sou017	
 2	双剑	227	斗鬼【高丸】	10	独立模型	wp/sou/sou023	
 2	双剑	228	鬼神斗拳【狱杀】	11	独立模型	wp/sou/sou024	
-2	双剑	229	Unavailable	0	组合模型	wp/sou/sou001	
-2	双剑	230	Unavailable	0	组合模型	wp/sou/sou001	
+2	双剑	229	煌黑双剑	10	独立模型	wp/sou/sou026	
+2	双剑	230	煌黑双剑烈狂	11	独立模型	wp/sou/sou026	
 2	双剑	231	魂焰双刃·炎妃	11	组合模型	wp/sou/sou009	
 2	双剑	232	魂焰双刃·灭尽	11	组合模型	wp/sou/sou009	wp/sou/parts/op_sou005
 2	双剑	233	魂焰双刃·冥灯	11	组合模型	wp/sou/sou009	wp/sou/parts/op_sou011
@@ -872,12 +872,12 @@
 2	双剑	237	公会宫殿军刀	9	独立模型	wp/sou/sou030	
 2	双剑	238	斗神鬼【大岳丸】	11	独立模型	wp/sou/sou023	
 2	双剑	239	Unavailable	0	组合模型	wp/sou/sou001	
-2	双剑	240	Unavailable	0	组合模型	wp/sou/sou001	
+2	双剑	240	贝古特拉	10	独立模型	wp/sou/sou031	
 2	双剑	241	Unavailable	0	组合模型	wp/sou/sou001	
 2	双剑	242	Unavailable	0	组合模型	wp/sou/sou001	
 2	双剑	243	Unavailable	0	组合模型	wp/sou/sou001	
-2	双剑	244	Unavailable	0	组合模型	wp/sou/sou001	
-2	双剑	245	Unavailable	0	组合模型	wp/sou/sou001	
+2	双剑	244	飘飘欲仙啤酒剑	9	独立模型	wp/sou/sou033	
+2	双剑	245	酩酊大醉啤酒剑	10	独立模型	wp/sou/sou033	
 2	双剑	246	Unavailable	0	组合模型	wp/sou/sou001	
 2	双剑	247	宫廷双骑【救星】	11	独立模型	wp/sou/sou030	
 2	双剑	248	Unavailable	0	组合模型	wp/sou/sou001	
@@ -1176,8 +1176,8 @@
 3	太刀	225	HARDUMMY	11	独立模型	wp/swo/swo010	
 3	太刀	226	鬼薙刀	10	独立模型	wp/swo/swo024	
 3	太刀	227	鬼神薙刀【阿修罗】	11	独立模型	wp/swo/swo025	
-3	太刀	228	Unavailable	0	组合模型	wp/swo/swo001	
-3	太刀	229	Unavailable	0	组合模型	wp/swo/swo001	
+3	太刀	228	漆黑爪	10	独立模型	wp/swo/swo027	
+3	太刀	229	漆黑爪【终焉】	11	独立模型	wp/swo/swo027	
 3	太刀	230	魂焰龙刀·炎妃	11	组合模型	wp/swo/swo009	
 3	太刀	231	魂焰龙刀·灭尽	11	组合模型	wp/swo/swo009	wp/swo/parts/op_swo005
 3	太刀	232	魂焰龙刀·冥灯	11	组合模型	wp/swo/swo009	wp/swo/parts/op_swo011
@@ -1187,7 +1187,7 @@
 3	太刀	236	超钢铁十字鎬【采掘鬼】	10	独立模型	wp/swo/swo030	
 3	太刀	237	公会宫殿配刀	9	独立模型	wp/swo/swo031	
 3	太刀	238	大鬼薙刀	11	独立模型	wp/swo/swo024	
-3	太刀	239	Unavailable	0	组合模型	wp/swo/swo001	
+3	太刀	239	亚铎霜锋	10	独立模型	wp/swo/swo033	
 3	太刀	240	Unavailable	0	组合模型	wp/swo/swo001	
 3	太刀	241	Unavailable	0	组合模型	wp/swo/swo001	
 3	太刀	242	Unavailable	0	组合模型	wp/swo/swo001	
@@ -1487,8 +1487,8 @@
 4	大锤	223	硬梆梆地狱	10	独立模型	wp/ham/ham018	
 4	大锤	224	怒发锤	10	独立模型	wp/ham/ham024	
 4	大锤	225	鬼神锤【金鬼】	11	独立模型	wp/ham/ham025	
-4	大锤	226	Unavailable	0	组合模型	wp/ham/ham001	
-4	大锤	227	Unavailable	0	组合模型	wp/ham/ham001	
+4	大锤	226	煌黑之坚锤	10	独立模型	wp/ham/ham028	
+4	大锤	227	煌黑坚锤破毁	11	独立模型	wp/ham/ham028	
 4	大锤	228	魂焰刚锤·炎妃	11	组合模型	wp/ham/ham007	
 4	大锤	229	魂焰刚锤·灭尽	11	组合模型	wp/ham/ham007	wp/ham/parts/op_ham005
 4	大锤	230	魂焰刚锤·冥灯	11	组合模型	wp/ham/ham007	wp/ham/parts/op_ham011
@@ -1502,7 +1502,7 @@
 4	大锤	238	怒发豪大金狮	11	独立模型	wp/ham/ham024	
 4	大锤	239	黑羽凶槌1	9	组合模型	wp/ham/ham009	wp/ham/parts/op_ham021
 4	大锤	240	黑羽凶槌2	10	组合模型	wp/ham/ham009	wp/ham/parts/op_ham021
-4	大锤	241	Unavailable	0	组合模型	wp/ham/ham001	
+4	大锤	241	北极星重击	10	独立模型	wp/ham/ham032	
 4	大锤	242	Unavailable	0	组合模型	wp/ham/ham001	
 4	大锤	243	Unavailable	0	组合模型	wp/ham/ham001	
 4	大锤	244	Unavailable	0	组合模型	wp/ham/ham001	
@@ -1796,8 +1796,8 @@
 5	狩猎笛	220	业奏缚狼锁	11	独立模型	wp/hue/hue017	
 5	狩猎笛	221	电电太鼓	10	独立模型	wp/hue/hue022	
 5	狩猎笛	222	鬼神电鼓【绯之魂】	11	独立模型	wp/hue/hue023	
-5	狩猎笛	223	Unavailable	0	组合模型	wp/hue/hue001	
-5	狩猎笛	224	Unavailable	0	组合模型	wp/hue/hue001	
+5	狩猎笛	223	煌黑风琴	10	独立模型	wp/hue/hue025	
+5	狩猎笛	224	煌黑琴雅烈婕	11	独立模型	wp/hue/hue025	
 5	狩猎笛	225	魂焰龙笛·炎妃	11	组合模型	wp/hue/hue007	
 5	狩猎笛	226	魂焰龙笛·灭尽	11	组合模型	wp/hue/hue007	wp/hue/parts/op_hue001
 5	狩猎笛	227	魂焰龙笛·冥灯	11	组合模型	wp/hue/hue007	wp/hue/parts/op_hue002
@@ -1805,7 +1805,7 @@
 5	狩猎笛	229	吼鼓【鬼咬】	11	独立模型	wp/hue/hue027	
 5	狩猎笛	230	公会宫殿吟游者	9	独立模型	wp/hue/hue026	
 5	狩猎笛	231	电电太鼓【雷轰】	11	独立模型	wp/hue/hue022	
-5	狩猎笛	232	Unavailable	0	组合模型	wp/hue/hue001	
+5	狩猎笛	232	瑰丽雪霜	10	独立模型	wp/hue/hue028	
 5	狩猎笛	233	Unavailable	0	组合模型	wp/hue/hue001	
 5	狩猎笛	234	Unavailable	0	组合模型	wp/hue/hue001	
 5	狩猎笛	235	宫廷奏琴【响星】	11	独立模型	wp/hue/hue026	
@@ -2107,8 +2107,8 @@
 6	长枪	219	羁绊团旗长枪【疾风】	10	独立模型	wp/lan/lan019	
 6	长枪	220	鬼枪金狮子	10	独立模型	wp/lan/lan023	
 6	长枪	221	鬼神天枪金狮子	11	独立模型	wp/lan/lan024	
-6	长枪	222	Unavailable	0	组合模型	wp/lan/lan001	
-6	长枪	223	Unavailable	0	组合模型	wp/lan/lan001	
+6	长枪	222	煌黑之锐枪	10	独立模型	wp/lan/lan026	
+6	长枪	223	煌黑枪致命	11	独立模型	wp/lan/lan026	
 6	长枪	224	魂焰龙枪·炎妃	11	组合模型	wp/lan/lan009	
 6	长枪	225	魂焰龙刃·灭尽	11	组合模型	wp/lan/lan009	wp/lan/parts/op_lan004
 6	长枪	226	魂焰龙刃·冥灯	11	组合模型	wp/lan/lan009	wp/lan/parts/op_lan011
@@ -2118,7 +2118,7 @@
 6	长枪	230	大鬼枪金狮子	11	独立模型	wp/lan/lan023	
 6	长枪	231	轰雷长枪2	9	组合模型	wp/lan/lan010	
 6	长枪	232	狱界战枪改	11	组合模型	wp/lan/lan010	wp/lan/parts/op_lan024
-6	长枪	233	Unavailable	0	组合模型	wp/lan/lan001	
+6	长枪	233	骑兵罗德斯	10	独立模型	wp/lan/lan029	
 6	长枪	234	Unavailable	0	组合模型	wp/lan/lan001	
 6	长枪	235	Unavailable	0	组合模型	wp/lan/lan001	
 6	长枪	236	宫廷丽枪【贤星】	11	独立模型	wp/lan/lan028	
@@ -2414,8 +2414,8 @@
 7	铳枪	220	业铳枪暴食	11	独立模型	wp/gun/gun017	
 7	铳枪	221	鬼铳枪	10	独立模型	wp/gun/gun022	
 7	铳枪	222	鬼神铳枪猛狮	11	独立模型	wp/gun/gun023	
-7	铳枪	223	Unavailable	0	组合模型	wp/gun/gun001	
-7	铳枪	224	Unavailable	0	组合模型	wp/gun/gun001	
+7	铳枪	223	煌黑破铳枪	10	独立模型	wp/gun/gun025	
+7	铳枪	224	煌黑铳枪之灭	11	独立模型	wp/gun/gun025	
 7	铳枪	225	魂焰铳枪·炎妃	11	组合模型	wp/gun/gun009	
 7	铳枪	226	魂焰铳枪·灭尽	11	组合模型	wp/gun/gun009	wp/gun/parts/op_gun005
 7	铳枪	227	魂焰铳枪·冥灯	11	组合模型	wp/gun/gun009	wp/gun/parts/op_gun011
@@ -2428,7 +2428,7 @@
 7	铳枪	234	Unavailable	0	组合模型	wp/gun/gun001	
 7	铳枪	235	Unavailable	0	组合模型	wp/gun/gun001	
 7	铳枪	236	Unavailable	0	组合模型	wp/gun/gun001	
-7	铳枪	237	Unavailable	0	组合模型	wp/gun/gun001	
+7	铳枪	237	白昼之夜	10	独立模型	wp/gun/gun029	
 7	铳枪	238	Unavailable	0	组合模型	wp/gun/gun001	
 7	铳枪	239	Unavailable	0	组合模型	wp/gun/gun001	
 7	铳枪	240	宫廷铳枪【护星】	11	独立模型	wp/gun/gun027	
@@ -2729,8 +2729,8 @@
 8	斩斧	228	业斧暴食强欲	11	独立模型	wp/saxe/saxe016	
 8	斩斧	229	金刚角斧	10	独立模型	wp/saxe/saxe019	
 8	斩斧	230	鬼神角斧【雷火丰】	11	独立模型	wp/saxe/saxe020	
-8	斩斧	231	Unavailable	0	组合模型	wp/saxe/saxe001	
-8	斩斧	232	Unavailable	0	组合模型	wp/saxe/saxe001	
+8	斩斧	231	黑之剑斧	10	独立模型	wp/saxe/saxe022	
+8	斩斧	232	漆黑收获	11	独立模型	wp/saxe/saxe022	
 8	斩斧	233	魂焰剑斧·炎妃	11	组合模型	wp/saxe/saxe007	
 8	斩斧	234	魂焰剑斧·灭尽	11	组合模型	wp/saxe/saxe007	wp/saxe/parts/op_saxe004
 8	斩斧	235	魂焰剑斧·冥灯	11	组合模型	wp/saxe/saxe007	wp/saxe/parts/op_saxe011
@@ -2738,7 +2738,7 @@
 8	斩斧	237	公会宫殿剑斧	9	独立模型	wp/saxe/saxe023	
 8	斩斧	238	金刚角斧雷鸣	11	独立模型	wp/saxe/saxe019	
 8	斩斧	239	狱界斩裂斧改	11	组合模型	wp/saxe/saxe002	wp/saxe/parts/op_saxe026
-8	斩斧	240	Unavailable	0	组合模型	wp/saxe/saxe001	
+8	斩斧	240	冰霜奥拉烈	10	独立模型	wp/saxe/saxe024	
 8	斩斧	241	Unavailable	0	组合模型	wp/saxe/saxe001	
 8	斩斧	242	Unavailable	0	组合模型	wp/saxe/saxe001	
 8	斩斧	243	宫廷卫剑斧【巨星】	11	独立模型	wp/saxe/saxe023	
@@ -3018,8 +3018,8 @@
 9	盾斧	215	业盾赤婪	11	独立模型	wp/caxe/caxe017	
 9	盾斧	216	金刚盾斧	10	独立模型	wp/caxe/caxe022	
 9	盾斧	217	鬼神盾斧【夜叉】	11	独立模型	wp/caxe/caxe023	
-9	盾斧	218	Unavailable	0	组合模型	wp/caxe/caxe001	
-9	盾斧	219	Unavailable	0	组合模型	wp/caxe/caxe001	
+9	盾斧	218	煌黑之盾斧	10	独立模型	wp/caxe/caxe026	
+9	盾斧	219	煌黑漆黑盾斧	11	独立模型	wp/caxe/caxe026	
 9	盾斧	220	魂焰盾斧·炎妃	11	组合模型	wp/caxe/caxe007	
 9	盾斧	221	魂焰盾斧·灭尽	11	组合模型	wp/caxe/caxe007	wp/caxe/parts/op_caxe004
 9	盾斧	222	魂焰盾斧·冥灯	11	组合模型	wp/caxe/caxe007	wp/caxe/parts/op_caxe011
@@ -3029,7 +3029,7 @@
 9	盾斧	226	Unavailable	0	组合模型	wp/caxe/caxe001	
 9	盾斧	227	Unavailable	0	组合模型	wp/caxe/caxe001	
 9	盾斧	228	Unavailable	0	组合模型	wp/caxe/caxe001	
-9	盾斧	229	Unavailable	0	组合模型	wp/caxe/caxe001	
+9	盾斧	229	愤怒之狼	10	独立模型	wp/caxe/caxe029	
 9	盾斧	230	Unavailable	0	组合模型	wp/caxe/caxe001	
 9	盾斧	231	Unavailable	0	组合模型	wp/caxe/caxe001	
 9	盾斧	232	黑鹰	9	独立模型	wp/caxe/caxe030	
@@ -3333,8 +3333,8 @@
 10	操虫棍	221	业翼躁狂	11	独立模型	wp/rod/rod017	
 10	操虫棍	222	金碎棍棒	10	独立模型	wp/rod/rod021	
 10	操虫棍	223	鬼神棍【猿王】	11	独立模型	wp/rod/rod022	
-10	操虫棍	224	Unavailable	0	组合模型	wp/rod/rod001	
-10	操虫棍	225	Unavailable	0	组合模型	wp/rod/rod001	
+10	操虫棍	224	煌黑之龙棍	10	独立模型	wp/rod/rod025	
+10	操虫棍	225	煌黑龙棍殒命	11	独立模型	wp/rod/rod025	
 10	操虫棍	226	魂焰龙戟·炎妃	11	组合模型	wp/rod/rod007	
 10	操虫棍	227	魂焰龙戟·灭尽	11	组合模型	wp/rod/rod007	wp/rod/parts/op_rod004
 10	操虫棍	228	魂焰龙戟·冥灯	11	组合模型	wp/rod/rod007	wp/rod/parts/op_rod011
@@ -3351,7 +3351,7 @@
 10	操虫棍	239	Unavailable	0	组合模型	wp/rod/rod001	
 10	操虫棍	240	Unavailable	0	组合模型	wp/rod/rod001	
 10	操虫棍	241	Unavailable	0	组合模型	wp/rod/rod001	
-10	操虫棍	242	Unavailable	0	组合模型	wp/rod/rod001	
+10	操虫棍	242	巨狼霜冻	10	独立模型	wp/rod/rod028	
 10	操虫棍	243	Unavailable	0	组合模型	wp/rod/rod001	
 10	操虫棍	244	Unavailable	0	组合模型	wp/rod/rod001	
 10	操虫棍	245	宫廷旗杖【巡星】	11	独立模型	wp/rod/rod027	
@@ -3631,8 +3631,8 @@
 11	弓	215	业弓巨人	128	独立模型	wp/bow/bow018	
 11	弓	216	雷弓【兽王】	96	独立模型	wp/bow/bow021	
 11	弓	217	雷公弓【大圣】	64	独立模型	wp/bow/bow022	
-11	弓	218	Unavailable	0	组合模型	wp/bow/bow001	
-11	弓	219	Unavailable	0	组合模型	wp/bow/bow001	
+11	弓	218	煌黑之强弓	96	独立模型	wp/bow/bow025	
+11	弓	219	煌黑弓神秘	128	独立模型	wp/bow/bow025	
 11	弓	220	魂焰龙弓·炎妃	128	组合模型	wp/bow/bow007	
 11	弓	221	魂焰龙弓·灭尽	128	组合模型	wp/bow/bow007	wp/bow/parts/op_bow001
 11	弓	222	魂焰龙弓·冥灯	128	组合模型	wp/bow/bow007	wp/bow/parts/op_bow003
@@ -3646,7 +3646,7 @@
 11	弓	230	罪罚弓2	192	组合模型	wp/bow/bow003	wp/bow/parts/op_bow020
 11	弓	231	雷弓【百兽王】	128	独立模型	wp/bow/bow021	
 11	弓	232	Unavailable	0	组合模型	wp/bow/bow001	
-11	弓	233	Unavailable	0	组合模型	wp/bow/bow001	
+11	弓	233	高贵邪神	64	独立模型	wp/bow/bow027	
 11	弓	234	Unavailable	0	组合模型	wp/bow/bow001	
 11	弓	235	Unavailable	0	组合模型	wp/bow/bow001	
 11	弓	236	HARDUMMY	128	独立模型	wp/bow/bow028	
@@ -3886,8 +3886,8 @@
 12	重弩炮	162	王炮雷弩	0	独立模型	wp/hbg/hbg020	
 12	重弩炮	163	王炮雷弩·改	192	独立模型	wp/hbg/hbg020	
 12	重弩炮	164	王牙炮【震雷】	128	独立模型	wp/hbg/hbg020	
-12	重弩炮	165	狱砲龙甲	96	独立模型	wp/hbg/hbg021	
-12	重弩炮	166	狼牙砲【兽狱】	128	独立模型	wp/hbg/hbg021	
+12	重弩炮	165	狱炮龙甲	96	独立模型	wp/hbg/hbg021	
+12	重弩炮	166	狼牙炮【兽狱】	128	独立模型	wp/hbg/hbg021	
 12	重弩炮	167	冰凌蔷薇·改	192	独立模型	wp/hbg/hbg006	
 12	重弩炮	168	霜漂蔷薇	0	独立模型	wp/hbg/hbg011	
 12	重弩炮	169	冷峻冰川	192	独立模型	wp/hbg/hbg011	
@@ -3936,32 +3936,32 @@
 12	重弩炮	212	冥灯龙重弩炮改	128	组合模型	wp/hbg/hbg006	wp/hbg/parts/op_hbg002
 12	重弩炮	213	业重弩饥荒	128	独立模型	wp/hbg/hbg019	
 12	重弩炮	214	金狮子炮	96	独立模型	wp/hbg/hbg022	
-12	重弩炮	215	鬼神雷砲【兽神】	64	独立模型	wp/hbg/hbg023	
-12	重弩炮	216	Unavailable	0	组合模型	wp/hbg/hbg001	
-12	重弩炮	217	Unavailable	0	组合模型	wp/hbg/hbg001	
+12	重弩炮	215	鬼神雷炮【兽神】	64	独立模型	wp/hbg/hbg023	
+12	重弩炮	216	混沌之翼	96	独立模型	wp/hbg/hbg026	
+12	重弩炮	217	黑翼弩·穿心	128	独立模型	wp/hbg/hbg026	
 12	重弩炮	218	魂焰龙炮·炎妃	128	组合模型	wp/hbg/hbg005	
 12	重弩炮	219	魂焰龙炮·灭尽	128	组合模型	wp/hbg/hbg005	wp/hbg/parts/op_hbg001
 12	重弩炮	220	魂焰龙炮·冥灯	128	组合模型	wp/hbg/hbg005	wp/hbg/parts/op_hbg002
 12	重弩炮	221	劫难嚎叫	192	独立模型	wp/hbg/hbg028	
 12	重弩炮	222	公会宫殿步枪	128	独立模型	wp/hbg/hbg027	
 12	重弩炮	223	金狮子炮【重雷】	128	独立模型	wp/hbg/hbg022	
-12	重弩炮	224	Unavailable	0	组合模型	wp/hbg/hbg001	
+12	重弩炮	224	盖烈斯咆哮	64	独立模型	wp/hbg/hbg029	
 12	重弩炮	225	Unavailable	0	组合模型	wp/hbg/hbg001	
 12	重弩炮	226	Unavailable	0	组合模型	wp/hbg/hbg001	
 12	重弩炮	227	宫廷仪仗【辉星】	128	独立模型	wp/hbg/hbg027	
 12	重弩炮	228	Unavailable	0	组合模型	wp/hbg/hbg001	
 12	重弩炮	229	Unavailable	0	组合模型	wp/hbg/hbg001	
 12	重弩炮	230	Unavailable	0	组合模型	wp/hbg/hbg001	
-12	重弩炮	231	赤龙打击砲·射击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
-12	重弩炮	232	赤龙打击砲·迫击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
-12	重弩炮	233	赤龙打击砲·狙击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
-12	重弩炮	234	赤龙打击砲·热击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
-12	重弩炮	235	赤龙打击砲·冷击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
-12	重弩炮	236	赤龙打击砲·射击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
-12	重弩炮	237	赤龙打击砲·迫击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
-12	重弩炮	238	赤龙打击砲·狙击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
-12	重弩炮	239	赤龙打击砲·热击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
-12	重弩炮	240	赤龙打击砲·冷击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
+12	重弩炮	231	赤龙打击炮·射击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
+12	重弩炮	232	赤龙打击炮·迫击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
+12	重弩炮	233	赤龙打击炮·狙击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
+12	重弩炮	234	赤龙打击炮·热击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
+12	重弩炮	235	赤龙打击炮·冷击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
+12	重弩炮	236	赤龙打击炮·射击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
+12	重弩炮	237	赤龙打击炮·迫击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
+12	重弩炮	238	赤龙打击炮·狙击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
+12	重弩炮	239	赤龙打击炮·热击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
+12	重弩炮	240	赤龙打击炮·冷击	32	独立模型 (冥赤武器)	wp/hbg/hbg025	
 12	重弩炮	241	金色的炮筒·援击	184	组合模型 (凯罗武器)	wp/hbg/bs_hbg003	
 12	重弩炮	242	金色的炮筒·爆击	184	组合模型 (凯罗武器)	wp/hbg/bs_hbg003	
 12	重弩炮	243	金色的炮筒·冷击	184	组合模型 (凯罗武器)	wp/hbg/bs_hbg003	
@@ -3990,7 +3990,7 @@
 12	重弩炮	266	皇金炮筒·蛮颚	48	组合模型 (凯罗武器)	wp/hbg/bs_hbg009	wp/hbg/parts/op_hbg010
 12	重弩炮	267	皇金炮筒·角	48	组合模型 (凯罗武器)	wp/hbg/bs_hbg009	wp/hbg/parts/op_hbg006
 12	重弩炮	268	皇金炮筒·飞雷	48	组合模型 (凯罗武器)	wp/hbg/bs_hbg009	wp/hbg/parts/op_hbg009
-12	重弩炮	269	皇金砲筒·熔山	48	组合模型 (凯罗武器)	wp/hbg/bs_hbg009	wp/hbg/parts/op_hbg011
+12	重弩炮	269	皇金炮筒·熔山	48	组合模型 (凯罗武器)	wp/hbg/bs_hbg009	wp/hbg/parts/op_hbg011
 12	重弩炮	270	皇金炮筒·水	48	组合模型 (凯罗武器)	wp/hbg/bs_hbg010	
 12	重弩炮	271	皇金炮筒·冰	48	组合模型 (凯罗武器)	wp/hbg/bs_hbg010	
 12	重弩炮	272	Unavailable	0	组合模型	wp/hbg/hbg001	
@@ -4259,8 +4259,8 @@
 13	轻弩炮	222	业弩暗黑狂乱	128	独立模型	wp/lbg/lbg015	
 13	轻弩炮	223	金狮子弩	96	独立模型	wp/lbg/lbg018	
 13	轻弩炮	224	鬼神筒【雷天】	64	独立模型	wp/lbg/lbg019	
-13	轻弩炮	225	Unavailable	0	组合模型	wp/lbg/lbg001	
-13	轻弩炮	226	Unavailable	0	组合模型	wp/lbg/lbg001	
+13	轻弩炮	225	煌黑烈弩	96	独立模型	wp/lbg/lbg021	
+13	轻弩炮	226	煌黑弩终结者	128	独立模型	wp/lbg/lbg021	
 13	轻弩炮	227	魂焰龙弩·炎妃	128	组合模型	wp/lbg/lbg005	
 13	轻弩炮	228	魂焰龙弩·灭尽	128	组合模型	wp/lbg/lbg005	wp/lbg/parts/op_lbg001
 13	轻弩炮	229	魂焰龙弩·冥灯	128	组合模型	wp/lbg/lbg005	wp/lbg/parts/op_lbg003
@@ -4269,7 +4269,7 @@
 13	轻弩炮	232	金狮子筒【万雷】	128	独立模型	wp/lbg/lbg018	
 13	轻弩炮	233	Unavailable	0	组合模型	wp/lbg/lbg001	
 13	轻弩炮	234	Unavailable	0	组合模型	wp/lbg/lbg001	
-13	轻弩炮	235	Unavailable	0	组合模型	wp/lbg/lbg001	
+13	轻弩炮	235	暴风突击	64	独立模型	wp/lbg/lbg023	
 13	轻弩炮	236	Unavailable	0	组合模型	wp/lbg/lbg001	
 13	轻弩炮	237	Unavailable	0	组合模型	wp/lbg/lbg001	
 13	轻弩炮	238	HARDUMMY	128	独立模型	wp/lbg/lbg024	

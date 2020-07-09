@@ -297,9 +297,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	370	【랑고】의상-머리	320	0	4	pl007_0000
 0	Head	371	【타로스】의상-머리	321	0	4	pl017_0000
 0	Head	374	EX날렵함의귀걸이α	324	154	10	pl095_0000
-0	Head	375	Unavailable	325	0	0	None
+0	Head	375	【금천원숭이】의상-머리	325	0	11	pl113_0001
 0	Head	376	【샤무】의상-머리	326	0	4	pl058_0000
-0	Head	377	Unavailable	327	0	0	None
+0	Head	377	【켈비페이크】의상-머리	327	0	8	pl096_0000
 0	Head	378	EX잉곳헬름α	328	136	9	pl031_0000
 0	Head	379	EX잉곳헬름β	329	136	9	pl031_0000
 0	Head	380	EX벨리오헬름α	330	138	9	pl089_0000
@@ -408,11 +408,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	483	EX브라키움헬름β	433	170	11	pl082_0510
 0	Head	484	EX용문각인왕관α	434	168	11	pl087_0000
 0	Head	485	EX용문각인왕관β	435	168	11	pl087_0010
-0	Head	486	Unavailable	436	0	0	None
-0	Head	487	Unavailable	437	0	0	None
+0	Head	486	EX에스카드라와이즈α	436	160	11	pl052_0000
+0	Head	487	EX에스카드라와이즈β	437	160	11	pl052_0010
 0	Head	488	EX봉인의 용해포α	438	152	11	pl100_0000
 0	Head	489	EX용인족의 귀α	439	140	8	pl101_0000
-0	Head	490	Unavailable	440	0	0	None
+0	Head	490	【아프토페이크】의상-머리	440	0	8	pl097_0000
 0	Head	491	EX껴입기펭귄페이크α	441	138	8	pl098_0000
 0	Head	492	EX엠프리스섹터α	442	164	11	pl051_0001
 0	Head	493	EX엠프리스섹터β	443	164	11	pl051_0011
@@ -420,7 +420,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	495	EX맘가이라헬름β	445	176	11	pl049_0011
 0	Head	496	EX로제헤드α	446	150	9	pl124_0000
 0	Head	497	【우르무】의상-머리	447	0	4	pl024_0000
-0	Head	498	Unavailable	448	0	0	None
+0	Head	498	EX패션헤드α	448	156	9	pl125_0000
 0	Head	499	【레이아α】의상-머리	449	0	4	pl021_0000
 0	Head	500	Unavailable	450	0	0	None
 0	Head	501	【레이아β】의상-머리	451	0	4	pl021_0010
@@ -429,13 +429,13 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	504	EX아스트라베일α	454	140	8	pl128_0000
 0	Head	505	【발킨β】의상-머리	455	0	5	pl028_0010
 0	Head	506	【로제】의상-머리	456	0	9	pl124_0000
-0	Head	507	Unavailable	457	0	0	None
+0	Head	507	【패션】의상-머리	457	0	9	pl125_0000
 0	Head	508	Unavailable	458	0	0	None
 0	Head	509	【우론】의상-머리	459	0	8	pl127_0000
 0	Head	510	【아스트라】의상-머리	460	0	8	pl128_0000
 0	Head	511	【하이메탈】의상-머리	461	0	5	pl025_0000
 0	Head	512	【테르마이】의상-머리	462	0	8	pl106_0000
-0	Head	513	Unavailable	463	0	0	None
+0	Head	513	【토끼귀】의상-머리	463	0	8	pl111_0000
 0	Head	514	【폭신폭신 뜸부기】 의상-머리	464	0	8	pl112_0000
 0	Head	515	EX은천원숭이α	465	120	8	pl113_0000
 0	Head	516	Unavailable	466	0	0	None
@@ -449,8 +449,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	525	HARDUMMY	475	0	7	pl072_0000
 0	Head	526	HARDUMMY	476	170	11	pl072_0001
 0	Head	527	Unavailable	477	0	0	None
-0	Head	528	Unavailable	478	0	0	None
-0	Head	529	Unavailable	479	0	0	None
+0	Head	528	EX오르문그헬름α	478	162	10	pl089_0500
+0	Head	529	EX오르문그헬름β	479	162	10	pl089_0510
 0	Head	530	Unavailable	480	0	0	None
 0	Head	531	Unavailable	481	0	0	None
 0	Head	532	HARDUMMY	482	160	11	pl068_0020
@@ -640,9 +640,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	719	Unavailable	669	0	0	None
 0	Head	720	Unavailable	670	0	0	None
 0	Head	721	Unavailable	671	0	0	None
-0	Head	725	Unavailable	0	0	0	None
-0	Head	726	Unavailable	0	0	0	None
-0	Head	727	Unavailable	0	0	0	None
+0	Head	725	Unavailable	676	0	0	None
+0	Head	726	Unavailable	677	0	0	None
+0	Head	727	Unavailable	678	0	0	None
 0	Head	728	Unavailable	0	0	0	None
 0	Head	729	Unavailable	0	0	0	None
 0	Head	730	Unavailable	0	0	0	None
@@ -1034,15 +1034,15 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	483	EX브라키움메일β	433	170	11	pl082_0510
 1	Body	484	EX용문각인갑주α	434	168	11	pl087_0000
 1	Body	485	EX용문각인갑주β	435	168	11	pl087_0010
-1	Body	486	Unavailable	436	0	0	None
-1	Body	487	Unavailable	437	0	0	None
+1	Body	486	EX에스카드라소울α	436	160	11	pl052_0000
+1	Body	487	EX에스카드라소울β	437	160	11	pl052_0010
 1	Body	492	EX엠프리스메일α	442	164	11	pl051_0001
 1	Body	493	EX엠프리스메일β	443	164	11	pl051_0011
 1	Body	494	EX맘가이라메일α	444	176	11	pl049_0001
 1	Body	495	EX맘가이라메일β	445	176	11	pl049_0011
 1	Body	496	EX로제슈트α	446	150	9	pl124_0000
 1	Body	497	【우르무】의상-몸통	447	0	4	pl024_0000
-1	Body	498	Unavailable	448	0	0	None
+1	Body	498	EX패션보디α	448	156	9	pl125_0000
 1	Body	499	【레이아α】의상-몸통	449	0	4	pl021_0000
 1	Body	500	Unavailable	450	0	0	None
 1	Body	501	【레이아β】의상-몸통	451	0	4	pl021_0010
@@ -1051,7 +1051,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	504	EX아스트라크로스α	454	140	8	pl128_0000
 1	Body	505	【발킨β】의상-몸통	455	0	5	pl028_0010
 1	Body	506	【로제】의상-몸통	456	0	9	pl124_0000
-1	Body	507	Unavailable	457	0	0	None
+1	Body	507	【패션】의상-몸통	457	0	9	pl125_0000
 1	Body	508	Unavailable	458	0	0	None
 1	Body	509	【우론】의상-몸통	459	0	8	pl127_0000
 1	Body	510	【아스트라】의상-몸통	460	0	8	pl128_0000
@@ -1068,8 +1068,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	525	HARDUMMY	475	0	7	pl072_0000
 1	Body	526	HARDUMMY	476	170	11	pl072_0001
 1	Body	527	Unavailable	477	0	0	None
-1	Body	528	Unavailable	478	0	0	None
-1	Body	529	Unavailable	479	0	0	None
+1	Body	528	EX오르문그메일α	478	162	10	pl089_0500
+1	Body	529	EX오르문그메일β	479	162	10	pl089_0510
 1	Body	530	Unavailable	480	0	0	None
 1	Body	531	Unavailable	481	0	0	None
 1	Body	532	HARDUMMY	482	160	11	pl068_0020
@@ -1255,11 +1255,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	720	Unavailable	670	0	0	None
 1	Body	721	Unavailable	671	0	0	None
 1	Body	722	Unavailable	672	0	0	None
-1	Body	723	Unavailable	673	0	0	None
-1	Body	724	Unavailable	675	0	0	None
-1	Body	725	Unavailable	0	0	0	None
-1	Body	726	Unavailable	0	0	0	None
-1	Body	727	Unavailable	0	0	0	None
+1	Body	723	【이너α】의상-몸통	673	0	11	pl500_0000
+1	Body	724	【이너β】의상-몸통	675	0	11	pl501_0000
+1	Body	725	Unavailable	676	0	0	None
+1	Body	726	Unavailable	677	0	0	None
+1	Body	727	Unavailable	678	0	0	None
 1	Body	728	Unavailable	0	0	0	None
 1	Body	729	Unavailable	0	0	0	None
 1	Body	730	Unavailable	0	0	0	None
@@ -1651,15 +1651,15 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	483	EX브라키움암β	433	170	11	pl082_0510
 2	Arm	484	EX용문각인완갑α	434	168	11	pl087_0000
 2	Arm	485	EX용문각인완갑β	435	168	11	pl087_0010
-2	Arm	486	Unavailable	436	0	0	None
-2	Arm	487	Unavailable	437	0	0	None
+2	Arm	486	EX에스카드라암즈α	436	160	11	pl052_0000
+2	Arm	487	EX에스카드라암즈β	437	160	11	pl052_0010
 2	Arm	492	EX엠프리스암α	442	164	11	pl051_0001
 2	Arm	493	EX엠프리스암β	443	164	11	pl051_0011
 2	Arm	494	EX맘가이라암α	444	176	11	pl049_0001
 2	Arm	495	EX맘가이라암β	445	176	11	pl049_0011
 2	Arm	496	EX로제암α	446	150	9	pl124_0000
 2	Arm	497	【우르무】의상-팔	447	0	4	pl024_0000
-2	Arm	498	Unavailable	448	0	0	None
+2	Arm	498	EX패션암α	448	156	9	pl125_0000
 2	Arm	499	【레이아α】의상-팔	449	0	4	pl021_0000
 2	Arm	500	Unavailable	450	0	0	None
 2	Arm	501	【레이아β】의상-팔	451	0	4	pl021_0010
@@ -1668,7 +1668,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	504	EX아스트라카프α	454	140	8	pl128_0000
 2	Arm	505	【발킨β】의상-팔	455	0	5	pl028_0010
 2	Arm	506	【로제】의상-팔	456	0	9	pl124_0000
-2	Arm	507	Unavailable	457	0	0	None
+2	Arm	507	【패션】의상-팔	457	0	9	pl125_0000
 2	Arm	508	Unavailable	458	0	0	None
 2	Arm	509	【우론】의상-팔	459	0	8	pl127_0000
 2	Arm	510	【아스트라】의상-팔	460	0	8	pl128_0000
@@ -1685,8 +1685,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	525	HARDUMMY	475	0	7	pl072_0000
 2	Arm	526	HARDUMMY	476	170	11	pl072_0001
 2	Arm	527	Unavailable	477	0	0	None
-2	Arm	528	Unavailable	478	0	0	None
-2	Arm	529	Unavailable	479	0	0	None
+2	Arm	528	EX오르문그암α	478	162	10	pl089_0500
+2	Arm	529	EX오르문그암β	479	162	10	pl089_0510
 2	Arm	530	Unavailable	480	0	0	None
 2	Arm	531	Unavailable	481	0	0	None
 2	Arm	532	HARDUMMY	482	160	11	pl068_0020
@@ -1870,11 +1870,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	720	Unavailable	670	0	0	None
 2	Arm	721	Unavailable	671	0	0	None
 2	Arm	722	Unavailable	672	0	0	None
-2	Arm	723	Unavailable	673	0	0	None
-2	Arm	724	Unavailable	675	0	0	None
-2	Arm	725	Unavailable	0	0	0	None
-2	Arm	726	Unavailable	0	0	0	None
-2	Arm	727	Unavailable	0	0	0	None
+2	Arm	723	【이너α】의상-팔	673	0	11	pl500_0000
+2	Arm	724	【이너β】의상-팔	675	0	11	pl501_0000
+2	Arm	725	Unavailable	676	0	0	None
+2	Arm	726	Unavailable	677	0	0	None
+2	Arm	727	Unavailable	678	0	0	None
 2	Arm	728	Unavailable	0	0	0	None
 2	Arm	729	Unavailable	0	0	0	None
 2	Arm	730	Unavailable	0	0	0	None
@@ -2260,15 +2260,15 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	483	EX브라키움코일β	433	170	11	pl082_0510
 3	Waist	484	EX용문각인요대α	434	168	11	pl087_0000
 3	Waist	485	EX용문각인요대β	435	168	11	pl087_0010
-3	Waist	486	Unavailable	436	0	0	None
-3	Waist	487	Unavailable	437	0	0	None
+3	Waist	486	EX에스카드라마이트α	436	160	11	pl052_0000
+3	Waist	487	EX에스카드라마이트β	437	160	11	pl052_0010
 3	Waist	492	EX엠프리스코일α	442	164	11	pl051_0001
 3	Waist	493	EX엠프리스코일β	443	164	11	pl051_0011
 3	Waist	494	EX맘가이라코일α	444	176	11	pl049_0001
 3	Waist	495	EX맘가이라코일β	445	176	11	pl049_0011
 3	Waist	496	EX로제벨트α	446	150	9	pl124_0000
 3	Waist	497	【우르무】의상-허리	447	0	4	pl024_0000
-3	Waist	498	Unavailable	448	0	0	None
+3	Waist	498	EX패션벨트α	448	156	9	pl125_0000
 3	Waist	499	【레이아α】의상-허리	449	0	4	pl021_0000
 3	Waist	500	Unavailable	450	0	0	None
 3	Waist	501	【레이아β】의상-허리	451	0	4	pl021_0010
@@ -2277,7 +2277,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	504	EX아스트라스커트α	454	140	8	pl128_0000
 3	Waist	505	【발킨β】의상-허리	455	0	5	pl028_0010
 3	Waist	506	【로제】의상-허리	456	0	9	pl124_0000
-3	Waist	507	Unavailable	457	0	0	None
+3	Waist	507	【패션】의상-허리	457	0	9	pl125_0000
 3	Waist	508	Unavailable	458	0	0	None
 3	Waist	509	【우론】의상-허리	459	0	8	pl127_0000
 3	Waist	510	【아스트라】의상-허리	460	0	8	pl128_0000
@@ -2294,8 +2294,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	525	HARDUMMY	475	0	7	pl072_0000
 3	Waist	526	HARDUMMY	476	170	11	pl072_0001
 3	Waist	527	Unavailable	477	0	0	None
-3	Waist	528	Unavailable	478	0	0	None
-3	Waist	529	Unavailable	479	0	0	None
+3	Waist	528	EX오르문그코일α	478	162	10	pl089_0500
+3	Waist	529	EX오르문그코일β	479	162	10	pl089_0510
 3	Waist	530	Unavailable	480	0	0	None
 3	Waist	531	Unavailable	481	0	0	None
 3	Waist	532	HARDUMMY	482	160	11	pl068_0020
@@ -2479,11 +2479,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	720	Unavailable	670	0	0	None
 3	Waist	721	Unavailable	671	0	0	None
 3	Waist	722	Unavailable	672	0	0	None
-3	Waist	723	Unavailable	673	0	0	None
-3	Waist	724	Unavailable	675	0	0	None
-3	Waist	725	Unavailable	0	0	0	None
-3	Waist	726	Unavailable	0	0	0	None
-3	Waist	727	Unavailable	0	0	0	None
+3	Waist	723	【이너α】 의상-허리	673	0	11	pl500_0000
+3	Waist	724	【이너β】의상-허리	675	0	11	pl501_0000
+3	Waist	725	Unavailable	676	0	0	None
+3	Waist	726	Unavailable	677	0	0	None
+3	Waist	727	Unavailable	678	0	0	None
 3	Waist	728	Unavailable	0	0	0	None
 3	Waist	729	Unavailable	0	0	0	None
 3	Waist	730	Unavailable	0	0	0	None
@@ -2875,15 +2875,15 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	483	EX브라키움그리브β	433	170	11	pl082_0510
 4	Leg	484	EX용문각인장화α	434	168	11	pl087_0000
 4	Leg	485	EX용문각인장화β	435	168	11	pl087_0010
-4	Leg	486	Unavailable	436	0	0	None
-4	Leg	487	Unavailable	437	0	0	None
+4	Leg	486	EX에스카드라스켈α	436	160	11	pl052_0000
+4	Leg	487	EX에스카드라스켈β	437	160	11	pl052_0010
 4	Leg	492	EX엠프리스그리브α	442	164	11	pl051_0001
 4	Leg	493	EX엠프리스그리브β	443	164	11	pl051_0011
 4	Leg	494	EX맘가이라그리브α	444	176	11	pl049_0001
 4	Leg	495	EX맘가이라그리브β	445	176	11	pl049_0011
 4	Leg	496	EX로제부츠α	446	150	9	pl124_0000
 4	Leg	497	【우르무】의상-다리	447	0	4	pl024_0000
-4	Leg	498	Unavailable	448	0	0	None
+4	Leg	498	EX패션풋α	448	156	9	pl125_0000
 4	Leg	499	【레이아α】의상-다리	449	0	4	pl021_0000
 4	Leg	500	Unavailable	450	0	0	None
 4	Leg	501	【레이아β】의상-다리	451	0	4	pl021_0010
@@ -2892,7 +2892,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	504	EX아스트라타이츠α	454	140	8	pl128_0000
 4	Leg	505	【발킨β】의상-다리	455	0	5	pl028_0010
 4	Leg	506	【로제】의상-다리	456	0	9	pl124_0000
-4	Leg	507	Unavailable	457	0	0	None
+4	Leg	507	【패션】의상-다리	457	0	9	pl125_0000
 4	Leg	508	Unavailable	458	0	0	None
 4	Leg	509	【우론】의상-다리	459	0	8	pl127_0000
 4	Leg	510	【아스트라】의상-다리	460	0	8	pl128_0000
@@ -2909,8 +2909,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	525	HARDUMMY	475	0	7	pl072_0000
 4	Leg	526	HARDUMMY	476	170	11	pl072_0001
 4	Leg	527	Unavailable	477	0	0	None
-4	Leg	528	Unavailable	478	0	0	None
-4	Leg	529	Unavailable	479	0	0	None
+4	Leg	528	EX오르문그그리브α	478	162	10	pl089_0500
+4	Leg	529	EX오르문그그리브β	479	162	10	pl089_0510
 4	Leg	530	Unavailable	480	0	0	None
 4	Leg	531	Unavailable	481	0	0	None
 4	Leg	532	HARDUMMY	482	160	11	pl068_0020
@@ -3094,11 +3094,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	720	Unavailable	670	0	0	None
 4	Leg	721	Unavailable	671	0	0	None
 4	Leg	722	Unavailable	672	0	0	None
-4	Leg	723	Unavailable	673	0	0	None
-4	Leg	724	Unavailable	675	0	0	None
-4	Leg	725	Unavailable	0	0	0	None
-4	Leg	726	Unavailable	0	0	0	None
-4	Leg	727	Unavailable	0	0	0	None
+4	Leg	723	【이너α】 의상-다리	673	0	11	pl500_0000
+4	Leg	724	【이너β】 의상-다리	675	0	11	pl501_0000
+4	Leg	725	Unavailable	676	0	0	None
+4	Leg	726	Unavailable	677	0	0	None
+4	Leg	727	Unavailable	678	0	0	None
 4	Leg	728	Unavailable	0	0	0	None
 4	Leg	729	Unavailable	0	0	0	None
 4	Leg	730	Unavailable	0	0	0	None
@@ -3405,10 +3405,10 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	324	회피의 호석Ⅴ	0	0	11	None
 5	Charm	325	파룡의 호석Ⅳ	0	0	10	None
 5	Charm	326	파룡의 호석Ⅴ	0	0	11	None
-5	Charm	327	Unavailable	0	0	0	None
+5	Charm	327	발도의 호석Ⅲ	0	0	11	None
 5	Charm	328	강주의 호석Ⅲ	0	0	11	None
 5	Charm	329	체술의 호석Ⅳ	0	0	10	None
-5	Charm	330	Unavailable	0	0	0	None
+5	Charm	330	체술의 호석Ⅴ	0	0	11	None
 5	Charm	331	조기의 호석Ⅲ	0	0	11	None
 5	Charm	332	도약의 호석Ⅲ	0	0	11	None
 5	Charm	333	버섯 애호가의 호석Ⅲ	0	0	10	None
@@ -3441,7 +3441,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	360	앙양의 호석Ⅲ	0	0	10	None
 5	Charm	361	전화위복의 호석Ⅰ	0	0	10	None
 5	Charm	362	전화위복의 호석Ⅱ	0	0	11	None
-5	Charm	363	Unavailable	0	0	0	None
+5	Charm	363	전화위복의 호석Ⅲ	0	0	11	None
 5	Charm	364	수세의 호석Ⅰ	0	0	8	None
 5	Charm	365	수세의 호석Ⅱ	0	0	9	None
 5	Charm	366	수세의 호석Ⅲ	0	0	11	None

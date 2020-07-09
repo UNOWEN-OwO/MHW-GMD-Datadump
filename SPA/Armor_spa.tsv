@@ -297,9 +297,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	370	Yelmo sup. Vespoid	320	0	4	pl007_0000
 0	Head	371	Yelmo sup. Hornetaur	321	0	4	pl017_0000
 0	Head	374	Pendientes acróbata <ICON ALPHA>	324	154	10	pl095_0000
-0	Head	375	Unavailable	325	0	0	None
+0	Head	375	Cabeza sup. termargéntea	325	0	11	pl113_0001
 0	Head	376	Cabeza sup. Shamos	326	0	4	pl058_0000
-0	Head	377	Unavailable	327	0	0	None
+0	Head	377	Cabeza de Kelbi <ICON ALPHA>+	327	0	8	pl096_0000
 0	Head	378	Yelmo de lingotes <ICON ALPHA>+	328	136	9	pl031_0000
 0	Head	379	Yelmo de lingotes <ICON BETA>+	329	136	9	pl031_0000
 0	Head	380	Yelmo de Barioth <ICON ALPHA>+	330	138	9	pl089_0000
@@ -408,11 +408,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	483	Yelmo braquídeo <ICON BETA>+	433	170	11	pl082_0510
 0	Head	484	Corona cresta Safi <ICON ALPHA>+	434	168	11	pl087_0000
 0	Head	485	Corona cresta Safi <ICON BETA>+	435	168	11	pl087_0010
-0	Head	486	Unavailable	436	0	0	None
-0	Head	487	Unavailable	437	0	0	None
+0	Head	486	Sabiduría Escadora <ICON ALPHA>+	436	160	11	pl052_0000
+0	Head	487	Sabiduría Escadora <ICON BETA>+	437	160	11	pl052_0010
 0	Head	488	Sudario de dragón <ICON ALPHA>+	438	152	11	pl100_0000
 0	Head	489	Orejas wyverianas <ICON ALPHA>+	439	140	8	pl101_0000
-0	Head	490	Unavailable	440	0	0	None
+0	Head	490	Máscara de Aptonoth <ICON ALPHA>+	440	0	8	pl097_0000
 0	Head	491	Cabeza de pingüino <ICON ALPHA>+	441	138	8	pl098_0000
 0	Head	492	Corona de emperatriz <ICON ALPHA>+	442	164	11	pl051_0001
 0	Head	493	Corona de emperatriz <ICON BETA>+	443	164	11	pl051_0011
@@ -420,7 +420,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	495	Furia Kulve Taroth <ICON BETA>+	445	176	11	pl049_0011
 0	Head	496	Parche de rosas <ICON ALPHA>+	446	150	9	pl124_0000
 0	Head	497	Yelmo sup. Lumu	447	0	4	pl024_0000
-0	Head	498	Unavailable	448	0	0	None
+0	Head	498	Cabeza apasionada <ICON ALPHA>+	448	156	9	pl125_0000
 0	Head	499	Yelmo sup. Rathian <ICON ALPHA>	449	0	4	pl021_0000
 0	Head	500	Unavailable	450	0	0	None
 0	Head	501	Yelmo sup. Rathian <ICON BETA>	451	0	4	pl021_0010
@@ -429,13 +429,13 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	504	Velo astral <ICON ALPHA>+	454	140	8	pl128_0000
 0	Head	505	Yelmo sup. Radobaan <ICON BETA>	455	0	5	pl028_0010
 0	Head	506	Cabeza de rosas sup.	456	0	9	pl124_0000
-0	Head	507	Unavailable	457	0	0	None
+0	Head	507	Cabeza sup. apasionada	457	0	9	pl125_0000
 0	Head	508	Unavailable	458	0	0	None
 0	Head	509	Cabeza sup. Feng Huo	459	0	8	pl127_0000
 0	Head	510	Cabeza sup. astral	460	0	8	pl128_0000
 0	Head	511	Yelmo sup. megametal	461	0	5	pl025_0000
 0	Head	512	Toalla sup. termal	462	0	8	pl106_0000
-0	Head	513	Unavailable	463	0	0	None
+0	Head	513	Diadema liebre sup.	463	0	8	pl111_0000
 0	Head	514	Cabeza de carrao algodón sup.	464	0	8	pl112_0000
 0	Head	515	Termargénteo <ICON ALPHA>+	465	120	8	pl113_0000
 0	Head	516	Unavailable	466	0	0	None
@@ -449,8 +449,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	525	HARDUMMY	475	0	7	pl072_0000
 0	Head	526	HARDUMMY	476	170	11	pl072_0001
 0	Head	527	Unavailable	477	0	0	None
-0	Head	528	Unavailable	478	0	0	None
-0	Head	529	Unavailable	479	0	0	None
+0	Head	528	Yelmo Cynodon <ICON ALPHA>+	478	162	10	pl089_0500
+0	Head	529	Yelmo Cynodon <ICON BETA>+	479	162	10	pl089_0510
 0	Head	530	Unavailable	480	0	0	None
 0	Head	531	Unavailable	481	0	0	None
 0	Head	532	HARDUMMY	482	160	11	pl068_0020
@@ -640,9 +640,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	719	Unavailable	669	0	0	None
 0	Head	720	Unavailable	670	0	0	None
 0	Head	721	Unavailable	671	0	0	None
-0	Head	725	Unavailable	0	0	0	None
-0	Head	726	Unavailable	0	0	0	None
-0	Head	727	Unavailable	0	0	0	None
+0	Head	725	Unavailable	676	0	0	None
+0	Head	726	Unavailable	677	0	0	None
+0	Head	727	Unavailable	678	0	0	None
 0	Head	728	Unavailable	0	0	0	None
 0	Head	729	Unavailable	0	0	0	None
 0	Head	730	Unavailable	0	0	0	None
@@ -1034,15 +1034,15 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	483	Cota braquídea <ICON BETA>+	433	170	11	pl082_0510
 1	Body	484	Torso cresta Safi <ICON ALPHA>+	434	168	11	pl087_0000
 1	Body	485	Torso cresta Safi <ICON BETA>+	435	168	11	pl087_0010
-1	Body	486	Unavailable	436	0	0	None
-1	Body	487	Unavailable	437	0	0	None
+1	Body	486	Alma de Escadora <ICON ALPHA>+	436	160	11	pl052_0000
+1	Body	487	Alma de Escadora <ICON BETA>+	437	160	11	pl052_0010
 1	Body	492	Cota de emperatriz <ICON ALPHA>+	442	164	11	pl051_0001
 1	Body	493	Cota de emperatriz <ICON BETA>+	443	164	11	pl051_0011
 1	Body	494	Ira Kulve Taroth <ICON ALPHA>+	444	176	11	pl049_0001
 1	Body	495	Ira Kulve Taroth <ICON BETA>+	445	176	11	pl049_0011
 1	Body	496	Chaqueta de rosas <ICON ALPHA>+	446	150	9	pl124_0000
 1	Body	497	Torso sup. Lumu	447	0	4	pl024_0000
-1	Body	498	Unavailable	448	0	0	None
+1	Body	498	Cuerpo apasionado <ICON ALPHA>+	448	156	9	pl125_0000
 1	Body	499	Torso sup. Rathian <ICON ALPHA>	449	0	4	pl021_0000
 1	Body	500	Unavailable	450	0	0	None
 1	Body	501	Torso sup. Rathian <ICON BETA>	451	0	4	pl021_0010
@@ -1051,7 +1051,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	504	Tela astral <ICON ALPHA>+	454	140	8	pl128_0000
 1	Body	505	Torso sup. Radobaan <ICON BETA>	455	0	5	pl028_0010
 1	Body	506	Pecho de rosas sup.	456	0	9	pl124_0000
-1	Body	507	Unavailable	457	0	0	None
+1	Body	507	Torso sup. apasionado	457	0	9	pl125_0000
 1	Body	508	Unavailable	458	0	0	None
 1	Body	509	Torso sup. Feng Huo	459	0	8	pl127_0000
 1	Body	510	Torso sup. astral	460	0	8	pl128_0000
@@ -1068,8 +1068,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	525	HARDUMMY	475	0	7	pl072_0000
 1	Body	526	HARDUMMY	476	170	11	pl072_0001
 1	Body	527	Unavailable	477	0	0	None
-1	Body	528	Unavailable	478	0	0	None
-1	Body	529	Unavailable	479	0	0	None
+1	Body	528	Cota Cynodon <ICON ALPHA>+	478	162	10	pl089_0500
+1	Body	529	Cota Cynodon <ICON BETA>+	479	162	10	pl089_0510
 1	Body	530	Unavailable	480	0	0	None
 1	Body	531	Unavailable	481	0	0	None
 1	Body	532	HARDUMMY	482	160	11	pl068_0020
@@ -1255,11 +1255,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	720	Unavailable	670	0	0	None
 1	Body	721	Unavailable	671	0	0	None
 1	Body	722	Unavailable	672	0	0	None
-1	Body	723	Unavailable	673	0	0	None
-1	Body	724	Unavailable	675	0	0	None
-1	Body	725	Unavailable	0	0	0	None
-1	Body	726	Unavailable	0	0	0	None
-1	Body	727	Unavailable	0	0	0	None
+1	Body	723	Torso sup. íntimo <ICON ALPHA>	673	0	11	pl500_0000
+1	Body	724	Torso sup. íntimo <ICON BETA>	675	0	11	pl501_0000
+1	Body	725	Unavailable	676	0	0	None
+1	Body	726	Unavailable	677	0	0	None
+1	Body	727	Unavailable	678	0	0	None
 1	Body	728	Unavailable	0	0	0	None
 1	Body	729	Unavailable	0	0	0	None
 1	Body	730	Unavailable	0	0	0	None
@@ -1651,15 +1651,15 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	483	Brazales braquídeos <ICON BETA>+	433	170	11	pl082_0510
 2	Arm	484	Brazales cresta Safi <ICON ALPHA>+	434	168	11	pl087_0000
 2	Arm	485	Brazales cresta Safi <ICON BETA>+	435	168	11	pl087_0010
-2	Arm	486	Unavailable	436	0	0	None
-2	Arm	487	Unavailable	437	0	0	None
+2	Arm	486	Brazos de Escadora <ICON ALPHA>+	436	160	11	pl052_0000
+2	Arm	487	Brazos de Escadora <ICON BETA>+	437	160	11	pl052_0010
 2	Arm	492	Brazales de emperatriz <ICON ALPHA>+	442	164	11	pl051_0001
 2	Arm	493	Brazales de emperatriz <ICON BETA>+	443	164	11	pl051_0011
 2	Arm	494	Rabia Kulve Taroth <ICON ALPHA>+	444	176	11	pl049_0001
 2	Arm	495	Rabia Kulve Taroth <ICON BETA>+	445	176	11	pl049_0011
 2	Arm	496	Guantes de rosas <ICON ALPHA>+	446	150	9	pl124_0000
 2	Arm	497	Brazos sup. Lumu	447	0	4	pl024_0000
-2	Arm	498	Unavailable	448	0	0	None
+2	Arm	498	Brazos apasionados <ICON ALPHA>+	448	156	9	pl125_0000
 2	Arm	499	Brazos sup. Rathian <ICON ALPHA>	449	0	4	pl021_0000
 2	Arm	500	Unavailable	450	0	0	None
 2	Arm	501	Brazos sup. Rathian <ICON BETA>	451	0	4	pl021_0010
@@ -1668,7 +1668,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	504	Pañuelo astral <ICON ALPHA>+	454	140	8	pl128_0000
 2	Arm	505	Brazos sup. Radobaan <ICON BETA>	455	0	5	pl028_0010
 2	Arm	506	Guantes de rosas sup.	456	0	9	pl124_0000
-2	Arm	507	Unavailable	457	0	0	None
+2	Arm	507	Brazos sup. apasionados	457	0	9	pl125_0000
 2	Arm	508	Unavailable	458	0	0	None
 2	Arm	509	Brazos sup. Feng Huo	459	0	8	pl127_0000
 2	Arm	510	Brazos sup. astrales	460	0	8	pl128_0000
@@ -1685,8 +1685,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	525	HARDUMMY	475	0	7	pl072_0000
 2	Arm	526	HARDUMMY	476	170	11	pl072_0001
 2	Arm	527	Unavailable	477	0	0	None
-2	Arm	528	Unavailable	478	0	0	None
-2	Arm	529	Unavailable	479	0	0	None
+2	Arm	528	Brazales Cynodon <ICON ALPHA>+	478	162	10	pl089_0500
+2	Arm	529	Brazales Cynodon <ICON BETA>+	479	162	10	pl089_0510
 2	Arm	530	Unavailable	480	0	0	None
 2	Arm	531	Unavailable	481	0	0	None
 2	Arm	532	HARDUMMY	482	160	11	pl068_0020
@@ -1870,11 +1870,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	720	Unavailable	670	0	0	None
 2	Arm	721	Unavailable	671	0	0	None
 2	Arm	722	Unavailable	672	0	0	None
-2	Arm	723	Unavailable	673	0	0	None
-2	Arm	724	Unavailable	675	0	0	None
-2	Arm	725	Unavailable	0	0	0	None
-2	Arm	726	Unavailable	0	0	0	None
-2	Arm	727	Unavailable	0	0	0	None
+2	Arm	723	Brazos sup. íntimos <ICON ALPHA>	673	0	11	pl500_0000
+2	Arm	724	Brazos sup. íntimos <ICON BETA>	675	0	11	pl501_0000
+2	Arm	725	Unavailable	676	0	0	None
+2	Arm	726	Unavailable	677	0	0	None
+2	Arm	727	Unavailable	678	0	0	None
 2	Arm	728	Unavailable	0	0	0	None
 2	Arm	729	Unavailable	0	0	0	None
 2	Arm	730	Unavailable	0	0	0	None
@@ -2260,15 +2260,15 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	483	Faldaje braquídeo <ICON BETA>+	433	170	11	pl082_0510
 3	Waist	484	Cinto cresta Safi <ICON ALPHA>+	434	168	11	pl087_0000
 3	Waist	485	Cinto cresta Safi <ICON BETA>+	435	168	11	pl087_0010
-3	Waist	486	Unavailable	436	0	0	None
-3	Waist	487	Unavailable	437	0	0	None
+3	Waist	486	Poder de Escadora <ICON ALPHA>+	436	160	11	pl052_0000
+3	Waist	487	Poder de Escadora <ICON BETA>+	437	160	11	pl052_0010
 3	Waist	492	Faja de emperatriz <ICON ALPHA>+	442	164	11	pl051_0001
 3	Waist	493	Faja de emperatriz <ICON BETA>+	443	164	11	pl051_0011
 3	Waist	494	Odio Kulve Taroth <ICON ALPHA>+	444	176	11	pl049_0001
 3	Waist	495	Odio Kulve Taroth <ICON BETA>+	445	176	11	pl049_0011
 3	Waist	496	Cinto de rosas <ICON ALPHA>+	446	150	9	pl124_0000
 3	Waist	497	Cintura sup. Lumu	447	0	4	pl024_0000
-3	Waist	498	Unavailable	448	0	0	None
+3	Waist	498	Cinto apasionado <ICON ALPHA>+	448	156	9	pl125_0000
 3	Waist	499	Cintura sup. Rathian <ICON ALPHA>	449	0	4	pl021_0000
 3	Waist	500	Unavailable	450	0	0	None
 3	Waist	501	Cintura sup. Rathian <ICON BETA>	451	0	4	pl021_0010
@@ -2277,7 +2277,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	504	Piel astral <ICON ALPHA>+	454	140	8	pl128_0000
 3	Waist	505	Cintura sup. Radobaan <ICON BETA>	455	0	5	pl028_0010
 3	Waist	506	Torso de rosas sup.	456	0	9	pl124_0000
-3	Waist	507	Unavailable	457	0	0	None
+3	Waist	507	Torso sup. apasionado	457	0	9	pl125_0000
 3	Waist	508	Unavailable	458	0	0	None
 3	Waist	509	Cintura sup. Feng Huo	459	0	8	pl127_0000
 3	Waist	510	Cintura sup. astral	460	0	8	pl128_0000
@@ -2294,8 +2294,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	525	HARDUMMY	475	0	7	pl072_0000
 3	Waist	526	HARDUMMY	476	170	11	pl072_0001
 3	Waist	527	Unavailable	477	0	0	None
-3	Waist	528	Unavailable	478	0	0	None
-3	Waist	529	Unavailable	479	0	0	None
+3	Waist	528	Cintura Cynodon <ICON ALPHA>+	478	162	10	pl089_0500
+3	Waist	529	Cintura Cynodon <ICON BETA>+	479	162	10	pl089_0510
 3	Waist	530	Unavailable	480	0	0	None
 3	Waist	531	Unavailable	481	0	0	None
 3	Waist	532	HARDUMMY	482	160	11	pl068_0020
@@ -2479,11 +2479,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	720	Unavailable	670	0	0	None
 3	Waist	721	Unavailable	671	0	0	None
 3	Waist	722	Unavailable	672	0	0	None
-3	Waist	723	Unavailable	673	0	0	None
-3	Waist	724	Unavailable	675	0	0	None
-3	Waist	725	Unavailable	0	0	0	None
-3	Waist	726	Unavailable	0	0	0	None
-3	Waist	727	Unavailable	0	0	0	None
+3	Waist	723	Cintura sup. íntima <ICON ALPHA>	673	0	11	pl500_0000
+3	Waist	724	Cintura sup. íntima <ICON BETA>	675	0	11	pl501_0000
+3	Waist	725	Unavailable	676	0	0	None
+3	Waist	726	Unavailable	677	0	0	None
+3	Waist	727	Unavailable	678	0	0	None
 3	Waist	728	Unavailable	0	0	0	None
 3	Waist	729	Unavailable	0	0	0	None
 3	Waist	730	Unavailable	0	0	0	None
@@ -2875,15 +2875,15 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	483	Grebas braquídeas <ICON BETA>+	433	170	11	pl082_0510
 4	Leg	484	Botas cresta Safi <ICON ALPHA>+	434	168	11	pl087_0000
 4	Leg	485	Botas cresta Safi <ICON BETA>+	435	168	11	pl087_0010
-4	Leg	486	Unavailable	436	0	0	None
-4	Leg	487	Unavailable	437	0	0	None
+4	Leg	486	Escama de Escadora <ICON ALPHA>+	436	160	11	pl052_0000
+4	Leg	487	Escama de Escadora <ICON BETA>+	437	160	11	pl052_0010
 4	Leg	492	Grebas de emperatriz <ICON ALPHA>+	442	164	11	pl051_0001
 4	Leg	493	Grebas de emperatriz <ICON BETA>+	443	164	11	pl051_0011
 4	Leg	494	Cólera Kulve Taroth <ICON ALPHA>+	444	176	11	pl049_0001
 4	Leg	495	Cólera Kulve Taroth <ICON BETA>+	445	176	11	pl049_0011
 4	Leg	496	Botas de rosas <ICON ALPHA>+	446	150	9	pl124_0000
 4	Leg	497	Piernas sup. Lumu	447	0	4	pl024_0000
-4	Leg	498	Unavailable	448	0	0	None
+4	Leg	498	Piernas apasionadas <ICON ALPHA>+	448	156	9	pl125_0000
 4	Leg	499	Piernas sup. Rathian <ICON ALPHA>	449	0	4	pl021_0000
 4	Leg	500	Unavailable	450	0	0	None
 4	Leg	501	Piernas sup. Rathian <ICON BETA>	451	0	4	pl021_0010
@@ -2892,7 +2892,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	504	Leotardos astrales <ICON ALPHA>+	454	140	8	pl128_0000
 4	Leg	505	Piernas sup. Radobaan <ICON BETA>	455	0	5	pl028_0010
 4	Leg	506	Piernas de rosas sup.	456	0	9	pl124_0000
-4	Leg	507	Unavailable	457	0	0	None
+4	Leg	507	Piernas sup. apasionadas	457	0	9	pl125_0000
 4	Leg	508	Unavailable	458	0	0	None
 4	Leg	509	Piernas sup. Feng Huo	459	0	8	pl127_0000
 4	Leg	510	Piernas sup. astrales	460	0	8	pl128_0000
@@ -2909,8 +2909,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	525	HARDUMMY	475	0	7	pl072_0000
 4	Leg	526	HARDUMMY	476	170	11	pl072_0001
 4	Leg	527	Unavailable	477	0	0	None
-4	Leg	528	Unavailable	478	0	0	None
-4	Leg	529	Unavailable	479	0	0	None
+4	Leg	528	Grebas Cynodon <ICON ALPHA>+	478	162	10	pl089_0500
+4	Leg	529	Grebas Cynodon <ICON BETA>+	479	162	10	pl089_0510
 4	Leg	530	Unavailable	480	0	0	None
 4	Leg	531	Unavailable	481	0	0	None
 4	Leg	532	HARDUMMY	482	160	11	pl068_0020
@@ -3094,11 +3094,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	720	Unavailable	670	0	0	None
 4	Leg	721	Unavailable	671	0	0	None
 4	Leg	722	Unavailable	672	0	0	None
-4	Leg	723	Unavailable	673	0	0	None
-4	Leg	724	Unavailable	675	0	0	None
-4	Leg	725	Unavailable	0	0	0	None
-4	Leg	726	Unavailable	0	0	0	None
-4	Leg	727	Unavailable	0	0	0	None
+4	Leg	723	Piernas sup. íntimas <ICON ALPHA>	673	0	11	pl500_0000
+4	Leg	724	Piernas sup. íntimas <ICON BETA>	675	0	11	pl501_0000
+4	Leg	725	Unavailable	676	0	0	None
+4	Leg	726	Unavailable	677	0	0	None
+4	Leg	727	Unavailable	678	0	0	None
 4	Leg	728	Unavailable	0	0	0	None
 4	Leg	729	Unavailable	0	0	0	None
 4	Leg	730	Unavailable	0	0	0	None
@@ -3405,10 +3405,10 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	324	Cigua evasión V	0	0	11	None
 5	Charm	325	Cigua sierpe IV	0	0	10	None
 5	Charm	326	Cigua sierpe V	0	0	11	None
-5	Charm	327	Unavailable	0	0	0	None
+5	Charm	327	Cigua extracción III	0	0	11	None
 5	Charm	328	Cigua maratón III	0	0	11	None
 5	Charm	329	Cigua en forma IV	0	0	10	None
-5	Charm	330	Unavailable	0	0	0	None
+5	Charm	330	Cigua en forma V	0	0	11	None
 5	Charm	331	Cigua recarga III	0	0	11	None
 5	Charm	332	Cigua saltarina III	0	0	11	None
 5	Charm	333	Cigua seta III	0	0	10	None
@@ -3441,7 +3441,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	360	Cigua de vigor III	0	0	10	None
 5	Charm	361	Cigua fénix I	0	0	10	None
 5	Charm	362	Cigua fénix II	0	0	11	None
-5	Charm	363	Unavailable	0	0	0	None
+5	Charm	363	Cigua fénix III	0	0	11	None
 5	Charm	364	Cigua guardián I	0	0	8	None
 5	Charm	365	Cigua guardián II	0	0	9	None
 5	Charm	366	Cigua guardián III	0	0	11	None

@@ -86,7 +86,7 @@ Monster ID	Monster Code	Monster Name
 84	EMS063_00	우르그
 85	EMS064_00	코르토스
 86	EMS061_01	보와보와
-87	DUMMY000014	Unavailable
+87	EM050	알바트리온
 88	EM001_02	리오레이아 희소종
 89	EM002_02	리오레우스 희소종
 90	EM018_00	얀가루루가
@@ -97,7 +97,7 @@ Monster ID	Monster Code	Monster Name
 95	EM057_01	진오우거 아종
 96	EM063_05	사납게 터지는 브라키디오스
 97	EM104	무페토-지바
-98	DUMMY000016	Unavailable
+98	DUMMY000014	Unavailable
 99	EM018_05	상처 입은 얀가루루가
-100	DUMMY000018	Unavailable
-101	DUMMY000020	Unavailable
+100	EM042_05	얼음 칼날을 찬 벨리오로스
+101	DUMMY000016	Unavailable

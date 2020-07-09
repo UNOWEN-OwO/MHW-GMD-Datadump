@@ -297,9 +297,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	370	Осиный многослойный шлем	320	0	4	pl007_0000
 0	Head	371	Многослойный шлем роготавра	321	0	4	pl017_0000
 0	Head	374	Серьги акробата<ICON ALPHA>+	324	154	10	pl095_0000
-0	Head	375	Unavailable	325	0	0	None
+0	Head	375	Мног. шлем зол. источника	325	0	11	pl113_0001
 0	Head	376	Многослойный шлем шамоса	326	0	4	pl058_0000
-0	Head	377	Unavailable	327	0	0	None
+0	Head	377	Мног. шлем фальшивого келби	327	0	8	pl096_0000
 0	Head	378	Драгоценный шлем<ICON ALPHA>+	328	136	9	pl031_0000
 0	Head	379	Драгоценный шлем<ICON BETA>+	329	136	9	pl031_0000
 0	Head	380	Бариотовый шлем<ICON ALPHA>+	330	138	9	pl089_0000
@@ -408,11 +408,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	483	Брахидиевый шлем<ICON BETA>+	433	170	11	pl082_0510
 0	Head	484	Корона сафи с гребнем<ICON ALPHA>+	434	168	11	pl087_0000
 0	Head	485	Корона сафи с гребнем<ICON BETA>+	435	168	11	pl087_0010
-0	Head	486	Unavailable	436	0	0	None
-0	Head	487	Unavailable	437	0	0	None
+0	Head	486	Мудрость эскадора<ICON ALPHA>+	436	160	11	pl052_0000
+0	Head	487	Мудрость эскадора<ICON BETA>+	437	160	11	pl052_0010
 0	Head	488	Ткань печати дракона<ICON ALPHA>+	438	152	11	pl100_0000
 0	Head	489	Уши виверианца<ICON ALPHA>+	439	140	8	pl101_0000
-0	Head	490	Unavailable	440	0	0	None
+0	Head	490	Мног. шлем фальш. аптонота	440	0	8	pl097_0000
 0	Head	491	Маска пингвина-полярника<ICON ALPHA>+	441	138	8	pl098_0000
 0	Head	492	Корона императрицы<ICON ALPHA>+	442	164	11	pl051_0001
 0	Head	493	Корона императрицы<ICON BETA>+	443	164	11	pl051_0011
@@ -420,7 +420,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	495	Гнев кулве тарот<ICON BETA>+	445	176	11	pl049_0011
 0	Head	496	Шлем розы<ICON ALPHA>+	446	150	9	pl124_0000
 0	Head	497	Многослойный шлем луму	447	0	4	pl024_0000
-0	Head	498	Unavailable	448	0	0	None
+0	Head	498	Страстный головной убор<ICON ALPHA>+	448	156	9	pl125_0000
 0	Head	499	Многослойный шлем ратианы<ICON ALPHA>	449	0	4	pl021_0000
 0	Head	500	Unavailable	450	0	0	None
 0	Head	501	Многослойный шлем ратианы<ICON BETA>	451	0	4	pl021_0010
@@ -429,13 +429,13 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	504	Вуаль астрала<ICON ALPHA>+	454	140	8	pl128_0000
 0	Head	505	Многослойный шлем радобаана<ICON BETA>	455	0	5	pl028_0010
 0	Head	506	Многослойный шлем розы	456	0	9	pl124_0000
-0	Head	507	Unavailable	457	0	0	None
+0	Head	507	Страстный мног. шлем	457	0	9	pl125_0000
 0	Head	508	Unavailable	458	0	0	None
 0	Head	509	Многослойный шлем улуна	459	0	8	pl127_0000
 0	Head	510	Многослойный шлем астрала	460	0	8	pl128_0000
 0	Head	511	Многосл. шлем из выс. металла	461	0	5	pl025_0000
 0	Head	512	Многосл. термоповязка	462	0	8	pl106_0000
-0	Head	513	Unavailable	463	0	0	None
+0	Head	513	Мног. доспех кроличьих ушек	463	0	8	pl111_0000
 0	Head	514	Мног. шлем пухового коростеля	464	0	8	pl112_0000
 0	Head	515	Жемчужный источник<ICON ALPHA>+	465	120	8	pl113_0000
 0	Head	516	Unavailable	466	0	0	None
@@ -449,8 +449,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	525	HARDUMMY	475	0	7	pl072_0000
 0	Head	526	HARDUMMY	476	170	11	pl072_0001
 0	Head	527	Unavailable	477	0	0	None
-0	Head	528	Unavailable	478	0	0	None
-0	Head	529	Unavailable	479	0	0	None
+0	Head	528	Шлем ледозубого<ICON ALPHA>+	478	162	10	pl089_0500
+0	Head	529	Шлем ледозубого<ICON BETA>+	479	162	10	pl089_0510
 0	Head	530	Unavailable	480	0	0	None
 0	Head	531	Unavailable	481	0	0	None
 0	Head	532	HARDUMMY	482	160	11	pl068_0020
@@ -640,9 +640,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	719	Unavailable	669	0	0	None
 0	Head	720	Unavailable	670	0	0	None
 0	Head	721	Unavailable	671	0	0	None
-0	Head	725	Unavailable	0	0	0	None
-0	Head	726	Unavailable	0	0	0	None
-0	Head	727	Unavailable	0	0	0	None
+0	Head	725	Unavailable	676	0	0	None
+0	Head	726	Unavailable	677	0	0	None
+0	Head	727	Unavailable	678	0	0	None
 0	Head	728	Unavailable	0	0	0	None
 0	Head	729	Unavailable	0	0	0	None
 0	Head	730	Unavailable	0	0	0	None
@@ -1034,15 +1034,15 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	483	Брахидиевый доспех<ICON BETA>+	433	170	11	pl082_0510
 1	Body	484	Нагрудник сафи с гребнем<ICON ALPHA>+	434	168	11	pl087_0000
 1	Body	485	Нагрудник сафи с гребнем<ICON BETA>+	435	168	11	pl087_0010
-1	Body	486	Unavailable	436	0	0	None
-1	Body	487	Unavailable	437	0	0	None
+1	Body	486	Душа эскадора<ICON ALPHA>+	436	160	11	pl052_0000
+1	Body	487	Душа эскадора<ICON BETA>+	437	160	11	pl052_0010
 1	Body	492	Кольчуга императрицы<ICON ALPHA>+	442	164	11	pl051_0001
 1	Body	493	Кольчуга императрицы<ICON BETA>+	443	164	11	pl051_0011
 1	Body	494	Ярость кулве тарот<ICON ALPHA>+	444	176	11	pl049_0001
 1	Body	495	Ярость кулве тарот<ICON BETA>+	445	176	11	pl049_0011
 1	Body	496	Куртка розы<ICON ALPHA>+	446	150	9	pl124_0000
 1	Body	497	Многослойный нагрудник луму	447	0	4	pl024_0000
-1	Body	498	Unavailable	448	0	0	None
+1	Body	498	Страстный доспех<ICON ALPHA>+	448	156	9	pl125_0000
 1	Body	499	Многосл. нагрудник ратианы<ICON ALPHA>	449	0	4	pl021_0000
 1	Body	500	Unavailable	450	0	0	None
 1	Body	501	Многосл. нагрудник ратианы<ICON BETA>	451	0	4	pl021_0010
@@ -1051,7 +1051,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	504	Астральное одеяние<ICON ALPHA>+	454	140	8	pl128_0000
 1	Body	505	Многосл. нагрудник радобаана<ICON BETA>	455	0	5	pl028_0010
 1	Body	506	Многослойный нагрудник розы	456	0	9	pl124_0000
-1	Body	507	Unavailable	457	0	0	None
+1	Body	507	Страстный мног. нагрудник	457	0	9	pl125_0000
 1	Body	508	Unavailable	458	0	0	None
 1	Body	509	Многослойный нагрудник улуна	459	0	8	pl127_0000
 1	Body	510	Многослойный нагрудник астрала	460	0	8	pl128_0000
@@ -1068,8 +1068,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	525	HARDUMMY	475	0	7	pl072_0000
 1	Body	526	HARDUMMY	476	170	11	pl072_0001
 1	Body	527	Unavailable	477	0	0	None
-1	Body	528	Unavailable	478	0	0	None
-1	Body	529	Unavailable	479	0	0	None
+1	Body	528	Доспех ледозубого<ICON ALPHA>+	478	162	10	pl089_0500
+1	Body	529	Доспех ледозубого<ICON BETA>+	479	162	10	pl089_0510
 1	Body	530	Unavailable	480	0	0	None
 1	Body	531	Unavailable	481	0	0	None
 1	Body	532	HARDUMMY	482	160	11	pl068_0020
@@ -1255,11 +1255,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	720	Unavailable	670	0	0	None
 1	Body	721	Unavailable	671	0	0	None
 1	Body	722	Unavailable	672	0	0	None
-1	Body	723	Unavailable	673	0	0	None
-1	Body	724	Unavailable	675	0	0	None
-1	Body	725	Unavailable	0	0	0	None
-1	Body	726	Unavailable	0	0	0	None
-1	Body	727	Unavailable	0	0	0	None
+1	Body	723	Белье <ICON ALPHA>: многосл. доспех	673	0	11	pl500_0000
+1	Body	724	Белье <ICON BETA>: многосл. доспех	675	0	11	pl501_0000
+1	Body	725	Unavailable	676	0	0	None
+1	Body	726	Unavailable	677	0	0	None
+1	Body	727	Unavailable	678	0	0	None
 1	Body	728	Unavailable	0	0	0	None
 1	Body	729	Unavailable	0	0	0	None
 1	Body	730	Unavailable	0	0	0	None
@@ -1651,15 +1651,15 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	483	Брахидиевые наручи<ICON BETA>+	433	170	11	pl082_0510
 2	Arm	484	Наручи сафи с гребнем<ICON ALPHA>+	434	168	11	pl087_0000
 2	Arm	485	Наручи сафи с гребнем<ICON BETA>+	435	168	11	pl087_0010
-2	Arm	486	Unavailable	436	0	0	None
-2	Arm	487	Unavailable	437	0	0	None
+2	Arm	486	Наручи эскадора<ICON ALPHA>+	436	160	11	pl052_0000
+2	Arm	487	Наручи эскадора<ICON BETA>+	437	160	11	pl052_0010
 2	Arm	492	Наручи императрицы<ICON ALPHA>+	442	164	11	pl051_0001
 2	Arm	493	Наручи императрицы<ICON BETA>+	443	164	11	pl051_0011
 2	Arm	494	Пыл кулве тарот<ICON ALPHA>+	444	176	11	pl049_0001
 2	Arm	495	Пыл кулве тарот<ICON BETA>+	445	176	11	pl049_0011
 2	Arm	496	Наручи розы<ICON ALPHA>+	446	150	9	pl124_0000
 2	Arm	497	Многослойные наручи луму	447	0	4	pl024_0000
-2	Arm	498	Unavailable	448	0	0	None
+2	Arm	498	Страстные наручи<ICON ALPHA>+	448	156	9	pl125_0000
 2	Arm	499	Многослойные наручи ратианы<ICON ALPHA>	449	0	4	pl021_0000
 2	Arm	500	Unavailable	450	0	0	None
 2	Arm	501	Многослойные наручи ратианы<ICON BETA>	451	0	4	pl021_0010
@@ -1668,7 +1668,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	504	Шарф астрала<ICON ALPHA>+	454	140	8	pl128_0000
 2	Arm	505	Многосл. наручи радобаана<ICON BETA>	455	0	5	pl028_0010
 2	Arm	506	Многослойные наручи розы	456	0	9	pl124_0000
-2	Arm	507	Unavailable	457	0	0	None
+2	Arm	507	Страстные мног. наручи	457	0	9	pl125_0000
 2	Arm	508	Unavailable	458	0	0	None
 2	Arm	509	Многослойные наручи улуна	459	0	8	pl127_0000
 2	Arm	510	Многослойные наручи астрала	460	0	8	pl128_0000
@@ -1685,8 +1685,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	525	HARDUMMY	475	0	7	pl072_0000
 2	Arm	526	HARDUMMY	476	170	11	pl072_0001
 2	Arm	527	Unavailable	477	0	0	None
-2	Arm	528	Unavailable	478	0	0	None
-2	Arm	529	Unavailable	479	0	0	None
+2	Arm	528	Наручи ледозубого<ICON ALPHA>+	478	162	10	pl089_0500
+2	Arm	529	Наручи ледозубого<ICON BETA>+	479	162	10	pl089_0510
 2	Arm	530	Unavailable	480	0	0	None
 2	Arm	531	Unavailable	481	0	0	None
 2	Arm	532	HARDUMMY	482	160	11	pl068_0020
@@ -1870,11 +1870,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	720	Unavailable	670	0	0	None
 2	Arm	721	Unavailable	671	0	0	None
 2	Arm	722	Unavailable	672	0	0	None
-2	Arm	723	Unavailable	673	0	0	None
-2	Arm	724	Unavailable	675	0	0	None
-2	Arm	725	Unavailable	0	0	0	None
-2	Arm	726	Unavailable	0	0	0	None
-2	Arm	727	Unavailable	0	0	0	None
+2	Arm	723	Белье <ICON ALPHA>: многосл. наручи	673	0	11	pl500_0000
+2	Arm	724	Белье <ICON BETA>: многосл. наручи	675	0	11	pl501_0000
+2	Arm	725	Unavailable	676	0	0	None
+2	Arm	726	Unavailable	677	0	0	None
+2	Arm	727	Unavailable	678	0	0	None
 2	Arm	728	Unavailable	0	0	0	None
 2	Arm	729	Unavailable	0	0	0	None
 2	Arm	730	Unavailable	0	0	0	None
@@ -2260,15 +2260,15 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	483	Брахидиев. лт. юбка<ICON BETA>+	433	170	11	pl082_0510
 3	Waist	484	Пояс сафи с гребнем<ICON ALPHA>+	434	168	11	pl087_0000
 3	Waist	485	Пояс сафи с гребнем<ICON BETA>+	435	168	11	pl087_0010
-3	Waist	486	Unavailable	436	0	0	None
-3	Waist	487	Unavailable	437	0	0	None
+3	Waist	486	Мощь эскадора<ICON ALPHA>+	436	160	11	pl052_0000
+3	Waist	487	Мощь эскадора<ICON BETA>+	437	160	11	pl052_0010
 3	Waist	492	Пояс императрицы<ICON ALPHA>+	442	164	11	pl051_0001
 3	Waist	493	Пояс императрицы<ICON BETA>+	443	164	11	pl051_0011
 3	Waist	494	Злоба кулве тарот<ICON ALPHA>+	444	176	11	pl049_0001
 3	Waist	495	Злоба кулве тарот<ICON BETA>+	445	176	11	pl049_0011
 3	Waist	496	Пояс розы<ICON ALPHA>+	446	150	9	pl124_0000
 3	Waist	497	Многослойный пояс луму	447	0	4	pl024_0000
-3	Waist	498	Unavailable	448	0	0	None
+3	Waist	498	Страстный пояс<ICON ALPHA>+	448	156	9	pl125_0000
 3	Waist	499	Многослойный пояс ратианы<ICON ALPHA>	449	0	4	pl021_0000
 3	Waist	500	Unavailable	450	0	0	None
 3	Waist	501	Многослойный пояс ратианы<ICON BETA>	451	0	4	pl021_0010
@@ -2277,7 +2277,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	504	Юбка астрала<ICON ALPHA>+	454	140	8	pl128_0000
 3	Waist	505	Многослойный пояс радобаана<ICON BETA>	455	0	5	pl028_0010
 3	Waist	506	Многослойная кираса розы	456	0	9	pl124_0000
-3	Waist	507	Unavailable	457	0	0	None
+3	Waist	507	Страстный мног. доспех	457	0	9	pl125_0000
 3	Waist	508	Unavailable	458	0	0	None
 3	Waist	509	Многослойная кираса улуна	459	0	8	pl127_0000
 3	Waist	510	Многослойная кираса астрала	460	0	8	pl128_0000
@@ -2294,8 +2294,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	525	HARDUMMY	475	0	7	pl072_0000
 3	Waist	526	HARDUMMY	476	170	11	pl072_0001
 3	Waist	527	Unavailable	477	0	0	None
-3	Waist	528	Unavailable	478	0	0	None
-3	Waist	529	Unavailable	479	0	0	None
+3	Waist	528	Пояс ледозубого<ICON ALPHA>+	478	162	10	pl089_0500
+3	Waist	529	Пояс ледозубого<ICON BETA>+	479	162	10	pl089_0510
 3	Waist	530	Unavailable	480	0	0	None
 3	Waist	531	Unavailable	481	0	0	None
 3	Waist	532	HARDUMMY	482	160	11	pl068_0020
@@ -2479,11 +2479,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	720	Unavailable	670	0	0	None
 3	Waist	721	Unavailable	671	0	0	None
 3	Waist	722	Unavailable	672	0	0	None
-3	Waist	723	Unavailable	673	0	0	None
-3	Waist	724	Unavailable	675	0	0	None
-3	Waist	725	Unavailable	0	0	0	None
-3	Waist	726	Unavailable	0	0	0	None
-3	Waist	727	Unavailable	0	0	0	None
+3	Waist	723	Белье <ICON ALPHA>: многосл. кираса	673	0	11	pl500_0000
+3	Waist	724	Белье <ICON BETA>: многосл. кираса	675	0	11	pl501_0000
+3	Waist	725	Unavailable	676	0	0	None
+3	Waist	726	Unavailable	677	0	0	None
+3	Waist	727	Unavailable	678	0	0	None
 3	Waist	728	Unavailable	0	0	0	None
 3	Waist	729	Unavailable	0	0	0	None
 3	Waist	730	Unavailable	0	0	0	None
@@ -2875,15 +2875,15 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	483	Брахидиевые поножи<ICON BETA>+	433	170	11	pl082_0510
 4	Leg	484	Сапоги сафи с гребнем<ICON ALPHA>+	434	168	11	pl087_0000
 4	Leg	485	Сапоги сафи с гребнем<ICON BETA>+	435	168	11	pl087_0010
-4	Leg	486	Unavailable	436	0	0	None
-4	Leg	487	Unavailable	437	0	0	None
+4	Leg	486	Ножны эскадора<ICON ALPHA>+	436	160	11	pl052_0000
+4	Leg	487	Ножны эскадора<ICON BETA>+	437	160	11	pl052_0010
 4	Leg	492	Поножи императрицы<ICON ALPHA>+	442	164	11	pl051_0001
 4	Leg	493	Поножи императрицы<ICON BETA>+	443	164	11	pl051_0011
 4	Leg	494	Буйство кулве тарот<ICON ALPHA>+	444	176	11	pl049_0001
 4	Leg	495	Буйство кулве тарот<ICON BETA>+	445	176	11	pl049_0011
 4	Leg	496	Сапоги розы<ICON ALPHA>+	446	150	9	pl124_0000
 4	Leg	497	Многослойные поножи луму	447	0	4	pl024_0000
-4	Leg	498	Unavailable	448	0	0	None
+4	Leg	498	Страстные поножи<ICON ALPHA>+	448	156	9	pl125_0000
 4	Leg	499	Многослойные поножи ратианы<ICON ALPHA>	449	0	4	pl021_0000
 4	Leg	500	Unavailable	450	0	0	None
 4	Leg	501	Многослойные поножи ратианы<ICON BETA>	451	0	4	pl021_0010
@@ -2892,7 +2892,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	504	Астральные брюки<ICON ALPHA>+	454	140	8	pl128_0000
 4	Leg	505	Многосл. поножи радобаана<ICON BETA>	455	0	5	pl028_0010
 4	Leg	506	Многослойные поножи розы	456	0	9	pl124_0000
-4	Leg	507	Unavailable	457	0	0	None
+4	Leg	507	Страстные мног. поножи	457	0	9	pl125_0000
 4	Leg	508	Unavailable	458	0	0	None
 4	Leg	509	Многослойные поножи улуна	459	0	8	pl127_0000
 4	Leg	510	Многослойные поножи астрала	460	0	8	pl128_0000
@@ -2909,8 +2909,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	525	HARDUMMY	475	0	7	pl072_0000
 4	Leg	526	HARDUMMY	476	170	11	pl072_0001
 4	Leg	527	Unavailable	477	0	0	None
-4	Leg	528	Unavailable	478	0	0	None
-4	Leg	529	Unavailable	479	0	0	None
+4	Leg	528	Поножи ледозубого<ICON ALPHA>+	478	162	10	pl089_0500
+4	Leg	529	Поножи ледозубого<ICON BETA>+	479	162	10	pl089_0510
 4	Leg	530	Unavailable	480	0	0	None
 4	Leg	531	Unavailable	481	0	0	None
 4	Leg	532	HARDUMMY	482	160	11	pl068_0020
@@ -3094,11 +3094,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	720	Unavailable	670	0	0	None
 4	Leg	721	Unavailable	671	0	0	None
 4	Leg	722	Unavailable	672	0	0	None
-4	Leg	723	Unavailable	673	0	0	None
-4	Leg	724	Unavailable	675	0	0	None
-4	Leg	725	Unavailable	0	0	0	None
-4	Leg	726	Unavailable	0	0	0	None
-4	Leg	727	Unavailable	0	0	0	None
+4	Leg	723	Белье <ICON ALPHA>: многосл. поножи	673	0	11	pl500_0000
+4	Leg	724	Белье <ICON BETA>: многосл. поножи	675	0	11	pl501_0000
+4	Leg	725	Unavailable	676	0	0	None
+4	Leg	726	Unavailable	677	0	0	None
+4	Leg	727	Unavailable	678	0	0	None
 4	Leg	728	Unavailable	0	0	0	None
 4	Leg	729	Unavailable	0	0	0	None
 4	Leg	730	Unavailable	0	0	0	None
@@ -3405,10 +3405,10 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	324	Оберег уклонения 5	0	0	11	None
 5	Charm	325	Оберег змея 4	0	0	10	None
 5	Charm	326	Оберег змея 5	0	0	11	None
-5	Charm	327	Unavailable	0	0	0	None
+5	Charm	327	Оберег выхвата 3	0	0	11	None
 5	Charm	328	Оберег марафонца 3	0	0	11	None
 5	Charm	329	Оберег стройности 4	0	0	10	None
-5	Charm	330	Unavailable	0	0	0	None
+5	Charm	330	Оберег стройности 5	0	0	11	None
 5	Charm	331	Оберег выносливости 3	0	0	11	None
 5	Charm	332	Оберег прыгуна 3	0	0	11	None
 5	Charm	333	Оберег грибника 3	0	0	10	None
@@ -3441,7 +3441,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	360	Оберег заряда 3	0	0	10	None
 5	Charm	361	Оберег феникса 1	0	0	10	None
 5	Charm	362	Оберег феникса 2	0	0	11	None
-5	Charm	363	Unavailable	0	0	0	None
+5	Charm	363	Оберег феникса 3	0	0	11	None
 5	Charm	364	Оберег стража 1	0	0	8	None
 5	Charm	365	Оберег стража 2	0	0	9	None
 5	Charm	366	Оберег стража 3	0	0	11	None

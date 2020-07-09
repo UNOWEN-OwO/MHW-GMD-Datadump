@@ -355,8 +355,9 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 51605	O Dragão Vermelho	Mate Safi'jiiva	Tempo expirarDesmaiar 3 vezes
 51606	Minha Cólera Contra Todos	Mate um Brachydios Colérico	Tempo expirarDesmaiar 3 vezes
 51607	A Fúria Permanece	Cace um Rajang Furioso	Tempo expirarDesmaiar 3 vezes
-51611	Unavailable	Unavailable	Unavailable
+51611	Crepúsculo Sombrio Incandescente	Mate um Alatreon	Tempo expirarDesmaiar 3 vezes
 51612	Unavailable	Unavailable	Unavailable
+51613	Unavailable	Unavailable	Unavailable
 51621	Arena Especial: Zinogre Tenebroso RM	Cace um Zinogre Tenebroso	Tempo expirarDesmaiar 3 vezes
 51622	Explosão de Sentimentos	Mate um Brachydios Colérico	Tempo expirarDesmaiar 3 vezes
 51623	Tudo o que Brilha é Furioso	Cace um Rajang Furioso	Tempo expirarDesmaiar 3 vezes
@@ -384,6 +385,8 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 61812	Um Bife a Mais Nunca é Demais	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
 61813	50 Tons de Branco	Cace um Barioth	Tempo expirarDesmaiar 3 vezes
 61814	Um Clímax Chocante	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+61815	Atirando no Ar	Entregue 5 Avôs Raiagrells	Tempo expirarDesmaiar 3 vezes
+61816	Um Peixe para um Paladar Afiado	Entregue 2 Grandes Peixes-amola	Tempo expirarDesmaiar 3 vezes
 62502	A Cortina Mortalmente Silenciosa	Mate o Vaal Hazak	Tempo expirarDesmaiar 3 vezes
 62503	Sussurro de Juba Branca	Mate o Kirin	Tempo expirarDesmaiar 3 vezes
 62504	Escárnio do Sol	Mate o Teostra	Tempo expirarDesmaiar 3 vezes
@@ -493,9 +496,13 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66830	Fenda do Rock Alternativo	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
 66831	Balada Glacial	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
 66832	Lobo do Inferno	Cace um Zinogre Tenebroso	Tempo expirarDesmaiar 3 vezes
+66833	A Eterna Corrida do Ouro	Mate Kulve Taroth	Tempo expirarDesmaiar 3 vezes
 66834	Quando o Veloz Encara o Rugidor	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
 66835	A Fúria do Trovão Descende	Cace um Zinogre	Tempo expirarDesmaiar 3 vezes
 66836	Ode à Destruição	Mate um Nergigante Ferrenho	Tempo expirarDesmaiar 3 vezes
+66847	A Maré Sombria Distante	Mate um Namielle	Tempo expirarDesmaiar 3 vezes
+66859	Que Estraga-festa...	Cace um Bazelgeuse Vulcânico	Tempo expirarDesmaiar 3 vezes
+66860	A Fúria do Trovão Descende	Cace um Zinogre	Tempo expirarDesmaiar 3 vezes
 67101	A Provação	Cace um Anjanath	Tempo expirarDesmaiar 3 vezes
 67102	Lições da Natureza	Mate 8 Barnos	Tempo expirarDesmaiar 3 vezes
 67103	Rush de Sangue	Cace 2 Odogarons	Tempo expirarDesmaiar 3 vezes
@@ -512,3 +519,4 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67802	Para as Frozen Wilds	Cace um Zinogre	Tempo expirarDesmaiar 3 vezes
 67803	A Sobrevivente	Cace um Zinogre Tenebroso	Tempo expirarDesmaiar 3 vezes
 67804	Firebreak	Cace um Deviljho Selvagem	Tempo expirarDesmaiar 3 vezes
+67807	O Assassino	Cace um Nargacuga	Tempo expirarDesmaiar 3 vezes

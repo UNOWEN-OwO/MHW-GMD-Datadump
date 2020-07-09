@@ -1401,13 +1401,13 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 1399	Камень-лепесток шара-ишвалды	Material	10	Редчайшее животное сырье.Можно найти в виде редкой добычи.Материал для снаряжения.
 1400	Нежный коготь шара-ишвалды	Material	10	Редчайшее животное сырье.Источник: рукокрылья.Используется для оружия.
 1401	Самоцвет шара-ишвалды	Material	11	Редчайшее животное сырье.Используется для создания оружия,которым можно захватить мир.
-1402	Unavailable	Item	3	Unavailable
-1403	Unavailable	Item	3	Unavailable
-1404	Unavailable	Item	3	Unavailable
-1405	Unavailable	Item	3	Unavailable
-1406	Unavailable	Item	3	Unavailable
-1407	Unavailable	Item	3	Unavailable
-1408	Unavailable	Item	3	Unavailable
+1402	Мантия Алатреона	Material	10	Редчайшее животное сырье.Источник: награждение.Обладатель получает любовь небес.
+1403	Покров Алатреона	Material	10	Редчайшее животное сырье.Источник: разделка туш. По слухамсодержит в себе все стихии.
+1404	Острый коготь Алатреона	Material	10	Редчайшее животное сырье.Источает злонамеренность, внушаятолько дурные помыслы.
+1405	Черное крыло Алатреона	Material	10	Редчайшее животное сырье.По слухам может разорватьпространство, время и весь мир.
+1406	Черный хвост Алатреона	Material	10	Редчайшее животное сырье.Источник: разделка хвоста.Это реальность или просто сон?
+1407	Небокол	Material	10	Редчайшее животное сырье.Эти витые рога -лучшие из существующих.
+1408	Лазурный драконий сапфир	Material	11	Редчайшее животное сырье.Получение этого блестящего самоцветаявляется предвестником гибели мира.
 1409	Древний мертвый камень	Material	8	Внутри самоцвета скрытадревняя сила.<STYL MOJI_YELLOW_DEFAULT>(Предмет необходимо оценить.)</STYL>
 1410	Резной мертвый камень	Material	9	Внутри самоцвета скрытаневероятная сила.<STYL MOJI_YELLOW_DEFAULT>(Предмет необходимо оценить)</STYL>
 1411	Мертвый камень печати	Material	10	Внутри самоцвета скрытасокрушительная сила.<STYL MOJI_YELLOW_DEFAULT>(Предмет необходимо оценить)</STYL>
@@ -2416,29 +2416,29 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2414	Декоративное дерево	Room Decoration	3	Декоративные побеги— симпатичные и энергичные.(Украшение праздника радости)
 2415	Цветочное украшение (маленькое)	Room Decoration	3	Прекрасный букет цветовв небольшом цветочном горшке.
 2416	Цветочное украшение (большое)	Room Decoration	3	Прекрасный букет цветовв большом цветочном горшке.
-2417	Unavailable	Item	3	Unavailable
+2417	Тропические цветы	Room Decoration	3	Цветы в горшках,выращенные в теплых краях.(украшение Жгучих специй)
 2418	Unavailable	Item	3	Unavailable
 2419	Модель корабля Пятого флота	Room Decoration	3	Точная копия корабляПятого флота.
 2420	Модель измененного корабля	Room Decoration	3	Модель корабля, измененного дляпротивостояния Дзоре Магдаросу.
 2421	Модель исследовательской базы	Room Decoration	3	Модель исследовательской базы.Филигранная работаискусного мастера.
 2422	Модель лагеря	Room Decoration	3	Модель лагеря охотников.Филигранная работаискусного мастера.
 2423	Изящный набор для чаепития	Room Decoration	3	Весьма изящный набор для чаепития.
-2424	Unavailable	Item	3	Unavailable
-2425	Unavailable	Item	3	Unavailable
-2426	Unavailable	Item	3	Unavailable
-2427	Unavailable	Item	3	Unavailable
-2428	Unavailable	Item	3	Unavailable
+2424	Черный горшок	Room Decoration	3	Темный горшок скрасным орнаментом.(украшение Жгучих специй)
+2425	Земляной горшок	Room Decoration	3	Горшок с орнаментомкоричневого цвета.(украшение Жгучих специй)
+2426	Маска раталоса	Room Decoration	3	Маска в видеморды раталоса.(украшение Жгучих специй)
+2427	Маска ратианы	Room Decoration	3	Маска в видеморды ратианы.(украшение Жгучих специй)
+2428	Маска кулу-йа-ку	Room Decoration	3	Маска в видеморды кулу-йа-ку.(украшение Жгучих специй)
 2429	Unavailable	Item	3	Unavailable
 2430	Шарик-котт	Room Decoration	3	Милый надувной шарик, похожийна котта.(Украшение великой благодарности)
 2431	Шарик-грималкин (белый)	Room Decoration	3	Милый надувной шарик, похожийна грималкина.(Украшение великой благодарности)
 2432	Шарик-грималкин (черный)	Room Decoration	3	Милый надувной шарик, похожийна грималкина.(Украшение великой благодарности)
 2433	Шарик-гаялака	Room Decoration	3	Милый надувной шарик, похожийна гаялака.(Украшение великой благодарности)
-2434	Unavailable	Item	3	Unavailable
-2435	Unavailable	Item	3	Unavailable
-2436	Unavailable	Item	3	Unavailable
+2434	Настенная маска раталоса	Room Decoration	3	Висящая маска в видеморды раталоса.(украшение Жгучих специй)
+2435	Настенная маска ратианы	Room Decoration	3	Висящая маска в видеморды ратианы.(украшение Жгучих специй)
+2436	Настенная маска кулу-йа-ку	Room Decoration	3	Висящая маска в видеморды кулу-йа-ку.(украшение Жгучих специй)
 2437	Портреты палико 2	Room Decoration	3	Трогательные рисункикоттов и хрюшек.
 2438	Портреты палико 3	Room Decoration	3	Картина двух палико в доневозможности милом снаряжении.
-2439	Unavailable	Item	3	Unavailable
+2439	Портреты палико 4	Room Decoration	3	Портрет слегка обленившегося палико.
 2440	Рисунок пикника	Room Decoration	3	Картина, на которой изображен готовящийужин охотник. Похоже, аппетитный ароматуже успел кого-то приманить!
 2441	"Картина ""Растения Древнего леса"""	Room Decoration	3	На этой картине запечатлена пышнаярастительность Древнего леса.
 2442	Натюрморт с фруктами	Room Decoration	3	Натюрморт со вкуснымии полезными закусками.
@@ -2453,14 +2453,14 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2451	Простые светильники (белые)	Room Decoration	3	Набор деревянных светильников сминималистичным дизайном. Освещаеткомнату ярким белым светом.
 2452	Шикарные светильники	Room Decoration	3	Шикарные светильники, обрамленныезолотом.
 2453	Канделябры	Room Decoration	3	Три канделябра, озаряющих комнатуискристым светом. Придутся по вкусукаждому.
-2454	Unavailable	Item	3	Unavailable
+2454	Фонарь-хрюшка	Room Decoration	3	Фонарь хрюшки, источающийтеплый свет.
 2455	Радостные фонари	Room Decoration	3	Большие фонари наполняют пространствокрасным свечением.(Украшение праздника радости)
 2456	Небесные фонарики	Room Decoration	3	В воздухе парят бесчисленные небесныефонарики, освещая комнату.
 2457	Шикарная подвесная полка (большая)	Room Decoration	3	Подвесная полка, сделанная изчистого золота.
 2458	Шикарная подвесная полка (малая)	Room Decoration	3	Подвесная полка, сделанная изчистого золота.
 2459	"Картина ""Морозный простор"" 2"	Room Decoration	3	На этой картине изображенаприрода Морозного простора.
 2460	Карты Нового Света	Room Decoration	3	Испещренные заметкамикарты Нового Светаи Внутренних земель.
-2461	Unavailable	Item	3	Unavailable
+2461	Портреты палико 5	Room Decoration	3	Набор портретов палико.(И хрюшек тоже!)
 2462	Unavailable	Item	3	Unavailable
 2463	Знамя Первого флота	Room Decoration	3	Знамя Первого флота.
 2464	Знамя Второго флота	Room Decoration	3	Знамя Второго флота.
@@ -2474,7 +2474,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2472	Шикарные ковры (1Э)	Room Decoration	3	Ковры, в которых чувствуется шик.
 2473	Шикарные ковры (2Э)	Room Decoration	3	Ковры, в которых чувствуется шик.
 2474	Бумажный фонарь	Room Decoration	3	Бумажный фонарьс мягким и теплым светом.(Украшение праздника радости)
-2475	Unavailable	Item	3	Unavailable
+2475	Лампа-хрюшка	Room Decoration	3	Предельно милая лампа в видехрюшки.
 2476	Круглые бумажные фонари	Room Decoration	3	Простая, но стильная лампа.(Украшение великой благодарности)
 2477	Unavailable	Item	3	Unavailable
 2478	Набор исследователя	Room Decoration	3	Набор инструментов с исследовательскойбазы Третьего флота.
@@ -2532,7 +2532,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2530	Блюдо радости	Room Decoration	3	Особое блюдо, приготовленное на открытомогне с большим количеством масла.(Особое блюдо празд. фестиваля радости)
 2531	Роскошное блюдо	Room Decoration	3	Изысканное блюдо, приготовленноетолько из лучших ингредиентов.(Особое блюдо великой благодарности)
 2532	Тарелка Полноцветия	Room Decoration	3	Фантастический набор, украшенныйцветами.(Особое блюдо фестиваля Полноцветия)
-2533	Unavailable	Item	3	Unavailable
+2533	Тарелка жгучих специй	Room Decoration	3	Тарелка сочного мяса, приправленногожгучими специями.(особая тарелка Фестиваля жгучих специй)
 2534	Фигурка тоби-кадачи	Room Decoration	3	Фигурка монстратоби-кадачи
 2535	Фигурка бариота	Room Decoration	3	Фигурка монстрабариот
 2536	Фигурка банбаро	Room Decoration	3	Фигурка монстрабанбаро
@@ -2549,21 +2549,21 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2547	Фигурка зиногра	Room Decoration	3	Фигурка чудовищаЗиногр
 2548	Фигурка йан-гаруги	Room Decoration	3	Фигурка чудовищаЙан-гаруга
 2549	Фигурка большого гирроса	Room Decoration	3	Фигурка чудовищаБольшой гиррос и гиррос
-2550	Unavailable	Item	3	Unavailable
-2551	Unavailable	Item	3	Unavailable
-2552	Unavailable	Item	3	Unavailable
+2550	Фигурка тигрекса	Room Decoration	3	Фигурка чудовищаТигрекс
+2551	Фигурка одогарона	Room Decoration	3	Фигурка чудовищаОдогарон
+2552	Фигурка радобаана	Room Decoration	3	Фигурка чудовищаРадобаан
 2553	Фигурка намиэля	Room Decoration	3	Фигурка чудовищаНамиэль
 2554	Фигурка паолуму	Room Decoration	3	Фигурка чудовищаПаолуму
 2555	Фигурка цици-йа-ку	Room Decoration	3	Фигурка чудовищаЦици-йа-ку
-2556	Unavailable	Item	3	Unavailable
-2557	Unavailable	Item	3	Unavailable
+2556	Фигурка раянга	Room Decoration	3	Фигурка чудовищаРаянг
+2557	Фигурка кирина	Room Decoration	3	Фигурка чудовищаКирин
 2558	Unavailable	Item	3	Unavailable
-2559	Unavailable	Item	3	Unavailable
-2560	Unavailable	Item	3	Unavailable
-2561	Unavailable	Item	3	Unavailable
-2562	Unavailable	Item	3	Unavailable
+2559	Фигурка ваал-хазака	Room Decoration	3	Фигурка чудовищаВаал-хазак
+2560	Фигурка теостры	Room Decoration	3	Фигурка чудовищаТеостра
+2561	Фигурки гаялака	Room Decoration	3	Фигурка чудовищаГаялака
+2562	Фигурка брахидиоса	Room Decoration	3	Фигурка чудовищаБрахидиос
 2563	Unavailable	Item	3	Unavailable
-2564	Unavailable	Item	3	Unavailable
+2564	Фигурка лавасиота	Room Decoration	3	Фигурка чудовищаЛавасиот
 2565	Фигурка великой благодарности	Room Decoration	3	Фигурка двух пугающеблизких друг другу монстров.(Украшение великой благодарности)
 2566	Мраморная стена (белая)	Room Decoration	3	Unavailable
 2567	Мраморный пол (белый)	Room Decoration	3	Unavailable
@@ -2579,11 +2579,11 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2577	Пишущая машинка	Room Decoration	3	На этой пишущей машинке были напечатаныкак дурные, так и добрые рассказы.<STYL MOJI_RED_DEFAULT>Совместный проект с Раккун-Сити</STYL>
 2578	Коробка	Room Decoration	3	Здесь можно хранить то, что не влезлов личный инвентарь. Очень удобно.<STYL MOJI_RED_DEFAULT>Совместный проект с Раккун-Сити</STYL>
 2579	Unavailable	Item	3	Unavailable
-2580	Unavailable	Item	3	Unavailable
+2580	Золотая хрюшка	Room Decoration	3	Сверкающая золотая статуя хрюшки.
 2581	Радостный снеговик	Room Decoration	3	Снеговик с подсветкой —вроде обычный, но...(Украшение праздника радости)
 2582	Благодарный снеговик	Room Decoration	3	Любопытный синий снеговик сприкрепленным таинственным диском.(Украшение великой благодарности)
 2583	Цветочный снеговик	Room Decoration	3	Сделанный из цветов снеговик.(Украшение фестиваля Полноцветия)
-2584	Unavailable	Item	3	Unavailable
+2584	Жгучий снеговик	Room Decoration	3	Веселый снеговикв маске.(украшение Жгучих специй)
 2585	Unavailable	Item	3	Unavailable
 2586	Небесные фонарики	Room Decoration	3	Небесные огоньки, страннымобразом парящие в воздухе.(Украшение великой благодарности)
 2587	Шикарный флаг	Room Decoration	3	Великолепный декоративный флаг.
@@ -2592,12 +2592,12 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2590	Барельеф	Room Decoration	3	Бронзовый барельеф раталоса.
 2591	Портрет Адмирала	Room Decoration	3	Портрет, передающиймужественный облик Адмирала.
 2592	Шикарная драпировка на стену	Room Decoration	3	Белая подвеска, богатоинструктированная золотом.
-2593	Unavailable	Item	3	Unavailable
-2594	Unavailable	Item	3	Unavailable
+2593	Портреты палико 6	Room Decoration	3	Групповой портрет палико.
+2594	Портрет хрюшки 2	Room Decoration	3	Картина изысканной хрюшкина отдыхе.
 2595	Шедевральные наброски	Room Decoration	3	Безупречные наброски за авторством двухвеликих мастеров. Официальная работа!(Украшение великой благодарности)
 2596	Пышные ковры (1Э)	Room Decoration	3	Пышные ковры, украшенныелепестками цветов.(Украшение фестиваля Полноцветия)
 2597	Пышные ковры (2Э)	Room Decoration	3	Пышные ковры, украшенныелепестками цветов.(Украшение фестиваля Полноцветия)
-2598	Unavailable	Item	3	Unavailable
+2598	Украшение поки-поки	Room Decoration	3	Гигантское забавное и пернатоеукрашение поки-поки.
 2599	Unavailable	Item	3	Unavailable
 2600	Фигурка юратода	Room Decoration	3	Фигурка чудовищаЮратод
 2601	Фигурка баррота	Room Decoration	3	Фигурка чудовищаБаррот
@@ -2605,7 +2605,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2603	Фигурка сафи'джиивы	Room Decoration	3	Фигурка чудовищаСафи'джиива
 2604	Фигурка ксено'джиивы	Room Decoration	3	Фигурка чудовищаКсено'джиива
 2605	Фигурки вальгов	Room Decoration	3	Фигурка чудовищаВальг
-2606	Unavailable	Item	3	Unavailable
+2606	Фигурки травоядного	Room Decoration	3	Фигурка чудовищаАптонот и пуховые коростели
 2607	Unavailable	Item	3	Unavailable
 2608	Unavailable	Item	3	Unavailable
 2609	Unavailable	Item	3	Unavailable
@@ -2616,31 +2616,31 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2614	The Bustling Heart of the Snowy Village (MH Swing)	Room Decoration	3	Вторая тема зала деревни ПоккеMonster Hunter Portable - аранжировкаMonster Hunter Swing
 2615	Scat Cat Fever (MH Swing)	Room Decoration	3	Тема арены Monster Hunter -аранжировкаMonster Hunter Swing
 2616	In Search of Hidden Springs (MH Swing)	Room Decoration	3	Третья тема деревни ЮкумоMonster Hunter Portable - аранжировкаMonster Hunter Swing
-2617	Unavailable	Item	3	Unavailable
-2618	Unavailable	Item	3	Unavailable
-2619	Unavailable	Item	3	Unavailable
-2620	Unavailable	Item	3	Unavailable
-2621	Unavailable	Item	3	Unavailable
-2622	Unavailable	Item	3	Unavailable
-2623	Unavailable	Item	3	Unavailable
-2624	Unavailable	Item	3	Unavailable
+2617	Scat Cat Fever	Room Decoration	3	Monster Hunterмузыка арены
+2618	Felyne Soup Strategy!	Room Decoration	3	Monster Hunter 2музыка арены
+2619	Chime from a Shimmering Bell - Alatreon: World version	Room Decoration	3	Monster Hunter World: Iceborneтема битвы с Алатреоном
+2620	A Day on Pokke Farm (MH The Jazz)	Room Decoration	3	Monster Hunter Portable Втораяаранжировка музыки фермы ПоккеMonster Hunter The Jazz
+2621	Felynes of Yukumo Farm (MH The Jazz)	Room Decoration	3	Monster Hunter Portable Третьяаранжировка музыки фермы ЮкумоMonster Hunter The Jazz
+2622	The Hunters' Secret Spring (MH The Jazz)	Room Decoration	3	Monster Hunter Portable Третьяаранжировка музыка Зала собранийMonster Hunter The Jazz
+2623	Winds of Adventure (MH The Jazz)	Room Decoration	3	Monster Hunter 4 Ultimateaранжировка главной темыMonster Hunter The Jazz
+2624	Proof of a Hero (MH The Jazz)	Room Decoration	3	Monster Hunteraранжировка темы серии игрMonster Hunter The Jazz
 2625	Unavailable	Item	3	Unavailable
 2626	Unavailable	Item	3	Unavailable
 2627	Unavailable	Item	3	Unavailable
-2628	Unavailable	Item	3	Unavailable
-2629	Unavailable	Item	3	Unavailable
-2630	Unavailable	Item	3	Unavailable
-2631	Unavailable	Item	3	Unavailable
-2632	Unavailable	Item	3	Unavailable
-2633	Unavailable	Item	3	Unavailable
-2634	Unavailable	Item	3	Unavailable
-2635	Unavailable	Item	3	Unavailable
-2636	Unavailable	Item	3	Unavailable
-2637	Unavailable	Item	3	Unavailable
-2638	Unavailable	Item	3	Unavailable
-2639	Unavailable	Item	3	Unavailable
+2628	Яство боа-боа	Room Decoration	3	Тарелка на основе традиционногояства боа-боа.
+2629	Скульптура попо	Room Decoration	3	Простая скульптурапопо.
+2630	Плот боа-боа	Room Decoration	3	Украшение в видебоа-боа на плоту.
+2631	Дружеский подарок	Room Decoration	3	Подарок в знакпризнательности.
+2632	Зеленый плюшевый поки-поки	Room Decoration	3	Яркая тряпичнаякукла поки-поки.
+2633	Коралловый плюшевый поки-поки	Room Decoration	3	Яркая коралловая тряпичнаякукла поки-поки.
+2634	Портреты палико 7	Room Decoration	3	Портрет палико, собранныйиз мозаики.
+2635	Портрет поки-поки	Room Decoration	3	Яркий портрет поки-поки,выполненный в интересной технике.
+2636	Хижина боа-боа	Room Decoration	3	Модель жилищабоа-боа.
+2637	Статуи коттов	Room Decoration	3	Три статуи коттов.
+2638	Грязевая скульптура грималкинов	Room Decoration	3	Скульптура из грязи, созданнаягрималкинами.
+2639	Скульптуры попо	Room Decoration	3	Скульптура стада попо.
 2640	Unavailable	Item	3	Unavailable
-2641	Unavailable	Item	3	Unavailable
+2641	Снаряжение боа-боа	Room Decoration	3	Декорат. имитация снаряжения боа-боа.
 2642	Unavailable	Item	3	Unavailable
 2643	Unavailable	Item	3	Unavailable
 2644	Unavailable	Item	3	Unavailable
@@ -2681,7 +2681,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2679	Билет намиэля	Material	11	Билет с изображением намиэль, владыкитечений. Обменяйте его вкузне на новое снаряжение.
 2680	Unavailable	Item	3	Unavailable
 2681	Unavailable	Item	3	Unavailable
-2682	Unavailable	Item	3	Unavailable
+2682	Билет ледозубого	Material	10	Доказательство того, что вы сражались сзакаленным ледозубым бариотом. Неситеего в кузню, не пожалеете!
 2683	Зеленая трава	Item	1	Трава зеленого цвета, что растет в горахАрклей. Восстанавливает здоровье иисцеляет зомбирование. <STYL MOJI_YELLOW_DEFAULT>(Только задание)</STYL>
 2684	Красная трава	Item	1	Трава красного цвета, что растет в горахАрклей. Сама по себе бесполезна.<STYL MOJI_YELLOW_DEFAULT>(Только задание)</STYL>
 2685	Смесь трав (З+К)	Item	2	Смесь из двух разных трав. Полностьювосстанавливает здоровье и исцеляетзомбирование. <STYL MOJI_YELLOW_DEFAULT>(Только задание)</STYL>
@@ -2700,9 +2700,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2698	Крупный драколит	Material	9	Внутри заключено довольно много земнойэнергии. При сочетании с особым сырьеммогут пробудиться скрытые свойства.
 2699	Твердый драколит	Material	10	Внутри заключено много земной энергии.При сочетании с особым сырьеммогут пробудиться скрытые свойства.
 2700	Чистый драколит	Material	11	Внутри заключено очень много земнойэнергии. При сочетании с особым сырьеммогут пробудиться скрытые свойства.
-2701	Unavailable	Item	3	Unavailable
-2702	Unavailable	Item	3	Unavailable
-2703	Unavailable	Item	3	Unavailable
+2701	Шкура Белоснега	Material	10	Редчайшее сырье ледозубого бариота.Может быть получено в награду.Используется в разных целях.
+2702	Коготь Ледобура	Material	10	Редчайшее сырье ледозубого бариота.Может быть получено в награду и приразделке. Острый материал для оружия.
+2703	Морозный клык Сребробела	Material	10	Редчайшее сырье ледозубого бариота.Может быть получено из головы животного.Острый материал для оружия.
 2704	Чертеж Черного Орла	Material	9	Чертеж Черного Орла, одержимогодревними драконами.Отдайте кузнецу. Увидите, что будет!
 2705	Котел ползуна	Material	8	Линианский котел, сделанныйспециально для ползунов.Отдайте кузнецу. Увидите, что будет!
 2706	Значок S.T.A.R.S.	Material	11	Жетон спецназа полицейского  управленияРаккун-Сити, S.T.A.R.S. Можно обменятьна особое снаряжение и украшения.
@@ -2723,21 +2723,21 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2721	Билет Полноцветия	Material	8	Дается за посещение ФестиваляПолноцветия. Можно обменятьна особое снаряжение и предметы.
 2722	Билет точильной рыбы	Material	9	Полученный от исследователя рыб билетс различными рисунками точильной рыбы.Отдайте кузнецу. Увидите, что будет!
 2723	Билет пухового коростеля 2	Material	9	Билет с красивым изображениемпухового коростеля. Отдайтекузнецу. Увидите, что будет!
-2724	Unavailable	Item	3	Unavailable
-2725	Unavailable	Item	3	Unavailable
-2726	Unavailable	Item	3	Unavailable
+2724	Билет жгучих специй	Material	8	Дается за посещение Фестиваляжгучих специй. Можно обменятьна особое снаряжение и предметы.
+2725	Билет зайца-пилота	Material	9	Билет для тех, кто хочет воплотитьмечту и стать зайцем-пилотом.Несите его в кузню и...
+2726	Билет на спиртное	Material	9	Талон на праздничный напитокот мяускулистого шеф-повара!Несите его в кузню и...
 2727	Unavailable	Item	3	Unavailable
 2728	Unavailable	Item	3	Unavailable
 2729	Unavailable	Item	3	Unavailable
 2730	Символ единства	Material	9	Добрые пожелания от друзей, что живутна другом конце света. Им есть о чемрассказать! Покажите его кузнецу!
 2731	Unavailable	Item	3	Unavailable
-2732	Unavailable	Item	3	Unavailable
+2732	Билет золотого источника	Material	9	Билет с изображениеммакаки золотого источника. Несите его вкузню, не пожалеете! 
 2733	Большая слеза зверя	Account Item	4	Иногда звери плачутбольшими горькими слезами.<STYL MOJI_YELLOW_DEFAULT>(Предмет уч. записи)</STYL>
 2734	Дивная шкура	Material	9	Добывают с покровом разбойника.От одного ее вида у коллекционеровтекут слюнки. <STYL MOJI_YELLOW_DEFAULT>(Для продажи.)</STYL>
 2735	Радостный VIP-билет	Material	11	Редкий билет c праздничного фестивалярадости. Может использоваться длямногослойных доспехов и оберегов.
 2736	VIP-билет признательности	Material	11	Редкий билет c фестиваля великойблагодарности. Может использоваться длямногослойных доспехов и оберегов.
 2737	VIP-билет Полноцветия	Material	11	Редкий билет c праздничного фестиваляПолноцветия. Может использоваться длямногослойных доспехов и оберегов.
-2738	Unavailable	Item	3	Unavailable
+2738	VIP-билет жгучих специй	Material	11	Редкий билет с Фестиваля жгучихспеций. Может использоваться длясоздания мног. доспехов и оберегов.
 2739	Unavailable	Item	3	Unavailable
 2740	Изгоняющий мяч	Item	8	Бросайте в большое чудовище, чтобызаставить его покинуть Путеводные земли.<STYL MOJI_YELLOW_DEFAULT>Только для лидера Путеводных земель.</STYL>
 2741	Unavailable	Item	3	Unavailable
@@ -2761,9 +2761,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2759	Unavailable	Item	3	Unavailable
 2760	Unavailable	Item	3	Unavailable
 2761	Unavailable	Item	3	Unavailable
-2762	Unavailable	Item	3	Unavailable
-2763	Unavailable	Item	3	Unavailable
-2764	Unavailable	Item	3	Unavailable
+2762	Билет травоядного 1	Material	9	Билет с изображением стада вольнопасущихся келби. Несите его вкузню, не пожалеете!
+2763	Билет травоядного 2	Material	9	Билет с изображением стада вольнопасущихся аптонотов. Несите его вкузню, не пожалеете!
+2764	Билет Внутреннего ока	Material	10	Билет, напоминающийвсевидящего. Несите его в кузню, непожалеете!
 2765	Unavailable	Item	3	Unavailable
 2766	Unavailable	Item	3	Unavailable
 2767	Unavailable	Item	3	Unavailable

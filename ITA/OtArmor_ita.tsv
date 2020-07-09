@@ -119,7 +119,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	157	Felyne brutale <ICON ALPHA>+	otomo/equip/ot071/helm
 0	Helmet	158	Elmo del distruttore F <ICON ALPHA>+	otomo/equip/ot070/helm
 0	Helmet	159	Corona Safi F <ICON ALPHA>+	otomo/equip/ot067/helm
-0	Helmet	160	Copricapo di cuoio F	otomo/equip/ot000/helm
+0	Helmet	160	Saggezza di Escadora F <ICON ALPHA>+	otomo/equip/ot068/helm
 0	Helmet	161	Corona Eliza F <ICON ALPHA>+	otomo/equip/ot034/helm
 0	Helmet	162	Cappuccio Kulve F <ICON ALPHA>+	otomo/equip/ot025/helm
 0	Helmet	163	Testa di Mega Man <ICON ALPHA>+	otomo/equip/ot035/helm
@@ -128,7 +128,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	166	HARDUMMY	otomo/equip/ot036/helm
 0	Helmet	167	Elmo Samurai F <ICON ALPHA>+	otomo/equip/ot039/helm
 0	Helmet	168	Copricapo di farfalla F <ICON ALPHA>+	otomo/equip/ot040/helm
-0	Helmet	169	Copricapo di cuoio F	otomo/equip/ot000/helm
+0	Helmet	169	Cappello aloha F <ICON ALPHA>+	otomo/equip/ot041/helm
 0	Helmet	170	Copricapo di cuoio F	otomo/equip/ot000/helm
 0	Helmet	171	Testa gatto di neve F <ICON ALPHA>+	otomo/equip/ot043/helm
 0	Helmet	172	Testa star F <ICON ALPHA>+	otomo/equip/ot044/helm
@@ -140,7 +140,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	178	Velo di Xeno F <ICON ALPHA>+	otomo/equip/ot024/helm
 0	Helmet	179	Cappello gilda F <ICON ALPHA>+	otomo/equip/ot063/helm
 0	Helmet	180	Copricapo della rosa Felyne <ICON ALPHA>+	otomo/equip/ot075/helm
-0	Helmet	181	Copricapo di cuoio F	otomo/equip/ot000/helm
+0	Helmet	181	Testa Pukei F <ICON ALPHA>+	otomo/equip/ot076/helm
 0	Helmet	182	Copricapo di cuoio F	otomo/equip/ot000/helm
 0	Helmet	183	Testa Shishi-mai F <ICON ALPHA>+	otomo/equip/ot078/helm
 0	Helmet	184	Casco astrale F <ICON ALPHA>+	otomo/equip/ot079/helm
@@ -151,7 +151,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	189	HARDUMMY	otomo/equip/ot081/helm
 0	Helmet	190	Testa di tremogliola F <ICON ALPHA>+	otomo/equip/ot082/helm
 0	Helmet	191	Copricapo di cuoio F	otomo/equip/ot000/helm
-0	Helmet	192	Copricapo di cuoio F	otomo/equip/ot000/helm
+0	Helmet	192	Ala assiderata F <ICON ALPHA>+	otomo/equip/ot083/helm
 0	Helmet	193	Copricapo di cuoio F	otomo/equip/ot000/helm
 0	Helmet	194	Copricapo di cuoio F	otomo/equip/ot000/helm
 0	Helmet	195	Capelli orchestra F <ICON ALPHA>+	otomo/equip/ot085/helm
@@ -281,7 +281,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	157	Corazza sublime F <ICON ALPHA>+	otomo/equip/ot071/body
 1	Armor	158	Guanti del distruttore F <ICON ALPHA>+	otomo/equip/ot070/body
 1	Armor	159	Armatura Safi F <ICON ALPHA>+	otomo/equip/ot067/body
-1	Armor	160	Copricapo di cuoio F	otomo/equip/ot000/body
+1	Armor	160	Anima di Escadora F <ICON ALPHA>+	otomo/equip/ot068/body
 1	Armor	161	Corpetto Eliza F <ICON ALPHA>+	otomo/equip/ot034/body
 1	Armor	162	Pelliccia Kulve F <ICON ALPHA>+	otomo/equip/ot025/body
 1	Armor	163	Costume di Mega Man <ICON ALPHA>+	otomo/equip/ot035/body
@@ -290,7 +290,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	166	HARDUMMY	otomo/equip/ot036/body
 1	Armor	167	Armatura Samurai F <ICON ALPHA>+	otomo/equip/ot039/body
 1	Armor	168	Pettorina di farfalla F <ICON ALPHA>+	otomo/equip/ot040/body
-1	Armor	169	Copricapo di cuoio F	otomo/equip/ot000/body
+1	Armor	169	Maglietta aloha F <ICON ALPHA>+	otomo/equip/ot041/body
 1	Armor	170	Copricapo di cuoio F	otomo/equip/ot000/body
 1	Armor	171	Abito gatto di neve F <ICON ALPHA>+	otomo/equip/ot043/body
 1	Armor	172	Abito star F <ICON ALPHA>+	otomo/equip/ot044/body
@@ -302,7 +302,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	178	Abito di Xeno F <ICON ALPHA>+	otomo/equip/ot024/body
 1	Armor	179	Fiancale gilda F <ICON ALPHA>+	otomo/equip/ot063/body
 1	Armor	180	Abito della rosa Felyne <ICON ALPHA>+	otomo/equip/ot075/body
-1	Armor	181	Copricapo di cuoio F	otomo/equip/ot000/body
+1	Armor	181	Corpo Pukei F <ICON ALPHA>+	otomo/equip/ot076/body
 1	Armor	182	Copricapo di cuoio F	otomo/equip/ot000/body
 1	Armor	183	Corpo Shishi-mai F <ICON ALPHA>+	otomo/equip/ot078/body
 1	Armor	184	Tuta astrale F <ICON ALPHA>+	otomo/equip/ot079/body
@@ -313,7 +313,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	189	HARDUMMY	otomo/equip/ot081/body
 1	Armor	190	Vaso tremogliola F <ICON ALPHA>+	otomo/equip/ot082/body
 1	Armor	191	Copricapo di cuoio F	otomo/equip/ot000/body
-1	Armor	192	Copricapo di cuoio F	otomo/equip/ot000/body
+1	Armor	192	Uniforme assiderata F <ICON ALPHA>+	otomo/equip/ot083/body
 1	Armor	193	Copricapo di cuoio F	otomo/equip/ot000/body
 1	Armor	194	Copricapo di cuoio F	otomo/equip/ot000/body
 1	Armor	195	Abito orchestra F <ICON ALPHA>+	otomo/equip/ot085/body

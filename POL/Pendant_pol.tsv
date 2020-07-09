@@ -61,8 +61,8 @@ Pendant ID	Pendant Code	Pendant Name	Model
 59	CHARM_059_NAME	Ziel. symbol mistrza Ratha	charm005
 60	CHARM_060_NAME	Róż. symbol mistrza Ratha	charm005
 61	CHARM_061_NAME	Kwitnący bukiet	charm006
-62	DUMMY000000	Unavailable	charm001
-63	DUMMY000001	Unavailable	charm001
+62	CHARM_062_NAME	Skwierczące słońce	charm007
+63	DUMMY000000	Unavailable	charm001
 64	CHARM_064_NAME	Szkarł. tygrys szczęścia	charm009
 65	CHARM_065_NAME	Błękitna srebrzystka	charm010
 66	CHARM_066_NAME	Pazury Rajanga	charm011
@@ -70,21 +70,21 @@ Pendant ID	Pendant Code	Pendant Name	Model
 68	CHARM_068_NAME	Pazury Stygijskiego Zinogra	charm013
 69	CHARM_069_NAME	Heroiczny czerwony róg	charm014
 70	CHARM_070_NAME	Okr. Rozgn. Brachydiosa	charm015
-71	DUMMY000002	Unavailable	charm001
+71	CHARM_071_NAME	Okruch Alatreona	charm016
 72	CHARM_072_NAME	Pazury Złotej Rathiany	charm017
 73	CHARM_073_NAME	Pazury Srebrnego Rathalosa	charm018
-74	DUMMY000003	Unavailable	charm001
-75	DUMMY000004	Unavailable	charm001
-76	DUMMY000005	Unavailable	charm001
-77	DUMMY000006	Unavailable	charm001
-78	DUMMY000007	Unavailable	charm001
-79	DUMMY000008	Unavailable	charm001
-80	DUMMY000009	Unavailable	charm001
-81	DUMMY000010	Unavailable	charm001
+74	DUMMY000001	Unavailable	charm001
+75	DUMMY000002	Unavailable	charm001
+76	DUMMY000003	Unavailable	charm001
+77	DUMMY000004	Unavailable	charm001
+78	DUMMY000005	Unavailable	charm001
+79	DUMMY000006	Unavailable	charm001
+80	DUMMY000007	Unavailable	charm001
+81	DUMMY000008	Unavailable	charm001
 82	CHARM_082_NAME	Okr. Arcyzah. Namiella	charm027
-83	DUMMY000011	Unavailable	charm001
-84	DUMMY000012	Unavailable	charm001
-85	DUMMY000013	Unavailable	charm001
+83	DUMMY000009	Unavailable	charm001
+84	DUMMY000010	Unavailable	charm001
+85	DUMMY000011	Unavailable	charm001
 86	CHARM_086_NAME	HARDUMMY	charm031
 87	CHARM_087_NAME	HARDUMMY	charm032
 88	CHARM_088_NAME	R.P.D.	charm033
@@ -104,14 +104,14 @@ Pendant ID	Pendant Code	Pendant Name	Model
 102	CHARM_102_NAME	Kwitnący bukiet (pomar.)	charm006
 103	CHARM_103_NAME	Kwitnący bukiet (czerw.)	charm006
 104	CHARM_104_NAME	Kwitnący bukiet (nieb.)	charm006
-105	DUMMY000014	Unavailable	charm001
-106	DUMMY000015	Unavailable	charm001
-107	DUMMY000016	Unavailable	charm001
-108	DUMMY000017	Unavailable	charm001
-109	DUMMY000018	Unavailable	charm001
-110	DUMMY000019	Unavailable	charm001
-111	DUMMY000020	Unavailable	charm001
-112	DUMMY000021	Unavailable	charm001
+105	CHARM_105_NAME	Skwierczące słońce (lód)	charm007
+106	CHARM_106_NAME	Skwierczące słońce (wino)	charm007
+107	CHARM_107_NAME	Skwierczące słońce (smok)	charm007
+108	CHARM_108_NAME	Skwierczące słońce (liczi)	charm007
+109	DUMMY000012	Unavailable	charm001
+110	DUMMY000013	Unavailable	charm001
+111	DUMMY000014	Unavailable	charm001
+112	DUMMY000015	Unavailable	charm001
 113	CHARM_113_NAME	Brzosk. tygrys szczęścia	charm009
 114	CHARM_114_NAME	Zielony tygrys szczęścia	charm009
 115	CHARM_115_NAME	Fiolet. tygrys szczęścia	charm009
@@ -120,13 +120,13 @@ Pendant ID	Pendant Code	Pendant Name	Model
 118	CHARM_118_NAME	Czerwona srebrzystka	charm010
 119	CHARM_119_NAME	Niebieska srebrzystka	charm010
 120	CHARM_120_NAME	Zielona srebrzystka	charm010
-121	DUMMY000022	Unavailable	charm001
+121	CHARM_121_NAME	Pazury Bariotha Mrozokła	charm046
 122	CHARM_122_NAME	Kwitnący bukiet (ziel.)	charm006
 123	CHARM_123_NAME	Kwitnący bukiet (fiolet.)	charm006
-124	DUMMY000023	Unavailable	charm001
-125	DUMMY000024	Unavailable	charm001
-126	DUMMY000025	Unavailable	charm001
-127	DUMMY000026	Unavailable	charm001
+124	CHARM_124_NAME	Skwierczące słońce (gujawa)	charm007
+125	CHARM_125_NAME	Skwierczące słońce (cytryna)	charm007
+126	DUMMY000016	Unavailable	charm001
+127	DUMMY000017	Unavailable	charm001
 128	CHARM_128_NAME	Ciemnoz. tygrys szczęścia	charm009
 129	CHARM_129_NAME	Pomar. tygrys szczęścia	charm009
 130	CHARM_130_NAME	Fioletowa srebrzystka	charm010
@@ -172,14 +172,26 @@ Pendant ID	Pendant Code	Pendant Name	Model
 170	CHARM_170_NAME	Topazowe serce Kulve	charm062
 171	CHARM_171_NAME	Szafirowe serce Kulve	charm062
 172	CHARM_172_NAME	Serce Kulve z róż. kl.	charm062
-173	DUMMY000027	Unavailable	charm001
-174	DUMMY000028	Unavailable	charm001
-175	DUMMY000029	Unavailable	charm001
-176	DUMMY000030	Unavailable	charm001
-177	DUMMY000031	Unavailable	charm001
-178	DUMMY000032	Unavailable	charm001
-179	DUMMY000033	Unavailable	charm001
-180	DUMMY000034	Unavailable	charm001
-181	DUMMY000035	Unavailable	charm001
-182	DUMMY000036	Unavailable	charm001
-183	DUMMY000037	Unavailable	charm001
+173	DUMMY000018	Unavailable	charm001
+174	DUMMY000019	Unavailable	charm001
+175	CHARM_175_NAME	Złoty niebiański smok	charm067
+176	CHARM_176_NAME	Srebrny niebiański smok	charm068
+177	DUMMY000020	Unavailable	charm001
+178	CHARM_178_NAME	Fantom. lazurowe motyle	charm071
+179	CHARM_179_NAME	Fantom. jadeitowe motyle	charm071
+180	CHARM_180_NAME	Fantom. karmazyn. motyle	charm071
+181	DUMMY000021	Unavailable	charm001
+182	DUMMY000022	Unavailable	charm001
+183	DUMMY000023	Unavailable	charm001
+184	DUMMY000024	Unavailable	charm001
+185	CHARM_185_NAME	Rubinowy kryształowy nóż	charm078
+186	CHARM_186_NAME	Burszt. kryształowy nóż	charm078
+187	CHARM_187_NAME	Lazurowy kryształowy nóż	charm078
+188	CHARM_188_NAME	Piorunówki	charm073
+189	CHARM_189_NAME	Robaki smokofagium	charm074
+190	CHARM_190_NAME	Śnieżny talizman Velkhana	charm080
+191	DUMMY000025	Unavailable	charm001
+192	DUMMY000026	Unavailable	charm001
+193	DUMMY000027	Unavailable	charm001
+194	DUMMY000028	Unavailable	charm001
+195	DUMMY000029	Unavailable	charm001

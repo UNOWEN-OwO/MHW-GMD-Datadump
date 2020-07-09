@@ -355,8 +355,9 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 51605	Le Dragon rouge	Tuer le Safi'jiiva	Temps imparti écouléS'évanouir 3 fois
 51606	Qui sème le vent récolte la tempête	Tuer un Brachydios tempête	Temps imparti écouléS'évanouir 3 fois
 51607	De l’orage dans l’air	Chasser un Rajang orage	Temps imparti écouléS'évanouir 3 fois
-51611	Unavailable	Unavailable	Unavailable
+51611	Crépuscule ardent	Tuer un Alatreon	Temps imparti écouléS'évanouir 3 fois
 51612	Unavailable	Unavailable	Unavailable
+51613	Unavailable	Unavailable	Unavailable
 51621	Arène spéciale : Zinogre stygien	Chasser un Zinogre stygien	Temps imparti écouléS'évanouir 3 fois
 51622	Cœur blessé	Tuer un Brachydios tempête	Temps imparti écouléS'évanouir 3 fois
 51623	Tout ce qui brille n'est pas d'or	Chasser un Rajang orage	Temps imparti écouléS'évanouir 3 fois
@@ -384,6 +385,8 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 61812	C'est du tout cuit !	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
 61813	Cinquante nuances de blanc	Chasser un Barioth	Temps imparti écouléS'évanouir 3 fois
 61814	L'éclair et la foudre	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+61815	Libellules célestes	Livrer 5 mantagrells millénaires	Temps imparti écouléS'évanouir 3 fois
+61816	En queue de poisson	Livrer 2 grands poissaiguiseurs	Temps imparti écouléS'évanouir 3 fois
 62502	L'ombre silencieuse de la mort	Tuer le Vaal Hazak	Temps imparti écouléS'évanouir 3 fois
 62503	Crinière blanche	Tuer le Kirin	Temps imparti écouléS'évanouir 3 fois
 62504	Le dédain du soleil	Tuer le Teostra	Temps imparti écouléS'évanouir 3 fois
@@ -493,9 +496,13 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66830	Rock alternatif à l'ancienne	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
 66831	Ballade de glace	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
 66832	Le coup de foudre	Chasser un Zinogre stygien	Temps imparti écouléS'évanouir 3 fois
+66833	La fièvre de l'or	Tuer la Kulve Taroth	Temps imparti écouléS'évanouir 3 fois
 66834	Vitesse et rugissement	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
 66835	La colère du tonnerre	Chasser un Zinogre	Temps imparti écouléS'évanouir 3 fois
 66836	Ode à la destruction	Tuer un Nergigante chaos	Temps imparti écouléS'évanouir 3 fois
+66847	Contre vents et marées	Tuer un Namielle	Temps imparti écouléS'évanouir 3 fois
+66859	Ménage de printemps	Chasser un Bazelgeuse vulcan	Temps imparti écouléS'évanouir 3 fois
+66860	La colère du tonnerre	Chasser un Zinogre	Temps imparti écouléS'évanouir 3 fois
 67101	L'Éclosion	Chasser un Anjanath	Temps imparti écouléS'évanouir 3 fois
 67102	Leçon des terres sauvages	Tuer 8 Barnos	Temps imparti écouléS'évanouir 3 fois
 67103	Sang pour Sang	Chasser 2 Odogaron	Temps imparti écouléS'évanouir 3 fois
@@ -512,3 +519,4 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67802	Au cœur des contrées gelées	Chasser un Zinogre	Temps imparti écouléS'évanouir 3 fois
 67803	La survivante	Chasser un Zinogre stygien	Temps imparti écouléS'évanouir 3 fois
 67804	Embrasement	Chasser un Deviljho carnage	Temps imparti écouléS'évanouir 3 fois
+67807	L'assassin	Chasser un Nargacuga	Temps imparti écouléS'évanouir 3 fois

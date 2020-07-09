@@ -297,9 +297,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	370	Vespoid Layered Helm	320	0	4	pl007_0000
 0	Head	371	Hornetaur Layered Helm	321	0	4	pl017_0000
 0	Head	374	Acrobat Earrings<ICON ALPHA>+	324	154	10	pl095_0000
-0	Head	375	Unavailable	325	0	0	None
+0	Head	375	Goldspring Layered Head	325	0	11	pl113_0001
 0	Head	376	Shamos Layered Head	326	0	4	pl058_0000
-0	Head	377	Unavailable	327	0	0	None
+0	Head	377	Faux Kelbi Layered Head	327	0	8	pl096_0000
 0	Head	378	Ingot Helm<ICON ALPHA>+	328	136	9	pl031_0000
 0	Head	379	Ingot Helm<ICON BETA>+	329	136	9	pl031_0000
 0	Head	380	Barioth Helm<ICON ALPHA>+	330	138	9	pl089_0000
@@ -408,11 +408,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	483	Brachydium Helm<ICON BETA>+	433	170	11	pl082_0510
 0	Head	484	Safi Crested Crown<ICON ALPHA>+	434	168	11	pl087_0000
 0	Head	485	Safi Crested Crown<ICON BETA>+	435	168	11	pl087_0010
-0	Head	486	Unavailable	436	0	0	None
-0	Head	487	Unavailable	437	0	0	None
+0	Head	486	Escadora Wisdom<ICON ALPHA>+	436	160	11	pl052_0000
+0	Head	487	Escadora Wisdom<ICON BETA>+	437	160	11	pl052_0010
 0	Head	488	Sealed Dragon Cloth<ICON ALPHA>+	438	152	11	pl100_0000
 0	Head	489	Wyverian Ears<ICON ALPHA>+	439	140	8	pl101_0000
-0	Head	490	Unavailable	440	0	0	None
+0	Head	490	Faux Aptonoth Layered Head	440	0	8	pl097_0000
 0	Head	491	Duffel Penguin Mask<ICON ALPHA>+	441	138	8	pl098_0000
 0	Head	492	Empress Crown<ICON ALPHA>+	442	164	11	pl051_0001
 0	Head	493	Empress Crown<ICON BETA>+	443	164	11	pl051_0011
@@ -420,7 +420,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	495	Kulve Taroth's Fury<ICON BETA>+	445	176	11	pl049_0011
 0	Head	496	Rose Headpiece<ICON ALPHA>+	446	150	9	pl124_0000
 0	Head	497	Lumu Layered Helm	447	0	4	pl024_0000
-0	Head	498	Unavailable	448	0	0	None
+0	Head	498	Passionate Headdress<ICON ALPHA>+	448	156	9	pl125_0000
 0	Head	499	Rathian<ICON ALPHA>Layered Helm	449	0	4	pl021_0000
 0	Head	500	Unavailable	450	0	0	None
 0	Head	501	Rathian<ICON BETA>Layered Helm	451	0	4	pl021_0010
@@ -429,13 +429,13 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	504	Astral Veil<ICON ALPHA>+	454	140	8	pl128_0000
 0	Head	505	Radobaan<ICON BETA>Layered Helm	455	0	5	pl028_0010
 0	Head	506	Layered Rose Head	456	0	9	pl124_0000
-0	Head	507	Unavailable	457	0	0	None
+0	Head	507	Passionate Layered Head	457	0	9	pl125_0000
 0	Head	508	Unavailable	458	0	0	None
 0	Head	509	Oolong Layered Head	459	0	8	pl127_0000
 0	Head	510	Astral Layered Head	460	0	8	pl128_0000
 0	Head	511	High Metal Layered Helm	461	0	5	pl025_0000
 0	Head	512	Thermae Layered Wrap	462	0	8	pl106_0000
-0	Head	513	Unavailable	463	0	0	None
+0	Head	513	Hare Band Layered Armor	463	0	8	pl111_0000
 0	Head	514	Downy Crake Layered Head	464	0	8	pl112_0000
 0	Head	515	Pearlspring<ICON ALPHA>+	465	120	8	pl113_0000
 0	Head	516	Unavailable	466	0	0	None
@@ -449,8 +449,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	525	HARDUMMY	475	0	7	pl072_0000
 0	Head	526	HARDUMMY	476	170	11	pl072_0001
 0	Head	527	Unavailable	477	0	0	None
-0	Head	528	Unavailable	478	0	0	None
-0	Head	529	Unavailable	479	0	0	None
+0	Head	528	Frostfang Helm<ICON ALPHA>+	478	162	10	pl089_0500
+0	Head	529	Frostfang Helm<ICON BETA>+	479	162	10	pl089_0510
 0	Head	530	Unavailable	480	0	0	None
 0	Head	531	Unavailable	481	0	0	None
 0	Head	532	HARDUMMY	482	160	11	pl068_0020
@@ -640,9 +640,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	719	Unavailable	669	0	0	None
 0	Head	720	Unavailable	670	0	0	None
 0	Head	721	Unavailable	671	0	0	None
-0	Head	725	Unavailable	0	0	0	None
-0	Head	726	Unavailable	0	0	0	None
-0	Head	727	Unavailable	0	0	0	None
+0	Head	725	Unavailable	676	0	0	None
+0	Head	726	Unavailable	677	0	0	None
+0	Head	727	Unavailable	678	0	0	None
 0	Head	728	Unavailable	0	0	0	None
 0	Head	729	Unavailable	0	0	0	None
 0	Head	730	Unavailable	0	0	0	None
@@ -1034,15 +1034,15 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	483	Brachydium Mail<ICON BETA>+	433	170	11	pl082_0510
 1	Body	484	Safi Crested Chest<ICON ALPHA>+	434	168	11	pl087_0000
 1	Body	485	Safi Crested Chest<ICON BETA>+	435	168	11	pl087_0010
-1	Body	486	Unavailable	436	0	0	None
-1	Body	487	Unavailable	437	0	0	None
+1	Body	486	Escadora Soul<ICON ALPHA>+	436	160	11	pl052_0000
+1	Body	487	Escadora Soul<ICON BETA>+	437	160	11	pl052_0010
 1	Body	492	Empress Mail<ICON ALPHA>+	442	164	11	pl051_0001
 1	Body	493	Empress Mail<ICON BETA>+	443	164	11	pl051_0011
 1	Body	494	Kulve Taroth's Ire<ICON ALPHA>+	444	176	11	pl049_0001
 1	Body	495	Kulve Taroth's Ire<ICON BETA>+	445	176	11	pl049_0011
 1	Body	496	Rose Jacket<ICON ALPHA>+	446	150	9	pl124_0000
 1	Body	497	Lumu Layered Chest	447	0	4	pl024_0000
-1	Body	498	Unavailable	448	0	0	None
+1	Body	498	Passionate Body<ICON ALPHA>+	448	156	9	pl125_0000
 1	Body	499	Rathian<ICON ALPHA>Layered Chest	449	0	4	pl021_0000
 1	Body	500	Unavailable	450	0	0	None
 1	Body	501	Rathian<ICON BETA>Layered Chest	451	0	4	pl021_0010
@@ -1051,7 +1051,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	504	Astral Cloth<ICON ALPHA>+	454	140	8	pl128_0000
 1	Body	505	Radobaan<ICON BETA>Layered Chest	455	0	5	pl028_0010
 1	Body	506	Layered Rose Chest	456	0	9	pl124_0000
-1	Body	507	Unavailable	457	0	0	None
+1	Body	507	Passionate Layered Chest	457	0	9	pl125_0000
 1	Body	508	Unavailable	458	0	0	None
 1	Body	509	Oolong Layered Chest	459	0	8	pl127_0000
 1	Body	510	Astral Layered Chest	460	0	8	pl128_0000
@@ -1068,8 +1068,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	525	HARDUMMY	475	0	7	pl072_0000
 1	Body	526	HARDUMMY	476	170	11	pl072_0001
 1	Body	527	Unavailable	477	0	0	None
-1	Body	528	Unavailable	478	0	0	None
-1	Body	529	Unavailable	479	0	0	None
+1	Body	528	Frostfang Mail<ICON ALPHA>+	478	162	10	pl089_0500
+1	Body	529	Frostfang Mail<ICON BETA>+	479	162	10	pl089_0510
 1	Body	530	Unavailable	480	0	0	None
 1	Body	531	Unavailable	481	0	0	None
 1	Body	532	HARDUMMY	482	160	11	pl068_0020
@@ -1255,11 +1255,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	720	Unavailable	670	0	0	None
 1	Body	721	Unavailable	671	0	0	None
 1	Body	722	Unavailable	672	0	0	None
-1	Body	723	Unavailable	673	0	0	None
-1	Body	724	Unavailable	675	0	0	None
-1	Body	725	Unavailable	0	0	0	None
-1	Body	726	Unavailable	0	0	0	None
-1	Body	727	Unavailable	0	0	0	None
+1	Body	723	Innerwear<ICON ALPHA>Layered Body	673	0	11	pl500_0000
+1	Body	724	Innerwear<ICON BETA>Layered Body	675	0	11	pl501_0000
+1	Body	725	Unavailable	676	0	0	None
+1	Body	726	Unavailable	677	0	0	None
+1	Body	727	Unavailable	678	0	0	None
 1	Body	728	Unavailable	0	0	0	None
 1	Body	729	Unavailable	0	0	0	None
 1	Body	730	Unavailable	0	0	0	None
@@ -1651,15 +1651,15 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	483	Brachydium Braces<ICON BETA>+	433	170	11	pl082_0510
 2	Arm	484	Safi Crested Vambraces<ICON ALPHA>+	434	168	11	pl087_0000
 2	Arm	485	Safi Crested Vambraces<ICON BETA>+	435	168	11	pl087_0010
-2	Arm	486	Unavailable	436	0	0	None
-2	Arm	487	Unavailable	437	0	0	None
+2	Arm	486	Escadora Armguards<ICON ALPHA>+	436	160	11	pl052_0000
+2	Arm	487	Escadora Armguards<ICON BETA>+	437	160	11	pl052_0010
 2	Arm	492	Empress Vambraces<ICON ALPHA>+	442	164	11	pl051_0001
 2	Arm	493	Empress Vambraces<ICON BETA>+	443	164	11	pl051_0011
 2	Arm	494	Kulve Taroth's Rage<ICON ALPHA>+	444	176	11	pl049_0001
 2	Arm	495	Kulve Taroth's Rage<ICON BETA>+	445	176	11	pl049_0011
 2	Arm	496	Rose Arms<ICON ALPHA>+	446	150	9	pl124_0000
 2	Arm	497	Lumu Layered Arms	447	0	4	pl024_0000
-2	Arm	498	Unavailable	448	0	0	None
+2	Arm	498	Passionate Arms<ICON ALPHA>+	448	156	9	pl125_0000
 2	Arm	499	Rathian<ICON ALPHA>Layered Arms	449	0	4	pl021_0000
 2	Arm	500	Unavailable	450	0	0	None
 2	Arm	501	Rathian<ICON BETA>Layered Arms	451	0	4	pl021_0010
@@ -1668,7 +1668,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	504	Astral Scarf<ICON ALPHA>+	454	140	8	pl128_0000
 2	Arm	505	Radobaan<ICON BETA>Layered Arms	455	0	5	pl028_0010
 2	Arm	506	Layered Rose Arms	456	0	9	pl124_0000
-2	Arm	507	Unavailable	457	0	0	None
+2	Arm	507	Passionate Layered Arms	457	0	9	pl125_0000
 2	Arm	508	Unavailable	458	0	0	None
 2	Arm	509	Oolong Layered Arms	459	0	8	pl127_0000
 2	Arm	510	Astral Layered Arms	460	0	8	pl128_0000
@@ -1685,8 +1685,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	525	HARDUMMY	475	0	7	pl072_0000
 2	Arm	526	HARDUMMY	476	170	11	pl072_0001
 2	Arm	527	Unavailable	477	0	0	None
-2	Arm	528	Unavailable	478	0	0	None
-2	Arm	529	Unavailable	479	0	0	None
+2	Arm	528	Frostfang Vambraces<ICON ALPHA>+	478	162	10	pl089_0500
+2	Arm	529	Frostfang Vambraces<ICON BETA>+	479	162	10	pl089_0510
 2	Arm	530	Unavailable	480	0	0	None
 2	Arm	531	Unavailable	481	0	0	None
 2	Arm	532	HARDUMMY	482	160	11	pl068_0020
@@ -1870,11 +1870,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	720	Unavailable	670	0	0	None
 2	Arm	721	Unavailable	671	0	0	None
 2	Arm	722	Unavailable	672	0	0	None
-2	Arm	723	Unavailable	673	0	0	None
-2	Arm	724	Unavailable	675	0	0	None
-2	Arm	725	Unavailable	0	0	0	None
-2	Arm	726	Unavailable	0	0	0	None
-2	Arm	727	Unavailable	0	0	0	None
+2	Arm	723	Innerwear<ICON ALPHA>Layered Arms	673	0	11	pl500_0000
+2	Arm	724	Innerwear<ICON BETA>Layered Arms	675	0	11	pl501_0000
+2	Arm	725	Unavailable	676	0	0	None
+2	Arm	726	Unavailable	677	0	0	None
+2	Arm	727	Unavailable	678	0	0	None
 2	Arm	728	Unavailable	0	0	0	None
 2	Arm	729	Unavailable	0	0	0	None
 2	Arm	730	Unavailable	0	0	0	None
@@ -2260,15 +2260,15 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	483	Brachydium Faulds<ICON BETA>+	433	170	11	pl082_0510
 3	Waist	484	Safi Crested Belt<ICON ALPHA>+	434	168	11	pl087_0000
 3	Waist	485	Safi Crested Belt<ICON BETA>+	435	168	11	pl087_0010
-3	Waist	486	Unavailable	436	0	0	None
-3	Waist	487	Unavailable	437	0	0	None
+3	Waist	486	Escadora Might<ICON ALPHA>+	436	160	11	pl052_0000
+3	Waist	487	Escadora Might<ICON BETA>+	437	160	11	pl052_0010
 3	Waist	492	Empress Coil<ICON ALPHA>+	442	164	11	pl051_0001
 3	Waist	493	Empress Coil<ICON BETA>+	443	164	11	pl051_0011
 3	Waist	494	Kulve Taroth's Malice<ICON ALPHA>+	444	176	11	pl049_0001
 3	Waist	495	Kulve Taroth's Malice<ICON BETA>+	445	176	11	pl049_0011
 3	Waist	496	Rose Belt<ICON ALPHA>+	446	150	9	pl124_0000
 3	Waist	497	Lumu Layered Torso	447	0	4	pl024_0000
-3	Waist	498	Unavailable	448	0	0	None
+3	Waist	498	Passionate Belt<ICON ALPHA>+	448	156	9	pl125_0000
 3	Waist	499	Rathian<ICON ALPHA>Layered Torso	449	0	4	pl021_0000
 3	Waist	500	Unavailable	450	0	0	None
 3	Waist	501	Rathian<ICON BETA>Layered Torso	451	0	4	pl021_0010
@@ -2277,7 +2277,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	504	Astral Skirt<ICON ALPHA>+	454	140	8	pl128_0000
 3	Waist	505	Radobaan<ICON BETA>Layered Torso	455	0	5	pl028_0010
 3	Waist	506	Layered Rose Torso	456	0	9	pl124_0000
-3	Waist	507	Unavailable	457	0	0	None
+3	Waist	507	Passionate Layered Torso	457	0	9	pl125_0000
 3	Waist	508	Unavailable	458	0	0	None
 3	Waist	509	Oolong Layered Torso	459	0	8	pl127_0000
 3	Waist	510	Astral Layered Torso	460	0	8	pl128_0000
@@ -2294,8 +2294,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	525	HARDUMMY	475	0	7	pl072_0000
 3	Waist	526	HARDUMMY	476	170	11	pl072_0001
 3	Waist	527	Unavailable	477	0	0	None
-3	Waist	528	Unavailable	478	0	0	None
-3	Waist	529	Unavailable	479	0	0	None
+3	Waist	528	Frostfang Coil<ICON ALPHA>+	478	162	10	pl089_0500
+3	Waist	529	Frostfang Coil<ICON BETA>+	479	162	10	pl089_0510
 3	Waist	530	Unavailable	480	0	0	None
 3	Waist	531	Unavailable	481	0	0	None
 3	Waist	532	HARDUMMY	482	160	11	pl068_0020
@@ -2479,11 +2479,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	720	Unavailable	670	0	0	None
 3	Waist	721	Unavailable	671	0	0	None
 3	Waist	722	Unavailable	672	0	0	None
-3	Waist	723	Unavailable	673	0	0	None
-3	Waist	724	Unavailable	675	0	0	None
-3	Waist	725	Unavailable	0	0	0	None
-3	Waist	726	Unavailable	0	0	0	None
-3	Waist	727	Unavailable	0	0	0	None
+3	Waist	723	Innerwear<ICON ALPHA>Layered Torso	673	0	11	pl500_0000
+3	Waist	724	Innerwear<ICON BETA>Layered Torso	675	0	11	pl501_0000
+3	Waist	725	Unavailable	676	0	0	None
+3	Waist	726	Unavailable	677	0	0	None
+3	Waist	727	Unavailable	678	0	0	None
 3	Waist	728	Unavailable	0	0	0	None
 3	Waist	729	Unavailable	0	0	0	None
 3	Waist	730	Unavailable	0	0	0	None
@@ -2875,15 +2875,15 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	483	Brachydium Greaves<ICON BETA>+	433	170	11	pl082_0510
 4	Leg	484	Safi Crested Boots<ICON ALPHA>+	434	168	11	pl087_0000
 4	Leg	485	Safi Crested Boots<ICON BETA>+	435	168	11	pl087_0010
-4	Leg	486	Unavailable	436	0	0	None
-4	Leg	487	Unavailable	437	0	0	None
+4	Leg	486	Escadora Sheath<ICON ALPHA>+	436	160	11	pl052_0000
+4	Leg	487	Escadora Sheath<ICON BETA>+	437	160	11	pl052_0010
 4	Leg	492	Empress Greaves<ICON ALPHA>+	442	164	11	pl051_0001
 4	Leg	493	Empress Greaves<ICON BETA>+	443	164	11	pl051_0011
 4	Leg	494	Kulve Taroth's Wrath<ICON ALPHA>+	444	176	11	pl049_0001
 4	Leg	495	Kulve Taroth's Wrath<ICON BETA>+	445	176	11	pl049_0011
 4	Leg	496	Rose Boots<ICON ALPHA>+	446	150	9	pl124_0000
 4	Leg	497	Lumu Layered Legs	447	0	4	pl024_0000
-4	Leg	498	Unavailable	448	0	0	None
+4	Leg	498	Passionate Leggings<ICON ALPHA>+	448	156	9	pl125_0000
 4	Leg	499	Rathian<ICON ALPHA>Layered Legs	449	0	4	pl021_0000
 4	Leg	500	Unavailable	450	0	0	None
 4	Leg	501	Rathian<ICON BETA>Layered Legs	451	0	4	pl021_0010
@@ -2892,7 +2892,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	504	Astral Tights<ICON ALPHA>+	454	140	8	pl128_0000
 4	Leg	505	Radobaan<ICON BETA>Layered Legs	455	0	5	pl028_0010
 4	Leg	506	Layered Rose Legs	456	0	9	pl124_0000
-4	Leg	507	Unavailable	457	0	0	None
+4	Leg	507	Passionate Layered Legs	457	0	9	pl125_0000
 4	Leg	508	Unavailable	458	0	0	None
 4	Leg	509	Oolong Layered Legs	459	0	8	pl127_0000
 4	Leg	510	Astral Layered Legs	460	0	8	pl128_0000
@@ -2909,8 +2909,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	525	HARDUMMY	475	0	7	pl072_0000
 4	Leg	526	HARDUMMY	476	170	11	pl072_0001
 4	Leg	527	Unavailable	477	0	0	None
-4	Leg	528	Unavailable	478	0	0	None
-4	Leg	529	Unavailable	479	0	0	None
+4	Leg	528	Frostfang Greaves<ICON ALPHA>+	478	162	10	pl089_0500
+4	Leg	529	Frostfang Greaves<ICON BETA>+	479	162	10	pl089_0510
 4	Leg	530	Unavailable	480	0	0	None
 4	Leg	531	Unavailable	481	0	0	None
 4	Leg	532	HARDUMMY	482	160	11	pl068_0020
@@ -3094,11 +3094,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	720	Unavailable	670	0	0	None
 4	Leg	721	Unavailable	671	0	0	None
 4	Leg	722	Unavailable	672	0	0	None
-4	Leg	723	Unavailable	673	0	0	None
-4	Leg	724	Unavailable	675	0	0	None
-4	Leg	725	Unavailable	0	0	0	None
-4	Leg	726	Unavailable	0	0	0	None
-4	Leg	727	Unavailable	0	0	0	None
+4	Leg	723	Innerwear<ICON ALPHA>Layered Legs	673	0	11	pl500_0000
+4	Leg	724	Innerwear<ICON BETA>Layered Legs	675	0	11	pl501_0000
+4	Leg	725	Unavailable	676	0	0	None
+4	Leg	726	Unavailable	677	0	0	None
+4	Leg	727	Unavailable	678	0	0	None
 4	Leg	728	Unavailable	0	0	0	None
 4	Leg	729	Unavailable	0	0	0	None
 4	Leg	730	Unavailable	0	0	0	None
@@ -3405,10 +3405,10 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	324	Evasion Charm V	0	0	11	None
 5	Charm	325	Wyrmsbane Charm IV	0	0	10	None
 5	Charm	326	Wyrmsbane Charm V	0	0	11	None
-5	Charm	327	Unavailable	0	0	0	None
+5	Charm	327	Draw Charm III	0	0	11	None
 5	Charm	328	Marathon Charm III	0	0	11	None
 5	Charm	329	Fitness Charm IV	0	0	10	None
-5	Charm	330	Unavailable	0	0	0	None
+5	Charm	330	Fitness Charm V	0	0	11	None
 5	Charm	331	Surge Charm III	0	0	11	None
 5	Charm	332	Leaping Charm III	0	0	11	None
 5	Charm	333	Mushroom Charm III	0	0	10	None
@@ -3441,7 +3441,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	360	Invigorate Charm III	0	0	10	None
 5	Charm	361	Phoenix Charm I	0	0	10	None
 5	Charm	362	Phoenix Charm II	0	0	11	None
-5	Charm	363	Unavailable	0	0	0	None
+5	Charm	363	Phoenix Charm III	0	0	11	None
 5	Charm	364	Guardian Charm I	0	0	8	None
 5	Charm	365	Guardian Charm II	0	0	9	None
 5	Charm	366	Guardian Charm III	0	0	11	None

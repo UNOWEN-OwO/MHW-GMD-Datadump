@@ -220,8 +220,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 0	GreatSword	219	"Impacto wyvern ""Plata"""	11	Unique Model	wp/two/two010	
 0	GreatSword	220	Vara demoníaca	10	Unique Model	wp/two/two020	
 0	GreatSword	221	Vara endemoniada	11	Unique Model	wp/two/two021	
-0	GreatSword	222	Unavailable	0	Combined Model	wp/two/two002	
-0	GreatSword	223	Unavailable	0	Combined Model	wp/two/two002	
+0	GreatSword	222	Gran espada Alatreon	10	Unique Model	wp/two/two024	
+0	GreatSword	223	Revolución Alatreon	11	Unique Model	wp/two/two024	
 0	GreatSword	224	Filo alma ígnea (Luna)	11	Combined Model	wp/two/two009	
 0	GreatSword	225	Filo alma ígnea (Nerg)	11	Combined Model	wp/two/two009	wp/two/parts/op_two005
 0	GreatSword	226	Filo alma ígnea (Xeno)	11	Combined Model	wp/two/two009	wp/two/parts/op_two010
@@ -235,7 +235,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 0	GreatSword	234	Gran vara demoníaca	11	Unique Model	wp/two/two020	
 0	GreatSword	235	Xiphias Gladius	10	Unique Model	wp/two/two025	
 0	GreatSword	236	Verdugo infernal+	11	Combined Model	wp/two/two003	wp/two/parts/op_two023
-0	GreatSword	237	Unavailable	0	Combined Model	wp/two/two002	
+0	GreatSword	237	Demonio glacial	10	Unique Model	wp/two/two028	
 0	GreatSword	238	Unavailable	0	Combined Model	wp/two/two002	
 0	GreatSword	239	Unavailable	0	Combined Model	wp/two/two002	
 0	GreatSword	240	Hoja Venus Real	11	Unique Model	wp/two/two026	
@@ -543,8 +543,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 1	Sword&Shield	224	Tijeras del destino	11	Unique Model	wp/one/one017	
 1	Sword&Shield	225	Garrote Rajang	10	Unique Model	wp/one/one023	
 1	Sword&Shield	226	Maza endemoniada	11	Unique Model	wp/one/one024	
-1	Sword&Shield	227	Unavailable	0	Combined Model	wp/one/one001	
-1	Sword&Shield	228	Unavailable	0	Combined Model	wp/one/one001	
+1	Sword&Shield	227	Espada de Alatreon	10	Unique Model	wp/one/one027	
+1	Sword&Shield	228	Estrella de Alatreon	11	Unique Model	wp/one/one027	
 1	Sword&Shield	229	Púa alma ígnea (Luna)	11	Combined Model	wp/one/one009	
 1	Sword&Shield	230	Púa alma ígnea (Nerg)	11	Combined Model	wp/one/one009	wp/one/parts/op_one005
 1	Sword&Shield	231	Púa alma ígnea (Xeno)	11	Combined Model	wp/one/one009	wp/one/parts/op_one011
@@ -552,7 +552,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 1	Sword&Shield	233	Mordisco de piedra	11	Unique Model	wp/one/one032	
 1	Sword&Shield	234	Espada palacio gremial	9	Unique Model	wp/one/one031	
 1	Sword&Shield	235	Garrote Rajang ilegal	11	Unique Model	wp/one/one023	
-1	Sword&Shield	236	Unavailable	0	Combined Model	wp/one/one001	
+1	Sword&Shield	236	Silverbosche	10	Unique Model	wp/one/one033	
 1	Sword&Shield	237	Unavailable	0	Combined Model	wp/one/one001	
 1	Sword&Shield	238	Unavailable	0	Combined Model	wp/one/one001	
 1	Sword&Shield	239	Espada Nova Real	11	Unique Model	wp/one/one031	
@@ -861,8 +861,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 2	DualBlades	226	Suave Paraíso	10	Unique Model	wp/sou/sou017	
 2	DualBlades	227	Suzuka Takamaru	10	Unique Model	wp/sou/sou023	
 2	DualBlades	228	Puños endemoniados	11	Unique Model	wp/sou/sou024	
-2	DualBlades	229	Unavailable	0	Combined Model	wp/sou/sou001	
-2	DualBlades	230	Unavailable	0	Combined Model	wp/sou/sou001	
+2	DualBlades	229	Espadas dobles Alatreon	10	Unique Model	wp/sou/sou026	
+2	DualBlades	230	Locura Alatreon	11	Unique Model	wp/sou/sou026	
 2	DualBlades	231	Clavas alma ígnea (Luna)	11	Combined Model	wp/sou/sou009	
 2	DualBlades	232	Clavas alma ígnea (Nerg)	11	Combined Model	wp/sou/sou009	wp/sou/parts/op_sou005
 2	DualBlades	233	Clavas alma ígnea (Xeno)	11	Combined Model	wp/sou/sou009	wp/sou/parts/op_sou011
@@ -872,12 +872,12 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 2	DualBlades	237	Sables palacio gremial	9	Unique Model	wp/sou/sou030	
 2	DualBlades	238	Suzuka Otakemaru	11	Unique Model	wp/sou/sou023	
 2	DualBlades	239	Unavailable	0	Combined Model	wp/sou/sou001	
-2	DualBlades	240	Unavailable	0	Combined Model	wp/sou/sou001	
+2	DualBlades	240	Bergel Vetra	10	Unique Model	wp/sou/sou031	
 2	DualBlades	241	Unavailable	0	Combined Model	wp/sou/sou001	
 2	DualBlades	242	Unavailable	0	Combined Model	wp/sou/sou001	
 2	DualBlades	243	Unavailable	0	Combined Model	wp/sou/sou001	
-2	DualBlades	244	Unavailable	0	Combined Model	wp/sou/sou001	
-2	DualBlades	245	Unavailable	0	Combined Model	wp/sou/sou001	
+2	DualBlades	244	Caldo fuerte	9	Unique Model	wp/sou/sou033	
+2	DualBlades	245	Caldo de maestro	10	Unique Model	wp/sou/sou033	
 2	DualBlades	246	Unavailable	0	Combined Model	wp/sou/sou001	
 2	DualBlades	247	Sables Salvación Reales	11	Unique Model	wp/sou/sou030	
 2	DualBlades	248	Unavailable	0	Combined Model	wp/sou/sou001	
@@ -1176,8 +1176,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 3	LongSword	225	HARDUMMY	11	Unique Model	wp/swo/swo010	
 3	LongSword	226	Alabarda demoníaca	10	Unique Model	wp/swo/swo024	
 3	LongSword	227	Alabarda endemoniada	11	Unique Model	wp/swo/swo025	
-3	LongSword	228	Unavailable	0	Combined Model	wp/swo/swo001	
-3	LongSword	229	Unavailable	0	Combined Model	wp/swo/swo001	
+3	LongSword	228	Garra oscura	10	Unique Model	wp/swo/swo027	
+3	LongSword	229	Garra oscura Muerte	11	Unique Model	wp/swo/swo027	
 3	LongSword	230	Látigo alma ígnea (Luna)	11	Combined Model	wp/swo/swo009	
 3	LongSword	231	Látigo alma ígnea (Nerg)	11	Combined Model	wp/swo/swo009	wp/swo/parts/op_swo005
 3	LongSword	232	Látigo alma ígnea (Xeno)	11	Combined Model	wp/swo/swo009	wp/swo/parts/op_swo011
@@ -1187,7 +1187,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 3	LongSword	236	Pico Carroñero Demoníaco	10	Unique Model	wp/swo/swo030	
 3	LongSword	237	Estoque palacio gremial	9	Unique Model	wp/swo/swo031	
 3	LongSword	238	Gran alabarda demoníaca	11	Unique Model	wp/swo/swo024	
-3	LongSword	239	Unavailable	0	Combined Model	wp/swo/swo001	
+3	LongSword	239	Filo Adularia	10	Unique Model	wp/swo/swo033	
 3	LongSword	240	Unavailable	0	Combined Model	wp/swo/swo001	
 3	LongSword	241	Unavailable	0	Combined Model	wp/swo/swo001	
 3	LongSword	242	Unavailable	0	Combined Model	wp/swo/swo001	
@@ -1487,8 +1487,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 4	Hammer	223	Infierno rasposo	10	Unique Model	wp/ham/ham018	
 4	Hammer	224	Malicia melenuda	10	Unique Model	wp/ham/ham024	
 4	Hammer	225	Almádena endemoniada	11	Unique Model	wp/ham/ham025	
-4	Hammer	226	Unavailable	0	Combined Model	wp/ham/ham001	
-4	Hammer	227	Unavailable	0	Combined Model	wp/ham/ham001	
+4	Hammer	226	Martillo de Alatreon	10	Unique Model	wp/ham/ham028	
+4	Hammer	227	Metamorfo Alatreon	11	Unique Model	wp/ham/ham028	
 4	Hammer	228	Tacón alma ígnea (Luna)	11	Combined Model	wp/ham/ham007	
 4	Hammer	229	Tacón alma ígnea (Nerg)	11	Combined Model	wp/ham/ham007	wp/ham/parts/op_ham005
 4	Hammer	230	Tacón alma ígnea (Xeno)	11	Combined Model	wp/ham/ham007	wp/ham/parts/op_ham011
@@ -1502,7 +1502,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 4	Hammer	238	Malicia melenuda Rajang	11	Unique Model	wp/ham/ham024	
 4	Hammer	239	Golpe mortal ala negra I	9	Combined Model	wp/ham/ham009	wp/ham/parts/op_ham021
 4	Hammer	240	Golpe mortal ala negra II	10	Combined Model	wp/ham/ham009	wp/ham/parts/op_ham021
-4	Hammer	241	Unavailable	0	Combined Model	wp/ham/ham001	
+4	Hammer	241	Mazo Polaris	10	Unique Model	wp/ham/ham032	
 4	Hammer	242	Unavailable	0	Combined Model	wp/ham/ham001	
 4	Hammer	243	Unavailable	0	Combined Model	wp/ham/ham001	
 4	Hammer	244	Unavailable	0	Combined Model	wp/ham/ham001	
@@ -1796,8 +1796,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 5	HuntingHorn	220	Endecha del destino	11	Unique Model	wp/hue/hue017	
 5	HuntingHorn	221	Denden Daiko	10	Unique Model	wp/hue/hue022	
 5	HuntingHorn	222	Tambor endemoniado	11	Unique Model	wp/hue/hue023	
-5	HuntingHorn	223	Unavailable	0	Combined Model	wp/hue/hue001	
-5	HuntingHorn	224	Unavailable	0	Combined Model	wp/hue/hue001	
+5	HuntingHorn	223	Armonía Alatreon	10	Unique Model	wp/hue/hue025	
+5	HuntingHorn	224	Revivir de Alatreon	11	Unique Model	wp/hue/hue025	
 5	HuntingHorn	225	Coro alma ígnea (Luna)	11	Combined Model	wp/hue/hue007	
 5	HuntingHorn	226	Coro alma ígnea (Nerg)	11	Combined Model	wp/hue/hue007	wp/hue/parts/op_hue001
 5	HuntingHorn	227	Coro alma ígnea (Xeno)	11	Combined Model	wp/hue/hue007	wp/hue/parts/op_hue002
@@ -1805,7 +1805,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 5	HuntingHorn	229	Mordisco de ogro	11	Unique Model	wp/hue/hue027	
 5	HuntingHorn	230	Gaita palacio gremial	9	Unique Model	wp/hue/hue026	
 5	HuntingHorn	231	Denden Atronador	11	Unique Model	wp/hue/hue022	
-5	HuntingHorn	232	Unavailable	0	Combined Model	wp/hue/hue001	
+5	HuntingHorn	232	Bringuiro	10	Unique Model	wp/hue/hue028	
 5	HuntingHorn	233	Unavailable	0	Combined Model	wp/hue/hue001	
 5	HuntingHorn	234	Unavailable	0	Combined Model	wp/hue/hue001	
 5	HuntingHorn	235	Canción Sinfónica Real	11	Unique Model	wp/hue/hue026	
@@ -2107,8 +2107,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 6	Lance	219	Lanza gran vendaval	10	Unique Model	wp/lan/lan019	
 6	Lance	220	Lanza demoníaca	10	Unique Model	wp/lan/lan023	
 6	Lance	221	Rajang endemoniado	11	Unique Model	wp/lan/lan024	
-6	Lance	222	Unavailable	0	Combined Model	wp/lan/lan001	
-6	Lance	223	Unavailable	0	Combined Model	wp/lan/lan001	
+6	Lance	222	Lanza de Alatreon	10	Unique Model	wp/lan/lan026	
+6	Lance	223	Rayo de Alatreon	11	Unique Model	wp/lan/lan026	
 6	Lance	224	Pincho alma ígnea (Luna)	11	Combined Model	wp/lan/lan009	
 6	Lance	225	Pincho alma ígnea (Nerg)	11	Combined Model	wp/lan/lan009	wp/lan/parts/op_lan004
 6	Lance	226	Pincho alma ígnea (Xeno)	11	Combined Model	wp/lan/lan009	wp/lan/parts/op_lan011
@@ -2118,7 +2118,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 6	Lance	230	Gran lanza demoníaca	11	Unique Model	wp/lan/lan023	
 6	Lance	231	Relámpago II	9	Combined Model	wp/lan/lan010	
 6	Lance	232	Lanza guerra infernal+	11	Combined Model	wp/lan/lan010	wp/lan/parts/op_lan024
-6	Lance	233	Unavailable	0	Combined Model	wp/lan/lan001	
+6	Lance	233	Colmillo sable	10	Unique Model	wp/lan/lan029	
 6	Lance	234	Unavailable	0	Combined Model	wp/lan/lan001	
 6	Lance	235	Unavailable	0	Combined Model	wp/lan/lan001	
 6	Lance	236	Pica Gracia Real	11	Unique Model	wp/lan/lan028	
@@ -2414,8 +2414,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 7	GunLance	220	Lanza pist. consumada	11	Unique Model	wp/gun/gun017	
 7	GunLance	221	Lza. pist. demoníaca	10	Unique Model	wp/gun/gun022	
 7	GunLance	222	Lanza pist. endemon.	11	Unique Model	wp/gun/gun023	
-7	GunLance	223	Unavailable	0	Combined Model	wp/gun/gun001	
-7	GunLance	224	Unavailable	0	Combined Model	wp/gun/gun001	
+7	GunLance	223	Lanza pistola Alatreon	10	Unique Model	wp/gun/gun025	
+7	GunLance	224	Fundido de Alatreon	11	Unique Model	wp/gun/gun025	
 7	GunLance	225	Garra alma ígnea (Luna)	11	Combined Model	wp/gun/gun009	
 7	GunLance	226	Garra alma ígnea (Nerg)	11	Combined Model	wp/gun/gun009	wp/gun/parts/op_gun005
 7	GunLance	227	Garra alma ígnea (Xeno)	11	Combined Model	wp/gun/gun009	wp/gun/parts/op_gun011
@@ -2428,7 +2428,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 7	GunLance	234	Unavailable	0	Combined Model	wp/gun/gun001	
 7	GunLance	235	Unavailable	0	Combined Model	wp/gun/gun001	
 7	GunLance	236	Unavailable	0	Combined Model	wp/gun/gun001	
-7	GunLance	237	Unavailable	0	Combined Model	wp/gun/gun001	
+7	GunLance	237	Noche blanca	10	Unique Model	wp/gun/gun029	
 7	GunLance	238	Unavailable	0	Combined Model	wp/gun/gun001	
 7	GunLance	239	Unavailable	0	Combined Model	wp/gun/gun001	
 7	GunLance	240	Pica Guardia Real	11	Unique Model	wp/gun/gun027	
@@ -2729,8 +2729,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 8	SwitchAxe	228	Hacha vil de Saligia	11	Unique Model	wp/saxe/saxe016	
 8	SwitchAxe	229	Hacha eterna	10	Unique Model	wp/saxe/saxe019	
 8	SwitchAxe	230	Hoja endemoniada	11	Unique Model	wp/saxe/saxe020	
-8	SwitchAxe	231	Unavailable	0	Combined Model	wp/saxe/saxe001	
-8	SwitchAxe	232	Unavailable	0	Combined Model	wp/saxe/saxe001	
+8	SwitchAxe	231	Hacha espada oscura	10	Unique Model	wp/saxe/saxe022	
+8	SwitchAxe	232	Cosecha negra	11	Unique Model	wp/saxe/saxe022	
 8	SwitchAxe	233	Azote alma ígnea (Luna)	11	Combined Model	wp/saxe/saxe007	
 8	SwitchAxe	234	Azote alma ígnea (Nerg)	11	Combined Model	wp/saxe/saxe007	wp/saxe/parts/op_saxe004
 8	SwitchAxe	235	Azote alma ígnea (Xeno)	11	Combined Model	wp/saxe/saxe007	wp/saxe/parts/op_saxe011
@@ -2738,7 +2738,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 8	SwitchAxe	237	Hacha palacio gremial	9	Unique Model	wp/saxe/saxe023	
 8	SwitchAxe	238	Luz eterna	11	Unique Model	wp/saxe/saxe019	
 8	SwitchAxe	239	Hacha infernal+	11	Combined Model	wp/saxe/saxe002	wp/saxe/parts/op_saxe026
-8	SwitchAxe	240	Unavailable	0	Combined Model	wp/saxe/saxe001	
+8	SwitchAxe	240	Piedra luna escarchada	10	Unique Model	wp/saxe/saxe024	
 8	SwitchAxe	241	Unavailable	0	Combined Model	wp/saxe/saxe001	
 8	SwitchAxe	242	Unavailable	0	Combined Model	wp/saxe/saxe001	
 8	SwitchAxe	243	Hacha Titán Real	11	Unique Model	wp/saxe/saxe023	
@@ -3018,8 +3018,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 9	ChargeBlade	215	Cortina del destino	11	Unique Model	wp/caxe/caxe017	
 9	ChargeBlade	216	Cuchilla bestial	10	Unique Model	wp/caxe/caxe022	
 9	ChargeBlade	217	Cuchilla endemoniada	11	Unique Model	wp/caxe/caxe023	
-9	ChargeBlade	218	Unavailable	0	Combined Model	wp/caxe/caxe001	
-9	ChargeBlade	219	Unavailable	0	Combined Model	wp/caxe/caxe001	
+9	ChargeBlade	218	Filo de Alatreon	10	Unique Model	wp/caxe/caxe026	
+9	ChargeBlade	219	Morfofilo de Alatreon	11	Unique Model	wp/caxe/caxe026	
 9	ChargeBlade	220	Spatha alma ígnea (Luna)	11	Combined Model	wp/caxe/caxe007	
 9	ChargeBlade	221	Spatha alma ígnea (Nerg)	11	Combined Model	wp/caxe/caxe007	wp/caxe/parts/op_caxe004
 9	ChargeBlade	222	Spatha alma ígnea (Xeno)	11	Combined Model	wp/caxe/caxe007	wp/caxe/parts/op_caxe011
@@ -3029,7 +3029,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 9	ChargeBlade	226	Unavailable	0	Combined Model	wp/caxe/caxe001	
 9	ChargeBlade	227	Unavailable	0	Combined Model	wp/caxe/caxe001	
 9	ChargeBlade	228	Unavailable	0	Combined Model	wp/caxe/caxe001	
-9	ChargeBlade	229	Unavailable	0	Combined Model	wp/caxe/caxe001	
+9	ChargeBlade	229	Colmillo lobo furioso	10	Unique Model	wp/caxe/caxe029	
 9	ChargeBlade	230	Unavailable	0	Combined Model	wp/caxe/caxe001	
 9	ChargeBlade	231	Unavailable	0	Combined Model	wp/caxe/caxe001	
 9	ChargeBlade	232	Águila Negra	9	Unique Model	wp/caxe/caxe030	
@@ -3333,8 +3333,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 10	InsectGlaive	221	Ala del destino	11	Unique Model	wp/rod/rod017	
 10	InsectGlaive	222	Machacametales	10	Unique Model	wp/rod/rod021	
 10	InsectGlaive	223	Porra endemoniada	11	Unique Model	wp/rod/rod022	
-10	InsectGlaive	224	Unavailable	0	Combined Model	wp/rod/rod001	
-10	InsectGlaive	225	Unavailable	0	Combined Model	wp/rod/rod001	
+10	InsectGlaive	224	Aguja dragón Alatreon	10	Unique Model	wp/rod/rod025	
+10	InsectGlaive	225	Abrazo de Alatreon	11	Unique Model	wp/rod/rod025	
 10	InsectGlaive	226	Tajo alma ígnea (Luna)	11	Combined Model	wp/rod/rod007	
 10	InsectGlaive	227	Tajo alma ígnea (Nerg)	11	Combined Model	wp/rod/rod007	wp/rod/parts/op_rod004
 10	InsectGlaive	228	Tajo alma ígnea (Xeno)	11	Combined Model	wp/rod/rod007	wp/rod/parts/op_rod011
@@ -3351,7 +3351,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 10	InsectGlaive	239	Unavailable	0	Combined Model	wp/rod/rod001	
 10	InsectGlaive	240	Unavailable	0	Combined Model	wp/rod/rod001	
 10	InsectGlaive	241	Unavailable	0	Combined Model	wp/rod/rod001	
-10	InsectGlaive	242	Unavailable	0	Combined Model	wp/rod/rod001	
+10	InsectGlaive	242	Rosa Fenrir	10	Unique Model	wp/rod/rod028	
 10	InsectGlaive	243	Unavailable	0	Combined Model	wp/rod/rod001	
 10	InsectGlaive	244	Unavailable	0	Combined Model	wp/rod/rod001	
 10	InsectGlaive	245	Estandarte Marcha Real	11	Unique Model	wp/rod/rod027	
@@ -3631,8 +3631,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 11	Bow	215	Hilo del destino	128	Unique Model	wp/bow/bow018	
 11	Bow	216	Arco rayo bestial	96	Unique Model	wp/bow/bow021	
 11	Bow	217	Modelo archibestial	64	Unique Model	wp/bow/bow022	
-11	Bow	218	Unavailable	0	Combined Model	wp/bow/bow001	
-11	Bow	219	Unavailable	0	Combined Model	wp/bow/bow001	
+11	Bow	218	Arco de Alatreon	96	Unique Model	wp/bow/bow025	
+11	Bow	219	Mandato de Alatreon	128	Unique Model	wp/bow/bow025	
 11	Bow	220	Arco alma ígnea (Luna)	128	Combined Model	wp/bow/bow007	
 11	Bow	221	Arco alma ígnea (Nerg)	128	Combined Model	wp/bow/bow007	wp/bow/parts/op_bow001
 11	Bow	222	Arco alma ígnea (Xeno)	128	Combined Model	wp/bow/bow007	wp/bow/parts/op_bow003
@@ -3646,7 +3646,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 11	Bow	230	Flecha Acídica II	192	Combined Model	wp/bow/bow003	wp/bow/parts/op_bow020
 11	Bow	231	Arco rayo rey bestial	128	Unique Model	wp/bow/bow021	
 11	Bow	232	Unavailable	0	Combined Model	wp/bow/bow001	
-11	Bow	233	Unavailable	0	Combined Model	wp/bow/bow001	
+11	Bow	233	Edelescha	64	Unique Model	wp/bow/bow027	
 11	Bow	234	Unavailable	0	Combined Model	wp/bow/bow001	
 11	Bow	235	Unavailable	0	Combined Model	wp/bow/bow001	
 11	Bow	236	HARDUMMY	128	Unique Model	wp/bow/bow028	
@@ -3937,15 +3937,15 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 12	HeavyBowGun	213	Hambruna infinita	128	Unique Model	wp/hbg/hbg019	
 12	HeavyBowGun	214	Bláster Rajang	96	Unique Model	wp/hbg/hbg022	
 12	HeavyBowGun	215	Cañón endemoniado	64	Unique Model	wp/hbg/hbg023	
-12	HeavyBowGun	216	Unavailable	0	Combined Model	wp/hbg/hbg001	
-12	HeavyBowGun	217	Unavailable	0	Combined Model	wp/hbg/hbg001	
+12	HeavyBowGun	216	Ala del caos	96	Unique Model	wp/hbg/hbg026	
+12	HeavyBowGun	217	Albadash	128	Unique Model	wp/hbg/hbg026	
 12	HeavyBowGun	218	Rugido alma ígnea (Luna)	128	Combined Model	wp/hbg/hbg005	
 12	HeavyBowGun	219	Rugido alma ígnea (Nerg)	128	Combined Model	wp/hbg/hbg005	wp/hbg/parts/op_hbg001
 12	HeavyBowGun	220	Rugido alma ígnea (Xeno)	128	Combined Model	wp/hbg/hbg005	wp/hbg/parts/op_hbg002
 12	HeavyBowGun	221	Bramido maldito	192	Unique Model	wp/hbg/hbg028	
 12	HeavyBowGun	222	Rifle palacio gremial	128	Unique Model	wp/hbg/hbg027	
 12	HeavyBowGun	223	Destructor Rajang	128	Unique Model	wp/hbg/hbg022	
-12	HeavyBowGun	224	Unavailable	0	Combined Model	wp/hbg/hbg001	
+12	HeavyBowGun	224	Guerrilla Final	64	Unique Model	wp/hbg/hbg029	
 12	HeavyBowGun	225	Unavailable	0	Combined Model	wp/hbg/hbg001	
 12	HeavyBowGun	226	Unavailable	0	Combined Model	wp/hbg/hbg001	
 12	HeavyBowGun	227	Luz Comitiva Real	128	Unique Model	wp/hbg/hbg027	
@@ -4259,8 +4259,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 13	LightBowGun	222	Funescañón Dementia	128	Unique Model	wp/lbg/lbg015	
 13	LightBowGun	223	Aluvión Rajang	96	Unique Model	wp/lbg/lbg018	
 13	LightBowGun	224	Cañón endemoniado	64	Unique Model	wp/lbg/lbg019	
-13	LightBowGun	225	Unavailable	0	Combined Model	wp/lbg/lbg001	
-13	LightBowGun	226	Unavailable	0	Combined Model	wp/lbg/lbg001	
+13	LightBowGun	225	Devastador Alatreon	96	Unique Model	wp/lbg/lbg021	
+13	LightBowGun	226	Dominador Alatreon	128	Unique Model	wp/lbg/lbg021	
 13	LightBowGun	227	Chirrido alma ígnea (Luna)	128	Combined Model	wp/lbg/lbg005	
 13	LightBowGun	228	Chirrido alma ígnea (Nerg)	128	Combined Model	wp/lbg/lbg005	wp/lbg/parts/op_lbg001
 13	LightBowGun	229	Chirrido alma ígnea (Xeno)	128	Combined Model	wp/lbg/lbg005	wp/lbg/parts/op_lbg003
@@ -4269,7 +4269,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 13	LightBowGun	232	Diez mil voltios	128	Unique Model	wp/lbg/lbg018	
 13	LightBowGun	233	Unavailable	0	Combined Model	wp/lbg/lbg001	
 13	LightBowGun	234	Unavailable	0	Combined Model	wp/lbg/lbg001	
-13	LightBowGun	235	Unavailable	0	Combined Model	wp/lbg/lbg001	
+13	LightBowGun	235	Ráfaga de granizo	64	Unique Model	wp/lbg/lbg023	
 13	LightBowGun	236	Unavailable	0	Combined Model	wp/lbg/lbg001	
 13	LightBowGun	237	Unavailable	0	Combined Model	wp/lbg/lbg001	
 13	LightBowGun	238	HARDUMMY	128	Unique Model	wp/lbg/lbg024	

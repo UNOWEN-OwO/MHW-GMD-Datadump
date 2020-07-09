@@ -123,7 +123,7 @@ Weapon ID	Weapon Name	File Path
 157	Посох равн. богу (К)<ICON ALPHA>+	otomo/wp/ot_we071
 158	Кулак сокрушителя (К)<ICON ALPHA>+	otomo/wp/ot_we070
 159	Копье сафи (К)<ICON ALPHA>+	otomo/wp/ot_we067
-160	Желудевая лопатка (К)	otomo/wp/ot_we000
+160	Коса эскадора (К)<ICON ALPHA>+	otomo/wp/ot_we068
 161	Зонт Элизы (К)<ICON ALPHA>+	otomo/wp/ot_we034
 162	Веер кулве (К)<ICON ALPHA>+	otomo/wp/ot_we025
 163	Мегабластер<ICON ALPHA>+	otomo/wp/ot_we035
@@ -132,7 +132,7 @@ Weapon ID	Weapon Name	File Path
 166	HARDUMMY	otomo/wp/ot_we036
 167	Самурайский меч (К)<ICON ALPHA>+	otomo/wp/ot_we039
 168	Жезл бабочки (К)<ICON ALPHA>+	otomo/wp/ot_we040
-169	Желудевая лопатка (К)	otomo/wp/ot_we000
+169	Укулеле для котта<ICON ALPHA>+	otomo/wp/ot_we041
 170	Желудевая лопатка (К)	otomo/wp/ot_we000
 171	Колокольчик снеж. котта<ICON ALPHA>+	otomo/wp/ot_we043
 172	Подст. микр. зв. коттов<ICON ALPHA>+	otomo/wp/ot_we044
@@ -144,7 +144,7 @@ Weapon ID	Weapon Name	File Path
 178	Букет Ксено (К)<ICON ALPHA>+	otomo/wp/ot_we024
 179	Книга гильдии (К)<ICON ALPHA>+	otomo/wp/ot_we063
 180	Корзина роз (К)<ICON ALPHA>+	otomo/wp/ot_we075
-181	Желудевая лопатка (К)	otomo/wp/ot_we000
+181	Коттовый рог пуки<ICON ALPHA>+	otomo/wp/ot_we076
 182	Желудевая лопатка (К)	otomo/wp/ot_we000
 183	Фонарь костюма льва (К)<ICON ALPHA>+	otomo/wp/ot_we078
 184	Космический аппарат<ICON ALPHA>+	otomo/wp/ot_we079
@@ -155,7 +155,7 @@ Weapon ID	Weapon Name	File Path
 189	HARDUMMY	otomo/wp/ot_we081
 190	Коралл ползуна<ICON ALPHA>+	otomo/wp/ot_we082
 191	Костяной молот боа-боа	otomo/wp/ot_we062
-192	Желудевая лопатка (К)	otomo/wp/ot_we000
+192	Коттовая ледозубая сабля<ICON ALPHA>+	otomo/wp/ot_we083
 193	Желудевая лопатка (К)	otomo/wp/ot_we000
 194	Желудевая лопатка (К)	otomo/wp/ot_we000
 195	Жезл маэстро (К)<ICON ALPHA>+	otomo/wp/ot_we085
