@@ -115,8 +115,12 @@ N766_NPC_NAME	Суетливый Четвертый	npc766
 N767_NPC_NAME	Фанатичная Пятая	npc767
 N781_NPC_NAME	Молодой кузнец	npc781
 N782_NPC_NAME	Помощник глав. эколога	npc782
+N785_NPC_NAME	Генерал	npc785
+N786_NPC_NAME	Подчиненный 1	npc786
+N787_NPC_NAME	Подчиненный 2	npc787
 N792_NPC_NAME	Торговец в кузне	npc792
 N793_NPC_NAME	Ресурсы Третьего флота	npc793
+N788_NPC_NAME	Артемис	npc788
 HUNTER_00_NAME	Новый охотник	
 HUNTER_01_NAME	Начинающий охотник	
 HUNTER_02_NAME	Молодой охотник	

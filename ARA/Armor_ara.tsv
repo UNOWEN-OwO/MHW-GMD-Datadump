@@ -156,8 +156,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	159	رأس بذلة المهرجان السميكة	153	0	3	pl078_0000
 0	Head	160	Unavailable	158	2	0	pl001_0000
 0	Head	299	HARDUMMY	154	0	7	pl068_0000
-0	Head	291	HARDUMMY	155	0	7	pl069_0000
-0	Head	292	HARDUMMY	156	0	7	pl070_0000
+0	Head	291	رأس Ryu السميك	155	0	7	pl069_0000
+0	Head	292	عتاد رأس Sakura السميك	156	0	7	pl070_0000
 0	Head	144	Unavailable	157	2	0	pl001_0000
 0	Head	297	رأس بايك السميك	159	0	7	pl120_0000
 0	Head	162	Unavailable	160	2	0	pl001_0000
@@ -198,9 +198,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	223	عتاد رأس زوراه<ICON GAMMA>	213	72	7	pl038_0020
 0	Head	224	عتاد رأس زينوجيفا<ICON GAMMA>	214	72	7	pl045_0020
 0	Head	225	HARDUMMY	215	46	4	pl068_0000
-0	Head	226	HARDUMMY	216	12	1	pl069_0000
-0	Head	227	HARDUMMY	217	60	6	pl069_0000
-0	Head	228	HARDUMMY	218	50	5	pl070_0000
+0	Head	226	عتاد رأس Ryu	216	12	1	pl069_0000
+0	Head	227	رأس Ryu<ICON ALPHA>	217	60	6	pl069_0000
+0	Head	228	رأس Sakura<ICON ALPHA>	218	50	5	pl070_0000
 0	Head	229	تاج سيد نجوم لازوردي<ICON ALPHA>	219	56	6	pl072_0000
 0	Head	230	شعر دانتي<ICON ALPHA>	220	64	7	pl071_0000
 0	Head	231	تاج الإمبراطورة<ICON ALPHA>	221	70	7	pl051_0000
@@ -347,7 +347,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	422	خوذة غلافنيوس حمضي<ICON BETA>+	372	150	10	pl081_0110
 0	Head	423	خوذة تحفة فنية<ICON ALPHA>+	373	142	9	pl091_0000
 0	Head	424	خوذة تحفة فنية<ICON BETA>+	374	142	9	pl091_0000
-0	Head	425	Unavailable	375	0	0	None
+0	Head	425	درع رأس وشاح جمجمة سميك	375	0	10	pl099_0000
 0	Head	426	خوذة سميكة<ICON ALPHA>لبوكي	376	0	4	pl010_0000
 0	Head	427	خوذة سميكة<ICON BETA>لبوكي	377	0	4	pl010_0010
 0	Head	428	خوذة دوبر<ICON ALPHA>+	378	152	10	pl044_0000
@@ -368,7 +368,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	443	قرن كيرين<ICON BETA>+	393	154	11	pl035_0011
 0	Head	444	قلنسوة مجس<ICON ALPHA>+	394	158	11	pl086_0000
 0	Head	445	قلنسوة مجس<ICON BETA>+	395	158	11	pl086_0010
-0	Head	446	Unavailable	396	0	0	None
+0	Head	446	درع رأس تروس<ICON ALPHA>+ سميك	396	0	9	pl104_0000
 0	Head	447	خوذة باروث سميكة	397	0	4	pl012_0000
 0	Head	448	خوذة قصر النقابة<ICON ALPHA>+	398	154	10	pl094_0000
 0	Head	449	خوذة قصر النقابة<ICON BETA>+	399	154	10	pl094_0000
@@ -422,7 +422,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	497	خوذة لومو سميكة	447	0	4	pl024_0000
 0	Head	498	غطاء رأس الشغوف<ICON ALPHA>+	448	156	9	pl125_0000
 0	Head	499	خوذة سميكة<ICON ALPHA>لراثيان	449	0	4	pl021_0000
-0	Head	500	Unavailable	450	0	0	None
+0	Head	500	شعر العفريت السيد<ICON ALPHA>+	450	162	10	pl126_0000
 0	Head	501	خوذة سميكة<ICON BETA>لراثيان	451	0	4	pl021_0010
 0	Head	502	شعر أولونغ<ICON ALPHA>+	452	120	8	pl127_0000
 0	Head	503	خوذة سميكة<ICON ALPHA>لرادوبان	453	0	5	pl028_0000
@@ -430,7 +430,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	505	خوذة سميكة<ICON BETA>لرادوبان	455	0	5	pl028_0010
 0	Head	506	درع رأس وردي سميك	456	0	9	pl124_0000
 0	Head	507	درع رأس الشغوف	457	0	9	pl125_0000
-0	Head	508	Unavailable	458	0	0	None
+0	Head	508	درع رأس عفريت سيد سميك	458	0	10	pl126_0000
 0	Head	509	درع رأس أولونغ السميك	459	0	8	pl127_0000
 0	Head	510	رأس أسترال السميك	460	0	8	pl128_0000
 0	Head	511	معدن قوي لخوذة سميكة	461	0	5	pl025_0000
@@ -438,7 +438,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	513	درع قطيع الأرانب	463	0	8	pl111_0000
 0	Head	514	درع رأس كراك الناعم السميك	464	0	8	pl112_0000
 0	Head	515	ينبوع اللؤلؤ<ICON ALPHA>+	465	120	8	pl113_0000
-0	Head	516	Unavailable	466	0	0	None
+0	Head	516	وشاح كاداتشي السميك	466	0	8	pl114_0000
 0	Head	518	خوذة زئير ريكس<ICON ALPHA>+	468	158	10	pl083_0100
 0	Head	519	خوذة زئير ريكس<ICON BETA>+	469	158	10	pl083_0110
 0	Head	520	خوذة الحارس<ICON ALPHA>+	470	50	5	pl121_0000
@@ -446,19 +446,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	522	رأس الفارس الفضي السميكة	472	0	6	pl123_0000
 0	Head	523	HARDUMMY	473	132	11	pl068_0010
 0	Head	524	قلنسوة مجس<ICON GAMMA>+	474	176	11	pl086_0020
-0	Head	525	HARDUMMY	475	0	7	pl072_0000
-0	Head	526	HARDUMMY	476	170	11	pl072_0001
-0	Head	527	Unavailable	477	0	0	None
+0	Head	525	رأس سيد نجوم لازوردي سميك	475	0	7	pl072_0000
+0	Head	526	شعر عصر اللازوردي<ICON ALPHA>+	476	170	11	pl072_0001
+0	Head	527	خوذة حارس الصقيع<ICON GAMMA>+	477	180	11	pl085_0020
 0	Head	528	خوذة أنياب الصقيع<ICON ALPHA>+	478	162	10	pl089_0500
 0	Head	529	خوذة أنياب الصقيع<ICON BETA>+	479	162	10	pl089_0510
-0	Head	530	Unavailable	480	0	0	None
-0	Head	531	Unavailable	481	0	0	None
+0	Head	530	رأس تنين<ICON ALPHA>+	480	180	11	pl129_0000
+0	Head	531	رأس تنين<ICON BETA>+	481	180	11	pl129_0010
 0	Head	532	HARDUMMY	482	160	11	pl068_0020
 0	Head	533	Unavailable	483	0	0	None
 0	Head	534	عتاد رأس ليون <ICON ALPHA>+	484	150	11	pl130_0000
 0	Head	535	عتاد رأس كلير <ICON ALPHA>+	485	150	11	pl131_0000
-0	Head	536	Unavailable	486	0	0	None
-0	Head	537	Unavailable	487	0	0	None
+0	Head	536	درع رأس ليون سميك+	486	0	11	pl130_0000
+0	Head	537	درع رأس كلير سميك+	487	0	11	pl131_0000
 0	Head	538	درع رأس غاستودون السميك	488	0	4	pl015_0000
 0	Head	540	درع رأس دودوغما السميك	490	0	4	pl039_0000
 0	Head	541	درع رأس إنغوت السميك	491	0	5	pl031_0000
@@ -515,130 +515,130 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	592	درع رأس كولف<ICON ALPHA>السميك	542	0	7	pl049_0000
 0	Head	593	درع رأس كولف<ICON BETA>السميك	543	0	7	pl049_0010
 0	Head	594	درع رأس كولف<ICON GAMMA>السميك	544	0	7	pl049_0020
-0	Head	595	Unavailable	546	0	0	None
-0	Head	596	Unavailable	547	0	0	None
-0	Head	597	Unavailable	548	0	0	None
-0	Head	599	Unavailable	550	0	0	None
-0	Head	600	Unavailable	551	0	0	None
-0	Head	601	Unavailable	552	0	0	None
-0	Head	602	Unavailable	553	0	0	None
-0	Head	603	Unavailable	554	0	0	None
-0	Head	604	Unavailable	555	0	0	None
-0	Head	605	Unavailable	556	0	0	None
-0	Head	606	Unavailable	557	0	0	None
-0	Head	607	Unavailable	558	0	0	None
-0	Head	608	Unavailable	559	0	0	None
-0	Head	609	Unavailable	560	0	0	None
-0	Head	610	Unavailable	561	0	0	None
-0	Head	611	Unavailable	562	0	0	None
-0	Head	612	Unavailable	563	0	0	None
-0	Head	613	Unavailable	564	0	0	None
-0	Head	614	Unavailable	565	0	0	None
-0	Head	615	Unavailable	566	0	0	None
-0	Head	616	Unavailable	567	0	0	None
-0	Head	617	Unavailable	568	0	0	None
-0	Head	618	Unavailable	569	0	0	None
-0	Head	619	Unavailable	570	0	0	None
-0	Head	620	Unavailable	571	0	0	None
-0	Head	621	Unavailable	572	0	0	None
-0	Head	622	Unavailable	573	0	0	None
-0	Head	623	Unavailable	574	0	0	None
+0	Head	595	درع رأس فيسبويد سميك+	546	0	8	pl007_0001
+0	Head	596	درع رأس هورنتور سميك+	547	0	8	pl017_0001
+0	Head	597	درع رأس وولغ سميك+	548	0	8	pl102_0000
+0	Head	599	درع رأس جاغراس سميك+	550	0	8	pl008_0001
+0	Head	600	درع رأس تسيتسي سميك+	551	0	8	pl023_0001
+0	Head	601	درع رأس غيروس سميك+	552	0	8	pl022_0001
+0	Head	602	درع رأس دودوغما سميك+	553	0	8	pl039_0001
+0	Head	603	درع رأس كولو سميك+	554	0	8	pl009_0001
+0	Head	604	درع رأس بوكي سميك+	555	0	8	pl010_0001
+0	Head	605	درع رأس بوكي مرجاني سميك+	556	0	8	pl010_0101
+0	Head	606	درع رأس باروث سميك+	557	0	8	pl012_0001
+0	Head	607	درع رأس جيورا سميك+	558	0	8	pl011_0001
+0	Head	608	درع رأس بيو سميك+	559	0	8	pl110_0000
+0	Head	609	درع رأس كاداتشي سميك+	560	0	8	pl013_0001
+0	Head	610	درع رأس كاداتشي ثعباني سميك+	561	0	8	pl013_0101
+0	Head	611	درع رأس بنبارو<ICON ALPHA>+ سميك	562	0	8	pl084_0000
+0	Head	612	درع رأس بنبارو<ICON BETA>+ سميك	563	0	8	pl084_0010
+0	Head	613	درع رأس أنجا<ICON ALPHA>+ سميك	564	0	8	pl020_0001
+0	Head	614	درع رأس أنجا<ICON BETA>+ سميك	565	0	8	pl020_0011
+0	Head	615	درع رأس أنجا رعدي<ICON ALPHA>+ سميك	566	0	10	pl020_0101
+0	Head	616	درع رأس أنجا رعدي<ICON BETA>+ سميك	567	0	10	pl020_0111
+0	Head	617	درع رأس راثيان<ICON ALPHA>+ سميك	568	0	8	pl021_0001
+0	Head	618	درع رأس راثيان<ICON BETA>+ سميك	569	0	8	pl021_0011
+0	Head	619	درع رأس قلب راث<ICON ALPHA>+ سميك	570	0	8	pl021_0101
+0	Head	620	درع رأس قلب راث<ICON BETA>+ سميك	571	0	8	pl021_0111
+0	Head	621	درع رأس لومو سميك+	572	0	8	pl024_0001
+0	Head	622	درع رأس طيف لومو سميك+	573	0	8	pl024_0101
+0	Head	623	درع رأس رادوبان سميك+	574	0	8	pl028_0001
 0	Head	624	عتاد رأس تحفة فنية سميك	575	0	9	pl091_0000
-0	Head	625	Unavailable	674	0	0	None
-0	Head	626	Unavailable	576	0	0	None
-0	Head	627	Unavailable	577	0	0	None
-0	Head	628	Unavailable	578	0	0	None
-0	Head	629	Unavailable	579	0	0	None
-0	Head	630	Unavailable	580	0	0	None
-0	Head	631	Unavailable	581	0	0	None
-0	Head	632	Unavailable	582	0	0	None
-0	Head	633	Unavailable	583	0	0	None
-0	Head	634	Unavailable	584	0	0	None
-0	Head	635	Unavailable	585	0	0	None
-0	Head	636	Unavailable	586	0	0	None
-0	Head	637	Unavailable	587	0	0	None
-0	Head	638	Unavailable	588	0	0	None
-0	Head	639	Unavailable	589	0	0	None
-0	Head	640	Unavailable	590	0	0	None
-0	Head	641	Unavailable	591	0	0	None
-0	Head	642	Unavailable	592	0	0	None
-0	Head	643	Unavailable	593	0	0	None
-0	Head	644	Unavailable	594	0	0	None
-0	Head	645	Unavailable	595	0	0	None
-0	Head	646	Unavailable	596	0	0	None
-0	Head	647	Unavailable	597	0	0	None
-0	Head	648	Unavailable	598	0	0	None
-0	Head	649	Unavailable	599	0	0	None
-0	Head	650	Unavailable	600	0	0	None
-0	Head	651	Unavailable	601	0	0	None
-0	Head	652	Unavailable	602	0	0	None
-0	Head	653	Unavailable	603	0	0	None
-0	Head	654	Unavailable	604	0	0	None
-0	Head	655	Unavailable	605	0	0	None
-0	Head	656	Unavailable	606	0	0	None
-0	Head	657	Unavailable	607	0	0	None
+0	Head	625	درع رأس تروس<ICON BETA>+ سميك	674	0	9	pl104_0010
+0	Head	626	درع رأس باريوث<ICON ALPHA>+ سميك	576	0	9	pl089_0000
+0	Head	627	درع رأس باريوث<ICON BETA>+ سميك	577	0	9	pl089_0010
+0	Head	628	درع رأس راذالوس<ICON ALPHA>+ سميك	578	0	9	pl033_0001
+0	Head	629	درع رأس راذالوس<ICON BETA>+ سميك	579	0	9	pl033_0011
+0	Head	630	درع رأس روح راث<ICON ALPHA>+ سميك	580	0	10	pl033_0101
+0	Head	631	درع رأس روح راث<ICON BETA>+ سميك	581	0	10	pl033_0111
+0	Head	632	درع رأس ديابلوس<ICON ALPHA>+ سميك	582	0	9	pl034_0001
+0	Head	633	درع رأس ديابلوس<ICON BETA>+ سميك	583	0	9	pl034_0011
+0	Head	634	درع رأس نيرو ديابلوس<ICON ALPHA>+ سميك	584	0	10	pl034_0101
+0	Head	635	درع رأس نيرو ديابلوس<ICON BETA>+ سميك	585	0	10	pl034_0111
+0	Head	636	درع رأس ليغيا<ICON ALPHA>+ سميك	586	0	9	pl027_0001
+0	Head	637	درع رأس ليغيا<ICON BETA>+ سميك	587	0	9	pl027_0011
+0	Head	638	درع رأس ليغيا الصارخ<ICON ALPHA>+ سميك	588	0	10	pl027_0500
+0	Head	639	درع رأس ليغيا الصارخ<ICON BETA>+ سميك	589	0	10	pl027_0510
+0	Head	640	درع رأس أودوغارون<ICON ALPHA>+ سميك	590	0	9	pl029_0001
+0	Head	641	درع رأس أودوغارون<ICON BETA>+ سميك	591	0	9	pl029_0011
+0	Head	642	درع رأس غارون الموت<ICON ALPHA>+ سميك	592	0	10	pl029_0101
+0	Head	643	درع رأس غارون الموت<ICON BETA>+ سميك	593	0	10	pl029_0111
+0	Head	644	درع رأس لافاسيوث سميك+	594	0	9	pl040_0001
+0	Head	645	درع رأس أوراغان سميك+	595	0	9	pl041_0001
+0	Head	646	درع رأس نارغاكوغا<ICON ALPHA>+ سميك	596	0	9	pl080_0000
+0	Head	647	درع رأس نارغاكوغا<ICON BETA>+ سميك	597	0	9	pl080_0010
+0	Head	648	درع رأس غلافنيوس<ICON ALPHA>+ سميك	598	0	9	pl081_0000
+0	Head	649	درع رأس غلافنيوس<ICON BETA>+ سميك	599	0	9	pl081_0010
+0	Head	650	درع رأس غلافنيوس حمضي<ICON ALPHA>+ سميك	600	0	10	pl081_0100
+0	Head	651	درع رأس غلافنيوس حمضي<ICON BETA>+ سميك	601	0	10	pl081_0110
+0	Head	652	درع رأس براكيديوس<ICON ALPHA>+ سميك	602	0	9	pl082_0000
+0	Head	653	درع رأس براكيديوس<ICON BETA>+ سميك	603	0	9	pl082_0010
+0	Head	654	درع رأس تغريكس<ICON ALPHA>+ سميك	604	0	9	pl083_0000
+0	Head	655	درع رأس تغريكس<ICON BETA>+ سميك	605	0	9	pl083_0010
+0	Head	656	درع رأس زئير ريكس<ICON ALPHA>+	606	0	10	pl083_0100
+0	Head	657	درع رأس زئير ريكس<ICON BETA>+	607	0	10	pl083_0110
 0	Head	658	عتاد رأس حزام أسود سميك	608	0	10	pl093_0000
-0	Head	659	Unavailable	609	0	0	None
-0	Head	660	Unavailable	610	0	0	None
-0	Head	661	Unavailable	611	0	0	None
-0	Head	662	Unavailable	612	0	0	None
-0	Head	663	Unavailable	613	0	0	None
-0	Head	664	Unavailable	614	0	0	None
-0	Head	665	Unavailable	615	0	0	None
-0	Head	666	Unavailable	616	0	0	None
-0	Head	667	Unavailable	617	0	0	None
-0	Head	668	Unavailable	618	0	0	None
-0	Head	669	Unavailable	619	0	0	None
-0	Head	670	Unavailable	620	0	0	None
-0	Head	671	Unavailable	621	0	0	None
-0	Head	672	Unavailable	622	0	0	None
-0	Head	673	Unavailable	623	0	0	None
-0	Head	674	Unavailable	624	0	0	None
-0	Head	675	Unavailable	625	0	0	None
+0	Head	659	درع رأس كبرياء<ICON ALPHA>+ سميك	609	0	10	pl042_0500
+0	Head	660	درع رأس كبرياء<ICON BETA>+ سميك	610	0	10	pl042_0510
+0	Head	661	درع رأس شرِه<ICON ALPHA>+ سميك	611	0	10	pl050_0500
+0	Head	662	درع رأس شرِه<ICON BETA>+ سميك	612	0	10	pl050_0510
+0	Head	663	درع رأس حارس الصقيع<ICON ALPHA>+ سميك	613	0	11	pl085_0000
+0	Head	664	درع رأس حارس الصقيع<ICON BETA>+ سميك	614	0	11	pl085_0010
+0	Head	665	درع رأس فيلشرود<ICON ALPHA>+ سميك	615	0	11	pl032_0500
+0	Head	666	درع رأس فيلشرود<ICON BETA>+ سميك	616	0	11	pl032_0510
+0	Head	667	درع رأس تيوسترا<ICON ALPHA>+ سميك	617	0	11	pl046_0001
+0	Head	668	درع رأس تيوسترا<ICON BETA>+ سميك	618	0	11	pl046_0011
+0	Head	669	درع رأس كوشالا<ICON ALPHA>+ سميك	619	0	11	pl047_0001
+0	Head	670	درع رأس كوشالا<ICON BETA>+ سميك	620	0	11	pl047_0011
+0	Head	671	درع رأس كيرين<ICON ALPHA>+ سميك	621	0	11	pl035_0001
+0	Head	672	درع رأس كيرين<ICON BETA>+ سميك	622	0	11	pl035_0011
+0	Head	673	درع رأس مجس<ICON ALPHA>+ سميك	623	0	11	pl086_0000
+0	Head	674	درع رأس مجس<ICON BETA>+ سميك	624	0	11	pl086_0010
+0	Head	675	درع رأس قصر النقابة سميك+	625	0	10	pl094_0000
 0	Head	676	حلية بهلوان سميكة	626	0	10	pl095_0000
 0	Head	677	حلية استعراضي سميكة	627	0	11	pl095_0010
-0	Head	678	Unavailable	628	0	0	None
-0	Head	679	Unavailable	629	0	0	None
-0	Head	680	Unavailable	630	0	0	None
-0	Head	681	Unavailable	631	0	0	None
-0	Head	682	Unavailable	632	0	0	None
-0	Head	683	Unavailable	633	0	0	None
-0	Head	684	Unavailable	634	0	0	None
-0	Head	685	Unavailable	635	0	0	None
-0	Head	686	Unavailable	636	0	0	None
-0	Head	687	Unavailable	637	0	0	None
-0	Head	688	Unavailable	638	0	0	None
-0	Head	689	Unavailable	639	0	0	None
-0	Head	690	Unavailable	640	0	0	None
-0	Head	691	Unavailable	641	0	0	None
-0	Head	692	Unavailable	642	0	0	None
-0	Head	693	Unavailable	643	0	0	None
-0	Head	694	Unavailable	644	0	0	None
-0	Head	695	Unavailable	645	0	0	None
-0	Head	696	Unavailable	646	0	0	None
-0	Head	697	Unavailable	647	0	0	None
-0	Head	698	Unavailable	648	0	0	None
-0	Head	699	Unavailable	649	0	0	None
-0	Head	700	Unavailable	650	0	0	None
-0	Head	701	Unavailable	651	0	0	None
-0	Head	702	Unavailable	652	0	0	None
-0	Head	703	Unavailable	653	0	0	None
-0	Head	704	Unavailable	654	0	0	None
-0	Head	705	Unavailable	655	0	0	None
-0	Head	706	Unavailable	656	0	0	None
-0	Head	707	Unavailable	657	0	0	None
-0	Head	708	Unavailable	658	0	0	None
-0	Head	709	Unavailable	659	0	0	None
-0	Head	710	Unavailable	660	0	0	None
-0	Head	711	Unavailable	661	0	0	None
-0	Head	712	Unavailable	662	0	0	None
-0	Head	713	Unavailable	663	0	0	None
-0	Head	714	Unavailable	664	0	0	None
-0	Head	716	Unavailable	666	0	0	None
+0	Head	678	درع رأس شارا<ICON ALPHA>+ سميك	628	0	11	pl088_0000
+0	Head	679	درع رأس شارا<ICON BETA>+ سميك	629	0	11	pl088_0010
+0	Head	680	درع رأس غاروغا<ICON ALPHA>+ سميك	630	0	10	pl108_0000
+0	Head	681	درع رأس غاروغا<ICON BETA>+ سميك	631	0	10	pl108_0010
+0	Head	682	درع رأس زينغر<ICON ALPHA>+ سميك	632	0	10	pl107_0000
+0	Head	683	درع رأس زينغر<ICON BETA>+ سميك	633	0	10	pl107_0010
+0	Head	684	درع رأس القمر الذهبي<ICON ALPHA>+ سميك	634	0	11	pl021_0200
+0	Head	685	درع رأس القمر الذهبي<ICON BETA>+ سميك	635	0	11	pl021_0210
+0	Head	686	درع رأس الشمس الفضية<ICON ALPHA>+ سميك	636	0	11	pl033_0200
+0	Head	687	درع رأس الشمس الفضية<ICON BETA>+ سميك	637	0	11	pl033_0210
+0	Head	688	درع رأس لوناسترا<ICON ALPHA>+ سميك	638	0	11	pl051_0001
+0	Head	689	درع رأس لوناسترا<ICON BETA>+ سميك	639	0	11	pl051_0011
+0	Head	690	درع رأس الضَرُوس<ICON ALPHA>+ سميك	640	0	11	pl030_0500
+0	Head	691	درع رأس الضَرُوس<ICON BETA>+ سميك	641	0	11	pl030_0510
+0	Head	692	درع رأس عمل النقابة سميك+	642	0	11	pl092_0000
+0	Head	693	درع رأس راجانغ<ICON ALPHA>+ سميك	643	0	10	pl109_0000
+0	Head	694	درع رأس راجانغ<ICON BETA>+ سميك	644	0	10	pl109_0010
+0	Head	695	درع رأس جهنمي<ICON ALPHA>+ سميك	645	0	10	pl107_0100
+0	Head	696	درع رأس جهنمي<ICON BETA>+ سميك	646	0	10	pl107_0110
+0	Head	697	درع رأس صافي<ICON ALPHA>+ سميك	647	0	11	pl087_0000
+0	Head	698	درع رأس صافي<ICON BETA>+ سميك	648	0	11	pl087_0010
+0	Head	699	درع رأس راجانغ الغاضب<ICON ALPHA>+ سميك	649	0	11	pl109_0500
+0	Head	700	درع رأس راجانغ الغاضب<ICON BETA>+ سميك	650	0	11	pl109_0510
+0	Head	701	درع رأس براكيديوم<ICON ALPHA>+ سميك	651	0	11	pl082_0500
+0	Head	702	درع رأس براكيديوم<ICON BETA>+ سميك	652	0	11	pl082_0510
+0	Head	703	درع رأس أنياب الصقيع<ICON ALPHA>+سميك	653	0	10	pl089_0500
+0	Head	704	درع رأس أنياب الصقيع<ICON BETA>+سميك	654	0	10	pl089_0510
+0	Head	705	درع رأس إسكادورا<ICON ALPHA>+ سميك	655	0	11	pl052_0000
+0	Head	706	درع رأس إسكادورا<ICON BETA>+ سميك	656	0	11	pl052_0010
+0	Head	707	درع رأس تنين<ICON ALPHA>+ سميك	657	0	11	pl129_0000
+0	Head	708	درع رأس تنين<ICON BETA>+ سميك	658	0	11	pl129_0010
+0	Head	709	درع رأس كولف<ICON ALPHA>+ سميك	659	0	11	pl049_0001
+0	Head	710	درع رأس كولف<ICON BETA>+ سميك	660	0	11	pl049_0011
+0	Head	711	درع رأس قماش تغطية التنين سميك	661	0	11	pl100_0000
+0	Head	712	درع رأس أذني بشري تنين سميك	662	0	8	pl101_0000
+0	Head	713	درع رأس البطريق المنفوش سميك	663	0	8	pl098_0000
+0	Head	714	درع رأس ينبوع اللؤلؤ سميك	664	0	8	pl113_0000
+0	Head	716	درع رأس عصر اللازورد سميك	666	0	11	pl072_0001
 0	Head	717	Unavailable	667	0	0	None
-0	Head	718	Unavailable	668	0	0	None
-0	Head	719	Unavailable	669	0	0	None
-0	Head	720	Unavailable	670	0	0	None
+0	Head	718	HARDUMMY	668	0	11	pl068_0020
+0	Head	719	درع رأس حارس الصقيع<ICON GAMMA>+ سميك	669	0	11	pl085_0020
+0	Head	720	درع رأس مجس<ICON GAMMA>+ سميك	670	0	11	pl086_0020
 0	Head	721	Unavailable	671	0	0	None
 0	Head	725	Unavailable	676	0	0	None
 0	Head	726	Unavailable	677	0	0	None
@@ -805,8 +805,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	155	صدر بذلة المهرجان السميك	153	0	3	pl078_0000
 1	Body	156	Unavailable	158	2	0	pl001_0000
 1	Body	299	HARDUMMY	154	0	7	pl068_0000
-1	Body	291	HARDUMMY	155	0	7	pl069_0000
-1	Body	292	HARDUMMY	156	0	7	pl070_0000
+1	Body	291	صدر Ryu السميك	155	0	7	pl069_0000
+1	Body	292	عتاد صدر Sakura السميك	156	0	7	pl070_0000
 1	Body	144	Unavailable	157	2	0	pl001_0000
 1	Body	297	صدر بايك السميك	159	0	7	pl120_0000
 1	Body	158	Unavailable	160	2	0	pl001_0000
@@ -847,9 +847,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	223	جلد زوراه<ICON GAMMA>	213	72	7	pl038_0020
 1	Body	224	جلد زينوجيفا<ICON GAMMA>	214	72	7	pl045_0020
 1	Body	225	HARDUMMY	215	46	4	pl068_0000
-1	Body	226	HARDUMMY	216	12	1	pl069_0000
-1	Body	227	HARDUMMY	217	60	6	pl069_0000
-1	Body	228	HARDUMMY	218	50	5	pl070_0000
+1	Body	226	رداء Ryu للكاراتيه	216	12	1	pl069_0000
+1	Body	227	زي كاراتيه Ryu<ICON ALPHA>	217	60	6	pl069_0000
+1	Body	228	زي عمل Sakura<ICON ALPHA>	218	50	5	pl070_0000
 1	Body	229	درع سيد نجوم لازوردي<ICON ALPHA>	219	56	6	pl072_0000
 1	Body	230	معطف دانتي<ICON ALPHA>	220	64	7	pl071_0000
 1	Body	231	درع الإمبراطورة<ICON ALPHA>	221	70	7	pl051_0000
@@ -996,7 +996,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	443	سترة كيرين<ICON BETA>+	393	154	11	pl035_0011
 1	Body	444	عباءة مجس<ICON ALPHA>+	394	158	11	pl086_0000
 1	Body	445	عباءة مجس<ICON BETA>+	395	158	11	pl086_0010
-1	Body	446	Unavailable	396	0	0	None
+1	Body	446	درع صدر تروس<ICON ALPHA>+ سميك	396	0	9	pl104_0000
 1	Body	447	صدر باروث السميك	397	0	4	pl012_0000
 1	Body	448	درع قصر النقابة<ICON ALPHA>+	398	154	10	pl094_0000
 1	Body	449	درع قصر النقابة<ICON BETA>+	399	154	10	pl094_0000
@@ -1044,7 +1044,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	497	صدر لومو سميك	447	0	4	pl024_0000
 1	Body	498	درع جسد الشغوف<ICON ALPHA>+	448	156	9	pl125_0000
 1	Body	499	صدر سميك<ICON ALPHA>لراثيان	449	0	4	pl021_0000
-1	Body	500	Unavailable	450	0	0	None
+1	Body	500	عباءة العفريت السيد<ICON ALPHA>+	450	162	10	pl126_0000
 1	Body	501	صدر سميك<ICON BETA>لراثيان	451	0	4	pl021_0010
 1	Body	502	صديري أولونغ<ICON ALPHA>+	452	120	8	pl127_0000
 1	Body	503	صدر سميك<ICON ALPHA>لرادوبان	453	0	5	pl028_0000
@@ -1052,7 +1052,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	505	صدر سميك<ICON BETA>لرادوبان	455	0	5	pl028_0010
 1	Body	506	درع صدر وردي سميك	456	0	9	pl124_0000
 1	Body	507	درع صدر الشغوف	457	0	9	pl125_0000
-1	Body	508	Unavailable	458	0	0	None
+1	Body	508	درع صدر عفريت سيد السميك	458	0	10	pl126_0000
 1	Body	509	صدر أولونغ السميك	459	0	8	pl127_0000
 1	Body	510	صدر أسترال السميك	460	0	8	pl128_0000
 1	Body	511	معدن قوي لصدر سميك	461	0	5	pl025_0000
@@ -1065,19 +1065,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	522	صندوق الفارس الفضي سميك	472	0	6	pl123_0000
 1	Body	523	HARDUMMY	473	132	11	pl068_0010
 1	Body	524	عباءة مجس<ICON GAMMA>+	474	176	11	pl086_0020
-1	Body	525	HARDUMMY	475	0	7	pl072_0000
-1	Body	526	HARDUMMY	476	170	11	pl072_0001
-1	Body	527	Unavailable	477	0	0	None
+1	Body	525	صدر سيد نجوم لازوردي سميك	475	0	7	pl072_0000
+1	Body	526	هاوري عصر اللازوردي<ICON ALPHA>+	476	170	11	pl072_0001
+1	Body	527	درع حارس الصقيع<ICON GAMMA>+	477	180	11	pl085_0020
 1	Body	528	درع أنياب الصقيع<ICON ALPHA>+	478	162	10	pl089_0500
 1	Body	529	درع أنياب الصقيع<ICON BETA>+	479	162	10	pl089_0510
-1	Body	530	Unavailable	480	0	0	None
-1	Body	531	Unavailable	481	0	0	None
+1	Body	530	جلد تنين<ICON ALPHA>+	480	180	11	pl129_0000
+1	Body	531	جلد تنين<ICON BETA>+	481	180	11	pl129_0010
 1	Body	532	HARDUMMY	482	160	11	pl068_0020
 1	Body	533	Unavailable	483	0	0	None
 1	Body	534	عتاد جسد ليون <ICON ALPHA>+	484	150	11	pl130_0000
 1	Body	535	عتاد جسد كلير <ICON ALPHA>+	485	150	11	pl131_0000
-1	Body	536	Unavailable	486	0	0	None
-1	Body	537	Unavailable	487	0	0	None
+1	Body	536	درع صدر ليون سميك+	486	0	11	pl130_0000
+1	Body	537	درع صدر كلير سميك+	487	0	11	pl131_0000
 1	Body	539	صدر بارنوس السميك	489	0	4	pl016_0000
 1	Body	540	صدر دودوغما السميك	490	0	4	pl039_0000
 1	Body	541	صدر إنغوت السميك	491	0	5	pl031_0000
@@ -1134,127 +1134,127 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	592	صدر كولف<ICON ALPHA>السميك	542	0	7	pl049_0000
 1	Body	593	صدر كولف<ICON BETA>السميك	543	0	7	pl049_0010
 1	Body	594	صدر كولف<ICON GAMMA>السميك	544	0	7	pl049_0020
-1	Body	595	Unavailable	546	0	0	None
-1	Body	596	Unavailable	547	0	0	None
-1	Body	598	Unavailable	549	0	0	None
-1	Body	599	Unavailable	550	0	0	None
-1	Body	600	Unavailable	551	0	0	None
-1	Body	601	Unavailable	552	0	0	None
-1	Body	602	Unavailable	553	0	0	None
-1	Body	603	Unavailable	554	0	0	None
-1	Body	604	Unavailable	555	0	0	None
-1	Body	605	Unavailable	556	0	0	None
-1	Body	606	Unavailable	557	0	0	None
-1	Body	607	Unavailable	558	0	0	None
-1	Body	608	Unavailable	559	0	0	None
-1	Body	609	Unavailable	560	0	0	None
-1	Body	610	Unavailable	561	0	0	None
-1	Body	611	Unavailable	562	0	0	None
-1	Body	612	Unavailable	563	0	0	None
-1	Body	613	Unavailable	564	0	0	None
-1	Body	614	Unavailable	565	0	0	None
-1	Body	615	Unavailable	566	0	0	None
-1	Body	616	Unavailable	567	0	0	None
-1	Body	617	Unavailable	568	0	0	None
-1	Body	618	Unavailable	569	0	0	None
-1	Body	619	Unavailable	570	0	0	None
-1	Body	620	Unavailable	571	0	0	None
-1	Body	621	Unavailable	572	0	0	None
-1	Body	622	Unavailable	573	0	0	None
-1	Body	623	Unavailable	574	0	0	None
+1	Body	595	درع صدر فيسبويد سميك+	546	0	8	pl007_0001
+1	Body	596	درع صدر هورنتور سميك+	547	0	8	pl017_0001
+1	Body	598	درع صدر كورتوس سميك+	549	0	8	pl103_0000
+1	Body	599	درع صدر جاغراس سميك+	550	0	8	pl008_0001
+1	Body	600	درع صدر تسيتسي سميك+	551	0	8	pl023_0001
+1	Body	601	درع صدر غيروس سميك+	552	0	8	pl022_0001
+1	Body	602	درع صدر دودوغما سميك+	553	0	8	pl039_0001
+1	Body	603	درع صدر كولو سميك+	554	0	8	pl009_0001
+1	Body	604	درع صدر بوكي سميك+	555	0	8	pl010_0001
+1	Body	605	درع صدر بوكي مرجاني سميك+	556	0	8	pl010_0101
+1	Body	606	درع صدر باروث سميك+	557	0	8	pl012_0001
+1	Body	607	درع صدر جيورا سميك+	558	0	8	pl011_0001
+1	Body	608	درع صدر بيو سميك+	559	0	8	pl110_0000
+1	Body	609	درع صدر كاداتشي سميك+	560	0	8	pl013_0001
+1	Body	610	درع صدر كاداتشي ثعباني سميك+	561	0	8	pl013_0101
+1	Body	611	درع صدر بنبارو<ICON ALPHA>+ سميك	562	0	8	pl084_0000
+1	Body	612	درع صدر بنبارو<ICON BETA>+ سميك	563	0	8	pl084_0010
+1	Body	613	درع صدر أنجا<ICON ALPHA>+ سميك	564	0	8	pl020_0001
+1	Body	614	درع صدر أنجا<ICON BETA>+ سميك	565	0	8	pl020_0011
+1	Body	615	درع صدر أنجا رعدي<ICON ALPHA>+ سميك	566	0	10	pl020_0101
+1	Body	616	درع صدر أنجا رعدي<ICON BETA>+ سميك	567	0	10	pl020_0111
+1	Body	617	درع صدر راثيان<ICON ALPHA>+ سميك	568	0	8	pl021_0001
+1	Body	618	درع صدر راثيان<ICON BETA>+ سميك	569	0	8	pl021_0011
+1	Body	619	درع صدر قلب راث<ICON ALPHA>سميك	570	0	8	pl021_0101
+1	Body	620	درع صدر قلب راث<ICON BETA>سميك	571	0	8	pl021_0111
+1	Body	621	درع صدر لومو سميك+	572	0	8	pl024_0001
+1	Body	622	درع صدر طيف لومو سميك+	573	0	8	pl024_0101
+1	Body	623	درع صدر رادوبان سميك+	574	0	8	pl028_0001
 1	Body	624	درع صدر تحفة فنية سميك	575	0	9	pl091_0000
-1	Body	625	Unavailable	674	0	0	None
-1	Body	626	Unavailable	576	0	0	None
-1	Body	627	Unavailable	577	0	0	None
-1	Body	628	Unavailable	578	0	0	None
-1	Body	629	Unavailable	579	0	0	None
-1	Body	630	Unavailable	580	0	0	None
-1	Body	631	Unavailable	581	0	0	None
-1	Body	632	Unavailable	582	0	0	None
-1	Body	633	Unavailable	583	0	0	None
-1	Body	634	Unavailable	584	0	0	None
-1	Body	635	Unavailable	585	0	0	None
-1	Body	636	Unavailable	586	0	0	None
-1	Body	637	Unavailable	587	0	0	None
-1	Body	638	Unavailable	588	0	0	None
-1	Body	639	Unavailable	589	0	0	None
-1	Body	640	Unavailable	590	0	0	None
-1	Body	641	Unavailable	591	0	0	None
-1	Body	642	Unavailable	592	0	0	None
-1	Body	643	Unavailable	593	0	0	None
-1	Body	644	Unavailable	594	0	0	None
-1	Body	645	Unavailable	595	0	0	None
-1	Body	646	Unavailable	596	0	0	None
-1	Body	647	Unavailable	597	0	0	None
-1	Body	648	Unavailable	598	0	0	None
-1	Body	649	Unavailable	599	0	0	None
-1	Body	650	Unavailable	600	0	0	None
-1	Body	651	Unavailable	601	0	0	None
-1	Body	652	Unavailable	602	0	0	None
-1	Body	653	Unavailable	603	0	0	None
-1	Body	654	Unavailable	604	0	0	None
-1	Body	655	Unavailable	605	0	0	None
-1	Body	656	Unavailable	606	0	0	None
-1	Body	657	Unavailable	607	0	0	None
+1	Body	625	درع صدر تروس<ICON BETA>+ سميك	674	0	9	pl104_0000
+1	Body	626	درع صدر باريوث<ICON ALPHA>+ سميك	576	0	9	pl089_0000
+1	Body	627	درع صدر باريوث<ICON BETA>+ سميك	577	0	9	pl089_0010
+1	Body	628	درع صدر راذالوس<ICON ALPHA>+ سميك	578	0	9	pl033_0001
+1	Body	629	درع صدر راذالوس<ICON BETA>+ سميك	579	0	9	pl033_0011
+1	Body	630	درع صدر روح راث<ICON ALPHA>+ سميك	580	0	10	pl033_0101
+1	Body	631	درع صدر روح راث<ICON BETA>+ سميك	581	0	10	pl033_0111
+1	Body	632	درع صدر ديابلوس<ICON ALPHA>+ سميك	582	0	9	pl034_0001
+1	Body	633	درع صدر ديابلوس<ICON BETA>+ سميك	583	0	9	pl034_0011
+1	Body	634	درع صدر نيرو ديابلوس<ICON ALPHA>+ سميك	584	0	10	pl034_0101
+1	Body	635	درع صدر نيرو ديابلوس<ICON BETA>+ سميك	585	0	10	pl034_0111
+1	Body	636	درع صدر ليغيا<ICON ALPHA>+ سميك	586	0	9	pl027_0001
+1	Body	637	درع صدر ليغيا<ICON BETA>+ سميك	587	0	9	pl027_0011
+1	Body	638	درع صدر ليغيا الصارخ<ICON ALPHA>+ سميك	588	0	10	pl027_0500
+1	Body	639	درع صدر ليغيا الصارخ<ICON BETA>+ سميك	589	0	10	pl027_0510
+1	Body	640	درع صدر أودوغارون<ICON ALPHA>+ سميك	590	0	9	pl029_0001
+1	Body	641	درع صدر أودوغارون<ICON BETA>+ سميك	591	0	9	pl029_0011
+1	Body	642	درع صدر غارون الموت<ICON ALPHA>+ سميك	592	0	10	pl029_0101
+1	Body	643	درع صدر غارون الموت<ICON BETA>+ سميك	593	0	10	pl029_0111
+1	Body	644	درع صدر لافاسيوث سميك+	594	0	9	pl040_0001
+1	Body	645	درع صدر أوراغان سميك+	595	0	9	pl041_0001
+1	Body	646	درع صدر نارغاكوغا<ICON ALPHA>+ سميك	596	0	9	pl080_0000
+1	Body	647	درع صدر نارغاكوغا<ICON BETA>+ سميك	597	0	9	pl080_0010
+1	Body	648	درع صدر غلافنيوس<ICON ALPHA>+ سميك	598	0	9	pl081_0000
+1	Body	649	درع صدر غلافنيوس<ICON BETA>+ سميك	599	0	9	pl081_0010
+1	Body	650	درع صدر غلافنيوس حمضي<ICON ALPHA>+ سميك	600	0	10	pl081_0100
+1	Body	651	درع صدر غلافنيوس حمضي<ICON BETA>+ سميك	601	0	10	pl081_0110
+1	Body	652	درع صدر براكيديوس<ICON ALPHA>+ سميك	602	0	9	pl082_0000
+1	Body	653	درع صدر براكيديوس<ICON BETA>+ سميك	603	0	9	pl082_0010
+1	Body	654	درع صدر تغريكس<ICON ALPHA>+ سميك	604	0	9	pl083_0000
+1	Body	655	درع صدر تغريكس<ICON BETA>+ سميك	605	0	9	pl083_0010
+1	Body	656	درع صدر زئير ريكس<ICON ALPHA>+ سميك	606	0	10	pl083_0100
+1	Body	657	درع صدر زئير ريكس<ICON BETA>+ سميك	607	0	10	pl083_0110
 1	Body	658	درع صدر حزام أسود سميك	608	0	10	pl093_0000
-1	Body	659	Unavailable	609	0	0	None
-1	Body	660	Unavailable	610	0	0	None
-1	Body	661	Unavailable	611	0	0	None
-1	Body	662	Unavailable	612	0	0	None
-1	Body	663	Unavailable	613	0	0	None
-1	Body	664	Unavailable	614	0	0	None
-1	Body	665	Unavailable	615	0	0	None
-1	Body	666	Unavailable	616	0	0	None
-1	Body	667	Unavailable	617	0	0	None
-1	Body	668	Unavailable	618	0	0	None
-1	Body	669	Unavailable	619	0	0	None
-1	Body	670	Unavailable	620	0	0	None
-1	Body	671	Unavailable	621	0	0	None
-1	Body	672	Unavailable	622	0	0	None
-1	Body	673	Unavailable	623	0	0	None
-1	Body	674	Unavailable	624	0	0	None
-1	Body	675	Unavailable	625	0	0	None
-1	Body	678	Unavailable	628	0	0	None
-1	Body	679	Unavailable	629	0	0	None
-1	Body	680	Unavailable	630	0	0	None
-1	Body	681	Unavailable	631	0	0	None
-1	Body	682	Unavailable	632	0	0	None
-1	Body	683	Unavailable	633	0	0	None
-1	Body	684	Unavailable	634	0	0	None
-1	Body	685	Unavailable	635	0	0	None
-1	Body	686	Unavailable	636	0	0	None
-1	Body	687	Unavailable	637	0	0	None
-1	Body	688	Unavailable	638	0	0	None
-1	Body	689	Unavailable	639	0	0	None
-1	Body	690	Unavailable	640	0	0	None
-1	Body	691	Unavailable	641	0	0	None
-1	Body	692	Unavailable	642	0	0	None
-1	Body	693	Unavailable	643	0	0	None
-1	Body	694	Unavailable	644	0	0	None
-1	Body	695	Unavailable	645	0	0	None
-1	Body	696	Unavailable	646	0	0	None
-1	Body	697	Unavailable	647	0	0	None
-1	Body	698	Unavailable	648	0	0	None
-1	Body	699	Unavailable	649	0	0	None
-1	Body	700	Unavailable	650	0	0	None
-1	Body	701	Unavailable	651	0	0	None
-1	Body	702	Unavailable	652	0	0	None
-1	Body	703	Unavailable	653	0	0	None
-1	Body	704	Unavailable	654	0	0	None
-1	Body	705	Unavailable	655	0	0	None
-1	Body	706	Unavailable	656	0	0	None
-1	Body	707	Unavailable	657	0	0	None
-1	Body	708	Unavailable	658	0	0	None
-1	Body	709	Unavailable	659	0	0	None
-1	Body	710	Unavailable	660	0	0	None
-1	Body	715	Unavailable	665	0	0	None
-1	Body	716	Unavailable	666	0	0	None
+1	Body	659	درع صدر كبرياء<ICON ALPHA>+ سميك	609	0	10	pl042_0500
+1	Body	660	درع صدر كبرياء<ICON BETA>+ سميك	610	0	10	pl042_0510
+1	Body	661	درع صدر شرِه<ICON ALPHA>+ سميك	611	0	10	pl050_0500
+1	Body	662	درع صدر شرِه<ICON BETA>+ سميك	612	0	10	pl050_0510
+1	Body	663	درع صدر حارس الصقيع<ICON ALPHA>+ سميك	613	0	11	pl085_0000
+1	Body	664	درع صدر حارس الصقيع<ICON BETA>+ سميك	614	0	11	pl085_0010
+1	Body	665	درع صدر فيلشرود<ICON ALPHA>+ سميك	615	0	11	pl032_0500
+1	Body	666	درع صدر فيلشرود<ICON BETA>+ سميك	616	0	11	pl032_0510
+1	Body	667	درع صدر تيوسترا<ICON ALPHA>+ سميك	617	0	11	pl046_0001
+1	Body	668	درع صدر تيوسترا<ICON BETA>+ سميك	618	0	11	pl046_0011
+1	Body	669	درع صدر كوشالا<ICON ALPHA>+ سميك	619	0	11	pl047_0001
+1	Body	670	درع صدر كوشالا<ICON BETA>+ سميك	620	0	11	pl047_0011
+1	Body	671	درع صدر كيرين<ICON ALPHA>+ سميك	621	0	11	pl035_0001
+1	Body	672	درع صدر كيرين<ICON BETA>+ سميك	622	0	11	pl035_0011
+1	Body	673	درع صدر مجس<ICON ALPHA>+ سميك	623	0	11	pl086_0000
+1	Body	674	درع صدر مجس<ICON BETA>+ سميك	624	0	11	pl086_0010
+1	Body	675	درع صدر قصر النقابة سميك+	625	0	10	pl094_0000
+1	Body	678	درع صدر شارا<ICON ALPHA>+ سميك	628	0	11	pl088_0000
+1	Body	679	درع صدر شارا<ICON BETA>+ سميك	629	0	11	pl088_0010
+1	Body	680	درع صدر غاروغا<ICON ALPHA>+ سميك	630	0	10	pl108_0000
+1	Body	681	درع صدر غاروغا<ICON BETA>+ سميك	631	0	10	pl108_0010
+1	Body	682	درع صدر زينغر<ICON ALPHA>+ سميك	632	0	10	pl107_0000
+1	Body	683	درع صدر زينغر<ICON BETA>+ سميك	633	0	10	pl107_0010
+1	Body	684	درع صدر القمر الذهبي<ICON ALPHA>+ سميك	634	0	11	pl021_0200
+1	Body	685	درع صدر القمر الذهبي<ICON BETA>+ سميك	635	0	11	pl021_0210
+1	Body	686	درع صدر الشمس الفضية<ICON ALPHA>+ سميك	636	0	11	pl033_0200
+1	Body	687	درع صدر الشمس الفضية<ICON BETA>+ سميك	637	0	11	pl033_0210
+1	Body	688	درع صدر لوناسترا<ICON ALPHA>+ سميك	638	0	11	pl051_0001
+1	Body	689	درع صدر لوناسترا<ICON BETA>+ سميك	639	0	11	pl051_0011
+1	Body	690	درع صدر الضَرُوس<ICON ALPHA>+ سميك	640	0	11	pl030_0500
+1	Body	691	درع صدر الضَرُوس<ICON BETA>+ سميك	641	0	11	pl030_0510
+1	Body	692	درع صدر عمل النقابة سميك+	642	0	11	pl092_0000
+1	Body	693	درع صدر راجانغ<ICON ALPHA>+ سميك	643	0	10	pl109_0000
+1	Body	694	درع صدر راجانغ<ICON BETA>+ سميك	644	0	10	pl109_0010
+1	Body	695	درع صدر جهنمي<ICON ALPHA>+ سميك	645	0	10	pl107_0100
+1	Body	696	درع صدر جهنمي<ICON BETA>+ سميك	646	0	10	pl107_0110
+1	Body	697	درع صدر صافي<ICON ALPHA>+ سميك	647	0	11	pl087_0000
+1	Body	698	درع صدر صافي<ICON BETA>+ سميك	648	0	11	pl087_0010
+1	Body	699	درع صدر راجانغ الغاضب<ICON ALPHA>+ سميك	649	0	11	pl109_0500
+1	Body	700	درع صدر راجانغ الغاضب<ICON BETA>+ سميك	650	0	11	pl109_0510
+1	Body	701	درع صدر براكيديوم<ICON ALPHA>+ سميك	651	0	11	pl082_0500
+1	Body	702	درع صدر براكيديوم<ICON BETA>+ سميك	652	0	11	pl082_0510
+1	Body	703	درع صدر أنياب الصقيع<ICON ALPHA>+سميك	653	0	10	pl089_0500
+1	Body	704	درع صدر أنياب الصقيع<ICON BETA>+سميك	654	0	10	pl089_0510
+1	Body	705	درع صدر إسكادورا<ICON ALPHA>+ سميك	655	0	11	pl052_0000
+1	Body	706	درع صدر إسكادورا<ICON BETA>+ سميك	656	0	11	pl052_0010
+1	Body	707	درع صدر تنين<ICON ALPHA>+ سميك	657	0	11	pl129_0000
+1	Body	708	درع صدر تنين<ICON BETA>+ سميك	658	0	11	pl129_0010
+1	Body	709	درع صدر كولف<ICON ALPHA>+ سميك	659	0	11	pl049_0001
+1	Body	710	درع صدر كولف<ICON BETA>+ سميك	660	0	11	pl049_0011
+1	Body	715	درع صدر هيكل التقوية<ICON ALPHA>+ سميك	665	0	10	pl115_0000
+1	Body	716	درع صدر عصر اللازورد سميك	666	0	11	pl072_0001
 1	Body	717	Unavailable	667	0	0	None
-1	Body	718	Unavailable	668	0	0	None
-1	Body	719	Unavailable	669	0	0	None
-1	Body	720	Unavailable	670	0	0	None
+1	Body	718	HARDUMMY	668	0	11	pl068_0020
+1	Body	719	درع صدر حارس الصقيع<ICON GAMMA>+ سميك	669	0	11	pl085_0020
+1	Body	720	درع صدر مجس<ICON GAMMA>+ سميك	670	0	11	pl086_0020
 1	Body	721	Unavailable	671	0	0	None
-1	Body	722	Unavailable	672	0	0	None
+1	Body	722	درع صدر هيكل تقوية<ICON GAMMA>+ سميك	672	0	11	pl115_0001
 1	Body	723	زي جسد<ICON ALPHA> السميك الداخلي	673	0	11	pl500_0000
 1	Body	724	زي جسد<ICON BETA> السميك الداخلي	675	0	11	pl501_0000
 1	Body	725	Unavailable	676	0	0	None
@@ -1420,8 +1420,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	146	درع أذرع أوريون السميك	150	0	3	pl077_0000
 2	Arm	153	أذرع بذلة المهرجان السميكة	153	0	3	pl078_0000
 2	Arm	299	HARDUMMY	154	0	7	pl068_0000
-2	Arm	291	HARDUMMY	155	0	7	pl069_0000
-2	Arm	292	HARDUMMY	156	0	7	pl070_0000
+2	Arm	291	أذرع Ryu السميكة	155	0	7	pl069_0000
+2	Arm	292	درع أذرع Sakura السميك	156	0	7	pl070_0000
 2	Arm	141	Unavailable	177	2	0	pl001_0000
 2	Arm	142	Unavailable	179	2	0	pl001_0000
 2	Arm	143	Unavailable	180	2	0	pl001_0000
@@ -1465,9 +1465,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	223	مخالب زوراه<ICON GAMMA>	213	72	7	pl038_0020
 2	Arm	224	مخالب زينوجيفا<ICON GAMMA>	214	72	7	pl045_0020
 2	Arm	225	HARDUMMY	215	46	4	pl068_0000
-2	Arm	226	HARDUMMY	216	12	1	pl069_0000
-2	Arm	227	HARDUMMY	217	60	6	pl069_0000
-2	Arm	228	HARDUMMY	218	50	5	pl070_0000
+2	Arm	226	درع أذرع Ryu	216	12	1	pl069_0000
+2	Arm	227	أذرع Ryu<ICON ALPHA>	217	60	6	pl069_0000
+2	Arm	228	أذرع Sakura<ICON ALPHA>	218	50	5	pl070_0000
 2	Arm	229	قفاز سيد نجوم لازوردي<ICON ALPHA>	219	56	6	pl072_0000
 2	Arm	230	قفازات دانتي<ICON ALPHA>	220	64	7	pl071_0000
 2	Arm	231	درع ساعد الإمبراطورة<ICON ALPHA>	221	70	7	pl051_0000
@@ -1613,7 +1613,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	443	درع ذراع كيرين طويل<ICON BETA>+	393	154	11	pl035_0011
 2	Arm	444	قفازات مجس<ICON ALPHA>+	394	158	11	pl086_0000
 2	Arm	445	قفازات مجس<ICON BETA>+	395	158	11	pl086_0010
-2	Arm	446	Unavailable	396	0	0	None
+2	Arm	446	درع أذرع تروس<ICON ALPHA>+ سميك	396	0	9	pl104_0000
 2	Arm	447	أذرع باروث السميكة	397	0	4	pl012_0000
 2	Arm	448	دعامات قصر النقابة<ICON ALPHA>+	398	154	10	pl094_0000
 2	Arm	449	دعامات قصر النقابة<ICON BETA>+	399	154	10	pl094_0000
@@ -1661,7 +1661,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	497	أذرع لومو السميكة	447	0	4	pl024_0000
 2	Arm	498	درع ذراع الشغوف<ICON ALPHA>+	448	156	9	pl125_0000
 2	Arm	499	أذرع راثيان<ICON ALPHA>السميكة	449	0	4	pl021_0000
-2	Arm	500	Unavailable	450	0	0	None
+2	Arm	500	ذراع العفريت السيد السوداء<ICON ALPHA>+	450	162	10	pl126_0000
 2	Arm	501	أذرع راثيان<ICON BETA>السميكة	451	0	4	pl021_0010
 2	Arm	502	أكمام أولونغ<ICON ALPHA>+	452	120	8	pl127_0000
 2	Arm	503	أذرع رادوبان<ICON ALPHA>السميكة	453	0	5	pl028_0000
@@ -1669,7 +1669,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	505	أذرع رادوبان<ICON BETA>السميكة	455	0	5	pl028_0010
 2	Arm	506	درع أذرع وردي سميك	456	0	9	pl124_0000
 2	Arm	507	درع ذراع الشغوف	457	0	9	pl125_0000
-2	Arm	508	Unavailable	458	0	0	None
+2	Arm	508	أذرع العفريت السيد السميكة	458	0	10	pl126_0000
 2	Arm	509	أذرع أولونغ السميكة	459	0	8	pl127_0000
 2	Arm	510	أذرع أسترال السميكة	460	0	8	pl128_0000
 2	Arm	511	معدن قوي لأذرع سميكة	461	0	5	pl025_0000
@@ -1682,19 +1682,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	522	أذرع الفارس الفضي سميكة	472	0	6	pl123_0000
 2	Arm	523	HARDUMMY	473	132	11	pl068_0010
 2	Arm	524	قفازات مجس<ICON GAMMA>+	474	176	11	pl086_0020
-2	Arm	525	HARDUMMY	475	0	7	pl072_0000
-2	Arm	526	HARDUMMY	476	170	11	pl072_0001
-2	Arm	527	Unavailable	477	0	0	None
+2	Arm	525	أذرع سيد نجوم لازوردي سميكة	475	0	7	pl072_0000
+2	Arm	526	أكمام عصر اللازوردي<ICON ALPHA>+	476	170	11	pl072_0001
+2	Arm	527	درع ساعد حارس الصقيع<ICON GAMMA>+	477	180	11	pl085_0020
 2	Arm	528	درع ساعد أنياب الصقيع<ICON ALPHA>+	478	162	10	pl089_0500
 2	Arm	529	درع ساعد أنياب الصقيع<ICON BETA>+	479	162	10	pl089_0510
-2	Arm	530	Unavailable	480	0	0	None
-2	Arm	531	Unavailable	481	0	0	None
+2	Arm	530	مخالب تنين<ICON ALPHA>+	480	180	11	pl129_0000
+2	Arm	531	مخالب تنين<ICON BETA>+	481	180	11	pl129_0010
 2	Arm	532	HARDUMMY	482	160	11	pl068_0020
 2	Arm	533	Unavailable	483	0	0	None
 2	Arm	534	عتاد ذراعي ليون <ICON ALPHA>+	484	150	11	pl130_0000
 2	Arm	535	عتاد ذراعي كلير <ICON ALPHA>+	485	150	11	pl131_0000
-2	Arm	536	Unavailable	486	0	0	None
-2	Arm	537	Unavailable	487	0	0	None
+2	Arm	536	درع أذرع ليون سميك+	486	0	11	pl130_0000
+2	Arm	537	درع أذرع كلير سميك+	487	0	11	pl131_0000
 2	Arm	540	أذرع دودوغما السميكة	490	0	4	pl039_0000
 2	Arm	541	أذرع إنغوت السميكة	491	0	5	pl031_0000
 2	Arm	542	أذرع قلب راث<ICON ALPHA>السميكة	492	0	5	pl021_0100
@@ -1750,126 +1750,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	592	أذرع كولف<ICON ALPHA>السميكة	542	0	7	pl049_0000
 2	Arm	593	أذرع كولف<ICON BETA>السميكة	543	0	7	pl049_0010
 2	Arm	594	أذرع كولف<ICON GAMMA>السميكة	544	0	7	pl049_0020
-2	Arm	595	Unavailable	546	0	0	None
-2	Arm	596	Unavailable	547	0	0	None
-2	Arm	599	Unavailable	550	0	0	None
-2	Arm	600	Unavailable	551	0	0	None
-2	Arm	601	Unavailable	552	0	0	None
-2	Arm	602	Unavailable	553	0	0	None
-2	Arm	603	Unavailable	554	0	0	None
-2	Arm	604	Unavailable	555	0	0	None
-2	Arm	605	Unavailable	556	0	0	None
-2	Arm	606	Unavailable	557	0	0	None
-2	Arm	607	Unavailable	558	0	0	None
-2	Arm	608	Unavailable	559	0	0	None
-2	Arm	609	Unavailable	560	0	0	None
-2	Arm	610	Unavailable	561	0	0	None
-2	Arm	611	Unavailable	562	0	0	None
-2	Arm	612	Unavailable	563	0	0	None
-2	Arm	613	Unavailable	564	0	0	None
-2	Arm	614	Unavailable	565	0	0	None
-2	Arm	615	Unavailable	566	0	0	None
-2	Arm	616	Unavailable	567	0	0	None
-2	Arm	617	Unavailable	568	0	0	None
-2	Arm	618	Unavailable	569	0	0	None
-2	Arm	619	Unavailable	570	0	0	None
-2	Arm	620	Unavailable	571	0	0	None
-2	Arm	621	Unavailable	572	0	0	None
-2	Arm	622	Unavailable	573	0	0	None
-2	Arm	623	Unavailable	574	0	0	None
+2	Arm	595	درع أذرع فيسبويد سميك+	546	0	8	pl007_0001
+2	Arm	596	درع أذرع هورنتور سميك+	547	0	8	pl017_0001
+2	Arm	599	درع أذرع جاغراس سميك+	550	0	8	pl008_0001
+2	Arm	600	درع أذرع تسيتسي سميك+	551	0	8	pl023_0001
+2	Arm	601	درع أذرع غيروس سميك+	552	0	8	pl022_0001
+2	Arm	602	درع أذرع دودوغما سميكة+	553	0	8	pl039_0001
+2	Arm	603	درع أذرع كولو سميك+	554	0	8	pl009_0001
+2	Arm	604	درع أذرع بوكي سميك+	555	0	8	pl010_0001
+2	Arm	605	درع أذرع بوكي مرجاني سميك+	556	0	8	pl010_0101
+2	Arm	606	درع أذرع باروث سميك+	557	0	8	pl012_0001
+2	Arm	607	درع أذرع جيورا سميك+	558	0	8	pl011_0001
+2	Arm	608	درع أذرع بيو سميك+	559	0	8	pl110_0000
+2	Arm	609	درع أذرع كاداتشي سميك+	560	0	8	pl013_0001
+2	Arm	610	درع أذرع كاداتشي ثعباني سميك+	561	0	8	pl013_0101
+2	Arm	611	درع أذرع بنبارو<ICON ALPHA>+ سميك	562	0	8	pl084_0000
+2	Arm	612	درع أذرع بنبارو<ICON BETA>+ سميك	563	0	8	pl084_0010
+2	Arm	613	درع أذرع أنجا<ICON ALPHA>+ سميك	564	0	8	pl020_0001
+2	Arm	614	درع أذرع أنجا<ICON BETA>+ سميك	565	0	8	pl020_0011
+2	Arm	615	درع أذرع أنجا رعدي<ICON ALPHA>+ سميك	566	0	10	pl020_0101
+2	Arm	616	درع أذرع أنجا رعدي<ICON BETA>+ سميك	567	0	10	pl020_0111
+2	Arm	617	درع أذرع راثيان<ICON ALPHA>+ سميك	568	0	8	pl021_0001
+2	Arm	618	درع أذرع راثيان<ICON BETA>+ سميك	569	0	8	pl021_0011
+2	Arm	619	درع أذرع قلب راث<ICON ALPHA>+ سميك	570	0	8	pl021_0101
+2	Arm	620	درع أذرع قلب راث<ICON BETA>+ سميك	571	0	8	pl021_0111
+2	Arm	621	درع أذرع لومو سميك+	572	0	8	pl024_0001
+2	Arm	622	درع أذرع طيف لومو سميك+	573	0	8	pl024_0101
+2	Arm	623	درع أذرع رادوبان سميك+	574	0	8	pl028_0001
 2	Arm	624	درع أذرع تحفة فنية سميك	575	0	9	pl091_0000
-2	Arm	625	Unavailable	674	0	0	None
-2	Arm	626	Unavailable	576	0	0	None
-2	Arm	627	Unavailable	577	0	0	None
-2	Arm	628	Unavailable	578	0	0	None
-2	Arm	629	Unavailable	579	0	0	None
-2	Arm	630	Unavailable	580	0	0	None
-2	Arm	631	Unavailable	581	0	0	None
-2	Arm	632	Unavailable	582	0	0	None
-2	Arm	633	Unavailable	583	0	0	None
-2	Arm	634	Unavailable	584	0	0	None
-2	Arm	635	Unavailable	585	0	0	None
-2	Arm	636	Unavailable	586	0	0	None
-2	Arm	637	Unavailable	587	0	0	None
-2	Arm	638	Unavailable	588	0	0	None
-2	Arm	639	Unavailable	589	0	0	None
-2	Arm	640	Unavailable	590	0	0	None
-2	Arm	641	Unavailable	591	0	0	None
-2	Arm	642	Unavailable	592	0	0	None
-2	Arm	643	Unavailable	593	0	0	None
-2	Arm	644	Unavailable	594	0	0	None
-2	Arm	645	Unavailable	595	0	0	None
-2	Arm	646	Unavailable	596	0	0	None
-2	Arm	647	Unavailable	597	0	0	None
-2	Arm	648	Unavailable	598	0	0	None
-2	Arm	649	Unavailable	599	0	0	None
-2	Arm	650	Unavailable	600	0	0	None
-2	Arm	651	Unavailable	601	0	0	None
-2	Arm	652	Unavailable	602	0	0	None
-2	Arm	653	Unavailable	603	0	0	None
-2	Arm	654	Unavailable	604	0	0	None
-2	Arm	655	Unavailable	605	0	0	None
-2	Arm	656	Unavailable	606	0	0	None
-2	Arm	657	Unavailable	607	0	0	None
+2	Arm	625	درع أذرع تروس<ICON BETA>+ سميك	674	0	9	pl104_0000
+2	Arm	626	درع أذرع باريوث<ICON ALPHA>+ سميك	576	0	9	pl089_0000
+2	Arm	627	درع أذرع باريوث<ICON BETA>+ سميك	577	0	9	pl089_0010
+2	Arm	628	درع أذرع راذالوس<ICON ALPHA>+ سميك	578	0	9	pl033_0001
+2	Arm	629	درع أذرع راذالوس<ICON BETA>+ سميك	579	0	9	pl033_0011
+2	Arm	630	درع أذرع روح راث<ICON ALPHA>+ سميك	580	0	10	pl033_0101
+2	Arm	631	درع أذرع روح راث<ICON BETA>+ سميك	581	0	10	pl033_0111
+2	Arm	632	درع أذرع ديابلوس<ICON ALPHA>+ سميك	582	0	9	pl034_0001
+2	Arm	633	درع أذرع ديابلوس<ICON BETA>+ سميك	583	0	9	pl034_0011
+2	Arm	634	درع أذرع نيرو ديابلوس<ICON ALPHA>+ سميك	584	0	10	pl034_0101
+2	Arm	635	درع أذرع نيرو ديابلوس<ICON BETA>+ سميك	585	0	10	pl034_0111
+2	Arm	636	درع أذرع ليغيا<ICON ALPHA>+ سميك	586	0	9	pl027_0001
+2	Arm	637	درع أذرع ليغيا<ICON BETA>+ سميك	587	0	9	pl027_0011
+2	Arm	638	درع أذرع ليغيا الصارخ<ICON ALPHA>+ سميك	588	0	10	pl027_0500
+2	Arm	639	درع أذرع ليغيا الصارخ<ICON BETA>+ سميك	589	0	10	pl027_0510
+2	Arm	640	درع أذرع أودوغارون<ICON ALPHA>+ سميك	590	0	9	pl029_0001
+2	Arm	641	درع أذرع أودوغارون<ICON BETA>+ سميك	591	0	9	pl029_0011
+2	Arm	642	درع أذرع غارون الموت<ICON ALPHA>+ سميك	592	0	10	pl029_0101
+2	Arm	643	درع أذرع غارون الموت<ICON BETA>+ سميك	593	0	10	pl029_0111
+2	Arm	644	درع أذرع لافاسيوث سميك+	594	0	9	pl040_0001
+2	Arm	645	درع أذرع أوراغان سميك+	595	0	9	pl041_0001
+2	Arm	646	درع أذرع نارغاكوغا<ICON ALPHA>+ سميك	596	0	9	pl080_0000
+2	Arm	647	درع أذرع نارغاكوغا<ICON BETA>+ سميك	597	0	9	pl080_0010
+2	Arm	648	درع أذرع غلافنيوس<ICON ALPHA>+ سميك	598	0	9	pl081_0000
+2	Arm	649	درع أذرع غلافنيوس<ICON BETA>+ سميك	599	0	9	pl081_0010
+2	Arm	650	درع أذرع غلافنيوس حمضي<ICON ALPHA>+ سميك	600	0	10	pl081_0100
+2	Arm	651	درع أذرع غلافنيوس حمضي<ICON BETA>+ سميك	601	0	10	pl081_0110
+2	Arm	652	درع أذرع براكيديوس<ICON ALPHA>+ سميك	602	0	9	pl082_0000
+2	Arm	653	درع أذرع براكيديوس<ICON BETA>+ سميك	603	0	9	pl082_0010
+2	Arm	654	درع أذرع تغريكس<ICON ALPHA>+ سميك	604	0	9	pl083_0000
+2	Arm	655	درع أذرع تغريكس<ICON BETA>+ سميك	605	0	9	pl083_0010
+2	Arm	656	درع أذرع زئير ريكس<ICON ALPHA>+ سميك	606	0	10	pl083_0100
+2	Arm	657	درع أذرع زئير ريكس<ICON BETA>+ سميك	607	0	10	pl083_0110
 2	Arm	658	درع أذرع حزام أسود سميك	608	0	10	pl093_0000
-2	Arm	659	Unavailable	609	0	0	None
-2	Arm	660	Unavailable	610	0	0	None
-2	Arm	661	Unavailable	611	0	0	None
-2	Arm	662	Unavailable	612	0	0	None
-2	Arm	663	Unavailable	613	0	0	None
-2	Arm	664	Unavailable	614	0	0	None
-2	Arm	665	Unavailable	615	0	0	None
-2	Arm	666	Unavailable	616	0	0	None
-2	Arm	667	Unavailable	617	0	0	None
-2	Arm	668	Unavailable	618	0	0	None
-2	Arm	669	Unavailable	619	0	0	None
-2	Arm	670	Unavailable	620	0	0	None
-2	Arm	671	Unavailable	621	0	0	None
-2	Arm	672	Unavailable	622	0	0	None
-2	Arm	673	Unavailable	623	0	0	None
-2	Arm	674	Unavailable	624	0	0	None
-2	Arm	675	Unavailable	625	0	0	None
-2	Arm	678	Unavailable	628	0	0	None
-2	Arm	679	Unavailable	629	0	0	None
-2	Arm	680	Unavailable	630	0	0	None
-2	Arm	681	Unavailable	631	0	0	None
-2	Arm	682	Unavailable	632	0	0	None
-2	Arm	683	Unavailable	633	0	0	None
-2	Arm	684	Unavailable	634	0	0	None
-2	Arm	685	Unavailable	635	0	0	None
-2	Arm	686	Unavailable	636	0	0	None
-2	Arm	687	Unavailable	637	0	0	None
-2	Arm	688	Unavailable	638	0	0	None
-2	Arm	689	Unavailable	639	0	0	None
-2	Arm	690	Unavailable	640	0	0	None
-2	Arm	691	Unavailable	641	0	0	None
-2	Arm	692	Unavailable	642	0	0	None
-2	Arm	693	Unavailable	643	0	0	None
-2	Arm	694	Unavailable	644	0	0	None
-2	Arm	695	Unavailable	645	0	0	None
-2	Arm	696	Unavailable	646	0	0	None
-2	Arm	697	Unavailable	647	0	0	None
-2	Arm	698	Unavailable	648	0	0	None
-2	Arm	699	Unavailable	649	0	0	None
-2	Arm	700	Unavailable	650	0	0	None
-2	Arm	701	Unavailable	651	0	0	None
-2	Arm	702	Unavailable	652	0	0	None
-2	Arm	703	Unavailable	653	0	0	None
-2	Arm	704	Unavailable	654	0	0	None
-2	Arm	705	Unavailable	655	0	0	None
-2	Arm	706	Unavailable	656	0	0	None
-2	Arm	707	Unavailable	657	0	0	None
-2	Arm	708	Unavailable	658	0	0	None
-2	Arm	709	Unavailable	659	0	0	None
-2	Arm	710	Unavailable	660	0	0	None
-2	Arm	715	Unavailable	665	0	0	None
-2	Arm	716	Unavailable	666	0	0	None
+2	Arm	659	درع أذرع كبرياء<ICON ALPHA>+ سميك	609	0	10	pl042_0500
+2	Arm	660	درع أذرع كبرياء<ICON BETA>+ سميك	610	0	10	pl042_0510
+2	Arm	661	درع أذرع شرِه<ICON ALPHA>+ سميك	611	0	10	pl050_0500
+2	Arm	662	درع أذرع شرِه<ICON BETA>+ سميك	612	0	10	pl050_0510
+2	Arm	663	درع أذرع حارس الصقيع<ICON ALPHA>+ سميك	613	0	11	pl085_0000
+2	Arm	664	درع أذرع حارس الصقيع<ICON BETA>+ سميك	614	0	11	pl085_0010
+2	Arm	665	درع أذرع فيلشرود<ICON ALPHA>+ سميك	615	0	11	pl032_0500
+2	Arm	666	درع أذرع فيلشرود<ICON BETA>+ سميك	616	0	11	pl032_0510
+2	Arm	667	درع أذرع تيوسترا<ICON ALPHA>+ سميك	617	0	11	pl046_0001
+2	Arm	668	درع أذرع تيوسترا<ICON BETA>+ سميك	618	0	11	pl046_0011
+2	Arm	669	درع أذرع كوشالا<ICON ALPHA>+ سميك	619	0	11	pl047_0001
+2	Arm	670	درع أذرع كوشالا<ICON BETA>+ سميك	620	0	11	pl047_0011
+2	Arm	671	درع أذرع كيرين<ICON ALPHA>+ سميك	621	0	11	pl035_0001
+2	Arm	672	درع أذرع كيرين<ICON BETA>+ سميك	622	0	11	pl035_0011
+2	Arm	673	درع أذرع مجس<ICON ALPHA>+ سميك	623	0	11	pl086_0000
+2	Arm	674	درع أذرع مجس<ICON BETA>+ سميك	624	0	11	pl086_0010
+2	Arm	675	درع أذرع قصر النقابة سميك+	625	0	10	pl094_0000
+2	Arm	678	درع أذرع شارا<ICON ALPHA>+ سميك	628	0	11	pl088_0000
+2	Arm	679	درع أذرع شارا<ICON BETA>+ سميك	629	0	11	pl088_0010
+2	Arm	680	درع أذرع غاروغا<ICON ALPHA>+ سميك	630	0	10	pl108_0000
+2	Arm	681	درع أذرع غاروغا<ICON BETA>+ سميك	631	0	10	pl108_0010
+2	Arm	682	درع أذرع زينغر<ICON ALPHA>+ سميك	632	0	10	pl107_0000
+2	Arm	683	درع أذرع زينغر<ICON BETA>+ سميك	633	0	10	pl107_0010
+2	Arm	684	درع أذرع القمر الذهبي<ICON ALPHA>+ سميك	634	0	11	pl021_0200
+2	Arm	685	درع أذرع القمر الذهبي<ICON BETA>+ سميك	635	0	11	pl021_0210
+2	Arm	686	درع أذرع الشمس الفضية<ICON ALPHA>+ سميك	636	0	11	pl033_0200
+2	Arm	687	درع أذرع الشمس الفضية<ICON BETA>+ سميك	637	0	11	pl033_0210
+2	Arm	688	درع أذرع لوناسترا<ICON ALPHA>+ سميك	638	0	11	pl051_0001
+2	Arm	689	درع أذرع لوناسترا<ICON BETA>+ سميك	639	0	11	pl051_0011
+2	Arm	690	درع أذرع الضَرُوس<ICON ALPHA>+ سميك	640	0	11	pl030_0500
+2	Arm	691	درع أذرع الضَرُوس<ICON BETA>+ سميك	641	0	11	pl030_0510
+2	Arm	692	درع أذرع عمل النقابة سميك+	642	0	11	pl092_0000
+2	Arm	693	درع أذرع راجانغ<ICON ALPHA>+ سميك	643	0	10	pl109_0000
+2	Arm	694	درع أذرع راجانغ<ICON BETA>+ سميك	644	0	10	pl109_0010
+2	Arm	695	درع أذرع جهنمي<ICON ALPHA>+ سميك	645	0	10	pl107_0100
+2	Arm	696	درع أذرع جهنمي<ICON BETA>+ سميك	646	0	10	pl107_0110
+2	Arm	697	درع أذرع صافي<ICON ALPHA>+ سميك	647	0	11	pl087_0000
+2	Arm	698	درع أذرع صافي<ICON BETA>+ سميك	648	0	11	pl087_0010
+2	Arm	699	درع أذرع راجانغ غاضب<ICON ALPHA>+ سميك	649	0	11	pl109_0500
+2	Arm	700	درع أذرع راجانغ غاضب<ICON BETA>+ سميك	650	0	11	pl109_0510
+2	Arm	701	درع أذرع براكيديوم<ICON ALPHA>+ سميك	651	0	11	pl082_0500
+2	Arm	702	درع أذرع براكيديوم<ICON BETA>+ سميك	652	0	11	pl082_0510
+2	Arm	703	درع أذرع أنياب الصقيع<ICON ALPHA>+سميك	653	0	10	pl089_0500
+2	Arm	704	درع أذرع أنياب الصقيع<ICON BETA>+سميك	654	0	10	pl089_0510
+2	Arm	705	درع أذرع إسكادورا<ICON ALPHA>+ سميك	655	0	11	pl052_0000
+2	Arm	706	درع أذرع إسكادورا<ICON BETA>+ سميك	656	0	11	pl052_0010
+2	Arm	707	درع أذرع تنين<ICON ALPHA>+ سميك	657	0	11	pl129_0000
+2	Arm	708	درع أذرع تنين<ICON BETA>+ سميك	658	0	11	pl129_0010
+2	Arm	709	درع أذرع كولف<ICON ALPHA>+ سميك	659	0	11	pl049_0001
+2	Arm	710	درع أذرع كولف<ICON BETA>+ سميك	660	0	11	pl049_0011
+2	Arm	715	درع أذرع هيكل التقوية<ICON ALPHA>+ سميك	665	0	10	pl115_0000
+2	Arm	716	درع أذرع عصر اللازورد السميك	666	0	11	pl072_0001
 2	Arm	717	Unavailable	667	0	0	None
-2	Arm	718	Unavailable	668	0	0	None
-2	Arm	719	Unavailable	669	0	0	None
-2	Arm	720	Unavailable	670	0	0	None
+2	Arm	718	HARDUMMY	668	0	11	pl068_0020
+2	Arm	719	درع أذرع حارس الصقيع<ICON GAMMA>+ سميك	669	0	11	pl085_0020
+2	Arm	720	درع أذرع مجس<ICON GAMMA>+ سميك	670	0	11	pl086_0020
 2	Arm	721	Unavailable	671	0	0	None
-2	Arm	722	Unavailable	672	0	0	None
+2	Arm	722	درع أذرع هيكل تقوية<ICON GAMMA>+ سميك	672	0	11	pl115_0001
 2	Arm	723	زي أذرع<ICON ALPHA> السميك الداخلي	673	0	11	pl500_0000
 2	Arm	724	زي أذرع<ICON BETA> السميك الداخلي	675	0	11	pl501_0000
 2	Arm	725	Unavailable	676	0	0	None
@@ -2032,8 +2032,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	146	درع جذع أوريون السميك	150	0	3	pl077_0000
 3	Waist	153	جذع بذلة المهرجان السميك	153	0	3	pl078_0000
 3	Waist	299	HARDUMMY	154	0	7	pl068_0000
-3	Waist	291	HARDUMMY	155	0	7	pl069_0000
-3	Waist	292	HARDUMMY	156	0	7	pl070_0000
+3	Waist	291	درع جذع Ryu السميك	155	0	7	pl069_0000
+3	Waist	292	درع جذع Sakura السميك	156	0	7	pl070_0000
 3	Waist	141	Unavailable	177	2	0	pl001_0000
 3	Waist	142	Unavailable	179	2	0	pl001_0000
 3	Waist	143	Unavailable	180	2	0	pl001_0000
@@ -2077,9 +2077,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	224	درع ظهر زوراه<ICON GAMMA>	213	72	7	pl038_0020
 3	Waist	226	درع ظهر زينوجيفا<ICON GAMMA>	214	72	7	pl045_0020
 3	Waist	227	HARDUMMY	215	46	4	pl068_0000
-3	Waist	228	HARDUMMY	216	12	1	pl069_0000
-3	Waist	229	HARDUMMY	217	60	6	pl069_0000
-3	Waist	230	HARDUMMY	218	50	5	pl070_0000
+3	Waist	228	درع جذع Ryu	216	12	1	pl069_0000
+3	Waist	229	درع جذع Ryu<ICON ALPHA>	217	60	6	pl069_0000
+3	Waist	230	تنورة Sakura<ICON ALPHA>	218	50	5	pl070_0000
 3	Waist	231	درع فخذ سيد نجوم لازوردي<ICON ALPHA>	219	56	6	pl072_0000
 3	Waist	232	حزام دانتي<ICON ALPHA>	220	64	7	pl071_0000
 3	Waist	233	لفيفة الإمبراطورة<ICON ALPHA>	221	70	7	pl051_0000
@@ -2222,7 +2222,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	443	حلقة كيرين<ICON BETA>+	393	154	11	pl035_0011
 3	Waist	444	لفيفة مجس<ICON ALPHA>+	394	158	11	pl086_0000
 3	Waist	445	لفيفة مجس<ICON BETA>+	395	158	11	pl086_0010
-3	Waist	446	Unavailable	396	0	0	None
+3	Waist	446	درع جذع تروس<ICON ALPHA>+ سميك	396	0	9	pl104_0000
 3	Waist	447	درع جذع باروث السميك	397	0	4	pl012_0000
 3	Waist	448	لفيفة قصر النقابة<ICON ALPHA>+	398	154	10	pl094_0000
 3	Waist	449	لفيفة قصر النقابة<ICON BETA>+	399	154	10	pl094_0000
@@ -2270,7 +2270,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	497	جذع لومو السميك	447	0	4	pl024_0000
 3	Waist	498	حزام الشغوف<ICON ALPHA>+	448	156	9	pl125_0000
 3	Waist	499	جذع راثيان<ICON ALPHA>السميك	449	0	4	pl021_0000
-3	Waist	500	Unavailable	450	0	0	None
+3	Waist	500	حزام العفريت السيد الجلدي<ICON ALPHA>+	450	162	10	pl126_0000
 3	Waist	501	جذع راثيان<ICON BETA>السميك	451	0	4	pl021_0010
 3	Waist	502	درع خصر أولونغ<ICON ALPHA>+	452	120	8	pl127_0000
 3	Waist	503	جذع رادوبان<ICON ALPHA>السميك	453	0	5	pl028_0000
@@ -2278,7 +2278,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	505	جذع رادوبان<ICON BETA>السميك	455	0	5	pl028_0010
 3	Waist	506	درع جذع وردي سميك	456	0	9	pl124_0000
 3	Waist	507	درع جذع الشغوف	457	0	9	pl125_0000
-3	Waist	508	Unavailable	458	0	0	None
+3	Waist	508	درع جذع عفريت سيد سميك	458	0	10	pl126_0000
 3	Waist	509	جذع أولونغ السميك	459	0	8	pl127_0000
 3	Waist	510	جذع أسترال السميك	460	0	8	pl128_0000
 3	Waist	511	معدن قوي لجذع سميك	461	0	5	pl025_0000
@@ -2291,19 +2291,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	522	جذع الفارس الفضي السميك	472	0	6	pl123_0000
 3	Waist	523	HARDUMMY	473	132	11	pl068_0010
 3	Waist	524	لفيفة مجس<ICON GAMMA>+	474	176	11	pl086_0020
-3	Waist	525	HARDUMMY	475	0	7	pl072_0000
-3	Waist	526	HARDUMMY	476	170	11	pl072_0001
-3	Waist	527	Unavailable	477	0	0	None
+3	Waist	525	جذع سيد نجوم لازوردي سميك	475	0	7	pl072_0000
+3	Waist	526	زُنَّار عصر اللازوردي<ICON ALPHA>+	476	170	11	pl072_0001
+3	Waist	527	لفيفة حارس الصقيع<ICON GAMMA>+	477	180	11	pl085_0020
 3	Waist	528	لفيفة أنياب الصقيع<ICON ALPHA>+	478	162	10	pl089_0500
 3	Waist	529	لفيفة أنياب الصقيع<ICON BETA>+	479	162	10	pl089_0510
-3	Waist	530	Unavailable	480	0	0	None
-3	Waist	531	Unavailable	481	0	0	None
+3	Waist	530	أشواك تنين<ICON ALPHA>+	480	180	11	pl129_0000
+3	Waist	531	أشواك تنين<ICON BETA>+	481	180	11	pl129_0010
 3	Waist	532	HARDUMMY	482	160	11	pl068_0020
 3	Waist	533	Unavailable	483	0	0	None
 3	Waist	534	عتاد جذع ليون <ICON ALPHA>+	484	150	11	pl130_0000
 3	Waist	535	عتاد جذع كلير <ICON ALPHA>+	485	150	11	pl131_0000
-3	Waist	536	Unavailable	486	0	0	None
-3	Waist	537	Unavailable	487	0	0	None
+3	Waist	536	درع جذع ليون سميك+	486	0	11	pl130_0000
+3	Waist	537	درع جذع كلير سميك+	487	0	11	pl131_0000
 3	Waist	540	جذع دودوغما السميك	490	0	4	pl039_0000
 3	Waist	541	درع إنغوت السميك	491	0	5	pl031_0000
 3	Waist	542	جذع قلب راث<ICON ALPHA>السميك	492	0	5	pl021_0100
@@ -2359,126 +2359,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	592	جذع كولف<ICON ALPHA>السميك	542	0	7	pl049_0000
 3	Waist	593	جذع كولف<ICON BETA>السميك	543	0	7	pl049_0010
 3	Waist	594	جذع كولف<ICON GAMMA>السميك	544	0	7	pl049_0020
-3	Waist	595	Unavailable	546	0	0	None
-3	Waist	596	Unavailable	547	0	0	None
-3	Waist	599	Unavailable	550	0	0	None
-3	Waist	600	Unavailable	551	0	0	None
-3	Waist	601	Unavailable	552	0	0	None
-3	Waist	602	Unavailable	553	0	0	None
-3	Waist	603	Unavailable	554	0	0	None
-3	Waist	604	Unavailable	555	0	0	None
-3	Waist	605	Unavailable	556	0	0	None
-3	Waist	606	Unavailable	557	0	0	None
-3	Waist	607	Unavailable	558	0	0	None
-3	Waist	608	Unavailable	559	0	0	None
-3	Waist	609	Unavailable	560	0	0	None
-3	Waist	610	Unavailable	561	0	0	None
-3	Waist	611	Unavailable	562	0	0	None
-3	Waist	612	Unavailable	563	0	0	None
-3	Waist	613	Unavailable	564	0	0	None
-3	Waist	614	Unavailable	565	0	0	None
-3	Waist	615	Unavailable	566	0	0	None
-3	Waist	616	Unavailable	567	0	0	None
-3	Waist	617	Unavailable	568	0	0	None
-3	Waist	618	Unavailable	569	0	0	None
-3	Waist	619	Unavailable	570	0	0	None
-3	Waist	620	Unavailable	571	0	0	None
-3	Waist	621	Unavailable	572	0	0	None
-3	Waist	622	Unavailable	573	0	0	None
-3	Waist	623	Unavailable	574	0	0	None
+3	Waist	595	درع جذع فيسبويد سميك+	546	0	8	pl007_0001
+3	Waist	596	درع جذع هورنتور سميك+	547	0	8	pl017_0001
+3	Waist	599	درع جذع جاغراس سميك+	550	0	8	pl008_0001
+3	Waist	600	درع جذع تسيتسي سميك+	551	0	8	pl023_0001
+3	Waist	601	درع جذع غيروس سميك+	552	0	8	pl022_0001
+3	Waist	602	درع جذع دودوغما سميك+	553	0	8	pl039_0001
+3	Waist	603	درع جذع كولو سميك+	554	0	8	pl009_0001
+3	Waist	604	درع جذع بوكي سميك+	555	0	8	pl010_0001
+3	Waist	605	درع جذع بوكي مرجاني سميك+	556	0	8	pl010_0101
+3	Waist	606	درع جذع باروث سميك+	557	0	8	pl012_0001
+3	Waist	607	درع جذع جيورا سميك+	558	0	8	pl011_0001
+3	Waist	608	درع جذع بيو سميك+	559	0	8	pl110_0000
+3	Waist	609	درع جذع كاداتشي سميك+	560	0	8	pl013_0001
+3	Waist	610	درع جذع كاداتشي ثعباني سميك+	561	0	8	pl013_0101
+3	Waist	611	درع جذع بنبارو<ICON ALPHA>+ سميك	562	0	8	pl084_0000
+3	Waist	612	درع جذع بنبارو<ICON BETA>+ سميك	563	0	8	pl084_0010
+3	Waist	613	درع جذع أنجا<ICON ALPHA>+ سميك	564	0	8	pl020_0001
+3	Waist	614	درع جذع أنجا<ICON BETA>+ سميك	565	0	8	pl020_0011
+3	Waist	615	درع جذع أنجا رعدي<ICON ALPHA>+ سميك	566	0	10	pl020_0101
+3	Waist	616	درع جذع أنجا رعدي<ICON BETA>+ سميك	567	0	10	pl020_0111
+3	Waist	617	درع جذع راثيان<ICON ALPHA>+ سميك	568	0	8	pl021_0001
+3	Waist	618	درع جذع راثيان<ICON BETA>+ سميك	569	0	8	pl021_0011
+3	Waist	619	درع جذع قلب راث<ICON ALPHA>+ سميك	570	0	8	pl021_0101
+3	Waist	620	درع جذع قلب راث<ICON BETA>+ سميك	571	0	8	pl021_0111
+3	Waist	621	درع جذع لومو السميك+	572	0	8	pl024_0001
+3	Waist	622	درع جذع طيف لومو سميك+	573	0	8	pl024_0101
+3	Waist	623	درع جذع رادوبان السميك+	574	0	8	pl028_0001
 3	Waist	624	درع جذع تحفة فنية سميك	575	0	9	pl091_0000
-3	Waist	625	Unavailable	674	0	0	None
-3	Waist	626	Unavailable	576	0	0	None
-3	Waist	627	Unavailable	577	0	0	None
-3	Waist	628	Unavailable	578	0	0	None
-3	Waist	629	Unavailable	579	0	0	None
-3	Waist	630	Unavailable	580	0	0	None
-3	Waist	631	Unavailable	581	0	0	None
-3	Waist	632	Unavailable	582	0	0	None
-3	Waist	633	Unavailable	583	0	0	None
-3	Waist	634	Unavailable	584	0	0	None
-3	Waist	635	Unavailable	585	0	0	None
-3	Waist	636	Unavailable	586	0	0	None
-3	Waist	637	Unavailable	587	0	0	None
-3	Waist	638	Unavailable	588	0	0	None
-3	Waist	639	Unavailable	589	0	0	None
-3	Waist	640	Unavailable	590	0	0	None
-3	Waist	641	Unavailable	591	0	0	None
-3	Waist	642	Unavailable	592	0	0	None
-3	Waist	643	Unavailable	593	0	0	None
-3	Waist	644	Unavailable	594	0	0	None
-3	Waist	645	Unavailable	595	0	0	None
-3	Waist	646	Unavailable	596	0	0	None
-3	Waist	647	Unavailable	597	0	0	None
-3	Waist	648	Unavailable	598	0	0	None
-3	Waist	649	Unavailable	599	0	0	None
-3	Waist	650	Unavailable	600	0	0	None
-3	Waist	651	Unavailable	601	0	0	None
-3	Waist	652	Unavailable	602	0	0	None
-3	Waist	653	Unavailable	603	0	0	None
-3	Waist	654	Unavailable	604	0	0	None
-3	Waist	655	Unavailable	605	0	0	None
-3	Waist	656	Unavailable	606	0	0	None
-3	Waist	657	Unavailable	607	0	0	None
+3	Waist	625	درع جذع تروس<ICON BETA>+ سميك	674	0	9	pl104_0000
+3	Waist	626	درع جذع باريوث<ICON ALPHA>+ سميك	576	0	9	pl089_0000
+3	Waist	627	درع جذع باريوث<ICON BETA>+ سميك	577	0	9	pl089_0010
+3	Waist	628	درع جذع راذالوس<ICON ALPHA>+ سميك	578	0	9	pl033_0001
+3	Waist	629	درع جذع راذالوس<ICON BETA>+ سميك	579	0	9	pl033_0011
+3	Waist	630	درع جذع روح راث<ICON ALPHA>+ سميك	580	0	10	pl033_0101
+3	Waist	631	درع جذع روح راث<ICON BETA>+ سميك	581	0	10	pl033_0111
+3	Waist	632	درع جذع ديابلوس<ICON ALPHA>+ سميك	582	0	9	pl034_0001
+3	Waist	633	درع جذع ديابلوس<ICON BETA>+ سميك	583	0	9	pl034_0011
+3	Waist	634	درع جذع نيرو ديابلوس<ICON ALPHA>+ سميك	584	0	10	pl034_0101
+3	Waist	635	درع جذع نيرو ديابلوس<ICON BETA>+ سميك	585	0	10	pl034_0111
+3	Waist	636	درع جذع ليغيا<ICON ALPHA>+ سميك	586	0	9	pl027_0001
+3	Waist	637	درع جذع ليغيا<ICON BETA>+ سميك	587	0	9	pl027_0011
+3	Waist	638	درع جذع ليغيا الصارخ<ICON ALPHA>+ سميك	588	0	10	pl027_0500
+3	Waist	639	درع جذع ليغيا الصارخ<ICON BETA>+ سميك	589	0	10	pl027_0510
+3	Waist	640	درع جذع أودوغارون<ICON ALPHA>+ سميك	590	0	9	pl029_0001
+3	Waist	641	درع جذع أودوغارون<ICON BETA>+ سميك	591	0	9	pl029_0011
+3	Waist	642	درع جذع غارون الموت<ICON ALPHA>+ سميك	592	0	10	pl029_0101
+3	Waist	643	درع جذع غارون الموت<ICON BETA>+ سميك	593	0	10	pl029_0111
+3	Waist	644	درع جذع لافاسيوث سميك+	594	0	9	pl040_0001
+3	Waist	645	درع جذع أوراغان سميك+	595	0	9	pl041_0001
+3	Waist	646	درع جذع نارغاكوغا<ICON ALPHA>+ سميك	596	0	9	pl080_0000
+3	Waist	647	درع جذع نارغاكوغا<ICON BETA>+ سميك	597	0	9	pl080_0010
+3	Waist	648	درع جذع غلافنيوس<ICON ALPHA>+ سميك	598	0	9	pl081_0000
+3	Waist	649	درع جذع غلافنيوس<ICON BETA>+ سميك	599	0	9	pl081_0010
+3	Waist	650	درع جذع غلافنيوس حمضي<ICON ALPHA>+ سميك	600	0	10	pl081_0100
+3	Waist	651	درع جذع غلافنيوس حمضي<ICON BETA>+ سميك	601	0	10	pl081_0110
+3	Waist	652	درع جذع براكيديوس<ICON ALPHA>+ سميك	602	0	9	pl082_0000
+3	Waist	653	درع جذع براكيديوس<ICON BETA>+ سميك	603	0	9	pl082_0010
+3	Waist	654	درع جذع تغريكس<ICON ALPHA>+ سميك	604	0	9	pl083_0000
+3	Waist	655	درع جذع تغريكس<ICON BETA>+ سميك	605	0	9	pl083_0010
+3	Waist	656	درع جذع زئير ريكس<ICON ALPHA>+ سميك	606	0	10	pl083_0100
+3	Waist	657	درع جذع زئير ريكس<ICON BETA>+ سميك	607	0	10	pl083_0110
 3	Waist	658	درع جذع حزام أسود سميك	608	0	10	pl093_0000
-3	Waist	659	Unavailable	609	0	0	None
-3	Waist	660	Unavailable	610	0	0	None
-3	Waist	661	Unavailable	611	0	0	None
-3	Waist	662	Unavailable	612	0	0	None
-3	Waist	663	Unavailable	613	0	0	None
-3	Waist	664	Unavailable	614	0	0	None
-3	Waist	665	Unavailable	615	0	0	None
-3	Waist	666	Unavailable	616	0	0	None
-3	Waist	667	Unavailable	617	0	0	None
-3	Waist	668	Unavailable	618	0	0	None
-3	Waist	669	Unavailable	619	0	0	None
-3	Waist	670	Unavailable	620	0	0	None
-3	Waist	671	Unavailable	621	0	0	None
-3	Waist	672	Unavailable	622	0	0	None
-3	Waist	673	Unavailable	623	0	0	None
-3	Waist	674	Unavailable	624	0	0	None
-3	Waist	675	Unavailable	625	0	0	None
-3	Waist	678	Unavailable	628	0	0	None
-3	Waist	679	Unavailable	629	0	0	None
-3	Waist	680	Unavailable	630	0	0	None
-3	Waist	681	Unavailable	631	0	0	None
-3	Waist	682	Unavailable	632	0	0	None
-3	Waist	683	Unavailable	633	0	0	None
-3	Waist	684	Unavailable	634	0	0	None
-3	Waist	685	Unavailable	635	0	0	None
-3	Waist	686	Unavailable	636	0	0	None
-3	Waist	687	Unavailable	637	0	0	None
-3	Waist	688	Unavailable	638	0	0	None
-3	Waist	689	Unavailable	639	0	0	None
-3	Waist	690	Unavailable	640	0	0	None
-3	Waist	691	Unavailable	641	0	0	None
-3	Waist	692	Unavailable	642	0	0	None
-3	Waist	693	Unavailable	643	0	0	None
-3	Waist	694	Unavailable	644	0	0	None
-3	Waist	695	Unavailable	645	0	0	None
-3	Waist	696	Unavailable	646	0	0	None
-3	Waist	697	Unavailable	647	0	0	None
-3	Waist	698	Unavailable	648	0	0	None
-3	Waist	699	Unavailable	649	0	0	None
-3	Waist	700	Unavailable	650	0	0	None
-3	Waist	701	Unavailable	651	0	0	None
-3	Waist	702	Unavailable	652	0	0	None
-3	Waist	703	Unavailable	653	0	0	None
-3	Waist	704	Unavailable	654	0	0	None
-3	Waist	705	Unavailable	655	0	0	None
-3	Waist	706	Unavailable	656	0	0	None
-3	Waist	707	Unavailable	657	0	0	None
-3	Waist	708	Unavailable	658	0	0	None
-3	Waist	709	Unavailable	659	0	0	None
-3	Waist	710	Unavailable	660	0	0	None
-3	Waist	715	Unavailable	665	0	0	None
-3	Waist	716	Unavailable	666	0	0	None
+3	Waist	659	درع جذع كبرياء<ICON ALPHA>+ سميك	609	0	10	pl042_0500
+3	Waist	660	درع جذع كبرياء<ICON BETA>+ سميك	610	0	10	pl042_0510
+3	Waist	661	درع جذع شرِه<ICON ALPHA>+ سميك	611	0	10	pl050_0500
+3	Waist	662	درع جذع شرِه<ICON BETA>+ سميك	612	0	10	pl050_0510
+3	Waist	663	درع جذع حارس الصقيع<ICON ALPHA>+ سميك	613	0	11	pl085_0000
+3	Waist	664	درع جذع حارس الصقيع<ICON BETA>+ سميك	614	0	11	pl085_0010
+3	Waist	665	درع جذع فيلشرود<ICON ALPHA>+ سميك	615	0	11	pl032_0500
+3	Waist	666	درع جذع فيلشرود<ICON BETA>+ سميك	616	0	11	pl032_0510
+3	Waist	667	درع جذع تيوسترا<ICON ALPHA>+ سميك	617	0	11	pl046_0001
+3	Waist	668	درع جذع تيوسترا<ICON BETA>+ سميك	618	0	11	pl046_0011
+3	Waist	669	درع جذع كوشالا<ICON ALPHA>+ سميك	619	0	11	pl047_0001
+3	Waist	670	درع جذع كوشالا<ICON BETA>+ سميك	620	0	11	pl047_0011
+3	Waist	671	درع جذع كيرين<ICON ALPHA>+ سميك	621	0	11	pl035_0001
+3	Waist	672	درع جذع كيرين<ICON BETA>+ سميك	622	0	11	pl035_0011
+3	Waist	673	درع جذع مجس<ICON ALPHA>+ سميك	623	0	11	pl086_0000
+3	Waist	674	درع جذع مجس<ICON BETA>+ سميك	624	0	11	pl086_0010
+3	Waist	675	درع جذع قصر النقابة سميك+	625	0	10	pl094_0000
+3	Waist	678	درع جذع شارا<ICON ALPHA>+ سميك	628	0	11	pl088_0000
+3	Waist	679	درع جذع شارا<ICON BETA>+ سميك	629	0	11	pl088_0010
+3	Waist	680	درع جذع غاروغا<ICON ALPHA>+ سميك	630	0	10	pl108_0000
+3	Waist	681	درع جذع غاروغا<ICON BETA>+ سميك	631	0	10	pl108_0010
+3	Waist	682	درع جذع زينغر<ICON ALPHA>+ سميك	632	0	10	pl107_0000
+3	Waist	683	درع جذع زينغر<ICON BETA>+ سميك	633	0	10	pl107_0010
+3	Waist	684	درع جذع القمر الذهبي<ICON ALPHA>+ سميك	634	0	11	pl021_0200
+3	Waist	685	درع جذع القمر الذهبي<ICON BETA>+ سميك	635	0	11	pl021_0210
+3	Waist	686	درع جذع الشمس الفضية<ICON ALPHA>+ سميك	636	0	11	pl033_0200
+3	Waist	687	درع جذع الشمس الفضية<ICON BETA>+ سميك	637	0	11	pl033_0210
+3	Waist	688	درع جذع لوناسترا<ICON ALPHA>+ سميك	638	0	11	pl051_0001
+3	Waist	689	درع جذع لوناسترا<ICON BETA>+ سميك	639	0	11	pl051_0011
+3	Waist	690	درع جذع الضَرُوس<ICON ALPHA>+ سميك	640	0	11	pl030_0500
+3	Waist	691	درع جذع الضَرُوس<ICON BETA>+ سميك	641	0	11	pl030_0510
+3	Waist	692	درع جذع عمل النقابة سميك+	642	0	11	pl092_0000
+3	Waist	693	درع جذع راجانغ<ICON ALPHA>+ سميك	643	0	10	pl109_0000
+3	Waist	694	درع جذع راجانغ<ICON BETA>+ سميك	644	0	10	pl109_0010
+3	Waist	695	درع جذع جهنمي<ICON ALPHA>+ سميك	645	0	10	pl107_0100
+3	Waist	696	درع جذع جهنمي<ICON BETA>+ سميك	646	0	10	pl107_0110
+3	Waist	697	درع جذع صافي<ICON ALPHA>+ سميك	647	0	11	pl087_0000
+3	Waist	698	درع جذع صافي<ICON BETA>+ سميك	648	0	11	pl087_0010
+3	Waist	699	درع جذع راجانغ الغاضب<ICON ALPHA>+ سميك	649	0	11	pl109_0500
+3	Waist	700	درع جذع راجانغ الغاضب<ICON BETA>+ سميك	650	0	11	pl109_0510
+3	Waist	701	درع جذع براكيديوم<ICON ALPHA>+ سميك	651	0	11	pl082_0500
+3	Waist	702	درع جذع براكيديوم<ICON BETA>+ سميك	652	0	11	pl082_0510
+3	Waist	703	درع جذع أنياب الصقيع<ICON ALPHA>+ سميك	653	0	10	pl089_0500
+3	Waist	704	درع جذع أنياب الصقيع<ICON BETA>+ سميك	654	0	10	pl089_0510
+3	Waist	705	درع جذع إسكادورا<ICON ALPHA>+ سميك	655	0	11	pl052_0000
+3	Waist	706	درع جذع إسكادورا<ICON BETA>+ سميك	656	0	11	pl052_0010
+3	Waist	707	درع جذع تنين<ICON ALPHA>+ سميك	657	0	11	pl129_0000
+3	Waist	708	درع جذع تنين<ICON BETA>+ سميك	658	0	11	pl129_0010
+3	Waist	709	درع جذع كولف<ICON ALPHA>+ سميك	659	0	11	pl049_0001
+3	Waist	710	درع جذع كولف<ICON BETA>+ سميك	660	0	11	pl049_0011
+3	Waist	715	درع جذع هيكل التقوية<ICON ALPHA>+ سميك	665	0	10	pl115_0000
+3	Waist	716	درع جذع عصر اللازورد السميك	666	0	11	pl072_0001
 3	Waist	717	Unavailable	667	0	0	None
-3	Waist	718	Unavailable	668	0	0	None
-3	Waist	719	Unavailable	669	0	0	None
-3	Waist	720	Unavailable	670	0	0	None
+3	Waist	718	HARDUMMY	668	0	11	pl068_0020
+3	Waist	719	درع جذع حارس الصقيع<ICON GAMMA>+ سميك	669	0	11	pl085_0020
+3	Waist	720	درع جذع مجس<ICON GAMMA>+ سميك	670	0	11	pl086_0020
 3	Waist	721	Unavailable	671	0	0	None
-3	Waist	722	Unavailable	672	0	0	None
+3	Waist	722	درع جذع هيكل تقوية<ICON GAMMA>+ سميك	672	0	11	pl115_0001
 3	Waist	723	زي جذع<ICON ALPHA> السميك الداخلي	673	0	11	pl500_0000
 3	Waist	724	زي جذع<ICON BETA> السميك الداخلي	675	0	11	pl501_0000
 3	Waist	725	Unavailable	676	0	0	None
@@ -2644,8 +2644,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	146	درع أرجل أوريون السميك	150	0	3	pl077_0000
 4	Leg	153	أرجل بذلة المهرجان السميكة	153	0	3	pl078_0000
 4	Leg	299	HARDUMMY	154	0	7	pl068_0000
-4	Leg	291	HARDUMMY	155	0	7	pl069_0000
-4	Leg	292	HARDUMMY	156	0	7	pl070_0000
+4	Leg	291	أرجل Ryu السميكة	155	0	7	pl069_0000
+4	Leg	292	درع أرجل Sakura السميك	156	0	7	pl070_0000
 4	Leg	141	Unavailable	143	2	0	pl001_0000
 4	Leg	142	Unavailable	179	2	0	pl001_0000
 4	Leg	143	Unavailable	180	2	0	pl001_0000
@@ -2689,9 +2689,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	223	مهمز زوراه<ICON GAMMA>	213	72	7	pl038_0020
 4	Leg	224	مهمز زينوجيفا<ICON GAMMA>	214	72	7	pl045_0020
 4	Leg	225	HARDUMMY	215	46	4	pl068_0000
-4	Leg	226	HARDUMMY	216	12	1	pl069_0000
-4	Leg	227	HARDUMMY	217	60	6	pl069_0000
-4	Leg	228	HARDUMMY	218	50	5	pl070_0000
+4	Leg	226	درع أرجل Ryu	216	12	1	pl069_0000
+4	Leg	227	أرجل Ryu<ICON ALPHA>	217	60	6	pl069_0000
+4	Leg	228	أرجل Sakura<ICON ALPHA>	218	50	5	pl070_0000
 4	Leg	229	واقي سيد نجوم لازوردي<ICON ALPHA>	219	56	6	pl072_0000
 4	Leg	230	حذاء دانتي الجلدي<ICON ALPHA>	220	64	7	pl071_0000
 4	Leg	231	درع ساق الإمبراطورة<ICON ALPHA>	221	70	7	pl051_0000
@@ -2837,7 +2837,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	443	واقي ساق كيرين<ICON BETA>+	393	154	11	pl035_0011
 4	Leg	444	درع ساق مجس<ICON ALPHA>+	394	158	11	pl086_0000
 4	Leg	445	درع ساق مجس<ICON BETA>+	395	158	11	pl086_0010
-4	Leg	446	Unavailable	396	0	0	None
+4	Leg	446	درع أرجل تروس<ICON ALPHA>+ سميك	396	0	9	pl104_0000
 4	Leg	447	أرجل باروث السميكة	397	0	4	pl012_0000
 4	Leg	448	درع ساق قصر النقابة<ICON ALPHA>+	398	154	10	pl094_0000
 4	Leg	449	درع ساق قصر النقابة<ICON BETA>+	399	154	10	pl094_0000
@@ -2885,7 +2885,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	497	أرجل لومو السميكة	447	0	4	pl024_0000
 4	Leg	498	سروال الشغوف<ICON ALPHA>+	448	156	9	pl125_0000
 4	Leg	499	أرجل راثيان<ICON ALPHA>السميكة	449	0	4	pl021_0000
-4	Leg	500	Unavailable	450	0	0	None
+4	Leg	500	حذاء العفريت السيد<ICON ALPHA>+	450	162	10	pl126_0000
 4	Leg	501	أرجل راثيان<ICON BETA>السميكة	451	0	4	pl021_0010
 4	Leg	502	أحذية أولونغ<ICON ALPHA>+	452	120	8	pl127_0000
 4	Leg	503	أرجل رادوبان<ICON ALPHA>السميكة	453	0	5	pl028_0000
@@ -2893,7 +2893,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	505	أرجل رادوبان<ICON BETA>السميكة	455	0	5	pl028_0010
 4	Leg	506	درع أرجل وردي سميك	456	0	9	pl124_0000
 4	Leg	507	درع ساق الشغوف	457	0	9	pl125_0000
-4	Leg	508	Unavailable	458	0	0	None
+4	Leg	508	درع أرجل عفريت سيد سميك	458	0	10	pl126_0000
 4	Leg	509	أرجل أولونغ السميكة	459	0	8	pl127_0000
 4	Leg	510	أرجل أسترال السميكة	460	0	8	pl128_0000
 4	Leg	511	معدن قوي لأرجل سميكة	461	0	5	pl025_0000
@@ -2906,19 +2906,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	522	ساقا الفارس الفضي سميكتان	472	0	6	pl123_0000
 4	Leg	523	HARDUMMY	473	132	11	pl068_0010
 4	Leg	524	درع ساق مجس<ICON GAMMA>+	474	176	11	pl086_0020
-4	Leg	525	HARDUMMY	475	0	7	pl072_0000
-4	Leg	526	HARDUMMY	476	170	11	pl072_0001
-4	Leg	527	Unavailable	477	0	0	None
+4	Leg	525	أرجل سيد نجوم لازوردي سميكة	475	0	7	pl072_0000
+4	Leg	526	حذاء غيتا عصر اللازوردي<ICON ALPHA>+	476	170	11	pl072_0001
+4	Leg	527	درع ساق حارس الصقيع<ICON GAMMA>+	477	180	11	pl085_0020
 4	Leg	528	درع ساق أنياب الصقيع<ICON ALPHA>+	478	162	10	pl089_0500
 4	Leg	529	درع ساق أنياب الصقيع<ICON BETA>+	479	162	10	pl089_0510
-4	Leg	530	Unavailable	480	0	0	None
-4	Leg	531	Unavailable	481	0	0	None
+4	Leg	530	أقدام تنين<ICON ALPHA>+	480	180	11	pl129_0000
+4	Leg	531	أقدام تنين<ICON BETA>+	481	180	11	pl129_0010
 4	Leg	532	HARDUMMY	482	160	11	pl068_0020
 4	Leg	533	Unavailable	483	0	0	None
 4	Leg	534	عتاد ساقي ليون <ICON ALPHA>+	484	150	11	pl130_0000
 4	Leg	535	عتاد ساقي كلير <ICON ALPHA>+	485	150	11	pl131_0000
-4	Leg	536	Unavailable	486	0	0	None
-4	Leg	537	Unavailable	487	0	0	None
+4	Leg	536	درع أرجل ليون سميك+	486	0	11	pl130_0000
+4	Leg	537	درع أرجل كلير سميك+	487	0	11	pl131_0000
 4	Leg	540	أرجل دودوغما السميكة	490	0	4	pl039_0000
 4	Leg	541	أرجل إنغوت السميكة	491	0	5	pl031_0000
 4	Leg	542	أرجل قلب راث<ICON ALPHA>السميكة	492	0	5	pl021_0100
@@ -2974,126 +2974,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	592	أرجل كولف<ICON ALPHA>السميكة	542	0	7	pl049_0000
 4	Leg	593	أرجل كولف<ICON BETA>السميكة	543	0	7	pl049_0010
 4	Leg	594	أرجل كولف<ICON GAMMA>السميكة	544	0	7	pl049_0020
-4	Leg	595	Unavailable	546	0	0	None
-4	Leg	596	Unavailable	547	0	0	None
-4	Leg	599	Unavailable	550	0	0	None
-4	Leg	600	Unavailable	551	0	0	None
-4	Leg	601	Unavailable	552	0	0	None
-4	Leg	602	Unavailable	553	0	0	None
-4	Leg	603	Unavailable	554	0	0	None
-4	Leg	604	Unavailable	555	0	0	None
-4	Leg	605	Unavailable	556	0	0	None
-4	Leg	606	Unavailable	557	0	0	None
-4	Leg	607	Unavailable	558	0	0	None
-4	Leg	608	Unavailable	559	0	0	None
-4	Leg	609	Unavailable	560	0	0	None
-4	Leg	610	Unavailable	561	0	0	None
-4	Leg	611	Unavailable	562	0	0	None
-4	Leg	612	Unavailable	563	0	0	None
-4	Leg	613	Unavailable	564	0	0	None
-4	Leg	614	Unavailable	565	0	0	None
-4	Leg	615	Unavailable	566	0	0	None
-4	Leg	616	Unavailable	567	0	0	None
-4	Leg	617	Unavailable	568	0	0	None
-4	Leg	618	Unavailable	569	0	0	None
-4	Leg	619	Unavailable	570	0	0	None
-4	Leg	620	Unavailable	571	0	0	None
-4	Leg	621	Unavailable	572	0	0	None
-4	Leg	622	Unavailable	573	0	0	None
-4	Leg	623	Unavailable	574	0	0	None
+4	Leg	595	درع أرجل فيسبويد سميك+	546	0	8	pl007_0001
+4	Leg	596	درع أرجل هورنتور سميك+	547	0	8	pl017_0001
+4	Leg	599	درع أرجل جاغراس سميك+	550	0	8	pl008_0001
+4	Leg	600	درع أرجل تسيتسي سميك+	551	0	8	pl023_0001
+4	Leg	601	درع أرجل غيروس سميك+	552	0	8	pl022_0001
+4	Leg	602	درع أرجل دودوغما سميك	553	0	8	pl039_0001
+4	Leg	603	درع أرجل كولو سميك+	554	0	8	pl009_0001
+4	Leg	604	درع أرجل بوكي سميك+	555	0	8	pl010_0001
+4	Leg	605	درع أرجل بوكي مرجاني سميك+	556	0	8	pl010_0101
+4	Leg	606	درع أرجل باروث سميك+	557	0	8	pl012_0001
+4	Leg	607	درع أرجل جيورا سميك+	558	0	8	pl011_0001
+4	Leg	608	درع أرجل بيو سميك+	559	0	8	pl110_0000
+4	Leg	609	درع أرجل كاداتشي سميك+	560	0	8	pl013_0001
+4	Leg	610	درع أرجل كاداتشي ثعباني سميك+	561	0	8	pl013_0101
+4	Leg	611	درع أرجل بنبارو<ICON ALPHA>+ سميك	562	0	8	pl084_0000
+4	Leg	612	درع أرجل بنبارو<ICON BETA>+ سميك	563	0	8	pl084_0010
+4	Leg	613	درع أرجل أنجا<ICON ALPHA>+ سميك	564	0	8	pl020_0001
+4	Leg	614	درع أرجل أنجا<ICON BETA>+ سميك	565	0	8	pl020_0011
+4	Leg	615	درع أرجل أنجا رعدي<ICON ALPHA>+ سميك	566	0	10	pl020_0101
+4	Leg	616	درع أرجل أنجا رعدي<ICON BETA>+ سميك	567	0	10	pl020_0111
+4	Leg	617	درع أرجل راثيان<ICON ALPHA>+ سميك	568	0	8	pl021_0001
+4	Leg	618	درع أرجل راثيان<ICON BETA>+ سميك	569	0	8	pl021_0011
+4	Leg	619	درع أرجل قلب راث<ICON ALPHA>+ سميك	570	0	8	pl021_0101
+4	Leg	620	درع أرجل قلب راث<ICON BETA>+ سميك	571	0	8	pl021_0111
+4	Leg	621	درع أرجل لومو سميك+	572	0	8	pl024_0001
+4	Leg	622	درع أرجل طيف لومو سميك+	573	0	8	pl024_0101
+4	Leg	623	درع أرجل رادوبان سميك+	574	0	8	pl028_0001
 4	Leg	624	درع أرجل تحفة فنية سميك	575	0	9	pl091_0000
-4	Leg	625	Unavailable	674	0	0	None
-4	Leg	626	Unavailable	576	0	0	None
-4	Leg	627	Unavailable	577	0	0	None
-4	Leg	628	Unavailable	578	0	0	None
-4	Leg	629	Unavailable	579	0	0	None
-4	Leg	630	Unavailable	580	0	0	None
-4	Leg	631	Unavailable	581	0	0	None
-4	Leg	632	Unavailable	582	0	0	None
-4	Leg	633	Unavailable	583	0	0	None
-4	Leg	634	Unavailable	584	0	0	None
-4	Leg	635	Unavailable	585	0	0	None
-4	Leg	636	Unavailable	586	0	0	None
-4	Leg	637	Unavailable	587	0	0	None
-4	Leg	638	Unavailable	588	0	0	None
-4	Leg	639	Unavailable	589	0	0	None
-4	Leg	640	Unavailable	590	0	0	None
-4	Leg	641	Unavailable	591	0	0	None
-4	Leg	642	Unavailable	592	0	0	None
-4	Leg	643	Unavailable	593	0	0	None
-4	Leg	644	Unavailable	594	0	0	None
-4	Leg	645	Unavailable	595	0	0	None
-4	Leg	646	Unavailable	596	0	0	None
-4	Leg	647	Unavailable	597	0	0	None
-4	Leg	648	Unavailable	598	0	0	None
-4	Leg	649	Unavailable	599	0	0	None
-4	Leg	650	Unavailable	600	0	0	None
-4	Leg	651	Unavailable	601	0	0	None
-4	Leg	652	Unavailable	602	0	0	None
-4	Leg	653	Unavailable	603	0	0	None
-4	Leg	654	Unavailable	604	0	0	None
-4	Leg	655	Unavailable	605	0	0	None
-4	Leg	656	Unavailable	606	0	0	None
-4	Leg	657	Unavailable	607	0	0	None
+4	Leg	625	درع أرجل تروس<ICON BETA>+ سميك	674	0	9	pl104_0000
+4	Leg	626	درع أرجل باريوث<ICON ALPHA>+ سميك	576	0	9	pl089_0000
+4	Leg	627	درع أرجل باريوث<ICON BETA>+ سميك	577	0	9	pl089_0010
+4	Leg	628	درع أرجل راذالوس<ICON ALPHA>+ سميك	578	0	9	pl033_0001
+4	Leg	629	درع أرجل راذالوس<ICON BETA>+ سميك	579	0	9	pl033_0011
+4	Leg	630	درع أرجل روح راث<ICON ALPHA>+ سميك	580	0	10	pl033_0101
+4	Leg	631	درع أرجل روح راث<ICON BETA>+ سميك	581	0	10	pl033_0111
+4	Leg	632	درع أرجل ديابلوس<ICON ALPHA>+ سميك	582	0	9	pl034_0001
+4	Leg	633	درع أرجل ديابلوس<ICON BETA>+ سميك	583	0	9	pl034_0011
+4	Leg	634	درع أرجل نيرو ديابلوس<ICON ALPHA>+ سميك	584	0	10	pl034_0101
+4	Leg	635	درع أرجل نيرو ديابلوس<ICON BETA>+ سميك	585	0	10	pl034_0111
+4	Leg	636	درع أرجل ليغيا<ICON ALPHA>+ سميك	586	0	9	pl027_0001
+4	Leg	637	درع أرجل ليغيا<ICON BETA>+ سميك	587	0	9	pl027_0011
+4	Leg	638	درع أرجل ليغيا الصارخ<ICON ALPHA>+ سميك	588	0	10	pl027_0500
+4	Leg	639	درع أرجل ليغيا الصارخ<ICON BETA>+ سميك	589	0	10	pl027_0510
+4	Leg	640	درع أرجل أودوغارون<ICON ALPHA>+ سميك	590	0	9	pl029_0001
+4	Leg	641	درع أرجل أودوغارون<ICON BETA>+ سميك	591	0	9	pl029_0011
+4	Leg	642	درع أرجل غارون الموت<ICON ALPHA>+ سميك	592	0	10	pl029_0101
+4	Leg	643	درع أرجل غارون الموت<ICON BETA>+ سميك	593	0	10	pl029_0111
+4	Leg	644	درع أرجل لافاسيوث سميك+	594	0	9	pl040_0001
+4	Leg	645	درع أرجل أوراغان سميك+	595	0	9	pl041_0001
+4	Leg	646	درع أرجل نارغاكوغا<ICON ALPHA>+ سميك	596	0	9	pl080_0000
+4	Leg	647	درع أرجل نارغاكوغا<ICON BETA>+ سميك	597	0	9	pl080_0010
+4	Leg	648	درع أرجل غلافنيوس<ICON ALPHA>+ سميك	598	0	9	pl081_0000
+4	Leg	649	درع أرجل غلافنيوس<ICON BETA>+ سميك	599	0	9	pl081_0010
+4	Leg	650	درع أرجل غلافنيوس حمضي<ICON ALPHA>+ سميك	600	0	10	pl081_0100
+4	Leg	651	درع أرجل غلافنيوس حمضي<ICON BETA>+ سميك	601	0	10	pl081_0110
+4	Leg	652	درع أرجل براكيديوس<ICON ALPHA>+ سميك	602	0	9	pl082_0000
+4	Leg	653	درع أرجل براكيديوس<ICON BETA>+ سميك	603	0	9	pl082_0010
+4	Leg	654	درع أرجل تغريكس<ICON ALPHA>+ سميك	604	0	9	pl083_0000
+4	Leg	655	درع أرجل تغريكس<ICON BETA>+ سميك	605	0	9	pl083_0010
+4	Leg	656	درع أرجل زئير ريكس<ICON ALPHA>+ سميك	606	0	10	pl083_0100
+4	Leg	657	درع أرجل زئير ريكس<ICON BETA>+ سميك	607	0	10	pl083_0110
 4	Leg	658	درع أرجل حزام أسود سميك	608	0	10	pl093_0000
-4	Leg	659	Unavailable	609	0	0	None
-4	Leg	660	Unavailable	610	0	0	None
-4	Leg	661	Unavailable	611	0	0	None
-4	Leg	662	Unavailable	612	0	0	None
-4	Leg	663	Unavailable	613	0	0	None
-4	Leg	664	Unavailable	614	0	0	None
-4	Leg	665	Unavailable	615	0	0	None
-4	Leg	666	Unavailable	616	0	0	None
-4	Leg	667	Unavailable	617	0	0	None
-4	Leg	668	Unavailable	618	0	0	None
-4	Leg	669	Unavailable	619	0	0	None
-4	Leg	670	Unavailable	620	0	0	None
-4	Leg	671	Unavailable	621	0	0	None
-4	Leg	672	Unavailable	622	0	0	None
-4	Leg	673	Unavailable	623	0	0	None
-4	Leg	674	Unavailable	624	0	0	None
-4	Leg	675	Unavailable	625	0	0	None
-4	Leg	678	Unavailable	628	0	0	None
-4	Leg	679	Unavailable	629	0	0	None
-4	Leg	680	Unavailable	630	0	0	None
-4	Leg	681	Unavailable	631	0	0	None
-4	Leg	682	Unavailable	632	0	0	None
-4	Leg	683	Unavailable	633	0	0	None
-4	Leg	684	Unavailable	634	0	0	None
-4	Leg	685	Unavailable	635	0	0	None
-4	Leg	686	Unavailable	636	0	0	None
-4	Leg	687	Unavailable	637	0	0	None
-4	Leg	688	Unavailable	638	0	0	None
-4	Leg	689	Unavailable	639	0	0	None
-4	Leg	690	Unavailable	640	0	0	None
-4	Leg	691	Unavailable	641	0	0	None
-4	Leg	692	Unavailable	642	0	0	None
-4	Leg	693	Unavailable	643	0	0	None
-4	Leg	694	Unavailable	644	0	0	None
-4	Leg	695	Unavailable	645	0	0	None
-4	Leg	696	Unavailable	646	0	0	None
-4	Leg	697	Unavailable	647	0	0	None
-4	Leg	698	Unavailable	648	0	0	None
-4	Leg	699	Unavailable	649	0	0	None
-4	Leg	700	Unavailable	650	0	0	None
-4	Leg	701	Unavailable	651	0	0	None
-4	Leg	702	Unavailable	652	0	0	None
-4	Leg	703	Unavailable	653	0	0	None
-4	Leg	704	Unavailable	654	0	0	None
-4	Leg	705	Unavailable	655	0	0	None
-4	Leg	706	Unavailable	656	0	0	None
-4	Leg	707	Unavailable	657	0	0	None
-4	Leg	708	Unavailable	658	0	0	None
-4	Leg	709	Unavailable	659	0	0	None
-4	Leg	710	Unavailable	660	0	0	None
-4	Leg	715	Unavailable	665	0	0	None
-4	Leg	716	Unavailable	666	0	0	None
+4	Leg	659	درع أرجل كبرياء<ICON ALPHA>+ سميك	609	0	10	pl042_0500
+4	Leg	660	درع أرجل كبرياء<ICON BETA>+ سميك	610	0	10	pl042_0510
+4	Leg	661	درع أرجل شرِه<ICON ALPHA>+ سميك	611	0	10	pl050_0500
+4	Leg	662	درع أرجل شرِه<ICON BETA>+ سميك	612	0	10	pl050_0510
+4	Leg	663	درع أرجل حارس الصقيع<ICON ALPHA>+ سميك	613	0	11	pl085_0000
+4	Leg	664	درع أرجل حارس الصقيع<ICON BETA>+ سميك	614	0	11	pl085_0010
+4	Leg	665	درع أرجل فيلشرود<ICON ALPHA>+ سميك	615	0	11	pl032_0500
+4	Leg	666	درع أرجل فيلشرود<ICON BETA>+ سميك	616	0	11	pl032_0510
+4	Leg	667	درع أرجل تيوسترا<ICON ALPHA>+ سميك	617	0	11	pl046_0001
+4	Leg	668	درع أرجل تيوسترا<ICON BETA>+ سميك	618	0	11	pl046_0011
+4	Leg	669	درع أرجل كوشالا<ICON ALPHA>+ سميك	619	0	11	pl047_0001
+4	Leg	670	درع أرجل كوشالا<ICON BETA>+ سميك	620	0	11	pl047_0011
+4	Leg	671	درع أرجل كيرين<ICON ALPHA>+ سميك	621	0	11	pl035_0001
+4	Leg	672	درع أرجل كيرين<ICON BETA>+ سميك	622	0	11	pl035_0011
+4	Leg	673	درع أرجل مجس<ICON ALPHA>+ سميك	623	0	11	pl086_0000
+4	Leg	674	درع أرجل مجس<ICON BETA>+ سميك	624	0	11	pl086_0010
+4	Leg	675	درع أرجل قصر النقابة سميك+	625	0	10	pl094_0000
+4	Leg	678	درع أرجل شارا<ICON ALPHA>+ سميك	628	0	11	pl088_0000
+4	Leg	679	درع أرجل شارا<ICON BETA>+ سميك	629	0	11	pl088_0010
+4	Leg	680	درع أرجل غاروغا<ICON ALPHA>+ سميك	630	0	10	pl108_0000
+4	Leg	681	درع أرجل غاروغا<ICON BETA>+ سميك	631	0	10	pl108_0010
+4	Leg	682	درع أرجل زينغر<ICON ALPHA>+ سميك	632	0	10	pl107_0000
+4	Leg	683	درع أرجل زينغر<ICON BETA>+ سميك	633	0	10	pl107_0010
+4	Leg	684	درع أرجل القمر الذهبي<ICON ALPHA>+ سميك	634	0	11	pl021_0200
+4	Leg	685	درع أرجل القمر الذهبي<ICON BETA>+ سميك	635	0	11	pl021_0210
+4	Leg	686	درع أرجل الشمس الفضية<ICON ALPHA>+ سميك	636	0	11	pl033_0200
+4	Leg	687	درع أرجل الشمس الفضية<ICON BETA>+ سميك	637	0	11	pl033_0210
+4	Leg	688	درع أرجل لوناسترا<ICON ALPHA>+ سميك	638	0	11	pl051_0001
+4	Leg	689	درع أرجل لوناسترا<ICON BETA>+ سميك	639	0	11	pl051_0011
+4	Leg	690	درع أرجل الضَرُوس<ICON ALPHA>+ سميك	640	0	11	pl030_0500
+4	Leg	691	درع أرجل الضَرُوس<ICON BETA>+ سميك	641	0	11	pl030_0510
+4	Leg	692	درع أرجل عمل النقابة سميك+	642	0	11	pl092_0000
+4	Leg	693	درع أرجل راجانغ<ICON ALPHA>+ سميك	643	0	10	pl109_0000
+4	Leg	694	درع أرجل راجانغ<ICON BETA>+ سميك	644	0	10	pl109_0010
+4	Leg	695	درع أرجل جهنمي<ICON ALPHA>+ سميك	645	0	10	pl107_0100
+4	Leg	696	درع أرجل جهنمي<ICON BETA>+ سميك	646	0	10	pl107_0110
+4	Leg	697	درع أرجل صافي<ICON ALPHA>+ سميك	647	0	11	pl087_0000
+4	Leg	698	درع أرجل صافي<ICON BETA>+ سميك	648	0	11	pl087_0010
+4	Leg	699	درع أرجل راجانغ غاضب<ICON ALPHA>+ سميك	649	0	11	pl109_0500
+4	Leg	700	درع أرجل راجانغ غاضب<ICON BETA>+ سميك	650	0	11	pl109_0510
+4	Leg	701	درع أرجل براكيديوم<ICON ALPHA>+ سميك	651	0	11	pl082_0500
+4	Leg	702	درع أرجل براكيديوم<ICON BETA>+ سميك	652	0	11	pl082_0510
+4	Leg	703	درع أرجل أنياب الصقيع<ICON ALPHA>+ سميك	653	0	10	pl089_0500
+4	Leg	704	درع أرجل أنياب الصقيع<ICON BETA>+ سميك	654	0	10	pl089_0510
+4	Leg	705	درع أرجل إسكادورا<ICON ALPHA>+ سميك	655	0	11	pl052_0000
+4	Leg	706	درع أرجل إسكادورا<ICON BETA>+ سميك	656	0	11	pl052_0010
+4	Leg	707	درع أرجل تنين<ICON ALPHA>+ سميك	657	0	11	pl129_0000
+4	Leg	708	درع أرجل تنين<ICON BETA>+ سميك	658	0	11	pl129_0010
+4	Leg	709	درع أرجل كولف<ICON ALPHA>+ سميك	659	0	11	pl049_0001
+4	Leg	710	درع أرجل كولف<ICON BETA>+ سميك	660	0	11	pl049_0011
+4	Leg	715	درع أرجل هيكل التقوية<ICON ALPHA>+ سميك	665	0	10	pl115_0000
+4	Leg	716	درع أرجل عصر اللازورد السميك	666	0	11	pl072_0001
 4	Leg	717	Unavailable	667	0	0	None
-4	Leg	718	Unavailable	668	0	0	None
-4	Leg	719	Unavailable	669	0	0	None
-4	Leg	720	Unavailable	670	0	0	None
+4	Leg	718	HARDUMMY	668	0	11	pl068_0020
+4	Leg	719	درع أرجل حارس الصقيع<ICON GAMMA>+ سميك	669	0	11	pl085_0020
+4	Leg	720	درع أرجل مجس<ICON GAMMA>+ سميك	670	0	11	pl086_0020
 4	Leg	721	Unavailable	671	0	0	None
-4	Leg	722	Unavailable	672	0	0	None
+4	Leg	722	درع أرجل هيكل تقوية<ICON GAMMA>+ سميك	672	0	11	pl115_0001
 4	Leg	723	زي أرجل<ICON ALPHA> السميكة الداخلية	673	0	11	pl500_0000
 4	Leg	724	زي أرجل<ICON BETA> السميكة الداخلية	675	0	11	pl501_0000
 4	Leg	725	Unavailable	676	0	0	None
@@ -3400,7 +3400,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	319	سحر الصقيع IV	0	0	10	None
 5	Charm	320	سحر الصقيع V	0	0	11	None
 5	Charm	321	سحر السيد IV	0	0	10	None
-5	Charm	322	Unavailable	0	0	0	None
+5	Charm	322	سحر السيد V	0	0	11	None
 5	Charm	323	سحر التفادي IV	0	0	11	None
 5	Charm	324	سحر التفادي V	0	0	11	None
 5	Charm	325	سحر الدوامة IV	0	0	10	None
@@ -3414,11 +3414,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	333	سحر الفطر III	0	0	10	None
 5	Charm	334	سحر الصحوة III	0	0	11	None
 5	Charm	335	سحر الحرفية IV	0	0	11	None
-5	Charm	336	Unavailable	0	0	0	None
+5	Charm	336	سحر الحرفية V	0	0	11	None
 5	Charm	337	سحر سدادات الأذن IV	0	0	11	None
-5	Charm	338	Unavailable	0	0	0	None
+5	Charm	338	سحر سدادات الأذن V	0	0	11	None
 5	Charm	339	سحر الزلازل III	0	0	11	None
-5	Charm	340	Unavailable	0	0	0	None
+5	Charm	340	سحر المستغِل III	0	0	11	None
 5	Charm	341	سحر التركيز III	0	0	11	None
 5	Charm	342	سحر الكاسر III	0	0	10	None
 5	Charm	343	سحر الغاضب III	0	0	10	None
@@ -3437,7 +3437,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	356	سحر الهائل III	0	0	11	None
 5	Charm	357	سحر التصادم III	0	0	10	None
 5	Charm	358	سحر الحسم II	0	0	11	None
-5	Charm	359	Unavailable	0	0	0	None
+5	Charm	359	سحر الحسم III	0	0	11	None
 5	Charm	360	سحر التنشيط III	0	0	10	None
 5	Charm	361	سحر العنقاء I	0	0	10	None
 5	Charm	362	سحر العنقاء II	0	0	11	None
@@ -3461,7 +3461,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	380	سحر النجاة II	0	0	2	None
 5	Charm	381	سحر النجاة III	0	0	2	None
 5	Charm	382	Unavailable	0	0	2	None
-5	Charm	383	Unavailable	0	0	0	None
+5	Charm	383	سحر الشفرة	0	0	8	None
 5	Charm	384	Unavailable	0	0	0	None
 5	Charm	385	Unavailable	0	0	0	None
 5	Charm	386	Unavailable	0	0	0	None

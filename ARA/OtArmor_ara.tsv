@@ -124,12 +124,12 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	162	فراء كولف لفيلاين<ICON ALPHA>+	otomo/equip/ot025/helm
 0	Helmet	163	خوذة ميجا مان<ICON ALPHA>+	otomo/equip/ot035/helm
 0	Helmet	164	عتاد رأس موغل<ICON ALPHA>+	otomo/equip/ot038/helm
-0	Helmet	165	HARDUMMY	otomo/equip/ot037/helm
+0	Helmet	165	تاج فيلاين نجمي لازوردي<ICON ALPHA>+	otomo/equip/ot037/helm
 0	Helmet	166	HARDUMMY	otomo/equip/ot036/helm
 0	Helmet	167	خوذة ساموراي لفيلاين<ICON ALPHA>+	otomo/equip/ot039/helm
 0	Helmet	168	قبعة فراشة الفيلاين<ICON ALPHA>+	otomo/equip/ot040/helm
 0	Helmet	169	قبعة ألوها فيلاين<ICON ALPHA>+	otomo/equip/ot041/helm
-0	Helmet	170	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	170	قناع فيلاين ميولوين<ICON ALPHA>+	otomo/equip/ot042/helm
 0	Helmet	171	عتاد الرأس القطبي لفيلاين<ICON ALPHA>+	otomo/equip/ot043/helm
 0	Helmet	172	عتاد رأس النجم لفيلاين<ICON ALPHA>+	otomo/equip/ot044/helm
 0	Helmet	173	قبعة فيلاين جلدية<ICON ALPHA>+	otomo/equip/ot001/helm
@@ -141,18 +141,18 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	179	قبعة فيلاين النقابة<ICON ALPHA>+	otomo/equip/ot063/helm
 0	Helmet	180	خوذة فيلاين الوردية<ICON ALPHA>+	otomo/equip/ot075/helm
 0	Helmet	181	عتاد رأس فيلاين بوكي<ICON ALPHA>+	otomo/equip/ot076/helm
-0	Helmet	182	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	182	رأس فيلاين فرانكي<ICON ALPHA>+	otomo/equip/ot077/helm
 0	Helmet	183	رأس شيشيماي فيلاين<ICON ALPHA>+	otomo/equip/ot078/helm
 0	Helmet	184	خوذة فيلاين فضائية<ICON ALPHA>+	otomo/equip/ot079/helm
 0	Helmet	185	قبعة فيلاين جلدية	otomo/equip/ot000/helm
 0	Helmet	186	قبعة فيلاين جلدية	otomo/equip/ot000/helm
 0	Helmet	187	قبعة فيلاين جلدية	otomo/equip/ot000/helm
-0	Helmet	188	HARDUMMY	otomo/equip/ot080/helm
+0	Helmet	188	قبعة أسد عصر اللازورد F<ICON ALPHA>+	otomo/equip/ot080/helm
 0	Helmet	189	HARDUMMY	otomo/equip/ot081/helm
 0	Helmet	190	عتاد رأس دودة فيلاين<ICON ALPHA>+	otomo/equip/ot082/helm
 0	Helmet	191	قبعة فيلاين جلدية	otomo/equip/ot000/helm
 0	Helmet	192	شعر فيلاين أنياب الصقيع<ICON ALPHA>+	otomo/equip/ot083/helm
-0	Helmet	193	قبعة فيلاين جلدية	otomo/equip/ot000/helm
+0	Helmet	193	رأس فيلاين فاتاليس<ICON ALPHA>+	otomo/equip/ot084/helm
 0	Helmet	194	قبعة فيلاين جلدية	otomo/equip/ot000/helm
 0	Helmet	195	شعر الملحن لفيلاين<ICON ALPHA>+	otomo/equip/ot085/helm
 0	Helmet	196	قبعة فيلاين جلدية	otomo/equip/ot000/helm
@@ -286,12 +286,12 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	162	بذلة كولف لفيلاين<ICON ALPHA>+	otomo/equip/ot025/body
 1	Armor	163	بذلة ميجا مان<ICON ALPHA>+	otomo/equip/ot035/body
 1	Armor	164	جسد موغل<ICON ALPHA>+	otomo/equip/ot038/body
-1	Armor	165	HARDUMMY	otomo/equip/ot037/body
+1	Armor	165	درع فيلاين نجمي لازوردي<ICON ALPHA>+	otomo/equip/ot037/body
 1	Armor	166	HARDUMMY	otomo/equip/ot036/body
 1	Armor	167	درع ساموراي لفيلاين<ICON ALPHA>+	otomo/equip/ot039/body
 1	Armor	168	صديري فراشة الفيلاين<ICON ALPHA>+	otomo/equip/ot040/body
 1	Armor	169	قميص ألوها فيلاين<ICON ALPHA>+	otomo/equip/ot041/body
-1	Armor	170	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	170	ثوب شبح فيلاين<ICON ALPHA>+	otomo/equip/ot042/body
 1	Armor	171	بدلة النمر القطبي لفيلاين<ICON ALPHA>+	otomo/equip/ot043/body
 1	Armor	172	بذلة النجم لفيلاين<ICON ALPHA>+	otomo/equip/ot044/body
 1	Armor	173	صديري فيلاين جلدي<ICON ALPHA>+	otomo/equip/ot001/body
@@ -303,18 +303,18 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	179	معطف فيلاين للنقابة<ICON ALPHA>+	otomo/equip/ot063/body
 1	Armor	180	فستان فيلاين الوردي<ICON ALPHA>+	otomo/equip/ot075/body
 1	Armor	181	درع جسد فيلاين<ICON ALPHA>+	otomo/equip/ot076/body
-1	Armor	182	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	182	جسد فيلاين فرانكي<ICON ALPHA>+	otomo/equip/ot077/body
 1	Armor	183	جسد شيشيماي فيلاين<ICON ALPHA>+	otomo/equip/ot078/body
 1	Armor	184	بذلة فضاء فيلاين<ICON ALPHA>+	otomo/equip/ot079/body
 1	Armor	185	قبعة فيلاين جلدية	otomo/equip/ot000/body
 1	Armor	186	قبعة فيلاين جلدية	otomo/equip/ot000/body
 1	Armor	187	قبعة فيلاين جلدية	otomo/equip/ot000/body
-1	Armor	188	HARDUMMY	otomo/equip/ot080/body
+1	Armor	188	كيمونو عصر اللازورد F<ICON ALPHA>+	otomo/equip/ot080/body
 1	Armor	189	HARDUMMY	otomo/equip/ot081/body
 1	Armor	190	بوتقة دودة فيلاين ضخمة<ICON ALPHA>+	otomo/equip/ot082/body
 1	Armor	191	قبعة فيلاين جلدية	otomo/equip/ot000/body
 1	Armor	192	زي فيلاين أنياب الصقيع<ICON ALPHA>+	otomo/equip/ot083/body
-1	Armor	193	قبعة فيلاين جلدية	otomo/equip/ot000/body
+1	Armor	193	جسد فيلاين فاتاليس<ICON ALPHA>+	otomo/equip/ot084/body
 1	Armor	194	قبعة فيلاين جلدية	otomo/equip/ot000/body
 1	Armor	195	بذلة الملحن لفيلاين<ICON ALPHA>+	otomo/equip/ot085/body
 1	Armor	196	درع البلوط لفيلاين<ICON ALPHA>+	otomo/equip/ot086/body

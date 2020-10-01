@@ -236,8 +236,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 0	GreatSword	235	Меч меченосца	10	Unique Model	wp/two/two025	
 0	GreatSword	236	Палач преисподней+	11	Combined Model	wp/two/bs_two003	wp/two/parts/op_two023
 0	GreatSword	237	Ледяной демон	10	Unique Model	wp/two/two028	
-0	GreatSword	238	Unavailable	0	Combined Model	wp/two/bs_two002	
-0	GreatSword	239	Unavailable	0	Combined Model	wp/two/bs_two002	
+0	GreatSword	238	Клинок Фаталиса	10	Unique Model	wp/two/two029	
+0	GreatSword	239	Черный клинок Фаталиса	11	Unique Model	wp/two/two029	
 0	GreatSword	240	Клинок королевской Венеры	11	Unique Model	wp/two/two026	
 0	GreatSword	241	Unavailable	0	Combined Model	wp/two/bs_two002	
 0	GreatSword	242	Unavailable	0	Combined Model	wp/two/bs_two002	
@@ -553,8 +553,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 1	Sword&Shield	234	Меч дворца гильдии	9	Unique Model	wp/one/one031	
 1	Sword&Shield	235	Запрещенная дубинка раянга	11	Unique Model	wp/one/one023	
 1	Sword&Shield	236	Серебряное острие	10	Unique Model	wp/one/one033	
-1	Sword&Shield	237	Unavailable	0	Combined Model	wp/one/bs_one001	
-1	Sword&Shield	238	Unavailable	0	Combined Model	wp/one/bs_one001	
+1	Sword&Shield	237	Меч Фаталиса	10	Unique Model	wp/one/one034	
+1	Sword&Shield	238	Истинный меч Фаталиса	11	Unique Model	wp/one/one034	
 1	Sword&Shield	239	Меч королевской новы	11	Unique Model	wp/one/one031	
 1	Sword&Shield	240	Unavailable	0	Combined Model	wp/one/bs_one001	
 1	Sword&Shield	241	Unavailable	0	Combined Model	wp/one/bs_one001	
@@ -873,8 +873,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 2	DualBlades	238	Длани разбойника	11	Unique Model	wp/sou/sou023	
 2	DualBlades	239	Unavailable	0	Combined Model	wp/sou/bs_sou001	
 2	DualBlades	240	Бергель ветра	10	Unique Model	wp/sou/sou031	
-2	DualBlades	241	Unavailable	0	Combined Model	wp/sou/bs_sou001	
-2	DualBlades	242	Unavailable	0	Combined Model	wp/sou/bs_sou001	
+2	DualBlades	241	Двойные клинки Фаталиса	10	Unique Model	wp/sou/sou032	
+2	DualBlades	242	Двойная бездна Фаталиса	11	Unique Model	wp/sou/sou032	
 2	DualBlades	243	Unavailable	0	Combined Model	wp/sou/bs_sou001	
 2	DualBlades	244	Крепкий эль	9	Unique Model	wp/sou/sou033	
 2	DualBlades	245	Мастерский эль	10	Unique Model	wp/sou/sou033	
@@ -1173,7 +1173,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 3	LongSword	222	Загадка ксено'джиивы+	11	Combined Model	wp/swo/bs_swo003	wp/swo/parts/op_swo011
 3	LongSword	223	Костолом ада	10	Unique Model	wp/swo/swo001	
 3	LongSword	224	Катана предела	11	Unique Model	wp/swo/swo018	
-3	LongSword	225	HARDUMMY	11	Unique Model	wp/swo/swo010	
+3	LongSword	225	"Лаз. звезда ""Танец дракона""+"	11	Unique Model	wp/swo/swo010	
 3	LongSword	226	Демонова алебарда	10	Unique Model	wp/swo/swo024	
 3	LongSword	227	Алебарда царя демонов	11	Unique Model	wp/swo/swo025	
 3	LongSword	228	Коготь тьмы	10	Unique Model	wp/swo/swo027	
@@ -1188,8 +1188,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 3	LongSword	237	Рапира дворца гильдии	9	Unique Model	wp/swo/swo031	
 3	LongSword	238	Большая демонова алебарда	11	Unique Model	wp/swo/swo024	
 3	LongSword	239	Грань адулярии	10	Unique Model	wp/swo/swo033	
-3	LongSword	240	Unavailable	0	Combined Model	wp/swo/bs_swo001	
-3	LongSword	241	Unavailable	0	Combined Model	wp/swo/bs_swo001	
+3	LongSword	240	Серп Фаталиса	10	Unique Model	wp/swo/swo034	
+3	LongSword	241	Коса Фаталиса	11	Unique Model	wp/swo/swo034	
 3	LongSword	242	Unavailable	0	Combined Model	wp/swo/bs_swo001	
 3	LongSword	243	Рапира королевского капитана	11	Unique Model	wp/swo/swo031	
 3	LongSword	244	Unavailable	0	Combined Model	wp/swo/bs_swo001	
@@ -1503,8 +1503,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 4	Hammer	239	Чернокрылый смертобой 1	9	Combined Model	wp/ham/bs_ham009	wp/ham/parts/op_ham021
 4	Hammer	240	Чернокрылый смертобой 2	10	Combined Model	wp/ham/bs_ham009	wp/ham/parts/op_ham021
 4	Hammer	241	Полярный удар	10	Unique Model	wp/ham/ham032	
-4	Hammer	242	Unavailable	0	Combined Model	wp/ham/bs_ham001	
-4	Hammer	243	Unavailable	0	Combined Model	wp/ham/bs_ham001	
+4	Hammer	242	Бластер Фаталиса	10	Unique Model	wp/ham/ham033	
+4	Hammer	243	Разрушитель Фаталиса	11	Unique Model	wp/ham/ham033	
 4	Hammer	244	Unavailable	0	Combined Model	wp/ham/bs_ham001	
 4	Hammer	245	Булава королевского креста	11	Unique Model	wp/ham/ham031	
 4	Hammer	246	Unavailable	0	Combined Model	wp/ham/bs_ham001	
@@ -1806,8 +1806,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 5	HuntingHorn	230	Бард дворца гильдии	9	Unique Model	wp/hue/hue026	
 5	HuntingHorn	231	Тимпан шамана	11	Unique Model	wp/hue/hue022	
 5	HuntingHorn	232	Брингуиро	10	Unique Model	wp/hue/hue028	
-5	HuntingHorn	233	Unavailable	0	Combined Model	wp/hue/bs_hue001	
-5	HuntingHorn	234	Unavailable	0	Combined Model	wp/hue/bs_hue001	
+5	HuntingHorn	233	Угроза Фаталиса	10	Unique Model	wp/hue/hue029	
+5	HuntingHorn	234	Гриф угрозы фаталиса	11	Unique Model	wp/hue/hue029	
 5	HuntingHorn	235	Симфония королевской песни	11	Unique Model	wp/hue/hue026	
 5	HuntingHorn	236	Unavailable	0	Combined Model	wp/hue/bs_hue001	
 5	HuntingHorn	237	Unavailable	0	Combined Model	wp/hue/bs_hue001	
@@ -2119,8 +2119,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 6	Lance	231	Разряд молнии 2	9	Combined Model	wp/lan/bs_lan010	
 6	Lance	232	Адская боевая пика+	11	Combined Model	wp/lan/bs_lan010	wp/lan/parts/op_lan024
 6	Lance	233	Саблеклык	10	Unique Model	wp/lan/lan029	
-6	Lance	234	Unavailable	0	Combined Model	wp/lan/bs_lan001	
-6	Lance	235	Unavailable	0	Combined Model	wp/lan/bs_lan001	
+6	Lance	234	Копье Фаталиса	10	Unique Model	wp/lan/lan030	
+6	Lance	235	Истинное копье Фаталиса	11	Unique Model	wp/lan/lan030	
 6	Lance	236	Пика королевской милости	11	Unique Model	wp/lan/lan028	
 6	Lance	237	Unavailable	0	Combined Model	wp/lan/bs_lan001	
 6	Lance	238	Unavailable	0	Combined Model	wp/lan/bs_lan001	
@@ -2429,8 +2429,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 7	GunLance	235	Unavailable	0	Combined Model	wp/gun/bs_gun001	
 7	GunLance	236	Unavailable	0	Combined Model	wp/gun/bs_gun001	
 7	GunLance	237	Белый рыцарь	10	Unique Model	wp/gun/gun029	
-7	GunLance	238	Unavailable	0	Combined Model	wp/gun/bs_gun001	
-7	GunLance	239	Unavailable	0	Combined Model	wp/gun/bs_gun001	
+7	GunLance	238	Копьепушка Фаталиса	10	Unique Model	wp/gun/gun030	
+7	GunLance	239	Истинная копьепушка Фаталиса	11	Unique Model	wp/gun/gun030	
 7	GunLance	240	Страйкер королевской стражи	11	Unique Model	wp/gun/gun027	
 7	GunLance	241	Unavailable	0	Combined Model	wp/gun/bs_gun001	
 7	GunLance	242	Unavailable	0	Combined Model	wp/gun/bs_gun001	
@@ -2739,8 +2739,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 8	SwitchAxe	238	Бессмертный свет	11	Unique Model	wp/saxe/saxe019	
 8	SwitchAxe	239	Адский колун+	11	Combined Model	wp/saxe/bs_saxe002	wp/saxe/parts/op_saxe026
 8	SwitchAxe	240	Иней лунного камня	10	Unique Model	wp/saxe/saxe024	
-8	SwitchAxe	241	Unavailable	0	Combined Model	wp/saxe/bs_saxe001	
-8	SwitchAxe	242	Unavailable	0	Combined Model	wp/saxe/bs_saxe001	
+8	SwitchAxe	241	Рок Фаталиса	10	Unique Model	wp/saxe/saxe025	
+8	SwitchAxe	242	Истинный рок Фаталиса	11	Unique Model	wp/saxe/saxe025	
 8	SwitchAxe	243	Королевский титановый топор	11	Unique Model	wp/saxe/saxe023	
 8	SwitchAxe	244	Unavailable	0	Combined Model	wp/saxe/bs_saxe001	
 8	SwitchAxe	245	Unavailable	0	Combined Model	wp/saxe/bs_saxe001	
@@ -3030,8 +3030,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 9	ChargeBlade	227	Unavailable	0	Combined Model	wp/caxe/bs_caxe001	
 9	ChargeBlade	228	Unavailable	0	Combined Model	wp/caxe/bs_caxe001	
 9	ChargeBlade	229	Клык неистового волка	10	Unique Model	wp/caxe/caxe029	
-9	ChargeBlade	230	Unavailable	0	Combined Model	wp/caxe/bs_caxe001	
-9	ChargeBlade	231	Unavailable	0	Combined Model	wp/caxe/bs_caxe001	
+9	ChargeBlade	230	Сила Фаталиса	10	Unique Model	wp/caxe/caxe031	
+9	ChargeBlade	231	Истинная сила Фаталиса	11	Unique Model	wp/caxe/caxe031	
 9	ChargeBlade	232	Черный Орел	9	Unique Model	wp/caxe/caxe030	
 9	ChargeBlade	233	Черный Орел Молний	11	Unique Model	wp/caxe/caxe030	
 9	ChargeBlade	234	Королевский звездный щит	11	Unique Model	wp/caxe/caxe028	
@@ -3352,8 +3352,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 10	InsectGlaive	240	Unavailable	0	Combined Model	wp/rod/bs_rod001	
 10	InsectGlaive	241	Unavailable	0	Combined Model	wp/rod/bs_rod001	
 10	InsectGlaive	242	Роза Фенрира	10	Unique Model	wp/rod/rod028	
-10	InsectGlaive	243	Unavailable	0	Combined Model	wp/rod/bs_rod001	
-10	InsectGlaive	244	Unavailable	0	Combined Model	wp/rod/bs_rod001	
+10	InsectGlaive	243	Глефа Фаталиса	10	Unique Model	wp/rod/rod029	
+10	InsectGlaive	244	Истинный Фаталис-Деус	11	Unique Model	wp/rod/rod029	
 10	InsectGlaive	245	Стяг королевского марша	11	Unique Model	wp/rod/rod027	
 10	InsectGlaive	246	Unavailable	0	Combined Model	wp/rod/bs_rod001	
 10	InsectGlaive	247	Unavailable	0	Combined Model	wp/rod/bs_rod001	
@@ -3647,10 +3647,10 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 11	Bow	231	Грозовой лук царя зверей	128	Unique Model	wp/bow/bow021	
 11	Bow	232	Unavailable	0	Combined Model	wp/bow/bs_bow001	
 11	Bow	233	Эдельэсха	64	Unique Model	wp/bow/bow027	
-11	Bow	234	Unavailable	0	Combined Model	wp/bow/bs_bow001	
-11	Bow	235	Unavailable	0	Combined Model	wp/bow/bs_bow001	
-11	Bow	236	HARDUMMY	128	Unique Model	wp/bow/bow028	
-11	Bow	237	HARDUMMY	128	Unique Model	wp/bow/bow028	
+11	Bow	234	Лук погибели и разорения	96	Unique Model	wp/bow/bow029	
+11	Bow	235	Лук порока и жестокости	128	Unique Model	wp/bow/bow029	
+11	Bow	236	"""Парящий дракон"" лазурн. эры"	128	Unique Model	wp/bow/bow028	
+11	Bow	237	"""Парящий дракон"" лаз. эры+"	128	Unique Model	wp/bow/bow028	
 11	Bow	238	Королевское северное крыло	128	Unique Model	wp/bow/bow026	
 11	Bow	239	Unavailable	0	Combined Model	wp/bow/bs_bow001	
 11	Bow	240	Unavailable	0	Combined Model	wp/bow/bs_bow001	
@@ -3946,8 +3946,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 12	HeavyBowGun	222	Ружье дворца гильдии	128	Unique Model	wp/hbg/hbg027	
 12	HeavyBowGun	223	Уничтожитель раянга	128	Unique Model	wp/hbg/hbg022	
 12	HeavyBowGun	224	Последняя герилья	64	Unique Model	wp/hbg/hbg029	
-12	HeavyBowGun	225	Unavailable	0	Combined Model	wp/hbg/bs_hbg001	
-12	HeavyBowGun	226	Unavailable	0	Combined Model	wp/hbg/bs_hbg001	
+12	HeavyBowGun	225	Пушка Фора	96	Unique Model	wp/hbg/hbg030	
+12	HeavyBowGun	226	Копье Фора	128	Unique Model	wp/hbg/hbg030	
 12	HeavyBowGun	227	Свита королевского света	128	Unique Model	wp/hbg/hbg027	
 12	HeavyBowGun	228	Unavailable	0	Combined Model	wp/hbg/bs_hbg001	
 12	HeavyBowGun	229	Unavailable	0	Combined Model	wp/hbg/bs_hbg001	
@@ -4270,8 +4270,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 13	LightBowGun	233	Unavailable	0	Combined Model	wp/lbg/bs_lbg001	
 13	LightBowGun	234	Unavailable	0	Combined Model	wp/lbg/bs_lbg001	
 13	LightBowGun	235	Порыв вьюги	64	Unique Model	wp/lbg/lbg023	
-13	LightBowGun	236	Unavailable	0	Combined Model	wp/lbg/bs_lbg001	
-13	LightBowGun	237	Unavailable	0	Combined Model	wp/lbg/bs_lbg001	
+13	LightBowGun	236	Гроза Фаталиса	96	Unique Model	wp/lbg/lbg025	
+13	LightBowGun	237	Глубины Фаталиса	128	Unique Model	wp/lbg/lbg025	
 13	LightBowGun	238	HARDUMMY	128	Unique Model	wp/lbg/lbg024	
 13	LightBowGun	239	HARDUMMY	128	Unique Model	wp/lbg/lbg024	
 13	LightBowGun	240	Королевское точное лукорудие	128	Unique Model	wp/lbg/lbg022	

@@ -115,8 +115,12 @@ N766_NPC_NAME	Exigente de la 4.ª	npc766
 N767_NPC_NAME	Impulsiva de la 5.ª	npc767
 N781_NPC_NAME	Herrero joven	npc781
 N782_NPC_NAME	Vicejefe ecólogo	npc782
+N785_NPC_NAME	General	npc785
+N786_NPC_NAME	Subalterno	npc786
+N787_NPC_NAME	Subalterna	npc787
 N792_NPC_NAME	Vendedor de la forja	npc792
 N793_NPC_NAME	Recursos de la 3.ª	npc793
+N788_NPC_NAME	Artemis	npc788
 HUNTER_00_NAME	Cazador novato	
 HUNTER_01_NAME	Cazador inexperto	
 HUNTER_02_NAME	Joven cazador	

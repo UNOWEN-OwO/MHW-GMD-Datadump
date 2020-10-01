@@ -156,8 +156,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	159	【풀드레스】 의상-머리	153	0	3	pl078_0000
 0	Head	160	Unavailable	158	2	0	pl001_0000
 0	Head	299	HARDUMMY	154	0	7	pl068_0000
-0	Head	291	HARDUMMY	155	0	7	pl069_0000
-0	Head	292	HARDUMMY	156	0	7	pl070_0000
+0	Head	291	【Ryu】의상-머리	155	0	7	pl069_0000
+0	Head	292	【Sakura】 의상-머리	156	0	7	pl070_0000
 0	Head	144	Unavailable	157	2	0	pl001_0000
 0	Head	297	【바예크】의상-머리	159	0	7	pl120_0000
 0	Head	162	Unavailable	160	2	0	pl001_0000
@@ -198,9 +198,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	223	조라마그나헤드γ	213	72	7	pl038_0020
 0	Head	224	제노라지헤드γ	214	72	7	pl045_0020
 0	Head	225	HARDUMMY	215	46	4	pl068_0000
-0	Head	226	HARDUMMY	216	12	1	pl069_0000
-0	Head	227	HARDUMMY	217	60	6	pl069_0000
-0	Head	228	HARDUMMY	218	50	5	pl070_0000
+0	Head	226	Ryu 페이스	216	12	1	pl069_0000
+0	Head	227	Ryu 페이스α	217	60	6	pl069_0000
+0	Head	228	Sakura 페이스α	218	50	5	pl070_0000
 0	Head	229	파란별 장군【투구】α	219	56	6	pl072_0000
 0	Head	230	단테 위그α	220	64	7	pl071_0000
 0	Head	231	엠프리스섹터α	221	70	7	pl051_0000
@@ -297,9 +297,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	370	【랑고】의상-머리	320	0	4	pl007_0000
 0	Head	371	【타로스】의상-머리	321	0	4	pl017_0000
 0	Head	374	EX날렵함의귀걸이α	324	154	10	pl095_0000
-0	Head	375	【금천원숭이】의상-머리	325	0	11	pl113_0001
+0	Head	375	【금천원숭이】의상	325	0	11	pl113_0001
 0	Head	376	【샤무】의상-머리	326	0	4	pl058_0000
-0	Head	377	【켈비페이크】의상-머리	327	0	8	pl096_0000
+0	Head	377	【켈비페이크】의상	327	0	8	pl096_0000
 0	Head	378	EX잉곳헬름α	328	136	9	pl031_0000
 0	Head	379	EX잉곳헬름β	329	136	9	pl031_0000
 0	Head	380	EX벨리오헬름α	330	138	9	pl089_0000
@@ -347,7 +347,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	422	EX디노이에로헬름β	372	150	10	pl081_0110
 0	Head	423	EX아티어헬름α	373	142	9	pl091_0000
 0	Head	424	EX아티어헬름β	374	142	9	pl091_0000
-0	Head	425	Unavailable	375	0	0	None
+0	Head	425	【스컬스카프】의상	375	0	10	pl099_0000
 0	Head	426	【푸케푸케α】의상-머리	376	0	4	pl010_0000
 0	Head	427	【푸케푸케β】의상-머리	377	0	4	pl010_0010
 0	Head	428	EX도베르헬름α	378	152	10	pl044_0000
@@ -368,7 +368,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	443	EX키린혼β	393	154	11	pl035_0011
 0	Head	444	EX텐터클헬름α	394	158	11	pl086_0000
 0	Head	445	EX텐터클헬름β	395	158	11	pl086_0010
-0	Head	446	Unavailable	396	0	0	None
+0	Head	446	【아크로크α】의상-머리	396	0	9	pl104_0000
 0	Head	447	【보로스】의상-머리	397	0	4	pl012_0000
 0	Head	448	EX길드팰리스헬름α	398	154	10	pl094_0000
 0	Head	449	EX길드팰리스헬름β	399	154	10	pl094_0000
@@ -412,7 +412,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	487	EX에스카드라와이즈β	437	160	11	pl052_0010
 0	Head	488	EX봉인의 용해포α	438	152	11	pl100_0000
 0	Head	489	EX용인족의 귀α	439	140	8	pl101_0000
-0	Head	490	【아프토페이크】의상-머리	440	0	8	pl097_0000
+0	Head	490	【아프토페이크】의상	440	0	8	pl097_0000
 0	Head	491	EX껴입기펭귄페이크α	441	138	8	pl098_0000
 0	Head	492	EX엠프리스섹터α	442	164	11	pl051_0001
 0	Head	493	EX엠프리스섹터β	443	164	11	pl051_0011
@@ -422,7 +422,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	497	【우르무】의상-머리	447	0	4	pl024_0000
 0	Head	498	EX패션헤드α	448	156	9	pl125_0000
 0	Head	499	【레이아α】의상-머리	449	0	4	pl021_0000
-0	Head	500	Unavailable	450	0	0	None
+0	Head	500	EX마계의 주인【반짝이는 헤어】α	450	162	10	pl126_0000
 0	Head	501	【레이아β】의상-머리	451	0	4	pl021_0010
 0	Head	502	EX우론헤드α	452	120	8	pl127_0000
 0	Head	503	【발킨α】의상-머리	453	0	5	pl028_0000
@@ -430,15 +430,15 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	505	【발킨β】의상-머리	455	0	5	pl028_0010
 0	Head	506	【로제】의상-머리	456	0	9	pl124_0000
 0	Head	507	【패션】의상-머리	457	0	9	pl125_0000
-0	Head	508	Unavailable	458	0	0	None
+0	Head	508	【마계의 주인】의상-머리	458	0	10	pl126_0000
 0	Head	509	【우론】의상-머리	459	0	8	pl127_0000
 0	Head	510	【아스트라】의상-머리	460	0	8	pl128_0000
 0	Head	511	【하이메탈】의상-머리	461	0	5	pl025_0000
 0	Head	512	【테르마이】의상-머리	462	0	8	pl106_0000
-0	Head	513	【토끼귀】의상-머리	463	0	8	pl111_0000
-0	Head	514	【폭신폭신 뜸부기】 의상-머리	464	0	8	pl112_0000
+0	Head	513	【토끼귀】의상	463	0	8	pl111_0000
+0	Head	514	【폭신폭신 뜸부기】의상	464	0	8	pl112_0000
 0	Head	515	EX은천원숭이α	465	120	8	pl113_0000
-0	Head	516	Unavailable	466	0	0	None
+0	Head	516	【카가치의목도리】의상	466	0	8	pl114_0000
 0	Head	518	EX렉스로어헬름α	468	158	10	pl083_0100
 0	Head	519	EX렉스로어헬름β	469	158	10	pl083_0110
 0	Head	520	가디언헬름α	470	50	5	pl121_0000
@@ -446,19 +446,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	522	【은기사】의상-머리	472	0	6	pl123_0000
 0	Head	523	HARDUMMY	473	132	11	pl068_0010
 0	Head	524	EX텐터클헬름γ	474	176	11	pl086_0020
-0	Head	525	HARDUMMY	475	0	7	pl072_0000
-0	Head	526	HARDUMMY	476	170	11	pl072_0001
-0	Head	527	Unavailable	477	0	0	None
+0	Head	525	【파란별 장군】의상-머리	475	0	7	pl072_0000
+0	Head	526	EX푸른빛무사【반짝이는 헤어】α	476	170	11	pl072_0001
+0	Head	527	EX라비나헬름γ	477	180	11	pl085_0020
 0	Head	528	EX오르문그헬름α	478	162	10	pl089_0500
 0	Head	529	EX오르문그헬름β	479	162	10	pl089_0510
-0	Head	530	Unavailable	480	0	0	None
-0	Head	531	Unavailable	481	0	0	None
+0	Head	530	EX드래곤헤드α	480	180	11	pl129_0000
+0	Head	531	EX드래곤헤드β	481	180	11	pl129_0010
 0	Head	532	HARDUMMY	482	160	11	pl068_0020
 0	Head	533	Unavailable	483	0	0	None
 0	Head	534	EX레온페이스α	484	150	11	pl130_0000
 0	Head	535	EX클레어페이스α	485	150	11	pl131_0000
-0	Head	536	Unavailable	486	0	0	None
-0	Head	537	Unavailable	487	0	0	None
+0	Head	536	【레온】의상-머리	486	0	11	pl130_0000
+0	Head	537	【클레어】의상-머리	487	0	11	pl131_0000
 0	Head	538	【가스토】의상-머리	488	0	4	pl015_0000
 0	Head	540	【가마루】의상-머리	490	0	4	pl039_0000
 0	Head	541	【잉곳】의상-머리	491	0	5	pl031_0000
@@ -515,130 +515,130 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	592	【맘가이라α】의상-머리	542	0	7	pl049_0000
 0	Head	593	【맘가이라β】의상-머리	543	0	7	pl049_0010
 0	Head	594	【맘가이라γ】의상-머리	544	0	7	pl049_0020
-0	Head	595	Unavailable	546	0	0	None
-0	Head	596	Unavailable	547	0	0	None
-0	Head	597	Unavailable	548	0	0	None
-0	Head	599	Unavailable	550	0	0	None
-0	Head	600	Unavailable	551	0	0	None
-0	Head	601	Unavailable	552	0	0	None
-0	Head	602	Unavailable	553	0	0	None
-0	Head	603	Unavailable	554	0	0	None
-0	Head	604	Unavailable	555	0	0	None
-0	Head	605	Unavailable	556	0	0	None
-0	Head	606	Unavailable	557	0	0	None
-0	Head	607	Unavailable	558	0	0	None
-0	Head	608	Unavailable	559	0	0	None
-0	Head	609	Unavailable	560	0	0	None
-0	Head	610	Unavailable	561	0	0	None
-0	Head	611	Unavailable	562	0	0	None
-0	Head	612	Unavailable	563	0	0	None
-0	Head	613	Unavailable	564	0	0	None
-0	Head	614	Unavailable	565	0	0	None
-0	Head	615	Unavailable	566	0	0	None
-0	Head	616	Unavailable	567	0	0	None
-0	Head	617	Unavailable	568	0	0	None
-0	Head	618	Unavailable	569	0	0	None
-0	Head	619	Unavailable	570	0	0	None
-0	Head	620	Unavailable	571	0	0	None
-0	Head	621	Unavailable	572	0	0	None
-0	Head	622	Unavailable	573	0	0	None
-0	Head	623	Unavailable	574	0	0	None
+0	Head	595	【EX랑고】의상-머리	546	0	8	pl007_0001
+0	Head	596	【EX타로스】의상-머리	547	0	8	pl017_0001
+0	Head	597	【EX우르그】의상-머리	548	0	8	pl102_0000
+0	Head	599	【EX쟈그라스】의상-머리	550	0	8	pl008_0001
+0	Head	600	【EX치치】의상-머리	551	0	8	pl023_0001
+0	Head	601	【EX기르오스】의상-머리	552	0	8	pl022_0001
+0	Head	602	【EX가마루】의상-머리	553	0	8	pl039_0001
+0	Head	603	【EX쿠루루】의상-머리	554	0	8	pl009_0001
+0	Head	604	【EX푸케푸케】의상-머리	555	0	8	pl010_0001
+0	Head	605	【EX푸케라그나】의상-머리	556	0	8	pl010_0101
+0	Head	606	【EX보로스】의상-머리	557	0	8	pl012_0001
+0	Head	607	【EX쥬라】의상-머리	558	0	8	pl011_0001
+0	Head	608	【EX브란】의상-머리	559	0	8	pl110_0000
+0	Head	609	【EX카가치】의상-머리	560	0	8	pl013_0001
+0	Head	610	【EX베니카가치】의상-머리	561	0	8	pl013_0101
+0	Head	611	【EX버프바로α】의상-머리	562	0	8	pl084_0000
+0	Head	612	【EX버프바로β】의상-머리	563	0	8	pl084_0010
+0	Head	613	【EX쟈나프α】의상-머리	564	0	8	pl020_0001
+0	Head	614	【EX쟈나프β】의상-머리	565	0	8	pl020_0011
+0	Head	615	【EX쟈나르α】의상-머리	566	0	10	pl020_0101
+0	Head	616	【EX쟈나르β】의상-머리	567	0	10	pl020_0111
+0	Head	617	【EX레이아α】의상-머리	568	0	8	pl021_0001
+0	Head	618	【EX레이아β】의상-머리	569	0	8	pl021_0011
+0	Head	619	【EX리오하트α】의상-머리	570	0	8	pl021_0101
+0	Head	620	【EX리오하트β】의상-머리	571	0	8	pl021_0111
+0	Head	621	【EX우르무】의상-머리	572	0	8	pl024_0001
+0	Head	622	【EX우르무메어】의상-머리	573	0	8	pl024_0101
+0	Head	623	【EX발킨】의상-머리	574	0	8	pl028_0001
 0	Head	624	【아티어】의상-머리	575	0	9	pl091_0000
-0	Head	625	Unavailable	674	0	0	None
-0	Head	626	Unavailable	576	0	0	None
-0	Head	627	Unavailable	577	0	0	None
-0	Head	628	Unavailable	578	0	0	None
-0	Head	629	Unavailable	579	0	0	None
-0	Head	630	Unavailable	580	0	0	None
-0	Head	631	Unavailable	581	0	0	None
-0	Head	632	Unavailable	582	0	0	None
-0	Head	633	Unavailable	583	0	0	None
-0	Head	634	Unavailable	584	0	0	None
-0	Head	635	Unavailable	585	0	0	None
-0	Head	636	Unavailable	586	0	0	None
-0	Head	637	Unavailable	587	0	0	None
-0	Head	638	Unavailable	588	0	0	None
-0	Head	639	Unavailable	589	0	0	None
-0	Head	640	Unavailable	590	0	0	None
-0	Head	641	Unavailable	591	0	0	None
-0	Head	642	Unavailable	592	0	0	None
-0	Head	643	Unavailable	593	0	0	None
-0	Head	644	Unavailable	594	0	0	None
-0	Head	645	Unavailable	595	0	0	None
-0	Head	646	Unavailable	596	0	0	None
-0	Head	647	Unavailable	597	0	0	None
-0	Head	648	Unavailable	598	0	0	None
-0	Head	649	Unavailable	599	0	0	None
-0	Head	650	Unavailable	600	0	0	None
-0	Head	651	Unavailable	601	0	0	None
-0	Head	652	Unavailable	602	0	0	None
-0	Head	653	Unavailable	603	0	0	None
-0	Head	654	Unavailable	604	0	0	None
-0	Head	655	Unavailable	605	0	0	None
-0	Head	656	Unavailable	606	0	0	None
-0	Head	657	Unavailable	607	0	0	None
+0	Head	625	【아크로크β】의상-머리	674	0	9	pl104_0010
+0	Head	626	【EX벨리오α】의상-머리	576	0	9	pl089_0000
+0	Head	627	【EX벨리오β】의상-머리	577	0	9	pl089_0010
+0	Head	628	【EX레우스α】의상-머리	578	0	9	pl033_0001
+0	Head	629	【EX레우스β】의상-머리	579	0	9	pl033_0011
+0	Head	630	【EX리오소울α】의상-머리	580	0	10	pl033_0101
+0	Head	631	【EX리오소울β】의상-머리	581	0	10	pl033_0111
+0	Head	632	【EX디아블로α】의상-머리	582	0	9	pl034_0001
+0	Head	633	【EX디아블로β】의상-머리	583	0	9	pl034_0011
+0	Head	634	【EX디아네로α】의상-머리	584	0	10	pl034_0101
+0	Head	635	【EX디아네로β】의상-머리	585	0	10	pl034_0111
+0	Head	636	【EX기에나α】의상-머리	586	0	9	pl027_0001
+0	Head	637	【EX기에나β】의상-머리	587	0	9	pl027_0011
+0	Head	638	【EX브리나α】의상-머리	588	0	10	pl027_0500
+0	Head	639	【EX브리나β】의상-머리	589	0	10	pl027_0510
+0	Head	640	【EX가론α】의상-머리	590	0	9	pl029_0001
+0	Head	641	【EX가론β】의상-머리	591	0	9	pl029_0011
+0	Head	642	【EX데스가론α】의상-머리	592	0	10	pl029_0101
+0	Head	643	【EX데스가론β】의상-머리	593	0	10	pl029_0111
+0	Head	644	【EX라바】의상-머리	594	0	9	pl040_0001
+0	Head	645	【EX간킨】의상-머리	595	0	9	pl041_0001
+0	Head	646	【EX나르가α】의상-머리	596	0	9	pl080_0000
+0	Head	647	【EX나르가β】의상-머리	597	0	9	pl080_0010
+0	Head	648	【EX디노α】의상-머리	598	0	9	pl081_0000
+0	Head	649	【EX디노β】의상-머리	599	0	9	pl081_0010
+0	Head	650	【EX디노이에로α】의상-머리	600	0	10	pl081_0100
+0	Head	651	【EX디노이에로β】의상-머리	601	0	10	pl081_0110
+0	Head	652	【EX브라키α】의상-머리	602	0	9	pl082_0000
+0	Head	653	【EX브라키β】의상-머리	603	0	9	pl082_0010
+0	Head	654	【EX렉스α】의상-머리	604	0	9	pl083_0000
+0	Head	655	【EX렉스β】의상-머리	605	0	9	pl083_0010
+0	Head	656	【EX렉스로어α】의상-머리	606	0	10	pl083_0100
+0	Head	657	【EX렉스로어β】의상-머리	607	0	10	pl083_0110
 0	Head	658	【검은띠】의상-머리	608	0	10	pl093_0000
-0	Head	659	Unavailable	609	0	0	None
-0	Head	660	Unavailable	610	0	0	None
-0	Head	661	Unavailable	611	0	0	None
-0	Head	662	Unavailable	612	0	0	None
-0	Head	663	Unavailable	613	0	0	None
-0	Head	664	Unavailable	614	0	0	None
-0	Head	665	Unavailable	615	0	0	None
-0	Head	666	Unavailable	616	0	0	None
-0	Head	667	Unavailable	617	0	0	None
-0	Head	668	Unavailable	618	0	0	None
-0	Head	669	Unavailable	619	0	0	None
-0	Head	670	Unavailable	620	0	0	None
-0	Head	671	Unavailable	621	0	0	None
-0	Head	672	Unavailable	622	0	0	None
-0	Head	673	Unavailable	623	0	0	None
-0	Head	674	Unavailable	624	0	0	None
-0	Head	675	Unavailable	625	0	0	None
+0	Head	659	【EX프라이드α】의상-머리	609	0	10	pl042_0500
+0	Head	660	【EX프라이드β】의상-머리	610	0	10	pl042_0510
+0	Head	661	【EX그리드α】의상-머리	611	0	10	pl050_0500
+0	Head	662	【EX그리드β】의상-머리	612	0	10	pl050_0510
+0	Head	663	【EX라비나α】의상-머리	613	0	11	pl085_0000
+0	Head	664	【EX라비나β】의상-머리	614	0	11	pl085_0010
+0	Head	665	【EX바르퍼α】의상-머리	615	0	11	pl032_0500
+0	Head	666	【EX바르퍼β】의상-머리	616	0	11	pl032_0510
+0	Head	667	【EX카이저α】의상-머리	617	0	11	pl046_0001
+0	Head	668	【EX카이저β】의상-머리	618	0	11	pl046_0011
+0	Head	669	【EX크샤나α】의상-머리	619	0	11	pl047_0001
+0	Head	670	【EX크샤나β】의상-머리	620	0	11	pl047_0011
+0	Head	671	【EX키린α】의상-머리	621	0	11	pl035_0001
+0	Head	672	【EX키린β】의상-머리	622	0	11	pl035_0011
+0	Head	673	【EX텐터클α】의상-머리	623	0	11	pl086_0000
+0	Head	674	【EX텐터클β】의상-머리	624	0	11	pl086_0010
+0	Head	675	【길드팰리스】의상-머리	625	0	10	pl094_0000
 0	Head	676	【날렵함의귀걸이】의상	626	0	10	pl095_0000
 0	Head	677	【양동의귀걸이】의상	627	0	11	pl095_0010
-0	Head	678	Unavailable	628	0	0	None
-0	Head	679	Unavailable	629	0	0	None
-0	Head	680	Unavailable	630	0	0	None
-0	Head	681	Unavailable	631	0	0	None
-0	Head	682	Unavailable	632	0	0	None
-0	Head	683	Unavailable	633	0	0	None
-0	Head	684	Unavailable	634	0	0	None
-0	Head	685	Unavailable	635	0	0	None
-0	Head	686	Unavailable	636	0	0	None
-0	Head	687	Unavailable	637	0	0	None
-0	Head	688	Unavailable	638	0	0	None
-0	Head	689	Unavailable	639	0	0	None
-0	Head	690	Unavailable	640	0	0	None
-0	Head	691	Unavailable	641	0	0	None
-0	Head	692	Unavailable	642	0	0	None
-0	Head	693	Unavailable	643	0	0	None
-0	Head	694	Unavailable	644	0	0	None
-0	Head	695	Unavailable	645	0	0	None
-0	Head	696	Unavailable	646	0	0	None
-0	Head	697	Unavailable	647	0	0	None
-0	Head	698	Unavailable	648	0	0	None
-0	Head	699	Unavailable	649	0	0	None
-0	Head	700	Unavailable	650	0	0	None
-0	Head	701	Unavailable	651	0	0	None
-0	Head	702	Unavailable	652	0	0	None
-0	Head	703	Unavailable	653	0	0	None
-0	Head	704	Unavailable	654	0	0	None
-0	Head	705	Unavailable	655	0	0	None
-0	Head	706	Unavailable	656	0	0	None
-0	Head	707	Unavailable	657	0	0	None
-0	Head	708	Unavailable	658	0	0	None
-0	Head	709	Unavailable	659	0	0	None
-0	Head	710	Unavailable	660	0	0	None
-0	Head	711	Unavailable	661	0	0	None
-0	Head	712	Unavailable	662	0	0	None
-0	Head	713	Unavailable	663	0	0	None
-0	Head	714	Unavailable	664	0	0	None
-0	Head	716	Unavailable	666	0	0	None
+0	Head	678	【EX안가루다α】의상-머리	628	0	11	pl088_0000
+0	Head	679	【EX안가루다β】의상-머리	629	0	11	pl088_0010
+0	Head	680	【EX가루루가α】의상-머리	630	0	10	pl108_0000
+0	Head	681	【EX가루루가β】의상-머리	631	0	10	pl108_0010
+0	Head	682	【EX진오우α】의상-머리	632	0	10	pl107_0000
+0	Head	683	【EX진오우β】의상-머리	633	0	10	pl107_0010
+0	Head	684	【EX골드루나α】의상-머리	634	0	11	pl021_0200
+0	Head	685	【EX골드루나β】의상-머리	635	0	11	pl021_0210
+0	Head	686	【EX실버솔α】의상-머리	636	0	11	pl033_0200
+0	Head	687	【EX실버솔β】의상-머리	637	0	11	pl033_0210
+0	Head	688	【EX엠프리스α】의상-머리	638	0	11	pl051_0001
+0	Head	689	【EX엠프리스β】의상-머리	639	0	11	pl051_0011
+0	Head	690	【EX조크α】의상-머리	640	0	11	pl030_0500
+0	Head	691	【EX조크β】의상-머리	641	0	11	pl030_0510
+0	Head	692	【길드워크】의상-머리	642	0	11	pl092_0000
+0	Head	693	【EX금빛α】의상-머리	643	0	10	pl109_0000
+0	Head	694	【EX금빛β】의상-머리	644	0	10	pl109_0010
+0	Head	695	【EX극오우α】의상-머리	645	0	10	pl107_0100
+0	Head	696	【EX극오우β】의상-머리	646	0	10	pl107_0110
+0	Head	697	【EX용문α】의상-머리	647	0	11	pl087_0000
+0	Head	698	【EX용문β】의상-머리	648	0	11	pl087_0010
+0	Head	699	【EX제천α】의상-머리	649	0	11	pl109_0500
+0	Head	700	【EX제천β】의상-머리	650	0	11	pl109_0510
+0	Head	701	【EX브라키움α】의상-머리	651	0	11	pl082_0500
+0	Head	702	【EX브라키움β】의상-머리	652	0	11	pl082_0510
+0	Head	703	【EX오르문그α】의상-머리	653	0	10	pl089_0500
+0	Head	704	【EX오르문그β】의상-머리	654	0	10	pl089_0510
+0	Head	705	【EX에스카드라α】의상-머리	655	0	11	pl052_0000
+0	Head	706	【EX에스카드라β】의상-머리	656	0	11	pl052_0010
+0	Head	707	【EX드래곤α】의상-머리	657	0	11	pl129_0000
+0	Head	708	【EX드래곤β】의상-머리	658	0	11	pl129_0010
+0	Head	709	【EX맘가이라α】의상-머리	659	0	11	pl049_0001
+0	Head	710	【EX맘가이라β】의상-머리	660	0	11	pl049_0011
+0	Head	711	【봉인의 용해포】의상	661	0	11	pl100_0000
+0	Head	712	【용인족의 귀】의상	662	0	8	pl101_0000
+0	Head	713	【껴입기펭귄페이크】의상	663	0	8	pl098_0000
+0	Head	714	【은천원숭이】의상	664	0	8	pl113_0000
+0	Head	716	【푸른빛무사】의상-머리	666	0	11	pl072_0001
 0	Head	717	Unavailable	667	0	0	None
-0	Head	718	Unavailable	668	0	0	None
-0	Head	719	Unavailable	669	0	0	None
-0	Head	720	Unavailable	670	0	0	None
+0	Head	718	HARDUMMY	668	0	11	pl068_0020
+0	Head	719	【EX라비나γ】의상-머리	669	0	11	pl085_0020
+0	Head	720	【EX텐터클γ】의상-머리	670	0	11	pl086_0020
 0	Head	721	Unavailable	671	0	0	None
 0	Head	725	Unavailable	676	0	0	None
 0	Head	726	Unavailable	677	0	0	None
@@ -805,8 +805,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	155	【풀드레스】 의상-몸통	153	0	3	pl078_0000
 1	Body	156	Unavailable	158	2	0	pl001_0000
 1	Body	299	HARDUMMY	154	0	7	pl068_0000
-1	Body	291	HARDUMMY	155	0	7	pl069_0000
-1	Body	292	HARDUMMY	156	0	7	pl070_0000
+1	Body	291	【Ryu】의상-몸통	155	0	7	pl069_0000
+1	Body	292	【Sakura】 의상-몸통	156	0	7	pl070_0000
 1	Body	144	Unavailable	157	2	0	pl001_0000
 1	Body	297	【바예크】의상-몸통	159	0	7	pl120_0000
 1	Body	158	Unavailable	160	2	0	pl001_0000
@@ -847,9 +847,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	223	조라마그나하이드γ	213	72	7	pl038_0020
 1	Body	224	제노라지하이드γ	214	72	7	pl045_0020
 1	Body	225	HARDUMMY	215	46	4	pl068_0000
-1	Body	226	HARDUMMY	216	12	1	pl069_0000
-1	Body	227	HARDUMMY	217	60	6	pl069_0000
-1	Body	228	HARDUMMY	218	50	5	pl070_0000
+1	Body	226	Ryu 보디	216	12	1	pl069_0000
+1	Body	227	Ryu 보디α	217	60	6	pl069_0000
+1	Body	228	Sakura 보디α	218	50	5	pl070_0000
 1	Body	229	파란별 장군【갑옷】α	219	56	6	pl072_0000
 1	Body	230	단테 코트α	220	64	7	pl071_0000
 1	Body	231	엠프리스메일α	221	70	7	pl051_0000
@@ -996,7 +996,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	443	EX키린베스트β	393	154	11	pl035_0011
 1	Body	444	EX텐터클메일α	394	158	11	pl086_0000
 1	Body	445	EX텐터클메일β	395	158	11	pl086_0010
-1	Body	446	Unavailable	396	0	0	None
+1	Body	446	【아크로크α】의상-몸통	396	0	9	pl104_0000
 1	Body	447	【보로스】의상-몸통	397	0	4	pl012_0000
 1	Body	448	EX길드팰리스메일α	398	154	10	pl094_0000
 1	Body	449	EX길드팰리스메일β	399	154	10	pl094_0000
@@ -1044,7 +1044,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	497	【우르무】의상-몸통	447	0	4	pl024_0000
 1	Body	498	EX패션보디α	448	156	9	pl125_0000
 1	Body	499	【레이아α】의상-몸통	449	0	4	pl021_0000
-1	Body	500	Unavailable	450	0	0	None
+1	Body	500	EX마계의 주인【외투】α	450	162	10	pl126_0000
 1	Body	501	【레이아β】의상-몸통	451	0	4	pl021_0010
 1	Body	502	EX우론베스트α	452	120	8	pl127_0000
 1	Body	503	【발킨α】의상-몸통	453	0	5	pl028_0000
@@ -1052,7 +1052,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	505	【발킨β】의상-몸통	455	0	5	pl028_0010
 1	Body	506	【로제】의상-몸통	456	0	9	pl124_0000
 1	Body	507	【패션】의상-몸통	457	0	9	pl125_0000
-1	Body	508	Unavailable	458	0	0	None
+1	Body	508	【마계의 주인】의상-몸통	458	0	10	pl126_0000
 1	Body	509	【우론】의상-몸통	459	0	8	pl127_0000
 1	Body	510	【아스트라】의상-몸통	460	0	8	pl128_0000
 1	Body	511	【하이메탈】의상-몸통	461	0	5	pl025_0000
@@ -1065,19 +1065,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	522	【은기사】의상-몸통	472	0	6	pl123_0000
 1	Body	523	HARDUMMY	473	132	11	pl068_0010
 1	Body	524	EX텐터클메일γ	474	176	11	pl086_0020
-1	Body	525	HARDUMMY	475	0	7	pl072_0000
-1	Body	526	HARDUMMY	476	170	11	pl072_0001
-1	Body	527	Unavailable	477	0	0	None
+1	Body	525	【파란별 장군】의상-몸통	475	0	7	pl072_0000
+1	Body	526	EX푸른빛무사【겉옷】α	476	170	11	pl072_0001
+1	Body	527	EX라비나메일γ	477	180	11	pl085_0020
 1	Body	528	EX오르문그메일α	478	162	10	pl089_0500
 1	Body	529	EX오르문그메일β	479	162	10	pl089_0510
-1	Body	530	Unavailable	480	0	0	None
-1	Body	531	Unavailable	481	0	0	None
+1	Body	530	EX드래곤하이드α	480	180	11	pl129_0000
+1	Body	531	EX드래곤하이드β	481	180	11	pl129_0010
 1	Body	532	HARDUMMY	482	160	11	pl068_0020
 1	Body	533	Unavailable	483	0	0	None
 1	Body	534	EX레온보디α	484	150	11	pl130_0000
 1	Body	535	EX클레어보디α	485	150	11	pl131_0000
-1	Body	536	Unavailable	486	0	0	None
-1	Body	537	Unavailable	487	0	0	None
+1	Body	536	【레온】의상-몸통	486	0	11	pl130_0000
+1	Body	537	【클레어】의상-몸통	487	0	11	pl131_0000
 1	Body	539	【바르노스】의상-몸통	489	0	4	pl016_0000
 1	Body	540	【가마루】의상-몸통	490	0	4	pl039_0000
 1	Body	541	【잉곳】의상-몸통	491	0	5	pl031_0000
@@ -1134,127 +1134,127 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	592	【맘가이라α】의상-몸통	542	0	7	pl049_0000
 1	Body	593	【맘가이라β】의상-몸통	543	0	7	pl049_0010
 1	Body	594	【맘가이라γ】의상-몸통	544	0	7	pl049_0020
-1	Body	595	Unavailable	546	0	0	None
-1	Body	596	Unavailable	547	0	0	None
-1	Body	598	Unavailable	549	0	0	None
-1	Body	599	Unavailable	550	0	0	None
-1	Body	600	Unavailable	551	0	0	None
-1	Body	601	Unavailable	552	0	0	None
-1	Body	602	Unavailable	553	0	0	None
-1	Body	603	Unavailable	554	0	0	None
-1	Body	604	Unavailable	555	0	0	None
-1	Body	605	Unavailable	556	0	0	None
-1	Body	606	Unavailable	557	0	0	None
-1	Body	607	Unavailable	558	0	0	None
-1	Body	608	Unavailable	559	0	0	None
-1	Body	609	Unavailable	560	0	0	None
-1	Body	610	Unavailable	561	0	0	None
-1	Body	611	Unavailable	562	0	0	None
-1	Body	612	Unavailable	563	0	0	None
-1	Body	613	Unavailable	564	0	0	None
-1	Body	614	Unavailable	565	0	0	None
-1	Body	615	Unavailable	566	0	0	None
-1	Body	616	Unavailable	567	0	0	None
-1	Body	617	Unavailable	568	0	0	None
-1	Body	618	Unavailable	569	0	0	None
-1	Body	619	Unavailable	570	0	0	None
-1	Body	620	Unavailable	571	0	0	None
-1	Body	621	Unavailable	572	0	0	None
-1	Body	622	Unavailable	573	0	0	None
-1	Body	623	Unavailable	574	0	0	None
+1	Body	595	【EX랑고】의상-몸통	546	0	8	pl007_0001
+1	Body	596	【EX타로스】의상-몸통	547	0	8	pl017_0001
+1	Body	598	【EX코르토스】의상-몸통	549	0	8	pl103_0000
+1	Body	599	【EX쟈그라스】의상-몸통	550	0	8	pl008_0001
+1	Body	600	【EX치치】의상-몸통	551	0	8	pl023_0001
+1	Body	601	【EX기르오스】의상-몸통	552	0	8	pl022_0001
+1	Body	602	【EX가마루】의상-몸통	553	0	8	pl039_0001
+1	Body	603	【EX쿠루루】의상-몸통	554	0	8	pl009_0001
+1	Body	604	【EX푸케푸케】의상-몸통	555	0	8	pl010_0001
+1	Body	605	【EX푸케라그나】의상-몸통	556	0	8	pl010_0101
+1	Body	606	【EX보로스】의상-몸통	557	0	8	pl012_0001
+1	Body	607	【EX쥬라】의상-몸통	558	0	8	pl011_0001
+1	Body	608	【EX브란】의상-몸통	559	0	8	pl110_0000
+1	Body	609	【EX카가치】의상-몸통	560	0	8	pl013_0001
+1	Body	610	【EX베니카가치】의상-몸통	561	0	8	pl013_0101
+1	Body	611	【EX버프바로α】의상-몸통	562	0	8	pl084_0000
+1	Body	612	【EX버프바로β】의상-몸통	563	0	8	pl084_0010
+1	Body	613	【EX쟈나프α】의상-몸통	564	0	8	pl020_0001
+1	Body	614	【EX쟈나프β】의상-몸통	565	0	8	pl020_0011
+1	Body	615	【EX쟈나르α】의상-몸통	566	0	10	pl020_0101
+1	Body	616	【EX쟈나르β】의상-몸통	567	0	10	pl020_0111
+1	Body	617	【EX레이아α】의상-몸통	568	0	8	pl021_0001
+1	Body	618	【EX레이아β】의상-몸통	569	0	8	pl021_0011
+1	Body	619	【EX리오하트α】의상-몸통	570	0	8	pl021_0101
+1	Body	620	【EX리오하트β】의상-몸통	571	0	8	pl021_0111
+1	Body	621	【EX우르무】의상-몸통	572	0	8	pl024_0001
+1	Body	622	【EX우르무메어】의상-몸통	573	0	8	pl024_0101
+1	Body	623	【EX발킨】의상-몸통	574	0	8	pl028_0001
 1	Body	624	【아티어】의상-몸통	575	0	9	pl091_0000
-1	Body	625	Unavailable	674	0	0	None
-1	Body	626	Unavailable	576	0	0	None
-1	Body	627	Unavailable	577	0	0	None
-1	Body	628	Unavailable	578	0	0	None
-1	Body	629	Unavailable	579	0	0	None
-1	Body	630	Unavailable	580	0	0	None
-1	Body	631	Unavailable	581	0	0	None
-1	Body	632	Unavailable	582	0	0	None
-1	Body	633	Unavailable	583	0	0	None
-1	Body	634	Unavailable	584	0	0	None
-1	Body	635	Unavailable	585	0	0	None
-1	Body	636	Unavailable	586	0	0	None
-1	Body	637	Unavailable	587	0	0	None
-1	Body	638	Unavailable	588	0	0	None
-1	Body	639	Unavailable	589	0	0	None
-1	Body	640	Unavailable	590	0	0	None
-1	Body	641	Unavailable	591	0	0	None
-1	Body	642	Unavailable	592	0	0	None
-1	Body	643	Unavailable	593	0	0	None
-1	Body	644	Unavailable	594	0	0	None
-1	Body	645	Unavailable	595	0	0	None
-1	Body	646	Unavailable	596	0	0	None
-1	Body	647	Unavailable	597	0	0	None
-1	Body	648	Unavailable	598	0	0	None
-1	Body	649	Unavailable	599	0	0	None
-1	Body	650	Unavailable	600	0	0	None
-1	Body	651	Unavailable	601	0	0	None
-1	Body	652	Unavailable	602	0	0	None
-1	Body	653	Unavailable	603	0	0	None
-1	Body	654	Unavailable	604	0	0	None
-1	Body	655	Unavailable	605	0	0	None
-1	Body	656	Unavailable	606	0	0	None
-1	Body	657	Unavailable	607	0	0	None
+1	Body	625	【아크로크β】의상-몸통	674	0	9	pl104_0000
+1	Body	626	【EX벨리오α】의상-몸통	576	0	9	pl089_0000
+1	Body	627	【EX벨리오β】의상-몸통	577	0	9	pl089_0010
+1	Body	628	【EX레우스α】의상-몸통	578	0	9	pl033_0001
+1	Body	629	【EX레우스β】의상-몸통	579	0	9	pl033_0011
+1	Body	630	【EX리오소울α】의상-몸통	580	0	10	pl033_0101
+1	Body	631	【EX리오소울β】의상-몸통	581	0	10	pl033_0111
+1	Body	632	【EX디아블로α】의상-몸통	582	0	9	pl034_0001
+1	Body	633	【EX디아블로β】의상-몸통	583	0	9	pl034_0011
+1	Body	634	【EX디아네로α】의상-몸통	584	0	10	pl034_0101
+1	Body	635	【EX디아네로β】의상-몸통	585	0	10	pl034_0111
+1	Body	636	【EX기에나α】의상-몸통	586	0	9	pl027_0001
+1	Body	637	【EX기에나β】의상-몸통	587	0	9	pl027_0011
+1	Body	638	【EX브리나α】의상-몸통	588	0	10	pl027_0500
+1	Body	639	【EX브리나β】의상-몸통	589	0	10	pl027_0510
+1	Body	640	【EX가론α】의상-몸통	590	0	9	pl029_0001
+1	Body	641	【EX가론β】의상-몸통	591	0	9	pl029_0011
+1	Body	642	【EX데스가론α】의상-몸통	592	0	10	pl029_0101
+1	Body	643	【EX데스가론β】의상-몸통	593	0	10	pl029_0111
+1	Body	644	【EX라바】의상-몸통	594	0	9	pl040_0001
+1	Body	645	【EX간킨】의상-몸통	595	0	9	pl041_0001
+1	Body	646	【EX나르가α】의상-몸통	596	0	9	pl080_0000
+1	Body	647	【EX나르가β】의상-몸통	597	0	9	pl080_0010
+1	Body	648	【EX디노α】의상-몸통	598	0	9	pl081_0000
+1	Body	649	【EX디노β】의상-몸통	599	0	9	pl081_0010
+1	Body	650	【EX디노이에로α】의상-몸통	600	0	10	pl081_0100
+1	Body	651	【EX디노이에로β】의상-몸통	601	0	10	pl081_0110
+1	Body	652	【EX브라키α】의상-몸통	602	0	9	pl082_0000
+1	Body	653	【EX브라키β】의상-몸통	603	0	9	pl082_0010
+1	Body	654	【EX렉스α】의상-몸통	604	0	9	pl083_0000
+1	Body	655	【EX렉스β】의상-몸통	605	0	9	pl083_0010
+1	Body	656	【EX렉스로어α】의상-몸통	606	0	10	pl083_0100
+1	Body	657	【EX렉스로어β】의상-몸통	607	0	10	pl083_0110
 1	Body	658	【검은띠】의상-몸통	608	0	10	pl093_0000
-1	Body	659	Unavailable	609	0	0	None
-1	Body	660	Unavailable	610	0	0	None
-1	Body	661	Unavailable	611	0	0	None
-1	Body	662	Unavailable	612	0	0	None
-1	Body	663	Unavailable	613	0	0	None
-1	Body	664	Unavailable	614	0	0	None
-1	Body	665	Unavailable	615	0	0	None
-1	Body	666	Unavailable	616	0	0	None
-1	Body	667	Unavailable	617	0	0	None
-1	Body	668	Unavailable	618	0	0	None
-1	Body	669	Unavailable	619	0	0	None
-1	Body	670	Unavailable	620	0	0	None
-1	Body	671	Unavailable	621	0	0	None
-1	Body	672	Unavailable	622	0	0	None
-1	Body	673	Unavailable	623	0	0	None
-1	Body	674	Unavailable	624	0	0	None
-1	Body	675	Unavailable	625	0	0	None
-1	Body	678	Unavailable	628	0	0	None
-1	Body	679	Unavailable	629	0	0	None
-1	Body	680	Unavailable	630	0	0	None
-1	Body	681	Unavailable	631	0	0	None
-1	Body	682	Unavailable	632	0	0	None
-1	Body	683	Unavailable	633	0	0	None
-1	Body	684	Unavailable	634	0	0	None
-1	Body	685	Unavailable	635	0	0	None
-1	Body	686	Unavailable	636	0	0	None
-1	Body	687	Unavailable	637	0	0	None
-1	Body	688	Unavailable	638	0	0	None
-1	Body	689	Unavailable	639	0	0	None
-1	Body	690	Unavailable	640	0	0	None
-1	Body	691	Unavailable	641	0	0	None
-1	Body	692	Unavailable	642	0	0	None
-1	Body	693	Unavailable	643	0	0	None
-1	Body	694	Unavailable	644	0	0	None
-1	Body	695	Unavailable	645	0	0	None
-1	Body	696	Unavailable	646	0	0	None
-1	Body	697	Unavailable	647	0	0	None
-1	Body	698	Unavailable	648	0	0	None
-1	Body	699	Unavailable	649	0	0	None
-1	Body	700	Unavailable	650	0	0	None
-1	Body	701	Unavailable	651	0	0	None
-1	Body	702	Unavailable	652	0	0	None
-1	Body	703	Unavailable	653	0	0	None
-1	Body	704	Unavailable	654	0	0	None
-1	Body	705	Unavailable	655	0	0	None
-1	Body	706	Unavailable	656	0	0	None
-1	Body	707	Unavailable	657	0	0	None
-1	Body	708	Unavailable	658	0	0	None
-1	Body	709	Unavailable	659	0	0	None
-1	Body	710	Unavailable	660	0	0	None
-1	Body	715	Unavailable	665	0	0	None
-1	Body	716	Unavailable	666	0	0	None
+1	Body	659	【EX프라이드α】의상-몸통	609	0	10	pl042_0500
+1	Body	660	【EX프라이드β】의상-몸통	610	0	10	pl042_0510
+1	Body	661	【EX그리드α】의상-몸통	611	0	10	pl050_0500
+1	Body	662	【EX그리드β】의상-몸통	612	0	10	pl050_0510
+1	Body	663	【EX라비나α】의상-몸통	613	0	11	pl085_0000
+1	Body	664	【EX라비나β】의상-몸통	614	0	11	pl085_0010
+1	Body	665	【EX바르퍼α】의상-몸통	615	0	11	pl032_0500
+1	Body	666	【EX바르퍼β】의상-몸통	616	0	11	pl032_0510
+1	Body	667	【EX카이저α】의상-몸통	617	0	11	pl046_0001
+1	Body	668	【EX카이저β】의상-몸통	618	0	11	pl046_0011
+1	Body	669	【EX크샤나α】의상-몸통	619	0	11	pl047_0001
+1	Body	670	【EX크샤나β】의상-몸통	620	0	11	pl047_0011
+1	Body	671	【EX키린α】의상-몸통	621	0	11	pl035_0001
+1	Body	672	【EX키린β】의상-몸통	622	0	11	pl035_0011
+1	Body	673	【EX텐터클α】의상-몸통	623	0	11	pl086_0000
+1	Body	674	【EX텐터클β】의상-몸통	624	0	11	pl086_0010
+1	Body	675	【길드팰리스】의상-몸통	625	0	10	pl094_0000
+1	Body	678	【EX안가루다α】의상-몸통	628	0	11	pl088_0000
+1	Body	679	【EX안가루다β】의상-몸통	629	0	11	pl088_0010
+1	Body	680	【EX가루루가α】의상-몸통	630	0	10	pl108_0000
+1	Body	681	【EX가루루가β】의상-몸통	631	0	10	pl108_0010
+1	Body	682	【EX진오우α】의상-몸통	632	0	10	pl107_0000
+1	Body	683	【EX진오우β】의상-몸통	633	0	10	pl107_0010
+1	Body	684	【EX골드루나α】의상-몸통	634	0	11	pl021_0200
+1	Body	685	【EX골드루나β】의상-몸통	635	0	11	pl021_0210
+1	Body	686	【EX실버솔α】의상-몸통	636	0	11	pl033_0200
+1	Body	687	【EX실버솔β】의상-몸통	637	0	11	pl033_0210
+1	Body	688	【EX엠프리스α】의상-몸통	638	0	11	pl051_0001
+1	Body	689	【EX엠프리스β】의상-몸통	639	0	11	pl051_0011
+1	Body	690	【EX조크α】의상-몸통	640	0	11	pl030_0500
+1	Body	691	【EX조크β】의상-몸통	641	0	11	pl030_0510
+1	Body	692	【길드워크】의상-몸통	642	0	11	pl092_0000
+1	Body	693	【EX금빛α】의상-몸통	643	0	10	pl109_0000
+1	Body	694	【EX금빛β】의상-몸통	644	0	10	pl109_0010
+1	Body	695	【EX극오우α】의상-몸통	645	0	10	pl107_0100
+1	Body	696	【EX극오우β】의상-몸통	646	0	10	pl107_0110
+1	Body	697	【EX용문α】의상-몸통	647	0	11	pl087_0000
+1	Body	698	【EX용문β】의상-몸통	648	0	11	pl087_0010
+1	Body	699	【EX제천α】의상-몸통	649	0	11	pl109_0500
+1	Body	700	【EX제천β】의상-몸통	650	0	11	pl109_0510
+1	Body	701	【EX브라키움α】의상-몸통	651	0	11	pl082_0500
+1	Body	702	【EX브라키움β】의상-몸통	652	0	11	pl082_0510
+1	Body	703	【EX오르문그α】의상-몸통	653	0	10	pl089_0500
+1	Body	704	【EX오르문그β】의상-몸통	654	0	10	pl089_0510
+1	Body	705	【EX에스카드라α】의상-몸통	655	0	11	pl052_0000
+1	Body	706	【EX에스카드라β】의상-몸통	656	0	11	pl052_0010
+1	Body	707	【EX드래곤α】의상-몸통	657	0	11	pl129_0000
+1	Body	708	【EX드래곤β】의상-몸통	658	0	11	pl129_0010
+1	Body	709	【EX맘가이라α】의상-몸통	659	0	11	pl049_0001
+1	Body	710	【EX맘가이라β】의상-몸통	660	0	11	pl049_0011
+1	Body	715	【머슬α】의상-몸통	665	0	10	pl115_0000
+1	Body	716	【푸른빛무사】의상-몸통	666	0	11	pl072_0001
 1	Body	717	Unavailable	667	0	0	None
-1	Body	718	Unavailable	668	0	0	None
-1	Body	719	Unavailable	669	0	0	None
-1	Body	720	Unavailable	670	0	0	None
+1	Body	718	HARDUMMY	668	0	11	pl068_0020
+1	Body	719	【EX라비나γ】의상-몸통	669	0	11	pl085_0020
+1	Body	720	【EX텐터클γ】의상-몸통	670	0	11	pl086_0020
 1	Body	721	Unavailable	671	0	0	None
-1	Body	722	Unavailable	672	0	0	None
+1	Body	722	【머슬γ】의상-몸통	672	0	11	pl115_0001
 1	Body	723	【이너α】의상-몸통	673	0	11	pl500_0000
 1	Body	724	【이너β】의상-몸통	675	0	11	pl501_0000
 1	Body	725	Unavailable	676	0	0	None
@@ -1420,8 +1420,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	146	【오리온】 의상-팔	150	0	3	pl077_0000
 2	Arm	153	【풀드레스】 의상-팔	153	0	3	pl078_0000
 2	Arm	299	HARDUMMY	154	0	7	pl068_0000
-2	Arm	291	HARDUMMY	155	0	7	pl069_0000
-2	Arm	292	HARDUMMY	156	0	7	pl070_0000
+2	Arm	291	【Ryu】의상-팔	155	0	7	pl069_0000
+2	Arm	292	【Sakura】 의상-팔	156	0	7	pl070_0000
 2	Arm	141	Unavailable	177	2	0	pl001_0000
 2	Arm	142	Unavailable	179	2	0	pl001_0000
 2	Arm	143	Unavailable	180	2	0	pl001_0000
@@ -1465,9 +1465,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	223	조라마그나클로γ	213	72	7	pl038_0020
 2	Arm	224	제노라지클로γ	214	72	7	pl045_0020
 2	Arm	225	HARDUMMY	215	46	4	pl068_0000
-2	Arm	226	HARDUMMY	216	12	1	pl069_0000
-2	Arm	227	HARDUMMY	217	60	6	pl069_0000
-2	Arm	228	HARDUMMY	218	50	5	pl070_0000
+2	Arm	226	Ryu 암	216	12	1	pl069_0000
+2	Arm	227	Ryu 암α	217	60	6	pl069_0000
+2	Arm	228	Sakura 암α	218	50	5	pl070_0000
 2	Arm	229	파란별 장군【장갑】α	219	56	6	pl072_0000
 2	Arm	230	단테 글러브α	220	64	7	pl071_0000
 2	Arm	231	엠프리스암α	221	70	7	pl051_0000
@@ -1613,7 +1613,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	443	EX키린롱암β	393	154	11	pl035_0011
 2	Arm	444	EX텐터클암α	394	158	11	pl086_0000
 2	Arm	445	EX텐터클암β	395	158	11	pl086_0010
-2	Arm	446	Unavailable	396	0	0	None
+2	Arm	446	【아크로크α】의상-팔	396	0	9	pl104_0000
 2	Arm	447	【보로스】의상-팔	397	0	4	pl012_0000
 2	Arm	448	EX길드팰리스암α	398	154	10	pl094_0000
 2	Arm	449	EX길드팰리스암β	399	154	10	pl094_0000
@@ -1661,7 +1661,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	497	【우르무】의상-팔	447	0	4	pl024_0000
 2	Arm	498	EX패션암α	448	156	9	pl125_0000
 2	Arm	499	【레이아α】의상-팔	449	0	4	pl021_0000
-2	Arm	500	Unavailable	450	0	0	None
+2	Arm	500	EX마계의 주인【검은팔】α	450	162	10	pl126_0000
 2	Arm	501	【레이아β】의상-팔	451	0	4	pl021_0010
 2	Arm	502	EX우론암α	452	120	8	pl127_0000
 2	Arm	503	【발킨α】의상-팔	453	0	5	pl028_0000
@@ -1669,7 +1669,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	505	【발킨β】의상-팔	455	0	5	pl028_0010
 2	Arm	506	【로제】의상-팔	456	0	9	pl124_0000
 2	Arm	507	【패션】의상-팔	457	0	9	pl125_0000
-2	Arm	508	Unavailable	458	0	0	None
+2	Arm	508	【마계의 주인】의상-팔	458	0	10	pl126_0000
 2	Arm	509	【우론】의상-팔	459	0	8	pl127_0000
 2	Arm	510	【아스트라】의상-팔	460	0	8	pl128_0000
 2	Arm	511	【하이메탈】의상-팔	461	0	5	pl025_0000
@@ -1682,19 +1682,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	522	【은기사】의상-팔	472	0	6	pl123_0000
 2	Arm	523	HARDUMMY	473	132	11	pl068_0010
 2	Arm	524	EX텐터클암γ	474	176	11	pl086_0020
-2	Arm	525	HARDUMMY	475	0	7	pl072_0000
-2	Arm	526	HARDUMMY	476	170	11	pl072_0001
-2	Arm	527	Unavailable	477	0	0	None
+2	Arm	525	【파란별 장군】의상-팔	475	0	7	pl072_0000
+2	Arm	526	EX푸른빛무사【소매】α	476	170	11	pl072_0001
+2	Arm	527	EX라비나암γ	477	180	11	pl085_0020
 2	Arm	528	EX오르문그암α	478	162	10	pl089_0500
 2	Arm	529	EX오르문그암β	479	162	10	pl089_0510
-2	Arm	530	Unavailable	480	0	0	None
-2	Arm	531	Unavailable	481	0	0	None
+2	Arm	530	EX드래곤클로α	480	180	11	pl129_0000
+2	Arm	531	EX드래곤클로β	481	180	11	pl129_0010
 2	Arm	532	HARDUMMY	482	160	11	pl068_0020
 2	Arm	533	Unavailable	483	0	0	None
 2	Arm	534	EX레온암α	484	150	11	pl130_0000
 2	Arm	535	EX클레어암α	485	150	11	pl131_0000
-2	Arm	536	Unavailable	486	0	0	None
-2	Arm	537	Unavailable	487	0	0	None
+2	Arm	536	【레온】의상-팔 	486	0	11	pl130_0000
+2	Arm	537	【클레어】의상-팔 	487	0	11	pl131_0000
 2	Arm	540	【가마루】의상-팔	490	0	4	pl039_0000
 2	Arm	541	【잉곳】의상-팔	491	0	5	pl031_0000
 2	Arm	542	【리오하트α】의상-팔	492	0	5	pl021_0100
@@ -1750,126 +1750,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	592	【맘가이라α】의상-팔	542	0	7	pl049_0000
 2	Arm	593	【맘가이라β】의상-팔	543	0	7	pl049_0010
 2	Arm	594	【맘가이라γ】의상-팔	544	0	7	pl049_0020
-2	Arm	595	Unavailable	546	0	0	None
-2	Arm	596	Unavailable	547	0	0	None
-2	Arm	599	Unavailable	550	0	0	None
-2	Arm	600	Unavailable	551	0	0	None
-2	Arm	601	Unavailable	552	0	0	None
-2	Arm	602	Unavailable	553	0	0	None
-2	Arm	603	Unavailable	554	0	0	None
-2	Arm	604	Unavailable	555	0	0	None
-2	Arm	605	Unavailable	556	0	0	None
-2	Arm	606	Unavailable	557	0	0	None
-2	Arm	607	Unavailable	558	0	0	None
-2	Arm	608	Unavailable	559	0	0	None
-2	Arm	609	Unavailable	560	0	0	None
-2	Arm	610	Unavailable	561	0	0	None
-2	Arm	611	Unavailable	562	0	0	None
-2	Arm	612	Unavailable	563	0	0	None
-2	Arm	613	Unavailable	564	0	0	None
-2	Arm	614	Unavailable	565	0	0	None
-2	Arm	615	Unavailable	566	0	0	None
-2	Arm	616	Unavailable	567	0	0	None
-2	Arm	617	Unavailable	568	0	0	None
-2	Arm	618	Unavailable	569	0	0	None
-2	Arm	619	Unavailable	570	0	0	None
-2	Arm	620	Unavailable	571	0	0	None
-2	Arm	621	Unavailable	572	0	0	None
-2	Arm	622	Unavailable	573	0	0	None
-2	Arm	623	Unavailable	574	0	0	None
+2	Arm	595	【EX랑고】의상-팔 	546	0	8	pl007_0001
+2	Arm	596	【EX타로스】의상-팔 	547	0	8	pl017_0001
+2	Arm	599	【EX쟈그라스】의상-팔 	550	0	8	pl008_0001
+2	Arm	600	【EX치치】의상-팔 	551	0	8	pl023_0001
+2	Arm	601	【EX기르오스】의상-팔 	552	0	8	pl022_0001
+2	Arm	602	【EX가마루】의상-팔 	553	0	8	pl039_0001
+2	Arm	603	【EX쿠루루】의상-팔 	554	0	8	pl009_0001
+2	Arm	604	【EX푸케푸케】의상-팔 	555	0	8	pl010_0001
+2	Arm	605	【EX푸케라그나】의상-팔 	556	0	8	pl010_0101
+2	Arm	606	【EX보로스】의상-팔 	557	0	8	pl012_0001
+2	Arm	607	【EX쥬라】의상-팔 	558	0	8	pl011_0001
+2	Arm	608	【EX브란】의상-팔 	559	0	8	pl110_0000
+2	Arm	609	【EX카가치】의상-팔 	560	0	8	pl013_0001
+2	Arm	610	【EX베니카가치】의상-팔 	561	0	8	pl013_0101
+2	Arm	611	【EX버프바로α】의상-팔 	562	0	8	pl084_0000
+2	Arm	612	【EX버프바로β】의상-팔 	563	0	8	pl084_0010
+2	Arm	613	【EX쟈나프α】의상-팔 	564	0	8	pl020_0001
+2	Arm	614	【EX쟈나프β】의상-팔 	565	0	8	pl020_0011
+2	Arm	615	【EX쟈나르α】의상-팔 	566	0	10	pl020_0101
+2	Arm	616	【EX쟈나르β】의상-팔 	567	0	10	pl020_0111
+2	Arm	617	【EX레이아α】의상-팔 	568	0	8	pl021_0001
+2	Arm	618	【EX레이아β】의상-팔 	569	0	8	pl021_0011
+2	Arm	619	【EX리오하트α】의상-팔 	570	0	8	pl021_0101
+2	Arm	620	【EX리오하트β】의상-팔 	571	0	8	pl021_0111
+2	Arm	621	【EX우르무】의상-팔 	572	0	8	pl024_0001
+2	Arm	622	【EX우르무메어】의상-팔 	573	0	8	pl024_0101
+2	Arm	623	【EX발킨】의상-팔 	574	0	8	pl028_0001
 2	Arm	624	【아티어】의상-팔	575	0	9	pl091_0000
-2	Arm	625	Unavailable	674	0	0	None
-2	Arm	626	Unavailable	576	0	0	None
-2	Arm	627	Unavailable	577	0	0	None
-2	Arm	628	Unavailable	578	0	0	None
-2	Arm	629	Unavailable	579	0	0	None
-2	Arm	630	Unavailable	580	0	0	None
-2	Arm	631	Unavailable	581	0	0	None
-2	Arm	632	Unavailable	582	0	0	None
-2	Arm	633	Unavailable	583	0	0	None
-2	Arm	634	Unavailable	584	0	0	None
-2	Arm	635	Unavailable	585	0	0	None
-2	Arm	636	Unavailable	586	0	0	None
-2	Arm	637	Unavailable	587	0	0	None
-2	Arm	638	Unavailable	588	0	0	None
-2	Arm	639	Unavailable	589	0	0	None
-2	Arm	640	Unavailable	590	0	0	None
-2	Arm	641	Unavailable	591	0	0	None
-2	Arm	642	Unavailable	592	0	0	None
-2	Arm	643	Unavailable	593	0	0	None
-2	Arm	644	Unavailable	594	0	0	None
-2	Arm	645	Unavailable	595	0	0	None
-2	Arm	646	Unavailable	596	0	0	None
-2	Arm	647	Unavailable	597	0	0	None
-2	Arm	648	Unavailable	598	0	0	None
-2	Arm	649	Unavailable	599	0	0	None
-2	Arm	650	Unavailable	600	0	0	None
-2	Arm	651	Unavailable	601	0	0	None
-2	Arm	652	Unavailable	602	0	0	None
-2	Arm	653	Unavailable	603	0	0	None
-2	Arm	654	Unavailable	604	0	0	None
-2	Arm	655	Unavailable	605	0	0	None
-2	Arm	656	Unavailable	606	0	0	None
-2	Arm	657	Unavailable	607	0	0	None
+2	Arm	625	【아크로크β】의상-팔 	674	0	9	pl104_0000
+2	Arm	626	【EX벨리오α】의상-팔 	576	0	9	pl089_0000
+2	Arm	627	【EX벨리오β】의상-팔 	577	0	9	pl089_0010
+2	Arm	628	【EX레우스α】의상-팔 	578	0	9	pl033_0001
+2	Arm	629	【EX레우스β】의상-팔 	579	0	9	pl033_0011
+2	Arm	630	【EX리오소울α】의상-팔 	580	0	10	pl033_0101
+2	Arm	631	【EX리오소울β】의상-팔 	581	0	10	pl033_0111
+2	Arm	632	【EX디아블로α】의상-팔 	582	0	9	pl034_0001
+2	Arm	633	【EX디아블로β】의상-팔 	583	0	9	pl034_0011
+2	Arm	634	【EX디아네로α】의상-팔 	584	0	10	pl034_0101
+2	Arm	635	【EX디아네로β】의상-팔 	585	0	10	pl034_0111
+2	Arm	636	【EX기에나α】의상-팔 	586	0	9	pl027_0001
+2	Arm	637	【EX기에나β】의상-팔 	587	0	9	pl027_0011
+2	Arm	638	【EX브리나α】의상-팔 	588	0	10	pl027_0500
+2	Arm	639	【EX브리나β】의상-팔 	589	0	10	pl027_0510
+2	Arm	640	【EX가론α】의상-팔 	590	0	9	pl029_0001
+2	Arm	641	【EX가론β】의상-팔 	591	0	9	pl029_0011
+2	Arm	642	【EX데스가론α】의상-팔 	592	0	10	pl029_0101
+2	Arm	643	【EX데스가론β】의상-팔 	593	0	10	pl029_0111
+2	Arm	644	【EX라바】의상-팔 	594	0	9	pl040_0001
+2	Arm	645	【EX간킨】의상-팔 	595	0	9	pl041_0001
+2	Arm	646	【EX나르가α】의상-팔 	596	0	9	pl080_0000
+2	Arm	647	【EX나르가β】의상-팔 	597	0	9	pl080_0010
+2	Arm	648	【EX디노α】의상-팔 	598	0	9	pl081_0000
+2	Arm	649	【EX디노β】의상-팔 	599	0	9	pl081_0010
+2	Arm	650	【EX디노이에로α】의상-팔 	600	0	10	pl081_0100
+2	Arm	651	【EX디노이에로β】의상-팔 	601	0	10	pl081_0110
+2	Arm	652	【EX브라키α】의상-팔 	602	0	9	pl082_0000
+2	Arm	653	【EX브라키β】의상-팔 	603	0	9	pl082_0010
+2	Arm	654	【EX렉스α】의상-팔 	604	0	9	pl083_0000
+2	Arm	655	【EX렉스β】의상-팔 	605	0	9	pl083_0010
+2	Arm	656	【EX렉스로어α】의상-팔	606	0	10	pl083_0100
+2	Arm	657	【EX렉스로어β】의상-팔	607	0	10	pl083_0110
 2	Arm	658	【검은띠】의상-팔	608	0	10	pl093_0000
-2	Arm	659	Unavailable	609	0	0	None
-2	Arm	660	Unavailable	610	0	0	None
-2	Arm	661	Unavailable	611	0	0	None
-2	Arm	662	Unavailable	612	0	0	None
-2	Arm	663	Unavailable	613	0	0	None
-2	Arm	664	Unavailable	614	0	0	None
-2	Arm	665	Unavailable	615	0	0	None
-2	Arm	666	Unavailable	616	0	0	None
-2	Arm	667	Unavailable	617	0	0	None
-2	Arm	668	Unavailable	618	0	0	None
-2	Arm	669	Unavailable	619	0	0	None
-2	Arm	670	Unavailable	620	0	0	None
-2	Arm	671	Unavailable	621	0	0	None
-2	Arm	672	Unavailable	622	0	0	None
-2	Arm	673	Unavailable	623	0	0	None
-2	Arm	674	Unavailable	624	0	0	None
-2	Arm	675	Unavailable	625	0	0	None
-2	Arm	678	Unavailable	628	0	0	None
-2	Arm	679	Unavailable	629	0	0	None
-2	Arm	680	Unavailable	630	0	0	None
-2	Arm	681	Unavailable	631	0	0	None
-2	Arm	682	Unavailable	632	0	0	None
-2	Arm	683	Unavailable	633	0	0	None
-2	Arm	684	Unavailable	634	0	0	None
-2	Arm	685	Unavailable	635	0	0	None
-2	Arm	686	Unavailable	636	0	0	None
-2	Arm	687	Unavailable	637	0	0	None
-2	Arm	688	Unavailable	638	0	0	None
-2	Arm	689	Unavailable	639	0	0	None
-2	Arm	690	Unavailable	640	0	0	None
-2	Arm	691	Unavailable	641	0	0	None
-2	Arm	692	Unavailable	642	0	0	None
-2	Arm	693	Unavailable	643	0	0	None
-2	Arm	694	Unavailable	644	0	0	None
-2	Arm	695	Unavailable	645	0	0	None
-2	Arm	696	Unavailable	646	0	0	None
-2	Arm	697	Unavailable	647	0	0	None
-2	Arm	698	Unavailable	648	0	0	None
-2	Arm	699	Unavailable	649	0	0	None
-2	Arm	700	Unavailable	650	0	0	None
-2	Arm	701	Unavailable	651	0	0	None
-2	Arm	702	Unavailable	652	0	0	None
-2	Arm	703	Unavailable	653	0	0	None
-2	Arm	704	Unavailable	654	0	0	None
-2	Arm	705	Unavailable	655	0	0	None
-2	Arm	706	Unavailable	656	0	0	None
-2	Arm	707	Unavailable	657	0	0	None
-2	Arm	708	Unavailable	658	0	0	None
-2	Arm	709	Unavailable	659	0	0	None
-2	Arm	710	Unavailable	660	0	0	None
-2	Arm	715	Unavailable	665	0	0	None
-2	Arm	716	Unavailable	666	0	0	None
+2	Arm	659	【EX프라이드α】의상-팔	609	0	10	pl042_0500
+2	Arm	660	【EX프라이드β】의상-팔	610	0	10	pl042_0510
+2	Arm	661	【EX그리드α】의상-팔	611	0	10	pl050_0500
+2	Arm	662	【EX그리드β】의상-팔	612	0	10	pl050_0510
+2	Arm	663	【EX라비나α】의상-팔	613	0	11	pl085_0000
+2	Arm	664	【EX라비나β】의상-팔	614	0	11	pl085_0010
+2	Arm	665	【EX바르퍼α】의상-팔	615	0	11	pl032_0500
+2	Arm	666	【EX바르퍼β】의상-팔	616	0	11	pl032_0510
+2	Arm	667	【EX카이저α】의상-팔	617	0	11	pl046_0001
+2	Arm	668	【EX카이저β】의상-팔	618	0	11	pl046_0011
+2	Arm	669	【EX크샤나α】의상-팔	619	0	11	pl047_0001
+2	Arm	670	【EX크샤나β】의상-팔	620	0	11	pl047_0011
+2	Arm	671	【EX키린α】의상-팔	621	0	11	pl035_0001
+2	Arm	672	【EX키린β】의상-팔	622	0	11	pl035_0011
+2	Arm	673	【EX텐터클α】의상-팔	623	0	11	pl086_0000
+2	Arm	674	【EX텐터클β】의상-팔	624	0	11	pl086_0010
+2	Arm	675	【길드팰리스】의상-팔 	625	0	10	pl094_0000
+2	Arm	678	【EX안가루다α】의상-팔	628	0	11	pl088_0000
+2	Arm	679	【EX안가루다β】의상-팔	629	0	11	pl088_0010
+2	Arm	680	【EX가루루가α】의상-팔	630	0	10	pl108_0000
+2	Arm	681	【EX가루루가β】의상-팔	631	0	10	pl108_0010
+2	Arm	682	【EX진오우α】의상-팔	632	0	10	pl107_0000
+2	Arm	683	【EX진오우β】의상-팔	633	0	10	pl107_0010
+2	Arm	684	【EX골드루나α】의상-팔	634	0	11	pl021_0200
+2	Arm	685	【EX골드루나β】의상-팔	635	0	11	pl021_0210
+2	Arm	686	【EX실버솔α】의상-팔	636	0	11	pl033_0200
+2	Arm	687	【EX실버솔β】의상-팔	637	0	11	pl033_0210
+2	Arm	688	【EX엠프리스α】의상-팔	638	0	11	pl051_0001
+2	Arm	689	【EX엠프리스β】의상-팔	639	0	11	pl051_0011
+2	Arm	690	【EX조크α】의상-팔	640	0	11	pl030_0500
+2	Arm	691	【EX조크β】의상-팔	641	0	11	pl030_0510
+2	Arm	692	【길드워크】의상-팔 	642	0	11	pl092_0000
+2	Arm	693	【EX금빛α】의상-팔	643	0	10	pl109_0000
+2	Arm	694	【EX금빛β】의상-팔	644	0	10	pl109_0010
+2	Arm	695	【EX극오우α】의상-팔	645	0	10	pl107_0100
+2	Arm	696	【EX극오우β】의상-팔	646	0	10	pl107_0110
+2	Arm	697	【EX용문α】의상-팔	647	0	11	pl087_0000
+2	Arm	698	【EX용문β】의상-팔	648	0	11	pl087_0010
+2	Arm	699	【EX제천α】의상-팔	649	0	11	pl109_0500
+2	Arm	700	【EX제천β】의상-팔	650	0	11	pl109_0510
+2	Arm	701	【EX브라키움α】의상-팔	651	0	11	pl082_0500
+2	Arm	702	【EX브라키움β】의상-팔	652	0	11	pl082_0510
+2	Arm	703	【EX오르문그α】의상-팔	653	0	10	pl089_0500
+2	Arm	704	【EX오르문그β】의상-팔	654	0	10	pl089_0510
+2	Arm	705	【EX에스카드라α】의상-팔	655	0	11	pl052_0000
+2	Arm	706	【EX에스카드라β】의상-팔	656	0	11	pl052_0010
+2	Arm	707	【EX드래곤α】의상-팔	657	0	11	pl129_0000
+2	Arm	708	【EX드래곤β】의상-팔	658	0	11	pl129_0010
+2	Arm	709	【EX맘가이라α】의상-팔	659	0	11	pl049_0001
+2	Arm	710	【EX맘가이라β】의상-팔	660	0	11	pl049_0011
+2	Arm	715	【머슬α】의상-팔 	665	0	10	pl115_0000
+2	Arm	716	【푸른빛무사】의상-팔	666	0	11	pl072_0001
 2	Arm	717	Unavailable	667	0	0	None
-2	Arm	718	Unavailable	668	0	0	None
-2	Arm	719	Unavailable	669	0	0	None
-2	Arm	720	Unavailable	670	0	0	None
+2	Arm	718	HARDUMMY	668	0	11	pl068_0020
+2	Arm	719	【EX라비나γ】의상-팔	669	0	11	pl085_0020
+2	Arm	720	【EX텐터클γ】의상-팔	670	0	11	pl086_0020
 2	Arm	721	Unavailable	671	0	0	None
-2	Arm	722	Unavailable	672	0	0	None
+2	Arm	722	【머슬γ】의상-팔	672	0	11	pl115_0001
 2	Arm	723	【이너α】의상-팔	673	0	11	pl500_0000
 2	Arm	724	【이너β】의상-팔	675	0	11	pl501_0000
 2	Arm	725	Unavailable	676	0	0	None
@@ -2032,8 +2032,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	146	【오리온】 의상-허리	150	0	3	pl077_0000
 3	Waist	153	【풀드레스】 의상-허리	153	0	3	pl078_0000
 3	Waist	299	HARDUMMY	154	0	7	pl068_0000
-3	Waist	291	HARDUMMY	155	0	7	pl069_0000
-3	Waist	292	HARDUMMY	156	0	7	pl070_0000
+3	Waist	291	【Ryu】의상-허리	155	0	7	pl069_0000
+3	Waist	292	【Sakura】 의상-허리	156	0	7	pl070_0000
 3	Waist	141	Unavailable	177	2	0	pl001_0000
 3	Waist	142	Unavailable	179	2	0	pl001_0000
 3	Waist	143	Unavailable	180	2	0	pl001_0000
@@ -2077,9 +2077,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	224	조라마그나스파인γ	213	72	7	pl038_0020
 3	Waist	226	제노라지스파인γ	214	72	7	pl045_0020
 3	Waist	227	HARDUMMY	215	46	4	pl068_0000
-3	Waist	228	HARDUMMY	216	12	1	pl069_0000
-3	Waist	229	HARDUMMY	217	60	6	pl069_0000
-3	Waist	230	HARDUMMY	218	50	5	pl070_0000
+3	Waist	228	Ryu 웨스트	216	12	1	pl069_0000
+3	Waist	229	Ryu 웨스트α	217	60	6	pl069_0000
+3	Waist	230	Sakura 웨스트α	218	50	5	pl070_0000
 3	Waist	231	파란별 장군【허리】α	219	56	6	pl072_0000
 3	Waist	232	단테 벨트α	220	64	7	pl071_0000
 3	Waist	233	엠프리스코일α	221	70	7	pl051_0000
@@ -2222,7 +2222,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	443	EX키린후프β	393	154	11	pl035_0011
 3	Waist	444	EX텐터클코일α	394	158	11	pl086_0000
 3	Waist	445	EX텐터클코일β	395	158	11	pl086_0010
-3	Waist	446	Unavailable	396	0	0	None
+3	Waist	446	【아크로크α】의상-허리	396	0	9	pl104_0000
 3	Waist	447	【보로스】의상-허리	397	0	4	pl012_0000
 3	Waist	448	EX길드팰리스코일α	398	154	10	pl094_0000
 3	Waist	449	EX길드팰리스코일β	399	154	10	pl094_0000
@@ -2270,7 +2270,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	497	【우르무】의상-허리	447	0	4	pl024_0000
 3	Waist	498	EX패션벨트α	448	156	9	pl125_0000
 3	Waist	499	【레이아α】의상-허리	449	0	4	pl021_0000
-3	Waist	500	Unavailable	450	0	0	None
+3	Waist	500	EX마계의 주인【벨트】α	450	162	10	pl126_0000
 3	Waist	501	【레이아β】의상-허리	451	0	4	pl021_0010
 3	Waist	502	EX우론웨스트α	452	120	8	pl127_0000
 3	Waist	503	【발킨α】의상-허리	453	0	5	pl028_0000
@@ -2278,7 +2278,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	505	【발킨β】의상-허리	455	0	5	pl028_0010
 3	Waist	506	【로제】의상-허리	456	0	9	pl124_0000
 3	Waist	507	【패션】의상-허리	457	0	9	pl125_0000
-3	Waist	508	Unavailable	458	0	0	None
+3	Waist	508	【마계의 주인】 의상-허리	458	0	10	pl126_0000
 3	Waist	509	【우론】의상-허리	459	0	8	pl127_0000
 3	Waist	510	【아스트라】의상-허리	460	0	8	pl128_0000
 3	Waist	511	【하이메탈】의상-허리	461	0	5	pl025_0000
@@ -2291,19 +2291,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	522	【은기사】의상-허리	472	0	6	pl123_0000
 3	Waist	523	HARDUMMY	473	132	11	pl068_0010
 3	Waist	524	EX텐터클코일γ	474	176	11	pl086_0020
-3	Waist	525	HARDUMMY	475	0	7	pl072_0000
-3	Waist	526	HARDUMMY	476	170	11	pl072_0001
-3	Waist	527	Unavailable	477	0	0	None
+3	Waist	525	【파란별 장군】의상-허리	475	0	7	pl072_0000
+3	Waist	526	EX푸른빛무사【띠】α	476	170	11	pl072_0001
+3	Waist	527	EX라비나코일γ	477	180	11	pl085_0020
 3	Waist	528	EX오르문그코일α	478	162	10	pl089_0500
 3	Waist	529	EX오르문그코일β	479	162	10	pl089_0510
-3	Waist	530	Unavailable	480	0	0	None
-3	Waist	531	Unavailable	481	0	0	None
+3	Waist	530	EX드래곤스파인α	480	180	11	pl129_0000
+3	Waist	531	EX드래곤스파인β	481	180	11	pl129_0010
 3	Waist	532	HARDUMMY	482	160	11	pl068_0020
 3	Waist	533	Unavailable	483	0	0	None
 3	Waist	534	EX레온웨스트α	484	150	11	pl130_0000
 3	Waist	535	EX클레어웨스트α	485	150	11	pl131_0000
-3	Waist	536	Unavailable	486	0	0	None
-3	Waist	537	Unavailable	487	0	0	None
+3	Waist	536	【레온】의상-허리	486	0	11	pl130_0000
+3	Waist	537	【클레어】의상-허리	487	0	11	pl131_0000
 3	Waist	540	【가마루】의상-허리	490	0	4	pl039_0000
 3	Waist	541	【잉곳】의상-허리	491	0	5	pl031_0000
 3	Waist	542	【리오하트α】의상-허리	492	0	5	pl021_0100
@@ -2359,126 +2359,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	592	【맘가이라α】의상-허리	542	0	7	pl049_0000
 3	Waist	593	【맘가이라β】의상-허리	543	0	7	pl049_0010
 3	Waist	594	【맘가이라γ】의상-허리	544	0	7	pl049_0020
-3	Waist	595	Unavailable	546	0	0	None
-3	Waist	596	Unavailable	547	0	0	None
-3	Waist	599	Unavailable	550	0	0	None
-3	Waist	600	Unavailable	551	0	0	None
-3	Waist	601	Unavailable	552	0	0	None
-3	Waist	602	Unavailable	553	0	0	None
-3	Waist	603	Unavailable	554	0	0	None
-3	Waist	604	Unavailable	555	0	0	None
-3	Waist	605	Unavailable	556	0	0	None
-3	Waist	606	Unavailable	557	0	0	None
-3	Waist	607	Unavailable	558	0	0	None
-3	Waist	608	Unavailable	559	0	0	None
-3	Waist	609	Unavailable	560	0	0	None
-3	Waist	610	Unavailable	561	0	0	None
-3	Waist	611	Unavailable	562	0	0	None
-3	Waist	612	Unavailable	563	0	0	None
-3	Waist	613	Unavailable	564	0	0	None
-3	Waist	614	Unavailable	565	0	0	None
-3	Waist	615	Unavailable	566	0	0	None
-3	Waist	616	Unavailable	567	0	0	None
-3	Waist	617	Unavailable	568	0	0	None
-3	Waist	618	Unavailable	569	0	0	None
-3	Waist	619	Unavailable	570	0	0	None
-3	Waist	620	Unavailable	571	0	0	None
-3	Waist	621	Unavailable	572	0	0	None
-3	Waist	622	Unavailable	573	0	0	None
-3	Waist	623	Unavailable	574	0	0	None
+3	Waist	595	【EX랑고】의상-허리	546	0	8	pl007_0001
+3	Waist	596	【EX타로스】의상-허리	547	0	8	pl017_0001
+3	Waist	599	【EX쟈그라스】의상-허리	550	0	8	pl008_0001
+3	Waist	600	【EX치치】의상-허리	551	0	8	pl023_0001
+3	Waist	601	【EX기르오스】의상-허리	552	0	8	pl022_0001
+3	Waist	602	【EX가마루】의상-허리	553	0	8	pl039_0001
+3	Waist	603	【EX쿠루루】의상-허리	554	0	8	pl009_0001
+3	Waist	604	【EX푸케푸케】의상-허리	555	0	8	pl010_0001
+3	Waist	605	【EX푸케라그나】의상-허리	556	0	8	pl010_0101
+3	Waist	606	【EX보로스】의상-허리	557	0	8	pl012_0001
+3	Waist	607	【EX쥬라】의상-허리	558	0	8	pl011_0001
+3	Waist	608	【EX브란】의상-허리	559	0	8	pl110_0000
+3	Waist	609	【EX카가치】의상-허리	560	0	8	pl013_0001
+3	Waist	610	【EX베니카가치】의상-허리	561	0	8	pl013_0101
+3	Waist	611	【EX버프바로α】의상-허리	562	0	8	pl084_0000
+3	Waist	612	【EX버프바로β】의상-허리	563	0	8	pl084_0010
+3	Waist	613	【EX쟈나프α】의상-허리	564	0	8	pl020_0001
+3	Waist	614	【EX쟈나프β】의상-허리	565	0	8	pl020_0011
+3	Waist	615	【EX쟈나르α】의상-허리	566	0	10	pl020_0101
+3	Waist	616	【EX쟈나르β】의상-허리	567	0	10	pl020_0111
+3	Waist	617	【EX레이아α】의상-허리	568	0	8	pl021_0001
+3	Waist	618	【EX레이아β】의상-허리	569	0	8	pl021_0011
+3	Waist	619	【EX리오하트α】의상-허리	570	0	8	pl021_0101
+3	Waist	620	【EX리오하트β】의상-허리	571	0	8	pl021_0111
+3	Waist	621	【EX우르무】의상-허리	572	0	8	pl024_0001
+3	Waist	622	【EX우르무메어】의상-허리	573	0	8	pl024_0101
+3	Waist	623	【EX발킨】의상-허리	574	0	8	pl028_0001
 3	Waist	624	【아티어】의상-허리	575	0	9	pl091_0000
-3	Waist	625	Unavailable	674	0	0	None
-3	Waist	626	Unavailable	576	0	0	None
-3	Waist	627	Unavailable	577	0	0	None
-3	Waist	628	Unavailable	578	0	0	None
-3	Waist	629	Unavailable	579	0	0	None
-3	Waist	630	Unavailable	580	0	0	None
-3	Waist	631	Unavailable	581	0	0	None
-3	Waist	632	Unavailable	582	0	0	None
-3	Waist	633	Unavailable	583	0	0	None
-3	Waist	634	Unavailable	584	0	0	None
-3	Waist	635	Unavailable	585	0	0	None
-3	Waist	636	Unavailable	586	0	0	None
-3	Waist	637	Unavailable	587	0	0	None
-3	Waist	638	Unavailable	588	0	0	None
-3	Waist	639	Unavailable	589	0	0	None
-3	Waist	640	Unavailable	590	0	0	None
-3	Waist	641	Unavailable	591	0	0	None
-3	Waist	642	Unavailable	592	0	0	None
-3	Waist	643	Unavailable	593	0	0	None
-3	Waist	644	Unavailable	594	0	0	None
-3	Waist	645	Unavailable	595	0	0	None
-3	Waist	646	Unavailable	596	0	0	None
-3	Waist	647	Unavailable	597	0	0	None
-3	Waist	648	Unavailable	598	0	0	None
-3	Waist	649	Unavailable	599	0	0	None
-3	Waist	650	Unavailable	600	0	0	None
-3	Waist	651	Unavailable	601	0	0	None
-3	Waist	652	Unavailable	602	0	0	None
-3	Waist	653	Unavailable	603	0	0	None
-3	Waist	654	Unavailable	604	0	0	None
-3	Waist	655	Unavailable	605	0	0	None
-3	Waist	656	Unavailable	606	0	0	None
-3	Waist	657	Unavailable	607	0	0	None
+3	Waist	625	【아크로크β】의상-허리	674	0	9	pl104_0000
+3	Waist	626	【EX벨리오α】의상-허리	576	0	9	pl089_0000
+3	Waist	627	【EX벨리오β】의상-허리	577	0	9	pl089_0010
+3	Waist	628	【EX레우스α】의상-허리	578	0	9	pl033_0001
+3	Waist	629	【EX레우스β】의상-허리	579	0	9	pl033_0011
+3	Waist	630	【EX리오소울α】의상-허리	580	0	10	pl033_0101
+3	Waist	631	【EX리오소울β】의상-허리	581	0	10	pl033_0111
+3	Waist	632	【EX디아블로α】의상-허리	582	0	9	pl034_0001
+3	Waist	633	【EX디아블로β】의상-허리	583	0	9	pl034_0011
+3	Waist	634	【EX디아네로α】의상-허리	584	0	10	pl034_0101
+3	Waist	635	【EX디아네로β】의상-허리	585	0	10	pl034_0111
+3	Waist	636	【EX기에나α】의상-허리	586	0	9	pl027_0001
+3	Waist	637	【EX기에나β】의상-허리	587	0	9	pl027_0011
+3	Waist	638	【EX브리나α】의상-허리	588	0	10	pl027_0500
+3	Waist	639	【EX브리나β】의상-허리	589	0	10	pl027_0510
+3	Waist	640	【EX가론α】의상-허리	590	0	9	pl029_0001
+3	Waist	641	【EX가론β】의상-허리	591	0	9	pl029_0011
+3	Waist	642	【EX데스가론α】의상-허리	592	0	10	pl029_0101
+3	Waist	643	【EX데스가론β】의상-허리	593	0	10	pl029_0111
+3	Waist	644	【EX라바】의상-허리	594	0	9	pl040_0001
+3	Waist	645	【EX간킨】의상-허리	595	0	9	pl041_0001
+3	Waist	646	【EX나르가α】의상-허리	596	0	9	pl080_0000
+3	Waist	647	【EX나르가β】의상-허리	597	0	9	pl080_0010
+3	Waist	648	【EX디노α】의상-허리	598	0	9	pl081_0000
+3	Waist	649	【EX디노β】의상-허리	599	0	9	pl081_0010
+3	Waist	650	【EX디노이에로α】의상-허리	600	0	10	pl081_0100
+3	Waist	651	【EX디노이에로β】의상-허리	601	0	10	pl081_0110
+3	Waist	652	【EX브라키α】의상-허리	602	0	9	pl082_0000
+3	Waist	653	【EX브라키β】의상-허리	603	0	9	pl082_0010
+3	Waist	654	【EX렉스α】의상-허리	604	0	9	pl083_0000
+3	Waist	655	【EX렉스β】의상-허리	605	0	9	pl083_0010
+3	Waist	656	【EX렉스로어α】 의상-허리	606	0	10	pl083_0100
+3	Waist	657	【EX렉스로어β】 의상-허리	607	0	10	pl083_0110
 3	Waist	658	【검은띠】의상-허리	608	0	10	pl093_0000
-3	Waist	659	Unavailable	609	0	0	None
-3	Waist	660	Unavailable	610	0	0	None
-3	Waist	661	Unavailable	611	0	0	None
-3	Waist	662	Unavailable	612	0	0	None
-3	Waist	663	Unavailable	613	0	0	None
-3	Waist	664	Unavailable	614	0	0	None
-3	Waist	665	Unavailable	615	0	0	None
-3	Waist	666	Unavailable	616	0	0	None
-3	Waist	667	Unavailable	617	0	0	None
-3	Waist	668	Unavailable	618	0	0	None
-3	Waist	669	Unavailable	619	0	0	None
-3	Waist	670	Unavailable	620	0	0	None
-3	Waist	671	Unavailable	621	0	0	None
-3	Waist	672	Unavailable	622	0	0	None
-3	Waist	673	Unavailable	623	0	0	None
-3	Waist	674	Unavailable	624	0	0	None
-3	Waist	675	Unavailable	625	0	0	None
-3	Waist	678	Unavailable	628	0	0	None
-3	Waist	679	Unavailable	629	0	0	None
-3	Waist	680	Unavailable	630	0	0	None
-3	Waist	681	Unavailable	631	0	0	None
-3	Waist	682	Unavailable	632	0	0	None
-3	Waist	683	Unavailable	633	0	0	None
-3	Waist	684	Unavailable	634	0	0	None
-3	Waist	685	Unavailable	635	0	0	None
-3	Waist	686	Unavailable	636	0	0	None
-3	Waist	687	Unavailable	637	0	0	None
-3	Waist	688	Unavailable	638	0	0	None
-3	Waist	689	Unavailable	639	0	0	None
-3	Waist	690	Unavailable	640	0	0	None
-3	Waist	691	Unavailable	641	0	0	None
-3	Waist	692	Unavailable	642	0	0	None
-3	Waist	693	Unavailable	643	0	0	None
-3	Waist	694	Unavailable	644	0	0	None
-3	Waist	695	Unavailable	645	0	0	None
-3	Waist	696	Unavailable	646	0	0	None
-3	Waist	697	Unavailable	647	0	0	None
-3	Waist	698	Unavailable	648	0	0	None
-3	Waist	699	Unavailable	649	0	0	None
-3	Waist	700	Unavailable	650	0	0	None
-3	Waist	701	Unavailable	651	0	0	None
-3	Waist	702	Unavailable	652	0	0	None
-3	Waist	703	Unavailable	653	0	0	None
-3	Waist	704	Unavailable	654	0	0	None
-3	Waist	705	Unavailable	655	0	0	None
-3	Waist	706	Unavailable	656	0	0	None
-3	Waist	707	Unavailable	657	0	0	None
-3	Waist	708	Unavailable	658	0	0	None
-3	Waist	709	Unavailable	659	0	0	None
-3	Waist	710	Unavailable	660	0	0	None
-3	Waist	715	Unavailable	665	0	0	None
-3	Waist	716	Unavailable	666	0	0	None
+3	Waist	659	【EX프라이드α】 의상-허리	609	0	10	pl042_0500
+3	Waist	660	【EX프라이드β】 의상-허리	610	0	10	pl042_0510
+3	Waist	661	【EX그리드α】 의상-허리	611	0	10	pl050_0500
+3	Waist	662	【EX그리드β】 의상-허리	612	0	10	pl050_0510
+3	Waist	663	【EX라비나α】 의상-허리	613	0	11	pl085_0000
+3	Waist	664	【EX라비나β】 의상-허리	614	0	11	pl085_0010
+3	Waist	665	【EX바르퍼α】 의상-허리	615	0	11	pl032_0500
+3	Waist	666	【EX바르퍼β】 의상-허리	616	0	11	pl032_0510
+3	Waist	667	【EX카이저α】 의상-허리	617	0	11	pl046_0001
+3	Waist	668	【EX카이저β】 의상-허리	618	0	11	pl046_0011
+3	Waist	669	【EX크샤나α】 의상-허리	619	0	11	pl047_0001
+3	Waist	670	【EX크샤나β】 의상-허리	620	0	11	pl047_0011
+3	Waist	671	【EX키린α】 의상-허리	621	0	11	pl035_0001
+3	Waist	672	【EX키린β】 의상-허리	622	0	11	pl035_0011
+3	Waist	673	【EX텐터클α】 의상-허리	623	0	11	pl086_0000
+3	Waist	674	【EX텐터클β】 의상-허리	624	0	11	pl086_0010
+3	Waist	675	【길드팰리스】의상-허리	625	0	10	pl094_0000
+3	Waist	678	【EX안가루다α】 의상-허리	628	0	11	pl088_0000
+3	Waist	679	【EX안가루다β】 의상-허리	629	0	11	pl088_0010
+3	Waist	680	【EX가루루가α】 의상-허리	630	0	10	pl108_0000
+3	Waist	681	【EX가루루가β】 의상-허리	631	0	10	pl108_0010
+3	Waist	682	【EX진오우α】 의상-허리	632	0	10	pl107_0000
+3	Waist	683	【EX진오우β】 의상-허리	633	0	10	pl107_0010
+3	Waist	684	【EX골드루나α】 의상-허리	634	0	11	pl021_0200
+3	Waist	685	【EX골드루나β】 의상-허리	635	0	11	pl021_0210
+3	Waist	686	【EX실버솔α】 의상-허리	636	0	11	pl033_0200
+3	Waist	687	【EX실버솔β】 의상-허리	637	0	11	pl033_0210
+3	Waist	688	【EX엠프리스α】 의상-허리	638	0	11	pl051_0001
+3	Waist	689	【EX엠프리스β】 의상-허리	639	0	11	pl051_0011
+3	Waist	690	【EX조크α】 의상-허리	640	0	11	pl030_0500
+3	Waist	691	【EX조크β】 의상-허리	641	0	11	pl030_0510
+3	Waist	692	【길드워크】의상-허리	642	0	11	pl092_0000
+3	Waist	693	【EX금빛α】 의상-허리	643	0	10	pl109_0000
+3	Waist	694	【EX금빛β】 의상-허리	644	0	10	pl109_0010
+3	Waist	695	【EX극오우α】 의상-허리	645	0	10	pl107_0100
+3	Waist	696	【EX극오우β】 의상-허리	646	0	10	pl107_0110
+3	Waist	697	【EX용문α】 의상-허리	647	0	11	pl087_0000
+3	Waist	698	【EX용문β】 의상-허리	648	0	11	pl087_0010
+3	Waist	699	【EX제천α】 의상-허리	649	0	11	pl109_0500
+3	Waist	700	【EX제천β】 의상-허리	650	0	11	pl109_0510
+3	Waist	701	【EX브라키움α】 의상-허리	651	0	11	pl082_0500
+3	Waist	702	【EX브라키움β】 의상-허리	652	0	11	pl082_0510
+3	Waist	703	【EX오르문그α】 의상-허리	653	0	10	pl089_0500
+3	Waist	704	【EX오르문그β】 의상-허리	654	0	10	pl089_0510
+3	Waist	705	【EX에스카드라α】 의상-허리	655	0	11	pl052_0000
+3	Waist	706	【EX에스카드라β】 의상-허리	656	0	11	pl052_0010
+3	Waist	707	【EX드래곤α】의상-허리	657	0	11	pl129_0000
+3	Waist	708	【EX드래곤β】의상-허리	658	0	11	pl129_0010
+3	Waist	709	【EX맘가이라α】 의상-허리	659	0	11	pl049_0001
+3	Waist	710	【EX맘가이라β】 의상-허리	660	0	11	pl049_0011
+3	Waist	715	【머슬α】의상-허리	665	0	10	pl115_0000
+3	Waist	716	【푸른빛무사】 의상-허리	666	0	11	pl072_0001
 3	Waist	717	Unavailable	667	0	0	None
-3	Waist	718	Unavailable	668	0	0	None
-3	Waist	719	Unavailable	669	0	0	None
-3	Waist	720	Unavailable	670	0	0	None
+3	Waist	718	HARDUMMY	668	0	11	pl068_0020
+3	Waist	719	【EX라비나γ】 의상-허리	669	0	11	pl085_0020
+3	Waist	720	【EX텐터클γ】 의상-허리	670	0	11	pl086_0020
 3	Waist	721	Unavailable	671	0	0	None
-3	Waist	722	Unavailable	672	0	0	None
+3	Waist	722	【머슬γ】의상-허리	672	0	11	pl115_0001
 3	Waist	723	【이너α】 의상-허리	673	0	11	pl500_0000
 3	Waist	724	【이너β】의상-허리	675	0	11	pl501_0000
 3	Waist	725	Unavailable	676	0	0	None
@@ -2644,8 +2644,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	146	【오리온】 의상-다리	150	0	3	pl077_0000
 4	Leg	153	【풀드레스】 의상-다리	153	0	3	pl078_0000
 4	Leg	299	HARDUMMY	154	0	7	pl068_0000
-4	Leg	291	HARDUMMY	155	0	7	pl069_0000
-4	Leg	292	HARDUMMY	156	0	7	pl070_0000
+4	Leg	291	【Ryu】의상-다리	155	0	7	pl069_0000
+4	Leg	292	【Sakura】 의상-다리	156	0	7	pl070_0000
 4	Leg	141	Unavailable	143	2	0	pl001_0000
 4	Leg	142	Unavailable	179	2	0	pl001_0000
 4	Leg	143	Unavailable	180	2	0	pl001_0000
@@ -2689,9 +2689,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	223	조라마그나풋γ	213	72	7	pl038_0020
 4	Leg	224	제노라지풋γ	214	72	7	pl045_0020
 4	Leg	225	HARDUMMY	215	46	4	pl068_0000
-4	Leg	226	HARDUMMY	216	12	1	pl069_0000
-4	Leg	227	HARDUMMY	217	60	6	pl069_0000
-4	Leg	228	HARDUMMY	218	50	5	pl070_0000
+4	Leg	226	Ryu 레그	216	12	1	pl069_0000
+4	Leg	227	Ryu 레그α	217	60	6	pl069_0000
+4	Leg	228	Sakura 레그α	218	50	5	pl070_0000
 4	Leg	229	파란별 장군【다리】α	219	56	6	pl072_0000
 4	Leg	230	단테 레더α	220	64	7	pl071_0000
 4	Leg	231	엠프리스그리브α	221	70	7	pl051_0000
@@ -2837,7 +2837,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	443	EX키린레그가드β	393	154	11	pl035_0011
 4	Leg	444	EX텐터클그리브α	394	158	11	pl086_0000
 4	Leg	445	EX텐터클그리브β	395	158	11	pl086_0010
-4	Leg	446	Unavailable	396	0	0	None
+4	Leg	446	【아크로크α】의상-다리	396	0	9	pl104_0000
 4	Leg	447	【보로스】의상-다리	397	0	4	pl012_0000
 4	Leg	448	EX길드팰리스그리브α	398	154	10	pl094_0000
 4	Leg	449	EX길드팰리스그리브β	399	154	10	pl094_0000
@@ -2885,7 +2885,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	497	【우르무】의상-다리	447	0	4	pl024_0000
 4	Leg	498	EX패션풋α	448	156	9	pl125_0000
 4	Leg	499	【레이아α】의상-다리	449	0	4	pl021_0000
-4	Leg	500	Unavailable	450	0	0	None
+4	Leg	500	EX마계의 주인【검은신발】α	450	162	10	pl126_0000
 4	Leg	501	【레이아β】의상-다리	451	0	4	pl021_0010
 4	Leg	502	EX우론풋α	452	120	8	pl127_0000
 4	Leg	503	【발킨α】의상-다리	453	0	5	pl028_0000
@@ -2893,7 +2893,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	505	【발킨β】의상-다리	455	0	5	pl028_0010
 4	Leg	506	【로제】의상-다리	456	0	9	pl124_0000
 4	Leg	507	【패션】의상-다리	457	0	9	pl125_0000
-4	Leg	508	Unavailable	458	0	0	None
+4	Leg	508	【마계의 주인】의상-다리	458	0	10	pl126_0000
 4	Leg	509	【우론】의상-다리	459	0	8	pl127_0000
 4	Leg	510	【아스트라】의상-다리	460	0	8	pl128_0000
 4	Leg	511	【하이메탈】의상-다리	461	0	5	pl025_0000
@@ -2906,19 +2906,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	522	【은기사】의상-다리	472	0	6	pl123_0000
 4	Leg	523	HARDUMMY	473	132	11	pl068_0010
 4	Leg	524	EX텐터클그리브γ	474	176	11	pl086_0020
-4	Leg	525	HARDUMMY	475	0	7	pl072_0000
-4	Leg	526	HARDUMMY	476	170	11	pl072_0001
-4	Leg	527	Unavailable	477	0	0	None
+4	Leg	525	【파란별 장군】의상-다리	475	0	7	pl072_0000
+4	Leg	526	EX푸른빛무사【신발】α	476	170	11	pl072_0001
+4	Leg	527	EX라비나그리브γ	477	180	11	pl085_0020
 4	Leg	528	EX오르문그그리브α	478	162	10	pl089_0500
 4	Leg	529	EX오르문그그리브β	479	162	10	pl089_0510
-4	Leg	530	Unavailable	480	0	0	None
-4	Leg	531	Unavailable	481	0	0	None
+4	Leg	530	EX드래곤풋α	480	180	11	pl129_0000
+4	Leg	531	EX드래곤풋β	481	180	11	pl129_0010
 4	Leg	532	HARDUMMY	482	160	11	pl068_0020
 4	Leg	533	Unavailable	483	0	0	None
 4	Leg	534	EX레온레그α	484	150	11	pl130_0000
 4	Leg	535	EX클레어레그α	485	150	11	pl131_0000
-4	Leg	536	Unavailable	486	0	0	None
-4	Leg	537	Unavailable	487	0	0	None
+4	Leg	536	【레온】의상-다리	486	0	11	pl130_0000
+4	Leg	537	【클레어】의상-다리	487	0	11	pl131_0000
 4	Leg	540	【가마루】의상-다리	490	0	4	pl039_0000
 4	Leg	541	【잉곳】의상-다리	491	0	5	pl031_0000
 4	Leg	542	【리오하트α】의상-다리	492	0	5	pl021_0100
@@ -2974,126 +2974,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	592	【맘가이라α】의상-다리	542	0	7	pl049_0000
 4	Leg	593	【맘가이라β】의상-다리	543	0	7	pl049_0010
 4	Leg	594	【맘가이라γ】의상-다리	544	0	7	pl049_0020
-4	Leg	595	Unavailable	546	0	0	None
-4	Leg	596	Unavailable	547	0	0	None
-4	Leg	599	Unavailable	550	0	0	None
-4	Leg	600	Unavailable	551	0	0	None
-4	Leg	601	Unavailable	552	0	0	None
-4	Leg	602	Unavailable	553	0	0	None
-4	Leg	603	Unavailable	554	0	0	None
-4	Leg	604	Unavailable	555	0	0	None
-4	Leg	605	Unavailable	556	0	0	None
-4	Leg	606	Unavailable	557	0	0	None
-4	Leg	607	Unavailable	558	0	0	None
-4	Leg	608	Unavailable	559	0	0	None
-4	Leg	609	Unavailable	560	0	0	None
-4	Leg	610	Unavailable	561	0	0	None
-4	Leg	611	Unavailable	562	0	0	None
-4	Leg	612	Unavailable	563	0	0	None
-4	Leg	613	Unavailable	564	0	0	None
-4	Leg	614	Unavailable	565	0	0	None
-4	Leg	615	Unavailable	566	0	0	None
-4	Leg	616	Unavailable	567	0	0	None
-4	Leg	617	Unavailable	568	0	0	None
-4	Leg	618	Unavailable	569	0	0	None
-4	Leg	619	Unavailable	570	0	0	None
-4	Leg	620	Unavailable	571	0	0	None
-4	Leg	621	Unavailable	572	0	0	None
-4	Leg	622	Unavailable	573	0	0	None
-4	Leg	623	Unavailable	574	0	0	None
+4	Leg	595	【EX랑고】의상-다리	546	0	8	pl007_0001
+4	Leg	596	【EX타로스】의상-다리	547	0	8	pl017_0001
+4	Leg	599	【EX쟈그라스】의상-다리	550	0	8	pl008_0001
+4	Leg	600	【EX치치】의상-다리	551	0	8	pl023_0001
+4	Leg	601	【EX기르오스】의상-다리	552	0	8	pl022_0001
+4	Leg	602	【EX가마루】의상-다리	553	0	8	pl039_0001
+4	Leg	603	【EX쿠루루】의상-다리	554	0	8	pl009_0001
+4	Leg	604	【EX푸케푸케】의상-다리	555	0	8	pl010_0001
+4	Leg	605	【EX푸케라그나】의상-다리	556	0	8	pl010_0101
+4	Leg	606	【EX보로스】의상-다리	557	0	8	pl012_0001
+4	Leg	607	【EX쥬라】의상-다리	558	0	8	pl011_0001
+4	Leg	608	【EX브란】의상-다리	559	0	8	pl110_0000
+4	Leg	609	【EX카가치】의상-다리	560	0	8	pl013_0001
+4	Leg	610	【EX베니카가치】의상-다리	561	0	8	pl013_0101
+4	Leg	611	【EX버프바로α】의상-다리	562	0	8	pl084_0000
+4	Leg	612	【EX버프바로β】의상-다리	563	0	8	pl084_0010
+4	Leg	613	【EX쟈나프α】의상-다리	564	0	8	pl020_0001
+4	Leg	614	【EX쟈나프β】의상-다리	565	0	8	pl020_0011
+4	Leg	615	【EX쟈나르α】의상-다리	566	0	10	pl020_0101
+4	Leg	616	【EX쟈나르β】의상-다리	567	0	10	pl020_0111
+4	Leg	617	【EX레이아α】의상-다리	568	0	8	pl021_0001
+4	Leg	618	【EX레이아β】의상-다리	569	0	8	pl021_0011
+4	Leg	619	【EX리오하트α】의상-다리	570	0	8	pl021_0101
+4	Leg	620	【EX리오하트β】의상-다리	571	0	8	pl021_0111
+4	Leg	621	【EX우르무】의상-다리	572	0	8	pl024_0001
+4	Leg	622	【EX우르무메어】의상-다리	573	0	8	pl024_0101
+4	Leg	623	【EX발킨】의상-다리	574	0	8	pl028_0001
 4	Leg	624	【아티어】의상-다리	575	0	9	pl091_0000
-4	Leg	625	Unavailable	674	0	0	None
-4	Leg	626	Unavailable	576	0	0	None
-4	Leg	627	Unavailable	577	0	0	None
-4	Leg	628	Unavailable	578	0	0	None
-4	Leg	629	Unavailable	579	0	0	None
-4	Leg	630	Unavailable	580	0	0	None
-4	Leg	631	Unavailable	581	0	0	None
-4	Leg	632	Unavailable	582	0	0	None
-4	Leg	633	Unavailable	583	0	0	None
-4	Leg	634	Unavailable	584	0	0	None
-4	Leg	635	Unavailable	585	0	0	None
-4	Leg	636	Unavailable	586	0	0	None
-4	Leg	637	Unavailable	587	0	0	None
-4	Leg	638	Unavailable	588	0	0	None
-4	Leg	639	Unavailable	589	0	0	None
-4	Leg	640	Unavailable	590	0	0	None
-4	Leg	641	Unavailable	591	0	0	None
-4	Leg	642	Unavailable	592	0	0	None
-4	Leg	643	Unavailable	593	0	0	None
-4	Leg	644	Unavailable	594	0	0	None
-4	Leg	645	Unavailable	595	0	0	None
-4	Leg	646	Unavailable	596	0	0	None
-4	Leg	647	Unavailable	597	0	0	None
-4	Leg	648	Unavailable	598	0	0	None
-4	Leg	649	Unavailable	599	0	0	None
-4	Leg	650	Unavailable	600	0	0	None
-4	Leg	651	Unavailable	601	0	0	None
-4	Leg	652	Unavailable	602	0	0	None
-4	Leg	653	Unavailable	603	0	0	None
-4	Leg	654	Unavailable	604	0	0	None
-4	Leg	655	Unavailable	605	0	0	None
-4	Leg	656	Unavailable	606	0	0	None
-4	Leg	657	Unavailable	607	0	0	None
+4	Leg	625	【아크로크β】의상-다리	674	0	9	pl104_0000
+4	Leg	626	【EX벨리오α】의상-다리	576	0	9	pl089_0000
+4	Leg	627	【EX벨리오β】의상-다리	577	0	9	pl089_0010
+4	Leg	628	【EX레우스α】의상-다리	578	0	9	pl033_0001
+4	Leg	629	【EX레우스β】의상-다리	579	0	9	pl033_0011
+4	Leg	630	【EX리오소울α】의상-다리	580	0	10	pl033_0101
+4	Leg	631	【EX리오소울β】의상-다리	581	0	10	pl033_0111
+4	Leg	632	【EX디아블로α】의상-다리	582	0	9	pl034_0001
+4	Leg	633	【EX디아블로β】의상-다리	583	0	9	pl034_0011
+4	Leg	634	【EX디아네로α】의상-다리	584	0	10	pl034_0101
+4	Leg	635	【EX디아네로β】의상-다리	585	0	10	pl034_0111
+4	Leg	636	【EX기에나α】의상-다리	586	0	9	pl027_0001
+4	Leg	637	【EX기에나β】의상-다리	587	0	9	pl027_0011
+4	Leg	638	【EX브리나α】의상-다리	588	0	10	pl027_0500
+4	Leg	639	【EX브리나β】의상-다리	589	0	10	pl027_0510
+4	Leg	640	【EX가론α】의상-다리	590	0	9	pl029_0001
+4	Leg	641	【EX가론β】의상-다리	591	0	9	pl029_0011
+4	Leg	642	【EX데스가론α】의상-다리	592	0	10	pl029_0101
+4	Leg	643	【EX데스가론β】의상-다리	593	0	10	pl029_0111
+4	Leg	644	【EX라바】의상-다리	594	0	9	pl040_0001
+4	Leg	645	【EX간킨】의상-다리	595	0	9	pl041_0001
+4	Leg	646	【EX나르가α】의상-다리	596	0	9	pl080_0000
+4	Leg	647	【EX나르가β】의상-다리	597	0	9	pl080_0010
+4	Leg	648	【EX디노α】의상-다리	598	0	9	pl081_0000
+4	Leg	649	【EX디노β】의상-다리	599	0	9	pl081_0010
+4	Leg	650	【EX디노이에로α】의상-다리	600	0	10	pl081_0100
+4	Leg	651	【EX디노이에로β】의상-다리	601	0	10	pl081_0110
+4	Leg	652	【EX브라키α】의상-다리	602	0	9	pl082_0000
+4	Leg	653	【EX브라키β】의상-다리	603	0	9	pl082_0010
+4	Leg	654	【EX렉스α】의상-다리	604	0	9	pl083_0000
+4	Leg	655	【EX렉스β】의상-다리	605	0	9	pl083_0010
+4	Leg	656	【EX렉스로어α】의상-다리	606	0	10	pl083_0100
+4	Leg	657	【EX렉스로어β】의상-다리	607	0	10	pl083_0110
 4	Leg	658	【검은띠】의상-다리	608	0	10	pl093_0000
-4	Leg	659	Unavailable	609	0	0	None
-4	Leg	660	Unavailable	610	0	0	None
-4	Leg	661	Unavailable	611	0	0	None
-4	Leg	662	Unavailable	612	0	0	None
-4	Leg	663	Unavailable	613	0	0	None
-4	Leg	664	Unavailable	614	0	0	None
-4	Leg	665	Unavailable	615	0	0	None
-4	Leg	666	Unavailable	616	0	0	None
-4	Leg	667	Unavailable	617	0	0	None
-4	Leg	668	Unavailable	618	0	0	None
-4	Leg	669	Unavailable	619	0	0	None
-4	Leg	670	Unavailable	620	0	0	None
-4	Leg	671	Unavailable	621	0	0	None
-4	Leg	672	Unavailable	622	0	0	None
-4	Leg	673	Unavailable	623	0	0	None
-4	Leg	674	Unavailable	624	0	0	None
-4	Leg	675	Unavailable	625	0	0	None
-4	Leg	678	Unavailable	628	0	0	None
-4	Leg	679	Unavailable	629	0	0	None
-4	Leg	680	Unavailable	630	0	0	None
-4	Leg	681	Unavailable	631	0	0	None
-4	Leg	682	Unavailable	632	0	0	None
-4	Leg	683	Unavailable	633	0	0	None
-4	Leg	684	Unavailable	634	0	0	None
-4	Leg	685	Unavailable	635	0	0	None
-4	Leg	686	Unavailable	636	0	0	None
-4	Leg	687	Unavailable	637	0	0	None
-4	Leg	688	Unavailable	638	0	0	None
-4	Leg	689	Unavailable	639	0	0	None
-4	Leg	690	Unavailable	640	0	0	None
-4	Leg	691	Unavailable	641	0	0	None
-4	Leg	692	Unavailable	642	0	0	None
-4	Leg	693	Unavailable	643	0	0	None
-4	Leg	694	Unavailable	644	0	0	None
-4	Leg	695	Unavailable	645	0	0	None
-4	Leg	696	Unavailable	646	0	0	None
-4	Leg	697	Unavailable	647	0	0	None
-4	Leg	698	Unavailable	648	0	0	None
-4	Leg	699	Unavailable	649	0	0	None
-4	Leg	700	Unavailable	650	0	0	None
-4	Leg	701	Unavailable	651	0	0	None
-4	Leg	702	Unavailable	652	0	0	None
-4	Leg	703	Unavailable	653	0	0	None
-4	Leg	704	Unavailable	654	0	0	None
-4	Leg	705	Unavailable	655	0	0	None
-4	Leg	706	Unavailable	656	0	0	None
-4	Leg	707	Unavailable	657	0	0	None
-4	Leg	708	Unavailable	658	0	0	None
-4	Leg	709	Unavailable	659	0	0	None
-4	Leg	710	Unavailable	660	0	0	None
-4	Leg	715	Unavailable	665	0	0	None
-4	Leg	716	Unavailable	666	0	0	None
+4	Leg	659	【EX프라이드α】의상-다리	609	0	10	pl042_0500
+4	Leg	660	【EX프라이드β】의상-다리	610	0	10	pl042_0510
+4	Leg	661	【EX그리드α】의상-다리	611	0	10	pl050_0500
+4	Leg	662	【EX그리드β】의상-다리	612	0	10	pl050_0510
+4	Leg	663	【EX라비나α】의상-다리	613	0	11	pl085_0000
+4	Leg	664	【EX라비나β】의상-다리	614	0	11	pl085_0010
+4	Leg	665	【EX바르퍼α】의상-다리	615	0	11	pl032_0500
+4	Leg	666	【EX바르퍼β】의상-다리	616	0	11	pl032_0510
+4	Leg	667	【EX카이저α】의상-다리	617	0	11	pl046_0001
+4	Leg	668	【EX카이저β】의상-다리	618	0	11	pl046_0011
+4	Leg	669	【EX크샤나α】의상-다리	619	0	11	pl047_0001
+4	Leg	670	【EX크샤나β】의상-다리	620	0	11	pl047_0011
+4	Leg	671	【EX키린α】의상-다리	621	0	11	pl035_0001
+4	Leg	672	【EX키린β】의상-다리	622	0	11	pl035_0011
+4	Leg	673	【EX텐터클α】의상-다리	623	0	11	pl086_0000
+4	Leg	674	【EX텐터클β】의상-다리	624	0	11	pl086_0010
+4	Leg	675	【길드팰리스】의상-다리	625	0	10	pl094_0000
+4	Leg	678	【EX안가루다α】의상-다리	628	0	11	pl088_0000
+4	Leg	679	【EX안가루다β】의상-다리	629	0	11	pl088_0010
+4	Leg	680	【EX가루루가α】의상-다리	630	0	10	pl108_0000
+4	Leg	681	【EX가루루가β】의상-다리	631	0	10	pl108_0010
+4	Leg	682	【EX진오우α】의상-다리	632	0	10	pl107_0000
+4	Leg	683	【EX진오우β】의상-다리	633	0	10	pl107_0010
+4	Leg	684	【EX골드루나α】의상-다리	634	0	11	pl021_0200
+4	Leg	685	【EX골드루나β】의상-다리	635	0	11	pl021_0210
+4	Leg	686	【EX실버솔α】의상-다리	636	0	11	pl033_0200
+4	Leg	687	【EX실버솔β】의상-다리	637	0	11	pl033_0210
+4	Leg	688	【EX엠프리스α】의상-다리	638	0	11	pl051_0001
+4	Leg	689	【EX엠프리스β】의상-다리	639	0	11	pl051_0011
+4	Leg	690	【EX조크α】의상-다리	640	0	11	pl030_0500
+4	Leg	691	【EX조크β】의상-다리	641	0	11	pl030_0510
+4	Leg	692	【길드워크】의상-다리	642	0	11	pl092_0000
+4	Leg	693	【EX금빛α】의상-다리	643	0	10	pl109_0000
+4	Leg	694	【EX금빛β】의상-다리	644	0	10	pl109_0010
+4	Leg	695	【EX극오우α】의상-다리	645	0	10	pl107_0100
+4	Leg	696	【EX극오우β】의상-다리	646	0	10	pl107_0110
+4	Leg	697	【EX용문α】의상-다리	647	0	11	pl087_0000
+4	Leg	698	【EX용문β】의상-다리	648	0	11	pl087_0010
+4	Leg	699	【EX제천α】의상-다리	649	0	11	pl109_0500
+4	Leg	700	【EX제천β】의상-다리	650	0	11	pl109_0510
+4	Leg	701	【EX브라키움α】의상-다리	651	0	11	pl082_0500
+4	Leg	702	【EX브라키움β】의상-다리	652	0	11	pl082_0510
+4	Leg	703	【EX오르문그α】의상-다리	653	0	10	pl089_0500
+4	Leg	704	【EX오르문그β】의상-다리	654	0	10	pl089_0510
+4	Leg	705	【EX에스카드라α】의상-다리	655	0	11	pl052_0000
+4	Leg	706	【EX에스카드라β】의상-다리	656	0	11	pl052_0010
+4	Leg	707	【EX드래곤α】의상-다리	657	0	11	pl129_0000
+4	Leg	708	【EX드래곤β】의상-다리	658	0	11	pl129_0010
+4	Leg	709	【EX맘가이라α】의상-다리	659	0	11	pl049_0001
+4	Leg	710	【EX맘가이라β】의상-다리	660	0	11	pl049_0011
+4	Leg	715	【머슬α】의상-다리	665	0	10	pl115_0000
+4	Leg	716	【푸른빛무사】의상-다리	666	0	11	pl072_0001
 4	Leg	717	Unavailable	667	0	0	None
-4	Leg	718	Unavailable	668	0	0	None
-4	Leg	719	Unavailable	669	0	0	None
-4	Leg	720	Unavailable	670	0	0	None
+4	Leg	718	HARDUMMY	668	0	11	pl068_0020
+4	Leg	719	【EX라비나γ】의상-다리	669	0	11	pl085_0020
+4	Leg	720	【EX텐터클γ】의상-다리	670	0	11	pl086_0020
 4	Leg	721	Unavailable	671	0	0	None
-4	Leg	722	Unavailable	672	0	0	None
+4	Leg	722	【머슬γ】의상-다리	672	0	11	pl115_0001
 4	Leg	723	【이너α】 의상-다리	673	0	11	pl500_0000
 4	Leg	724	【이너β】 의상-다리	675	0	11	pl501_0000
 4	Leg	725	Unavailable	676	0	0	None
@@ -3400,7 +3400,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	319	빙결의 호석Ⅳ	0	0	10	None
 5	Charm	320	빙결의 호석Ⅴ	0	0	11	None
 5	Charm	321	달인의 호석Ⅳ	0	0	10	None
-5	Charm	322	Unavailable	0	0	0	None
+5	Charm	322	달인의 호석Ⅴ	0	0	11	None
 5	Charm	323	회피의 호석Ⅳ	0	0	11	None
 5	Charm	324	회피의 호석Ⅴ	0	0	11	None
 5	Charm	325	파룡의 호석Ⅳ	0	0	10	None
@@ -3414,11 +3414,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	333	버섯 애호가의 호석Ⅲ	0	0	10	None
 5	Charm	334	각성의 호석Ⅲ	0	0	11	None
 5	Charm	335	장인의 호석Ⅳ	0	0	11	None
-5	Charm	336	Unavailable	0	0	0	None
+5	Charm	336	장인의 호석Ⅴ	0	0	11	None
 5	Charm	337	귀마개의 호석Ⅳ	0	0	11	None
-5	Charm	338	Unavailable	0	0	0	None
+5	Charm	338	귀마개의 호석Ⅴ	0	0	11	None
 5	Charm	339	내진의 호석Ⅲ	0	0	11	None
-5	Charm	340	Unavailable	0	0	0	None
+5	Charm	340	통격의 호석Ⅲ	0	0	11	None
 5	Charm	341	집중의 호석Ⅲ	0	0	11	None
 5	Charm	342	중격의 호석Ⅲ	0	0	10	None
 5	Charm	343	역상의 호석Ⅲ	0	0	10	None
@@ -3437,7 +3437,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	356	혼신의 호석Ⅲ	0	0	11	None
 5	Charm	357	내충격의 호석Ⅲ	0	0	10	None
 5	Charm	358	초회심의 호석Ⅱ	0	0	11	None
-5	Charm	359	Unavailable	0	0	0	None
+5	Charm	359	초회심의 호석Ⅲ	0	0	11	None
 5	Charm	360	앙양의 호석Ⅲ	0	0	10	None
 5	Charm	361	전화위복의 호석Ⅰ	0	0	10	None
 5	Charm	362	전화위복의 호석Ⅱ	0	0	11	None
@@ -3461,7 +3461,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	380	환경의 호석Ⅱ	0	0	2	None
 5	Charm	381	환경의 호석Ⅲ	0	0	2	None
 5	Charm	382	Unavailable	0	0	2	None
-5	Charm	383	Unavailable	0	0	0	None
+5	Charm	383	삭격의 호석	0	0	8	None
 5	Charm	384	Unavailable	0	0	0	None
 5	Charm	385	Unavailable	0	0	0	None
 5	Charm	386	Unavailable	0	0	0	None

@@ -115,8 +115,12 @@ N766_NPC_NAME	Stressée de la Quatrième	npc766
 N767_NPC_NAME	Zélée de la Cinquième	npc767
 N781_NPC_NAME	Jeune forgeron	npc781
 N782_NPC_NAME	Sous-chef écologiste	npc782
+N785_NPC_NAME	Général	npc785
+N786_NPC_NAME	Subordonné	npc786
+N787_NPC_NAME	Subordonnée	npc787
 N792_NPC_NAME	Vendeur de la Forge	npc792
 N793_NPC_NAME	Ressources 3e flotte	npc793
+N788_NPC_NAME	Artemis	npc788
 HUNTER_00_NAME	Chasseur nouveau	
 HUNTER_01_NAME	Chasseur novice	
 HUNTER_02_NAME	Chasseur en herbe	

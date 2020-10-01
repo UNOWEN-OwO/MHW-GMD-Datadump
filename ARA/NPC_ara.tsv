@@ -115,8 +115,12 @@ N766_NPC_NAME	الرابعة الدقيقة	npc766
 N767_NPC_NAME	الخامسة الحريصة	npc767
 N781_NPC_NAME	الحدّاد الشاب	npc781
 N782_NPC_NAME	نائب رئيس علم البيئة	npc782
+N785_NPC_NAME	الجنرال	npc785
+N786_NPC_NAME	ثانوي 1	npc786
+N787_NPC_NAME	ثانوي 2	npc787
 N792_NPC_NAME	بائع ورشة الحدادة	npc792
 N793_NPC_NAME	موارد الأسطول الثالث	npc793
+N788_NPC_NAME	أرتميس	npc788
 HUNTER_00_NAME	صيّاد جديد	
 HUNTER_01_NAME	صيّاد الطائر الصغير	
 HUNTER_02_NAME	صيّاد شاب	

@@ -115,8 +115,12 @@ N766_NPC_NAME	Pedantka z Czwartej	npc766
 N767_NPC_NAME	Nadgorliwa z Piątej	npc767
 N781_NPC_NAME	Młody Kowal	npc781
 N782_NPC_NAME	Drugi Ekolog	npc782
+N785_NPC_NAME	Generał	npc785
+N786_NPC_NAME	Podwładny 1	npc786
+N787_NPC_NAME	Podwładny 2	npc787
 N792_NPC_NAME	Kupiec z Kuźni	npc792
 N793_NPC_NAME	Zasoby Trzeciej Floty	npc793
+N788_NPC_NAME	Artemis	npc788
 HUNTER_00_NAME	Nowy łowca	
 HUNTER_01_NAME	Początkujący łowca	
 HUNTER_02_NAME	Młody łowca	

@@ -124,12 +124,12 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	162	Мех кулве (К)<ICON ALPHA>+	otomo/equip/ot025/helm
 0	Helmet	163	Шлем Мегамена<ICON ALPHA>+	otomo/equip/ot035/helm
 0	Helmet	164	Голова мугла<ICON ALPHA>+	otomo/equip/ot038/helm
-0	Helmet	165	HARDUMMY	otomo/equip/ot037/helm
+0	Helmet	165	"Шлем ""Лаз. звезда"" (К)<ICON ALPHA>+"	otomo/equip/ot037/helm
 0	Helmet	166	HARDUMMY	otomo/equip/ot036/helm
 0	Helmet	167	Самурайск. шлем (К)<ICON ALPHA>+	otomo/equip/ot039/helm
 0	Helmet	168	Шляпа бабочки (К)<ICON ALPHA>+	otomo/equip/ot040/helm
 0	Helmet	169	Соломенная шляпа котта<ICON ALPHA>+	otomo/equip/ot041/helm
-0	Helmet	170	Кожаная шляпа (К)	otomo/equip/ot000/helm
+0	Helmet	170	Коттовая маска к Мяллоуину<ICON ALPHA>+	otomo/equip/ot042/helm
 0	Helmet	171	Шлем снежного котта<ICON ALPHA>+	otomo/equip/ot043/helm
 0	Helmet	172	Шлем звезды коттов<ICON ALPHA>+	otomo/equip/ot044/helm
 0	Helmet	173	Кожаная шляпа (К)<ICON ALPHA>+	otomo/equip/ot001/helm
@@ -141,18 +141,18 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	179	Шапка гильдии (К)<ICON ALPHA>+	otomo/equip/ot063/helm
 0	Helmet	180	Шлем розы (К)<ICON ALPHA>+	otomo/equip/ot075/helm
 0	Helmet	181	Коттовый шлем поки<ICON ALPHA>+	otomo/equip/ot076/helm
-0	Helmet	182	Кожаная шляпа (К)	otomo/equip/ot000/helm
+0	Helmet	182	Голова Франкенштейна (К)<ICON ALPHA>+	otomo/equip/ot077/helm
 0	Helmet	183	Голова костюма льва (К)<ICON ALPHA>+	otomo/equip/ot078/helm
 0	Helmet	184	Космический шлем (К)<ICON ALPHA>+	otomo/equip/ot079/helm
 0	Helmet	185	Кожаная шляпа (К)	otomo/equip/ot000/helm
 0	Helmet	186	Кожаная шляпа (К)	otomo/equip/ot000/helm
 0	Helmet	187	Кожаная шляпа (К)	otomo/equip/ot000/helm
-0	Helmet	188	HARDUMMY	otomo/equip/ot080/helm
+0	Helmet	188	Львиная гол. лаз. эры (K)<ICON ALPHA>+	otomo/equip/ot080/helm
 0	Helmet	189	HARDUMMY	otomo/equip/ot081/helm
 0	Helmet	190	Голова ползуна (К)<ICON ALPHA>+	otomo/equip/ot082/helm
 0	Helmet	191	Кожаная шляпа (К)	otomo/equip/ot000/helm
 0	Helmet	192	Коттовый ледозубый парик<ICON ALPHA>+	otomo/equip/ot083/helm
-0	Helmet	193	Кожаная шляпа (К)	otomo/equip/ot000/helm
+0	Helmet	193	Шлем Фаталиса (К)<ICON ALPHA>+	otomo/equip/ot084/helm
 0	Helmet	194	Кожаная шляпа (К)	otomo/equip/ot000/helm
 0	Helmet	195	Прическа маэстро (К)<ICON ALPHA>+	otomo/equip/ot085/helm
 0	Helmet	196	Кожаная шляпа (К)	otomo/equip/ot000/helm
@@ -286,12 +286,12 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	162	Костюм кулве (К)<ICON ALPHA>+	otomo/equip/ot025/body
 1	Armor	163	Костюм Мегамена<ICON ALPHA>+	otomo/equip/ot035/body
 1	Armor	164	Тело мугла<ICON ALPHA>+	otomo/equip/ot038/body
-1	Armor	165	HARDUMMY	otomo/equip/ot037/body
+1	Armor	165	"Доспех ""Лаз. звезда"" (К)<ICON ALPHA>+"	otomo/equip/ot037/body
 1	Armor	166	HARDUMMY	otomo/equip/ot036/body
 1	Armor	167	Самур. доспех (К)<ICON ALPHA>+	otomo/equip/ot039/body
 1	Armor	168	Жилет бабочки (К)<ICON ALPHA>+	otomo/equip/ot040/body
 1	Armor	169	Пляжная рубашка котта<ICON ALPHA>+	otomo/equip/ot041/body
-1	Armor	170	Кожаная шляпа (К)	otomo/equip/ot000/body
+1	Armor	170	Жуткий наряд (К)<ICON ALPHA>+	otomo/equip/ot042/body
 1	Armor	171	Костюм снежного котта<ICON ALPHA>+	otomo/equip/ot043/body
 1	Armor	172	Костюм звезды коттов<ICON ALPHA>+	otomo/equip/ot044/body
 1	Armor	173	Кожаный жилет (К)<ICON ALPHA>+	otomo/equip/ot001/body
@@ -303,18 +303,18 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	179	Шуба гильдии (К)<ICON ALPHA>+	otomo/equip/ot063/body
 1	Armor	180	Доспех розы (К)<ICON ALPHA>+	otomo/equip/ot075/body
 1	Armor	181	Коттовый доспех поки<ICON ALPHA>+	otomo/equip/ot076/body
-1	Armor	182	Кожаная шляпа (К)	otomo/equip/ot000/body
+1	Armor	182	Тело Франкенштейна (К)<ICON ALPHA>+	otomo/equip/ot077/body
 1	Armor	183	Тело костюма льва (К)<ICON ALPHA>+	otomo/equip/ot078/body
 1	Armor	184	Космический скафандр (К)<ICON ALPHA>+	otomo/equip/ot079/body
 1	Armor	185	Кожаная шляпа (К)	otomo/equip/ot000/body
 1	Armor	186	Кожаная шляпа (К)	otomo/equip/ot000/body
 1	Armor	187	Кожаная шляпа (К)	otomo/equip/ot000/body
-1	Armor	188	HARDUMMY	otomo/equip/ot080/body
+1	Armor	188	Кимоно лазурной эры (К)<ICON ALPHA>+	otomo/equip/ot080/body
 1	Armor	189	HARDUMMY	otomo/equip/ot081/body
 1	Armor	190	Котел ползуна (К)<ICON ALPHA>+	otomo/equip/ot082/body
 1	Armor	191	Кожаная шляпа (К)	otomo/equip/ot000/body
 1	Armor	192	Коттовая ледозубая форма<ICON ALPHA>+	otomo/equip/ot083/body
-1	Armor	193	Кожаная шляпа (К)	otomo/equip/ot000/body
+1	Armor	193	Доспех Фаталиса (К)<ICON ALPHA>+	otomo/equip/ot084/body
 1	Armor	194	Кожаная шляпа (К)	otomo/equip/ot000/body
 1	Armor	195	Костюм маэстро (К)<ICON ALPHA>+	otomo/equip/ot085/body
 1	Armor	196	Желудевый доспех (К)<ICON ALPHA>+	otomo/equip/ot086/body

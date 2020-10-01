@@ -124,12 +124,12 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	162	Felińskie futro Kulve<ICON ALPHA>+	otomo/equip/ot025/helm
 0	Helmet	163	Hełm Mega Mana<ICON ALPHA>+	otomo/equip/ot035/helm
 0	Helmet	164	Głowa mugla<ICON ALPHA>+	otomo/equip/ot038/helm
-0	Helmet	165	HARDUMMY	otomo/equip/ot037/helm
+0	Helmet	165	Fel. kor. Laz. Gwiazdy<ICON ALPHA>+	otomo/equip/ot037/helm
 0	Helmet	166	HARDUMMY	otomo/equip/ot036/helm
 0	Helmet	167	Fel. hełm samuraja<ICON ALPHA>+	otomo/equip/ot039/helm
 0	Helmet	168	F. motyli kapelusz<ICON ALPHA>	otomo/equip/ot040/helm
 0	Helmet	169	Feliński kapelusz aloha<ICON ALPHA>+	otomo/equip/ot041/helm
-0	Helmet	170	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	170	Fel. maska miauoleen.<ICON ALPHA>+	otomo/equip/ot042/helm
 0	Helmet	171	Fel. śnieżna czapa<ICON ALPHA>+	otomo/equip/ot043/helm
 0	Helmet	172	Fel. czapa gwiazdy<ICON ALPHA>+	otomo/equip/ot044/helm
 0	Helmet	173	Fel. czapka skórzana<ICON ALPHA>+	otomo/equip/ot001/helm
@@ -141,18 +141,18 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	179	Fel. czapka Gildii<ICON ALPHA>+	otomo/equip/ot063/helm
 0	Helmet	180	Feliński hełm różany<ICON ALPHA>+	otomo/equip/ot075/helm
 0	Helmet	181	Felińska czapa Pukei<ICON ALPHA>+	otomo/equip/ot076/helm
-0	Helmet	182	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	182	Głowa fel. Frankiego<ICON ALPHA>+	otomo/equip/ot077/helm
 0	Helmet	183	Fel. głowa z tańca lwów<ICON ALPHA>+	otomo/equip/ot078/helm
 0	Helmet	184	Fel. hełm kosmiczny<ICON ALPHA>+	otomo/equip/ot079/helm
 0	Helmet	185	Fel. czapka skórzana	otomo/equip/ot000/helm
 0	Helmet	186	Fel. czapka skórzana	otomo/equip/ot000/helm
 0	Helmet	187	Fel. czapka skórzana	otomo/equip/ot000/helm
-0	Helmet	188	HARDUMMY	otomo/equip/ot080/helm
+0	Helmet	188	Lwia głowa z ep. laz. F<ICON ALPHA>+	otomo/equip/ot080/helm
 0	Helmet	189	HARDUMMY	otomo/equip/ot081/helm
 0	Helmet	190	Fel. głowa pełzacza<ICON ALPHA>+	otomo/equip/ot082/helm
 0	Helmet	191	Fel. czapka skórzana	otomo/equip/ot000/helm
 0	Helmet	192	Felińs. peruka z Mrozokła<ICON ALPHA>+	otomo/equip/ot083/helm
-0	Helmet	193	Fel. czapka skórzana	otomo/equip/ot000/helm
+0	Helmet	193	Fel. czapa z Fatalisa<ICON ALPHA>+	otomo/equip/ot084/helm
 0	Helmet	194	Fel. czapka skórzana	otomo/equip/ot000/helm
 0	Helmet	195	Fel. fryzura maestra<ICON ALPHA>+	otomo/equip/ot085/helm
 0	Helmet	196	Fel. czapka skórzana	otomo/equip/ot000/helm
@@ -286,12 +286,12 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	162	Feliński strój Kulve<ICON ALPHA>+	otomo/equip/ot025/body
 1	Armor	163	Strój Mega Mana<ICON ALPHA>+	otomo/equip/ot035/body
 1	Armor	164	Ciało mugla<ICON ALPHA>+	otomo/equip/ot038/body
-1	Armor	165	HARDUMMY	otomo/equip/ot037/body
+1	Armor	165	F. pancerz Laz. Gwiazdy<ICON ALPHA>+	otomo/equip/ot037/body
 1	Armor	166	HARDUMMY	otomo/equip/ot036/body
 1	Armor	167	Fel. zbroja samuraja<ICON ALPHA>+	otomo/equip/ot039/body
 1	Armor	168	F. motyla kamizela<ICON ALPHA>+	otomo/equip/ot040/body
 1	Armor	169	Felińska koszula aloha<ICON ALPHA>+	otomo/equip/ot041/body
-1	Armor	170	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	170	Fel. szata ducha<ICON ALPHA>+	otomo/equip/ot042/body
 1	Armor	171	Fel. śnieżny kostium<ICON ALPHA>+	otomo/equip/ot043/body
 1	Armor	172	Fel. strój gwiazdy<ICON ALPHA>+	otomo/equip/ot044/body
 1	Armor	173	F. kamizela skórzana<ICON ALPHA>+	otomo/equip/ot001/body
@@ -303,18 +303,18 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	179	Fel. płaszcz Gildii<ICON ALPHA>+	otomo/equip/ot063/body
 1	Armor	180	Felińska suknia różana<ICON ALPHA>+	otomo/equip/ot075/body
 1	Armor	181	Felińskie ciało z Pukei<ICON ALPHA>+	otomo/equip/ot076/body
-1	Armor	182	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	182	Ciało fel. Frankiego<ICON ALPHA>+	otomo/equip/ot077/body
 1	Armor	183	Fel. ciało z tańca lwów<ICON ALPHA>+	otomo/equip/ot078/body
 1	Armor	184	F. skafander kosmiczny<ICON ALPHA>+	otomo/equip/ot079/body
 1	Armor	185	Fel. czapka skórzana	otomo/equip/ot000/body
 1	Armor	186	Fel. czapka skórzana	otomo/equip/ot000/body
 1	Armor	187	Fel. czapka skórzana	otomo/equip/ot000/body
-1	Armor	188	HARDUMMY	otomo/equip/ot080/body
+1	Armor	188	Kimono z epoki lazuru F<ICON ALPHA>+	otomo/equip/ot080/body
 1	Armor	189	HARDUMMY	otomo/equip/ot081/body
 1	Armor	190	Fel. sagan pełzacza<ICON ALPHA>+	otomo/equip/ot082/body
 1	Armor	191	Fel. czapka skórzana	otomo/equip/ot000/body
 1	Armor	192	Feliński strój z Mrozokła<ICON ALPHA>+	otomo/equip/ot083/body
-1	Armor	193	Fel. czapka skórzana	otomo/equip/ot000/body
+1	Armor	193	Fel. korpus z Fatalisa<ICON ALPHA>+	otomo/equip/ot084/body
 1	Armor	194	Fel. czapka skórzana	otomo/equip/ot000/body
 1	Armor	195	Fel. strój maestra<ICON ALPHA>+	otomo/equip/ot085/body
 1	Armor	196	F. żołędziowa zbroja<ICON ALPHA>+	otomo/equip/ot086/body

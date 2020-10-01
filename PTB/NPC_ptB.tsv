@@ -115,8 +115,12 @@ N766_NPC_NAME	Inquieta da Quarta	npc766
 N767_NPC_NAME	Cuidadosa da Quinta	npc767
 N781_NPC_NAME	Ferreiro Jovem	npc781
 N782_NPC_NAME	Vice-chefe de Ecologia	npc782
+N785_NPC_NAME	General	npc785
+N786_NPC_NAME	Subordinado 1	npc786
+N787_NPC_NAME	Subordinado 2	npc787
 N792_NPC_NAME	Vendedor do Ferreiro	npc792
 N793_NPC_NAME	Recursos Terceira Frota	npc793
+N788_NPC_NAME	Artemis	npc788
 HUNTER_00_NAME	Iniciante na Caça	
 HUNTER_01_NAME	Inexperiente na Caça	
 HUNTER_02_NAME	Caçador Jovem	

@@ -156,8 +156,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	159	Cabeza sup. traje gala	153	0	3	pl078_0000
 0	Head	160	Unavailable	158	2	0	pl001_0000
 0	Head	299	HARDUMMY	154	0	7	pl068_0000
-0	Head	291	HARDUMMY	155	0	7	pl069_0000
-0	Head	292	HARDUMMY	156	0	7	pl070_0000
+0	Head	291	Cabeza superp. Ryu	155	0	7	pl069_0000
+0	Head	292	Cabeza superp. Sakura	156	0	7	pl070_0000
 0	Head	144	Unavailable	157	2	0	pl001_0000
 0	Head	297	Cabeza superp. Bayek	159	0	7	pl120_0000
 0	Head	162	Unavailable	160	2	0	pl001_0000
@@ -198,9 +198,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	223	Yelmo de Zorah <ICON GAMMA>	213	72	7	pl038_0020
 0	Head	224	Yelmo de Xeno'jiiva <ICON GAMMA>	214	72	7	pl045_0020
 0	Head	225	HARDUMMY	215	46	4	pl068_0000
-0	Head	226	HARDUMMY	216	12	1	pl069_0000
-0	Head	227	HARDUMMY	217	60	6	pl069_0000
-0	Head	228	HARDUMMY	218	50	5	pl070_0000
+0	Head	226	Cabeza de Ryu	216	12	1	pl069_0000
+0	Head	227	Cabeza de Ryu <ICON ALPHA>	217	60	6	pl069_0000
+0	Head	228	Cabeza de Sakura <ICON ALPHA>	218	50	5	pl070_0000
 0	Head	229	Corona rey celestial <ICON ALPHA>	219	56	6	pl072_0000
 0	Head	230	Peluca de Dante <ICON ALPHA>	220	64	7	pl071_0000
 0	Head	231	Corona de emperatriz <ICON ALPHA>	221	70	7	pl051_0000
@@ -347,7 +347,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	422	Yelmo acídico <ICON BETA>+	372	150	10	pl081_0110
 0	Head	423	Yelmo Artiano <ICON ALPHA>+	373	142	9	pl091_0000
 0	Head	424	Yelmo Artiano <ICON BETA>+	374	142	9	pl091_0000
-0	Head	425	Unavailable	375	0	0	None
+0	Head	425	Cabeza sup. pañuelo calavera	375	0	10	pl099_0000
 0	Head	426	Yelmo sup. Pukei <ICON ALPHA>	376	0	4	pl010_0000
 0	Head	427	Yelmo sup. Pukei <ICON BETA>	377	0	4	pl010_0010
 0	Head	428	Yelmo de Dober <ICON ALPHA>+	378	152	10	pl044_0000
@@ -368,7 +368,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	443	Cuerno de Kirin <ICON BETA>+	393	154	11	pl035_0011
 0	Head	444	Túnica Namielle <ICON ALPHA>+	394	158	11	pl086_0000
 0	Head	445	Túnica Namielle <ICON BETA>+	395	158	11	pl086_0010
-0	Head	446	Unavailable	396	0	0	None
+0	Head	446	Cabeza sup. mecánica <ICON ALPHA>+	396	0	9	pl104_0000
 0	Head	447	Yelmo sup. Barroth	397	0	4	pl012_0000
 0	Head	448	Yelmo triunfal <ICON ALPHA>+	398	154	10	pl094_0000
 0	Head	449	Yelmo triunfal <ICON BETA>+	399	154	10	pl094_0000
@@ -422,7 +422,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	497	Yelmo sup. Lumu	447	0	4	pl024_0000
 0	Head	498	Cabeza apasionada <ICON ALPHA>+	448	156	9	pl125_0000
 0	Head	499	Yelmo sup. Rathian <ICON ALPHA>	449	0	4	pl021_0000
-0	Head	500	Unavailable	450	0	0	None
+0	Head	500	Cabellera endemoniada <ICON ALPHA>+	450	162	10	pl126_0000
 0	Head	501	Yelmo sup. Rathian <ICON BETA>	451	0	4	pl021_0010
 0	Head	502	Pelo Feng Huo <ICON ALPHA>+	452	120	8	pl127_0000
 0	Head	503	Yelmo sup. Radobaan <ICON ALPHA>	453	0	5	pl028_0000
@@ -430,7 +430,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	505	Yelmo sup. Radobaan <ICON BETA>	455	0	5	pl028_0010
 0	Head	506	Cabeza de rosas sup.	456	0	9	pl124_0000
 0	Head	507	Cabeza sup. apasionada	457	0	9	pl125_0000
-0	Head	508	Unavailable	458	0	0	None
+0	Head	508	Cabeza sup. endemoniada	458	0	10	pl126_0000
 0	Head	509	Cabeza sup. Feng Huo	459	0	8	pl127_0000
 0	Head	510	Cabeza sup. astral	460	0	8	pl128_0000
 0	Head	511	Yelmo sup. megametal	461	0	5	pl025_0000
@@ -438,7 +438,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	513	Diadema liebre sup.	463	0	8	pl111_0000
 0	Head	514	Cabeza de carrao algodón sup.	464	0	8	pl112_0000
 0	Head	515	Termargénteo <ICON ALPHA>+	465	120	8	pl113_0000
-0	Head	516	Unavailable	466	0	0	None
+0	Head	516	Bufanda sup. de Kadachi	466	0	8	pl114_0000
 0	Head	518	Yelmo pardo <ICON ALPHA>+	468	158	10	pl083_0100
 0	Head	519	Yelmo pardo <ICON BETA>+	469	158	10	pl083_0110
 0	Head	520	Yelmo de guardián <ICON ALPHA>+	470	50	5	pl121_0000
@@ -446,19 +446,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	522	Cabeza sup. caballero plata	472	0	6	pl123_0000
 0	Head	523	HARDUMMY	473	132	11	pl068_0010
 0	Head	524	Túnica Namielle <ICON GAMMA>+	474	176	11	pl086_0020
-0	Head	525	HARDUMMY	475	0	7	pl072_0000
-0	Head	526	HARDUMMY	476	170	11	pl072_0001
-0	Head	527	Unavailable	477	0	0	None
+0	Head	525	Cabeza sup. rey celestial	475	0	7	pl072_0000
+0	Head	526	Pelo Edad Celeste <ICON ALPHA>+	476	170	11	pl072_0001
+0	Head	527	Yelmo de escarcha <ICON GAMMA>+	477	180	11	pl085_0020
 0	Head	528	Yelmo Cynodon <ICON ALPHA>+	478	162	10	pl089_0500
 0	Head	529	Yelmo Cynodon <ICON BETA>+	479	162	10	pl089_0510
-0	Head	530	Unavailable	480	0	0	None
-0	Head	531	Unavailable	481	0	0	None
+0	Head	530	Cabeza de dragón <ICON ALPHA>+	480	180	11	pl129_0000
+0	Head	531	Cabeza de dragón <ICON BETA>+	481	180	11	pl129_0010
 0	Head	532	HARDUMMY	482	160	11	pl068_0020
 0	Head	533	Unavailable	483	0	0	None
 0	Head	534	Cabeza de Leon <ICON ALPHA>+	484	150	11	pl130_0000
 0	Head	535	Cabeza de Claire <ICON ALPHA>+	485	150	11	pl131_0000
-0	Head	536	Unavailable	486	0	0	None
-0	Head	537	Unavailable	487	0	0	None
+0	Head	536	Cabeza sup. Leon+	486	0	11	pl130_0000
+0	Head	537	Cabeza sup. Claire+	487	0	11	pl131_0000
 0	Head	538	Cabeza sup. Gastodon	488	0	4	pl015_0000
 0	Head	540	Cabeza sup. Dodogama	490	0	4	pl039_0000
 0	Head	541	Cabeza sup. lingotes	491	0	5	pl031_0000
@@ -515,130 +515,130 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	592	Cabeza sup. Kulve <ICON ALPHA>	542	0	7	pl049_0000
 0	Head	593	Cabeza sup. Kulve <ICON BETA>	543	0	7	pl049_0010
 0	Head	594	Cabeza sup. Kulve <ICON GAMMA>	544	0	7	pl049_0020
-0	Head	595	Unavailable	546	0	0	None
-0	Head	596	Unavailable	547	0	0	None
-0	Head	597	Unavailable	548	0	0	None
-0	Head	599	Unavailable	550	0	0	None
-0	Head	600	Unavailable	551	0	0	None
-0	Head	601	Unavailable	552	0	0	None
-0	Head	602	Unavailable	553	0	0	None
-0	Head	603	Unavailable	554	0	0	None
-0	Head	604	Unavailable	555	0	0	None
-0	Head	605	Unavailable	556	0	0	None
-0	Head	606	Unavailable	557	0	0	None
-0	Head	607	Unavailable	558	0	0	None
-0	Head	608	Unavailable	559	0	0	None
-0	Head	609	Unavailable	560	0	0	None
-0	Head	610	Unavailable	561	0	0	None
-0	Head	611	Unavailable	562	0	0	None
-0	Head	612	Unavailable	563	0	0	None
-0	Head	613	Unavailable	564	0	0	None
-0	Head	614	Unavailable	565	0	0	None
-0	Head	615	Unavailable	566	0	0	None
-0	Head	616	Unavailable	567	0	0	None
-0	Head	617	Unavailable	568	0	0	None
-0	Head	618	Unavailable	569	0	0	None
-0	Head	619	Unavailable	570	0	0	None
-0	Head	620	Unavailable	571	0	0	None
-0	Head	621	Unavailable	572	0	0	None
-0	Head	622	Unavailable	573	0	0	None
-0	Head	623	Unavailable	574	0	0	None
+0	Head	595	Cabeza sup. Vespoid+	546	0	8	pl007_0001
+0	Head	596	Cabeza sup. Hornetaur+	547	0	8	pl017_0001
+0	Head	597	Cabeza sup. Wulg+	548	0	8	pl102_0000
+0	Head	599	Cabeza sup. Jagras+	550	0	8	pl008_0001
+0	Head	600	Cabeza sup. Tzitzi+	551	0	8	pl023_0001
+0	Head	601	Cabeza sup. Girros+	552	0	8	pl022_0001
+0	Head	602	Cabeza sup. Dodogama+	553	0	8	pl039_0001
+0	Head	603	Cabeza sup. Kulu+	554	0	8	pl009_0001
+0	Head	604	Cabeza sup. Pukei+	555	0	8	pl010_0001
+0	Head	605	Cabeza sup. Pukei Coralino+	556	0	8	pl010_0101
+0	Head	606	Cabeza sup. Barroth+	557	0	8	pl012_0001
+0	Head	607	Cabeza sup. Jyura+	558	0	8	pl011_0001
+0	Head	608	Cabeza sup. Beo+	559	0	8	pl110_0000
+0	Head	609	Cabeza sup. Kadachi+	560	0	8	pl013_0001
+0	Head	610	Cabeza sup. Kadachi Vípero+	561	0	8	pl013_0101
+0	Head	611	Cabeza sup. Banbaro <ICON ALPHA>+	562	0	8	pl084_0000
+0	Head	612	Cabeza sup. Banbaro <ICON BETA>+	563	0	8	pl084_0010
+0	Head	613	Cabeza sup. Anja <ICON ALPHA>+	564	0	8	pl020_0001
+0	Head	614	Cabeza sup. Anja <ICON BETA>+	565	0	8	pl020_0011
+0	Head	615	Cabeza sup. fulgúrea <ICON ALPHA>+	566	0	10	pl020_0101
+0	Head	616	Cabeza sup. fulgúrea <ICON BETA>+	567	0	10	pl020_0111
+0	Head	617	Cabeza sup. Rathian <ICON ALPHA>+	568	0	8	pl021_0001
+0	Head	618	Cabeza sup. Rathian <ICON BETA>+	569	0	8	pl021_0011
+0	Head	619	Cabeza sup. corazón Rath <ICON ALPHA>+	570	0	8	pl021_0101
+0	Head	620	Cabeza sup. corazón Rath <ICON BETA>+	571	0	8	pl021_0111
+0	Head	621	Cabeza sup. Lumu+	572	0	8	pl024_0001
+0	Head	622	Cabeza sup. fantasmal+	573	0	8	pl024_0101
+0	Head	623	Cabeza sup. Radobaan+	574	0	8	pl028_0001
 0	Head	624	Cabeza Artiana sup.	575	0	9	pl091_0000
-0	Head	625	Unavailable	674	0	0	None
-0	Head	626	Unavailable	576	0	0	None
-0	Head	627	Unavailable	577	0	0	None
-0	Head	628	Unavailable	578	0	0	None
-0	Head	629	Unavailable	579	0	0	None
-0	Head	630	Unavailable	580	0	0	None
-0	Head	631	Unavailable	581	0	0	None
-0	Head	632	Unavailable	582	0	0	None
-0	Head	633	Unavailable	583	0	0	None
-0	Head	634	Unavailable	584	0	0	None
-0	Head	635	Unavailable	585	0	0	None
-0	Head	636	Unavailable	586	0	0	None
-0	Head	637	Unavailable	587	0	0	None
-0	Head	638	Unavailable	588	0	0	None
-0	Head	639	Unavailable	589	0	0	None
-0	Head	640	Unavailable	590	0	0	None
-0	Head	641	Unavailable	591	0	0	None
-0	Head	642	Unavailable	592	0	0	None
-0	Head	643	Unavailable	593	0	0	None
-0	Head	644	Unavailable	594	0	0	None
-0	Head	645	Unavailable	595	0	0	None
-0	Head	646	Unavailable	596	0	0	None
-0	Head	647	Unavailable	597	0	0	None
-0	Head	648	Unavailable	598	0	0	None
-0	Head	649	Unavailable	599	0	0	None
-0	Head	650	Unavailable	600	0	0	None
-0	Head	651	Unavailable	601	0	0	None
-0	Head	652	Unavailable	602	0	0	None
-0	Head	653	Unavailable	603	0	0	None
-0	Head	654	Unavailable	604	0	0	None
-0	Head	655	Unavailable	605	0	0	None
-0	Head	656	Unavailable	606	0	0	None
-0	Head	657	Unavailable	607	0	0	None
+0	Head	625	Cabeza sup. mecánica <ICON BETA>+	674	0	9	pl104_0010
+0	Head	626	Cabeza sup. Barioth <ICON ALPHA>+	576	0	9	pl089_0000
+0	Head	627	Cabeza sup. Barioth <ICON BETA>+	577	0	9	pl089_0010
+0	Head	628	Cabeza sup. Rathalos <ICON ALPHA>+	578	0	9	pl033_0001
+0	Head	629	Cabeza sup. Rathalos <ICON BETA>+	579	0	9	pl033_0011
+0	Head	630	Cabeza sup. alma Rath <ICON ALPHA>+	580	0	10	pl033_0101
+0	Head	631	Cabeza sup. alma Rath <ICON BETA>+	581	0	10	pl033_0111
+0	Head	632	Cabeza sup. Diablos <ICON ALPHA>+	582	0	9	pl034_0001
+0	Head	633	Cabeza sup. Diablos <ICON BETA>+	583	0	9	pl034_0011
+0	Head	634	Cabeza sup. Diablos Negra <ICON ALPHA>+	584	0	10	pl034_0101
+0	Head	635	Cabeza sup. Diablos Negra <ICON BETA>+	585	0	10	pl034_0111
+0	Head	636	Cabeza sup. Legia <ICON ALPHA>+	586	0	9	pl027_0001
+0	Head	637	Cabeza sup. Legia <ICON BETA>+	587	0	9	pl027_0011
+0	Head	638	Cabeza sup. aulladora <ICON ALPHA>+	588	0	10	pl027_0500
+0	Head	639	Cabeza sup. aulladora <ICON BETA>+	589	0	10	pl027_0510
+0	Head	640	Cabeza sup. Odogaron <ICON ALPHA>+	590	0	9	pl029_0001
+0	Head	641	Cabeza sup. Odogaron <ICON BETA>+	591	0	9	pl029_0011
+0	Head	642	Cabeza sup. ébano <ICON ALPHA>+	592	0	10	pl029_0101
+0	Head	643	Cabeza sup. ébano <ICON BETA>+	593	0	10	pl029_0111
+0	Head	644	Cabeza sup. Lavasioth+	594	0	9	pl040_0001
+0	Head	645	Cabeza sup. Uragaan+	595	0	9	pl041_0001
+0	Head	646	Cabeza sup. Nargacuga <ICON ALPHA>+	596	0	9	pl080_0000
+0	Head	647	Cabeza sup. Nargacuga <ICON BETA>+	597	0	9	pl080_0010
+0	Head	648	Cabeza sup. Glavenus <ICON ALPHA>+	598	0	9	pl081_0000
+0	Head	649	Cabeza sup. Glavenus <ICON BETA>+	599	0	9	pl081_0010
+0	Head	650	Cabeza sup. acídica <ICON ALPHA>+	600	0	10	pl081_0100
+0	Head	651	Cabeza sup. acídica <ICON BETA>+	601	0	10	pl081_0110
+0	Head	652	Cabeza sup. Brachydios <ICON ALPHA>+	602	0	9	pl082_0000
+0	Head	653	Cabeza sup. Brachydios <ICON BETA>+	603	0	9	pl082_0010
+0	Head	654	Cabeza sup. Tigrex <ICON ALPHA>+	604	0	9	pl083_0000
+0	Head	655	Cabeza sup. Tigrex <ICON BETA>+	605	0	9	pl083_0010
+0	Head	656	Cabeza sup. parda <ICON ALPHA>+	606	0	10	pl083_0100
+0	Head	657	Cabeza sup. parda <ICON BETA>+	607	0	10	pl083_0110
 0	Head	658	Cabeza cinto negro sup.	608	0	10	pl093_0000
-0	Head	659	Unavailable	609	0	0	None
-0	Head	660	Unavailable	610	0	0	None
-0	Head	661	Unavailable	611	0	0	None
-0	Head	662	Unavailable	612	0	0	None
-0	Head	663	Unavailable	613	0	0	None
-0	Head	664	Unavailable	614	0	0	None
-0	Head	665	Unavailable	615	0	0	None
-0	Head	666	Unavailable	616	0	0	None
-0	Head	667	Unavailable	617	0	0	None
-0	Head	668	Unavailable	618	0	0	None
-0	Head	669	Unavailable	619	0	0	None
-0	Head	670	Unavailable	620	0	0	None
-0	Head	671	Unavailable	621	0	0	None
-0	Head	672	Unavailable	622	0	0	None
-0	Head	673	Unavailable	623	0	0	None
-0	Head	674	Unavailable	624	0	0	None
-0	Head	675	Unavailable	625	0	0	None
+0	Head	659	Cabeza sup. Magma <ICON ALPHA>+	609	0	10	pl042_0500
+0	Head	660	Cabeza sup. Magma <ICON BETA>+	610	0	10	pl042_0510
+0	Head	661	Cabeza sup. voraz <ICON ALPHA>+	611	0	10	pl050_0500
+0	Head	662	Cabeza sup. voraz <ICON BETA>+	612	0	10	pl050_0510
+0	Head	663	Cabeza sup. escarcha <ICON ALPHA>+	613	0	11	pl085_0000
+0	Head	664	Cabeza sup. escarcha <ICON BETA>+	614	0	11	pl085_0010
+0	Head	665	Cabeza sup. espórea <ICON ALPHA>+	615	0	11	pl032_0500
+0	Head	666	Cabeza sup. espórea <ICON BETA>+	616	0	11	pl032_0510
+0	Head	667	Cabeza sup. Káiser <ICON ALPHA>+	617	0	11	pl046_0001
+0	Head	668	Cabeza sup. Káiser <ICON BETA>+	618	0	11	pl046_0011
+0	Head	669	Cabeza sup. Kushala <ICON ALPHA>+	619	0	11	pl047_0001
+0	Head	670	Cabeza sup. Kushala <ICON BETA>+	620	0	11	pl047_0011
+0	Head	671	Cabeza sup. Kirin <ICON ALPHA>+	621	0	11	pl035_0001
+0	Head	672	Cabeza sup. Kirin <ICON BETA>+	622	0	11	pl035_0011
+0	Head	673	Cabeza sup. Namielle <ICON ALPHA>+	623	0	11	pl086_0000
+0	Head	674	Cabeza sup. Namielle <ICON BETA>+	624	0	11	pl086_0010
+0	Head	675	Cabeza sup. triunfal+	625	0	10	pl094_0000
 0	Head	676	Pendientes acróbata sup.	626	0	10	pl095_0000
 0	Head	677	Pendientes artista sup.	627	0	11	pl095_0010
-0	Head	678	Unavailable	628	0	0	None
-0	Head	679	Unavailable	629	0	0	None
-0	Head	680	Unavailable	630	0	0	None
-0	Head	681	Unavailable	631	0	0	None
-0	Head	682	Unavailable	632	0	0	None
-0	Head	683	Unavailable	633	0	0	None
-0	Head	684	Unavailable	634	0	0	None
-0	Head	685	Unavailable	635	0	0	None
-0	Head	686	Unavailable	636	0	0	None
-0	Head	687	Unavailable	637	0	0	None
-0	Head	688	Unavailable	638	0	0	None
-0	Head	689	Unavailable	639	0	0	None
-0	Head	690	Unavailable	640	0	0	None
-0	Head	691	Unavailable	641	0	0	None
-0	Head	692	Unavailable	642	0	0	None
-0	Head	693	Unavailable	643	0	0	None
-0	Head	694	Unavailable	644	0	0	None
-0	Head	695	Unavailable	645	0	0	None
-0	Head	696	Unavailable	646	0	0	None
-0	Head	697	Unavailable	647	0	0	None
-0	Head	698	Unavailable	648	0	0	None
-0	Head	699	Unavailable	649	0	0	None
-0	Head	700	Unavailable	650	0	0	None
-0	Head	701	Unavailable	651	0	0	None
-0	Head	702	Unavailable	652	0	0	None
-0	Head	703	Unavailable	653	0	0	None
-0	Head	704	Unavailable	654	0	0	None
-0	Head	705	Unavailable	655	0	0	None
-0	Head	706	Unavailable	656	0	0	None
-0	Head	707	Unavailable	657	0	0	None
-0	Head	708	Unavailable	658	0	0	None
-0	Head	709	Unavailable	659	0	0	None
-0	Head	710	Unavailable	660	0	0	None
-0	Head	711	Unavailable	661	0	0	None
-0	Head	712	Unavailable	662	0	0	None
-0	Head	713	Unavailable	663	0	0	None
-0	Head	714	Unavailable	664	0	0	None
-0	Head	716	Unavailable	666	0	0	None
+0	Head	678	Cabeza sup. Shara <ICON ALPHA>+	628	0	11	pl088_0000
+0	Head	679	Cabeza sup. Shara <ICON BETA>+	629	0	11	pl088_0010
+0	Head	680	Cabeza sup. Garuga <ICON ALPHA>+	630	0	10	pl108_0000
+0	Head	681	Cabeza sup. Garuga <ICON BETA>+	631	0	10	pl108_0010
+0	Head	682	Cabeza sup. Zinogre <ICON ALPHA>+	632	0	10	pl107_0000
+0	Head	683	Cabeza sup. Zinogre <ICON BETA>+	633	0	10	pl107_0010
+0	Head	684	Cabeza sup. luna dorada <ICON ALPHA>+	634	0	11	pl021_0200
+0	Head	685	Cabeza sup. luna dorada <ICON BETA>+	635	0	11	pl021_0210
+0	Head	686	Cabeza sup. sol plateado <ICON ALPHA>+	636	0	11	pl033_0200
+0	Head	687	Cabeza sup. sol plateado <ICON BETA>+	637	0	11	pl033_0210
+0	Head	688	Cabeza sup. Lunastra <ICON ALPHA>+	638	0	11	pl051_0001
+0	Head	689	Cabeza sup. Lunastra <ICON BETA>+	639	0	11	pl051_0011
+0	Head	690	Cabeza sup. regia <ICON ALPHA>+	640	0	11	pl030_0500
+0	Head	691	Cabeza sup. regia <ICON BETA>+	641	0	11	pl030_0510
+0	Head	692	Cabeza sup. taberna lunar+	642	0	11	pl092_0000
+0	Head	693	Cabeza sup. Rajang <ICON ALPHA>+	643	0	10	pl109_0000
+0	Head	694	Cabeza sup. Rajang <ICON BETA>+	644	0	10	pl109_0010
+0	Head	695	Cabeza sup. estigia <ICON ALPHA>+	645	0	10	pl107_0100
+0	Head	696	Cabeza sup. estigia <ICON BETA>+	646	0	10	pl107_0110
+0	Head	697	Cabeza sup. Safi <ICON ALPHA>+	647	0	11	pl087_0000
+0	Head	698	Cabeza sup. Safi <ICON BETA>+	648	0	11	pl087_0010
+0	Head	699	Cabeza sup. Rabiosa <ICON ALPHA>+	649	0	11	pl109_0500
+0	Head	700	Cabeza sup. Rabiosa <ICON BETA>+	650	0	11	pl109_0510
+0	Head	701	Cabeza sup. braquídea <ICON ALPHA>+	651	0	11	pl082_0500
+0	Head	702	Cabeza sup. braquídea <ICON BETA>+	652	0	11	pl082_0510
+0	Head	703	Cabeza sup. Cynodon <ICON ALPHA>+	653	0	10	pl089_0500
+0	Head	704	Cabeza sup. Cynodon <ICON BETA>+	654	0	10	pl089_0510
+0	Head	705	Cabeza sup. Escadora <ICON ALPHA>+	655	0	11	pl052_0000
+0	Head	706	Cabeza sup. Escadora <ICON BETA>+	656	0	11	pl052_0010
+0	Head	707	Cabeza sup. dragón <ICON ALPHA>+	657	0	11	pl129_0000
+0	Head	708	Cabeza sup. dragón <ICON BETA>+	658	0	11	pl129_0010
+0	Head	709	Cabeza sup. Kulve <ICON ALPHA>+	659	0	11	pl049_0001
+0	Head	710	Cabeza sup. Kulve <ICON BETA>+	660	0	11	pl049_0011
+0	Head	711	Cabeza sup. sudario dragón	661	0	11	pl100_0000
+0	Head	712	Cabeza sup. orejas wyverianas	662	0	8	pl101_0000
+0	Head	713	Cabeza sup. pingüino lanudo	663	0	8	pl098_0000
+0	Head	714	Cabeza sup. termargéntea	664	0	8	pl113_0000
+0	Head	716	Cabeza sup. Edad Celeste	666	0	11	pl072_0001
 0	Head	717	Unavailable	667	0	0	None
-0	Head	718	Unavailable	668	0	0	None
-0	Head	719	Unavailable	669	0	0	None
-0	Head	720	Unavailable	670	0	0	None
+0	Head	718	HARDUMMY	668	0	11	pl068_0020
+0	Head	719	Cabeza sup. escarcha <ICON GAMMA>+	669	0	11	pl085_0020
+0	Head	720	Cabeza sup. Namielle <ICON GAMMA>+	670	0	11	pl086_0020
 0	Head	721	Unavailable	671	0	0	None
 0	Head	725	Unavailable	676	0	0	None
 0	Head	726	Unavailable	677	0	0	None
@@ -805,8 +805,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	155	Torso sup. traje gala	153	0	3	pl078_0000
 1	Body	156	Unavailable	158	2	0	pl001_0000
 1	Body	299	HARDUMMY	154	0	7	pl068_0000
-1	Body	291	HARDUMMY	155	0	7	pl069_0000
-1	Body	292	HARDUMMY	156	0	7	pl070_0000
+1	Body	291	Torso superp. Ryu	155	0	7	pl069_0000
+1	Body	292	Torso superp. Sakura	156	0	7	pl070_0000
 1	Body	144	Unavailable	157	2	0	pl001_0000
 1	Body	297	Torso sup. Bayek	159	0	7	pl120_0000
 1	Body	158	Unavailable	160	2	0	pl001_0000
@@ -847,9 +847,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	223	Cota de Zorah <ICON GAMMA>	213	72	7	pl038_0020
 1	Body	224	Cota de Xeno'jiiva <ICON GAMMA>	214	72	7	pl045_0020
 1	Body	225	HARDUMMY	215	46	4	pl068_0000
-1	Body	226	HARDUMMY	216	12	1	pl069_0000
-1	Body	227	HARDUMMY	217	60	6	pl069_0000
-1	Body	228	HARDUMMY	218	50	5	pl070_0000
+1	Body	226	Traje karateka de Ryu	216	12	1	pl069_0000
+1	Body	227	Traje karateka de Ryu <ICON ALPHA>	217	60	6	pl069_0000
+1	Body	228	Traje de Sakura <ICON ALPHA>	218	50	5	pl070_0000
 1	Body	229	Armadura rey celestial <ICON ALPHA>	219	56	6	pl072_0000
 1	Body	230	Gabardina de Dante <ICON ALPHA>	220	64	7	pl071_0000
 1	Body	231	Cota de emperatriz <ICON ALPHA>	221	70	7	pl051_0000
@@ -996,7 +996,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	443	Chaqueta de Kirin <ICON BETA>+	393	154	11	pl035_0011
 1	Body	444	Manto Namielle <ICON ALPHA>+	394	158	11	pl086_0000
 1	Body	445	Manto Namielle <ICON BETA>+	395	158	11	pl086_0010
-1	Body	446	Unavailable	396	0	0	None
+1	Body	446	Torso sup. mecánico <ICON ALPHA>+	396	0	9	pl104_0000
 1	Body	447	Torso sup. Barroth	397	0	4	pl012_0000
 1	Body	448	Cota triunfal <ICON ALPHA>+	398	154	10	pl094_0000
 1	Body	449	Cota triunfal <ICON BETA>+	399	154	10	pl094_0000
@@ -1044,7 +1044,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	497	Torso sup. Lumu	447	0	4	pl024_0000
 1	Body	498	Cuerpo apasionado <ICON ALPHA>+	448	156	9	pl125_0000
 1	Body	499	Torso sup. Rathian <ICON ALPHA>	449	0	4	pl021_0000
-1	Body	500	Unavailable	450	0	0	None
+1	Body	500	Túnica endemoniada <ICON ALPHA>+	450	162	10	pl126_0000
 1	Body	501	Torso sup. Rathian <ICON BETA>	451	0	4	pl021_0010
 1	Body	502	Traje Feng Huo <ICON ALPHA>+	452	120	8	pl127_0000
 1	Body	503	Torso sup. Radobaan <ICON ALPHA>	453	0	5	pl028_0000
@@ -1052,7 +1052,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	505	Torso sup. Radobaan <ICON BETA>	455	0	5	pl028_0010
 1	Body	506	Pecho de rosas sup.	456	0	9	pl124_0000
 1	Body	507	Torso sup. apasionado	457	0	9	pl125_0000
-1	Body	508	Unavailable	458	0	0	None
+1	Body	508	Torso sup. endemoniado	458	0	10	pl126_0000
 1	Body	509	Torso sup. Feng Huo	459	0	8	pl127_0000
 1	Body	510	Torso sup. astral	460	0	8	pl128_0000
 1	Body	511	Torso sup. megametal	461	0	5	pl025_0000
@@ -1065,19 +1065,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	522	Torso sup. caballero plata	472	0	6	pl123_0000
 1	Body	523	HARDUMMY	473	132	11	pl068_0010
 1	Body	524	Manto Namielle <ICON GAMMA>+	474	176	11	pl086_0020
-1	Body	525	HARDUMMY	475	0	7	pl072_0000
-1	Body	526	HARDUMMY	476	170	11	pl072_0001
-1	Body	527	Unavailable	477	0	0	None
+1	Body	525	Torso sup. rey celestial	475	0	7	pl072_0000
+1	Body	526	Haori Edad Celeste <ICON ALPHA>+	476	170	11	pl072_0001
+1	Body	527	Cota de escarcha <ICON GAMMA>+	477	180	11	pl085_0020
 1	Body	528	Cota Cynodon <ICON ALPHA>+	478	162	10	pl089_0500
 1	Body	529	Cota Cynodon <ICON BETA>+	479	162	10	pl089_0510
-1	Body	530	Unavailable	480	0	0	None
-1	Body	531	Unavailable	481	0	0	None
+1	Body	530	Coraza de dragón <ICON ALPHA>+	480	180	11	pl129_0000
+1	Body	531	Coraza de dragón <ICON BETA>+	481	180	11	pl129_0010
 1	Body	532	HARDUMMY	482	160	11	pl068_0020
 1	Body	533	Unavailable	483	0	0	None
 1	Body	534	Torso de Leon <ICON ALPHA>+	484	150	11	pl130_0000
 1	Body	535	Torso de Claire <ICON ALPHA>+	485	150	11	pl131_0000
-1	Body	536	Unavailable	486	0	0	None
-1	Body	537	Unavailable	487	0	0	None
+1	Body	536	Torso sup. Leon+	486	0	11	pl130_0000
+1	Body	537	Torso sup. Claire+	487	0	11	pl131_0000
 1	Body	539	Torso sup. Barnos	489	0	4	pl016_0000
 1	Body	540	Torso sup. Dodogama	490	0	4	pl039_0000
 1	Body	541	Torso sup. lingotes	491	0	5	pl031_0000
@@ -1134,127 +1134,127 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	592	Torso sup. Kulve <ICON ALPHA>	542	0	7	pl049_0000
 1	Body	593	Torso sup. Kulve <ICON BETA>	543	0	7	pl049_0010
 1	Body	594	Torso sup. Kulve <ICON GAMMA>	544	0	7	pl049_0020
-1	Body	595	Unavailable	546	0	0	None
-1	Body	596	Unavailable	547	0	0	None
-1	Body	598	Unavailable	549	0	0	None
-1	Body	599	Unavailable	550	0	0	None
-1	Body	600	Unavailable	551	0	0	None
-1	Body	601	Unavailable	552	0	0	None
-1	Body	602	Unavailable	553	0	0	None
-1	Body	603	Unavailable	554	0	0	None
-1	Body	604	Unavailable	555	0	0	None
-1	Body	605	Unavailable	556	0	0	None
-1	Body	606	Unavailable	557	0	0	None
-1	Body	607	Unavailable	558	0	0	None
-1	Body	608	Unavailable	559	0	0	None
-1	Body	609	Unavailable	560	0	0	None
-1	Body	610	Unavailable	561	0	0	None
-1	Body	611	Unavailable	562	0	0	None
-1	Body	612	Unavailable	563	0	0	None
-1	Body	613	Unavailable	564	0	0	None
-1	Body	614	Unavailable	565	0	0	None
-1	Body	615	Unavailable	566	0	0	None
-1	Body	616	Unavailable	567	0	0	None
-1	Body	617	Unavailable	568	0	0	None
-1	Body	618	Unavailable	569	0	0	None
-1	Body	619	Unavailable	570	0	0	None
-1	Body	620	Unavailable	571	0	0	None
-1	Body	621	Unavailable	572	0	0	None
-1	Body	622	Unavailable	573	0	0	None
-1	Body	623	Unavailable	574	0	0	None
+1	Body	595	Torso sup. Vespoid+	546	0	8	pl007_0001
+1	Body	596	Torso sup. Hornetaur+	547	0	8	pl017_0001
+1	Body	598	Torso sup. Cortos+	549	0	8	pl103_0000
+1	Body	599	Torso sup. Jagras+	550	0	8	pl008_0001
+1	Body	600	Torso sup. Tzitzi+	551	0	8	pl023_0001
+1	Body	601	Torso sup. Girros+	552	0	8	pl022_0001
+1	Body	602	Torso sup. Dodogama+	553	0	8	pl039_0001
+1	Body	603	Torso sup. Kulu+	554	0	8	pl009_0001
+1	Body	604	Torso sup. Pukei+	555	0	8	pl010_0001
+1	Body	605	Torso sup. Pukei Coralino+	556	0	8	pl010_0101
+1	Body	606	Torso sup. Barroth+	557	0	8	pl012_0001
+1	Body	607	Torso sup. Jyura+	558	0	8	pl011_0001
+1	Body	608	Torso sup. Beo+	559	0	8	pl110_0000
+1	Body	609	Torso sup. Kadachi+	560	0	8	pl013_0001
+1	Body	610	Torso sup. Kadachi Vípero+	561	0	8	pl013_0101
+1	Body	611	Torso sup. Banbaro <ICON ALPHA>+	562	0	8	pl084_0000
+1	Body	612	Torso sup. Banbaro <ICON BETA>+	563	0	8	pl084_0010
+1	Body	613	Torso sup. Anja <ICON ALPHA>+	564	0	8	pl020_0001
+1	Body	614	Torso sup. Anja <ICON BETA>+	565	0	8	pl020_0011
+1	Body	615	Torso sup. fulgúreo <ICON ALPHA>+	566	0	10	pl020_0101
+1	Body	616	Torso sup. fulgúreo <ICON BETA>+	567	0	10	pl020_0111
+1	Body	617	Torso sup. Rathian <ICON ALPHA>+	568	0	8	pl021_0001
+1	Body	618	Torso sup. Rathian <ICON BETA>+	569	0	8	pl021_0011
+1	Body	619	Torso sup. corazón Rath <ICON ALPHA>+	570	0	8	pl021_0101
+1	Body	620	Torso sup. corazón Rath <ICON BETA>+	571	0	8	pl021_0111
+1	Body	621	Torso sup. Lumu+	572	0	8	pl024_0001
+1	Body	622	Torso sup. fantasmal+	573	0	8	pl024_0101
+1	Body	623	Torso sup. Radobaan+	574	0	8	pl028_0001
 1	Body	624	Torso Artiano sup.	575	0	9	pl091_0000
-1	Body	625	Unavailable	674	0	0	None
-1	Body	626	Unavailable	576	0	0	None
-1	Body	627	Unavailable	577	0	0	None
-1	Body	628	Unavailable	578	0	0	None
-1	Body	629	Unavailable	579	0	0	None
-1	Body	630	Unavailable	580	0	0	None
-1	Body	631	Unavailable	581	0	0	None
-1	Body	632	Unavailable	582	0	0	None
-1	Body	633	Unavailable	583	0	0	None
-1	Body	634	Unavailable	584	0	0	None
-1	Body	635	Unavailable	585	0	0	None
-1	Body	636	Unavailable	586	0	0	None
-1	Body	637	Unavailable	587	0	0	None
-1	Body	638	Unavailable	588	0	0	None
-1	Body	639	Unavailable	589	0	0	None
-1	Body	640	Unavailable	590	0	0	None
-1	Body	641	Unavailable	591	0	0	None
-1	Body	642	Unavailable	592	0	0	None
-1	Body	643	Unavailable	593	0	0	None
-1	Body	644	Unavailable	594	0	0	None
-1	Body	645	Unavailable	595	0	0	None
-1	Body	646	Unavailable	596	0	0	None
-1	Body	647	Unavailable	597	0	0	None
-1	Body	648	Unavailable	598	0	0	None
-1	Body	649	Unavailable	599	0	0	None
-1	Body	650	Unavailable	600	0	0	None
-1	Body	651	Unavailable	601	0	0	None
-1	Body	652	Unavailable	602	0	0	None
-1	Body	653	Unavailable	603	0	0	None
-1	Body	654	Unavailable	604	0	0	None
-1	Body	655	Unavailable	605	0	0	None
-1	Body	656	Unavailable	606	0	0	None
-1	Body	657	Unavailable	607	0	0	None
+1	Body	625	Torso sup. mecánico <ICON BETA>+	674	0	9	pl104_0000
+1	Body	626	Torso sup. Barioth <ICON ALPHA>+	576	0	9	pl089_0000
+1	Body	627	Torso sup. Barioth <ICON BETA>+	577	0	9	pl089_0010
+1	Body	628	Torso sup. Rathalos <ICON ALPHA>+	578	0	9	pl033_0001
+1	Body	629	Torso sup. Rathalos <ICON BETA>+	579	0	9	pl033_0011
+1	Body	630	Torso sup. alma Rath <ICON ALPHA>+	580	0	10	pl033_0101
+1	Body	631	Torso sup. alma Rath <ICON BETA>+	581	0	10	pl033_0111
+1	Body	632	Torso sup. Diablos <ICON ALPHA>+	582	0	9	pl034_0001
+1	Body	633	Torso sup. Diablos <ICON BETA>+	583	0	9	pl034_0011
+1	Body	634	Torso sup. Diablos Negra <ICON ALPHA>+	584	0	10	pl034_0101
+1	Body	635	Torso sup. Diablos Negra <ICON BETA>+	585	0	10	pl034_0111
+1	Body	636	Torso sup. Legia <ICON ALPHA>+	586	0	9	pl027_0001
+1	Body	637	Torso sup. Legia <ICON BETA>+	587	0	9	pl027_0011
+1	Body	638	Torso sup. aullador <ICON ALPHA>+	588	0	10	pl027_0500
+1	Body	639	Torso sup. aullador <ICON BETA>+	589	0	10	pl027_0510
+1	Body	640	Torso sup. Odogaron <ICON ALPHA>+	590	0	9	pl029_0001
+1	Body	641	Torso sup. Odogaron <ICON BETA>+	591	0	9	pl029_0011
+1	Body	642	Torso sup. ébano <ICON ALPHA>+	592	0	10	pl029_0101
+1	Body	643	Torso sup. ébano <ICON BETA>+	593	0	10	pl029_0111
+1	Body	644	Torso sup. Lavasioth+	594	0	9	pl040_0001
+1	Body	645	Torso sup. Uragaan+	595	0	9	pl041_0001
+1	Body	646	Torso sup. Nargacuga <ICON ALPHA>+	596	0	9	pl080_0000
+1	Body	647	Torso sup. Nargacuga <ICON BETA>+	597	0	9	pl080_0010
+1	Body	648	Torso sup. Glavenus <ICON ALPHA>+	598	0	9	pl081_0000
+1	Body	649	Torso sup. Glavenus <ICON BETA>+	599	0	9	pl081_0010
+1	Body	650	Torso sup. acídico <ICON ALPHA>+	600	0	10	pl081_0100
+1	Body	651	Torso sup. acídico <ICON BETA>+	601	0	10	pl081_0110
+1	Body	652	Torso sup. Brachydios <ICON ALPHA>+	602	0	9	pl082_0000
+1	Body	653	Torso sup. Brachydios <ICON BETA>+	603	0	9	pl082_0010
+1	Body	654	Torso sup. Tigrex <ICON ALPHA>+	604	0	9	pl083_0000
+1	Body	655	Torso sup. Tigrex <ICON BETA>+	605	0	9	pl083_0010
+1	Body	656	Torso sup. pardo <ICON ALPHA>+	606	0	10	pl083_0100
+1	Body	657	Torso sup. pardo <ICON BETA>+	607	0	10	pl083_0110
 1	Body	658	Torso cinto negro sup.	608	0	10	pl093_0000
-1	Body	659	Unavailable	609	0	0	None
-1	Body	660	Unavailable	610	0	0	None
-1	Body	661	Unavailable	611	0	0	None
-1	Body	662	Unavailable	612	0	0	None
-1	Body	663	Unavailable	613	0	0	None
-1	Body	664	Unavailable	614	0	0	None
-1	Body	665	Unavailable	615	0	0	None
-1	Body	666	Unavailable	616	0	0	None
-1	Body	667	Unavailable	617	0	0	None
-1	Body	668	Unavailable	618	0	0	None
-1	Body	669	Unavailable	619	0	0	None
-1	Body	670	Unavailable	620	0	0	None
-1	Body	671	Unavailable	621	0	0	None
-1	Body	672	Unavailable	622	0	0	None
-1	Body	673	Unavailable	623	0	0	None
-1	Body	674	Unavailable	624	0	0	None
-1	Body	675	Unavailable	625	0	0	None
-1	Body	678	Unavailable	628	0	0	None
-1	Body	679	Unavailable	629	0	0	None
-1	Body	680	Unavailable	630	0	0	None
-1	Body	681	Unavailable	631	0	0	None
-1	Body	682	Unavailable	632	0	0	None
-1	Body	683	Unavailable	633	0	0	None
-1	Body	684	Unavailable	634	0	0	None
-1	Body	685	Unavailable	635	0	0	None
-1	Body	686	Unavailable	636	0	0	None
-1	Body	687	Unavailable	637	0	0	None
-1	Body	688	Unavailable	638	0	0	None
-1	Body	689	Unavailable	639	0	0	None
-1	Body	690	Unavailable	640	0	0	None
-1	Body	691	Unavailable	641	0	0	None
-1	Body	692	Unavailable	642	0	0	None
-1	Body	693	Unavailable	643	0	0	None
-1	Body	694	Unavailable	644	0	0	None
-1	Body	695	Unavailable	645	0	0	None
-1	Body	696	Unavailable	646	0	0	None
-1	Body	697	Unavailable	647	0	0	None
-1	Body	698	Unavailable	648	0	0	None
-1	Body	699	Unavailable	649	0	0	None
-1	Body	700	Unavailable	650	0	0	None
-1	Body	701	Unavailable	651	0	0	None
-1	Body	702	Unavailable	652	0	0	None
-1	Body	703	Unavailable	653	0	0	None
-1	Body	704	Unavailable	654	0	0	None
-1	Body	705	Unavailable	655	0	0	None
-1	Body	706	Unavailable	656	0	0	None
-1	Body	707	Unavailable	657	0	0	None
-1	Body	708	Unavailable	658	0	0	None
-1	Body	709	Unavailable	659	0	0	None
-1	Body	710	Unavailable	660	0	0	None
-1	Body	715	Unavailable	665	0	0	None
-1	Body	716	Unavailable	666	0	0	None
+1	Body	659	Torso sup. Magma <ICON ALPHA>+	609	0	10	pl042_0500
+1	Body	660	Torso sup. Magma <ICON BETA>+	610	0	10	pl042_0510
+1	Body	661	Torso sup. voraz <ICON ALPHA>+	611	0	10	pl050_0500
+1	Body	662	Torso sup. voraz <ICON BETA>+	612	0	10	pl050_0510
+1	Body	663	Torso sup. escarcha <ICON ALPHA>+	613	0	11	pl085_0000
+1	Body	664	Torso sup. escarcha <ICON BETA>+	614	0	11	pl085_0010
+1	Body	665	Torso sup. espóreo <ICON ALPHA>+	615	0	11	pl032_0500
+1	Body	666	Torso sup. espóreo <ICON BETA>+	616	0	11	pl032_0510
+1	Body	667	Torso sup. Káiser <ICON ALPHA>+	617	0	11	pl046_0001
+1	Body	668	Torso sup. Káiser <ICON BETA>+	618	0	11	pl046_0011
+1	Body	669	Torso sup. Kushala <ICON ALPHA>+	619	0	11	pl047_0001
+1	Body	670	Torso sup. Kushala <ICON BETA>+	620	0	11	pl047_0011
+1	Body	671	Torso sup. Kirin <ICON ALPHA>+	621	0	11	pl035_0001
+1	Body	672	Torso sup. Kirin <ICON BETA>+	622	0	11	pl035_0011
+1	Body	673	Torso sup. Namielle <ICON ALPHA>+	623	0	11	pl086_0000
+1	Body	674	Torso sup. Namielle <ICON BETA>+	624	0	11	pl086_0010
+1	Body	675	Torso sup. triunfal+	625	0	10	pl094_0000
+1	Body	678	Torso sup. Shara <ICON ALPHA>+	628	0	11	pl088_0000
+1	Body	679	Torso sup. Shara <ICON BETA>+	629	0	11	pl088_0010
+1	Body	680	Torso sup. Garuga <ICON ALPHA>+	630	0	10	pl108_0000
+1	Body	681	Torso sup. Garuga <ICON BETA>+	631	0	10	pl108_0010
+1	Body	682	Torso sup. Zinogre <ICON ALPHA>+	632	0	10	pl107_0000
+1	Body	683	Torso sup. Zinogre <ICON BETA>+	633	0	10	pl107_0010
+1	Body	684	Torso sup. luna dorada <ICON ALPHA>+	634	0	11	pl021_0200
+1	Body	685	Torso sup. luna dorada <ICON BETA>+	635	0	11	pl021_0210
+1	Body	686	Torso sup. sol plateado <ICON ALPHA>+	636	0	11	pl033_0200
+1	Body	687	Torso sup. sol plateado <ICON BETA>+	637	0	11	pl033_0210
+1	Body	688	Torso sup. Lunastra <ICON ALPHA>+	638	0	11	pl051_0001
+1	Body	689	Torso sup. Lunastra <ICON BETA>+	639	0	11	pl051_0011
+1	Body	690	Torso sup. regio <ICON ALPHA>+	640	0	11	pl030_0500
+1	Body	691	Torso sup. regio <ICON BETA>+	641	0	11	pl030_0510
+1	Body	692	Torso sup. taberna lunar+	642	0	11	pl092_0000
+1	Body	693	Torso sup. Rajang <ICON ALPHA>+	643	0	10	pl109_0000
+1	Body	694	Torso sup. Rajang <ICON BETA>+	644	0	10	pl109_0010
+1	Body	695	Torso sup. estigio <ICON ALPHA>+	645	0	10	pl107_0100
+1	Body	696	Torso sup. estigio <ICON BETA>+	646	0	10	pl107_0110
+1	Body	697	Torso sup. Safi <ICON ALPHA>+	647	0	11	pl087_0000
+1	Body	698	Torso sup. Safi <ICON BETA>+	648	0	11	pl087_0010
+1	Body	699	Torso sup. Rabioso <ICON ALPHA>+	649	0	11	pl109_0500
+1	Body	700	Torso sup. Rabioso <ICON BETA>+	650	0	11	pl109_0510
+1	Body	701	Torso sup. braquídeo <ICON ALPHA>+	651	0	11	pl082_0500
+1	Body	702	Torso sup. braquídeo <ICON BETA>+	652	0	11	pl082_0510
+1	Body	703	Torso sup. Cynodon <ICON ALPHA>+	653	0	10	pl089_0500
+1	Body	704	Torso sup. Cynodon <ICON BETA>+	654	0	10	pl089_0510
+1	Body	705	Torso sup. Escadora <ICON ALPHA>+	655	0	11	pl052_0000
+1	Body	706	Torso sup. Escadora <ICON BETA>+	656	0	11	pl052_0010
+1	Body	707	Torso sup. de dragón <ICON ALPHA>+	657	0	11	pl129_0000
+1	Body	708	Torso sup. de dragón <ICON BETA>+	658	0	11	pl129_0010
+1	Body	709	Torso sup. Kulve <ICON ALPHA>+	659	0	11	pl049_0001
+1	Body	710	Torso sup. Kulve <ICON BETA>+	660	0	11	pl049_0011
+1	Body	715	Torso sup. cuerpo fuerte <ICON ALPHA>+	665	0	10	pl115_0000
+1	Body	716	Torso sup. Edad Celeste	666	0	11	pl072_0001
 1	Body	717	Unavailable	667	0	0	None
-1	Body	718	Unavailable	668	0	0	None
-1	Body	719	Unavailable	669	0	0	None
-1	Body	720	Unavailable	670	0	0	None
+1	Body	718	HARDUMMY	668	0	11	pl068_0020
+1	Body	719	Torso sup. escarcha <ICON GAMMA>+	669	0	11	pl085_0020
+1	Body	720	Torso sup. Namielle <ICON GAMMA>+	670	0	11	pl086_0020
 1	Body	721	Unavailable	671	0	0	None
-1	Body	722	Unavailable	672	0	0	None
+1	Body	722	Torso sup. cuerpo fuerte <ICON GAMMA>+	672	0	11	pl115_0001
 1	Body	723	Torso sup. íntimo <ICON ALPHA>	673	0	11	pl500_0000
 1	Body	724	Torso sup. íntimo <ICON BETA>	675	0	11	pl501_0000
 1	Body	725	Unavailable	676	0	0	None
@@ -1420,8 +1420,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	146	Brazos superp. Orión	150	0	3	pl077_0000
 2	Arm	153	Brazos sup. traje gala	153	0	3	pl078_0000
 2	Arm	299	HARDUMMY	154	0	7	pl068_0000
-2	Arm	291	HARDUMMY	155	0	7	pl069_0000
-2	Arm	292	HARDUMMY	156	0	7	pl070_0000
+2	Arm	291	Brazos superp. Ryu	155	0	7	pl069_0000
+2	Arm	292	Brazos superp. Sakura	156	0	7	pl070_0000
 2	Arm	141	Unavailable	177	2	0	pl001_0000
 2	Arm	142	Unavailable	179	2	0	pl001_0000
 2	Arm	143	Unavailable	180	2	0	pl001_0000
@@ -1465,9 +1465,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	223	Garras de Zorah <ICON GAMMA>	213	72	7	pl038_0020
 2	Arm	224	Garras de Xeno'jiiva <ICON GAMMA>	214	72	7	pl045_0020
 2	Arm	225	HARDUMMY	215	46	4	pl068_0000
-2	Arm	226	HARDUMMY	216	12	1	pl069_0000
-2	Arm	227	HARDUMMY	217	60	6	pl069_0000
-2	Arm	228	HARDUMMY	218	50	5	pl070_0000
+2	Arm	226	Brazos de Ryu	216	12	1	pl069_0000
+2	Arm	227	Brazos de Ryu <ICON ALPHA>	217	60	6	pl069_0000
+2	Arm	228	Brazos de Sakura <ICON ALPHA>	218	50	5	pl070_0000
 2	Arm	229	Guantel. rey celestial <ICON ALPHA>	219	56	6	pl072_0000
 2	Arm	230	Guantes de Dante <ICON ALPHA>	220	64	7	pl071_0000
 2	Arm	231	Brazales de emperatriz <ICON ALPHA>	221	70	7	pl051_0000
@@ -1613,7 +1613,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	443	Brazos de Kirin <ICON BETA>+	393	154	11	pl035_0011
 2	Arm	444	Guantes Namielle <ICON ALPHA>+	394	158	11	pl086_0000
 2	Arm	445	Guantes Namielle <ICON BETA>+	395	158	11	pl086_0010
-2	Arm	446	Unavailable	396	0	0	None
+2	Arm	446	Brazos sup. mecánicos <ICON ALPHA>+	396	0	9	pl104_0000
 2	Arm	447	Brazos sup. Barroth	397	0	4	pl012_0000
 2	Arm	448	Brazales triunfales <ICON ALPHA>+	398	154	10	pl094_0000
 2	Arm	449	Brazales triunfales <ICON BETA>+	399	154	10	pl094_0000
@@ -1661,7 +1661,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	497	Brazos sup. Lumu	447	0	4	pl024_0000
 2	Arm	498	Brazos apasionados <ICON ALPHA>+	448	156	9	pl125_0000
 2	Arm	499	Brazos sup. Rathian <ICON ALPHA>	449	0	4	pl021_0000
-2	Arm	500	Unavailable	450	0	0	None
+2	Arm	500	Brazos endemoniados <ICON ALPHA>+	450	162	10	pl126_0000
 2	Arm	501	Brazos sup. Rathian <ICON BETA>	451	0	4	pl021_0010
 2	Arm	502	Mangas Feng Huo <ICON ALPHA>+	452	120	8	pl127_0000
 2	Arm	503	Brazos sup. Radobaan <ICON ALPHA>	453	0	5	pl028_0000
@@ -1669,7 +1669,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	505	Brazos sup. Radobaan <ICON BETA>	455	0	5	pl028_0010
 2	Arm	506	Guantes de rosas sup.	456	0	9	pl124_0000
 2	Arm	507	Brazos sup. apasionados	457	0	9	pl125_0000
-2	Arm	508	Unavailable	458	0	0	None
+2	Arm	508	Brazos sup. endemoniados	458	0	10	pl126_0000
 2	Arm	509	Brazos sup. Feng Huo	459	0	8	pl127_0000
 2	Arm	510	Brazos sup. astrales	460	0	8	pl128_0000
 2	Arm	511	Brazos sup. megametal	461	0	5	pl025_0000
@@ -1682,19 +1682,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	522	Brazos sup. caballero plata	472	0	6	pl123_0000
 2	Arm	523	HARDUMMY	473	132	11	pl068_0010
 2	Arm	524	Guantes Namielle <ICON GAMMA>+	474	176	11	pl086_0020
-2	Arm	525	HARDUMMY	475	0	7	pl072_0000
-2	Arm	526	HARDUMMY	476	170	11	pl072_0001
-2	Arm	527	Unavailable	477	0	0	None
+2	Arm	525	Brazos sup. rey celestial	475	0	7	pl072_0000
+2	Arm	526	Mangas Edad Celeste <ICON ALPHA>+	476	170	11	pl072_0001
+2	Arm	527	Brazales de escarcha <ICON GAMMA>+	477	180	11	pl085_0020
 2	Arm	528	Brazales Cynodon <ICON ALPHA>+	478	162	10	pl089_0500
 2	Arm	529	Brazales Cynodon <ICON BETA>+	479	162	10	pl089_0510
-2	Arm	530	Unavailable	480	0	0	None
-2	Arm	531	Unavailable	481	0	0	None
+2	Arm	530	Garras de dragón <ICON ALPHA>+	480	180	11	pl129_0000
+2	Arm	531	Garras de dragón <ICON BETA>+	481	180	11	pl129_0010
 2	Arm	532	HARDUMMY	482	160	11	pl068_0020
 2	Arm	533	Unavailable	483	0	0	None
 2	Arm	534	Brazos de Leon <ICON ALPHA>+	484	150	11	pl130_0000
 2	Arm	535	Brazos de Claire <ICON ALPHA>+	485	150	11	pl131_0000
-2	Arm	536	Unavailable	486	0	0	None
-2	Arm	537	Unavailable	487	0	0	None
+2	Arm	536	Brazos sup. Leon+	486	0	11	pl130_0000
+2	Arm	537	Brazos sup. Claire+	487	0	11	pl131_0000
 2	Arm	540	Brazos sup. Dodogama	490	0	4	pl039_0000
 2	Arm	541	Brazos sup. lingotes	491	0	5	pl031_0000
 2	Arm	542	Brazos sup. corzn. Rath <ICON ALPHA>	492	0	5	pl021_0100
@@ -1750,126 +1750,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	592	Brazos sup. Kulve <ICON ALPHA>	542	0	7	pl049_0000
 2	Arm	593	Brazos sup. Kulve <ICON BETA>	543	0	7	pl049_0010
 2	Arm	594	Brazos sup. Kulve <ICON GAMMA>	544	0	7	pl049_0020
-2	Arm	595	Unavailable	546	0	0	None
-2	Arm	596	Unavailable	547	0	0	None
-2	Arm	599	Unavailable	550	0	0	None
-2	Arm	600	Unavailable	551	0	0	None
-2	Arm	601	Unavailable	552	0	0	None
-2	Arm	602	Unavailable	553	0	0	None
-2	Arm	603	Unavailable	554	0	0	None
-2	Arm	604	Unavailable	555	0	0	None
-2	Arm	605	Unavailable	556	0	0	None
-2	Arm	606	Unavailable	557	0	0	None
-2	Arm	607	Unavailable	558	0	0	None
-2	Arm	608	Unavailable	559	0	0	None
-2	Arm	609	Unavailable	560	0	0	None
-2	Arm	610	Unavailable	561	0	0	None
-2	Arm	611	Unavailable	562	0	0	None
-2	Arm	612	Unavailable	563	0	0	None
-2	Arm	613	Unavailable	564	0	0	None
-2	Arm	614	Unavailable	565	0	0	None
-2	Arm	615	Unavailable	566	0	0	None
-2	Arm	616	Unavailable	567	0	0	None
-2	Arm	617	Unavailable	568	0	0	None
-2	Arm	618	Unavailable	569	0	0	None
-2	Arm	619	Unavailable	570	0	0	None
-2	Arm	620	Unavailable	571	0	0	None
-2	Arm	621	Unavailable	572	0	0	None
-2	Arm	622	Unavailable	573	0	0	None
-2	Arm	623	Unavailable	574	0	0	None
+2	Arm	595	Brazos sup. Vespoid+	546	0	8	pl007_0001
+2	Arm	596	Brazos sup. Hornetaur+	547	0	8	pl017_0001
+2	Arm	599	Brazos sup. Jagras+	550	0	8	pl008_0001
+2	Arm	600	Brazos sup. Tzitzi+	551	0	8	pl023_0001
+2	Arm	601	Brazos sup. Girros+	552	0	8	pl022_0001
+2	Arm	602	Brazos sup. Dodogama+	553	0	8	pl039_0001
+2	Arm	603	Brazos sup. Kulu+	554	0	8	pl009_0001
+2	Arm	604	Brazos sup. Pukei+	555	0	8	pl010_0001
+2	Arm	605	Brazos sup. Pukei Coralino+	556	0	8	pl010_0101
+2	Arm	606	Brazos sup. Barroth+	557	0	8	pl012_0001
+2	Arm	607	Brazos sup. Jyura+	558	0	8	pl011_0001
+2	Arm	608	Brazos sup. Beo+	559	0	8	pl110_0000
+2	Arm	609	Brazos sup. Kadachi+	560	0	8	pl013_0001
+2	Arm	610	Brazos sup. Kadachi Vípero+	561	0	8	pl013_0101
+2	Arm	611	Brazos sup. Banbaro <ICON ALPHA>+	562	0	8	pl084_0000
+2	Arm	612	Brazos sup. Banbaro <ICON BETA>+	563	0	8	pl084_0010
+2	Arm	613	Brazos sup. Anja <ICON ALPHA>+	564	0	8	pl020_0001
+2	Arm	614	Brazos sup. Anja <ICON BETA>+	565	0	8	pl020_0011
+2	Arm	615	Brazos sup. fulgúreos <ICON ALPHA>+	566	0	10	pl020_0101
+2	Arm	616	Brazos sup. fulgúreos <ICON BETA>+	567	0	10	pl020_0111
+2	Arm	617	Brazos sup. Rathian <ICON ALPHA>+	568	0	8	pl021_0001
+2	Arm	618	Brazos sup. Rathian <ICON BETA>+	569	0	8	pl021_0011
+2	Arm	619	Brazos sup. corazón Rath <ICON ALPHA>+	570	0	8	pl021_0101
+2	Arm	620	Brazos sup. corazón Rath <ICON BETA>+	571	0	8	pl021_0111
+2	Arm	621	Brazos sup. Lumu+	572	0	8	pl024_0001
+2	Arm	622	Brazos sup. fantasmal+	573	0	8	pl024_0101
+2	Arm	623	Brazos sup. Radobaan+	574	0	8	pl028_0001
 2	Arm	624	Brazos Artianos sup.	575	0	9	pl091_0000
-2	Arm	625	Unavailable	674	0	0	None
-2	Arm	626	Unavailable	576	0	0	None
-2	Arm	627	Unavailable	577	0	0	None
-2	Arm	628	Unavailable	578	0	0	None
-2	Arm	629	Unavailable	579	0	0	None
-2	Arm	630	Unavailable	580	0	0	None
-2	Arm	631	Unavailable	581	0	0	None
-2	Arm	632	Unavailable	582	0	0	None
-2	Arm	633	Unavailable	583	0	0	None
-2	Arm	634	Unavailable	584	0	0	None
-2	Arm	635	Unavailable	585	0	0	None
-2	Arm	636	Unavailable	586	0	0	None
-2	Arm	637	Unavailable	587	0	0	None
-2	Arm	638	Unavailable	588	0	0	None
-2	Arm	639	Unavailable	589	0	0	None
-2	Arm	640	Unavailable	590	0	0	None
-2	Arm	641	Unavailable	591	0	0	None
-2	Arm	642	Unavailable	592	0	0	None
-2	Arm	643	Unavailable	593	0	0	None
-2	Arm	644	Unavailable	594	0	0	None
-2	Arm	645	Unavailable	595	0	0	None
-2	Arm	646	Unavailable	596	0	0	None
-2	Arm	647	Unavailable	597	0	0	None
-2	Arm	648	Unavailable	598	0	0	None
-2	Arm	649	Unavailable	599	0	0	None
-2	Arm	650	Unavailable	600	0	0	None
-2	Arm	651	Unavailable	601	0	0	None
-2	Arm	652	Unavailable	602	0	0	None
-2	Arm	653	Unavailable	603	0	0	None
-2	Arm	654	Unavailable	604	0	0	None
-2	Arm	655	Unavailable	605	0	0	None
-2	Arm	656	Unavailable	606	0	0	None
-2	Arm	657	Unavailable	607	0	0	None
+2	Arm	625	Brazos sup. mecánicos <ICON BETA>+	674	0	9	pl104_0000
+2	Arm	626	Brazos sup. Barioth <ICON ALPHA>+	576	0	9	pl089_0000
+2	Arm	627	Brazos sup. Barioth <ICON BETA>+	577	0	9	pl089_0010
+2	Arm	628	Brazos sup. Rathalos <ICON ALPHA>+	578	0	9	pl033_0001
+2	Arm	629	Brazos sup. Rathalos <ICON BETA>+	579	0	9	pl033_0011
+2	Arm	630	Brazos sup. alma Rath <ICON ALPHA>+	580	0	10	pl033_0101
+2	Arm	631	Brazos sup. alma Rath <ICON BETA>+	581	0	10	pl033_0111
+2	Arm	632	Brazos sup. Diablos <ICON ALPHA>+	582	0	9	pl034_0001
+2	Arm	633	Brazos sup. Diablos <ICON BETA>+	583	0	9	pl034_0011
+2	Arm	634	Brazos sup. Diablos Negra <ICON ALPHA>+	584	0	10	pl034_0101
+2	Arm	635	Brazos sup. Diablos Negra <ICON BETA>+	585	0	10	pl034_0111
+2	Arm	636	Brazos sup. Legia <ICON ALPHA>+	586	0	9	pl027_0001
+2	Arm	637	Brazos sup. Legia <ICON BETA>+	587	0	9	pl027_0011
+2	Arm	638	Brazos sup. aulladores <ICON ALPHA>+	588	0	10	pl027_0500
+2	Arm	639	Brazos sup. aulladores <ICON BETA>+	589	0	10	pl027_0510
+2	Arm	640	Brazos sup. Odogaron <ICON ALPHA>+	590	0	9	pl029_0001
+2	Arm	641	Brazos sup. Odogaron <ICON BETA>+	591	0	9	pl029_0011
+2	Arm	642	Brazos sup. ébano <ICON ALPHA>+	592	0	10	pl029_0101
+2	Arm	643	Brazos sup. ébano <ICON BETA>+	593	0	10	pl029_0111
+2	Arm	644	Brazos sup. Lavasioth+	594	0	9	pl040_0001
+2	Arm	645	Brazos sup. Uragaan+	595	0	9	pl041_0001
+2	Arm	646	Brazos sup. Nargacuga <ICON ALPHA>+	596	0	9	pl080_0000
+2	Arm	647	Brazos sup. Nargacuga <ICON BETA>+	597	0	9	pl080_0010
+2	Arm	648	Brazos sup. Glavenus <ICON ALPHA>+	598	0	9	pl081_0000
+2	Arm	649	Brazos sup. Glavenus <ICON BETA>+	599	0	9	pl081_0010
+2	Arm	650	Brazos sup. acídicos <ICON ALPHA>+	600	0	10	pl081_0100
+2	Arm	651	Brazos sup. acídicos <ICON BETA>+	601	0	10	pl081_0110
+2	Arm	652	Brazos sup. Brachydios <ICON ALPHA>+	602	0	9	pl082_0000
+2	Arm	653	Brazos sup. Brachydios <ICON BETA>+	603	0	9	pl082_0010
+2	Arm	654	Brazos sup. Tigrex <ICON ALPHA>+	604	0	9	pl083_0000
+2	Arm	655	Brazos sup. Tigrex <ICON BETA>+	605	0	9	pl083_0010
+2	Arm	656	Brazos sup. pardos <ICON ALPHA>+	606	0	10	pl083_0100
+2	Arm	657	Brazos sup. pardos <ICON BETA>+	607	0	10	pl083_0110
 2	Arm	658	Brazos cinto negro sup.	608	0	10	pl093_0000
-2	Arm	659	Unavailable	609	0	0	None
-2	Arm	660	Unavailable	610	0	0	None
-2	Arm	661	Unavailable	611	0	0	None
-2	Arm	662	Unavailable	612	0	0	None
-2	Arm	663	Unavailable	613	0	0	None
-2	Arm	664	Unavailable	614	0	0	None
-2	Arm	665	Unavailable	615	0	0	None
-2	Arm	666	Unavailable	616	0	0	None
-2	Arm	667	Unavailable	617	0	0	None
-2	Arm	668	Unavailable	618	0	0	None
-2	Arm	669	Unavailable	619	0	0	None
-2	Arm	670	Unavailable	620	0	0	None
-2	Arm	671	Unavailable	621	0	0	None
-2	Arm	672	Unavailable	622	0	0	None
-2	Arm	673	Unavailable	623	0	0	None
-2	Arm	674	Unavailable	624	0	0	None
-2	Arm	675	Unavailable	625	0	0	None
-2	Arm	678	Unavailable	628	0	0	None
-2	Arm	679	Unavailable	629	0	0	None
-2	Arm	680	Unavailable	630	0	0	None
-2	Arm	681	Unavailable	631	0	0	None
-2	Arm	682	Unavailable	632	0	0	None
-2	Arm	683	Unavailable	633	0	0	None
-2	Arm	684	Unavailable	634	0	0	None
-2	Arm	685	Unavailable	635	0	0	None
-2	Arm	686	Unavailable	636	0	0	None
-2	Arm	687	Unavailable	637	0	0	None
-2	Arm	688	Unavailable	638	0	0	None
-2	Arm	689	Unavailable	639	0	0	None
-2	Arm	690	Unavailable	640	0	0	None
-2	Arm	691	Unavailable	641	0	0	None
-2	Arm	692	Unavailable	642	0	0	None
-2	Arm	693	Unavailable	643	0	0	None
-2	Arm	694	Unavailable	644	0	0	None
-2	Arm	695	Unavailable	645	0	0	None
-2	Arm	696	Unavailable	646	0	0	None
-2	Arm	697	Unavailable	647	0	0	None
-2	Arm	698	Unavailable	648	0	0	None
-2	Arm	699	Unavailable	649	0	0	None
-2	Arm	700	Unavailable	650	0	0	None
-2	Arm	701	Unavailable	651	0	0	None
-2	Arm	702	Unavailable	652	0	0	None
-2	Arm	703	Unavailable	653	0	0	None
-2	Arm	704	Unavailable	654	0	0	None
-2	Arm	705	Unavailable	655	0	0	None
-2	Arm	706	Unavailable	656	0	0	None
-2	Arm	707	Unavailable	657	0	0	None
-2	Arm	708	Unavailable	658	0	0	None
-2	Arm	709	Unavailable	659	0	0	None
-2	Arm	710	Unavailable	660	0	0	None
-2	Arm	715	Unavailable	665	0	0	None
-2	Arm	716	Unavailable	666	0	0	None
+2	Arm	659	Brazos sup. Magma <ICON ALPHA>+	609	0	10	pl042_0500
+2	Arm	660	Brazos sup. Magma <ICON BETA>+	610	0	10	pl042_0510
+2	Arm	661	Brazos sup. voraces <ICON ALPHA>+	611	0	10	pl050_0500
+2	Arm	662	Brazos sup. voraces <ICON BETA>+	612	0	10	pl050_0510
+2	Arm	663	Brazos sup. escarcha <ICON ALPHA>+	613	0	11	pl085_0000
+2	Arm	664	Brazos sup. escarcha <ICON BETA>+	614	0	11	pl085_0010
+2	Arm	665	Brazos sup. espóreos <ICON ALPHA>+	615	0	11	pl032_0500
+2	Arm	666	Brazos sup. espóreos <ICON BETA>+	616	0	11	pl032_0510
+2	Arm	667	Brazos sup. Káiser <ICON ALPHA>+	617	0	11	pl046_0001
+2	Arm	668	Brazos sup. Káiser <ICON BETA>+	618	0	11	pl046_0011
+2	Arm	669	Brazos sup. Kushala <ICON ALPHA>+	619	0	11	pl047_0001
+2	Arm	670	Brazos sup. Kushala <ICON BETA>+	620	0	11	pl047_0011
+2	Arm	671	Brazos sup. Kirin <ICON ALPHA>+	621	0	11	pl035_0001
+2	Arm	672	Brazos sup. Kirin <ICON BETA>+	622	0	11	pl035_0011
+2	Arm	673	Brazos sup. Namielle <ICON ALPHA>+	623	0	11	pl086_0000
+2	Arm	674	Brazos sup. Namielle <ICON BETA>+	624	0	11	pl086_0010
+2	Arm	675	Brazos sup. triunfales+	625	0	10	pl094_0000
+2	Arm	678	Brazos sup. Shara <ICON ALPHA>+	628	0	11	pl088_0000
+2	Arm	679	Brazos sup. Shara <ICON BETA>+	629	0	11	pl088_0010
+2	Arm	680	Brazos sup. Garuga <ICON ALPHA>+	630	0	10	pl108_0000
+2	Arm	681	Brazos sup. Garuga <ICON BETA>+	631	0	10	pl108_0010
+2	Arm	682	Brazos sup. Zinogre <ICON ALPHA>+	632	0	10	pl107_0000
+2	Arm	683	Brazos sup. Zinogre <ICON BETA>+	633	0	10	pl107_0010
+2	Arm	684	Brazos sup. luna dorada <ICON ALPHA>+	634	0	11	pl021_0200
+2	Arm	685	Brazos sup. luna dorada <ICON BETA>+	635	0	11	pl021_0210
+2	Arm	686	Brazos sup. sol plateado <ICON ALPHA>+	636	0	11	pl033_0200
+2	Arm	687	Brazos sup. sol plateado <ICON BETA>+	637	0	11	pl033_0210
+2	Arm	688	Brazos sup. Lunastra <ICON ALPHA>+	638	0	11	pl051_0001
+2	Arm	689	Brazos sup. Lunastra <ICON BETA>+	639	0	11	pl051_0011
+2	Arm	690	Brazos sup. regios <ICON ALPHA>+	640	0	11	pl030_0500
+2	Arm	691	Brazos sup. regios <ICON BETA>+	641	0	11	pl030_0510
+2	Arm	692	Brazos sup. taberna lunar+	642	0	11	pl092_0000
+2	Arm	693	Brazos sup. Rajang <ICON ALPHA>+	643	0	10	pl109_0000
+2	Arm	694	Brazos sup. Rajang <ICON BETA>+	644	0	10	pl109_0010
+2	Arm	695	Brazos sup. estigios <ICON ALPHA>+	645	0	10	pl107_0100
+2	Arm	696	Brazos sup. estigios <ICON BETA>+	646	0	10	pl107_0110
+2	Arm	697	Brazos sup. Safi <ICON ALPHA>+	647	0	11	pl087_0000
+2	Arm	698	Brazos sup. Safi <ICON BETA>+	648	0	11	pl087_0010
+2	Arm	699	Brazos sup. Rabiosos <ICON ALPHA>+	649	0	11	pl109_0500
+2	Arm	700	Brazos sup. Rabiosos <ICON BETA>+	650	0	11	pl109_0510
+2	Arm	701	Brazos sup. braquídeos <ICON ALPHA>+	651	0	11	pl082_0500
+2	Arm	702	Brazos sup. braquídeos <ICON BETA>+	652	0	11	pl082_0510
+2	Arm	703	Brazos sup. Cynodon <ICON ALPHA>+	653	0	10	pl089_0500
+2	Arm	704	Brazos sup. Cynodon <ICON BETA>+	654	0	10	pl089_0510
+2	Arm	705	Brazos sup. Escadora <ICON ALPHA>+	655	0	11	pl052_0000
+2	Arm	706	Brazos sup. Escadora <ICON BETA>+	656	0	11	pl052_0010
+2	Arm	707	Brazos sup. dragón <ICON ALPHA>+	657	0	11	pl129_0000
+2	Arm	708	Brazos sup. dragón <ICON BETA>+	658	0	11	pl129_0010
+2	Arm	709	Brazos sup. Kulve <ICON ALPHA>+	659	0	11	pl049_0001
+2	Arm	710	Brazos sup. Kulve <ICON BETA>+	660	0	11	pl049_0011
+2	Arm	715	Brazos sup. cuerpo fuerte <ICON ALPHA>+	665	0	10	pl115_0000
+2	Arm	716	Brazos sup. Edad Celeste	666	0	11	pl072_0001
 2	Arm	717	Unavailable	667	0	0	None
-2	Arm	718	Unavailable	668	0	0	None
-2	Arm	719	Unavailable	669	0	0	None
-2	Arm	720	Unavailable	670	0	0	None
+2	Arm	718	HARDUMMY	668	0	11	pl068_0020
+2	Arm	719	Brazos sup. escarcha <ICON GAMMA>+	669	0	11	pl085_0020
+2	Arm	720	Brazos sup. Namielle <ICON GAMMA>+	670	0	11	pl086_0020
 2	Arm	721	Unavailable	671	0	0	None
-2	Arm	722	Unavailable	672	0	0	None
+2	Arm	722	Brazos sup. cuerpo fuerte <ICON GAMMA>+	672	0	11	pl115_0001
 2	Arm	723	Brazos sup. íntimos <ICON ALPHA>	673	0	11	pl500_0000
 2	Arm	724	Brazos sup. íntimos <ICON BETA>	675	0	11	pl501_0000
 2	Arm	725	Unavailable	676	0	0	None
@@ -2032,8 +2032,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	146	Cintura superp. Orión	150	0	3	pl077_0000
 3	Waist	153	Cintura sup. traje gala	153	0	3	pl078_0000
 3	Waist	299	HARDUMMY	154	0	7	pl068_0000
-3	Waist	291	HARDUMMY	155	0	7	pl069_0000
-3	Waist	292	HARDUMMY	156	0	7	pl070_0000
+3	Waist	291	Cintura superp. Ryu	155	0	7	pl069_0000
+3	Waist	292	Cintura superp. Sakura	156	0	7	pl070_0000
 3	Waist	141	Unavailable	177	2	0	pl001_0000
 3	Waist	142	Unavailable	179	2	0	pl001_0000
 3	Waist	143	Unavailable	180	2	0	pl001_0000
@@ -2077,9 +2077,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	224	Espina de Zorah <ICON GAMMA>	213	72	7	pl038_0020
 3	Waist	226	Espina de Xeno'jiiva <ICON GAMMA>	214	72	7	pl045_0020
 3	Waist	227	HARDUMMY	215	46	4	pl068_0000
-3	Waist	228	HARDUMMY	216	12	1	pl069_0000
-3	Waist	229	HARDUMMY	217	60	6	pl069_0000
-3	Waist	230	HARDUMMY	218	50	5	pl070_0000
+3	Waist	228	Torso de Ryu	216	12	1	pl069_0000
+3	Waist	229	Torso de Ryu <ICON ALPHA>	217	60	6	pl069_0000
+3	Waist	230	Falda de Sakura <ICON ALPHA>	218	50	5	pl070_0000
 3	Waist	231	Muslera rey celestial <ICON ALPHA>	219	56	6	pl072_0000
 3	Waist	232	Cinturón de Dante <ICON ALPHA>	220	64	7	pl071_0000
 3	Waist	233	Faja de emperatriz <ICON ALPHA>	221	70	7	pl051_0000
@@ -2222,7 +2222,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	443	Aro de Kirin <ICON BETA>+	393	154	11	pl035_0011
 3	Waist	444	Faja Namielle <ICON ALPHA>+	394	158	11	pl086_0000
 3	Waist	445	Faja Namielle <ICON BETA>+	395	158	11	pl086_0010
-3	Waist	446	Unavailable	396	0	0	None
+3	Waist	446	Cintura sup. mecánica <ICON ALPHA>+	396	0	9	pl104_0000
 3	Waist	447	Cintura sup. Barroth	397	0	4	pl012_0000
 3	Waist	448	Faja triunfal <ICON ALPHA>+	398	154	10	pl094_0000
 3	Waist	449	Faja triunfal <ICON BETA>+	399	154	10	pl094_0000
@@ -2270,7 +2270,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	497	Cintura sup. Lumu	447	0	4	pl024_0000
 3	Waist	498	Cinto apasionado <ICON ALPHA>+	448	156	9	pl125_0000
 3	Waist	499	Cintura sup. Rathian <ICON ALPHA>	449	0	4	pl021_0000
-3	Waist	500	Unavailable	450	0	0	None
+3	Waist	500	Cinto de cuero endemoniado <ICON ALPHA>+	450	162	10	pl126_0000
 3	Waist	501	Cintura sup. Rathian <ICON BETA>	451	0	4	pl021_0010
 3	Waist	502	Cintura Feng Huo <ICON ALPHA>+	452	120	8	pl127_0000
 3	Waist	503	Cintura sup. Radobaan <ICON ALPHA>	453	0	5	pl028_0000
@@ -2278,7 +2278,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	505	Cintura sup. Radobaan <ICON BETA>	455	0	5	pl028_0010
 3	Waist	506	Torso de rosas sup.	456	0	9	pl124_0000
 3	Waist	507	Torso sup. apasionado	457	0	9	pl125_0000
-3	Waist	508	Unavailable	458	0	0	None
+3	Waist	508	Cintura sup. endemoniada	458	0	10	pl126_0000
 3	Waist	509	Cintura sup. Feng Huo	459	0	8	pl127_0000
 3	Waist	510	Cintura sup. astral	460	0	8	pl128_0000
 3	Waist	511	Cintura sup. megametal	461	0	5	pl025_0000
@@ -2291,19 +2291,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	522	Cintura sup. caballero plata	472	0	6	pl123_0000
 3	Waist	523	HARDUMMY	473	132	11	pl068_0010
 3	Waist	524	Faja Namielle <ICON GAMMA>+	474	176	11	pl086_0020
-3	Waist	525	HARDUMMY	475	0	7	pl072_0000
-3	Waist	526	HARDUMMY	476	170	11	pl072_0001
-3	Waist	527	Unavailable	477	0	0	None
+3	Waist	525	Cintura sup. rey celestial	475	0	7	pl072_0000
+3	Waist	526	Obi Edad Celeste <ICON ALPHA>+	476	170	11	pl072_0001
+3	Waist	527	Faja de escarcha <ICON GAMMA>+	477	180	11	pl085_0020
 3	Waist	528	Cintura Cynodon <ICON ALPHA>+	478	162	10	pl089_0500
 3	Waist	529	Cintura Cynodon <ICON BETA>+	479	162	10	pl089_0510
-3	Waist	530	Unavailable	480	0	0	None
-3	Waist	531	Unavailable	481	0	0	None
+3	Waist	530	Alas de dragón <ICON ALPHA>+	480	180	11	pl129_0000
+3	Waist	531	Alas de dragón <ICON BETA>+	481	180	11	pl129_0010
 3	Waist	532	HARDUMMY	482	160	11	pl068_0020
 3	Waist	533	Unavailable	483	0	0	None
 3	Waist	534	Cintura de Leon <ICON ALPHA>+	484	150	11	pl130_0000
 3	Waist	535	Cintura de Claire <ICON ALPHA>+	485	150	11	pl131_0000
-3	Waist	536	Unavailable	486	0	0	None
-3	Waist	537	Unavailable	487	0	0	None
+3	Waist	536	Cintura sup. Leon+	486	0	11	pl130_0000
+3	Waist	537	Cintura sup. Claire+	487	0	11	pl131_0000
 3	Waist	540	Cintura sup. Dodogama	490	0	4	pl039_0000
 3	Waist	541	Cintura sup. lingotes	491	0	5	pl031_0000
 3	Waist	542	Cintura sup. corzn. Rath <ICON ALPHA>	492	0	5	pl021_0100
@@ -2359,126 +2359,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	592	Cintura sup. Kulve <ICON ALPHA>	542	0	7	pl049_0000
 3	Waist	593	Cintura sup. Kulve <ICON BETA>	543	0	7	pl049_0010
 3	Waist	594	Cintura sup. Kulve <ICON GAMMA>	544	0	7	pl049_0020
-3	Waist	595	Unavailable	546	0	0	None
-3	Waist	596	Unavailable	547	0	0	None
-3	Waist	599	Unavailable	550	0	0	None
-3	Waist	600	Unavailable	551	0	0	None
-3	Waist	601	Unavailable	552	0	0	None
-3	Waist	602	Unavailable	553	0	0	None
-3	Waist	603	Unavailable	554	0	0	None
-3	Waist	604	Unavailable	555	0	0	None
-3	Waist	605	Unavailable	556	0	0	None
-3	Waist	606	Unavailable	557	0	0	None
-3	Waist	607	Unavailable	558	0	0	None
-3	Waist	608	Unavailable	559	0	0	None
-3	Waist	609	Unavailable	560	0	0	None
-3	Waist	610	Unavailable	561	0	0	None
-3	Waist	611	Unavailable	562	0	0	None
-3	Waist	612	Unavailable	563	0	0	None
-3	Waist	613	Unavailable	564	0	0	None
-3	Waist	614	Unavailable	565	0	0	None
-3	Waist	615	Unavailable	566	0	0	None
-3	Waist	616	Unavailable	567	0	0	None
-3	Waist	617	Unavailable	568	0	0	None
-3	Waist	618	Unavailable	569	0	0	None
-3	Waist	619	Unavailable	570	0	0	None
-3	Waist	620	Unavailable	571	0	0	None
-3	Waist	621	Unavailable	572	0	0	None
-3	Waist	622	Unavailable	573	0	0	None
-3	Waist	623	Unavailable	574	0	0	None
+3	Waist	595	Cintura sup. Vespoid+	546	0	8	pl007_0001
+3	Waist	596	Cintura sup. Hornetaur+	547	0	8	pl017_0001
+3	Waist	599	Cintura sup. Jagras+	550	0	8	pl008_0001
+3	Waist	600	Cintura sup. Tzitzi+	551	0	8	pl023_0001
+3	Waist	601	Cintura sup. Girros+	552	0	8	pl022_0001
+3	Waist	602	Cintura sup. Dodogama+	553	0	8	pl039_0001
+3	Waist	603	Cintura sup. Kulu+	554	0	8	pl009_0001
+3	Waist	604	Cintura sup. Pukei+	555	0	8	pl010_0001
+3	Waist	605	Cintura sup. Pukei Coralino+	556	0	8	pl010_0101
+3	Waist	606	Cintura sup. Barroth+	557	0	8	pl012_0001
+3	Waist	607	Cintura sup. Jyura+	558	0	8	pl011_0001
+3	Waist	608	Cintura sup. Beo+	559	0	8	pl110_0000
+3	Waist	609	Cintura sup. Kadachi+	560	0	8	pl013_0001
+3	Waist	610	Cintura sup. Kadachi Vípero+	561	0	8	pl013_0101
+3	Waist	611	Cintura sup. Banbaro <ICON ALPHA>+	562	0	8	pl084_0000
+3	Waist	612	Cintura sup. Banbaro <ICON BETA>+	563	0	8	pl084_0010
+3	Waist	613	Cintura sup. Anja <ICON ALPHA>+	564	0	8	pl020_0001
+3	Waist	614	Cintura sup. Anja <ICON BETA>+	565	0	8	pl020_0011
+3	Waist	615	Cintura sup. fulgúrea <ICON ALPHA>+	566	0	10	pl020_0101
+3	Waist	616	Cintura sup. fulgúrea <ICON BETA>+	567	0	10	pl020_0111
+3	Waist	617	Cintura sup. Rathian <ICON ALPHA>+	568	0	8	pl021_0001
+3	Waist	618	Cintura sup. Rathian <ICON BETA>+	569	0	8	pl021_0011
+3	Waist	619	Cintura sup. corazón Rath <ICON ALPHA>+	570	0	8	pl021_0101
+3	Waist	620	Cintura sup. corazón Rath <ICON BETA>+	571	0	8	pl021_0111
+3	Waist	621	Cintura sup. Lumu+	572	0	8	pl024_0001
+3	Waist	622	Cintura sup. fantasmal+	573	0	8	pl024_0101
+3	Waist	623	Cintura sup. Radobaan+	574	0	8	pl028_0001
 3	Waist	624	Cintura Artiana sup.	575	0	9	pl091_0000
-3	Waist	625	Unavailable	674	0	0	None
-3	Waist	626	Unavailable	576	0	0	None
-3	Waist	627	Unavailable	577	0	0	None
-3	Waist	628	Unavailable	578	0	0	None
-3	Waist	629	Unavailable	579	0	0	None
-3	Waist	630	Unavailable	580	0	0	None
-3	Waist	631	Unavailable	581	0	0	None
-3	Waist	632	Unavailable	582	0	0	None
-3	Waist	633	Unavailable	583	0	0	None
-3	Waist	634	Unavailable	584	0	0	None
-3	Waist	635	Unavailable	585	0	0	None
-3	Waist	636	Unavailable	586	0	0	None
-3	Waist	637	Unavailable	587	0	0	None
-3	Waist	638	Unavailable	588	0	0	None
-3	Waist	639	Unavailable	589	0	0	None
-3	Waist	640	Unavailable	590	0	0	None
-3	Waist	641	Unavailable	591	0	0	None
-3	Waist	642	Unavailable	592	0	0	None
-3	Waist	643	Unavailable	593	0	0	None
-3	Waist	644	Unavailable	594	0	0	None
-3	Waist	645	Unavailable	595	0	0	None
-3	Waist	646	Unavailable	596	0	0	None
-3	Waist	647	Unavailable	597	0	0	None
-3	Waist	648	Unavailable	598	0	0	None
-3	Waist	649	Unavailable	599	0	0	None
-3	Waist	650	Unavailable	600	0	0	None
-3	Waist	651	Unavailable	601	0	0	None
-3	Waist	652	Unavailable	602	0	0	None
-3	Waist	653	Unavailable	603	0	0	None
-3	Waist	654	Unavailable	604	0	0	None
-3	Waist	655	Unavailable	605	0	0	None
-3	Waist	656	Unavailable	606	0	0	None
-3	Waist	657	Unavailable	607	0	0	None
+3	Waist	625	Cintura sup. mecánica <ICON BETA>+	674	0	9	pl104_0000
+3	Waist	626	Cintura sup. Barioth <ICON ALPHA>+	576	0	9	pl089_0000
+3	Waist	627	Cintura sup. Barioth <ICON BETA>+	577	0	9	pl089_0010
+3	Waist	628	Cintura sup. Rathalos <ICON ALPHA>+	578	0	9	pl033_0001
+3	Waist	629	Cintura sup. Rathalos <ICON BETA>+	579	0	9	pl033_0011
+3	Waist	630	Cintura sup. alma Rath <ICON ALPHA>+	580	0	10	pl033_0101
+3	Waist	631	Cintura sup. alma Rath <ICON BETA>+	581	0	10	pl033_0111
+3	Waist	632	Cintura sup. Diablos <ICON ALPHA>+	582	0	9	pl034_0001
+3	Waist	633	Cintura sup. Diablos <ICON BETA>+	583	0	9	pl034_0011
+3	Waist	634	Cintura sup. Diablos Negra <ICON ALPHA>+	584	0	10	pl034_0101
+3	Waist	635	Cintura sup. Diablos Negra <ICON BETA>+	585	0	10	pl034_0111
+3	Waist	636	Cintura sup. Legia <ICON ALPHA>+	586	0	9	pl027_0001
+3	Waist	637	Cintura sup. Legia <ICON BETA>+	587	0	9	pl027_0011
+3	Waist	638	Cintura sup. aulladora <ICON ALPHA>+	588	0	10	pl027_0500
+3	Waist	639	Cintura sup. aulladora <ICON BETA>+	589	0	10	pl027_0510
+3	Waist	640	Cintura sup. Odogaron <ICON ALPHA>+	590	0	9	pl029_0001
+3	Waist	641	Cintura sup. Odogaron <ICON BETA>+	591	0	9	pl029_0011
+3	Waist	642	Cintura sup. ébano <ICON ALPHA>+	592	0	10	pl029_0101
+3	Waist	643	Cintura sup. ébano <ICON BETA>+	593	0	10	pl029_0111
+3	Waist	644	Cintura sup. Lavasioth+	594	0	9	pl040_0001
+3	Waist	645	Cintura sup. Uragaan+	595	0	9	pl041_0001
+3	Waist	646	Cintura sup. Nargacuga <ICON ALPHA>+	596	0	9	pl080_0000
+3	Waist	647	Cintura sup. Nargacuga <ICON BETA>+	597	0	9	pl080_0010
+3	Waist	648	Cintura sup. Glavenus <ICON ALPHA>+	598	0	9	pl081_0000
+3	Waist	649	Cintura sup. Glavenus <ICON BETA>+	599	0	9	pl081_0010
+3	Waist	650	Cintura sup. acídica <ICON ALPHA>+	600	0	10	pl081_0100
+3	Waist	651	Cintura sup. acídica <ICON BETA>+	601	0	10	pl081_0110
+3	Waist	652	Cintura sup. Brachydios <ICON ALPHA>+	602	0	9	pl082_0000
+3	Waist	653	Cintura sup. Brachydios <ICON BETA>+	603	0	9	pl082_0010
+3	Waist	654	Cintura sup. Tigrex <ICON ALPHA>+	604	0	9	pl083_0000
+3	Waist	655	Cintura sup. Tigrex <ICON BETA>+	605	0	9	pl083_0010
+3	Waist	656	Cintura sup. parda <ICON ALPHA>+	606	0	10	pl083_0100
+3	Waist	657	Cintura sup. parda <ICON BETA>+	607	0	10	pl083_0110
 3	Waist	658	Cintura cinto negro sup.	608	0	10	pl093_0000
-3	Waist	659	Unavailable	609	0	0	None
-3	Waist	660	Unavailable	610	0	0	None
-3	Waist	661	Unavailable	611	0	0	None
-3	Waist	662	Unavailable	612	0	0	None
-3	Waist	663	Unavailable	613	0	0	None
-3	Waist	664	Unavailable	614	0	0	None
-3	Waist	665	Unavailable	615	0	0	None
-3	Waist	666	Unavailable	616	0	0	None
-3	Waist	667	Unavailable	617	0	0	None
-3	Waist	668	Unavailable	618	0	0	None
-3	Waist	669	Unavailable	619	0	0	None
-3	Waist	670	Unavailable	620	0	0	None
-3	Waist	671	Unavailable	621	0	0	None
-3	Waist	672	Unavailable	622	0	0	None
-3	Waist	673	Unavailable	623	0	0	None
-3	Waist	674	Unavailable	624	0	0	None
-3	Waist	675	Unavailable	625	0	0	None
-3	Waist	678	Unavailable	628	0	0	None
-3	Waist	679	Unavailable	629	0	0	None
-3	Waist	680	Unavailable	630	0	0	None
-3	Waist	681	Unavailable	631	0	0	None
-3	Waist	682	Unavailable	632	0	0	None
-3	Waist	683	Unavailable	633	0	0	None
-3	Waist	684	Unavailable	634	0	0	None
-3	Waist	685	Unavailable	635	0	0	None
-3	Waist	686	Unavailable	636	0	0	None
-3	Waist	687	Unavailable	637	0	0	None
-3	Waist	688	Unavailable	638	0	0	None
-3	Waist	689	Unavailable	639	0	0	None
-3	Waist	690	Unavailable	640	0	0	None
-3	Waist	691	Unavailable	641	0	0	None
-3	Waist	692	Unavailable	642	0	0	None
-3	Waist	693	Unavailable	643	0	0	None
-3	Waist	694	Unavailable	644	0	0	None
-3	Waist	695	Unavailable	645	0	0	None
-3	Waist	696	Unavailable	646	0	0	None
-3	Waist	697	Unavailable	647	0	0	None
-3	Waist	698	Unavailable	648	0	0	None
-3	Waist	699	Unavailable	649	0	0	None
-3	Waist	700	Unavailable	650	0	0	None
-3	Waist	701	Unavailable	651	0	0	None
-3	Waist	702	Unavailable	652	0	0	None
-3	Waist	703	Unavailable	653	0	0	None
-3	Waist	704	Unavailable	654	0	0	None
-3	Waist	705	Unavailable	655	0	0	None
-3	Waist	706	Unavailable	656	0	0	None
-3	Waist	707	Unavailable	657	0	0	None
-3	Waist	708	Unavailable	658	0	0	None
-3	Waist	709	Unavailable	659	0	0	None
-3	Waist	710	Unavailable	660	0	0	None
-3	Waist	715	Unavailable	665	0	0	None
-3	Waist	716	Unavailable	666	0	0	None
+3	Waist	659	Cintura sup. Magma <ICON ALPHA>+	609	0	10	pl042_0500
+3	Waist	660	Cintura sup. Magma <ICON BETA>+	610	0	10	pl042_0510
+3	Waist	661	Cintura sup. voraz <ICON ALPHA>+	611	0	10	pl050_0500
+3	Waist	662	Cintura sup. voraz <ICON BETA>+	612	0	10	pl050_0510
+3	Waist	663	Cintura sup. escarcha <ICON ALPHA>+	613	0	11	pl085_0000
+3	Waist	664	Cintura sup. escarcha <ICON BETA>+	614	0	11	pl085_0010
+3	Waist	665	Cintura sup. espórea <ICON ALPHA>+	615	0	11	pl032_0500
+3	Waist	666	Cintura sup. espórea <ICON BETA>+	616	0	11	pl032_0510
+3	Waist	667	Cintura sup. Káiser <ICON ALPHA>+	617	0	11	pl046_0001
+3	Waist	668	Cintura sup. Káiser <ICON BETA>+	618	0	11	pl046_0011
+3	Waist	669	Cintura sup. Kushala <ICON ALPHA>+	619	0	11	pl047_0001
+3	Waist	670	Cintura sup. Kushala <ICON BETA>+	620	0	11	pl047_0011
+3	Waist	671	Cintura sup. Kirin <ICON ALPHA>+	621	0	11	pl035_0001
+3	Waist	672	Cintura sup. Kirin <ICON BETA>+	622	0	11	pl035_0011
+3	Waist	673	Cintura sup. Namielle <ICON ALPHA>+	623	0	11	pl086_0000
+3	Waist	674	Cintura sup. Namielle <ICON BETA>+	624	0	11	pl086_0010
+3	Waist	675	Cintura sup. triunfal+	625	0	10	pl094_0000
+3	Waist	678	Cintura sup. Shara <ICON ALPHA>+	628	0	11	pl088_0000
+3	Waist	679	Cintura sup. Shara <ICON BETA>+	629	0	11	pl088_0010
+3	Waist	680	Cintura sup. Garuga <ICON ALPHA>+	630	0	10	pl108_0000
+3	Waist	681	Cintura sup. Garuga <ICON BETA>+	631	0	10	pl108_0010
+3	Waist	682	Cintura sup. Zinogre <ICON ALPHA>+	632	0	10	pl107_0000
+3	Waist	683	Cintura sup. Zinogre <ICON BETA>+	633	0	10	pl107_0010
+3	Waist	684	Cintura sup. luna dorada <ICON ALPHA>+	634	0	11	pl021_0200
+3	Waist	685	Cintura sup. luna dorada <ICON BETA>+	635	0	11	pl021_0210
+3	Waist	686	Cintura sup. sol plateado <ICON ALPHA>+	636	0	11	pl033_0200
+3	Waist	687	Cintura sup. sol plateado <ICON BETA>+	637	0	11	pl033_0210
+3	Waist	688	Cintura sup. Lunastra <ICON ALPHA>+	638	0	11	pl051_0001
+3	Waist	689	Cintura sup. Lunastra <ICON BETA>+	639	0	11	pl051_0011
+3	Waist	690	Cintura sup. regia <ICON ALPHA>+	640	0	11	pl030_0500
+3	Waist	691	Cintura sup. regia <ICON BETA>+	641	0	11	pl030_0510
+3	Waist	692	Cintura sup. taberna lunar+	642	0	11	pl092_0000
+3	Waist	693	Cintura sup. Rajang <ICON ALPHA>+	643	0	10	pl109_0000
+3	Waist	694	Cintura sup. Rajang <ICON BETA>+	644	0	10	pl109_0010
+3	Waist	695	Cintura sup. estigia <ICON ALPHA>+	645	0	10	pl107_0100
+3	Waist	696	Cintura sup. estigia <ICON BETA>+	646	0	10	pl107_0110
+3	Waist	697	Cintura sup. Safi <ICON ALPHA>+	647	0	11	pl087_0000
+3	Waist	698	Cintura sup. Safi <ICON BETA>+	648	0	11	pl087_0010
+3	Waist	699	Cintura sup. Rabiosa <ICON ALPHA>+	649	0	11	pl109_0500
+3	Waist	700	Cintura sup. Rabiosa <ICON BETA>+	650	0	11	pl109_0510
+3	Waist	701	Cintura sup. braquídea <ICON ALPHA>+	651	0	11	pl082_0500
+3	Waist	702	Cintura sup. braquídea <ICON BETA>+	652	0	11	pl082_0510
+3	Waist	703	Cintura sup. Cynodon <ICON ALPHA>+	653	0	10	pl089_0500
+3	Waist	704	Cintura sup. Cynodon <ICON BETA>+	654	0	10	pl089_0510
+3	Waist	705	Cintura sup. Escadora <ICON ALPHA>+	655	0	11	pl052_0000
+3	Waist	706	Cintura sup. Escadora <ICON BETA>+	656	0	11	pl052_0010
+3	Waist	707	Cintura sup. dragón <ICON ALPHA>+	657	0	11	pl129_0000
+3	Waist	708	Cintura sup. dragón <ICON BETA>+	658	0	11	pl129_0010
+3	Waist	709	Cintura sup. Kulve <ICON ALPHA>+	659	0	11	pl049_0001
+3	Waist	710	Cintura sup. Kulve <ICON BETA>+	660	0	11	pl049_0011
+3	Waist	715	Cintura sup. cuerpo fuerte <ICON ALPHA>+	665	0	10	pl115_0000
+3	Waist	716	Cintura sup. Edad Celeste	666	0	11	pl072_0001
 3	Waist	717	Unavailable	667	0	0	None
-3	Waist	718	Unavailable	668	0	0	None
-3	Waist	719	Unavailable	669	0	0	None
-3	Waist	720	Unavailable	670	0	0	None
+3	Waist	718	HARDUMMY	668	0	11	pl068_0020
+3	Waist	719	Cintura sup. escarcha <ICON GAMMA>+	669	0	11	pl085_0020
+3	Waist	720	Cintura sup. Namielle <ICON GAMMA>+	670	0	11	pl086_0020
 3	Waist	721	Unavailable	671	0	0	None
-3	Waist	722	Unavailable	672	0	0	None
+3	Waist	722	Cintura sup. cuerpo fuerte <ICON GAMMA>+	672	0	11	pl115_0001
 3	Waist	723	Cintura sup. íntima <ICON ALPHA>	673	0	11	pl500_0000
 3	Waist	724	Cintura sup. íntima <ICON BETA>	675	0	11	pl501_0000
 3	Waist	725	Unavailable	676	0	0	None
@@ -2644,8 +2644,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	146	Piernas superp. Orión	150	0	3	pl077_0000
 4	Leg	153	Piernas sup. traje gala	153	0	3	pl078_0000
 4	Leg	299	HARDUMMY	154	0	7	pl068_0000
-4	Leg	291	HARDUMMY	155	0	7	pl069_0000
-4	Leg	292	HARDUMMY	156	0	7	pl070_0000
+4	Leg	291	Piernas superp. Ryu	155	0	7	pl069_0000
+4	Leg	292	Piernas superp. Sakura	156	0	7	pl070_0000
 4	Leg	141	Unavailable	143	2	0	pl001_0000
 4	Leg	142	Unavailable	179	2	0	pl001_0000
 4	Leg	143	Unavailable	180	2	0	pl001_0000
@@ -2689,9 +2689,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	223	Espolón de Zorah <ICON GAMMA>	213	72	7	pl038_0020
 4	Leg	224	Espolón de Xeno'jiiva <ICON GAMMA>	214	72	7	pl045_0020
 4	Leg	225	HARDUMMY	215	46	4	pl068_0000
-4	Leg	226	HARDUMMY	216	12	1	pl069_0000
-4	Leg	227	HARDUMMY	217	60	6	pl069_0000
-4	Leg	228	HARDUMMY	218	50	5	pl070_0000
+4	Leg	226	Piernas de Ryu	216	12	1	pl069_0000
+4	Leg	227	Piernas de Ryu <ICON ALPHA>	217	60	6	pl069_0000
+4	Leg	228	Piernas de Sakura <ICON ALPHA>	218	50	5	pl070_0000
 4	Leg	229	Guard. rey celestial <ICON ALPHA>	219	56	6	pl072_0000
 4	Leg	230	Botas de Dante <ICON ALPHA>	220	64	7	pl071_0000
 4	Leg	231	Grebas de emperatriz <ICON ALPHA>	221	70	7	pl051_0000
@@ -2837,7 +2837,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	443	Perneras de Kirin <ICON BETA>+	393	154	11	pl035_0011
 4	Leg	444	Grebas Namielle <ICON ALPHA>+	394	158	11	pl086_0000
 4	Leg	445	Grebas Namielle <ICON BETA>+	395	158	11	pl086_0010
-4	Leg	446	Unavailable	396	0	0	None
+4	Leg	446	Piernas sup. mecánicas <ICON ALPHA>+	396	0	9	pl104_0000
 4	Leg	447	Piernas sup. Barroth	397	0	4	pl012_0000
 4	Leg	448	Grebas triunfales <ICON ALPHA>+	398	154	10	pl094_0000
 4	Leg	449	Grebas triunfales <ICON BETA>+	399	154	10	pl094_0000
@@ -2885,7 +2885,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	497	Piernas sup. Lumu	447	0	4	pl024_0000
 4	Leg	498	Piernas apasionadas <ICON ALPHA>+	448	156	9	pl125_0000
 4	Leg	499	Piernas sup. Rathian <ICON ALPHA>	449	0	4	pl021_0000
-4	Leg	500	Unavailable	450	0	0	None
+4	Leg	500	Botas endemoniadas <ICON ALPHA>+	450	162	10	pl126_0000
 4	Leg	501	Piernas sup. Rathian <ICON BETA>	451	0	4	pl021_0010
 4	Leg	502	Botas Feng Huo <ICON ALPHA>+	452	120	8	pl127_0000
 4	Leg	503	Piernas sup. Radobaan <ICON ALPHA>	453	0	5	pl028_0000
@@ -2893,7 +2893,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	505	Piernas sup. Radobaan <ICON BETA>	455	0	5	pl028_0010
 4	Leg	506	Piernas de rosas sup.	456	0	9	pl124_0000
 4	Leg	507	Piernas sup. apasionadas	457	0	9	pl125_0000
-4	Leg	508	Unavailable	458	0	0	None
+4	Leg	508	Piernas sup. endemoniadas	458	0	10	pl126_0000
 4	Leg	509	Piernas sup. Feng Huo	459	0	8	pl127_0000
 4	Leg	510	Piernas sup. astrales	460	0	8	pl128_0000
 4	Leg	511	Piernas sup. megametal	461	0	5	pl025_0000
@@ -2906,19 +2906,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	522	Piernas sup. caballero plata	472	0	6	pl123_0000
 4	Leg	523	HARDUMMY	473	132	11	pl068_0010
 4	Leg	524	Grebas Namielle <ICON GAMMA>+	474	176	11	pl086_0020
-4	Leg	525	HARDUMMY	475	0	7	pl072_0000
-4	Leg	526	HARDUMMY	476	170	11	pl072_0001
-4	Leg	527	Unavailable	477	0	0	None
+4	Leg	525	Piernas sup. rey celestial	475	0	7	pl072_0000
+4	Leg	526	Geta Edad Celeste <ICON ALPHA>+	476	170	11	pl072_0001
+4	Leg	527	Grebas de escarcha <ICON GAMMA>+	477	180	11	pl085_0020
 4	Leg	528	Grebas Cynodon <ICON ALPHA>+	478	162	10	pl089_0500
 4	Leg	529	Grebas Cynodon <ICON BETA>+	479	162	10	pl089_0510
-4	Leg	530	Unavailable	480	0	0	None
-4	Leg	531	Unavailable	481	0	0	None
+4	Leg	530	Patas de dragón <ICON ALPHA>+	480	180	11	pl129_0000
+4	Leg	531	Patas de dragón <ICON BETA>+	481	180	11	pl129_0010
 4	Leg	532	HARDUMMY	482	160	11	pl068_0020
 4	Leg	533	Unavailable	483	0	0	None
 4	Leg	534	Piernas de Leon <ICON ALPHA>+	484	150	11	pl130_0000
 4	Leg	535	Piernas de Claire <ICON ALPHA>+	485	150	11	pl131_0000
-4	Leg	536	Unavailable	486	0	0	None
-4	Leg	537	Unavailable	487	0	0	None
+4	Leg	536	Piernas sup. Leon+	486	0	11	pl130_0000
+4	Leg	537	Piernas sup. Claire+	487	0	11	pl131_0000
 4	Leg	540	Piernas sup. Dodogama	490	0	4	pl039_0000
 4	Leg	541	Piernas sup. lingotes	491	0	5	pl031_0000
 4	Leg	542	Piernas sup. corzn. Rath <ICON ALPHA>	492	0	5	pl021_0100
@@ -2974,126 +2974,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	592	Piernas sup. Kulve <ICON ALPHA>	542	0	7	pl049_0000
 4	Leg	593	Piernas sup. Kulve <ICON BETA>	543	0	7	pl049_0010
 4	Leg	594	Piernas sup. Kulve <ICON GAMMA>	544	0	7	pl049_0020
-4	Leg	595	Unavailable	546	0	0	None
-4	Leg	596	Unavailable	547	0	0	None
-4	Leg	599	Unavailable	550	0	0	None
-4	Leg	600	Unavailable	551	0	0	None
-4	Leg	601	Unavailable	552	0	0	None
-4	Leg	602	Unavailable	553	0	0	None
-4	Leg	603	Unavailable	554	0	0	None
-4	Leg	604	Unavailable	555	0	0	None
-4	Leg	605	Unavailable	556	0	0	None
-4	Leg	606	Unavailable	557	0	0	None
-4	Leg	607	Unavailable	558	0	0	None
-4	Leg	608	Unavailable	559	0	0	None
-4	Leg	609	Unavailable	560	0	0	None
-4	Leg	610	Unavailable	561	0	0	None
-4	Leg	611	Unavailable	562	0	0	None
-4	Leg	612	Unavailable	563	0	0	None
-4	Leg	613	Unavailable	564	0	0	None
-4	Leg	614	Unavailable	565	0	0	None
-4	Leg	615	Unavailable	566	0	0	None
-4	Leg	616	Unavailable	567	0	0	None
-4	Leg	617	Unavailable	568	0	0	None
-4	Leg	618	Unavailable	569	0	0	None
-4	Leg	619	Unavailable	570	0	0	None
-4	Leg	620	Unavailable	571	0	0	None
-4	Leg	621	Unavailable	572	0	0	None
-4	Leg	622	Unavailable	573	0	0	None
-4	Leg	623	Unavailable	574	0	0	None
+4	Leg	595	Piernas sup. Vespoid+	546	0	8	pl007_0001
+4	Leg	596	Piernas sup. Hornetaur+	547	0	8	pl017_0001
+4	Leg	599	Piernas sup. Jagras+	550	0	8	pl008_0001
+4	Leg	600	Piernas sup. Tzitzi+	551	0	8	pl023_0001
+4	Leg	601	Piernas sup. Girros+	552	0	8	pl022_0001
+4	Leg	602	Piernas sup. Dodogama+	553	0	8	pl039_0001
+4	Leg	603	Piernas sup. Kulu+	554	0	8	pl009_0001
+4	Leg	604	Piernas sup. Pukei+	555	0	8	pl010_0001
+4	Leg	605	Piernas sup. Pukei Coralino+	556	0	8	pl010_0101
+4	Leg	606	Piernas sup. Barroth+	557	0	8	pl012_0001
+4	Leg	607	Piernas sup. Jyura+	558	0	8	pl011_0001
+4	Leg	608	Piernas sup. Beo+	559	0	8	pl110_0000
+4	Leg	609	Piernas sup. Kadachi+	560	0	8	pl013_0001
+4	Leg	610	Piernas sup. Kadachi Vípero+	561	0	8	pl013_0101
+4	Leg	611	Piernas sup. Banbaro <ICON ALPHA>+	562	0	8	pl084_0000
+4	Leg	612	Piernas sup. Banbaro <ICON BETA>+	563	0	8	pl084_0010
+4	Leg	613	Piernas sup. Anja <ICON ALPHA>+	564	0	8	pl020_0001
+4	Leg	614	Piernas sup. Anja <ICON BETA>+	565	0	8	pl020_0011
+4	Leg	615	Piernas sup. fulgúreas <ICON ALPHA>+	566	0	10	pl020_0101
+4	Leg	616	Piernas sup. fulgúreas <ICON BETA>+	567	0	10	pl020_0111
+4	Leg	617	Piernas sup. Rathian <ICON ALPHA>+	568	0	8	pl021_0001
+4	Leg	618	Piernas sup. Rathian <ICON BETA>+	569	0	8	pl021_0011
+4	Leg	619	Piernas sup. corazón Rath <ICON ALPHA>+	570	0	8	pl021_0101
+4	Leg	620	Piernas sup. corazón Rath <ICON BETA>+	571	0	8	pl021_0111
+4	Leg	621	Piernas sup. Lumu+	572	0	8	pl024_0001
+4	Leg	622	Piernas sup. fantasmal+	573	0	8	pl024_0101
+4	Leg	623	Piernas sup. Radobaan+	574	0	8	pl028_0001
 4	Leg	624	Piernas Artianas sup.	575	0	9	pl091_0000
-4	Leg	625	Unavailable	674	0	0	None
-4	Leg	626	Unavailable	576	0	0	None
-4	Leg	627	Unavailable	577	0	0	None
-4	Leg	628	Unavailable	578	0	0	None
-4	Leg	629	Unavailable	579	0	0	None
-4	Leg	630	Unavailable	580	0	0	None
-4	Leg	631	Unavailable	581	0	0	None
-4	Leg	632	Unavailable	582	0	0	None
-4	Leg	633	Unavailable	583	0	0	None
-4	Leg	634	Unavailable	584	0	0	None
-4	Leg	635	Unavailable	585	0	0	None
-4	Leg	636	Unavailable	586	0	0	None
-4	Leg	637	Unavailable	587	0	0	None
-4	Leg	638	Unavailable	588	0	0	None
-4	Leg	639	Unavailable	589	0	0	None
-4	Leg	640	Unavailable	590	0	0	None
-4	Leg	641	Unavailable	591	0	0	None
-4	Leg	642	Unavailable	592	0	0	None
-4	Leg	643	Unavailable	593	0	0	None
-4	Leg	644	Unavailable	594	0	0	None
-4	Leg	645	Unavailable	595	0	0	None
-4	Leg	646	Unavailable	596	0	0	None
-4	Leg	647	Unavailable	597	0	0	None
-4	Leg	648	Unavailable	598	0	0	None
-4	Leg	649	Unavailable	599	0	0	None
-4	Leg	650	Unavailable	600	0	0	None
-4	Leg	651	Unavailable	601	0	0	None
-4	Leg	652	Unavailable	602	0	0	None
-4	Leg	653	Unavailable	603	0	0	None
-4	Leg	654	Unavailable	604	0	0	None
-4	Leg	655	Unavailable	605	0	0	None
-4	Leg	656	Unavailable	606	0	0	None
-4	Leg	657	Unavailable	607	0	0	None
+4	Leg	625	Piernas sup. mecánicas <ICON BETA>+	674	0	9	pl104_0000
+4	Leg	626	Piernas sup. Barioth <ICON ALPHA>+	576	0	9	pl089_0000
+4	Leg	627	Piernas sup. Barioth <ICON BETA>+	577	0	9	pl089_0010
+4	Leg	628	Piernas sup. Rathalos <ICON ALPHA>+	578	0	9	pl033_0001
+4	Leg	629	Piernas sup. Rathalos <ICON BETA>+	579	0	9	pl033_0011
+4	Leg	630	Piernas sup. alma Rath <ICON ALPHA>+	580	0	10	pl033_0101
+4	Leg	631	Piernas sup. alma Rath <ICON BETA>+	581	0	10	pl033_0111
+4	Leg	632	Piernas sup. Diablos <ICON ALPHA>+	582	0	9	pl034_0001
+4	Leg	633	Piernas sup. Diablos <ICON BETA>+	583	0	9	pl034_0011
+4	Leg	634	Piernas sup. Diablos Negra <ICON ALPHA>+	584	0	10	pl034_0101
+4	Leg	635	Piernas sup. Diablos Negra <ICON BETA>+	585	0	10	pl034_0111
+4	Leg	636	Piernas sup. Legia <ICON ALPHA>+	586	0	9	pl027_0001
+4	Leg	637	Piernas sup. Legia <ICON BETA>+	587	0	9	pl027_0011
+4	Leg	638	Piernas sup. aulladoras <ICON ALPHA>+	588	0	10	pl027_0500
+4	Leg	639	Piernas sup. aulladoras <ICON BETA>+	589	0	10	pl027_0510
+4	Leg	640	Piernas sup. Odogaron <ICON ALPHA>+	590	0	9	pl029_0001
+4	Leg	641	Piernas sup. Odogaron <ICON BETA>+	591	0	9	pl029_0011
+4	Leg	642	Piernas sup. ébano <ICON ALPHA>+	592	0	10	pl029_0101
+4	Leg	643	Piernas sup. ébano <ICON BETA>+	593	0	10	pl029_0111
+4	Leg	644	Piernas sup. Lavasioth+	594	0	9	pl040_0001
+4	Leg	645	Piernas sup. Uragaan+	595	0	9	pl041_0001
+4	Leg	646	Piernas sup. Nargacuga <ICON ALPHA>+	596	0	9	pl080_0000
+4	Leg	647	Piernas sup. Nargacuga <ICON BETA>+	597	0	9	pl080_0010
+4	Leg	648	Piernas sup. Glavenus <ICON ALPHA>+	598	0	9	pl081_0000
+4	Leg	649	Piernas sup. Glavenus <ICON BETA>+	599	0	9	pl081_0010
+4	Leg	650	Piernas sup. acídicas <ICON ALPHA>+	600	0	10	pl081_0100
+4	Leg	651	Piernas sup. acídicas <ICON BETA>+	601	0	10	pl081_0110
+4	Leg	652	Piernas sup. Brachydios <ICON ALPHA>+	602	0	9	pl082_0000
+4	Leg	653	Piernas sup. Brachydios <ICON BETA>+	603	0	9	pl082_0010
+4	Leg	654	Piernas sup. Tigrex <ICON ALPHA>+	604	0	9	pl083_0000
+4	Leg	655	Piernas sup. Tigrex <ICON BETA>+	605	0	9	pl083_0010
+4	Leg	656	Piernas sup. pardas <ICON ALPHA>+	606	0	10	pl083_0100
+4	Leg	657	Piernas sup. pardas <ICON BETA>+	607	0	10	pl083_0110
 4	Leg	658	Piernas cinto negro sup.	608	0	10	pl093_0000
-4	Leg	659	Unavailable	609	0	0	None
-4	Leg	660	Unavailable	610	0	0	None
-4	Leg	661	Unavailable	611	0	0	None
-4	Leg	662	Unavailable	612	0	0	None
-4	Leg	663	Unavailable	613	0	0	None
-4	Leg	664	Unavailable	614	0	0	None
-4	Leg	665	Unavailable	615	0	0	None
-4	Leg	666	Unavailable	616	0	0	None
-4	Leg	667	Unavailable	617	0	0	None
-4	Leg	668	Unavailable	618	0	0	None
-4	Leg	669	Unavailable	619	0	0	None
-4	Leg	670	Unavailable	620	0	0	None
-4	Leg	671	Unavailable	621	0	0	None
-4	Leg	672	Unavailable	622	0	0	None
-4	Leg	673	Unavailable	623	0	0	None
-4	Leg	674	Unavailable	624	0	0	None
-4	Leg	675	Unavailable	625	0	0	None
-4	Leg	678	Unavailable	628	0	0	None
-4	Leg	679	Unavailable	629	0	0	None
-4	Leg	680	Unavailable	630	0	0	None
-4	Leg	681	Unavailable	631	0	0	None
-4	Leg	682	Unavailable	632	0	0	None
-4	Leg	683	Unavailable	633	0	0	None
-4	Leg	684	Unavailable	634	0	0	None
-4	Leg	685	Unavailable	635	0	0	None
-4	Leg	686	Unavailable	636	0	0	None
-4	Leg	687	Unavailable	637	0	0	None
-4	Leg	688	Unavailable	638	0	0	None
-4	Leg	689	Unavailable	639	0	0	None
-4	Leg	690	Unavailable	640	0	0	None
-4	Leg	691	Unavailable	641	0	0	None
-4	Leg	692	Unavailable	642	0	0	None
-4	Leg	693	Unavailable	643	0	0	None
-4	Leg	694	Unavailable	644	0	0	None
-4	Leg	695	Unavailable	645	0	0	None
-4	Leg	696	Unavailable	646	0	0	None
-4	Leg	697	Unavailable	647	0	0	None
-4	Leg	698	Unavailable	648	0	0	None
-4	Leg	699	Unavailable	649	0	0	None
-4	Leg	700	Unavailable	650	0	0	None
-4	Leg	701	Unavailable	651	0	0	None
-4	Leg	702	Unavailable	652	0	0	None
-4	Leg	703	Unavailable	653	0	0	None
-4	Leg	704	Unavailable	654	0	0	None
-4	Leg	705	Unavailable	655	0	0	None
-4	Leg	706	Unavailable	656	0	0	None
-4	Leg	707	Unavailable	657	0	0	None
-4	Leg	708	Unavailable	658	0	0	None
-4	Leg	709	Unavailable	659	0	0	None
-4	Leg	710	Unavailable	660	0	0	None
-4	Leg	715	Unavailable	665	0	0	None
-4	Leg	716	Unavailable	666	0	0	None
+4	Leg	659	Piernas sup. Magma <ICON ALPHA>+	609	0	10	pl042_0500
+4	Leg	660	Piernas sup. Magma <ICON BETA>+	610	0	10	pl042_0510
+4	Leg	661	Piernas sup. voraces <ICON ALPHA>+	611	0	10	pl050_0500
+4	Leg	662	Piernas sup. voraces <ICON BETA>+	612	0	10	pl050_0510
+4	Leg	663	Piernas sup. escarcha <ICON ALPHA>+	613	0	11	pl085_0000
+4	Leg	664	Piernas sup. escarcha <ICON BETA>+	614	0	11	pl085_0010
+4	Leg	665	Piernas sup. espóreas <ICON ALPHA>+	615	0	11	pl032_0500
+4	Leg	666	Piernas sup. espóreas <ICON BETA>+	616	0	11	pl032_0510
+4	Leg	667	Piernas sup. Káiser <ICON ALPHA>+	617	0	11	pl046_0001
+4	Leg	668	Piernas sup. Káiser <ICON BETA>+	618	0	11	pl046_0011
+4	Leg	669	Piernas sup. Kushala <ICON ALPHA>+	619	0	11	pl047_0001
+4	Leg	670	Piernas sup. Kushala <ICON BETA>+	620	0	11	pl047_0011
+4	Leg	671	Piernas sup. Kirin <ICON ALPHA>+	621	0	11	pl035_0001
+4	Leg	672	Piernas sup. Kirin <ICON BETA>+	622	0	11	pl035_0011
+4	Leg	673	Piernas sup. Namielle <ICON ALPHA>+	623	0	11	pl086_0000
+4	Leg	674	Piernas sup. Namielle <ICON BETA>+	624	0	11	pl086_0010
+4	Leg	675	Piernas sup. triunfales+	625	0	10	pl094_0000
+4	Leg	678	Piernas sup. Shara <ICON ALPHA>+	628	0	11	pl088_0000
+4	Leg	679	Piernas sup. Shara <ICON BETA>+	629	0	11	pl088_0010
+4	Leg	680	Piernas sup. Garuga <ICON ALPHA>+	630	0	10	pl108_0000
+4	Leg	681	Piernas sup. Garuga <ICON BETA>+	631	0	10	pl108_0010
+4	Leg	682	Piernas sup. Zinogre <ICON ALPHA>+	632	0	10	pl107_0000
+4	Leg	683	Piernas sup. Zinogre <ICON BETA>+	633	0	10	pl107_0010
+4	Leg	684	Piernas sup. luna dorada <ICON ALPHA>+	634	0	11	pl021_0200
+4	Leg	685	Piernas sup. luna dorada <ICON BETA>+	635	0	11	pl021_0210
+4	Leg	686	Piernas sup. sol plateado <ICON ALPHA>+	636	0	11	pl033_0200
+4	Leg	687	Piernas sup. sol plateado <ICON BETA>+	637	0	11	pl033_0210
+4	Leg	688	Piernas sup. Lunastra <ICON ALPHA>+	638	0	11	pl051_0001
+4	Leg	689	Piernas sup. Lunastra <ICON BETA>+	639	0	11	pl051_0011
+4	Leg	690	Piernas sup. regias <ICON ALPHA>+	640	0	11	pl030_0500
+4	Leg	691	Piernas sup. regias <ICON BETA>+	641	0	11	pl030_0510
+4	Leg	692	Piernas sup. taberna lunar+	642	0	11	pl092_0000
+4	Leg	693	Piernas sup. Rajang <ICON ALPHA>+	643	0	10	pl109_0000
+4	Leg	694	Piernas sup. Rajang <ICON BETA>+	644	0	10	pl109_0010
+4	Leg	695	Piernas sup. estigias <ICON ALPHA>+	645	0	10	pl107_0100
+4	Leg	696	Piernas sup. estigias <ICON BETA>+	646	0	10	pl107_0110
+4	Leg	697	Piernas sup. Safi <ICON ALPHA>+	647	0	11	pl087_0000
+4	Leg	698	Piernas sup. Safi <ICON BETA>+	648	0	11	pl087_0010
+4	Leg	699	Piernas sup. Rabiosas <ICON ALPHA>+	649	0	11	pl109_0500
+4	Leg	700	Piernas sup. Rabiosas <ICON BETA>+	650	0	11	pl109_0510
+4	Leg	701	Piernas sup. braquídeas <ICON ALPHA>+	651	0	11	pl082_0500
+4	Leg	702	Piernas sup. braquídeas <ICON BETA>+	652	0	11	pl082_0510
+4	Leg	703	Piernas sup. Cynodon <ICON ALPHA>+	653	0	10	pl089_0500
+4	Leg	704	Piernas sup. Cynodon <ICON BETA>+	654	0	10	pl089_0510
+4	Leg	705	Piernas sup. Escadora <ICON ALPHA>+	655	0	11	pl052_0000
+4	Leg	706	Piernas sup. Escadora <ICON BETA>+	656	0	11	pl052_0010
+4	Leg	707	Piernas sup. dragón <ICON ALPHA>+	657	0	11	pl129_0000
+4	Leg	708	Piernas sup. dragón <ICON BETA>+	658	0	11	pl129_0010
+4	Leg	709	Piernas sup. Kulve <ICON ALPHA>+	659	0	11	pl049_0001
+4	Leg	710	Piernas sup. Kulve <ICON BETA>+	660	0	11	pl049_0011
+4	Leg	715	Piernas sup. cuerpo fuerte <ICON ALPHA>+	665	0	10	pl115_0000
+4	Leg	716	Piernas sup. Edad Celeste	666	0	11	pl072_0001
 4	Leg	717	Unavailable	667	0	0	None
-4	Leg	718	Unavailable	668	0	0	None
-4	Leg	719	Unavailable	669	0	0	None
-4	Leg	720	Unavailable	670	0	0	None
+4	Leg	718	HARDUMMY	668	0	11	pl068_0020
+4	Leg	719	Piernas sup. escarcha <ICON GAMMA>+	669	0	11	pl085_0020
+4	Leg	720	Piernas sup. Namielle <ICON GAMMA>+	670	0	11	pl086_0020
 4	Leg	721	Unavailable	671	0	0	None
-4	Leg	722	Unavailable	672	0	0	None
+4	Leg	722	Piernas sup. dragón <ICON GAMMA>+	672	0	11	pl115_0001
 4	Leg	723	Piernas sup. íntimas <ICON ALPHA>	673	0	11	pl500_0000
 4	Leg	724	Piernas sup. íntimas <ICON BETA>	675	0	11	pl501_0000
 4	Leg	725	Unavailable	676	0	0	None
@@ -3400,7 +3400,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	319	Cigua helada IV	0	0	10	None
 5	Charm	320	Cigua helada V	0	0	11	None
 5	Charm	321	Cigua maestra IV	0	0	10	None
-5	Charm	322	Unavailable	0	0	0	None
+5	Charm	322	Cigua maestra V	0	0	11	None
 5	Charm	323	Cigua evasión IV	0	0	11	None
 5	Charm	324	Cigua evasión V	0	0	11	None
 5	Charm	325	Cigua sierpe IV	0	0	10	None
@@ -3414,11 +3414,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	333	Cigua seta III	0	0	10	None
 5	Charm	334	Cigua despertar III	0	0	11	None
 5	Charm	335	Cigua artesanía IV	0	0	11	None
-5	Charm	336	Unavailable	0	0	0	None
+5	Charm	336	Cigua artesanía V	0	0	11	None
 5	Charm	337	Anti rugidos IV	0	0	11	None
-5	Charm	338	Unavailable	0	0	0	None
+5	Charm	338	Anti rugidos V	0	0	11	None
 5	Charm	339	Cigua temblores III	0	0	11	None
-5	Charm	340	Unavailable	0	0	0	None
+5	Charm	340	Cigua provecho III	0	0	11	None
 5	Charm	341	Cigua centrada III	0	0	11	None
 5	Charm	342	Cigua troceo III	0	0	10	None
 5	Charm	343	Cigua furia III	0	0	10	None
@@ -3437,7 +3437,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	356	Cigua potente III	0	0	11	None
 5	Charm	357	Cigua impacto III	0	0	10	None
 5	Charm	358	Cigua crítica II	0	0	11	None
-5	Charm	359	Unavailable	0	0	0	None
+5	Charm	359	Cigua crítica III	0	0	11	None
 5	Charm	360	Cigua de vigor III	0	0	10	None
 5	Charm	361	Cigua fénix I	0	0	10	None
 5	Charm	362	Cigua fénix II	0	0	11	None
@@ -3461,7 +3461,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	380	Cigua supervivencia II	0	0	2	None
 5	Charm	381	Cigua supervivencia III	0	0	2	None
 5	Charm	382	Unavailable	0	0	2	None
-5	Charm	383	Unavailable	0	0	0	None
+5	Charm	383	Cigua trepadora	0	0	8	None
 5	Charm	384	Unavailable	0	0	0	None
 5	Charm	385	Unavailable	0	0	0	None
 5	Charm	386	Unavailable	0	0	0	None

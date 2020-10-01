@@ -154,8 +154,8 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 152	Mchoświni<ICON ALPHA>	pl056_0000
 153	Strój galowy	pl078_0000
 154	HARDUMMY	pl068_0000
-155	HARDUMMY	pl069_0000
-156	HARDUMMY	pl070_0000
+155	Ryu	pl069_0000
+156	Sakury	pl070_0000
 157	Bushi „Sabi”	pl001_0000
 158	Bushi „Sabi”	pl001_0000
 159	Bayeka	pl120_0000
@@ -215,9 +215,9 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 213	Zoraha<ICON GAMMA>	pl038_0020
 214	Xeno'jiiva<ICON GAMMA>	pl045_0020
 215	HARDUMMY	pl068_0000
-216	HARDUMMY	pl069_0000
-217	HARDUMMY	pl069_0000
-218	HARDUMMY	pl070_0000
+216	Ryu	pl069_0000
+217	Ryu<ICON ALPHA>	pl069_0000
+218	Sakury<ICON ALPHA>	pl070_0000
 219	Pan Lazurowej Gwiazdy<ICON ALPHA>	pl072_0000
 220	Dantego<ICON ALPHA>	pl071_0000
 221	Lunastry<ICON ALPHA>	pl051_0000
@@ -374,7 +374,7 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 372	Kwasowego Glavenusa<ICON BETA>+	pl081_0110
 373	Artianu<ICON ALPHA>+	pl091_0000
 374	Artianu<ICON BETA>+	pl091_0000
-375	Unavailable	None
+375	Szal czaszki	pl099_0000
 376	Pukei-Pukei<ICON ALPHA>	pl010_0000
 377	Pukei-Pukei<ICON BETA>	pl010_0010
 378	Dobera<ICON ALPHA>+	pl044_0000
@@ -395,7 +395,7 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 393	Kirina<ICON BETA>+	pl035_0011
 394	Namiella<ICON ALPHA>+	pl086_0000
 395	Namiella<ICON BETA>+	pl086_0010
-396	Unavailable	None
+396	Zegarowy<ICON ALPHA>+	pl104_0000
 397	Barrotha	pl012_0000
 398	Pałacu Gildii<ICON ALPHA>+	pl094_0000
 399	Pałacu Gildii<ICON BETA>+	pl094_0000
@@ -449,7 +449,7 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 447	Paolumu	pl024_0000
 448	Żarliwość<ICON ALPHA>+	pl125_0000
 449	Rathiany<ICON ALPHA>	pl021_0000
-450	Unavailable	None
+450	Władcy demonów<ICON ALPHA>+	pl126_0000
 451	Rathiany<ICON BETA>	pl021_0010
 452	Oolong<ICON ALPHA>+	pl127_0000
 453	Radobaana<ICON ALPHA>	pl028_0000
@@ -457,7 +457,7 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 455	Radobaana<ICON BETA>	pl028_0010
 456	Róża	pl124_0000
 457	Żarliwość	pl125_0000
-458	Unavailable	None
+458	Władca demonów	pl126_0000
 459	Ulung	pl127_0000
 460	Gwiezdny	pl128_0000
 461	Metalu	pl025_0000
@@ -465,7 +465,7 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 463	Zajęcza opaska	pl111_0000
 464	Derkacz puchaty	pl112_0000
 465	Perłowy<ICON ALPHA>+	pl113_0000
-466	Unavailable	None
+466	Szal z Kadachi	pl114_0000
 467	Niezła rzeźba<ICON ALPHA>+	pl115_0000
 468	Zwalistego Tigrexa<ICON ALPHA>+	pl083_0100
 469	Zwalistego Tigrexa<ICON BETA>+	pl083_0110
@@ -474,19 +474,19 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 472	Srebrnego Rycerza	pl123_0000
 473	HARDUMMY	pl068_0010
 474	Namiell<ICON GAMMA>+	pl086_0020
-475	HARDUMMY	pl072_0000
-476	HARDUMMY	pl072_0001
-477	Unavailable	None
+475	Pan Lazurowej Gwiazdy	pl072_0000
+476	Lazurowa Ery<ICON ALPHA>+	pl072_0001
+477	Velkhana<ICON GAMMA>+	pl085_0020
 478	Barioth Mrozokieł<ICON ALPHA>+	pl089_0500
 479	Barioth Mrozokieł<ICON BETA>+	pl089_0510
-480	Unavailable	None
-481	Unavailable	None
+480	Fatalis<ICON ALPHA>+	pl129_0000
+481	Fatalis<ICON BETA>+	pl129_0010
 482	HARDUMMY	pl068_0020
 483	Unavailable	None
 484	Leon <ICON ALPHA>+	pl130_0000
 485	Claire <ICON ALPHA>+	pl131_0000
-486	Unavailable	None
-487	Unavailable	None
+486	Leon+	pl130_0000
+487	Claire+	pl131_0000
 488	Gastodona	pl015_0000
 489	Barnosa	pl016_0000
 490	Dodogamy	pl039_0000
@@ -545,135 +545,135 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 543	Kulve<ICON BETA>	pl049_0010
 544	Kulve<ICON GAMMA>	pl049_0020
 545	Strażnik	pl121_0000
-546	Unavailable	None
-547	Unavailable	None
-548	Unavailable	None
-549	Unavailable	None
-550	Unavailable	None
-551	Unavailable	None
-552	Unavailable	None
-553	Unavailable	None
-554	Unavailable	None
-555	Unavailable	None
-556	Unavailable	None
-557	Unavailable	None
-558	Unavailable	None
-559	Unavailable	None
-560	Unavailable	None
-561	Unavailable	None
-562	Unavailable	None
-563	Unavailable	None
-564	Unavailable	None
-565	Unavailable	None
-566	Unavailable	None
-567	Unavailable	None
-568	Unavailable	None
-569	Unavailable	None
-570	Unavailable	None
-571	Unavailable	None
-572	Unavailable	None
-573	Unavailable	None
-574	Unavailable	None
+546	Vespoid+	pl007_0001
+547	Hornetaur+	pl017_0001
+548	Wulg+	pl102_0000
+549	Cortos+	pl103_0000
+550	Jagras+	pl008_0001
+551	Tzitzi-Ya-Ku+	pl023_0001
+552	Wielkiego Girrosa+	pl022_0001
+553	Dodogama+	pl039_0001
+554	Kulu-Ya-Ku+	pl009_0001
+555	Pukei-Pukei+	pl010_0001
+556	Koralowy Pukei+	pl010_0101
+557	Barroth+	pl012_0001
+558	Jyuratodusa+	pl011_0001
+559	Beotodusa+	pl110_0000
+560	Tobi-Kadachi+	pl013_0001
+561	Żmijowy Kadachi+	pl013_0101
+562	Banbaro<ICON ALPHA>+	pl084_0000
+563	Banbaro<ICON BETA>+	pl084_0010
+564	Anjanatha<ICON ALPHA>+	pl020_0001
+565	Anjanatha<ICON BETA>+	pl020_0011
+566	Piorunowy Anja<ICON ALPHA>+	pl020_0101
+567	Piorunowy Anja<ICON BETA>+	pl020_0111
+568	Rathiana<ICON ALPHA>+	pl021_0001
+569	Rathiana<ICON BETA>+	pl021_0011
+570	Serce Ratha<ICON ALPHA>+	pl021_0101
+571	Serce Ratha<ICON BETA>+	pl021_0111
+572	Paolumu+	pl024_0001
+573	Fantazmat z Lumu+	pl024_0101
+574	Radobaana+	pl028_0001
 575	Artian	pl091_0000
-576	Unavailable	None
-577	Unavailable	None
-578	Unavailable	None
-579	Unavailable	None
-580	Unavailable	None
-581	Unavailable	None
-582	Unavailable	None
-583	Unavailable	None
-584	Unavailable	None
-585	Unavailable	None
-586	Unavailable	None
-587	Unavailable	None
-588	Unavailable	None
-589	Unavailable	None
-590	Unavailable	None
-591	Unavailable	None
-592	Unavailable	None
-593	Unavailable	None
-594	Unavailable	None
-595	Unavailable	None
-596	Unavailable	None
-597	Unavailable	None
-598	Unavailable	None
-599	Unavailable	None
-600	Unavailable	None
-601	Unavailable	None
-602	Unavailable	None
-603	Unavailable	None
-604	Unavailable	None
-605	Unavailable	None
-606	Unavailable	None
-607	Unavailable	None
+576	Barioth<ICON ALPHA>+	pl089_0000
+577	Barioth<ICON BETA>+	pl089_0010
+578	Rathalos<ICON ALPHA>+	pl033_0001
+579	Rathalos<ICON BETA>+	pl033_0011
+580	Dusza Ratha<ICON ALPHA>+	pl033_0101
+581	Dusza Ratha<ICON BETA>+	pl033_0111
+582	Diablos<ICON ALPHA>+	pl034_0001
+583	Diablos<ICON BETA>+	pl034_0011
+584	Czarna Diabla<ICON ALPHA>+	pl034_0101
+585	Czarna Diabla<ICON BETA>+	pl034_0111
+586	Legiany<ICON ALPHA>+	pl027_0001
+587	Legiany<ICON BETA>+	pl027_0011
+588	Wrzeszcząca Legia<ICON ALPHA>+	pl027_0500
+589	Wrzeszcząca Legia<ICON BETA>+	pl027_0510
+590	Odogaron<ICON ALPHA>+	pl029_0001
+591	Odogaron<ICON BETA>+	pl029_0011
+592	Garon Śmierci<ICON ALPHA>+	pl029_0101
+593	Garon Śmierci<ICON BETA>+	pl029_0111
+594	Lavasioth+	pl040_0001
+595	Uragaan+	pl041_0001
+596	Nargacuga<ICON ALPHA>+	pl080_0000
+597	Nargacuga<ICON BETA>+	pl080_0010
+598	Glavenus<ICON ALPHA>+	pl081_0000
+599	Glavenus<ICON BETA>+	pl081_0010
+600	Kwasowy Glavenus<ICON ALPHA>+	pl081_0100
+601	Kwasowy Glavenus<ICON BETA>+	pl081_0110
+602	Brachydios<ICON ALPHA>+	pl082_0000
+603	Brachydios<ICON BETA>+	pl082_0010
+604	Tigrex<ICON ALPHA>+	pl083_0000
+605	Tigrex<ICON BETA>+	pl083_0010
+606	Zwalistego Tigrexa<ICON ALPHA>+	pl083_0100
+607	Zwalistego Tigrexa<ICON BETA>+	pl083_0110
 608	Czarny pas	pl093_0000
-609	Unavailable	None
-610	Unavailable	None
-611	Unavailable	None
-612	Unavailable	None
-613	Unavailable	None
-614	Unavailable	None
-615	Unavailable	None
-616	Unavailable	None
-617	Unavailable	None
-618	Unavailable	None
-619	Unavailable	None
-620	Unavailable	None
-621	Unavailable	None
-622	Unavailable	None
-623	Unavailable	None
-624	Unavailable	None
-625	Unavailable	None
+609	Rozzłoszczonego Bazela<ICON ALPHA>+	pl042_0500
+610	Rozzłoszczonego Bazela<ICON BETA>+	pl042_0510
+611	Dzikiego Jho<ICON ALPHA>+	pl050_0500
+612	Dzikiego Jho<ICON BETA>+	pl050_0510
+613	Velkhany<ICON ALPHA>+	pl085_0000
+614	Velkhany<ICON BETA>+	pl085_0010
+615	Welonowego Vaal Hazaka<ICON ALPHA>+	pl032_0500
+616	Welonowego Vaal Hazaka<ICON BETA>+	pl032_0510
+617	Teostry<ICON ALPHA>+	pl046_0001
+618	Teostry<ICON BETA>+	pl046_0011
+619	Kushali<ICON ALPHA>+	pl047_0001
+620	Kushali<ICON BETA>+	pl047_0011
+621	Kirina<ICON ALPHA>+	pl035_0001
+622	Kirina<ICON BETA>+	pl035_0011
+623	Namiella<ICON ALPHA>+	pl086_0000
+624	Namiella<ICON BETA>+	pl086_0010
+625	Pałac Gildii+	pl094_0000
 626	Akrobata	pl095_0000
 627	Showman	pl095_0010
-628	Unavailable	None
-629	Unavailable	None
-630	Unavailable	None
-631	Unavailable	None
-632	Unavailable	None
-633	Unavailable	None
-634	Unavailable	None
-635	Unavailable	None
-636	Unavailable	None
-637	Unavailable	None
-638	Unavailable	None
-639	Unavailable	None
-640	Unavailable	None
-641	Unavailable	None
-642	Unavailable	None
-643	Unavailable	None
-644	Unavailable	None
-645	Unavailable	None
-646	Unavailable	None
-647	Unavailable	None
-648	Unavailable	None
-649	Unavailable	None
-650	Unavailable	None
-651	Unavailable	None
-652	Unavailable	None
-653	Unavailable	None
-654	Unavailable	None
-655	Unavailable	None
-656	Unavailable	None
-657	Unavailable	None
-658	Unavailable	None
-659	Unavailable	None
-660	Unavailable	None
-661	Unavailable	None
-662	Unavailable	None
-663	Unavailable	None
-664	Unavailable	None
-665	Unavailable	None
-666	Unavailable	None
+628	Shar Ishvalda<ICON ALPHA>+	pl088_0000
+629	Shar Ishvalda<ICON BETA>+	pl088_0010
+630	Yian Garugi<ICON ALPHA>+	pl108_0000
+631	Yian Garugi<ICON BETA>+	pl108_0010
+632	Zinogra<ICON ALPHA>+	pl107_0000
+633	Zinogra<ICON BETA>+	pl107_0010
+634	Złotego księżyca<ICON ALPHA>+	pl021_0200
+635	Złotego księżyca<ICON BETA>+	pl021_0210
+636	Srebrnego słońca<ICON ALPHA>+	pl033_0200
+637	Srebrnego słońca<ICON BETA>+	pl033_0210
+638	Lunastry<ICON ALPHA>+	pl051_0001
+639	Lunastry<ICON BETA>+	pl051_0011
+640	Niszczycielskiego Nergi<ICON ALPHA>+	pl030_0500
+641	Niszczycielskiego Nergi<ICON BETA>+	pl030_0510
+642	Gildia+	pl092_0000
+643	Rajanga<ICON ALPHA>+	pl109_0000
+644	Rajanga<ICON BETA>+	pl109_0010
+645	Stygijskiego Zina<ICON ALPHA>+	pl107_0100
+646	Stygijskiego Zina<ICON BETA>+	pl107_0110
+647	Safi'jiiva<ICON ALPHA>+	pl087_0000
+648	Safi'jiiva<ICON BETA>+	pl087_0010
+649	Wściekłego Rajanga<ICON ALPHA>+	pl109_0500
+650	Wściekłego Rajanga<ICON BETA>+	pl109_0510
+651	Rozgniewanego Brachydiosa<ICON ALPHA>+	pl082_0500
+652	Rozgniewanego Brachydiosa<ICON BETA>+	pl082_0510
+653	Bariotha Mrozokła<ICON ALPHA>+	pl089_0500
+654	Bariotha Mrozokła<ICON BETA>+	pl089_0510
+655	Alatreona<ICON ALPHA>+	pl052_0000
+656	Alatreona<ICON BETA>+	pl052_0010
+657	Fatalis<ICON ALPHA>+	pl129_0000
+658	Fatalis<ICON BETA>+	pl129_0010
+659	Kulve Taroth<ICON ALPHA>+	pl049_0001
+660	Kulve Taroth<ICON BETA>+	pl049_0011
+661	Tkanina zapieczętowanego smoka	pl100_0000
+662	Wiweriańskie uszy	pl101_0000
+663	Pingwin bajowy+	pl098_0000
+664	Perłowy+	pl113_0000
+665	Niezła rzeźba<ICON ALPHA>+	pl115_0000
+666	Lazurowa Era	pl072_0001
 667	Unavailable	None
-668	Unavailable	None
-669	Unavailable	None
-670	Unavailable	None
+668	HARDUMMY	pl068_0020
+669	Velkhany<ICON GAMMA>+	pl085_0020
+670	Namiella<ICON GAMMA>+	pl086_0020
 671	Unavailable	None
-672	Unavailable	None
+672	Niezła rzeźba<ICON GAMMA>+	pl115_0001
 673	Bieliźniany<ICON ALPHA>	pl500_0000
-674	Unavailable	None
+674	Zegarowy<ICON BETA>+	pl104_0000
 675	Bieliźniany<ICON BETA>	pl501_0000
 676	Unavailable	None
 677	Unavailable	None

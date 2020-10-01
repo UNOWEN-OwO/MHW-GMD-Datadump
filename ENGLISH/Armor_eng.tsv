@@ -156,8 +156,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	159	Gala Suit Layered Head	153	0	3	pl078_0000
 0	Head	160	Unavailable	158	2	0	pl001_0000
 0	Head	299	HARDUMMY	154	0	7	pl068_0000
-0	Head	291	HARDUMMY	155	0	7	pl069_0000
-0	Head	292	HARDUMMY	156	0	7	pl070_0000
+0	Head	291	Ryu Layered Head	155	0	7	pl069_0000
+0	Head	292	Sakura Layered Head	156	0	7	pl070_0000
 0	Head	144	Unavailable	157	2	0	pl001_0000
 0	Head	297	Bayek Layered Head	159	0	7	pl120_0000
 0	Head	162	Unavailable	160	2	0	pl001_0000
@@ -198,9 +198,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	223	Zorah Headgear<ICON GAMMA>	213	72	7	pl038_0020
 0	Head	224	Xeno'jiiva Headgear<ICON GAMMA>	214	72	7	pl045_0020
 0	Head	225	HARDUMMY	215	46	4	pl068_0000
-0	Head	226	HARDUMMY	216	12	1	pl069_0000
-0	Head	227	HARDUMMY	217	60	6	pl069_0000
-0	Head	228	HARDUMMY	218	50	5	pl070_0000
+0	Head	226	Ryu's Head	216	12	1	pl069_0000
+0	Head	227	Ryu's Head<ICON ALPHA>	217	60	6	pl069_0000
+0	Head	228	Sakura's Head<ICON ALPHA>	218	50	5	pl070_0000
 0	Head	229	Azure Starlord Crown<ICON ALPHA>	219	56	6	pl072_0000
 0	Head	230	Dante's Hair<ICON ALPHA>	220	64	7	pl071_0000
 0	Head	231	Empress Crown<ICON ALPHA>	221	70	7	pl051_0000
@@ -347,7 +347,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	422	Acidic Glavenus Helm<ICON BETA>+	372	150	10	pl081_0110
 0	Head	423	Artian Helm<ICON ALPHA>+	373	142	9	pl091_0000
 0	Head	424	Artian Helm<ICON BETA>+	374	142	9	pl091_0000
-0	Head	425	Unavailable	375	0	0	None
+0	Head	425	Skull Scarf Layered Head	375	0	10	pl099_0000
 0	Head	426	Pukei<ICON ALPHA>Layered Helm	376	0	4	pl010_0000
 0	Head	427	Pukei<ICON BETA>Layered Helm	377	0	4	pl010_0010
 0	Head	428	Dober Helm<ICON ALPHA>+	378	152	10	pl044_0000
@@ -368,7 +368,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	443	Kirin Horn<ICON BETA>+	393	154	11	pl035_0011
 0	Head	444	Tentacle Cowl<ICON ALPHA>+	394	158	11	pl086_0000
 0	Head	445	Tentacle Cowl<ICON BETA>+	395	158	11	pl086_0010
-0	Head	446	Unavailable	396	0	0	None
+0	Head	446	Clockwork<ICON ALPHA>+ Layered Head	396	0	9	pl104_0000
 0	Head	447	Barroth Layered Helm	397	0	4	pl012_0000
 0	Head	448	Guild Palace Helm<ICON ALPHA>+	398	154	10	pl094_0000
 0	Head	449	Guild Palace Helm<ICON BETA>+	399	154	10	pl094_0000
@@ -422,7 +422,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	497	Lumu Layered Helm	447	0	4	pl024_0000
 0	Head	498	Passionate Headdress<ICON ALPHA>+	448	156	9	pl125_0000
 0	Head	499	Rathian<ICON ALPHA>Layered Helm	449	0	4	pl021_0000
-0	Head	500	Unavailable	450	0	0	None
+0	Head	500	Demonlord Hair<ICON ALPHA>+	450	162	10	pl126_0000
 0	Head	501	Rathian<ICON BETA>Layered Helm	451	0	4	pl021_0010
 0	Head	502	Oolong Hair<ICON ALPHA>+	452	120	8	pl127_0000
 0	Head	503	Radobaan<ICON ALPHA>Layered Helm	453	0	5	pl028_0000
@@ -430,7 +430,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	505	Radobaan<ICON BETA>Layered Helm	455	0	5	pl028_0010
 0	Head	506	Layered Rose Head	456	0	9	pl124_0000
 0	Head	507	Passionate Layered Head	457	0	9	pl125_0000
-0	Head	508	Unavailable	458	0	0	None
+0	Head	508	Demonlord Layered Head	458	0	10	pl126_0000
 0	Head	509	Oolong Layered Head	459	0	8	pl127_0000
 0	Head	510	Astral Layered Head	460	0	8	pl128_0000
 0	Head	511	High Metal Layered Helm	461	0	5	pl025_0000
@@ -438,7 +438,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	513	Hare Band Layered Armor	463	0	8	pl111_0000
 0	Head	514	Downy Crake Layered Head	464	0	8	pl112_0000
 0	Head	515	Pearlspring<ICON ALPHA>+	465	120	8	pl113_0000
-0	Head	516	Unavailable	466	0	0	None
+0	Head	516	Kadachi Layered Scarf	466	0	8	pl114_0000
 0	Head	518	Rex Roar Helm<ICON ALPHA>+	468	158	10	pl083_0100
 0	Head	519	Rex Roar Helm<ICON BETA>+	469	158	10	pl083_0110
 0	Head	520	Guardian Helm<ICON ALPHA>+	470	50	5	pl121_0000
@@ -446,19 +446,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	522	Silver Knight Layered Head	472	0	6	pl123_0000
 0	Head	523	HARDUMMY	473	132	11	pl068_0010
 0	Head	524	Tentacle Cowl<ICON GAMMA>+	474	176	11	pl086_0020
-0	Head	525	HARDUMMY	475	0	7	pl072_0000
-0	Head	526	HARDUMMY	476	170	11	pl072_0001
-0	Head	527	Unavailable	477	0	0	None
+0	Head	525	Azure Starlord Layered Head	475	0	7	pl072_0000
+0	Head	526	Azure Age Hair<ICON ALPHA>+	476	170	11	pl072_0001
+0	Head	527	Rimeguard Helm<ICON GAMMA>+	477	180	11	pl085_0020
 0	Head	528	Frostfang Helm<ICON ALPHA>+	478	162	10	pl089_0500
 0	Head	529	Frostfang Helm<ICON BETA>+	479	162	10	pl089_0510
-0	Head	530	Unavailable	480	0	0	None
-0	Head	531	Unavailable	481	0	0	None
+0	Head	530	Dragonhead<ICON ALPHA>+	480	180	11	pl129_0000
+0	Head	531	Dragonhead<ICON BETA>+	481	180	11	pl129_0010
 0	Head	532	HARDUMMY	482	160	11	pl068_0020
 0	Head	533	Unavailable	483	0	0	None
 0	Head	534	Leon's Head<ICON ALPHA>+	484	150	11	pl130_0000
 0	Head	535	Claire's Head<ICON ALPHA>+	485	150	11	pl131_0000
-0	Head	536	Unavailable	486	0	0	None
-0	Head	537	Unavailable	487	0	0	None
+0	Head	536	Leon+ Layered Head	486	0	11	pl130_0000
+0	Head	537	Claire+ Layered Head	487	0	11	pl131_0000
 0	Head	538	Gastodon Layered Head	488	0	4	pl015_0000
 0	Head	540	Dodogama Layered Head	490	0	4	pl039_0000
 0	Head	541	Ingot Layered Head	491	0	5	pl031_0000
@@ -515,130 +515,130 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	592	Kulve<ICON ALPHA>Layered Head	542	0	7	pl049_0000
 0	Head	593	Kulve<ICON BETA>Layered Head	543	0	7	pl049_0010
 0	Head	594	Kulve<ICON GAMMA>Layered Head	544	0	7	pl049_0020
-0	Head	595	Unavailable	546	0	0	None
-0	Head	596	Unavailable	547	0	0	None
-0	Head	597	Unavailable	548	0	0	None
-0	Head	599	Unavailable	550	0	0	None
-0	Head	600	Unavailable	551	0	0	None
-0	Head	601	Unavailable	552	0	0	None
-0	Head	602	Unavailable	553	0	0	None
-0	Head	603	Unavailable	554	0	0	None
-0	Head	604	Unavailable	555	0	0	None
-0	Head	605	Unavailable	556	0	0	None
-0	Head	606	Unavailable	557	0	0	None
-0	Head	607	Unavailable	558	0	0	None
-0	Head	608	Unavailable	559	0	0	None
-0	Head	609	Unavailable	560	0	0	None
-0	Head	610	Unavailable	561	0	0	None
-0	Head	611	Unavailable	562	0	0	None
-0	Head	612	Unavailable	563	0	0	None
-0	Head	613	Unavailable	564	0	0	None
-0	Head	614	Unavailable	565	0	0	None
-0	Head	615	Unavailable	566	0	0	None
-0	Head	616	Unavailable	567	0	0	None
-0	Head	617	Unavailable	568	0	0	None
-0	Head	618	Unavailable	569	0	0	None
-0	Head	619	Unavailable	570	0	0	None
-0	Head	620	Unavailable	571	0	0	None
-0	Head	621	Unavailable	572	0	0	None
-0	Head	622	Unavailable	573	0	0	None
-0	Head	623	Unavailable	574	0	0	None
+0	Head	595	Vespoid+ Layered Head	546	0	8	pl007_0001
+0	Head	596	Hornetaur+ Layered Head	547	0	8	pl017_0001
+0	Head	597	Wulg+ Layered Head	548	0	8	pl102_0000
+0	Head	599	Jagras+ Layered Head	550	0	8	pl008_0001
+0	Head	600	Tzitzi+ Layered Head	551	0	8	pl023_0001
+0	Head	601	Girros+ Layered Head	552	0	8	pl022_0001
+0	Head	602	Dodogama+ Layered Head	553	0	8	pl039_0001
+0	Head	603	Kulu+ Layered Head	554	0	8	pl009_0001
+0	Head	604	Pukei+ Layered Head	555	0	8	pl010_0001
+0	Head	605	Coral Pukei+ Layered Head	556	0	8	pl010_0101
+0	Head	606	Barroth+ Layered Head	557	0	8	pl012_0001
+0	Head	607	Jyura+ Layered Head	558	0	8	pl011_0001
+0	Head	608	Beo+ Layered Head	559	0	8	pl110_0000
+0	Head	609	Kadachi+ Layered Head	560	0	8	pl013_0001
+0	Head	610	Viper Kadachi+ Layered Head	561	0	8	pl013_0101
+0	Head	611	Banbaro<ICON ALPHA>+ Layered Head	562	0	8	pl084_0000
+0	Head	612	Banbaro<ICON BETA>+ Layered Head	563	0	8	pl084_0010
+0	Head	613	Anja<ICON ALPHA>+ Layered Head	564	0	8	pl020_0001
+0	Head	614	Anja<ICON BETA>+ Layered Head	565	0	8	pl020_0011
+0	Head	615	Fulgur Anja<ICON ALPHA>+ Layered Head	566	0	10	pl020_0101
+0	Head	616	Fulgur Anja<ICON BETA>+ Layered Head	567	0	10	pl020_0111
+0	Head	617	Rathian<ICON ALPHA>+ Layered Head	568	0	8	pl021_0001
+0	Head	618	Rathian<ICON BETA>+ Layered Head	569	0	8	pl021_0011
+0	Head	619	Rath Heart<ICON ALPHA>+ Layered Head	570	0	8	pl021_0101
+0	Head	620	Rath Heart<ICON BETA>+ Layered Head	571	0	8	pl021_0111
+0	Head	621	Lumu+ Layered Head	572	0	8	pl024_0001
+0	Head	622	Lumu Phantasm+ Layered Head	573	0	8	pl024_0101
+0	Head	623	Radobaan+ Layered Head	574	0	8	pl028_0001
 0	Head	624	Artian Layered Head	575	0	9	pl091_0000
-0	Head	625	Unavailable	674	0	0	None
-0	Head	626	Unavailable	576	0	0	None
-0	Head	627	Unavailable	577	0	0	None
-0	Head	628	Unavailable	578	0	0	None
-0	Head	629	Unavailable	579	0	0	None
-0	Head	630	Unavailable	580	0	0	None
-0	Head	631	Unavailable	581	0	0	None
-0	Head	632	Unavailable	582	0	0	None
-0	Head	633	Unavailable	583	0	0	None
-0	Head	634	Unavailable	584	0	0	None
-0	Head	635	Unavailable	585	0	0	None
-0	Head	636	Unavailable	586	0	0	None
-0	Head	637	Unavailable	587	0	0	None
-0	Head	638	Unavailable	588	0	0	None
-0	Head	639	Unavailable	589	0	0	None
-0	Head	640	Unavailable	590	0	0	None
-0	Head	641	Unavailable	591	0	0	None
-0	Head	642	Unavailable	592	0	0	None
-0	Head	643	Unavailable	593	0	0	None
-0	Head	644	Unavailable	594	0	0	None
-0	Head	645	Unavailable	595	0	0	None
-0	Head	646	Unavailable	596	0	0	None
-0	Head	647	Unavailable	597	0	0	None
-0	Head	648	Unavailable	598	0	0	None
-0	Head	649	Unavailable	599	0	0	None
-0	Head	650	Unavailable	600	0	0	None
-0	Head	651	Unavailable	601	0	0	None
-0	Head	652	Unavailable	602	0	0	None
-0	Head	653	Unavailable	603	0	0	None
-0	Head	654	Unavailable	604	0	0	None
-0	Head	655	Unavailable	605	0	0	None
-0	Head	656	Unavailable	606	0	0	None
-0	Head	657	Unavailable	607	0	0	None
+0	Head	625	Clockwork<ICON BETA>+ Layered Head	674	0	9	pl104_0010
+0	Head	626	Barioth<ICON ALPHA>+ Layered Head	576	0	9	pl089_0000
+0	Head	627	Barioth<ICON BETA>+ Layered Head	577	0	9	pl089_0010
+0	Head	628	Rathalos<ICON ALPHA>+ Layered Head	578	0	9	pl033_0001
+0	Head	629	Rathalos<ICON BETA>+ Layered Head	579	0	9	pl033_0011
+0	Head	630	Rath Soul<ICON ALPHA>+ Layered Head	580	0	10	pl033_0101
+0	Head	631	Rath Soul<ICON BETA>+ Layered Head	581	0	10	pl033_0111
+0	Head	632	Diablos<ICON ALPHA>+ Layered Head	582	0	9	pl034_0001
+0	Head	633	Diablos<ICON BETA>+ Layered Head	583	0	9	pl034_0011
+0	Head	634	Diablos Nero<ICON ALPHA>+ Layered Head	584	0	10	pl034_0101
+0	Head	635	Diablos Nero<ICON BETA>+ Layered Head	585	0	10	pl034_0111
+0	Head	636	Legia<ICON ALPHA>+ Layered Head	586	0	9	pl027_0001
+0	Head	637	Legia<ICON BETA>+ Layered Head	587	0	9	pl027_0011
+0	Head	638	Shrieking Legia<ICON ALPHA>+ Layered Head	588	0	10	pl027_0500
+0	Head	639	Shrieking Legia<ICON BETA>+ Layered Head	589	0	10	pl027_0510
+0	Head	640	Odogaron<ICON ALPHA>+ Layered Head	590	0	9	pl029_0001
+0	Head	641	Odogaron<ICON BETA>+ Layered Head	591	0	9	pl029_0011
+0	Head	642	Death Garon<ICON ALPHA>+ Layered Head	592	0	10	pl029_0101
+0	Head	643	Death Garon<ICON BETA>+ Layered Head	593	0	10	pl029_0111
+0	Head	644	Lavasioth+ Layered Head	594	0	9	pl040_0001
+0	Head	645	Uragaan+ Layered Head	595	0	9	pl041_0001
+0	Head	646	Nargacuga<ICON ALPHA>+ Layered Head	596	0	9	pl080_0000
+0	Head	647	Nargacuga<ICON BETA>+ Layered Head	597	0	9	pl080_0010
+0	Head	648	Glavenus<ICON ALPHA>+ Layered Head	598	0	9	pl081_0000
+0	Head	649	Glavenus<ICON BETA>+ Layered Head	599	0	9	pl081_0010
+0	Head	650	Acidic Glavenus<ICON ALPHA>+ Layered Head	600	0	10	pl081_0100
+0	Head	651	Acidic Glavenus<ICON BETA>+ Layered Head	601	0	10	pl081_0110
+0	Head	652	Brachydios<ICON ALPHA>+ Layered Head	602	0	9	pl082_0000
+0	Head	653	Brachydios<ICON BETA>+ Layered Head	603	0	9	pl082_0010
+0	Head	654	Tigrex<ICON ALPHA>+ Layered Head	604	0	9	pl083_0000
+0	Head	655	Tigrex<ICON BETA>+ Layered Head	605	0	9	pl083_0010
+0	Head	656	Rex Roar<ICON ALPHA>+ Layered Head	606	0	10	pl083_0100
+0	Head	657	Rex Roar<ICON BETA>+ Layered Head	607	0	10	pl083_0110
 0	Head	658	Black Belt Layered Head	608	0	10	pl093_0000
-0	Head	659	Unavailable	609	0	0	None
-0	Head	660	Unavailable	610	0	0	None
-0	Head	661	Unavailable	611	0	0	None
-0	Head	662	Unavailable	612	0	0	None
-0	Head	663	Unavailable	613	0	0	None
-0	Head	664	Unavailable	614	0	0	None
-0	Head	665	Unavailable	615	0	0	None
-0	Head	666	Unavailable	616	0	0	None
-0	Head	667	Unavailable	617	0	0	None
-0	Head	668	Unavailable	618	0	0	None
-0	Head	669	Unavailable	619	0	0	None
-0	Head	670	Unavailable	620	0	0	None
-0	Head	671	Unavailable	621	0	0	None
-0	Head	672	Unavailable	622	0	0	None
-0	Head	673	Unavailable	623	0	0	None
-0	Head	674	Unavailable	624	0	0	None
-0	Head	675	Unavailable	625	0	0	None
+0	Head	659	Pride<ICON ALPHA>+ Layered Head	609	0	10	pl042_0500
+0	Head	660	Pride<ICON BETA>+ Layered Head	610	0	10	pl042_0510
+0	Head	661	Esurient<ICON ALPHA>+ Layered Head	611	0	10	pl050_0500
+0	Head	662	Esurient<ICON BETA>+ Layered Head	612	0	10	pl050_0510
+0	Head	663	Rimeguard<ICON ALPHA>+ Layered Head	613	0	11	pl085_0000
+0	Head	664	Rimeguard<ICON BETA>+ Layered Head	614	0	11	pl085_0010
+0	Head	665	Fellshroud<ICON ALPHA>+ Layered Head	615	0	11	pl032_0500
+0	Head	666	Fellshroud<ICON BETA>+ Layered Head	616	0	11	pl032_0510
+0	Head	667	Teostra<ICON ALPHA>+ Layered Head	617	0	11	pl046_0001
+0	Head	668	Teostra<ICON BETA>+ Layered Head	618	0	11	pl046_0011
+0	Head	669	Kushala<ICON ALPHA>+ Layered Head	619	0	11	pl047_0001
+0	Head	670	Kushala<ICON BETA>+ Layered Head	620	0	11	pl047_0011
+0	Head	671	Kirin<ICON ALPHA>+ Layered Head	621	0	11	pl035_0001
+0	Head	672	Kirin<ICON BETA>+ Layered Head	622	0	11	pl035_0011
+0	Head	673	Tentacle<ICON ALPHA>+ Layered Head	623	0	11	pl086_0000
+0	Head	674	Tentacle<ICON BETA>+ Layered Head	624	0	11	pl086_0010
+0	Head	675	Guild Palace+ Layered Head	625	0	10	pl094_0000
 0	Head	676	Acrobat Layered Earrings	626	0	10	pl095_0000
 0	Head	677	Showman Layered Earrings	627	0	11	pl095_0010
-0	Head	678	Unavailable	628	0	0	None
-0	Head	679	Unavailable	629	0	0	None
-0	Head	680	Unavailable	630	0	0	None
-0	Head	681	Unavailable	631	0	0	None
-0	Head	682	Unavailable	632	0	0	None
-0	Head	683	Unavailable	633	0	0	None
-0	Head	684	Unavailable	634	0	0	None
-0	Head	685	Unavailable	635	0	0	None
-0	Head	686	Unavailable	636	0	0	None
-0	Head	687	Unavailable	637	0	0	None
-0	Head	688	Unavailable	638	0	0	None
-0	Head	689	Unavailable	639	0	0	None
-0	Head	690	Unavailable	640	0	0	None
-0	Head	691	Unavailable	641	0	0	None
-0	Head	692	Unavailable	642	0	0	None
-0	Head	693	Unavailable	643	0	0	None
-0	Head	694	Unavailable	644	0	0	None
-0	Head	695	Unavailable	645	0	0	None
-0	Head	696	Unavailable	646	0	0	None
-0	Head	697	Unavailable	647	0	0	None
-0	Head	698	Unavailable	648	0	0	None
-0	Head	699	Unavailable	649	0	0	None
-0	Head	700	Unavailable	650	0	0	None
-0	Head	701	Unavailable	651	0	0	None
-0	Head	702	Unavailable	652	0	0	None
-0	Head	703	Unavailable	653	0	0	None
-0	Head	704	Unavailable	654	0	0	None
-0	Head	705	Unavailable	655	0	0	None
-0	Head	706	Unavailable	656	0	0	None
-0	Head	707	Unavailable	657	0	0	None
-0	Head	708	Unavailable	658	0	0	None
-0	Head	709	Unavailable	659	0	0	None
-0	Head	710	Unavailable	660	0	0	None
-0	Head	711	Unavailable	661	0	0	None
-0	Head	712	Unavailable	662	0	0	None
-0	Head	713	Unavailable	663	0	0	None
-0	Head	714	Unavailable	664	0	0	None
-0	Head	716	Unavailable	666	0	0	None
+0	Head	678	Shara<ICON ALPHA>+ Layered Head	628	0	11	pl088_0000
+0	Head	679	Shara<ICON BETA>+ Layered Head	629	0	11	pl088_0010
+0	Head	680	Garuga<ICON ALPHA>+ Layered Head	630	0	10	pl108_0000
+0	Head	681	Garuga<ICON BETA>+ Layered Head	631	0	10	pl108_0010
+0	Head	682	Zinogre<ICON ALPHA>+ Layered Head	632	0	10	pl107_0000
+0	Head	683	Zinogre<ICON BETA>+ Layered Head	633	0	10	pl107_0010
+0	Head	684	Golden Lune<ICON ALPHA>+ Layered Head	634	0	11	pl021_0200
+0	Head	685	Golden Lune<ICON BETA>+ Layered Head	635	0	11	pl021_0210
+0	Head	686	Silver Sol<ICON ALPHA>+ Layered Head	636	0	11	pl033_0200
+0	Head	687	Silver Sol<ICON BETA>+ Layered Head	637	0	11	pl033_0210
+0	Head	688	Lunastra<ICON ALPHA>+ Layered Head	638	0	11	pl051_0001
+0	Head	689	Lunastra<ICON BETA>+ Layered Head	639	0	11	pl051_0011
+0	Head	690	Ruinous<ICON ALPHA>+ Layered Head	640	0	11	pl030_0500
+0	Head	691	Ruinous<ICON BETA>+ Layered Head	641	0	11	pl030_0510
+0	Head	692	Guildwork+ Layered Head	642	0	11	pl092_0000
+0	Head	693	Rajang<ICON ALPHA>+ Layered Head	643	0	10	pl109_0000
+0	Head	694	Rajang<ICON BETA>+ Layered Head	644	0	10	pl109_0010
+0	Head	695	Stygian<ICON ALPHA>+ Layered Head	645	0	10	pl107_0100
+0	Head	696	Stygian<ICON BETA>+ Layered Head	646	0	10	pl107_0110
+0	Head	697	Safi<ICON ALPHA>+ Layered Head	647	0	11	pl087_0000
+0	Head	698	Safi<ICON BETA>+ Layered Head	648	0	11	pl087_0010
+0	Head	699	Furious Rajang<ICON ALPHA>+ Layered Head	649	0	11	pl109_0500
+0	Head	700	Furious Rajang<ICON BETA>+ Layered Head	650	0	11	pl109_0510
+0	Head	701	Brachydium<ICON ALPHA>+ Layered Head	651	0	11	pl082_0500
+0	Head	702	Brachydium<ICON BETA>+ Layered Head	652	0	11	pl082_0510
+0	Head	703	Frostfang<ICON ALPHA>+ Layered Head	653	0	10	pl089_0500
+0	Head	704	Frostfang<ICON BETA>+ Layered Head	654	0	10	pl089_0510
+0	Head	705	Escadora<ICON ALPHA>+ Layered Head	655	0	11	pl052_0000
+0	Head	706	Escadora<ICON BETA>+ Layered Head	656	0	11	pl052_0010
+0	Head	707	Dragon<ICON ALPHA>+ Layered Head	657	0	11	pl129_0000
+0	Head	708	Dragon<ICON BETA>+ Layered Head	658	0	11	pl129_0010
+0	Head	709	Kulve<ICON ALPHA>+ Layered Head	659	0	11	pl049_0001
+0	Head	710	Kulve<ICON BETA>+ Layered Head	660	0	11	pl049_0011
+0	Head	711	Sealed Dragon Cloth Layered Head	661	0	11	pl100_0000
+0	Head	712	Wyverian Ears Layered Head	662	0	8	pl101_0000
+0	Head	713	Duffel Penguin Layered Head	663	0	8	pl098_0000
+0	Head	714	Pearlspring Layered Head	664	0	8	pl113_0000
+0	Head	716	Azure Age Layered Head	666	0	11	pl072_0001
 0	Head	717	Unavailable	667	0	0	None
-0	Head	718	Unavailable	668	0	0	None
-0	Head	719	Unavailable	669	0	0	None
-0	Head	720	Unavailable	670	0	0	None
+0	Head	718	HARDUMMY	668	0	11	pl068_0020
+0	Head	719	Rimeguard<ICON GAMMA>+ Layered Head	669	0	11	pl085_0020
+0	Head	720	Tentacle<ICON GAMMA>+ Layered Head	670	0	11	pl086_0020
 0	Head	721	Unavailable	671	0	0	None
 0	Head	725	Unavailable	676	0	0	None
 0	Head	726	Unavailable	677	0	0	None
@@ -805,8 +805,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	155	Gala Suit Layered Chest	153	0	3	pl078_0000
 1	Body	156	Unavailable	158	2	0	pl001_0000
 1	Body	299	HARDUMMY	154	0	7	pl068_0000
-1	Body	291	HARDUMMY	155	0	7	pl069_0000
-1	Body	292	HARDUMMY	156	0	7	pl070_0000
+1	Body	291	Ryu Layered Chest	155	0	7	pl069_0000
+1	Body	292	Sakura Layered Chest	156	0	7	pl070_0000
 1	Body	144	Unavailable	157	2	0	pl001_0000
 1	Body	297	Bayek Layered Chest	159	0	7	pl120_0000
 1	Body	158	Unavailable	160	2	0	pl001_0000
@@ -847,9 +847,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	223	Zorah Hide<ICON GAMMA>	213	72	7	pl038_0020
 1	Body	224	Xeno'jiiva Hide<ICON GAMMA>	214	72	7	pl045_0020
 1	Body	225	HARDUMMY	215	46	4	pl068_0000
-1	Body	226	HARDUMMY	216	12	1	pl069_0000
-1	Body	227	HARDUMMY	217	60	6	pl069_0000
-1	Body	228	HARDUMMY	218	50	5	pl070_0000
+1	Body	226	Ryu's Karate Gi	216	12	1	pl069_0000
+1	Body	227	Ryu's Karate Gi<ICON ALPHA>	217	60	6	pl069_0000
+1	Body	228	Sakura's Work Uniform<ICON ALPHA>	218	50	5	pl070_0000
 1	Body	229	Azure Starlord Armor<ICON ALPHA>	219	56	6	pl072_0000
 1	Body	230	Dante's Coat<ICON ALPHA>	220	64	7	pl071_0000
 1	Body	231	Empress Mail<ICON ALPHA>	221	70	7	pl051_0000
@@ -996,7 +996,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	443	Kirin Jacket<ICON BETA>+	393	154	11	pl035_0011
 1	Body	444	Tentacle Cloak<ICON ALPHA>+	394	158	11	pl086_0000
 1	Body	445	Tentacle Cloak<ICON BETA>+	395	158	11	pl086_0010
-1	Body	446	Unavailable	396	0	0	None
+1	Body	446	Clockwork<ICON ALPHA>+ Layered Chest	396	0	9	pl104_0000
 1	Body	447	Barroth Layered Chest	397	0	4	pl012_0000
 1	Body	448	Guild Palace Mail<ICON ALPHA>+	398	154	10	pl094_0000
 1	Body	449	Guild Palace Mail<ICON BETA>+	399	154	10	pl094_0000
@@ -1044,7 +1044,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	497	Lumu Layered Chest	447	0	4	pl024_0000
 1	Body	498	Passionate Body<ICON ALPHA>+	448	156	9	pl125_0000
 1	Body	499	Rathian<ICON ALPHA>Layered Chest	449	0	4	pl021_0000
-1	Body	500	Unavailable	450	0	0	None
+1	Body	500	Demonlord Cloak<ICON ALPHA>+	450	162	10	pl126_0000
 1	Body	501	Rathian<ICON BETA>Layered Chest	451	0	4	pl021_0010
 1	Body	502	Oolong Vest<ICON ALPHA>+	452	120	8	pl127_0000
 1	Body	503	Radobaan<ICON ALPHA>Layered Chest	453	0	5	pl028_0000
@@ -1052,7 +1052,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	505	Radobaan<ICON BETA>Layered Chest	455	0	5	pl028_0010
 1	Body	506	Layered Rose Chest	456	0	9	pl124_0000
 1	Body	507	Passionate Layered Chest	457	0	9	pl125_0000
-1	Body	508	Unavailable	458	0	0	None
+1	Body	508	Demonlord Layered Chest	458	0	10	pl126_0000
 1	Body	509	Oolong Layered Chest	459	0	8	pl127_0000
 1	Body	510	Astral Layered Chest	460	0	8	pl128_0000
 1	Body	511	High Metal Layered Chest	461	0	5	pl025_0000
@@ -1065,19 +1065,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	522	Silver Knight Layered Chest	472	0	6	pl123_0000
 1	Body	523	HARDUMMY	473	132	11	pl068_0010
 1	Body	524	Tentacle Cloak<ICON GAMMA>+	474	176	11	pl086_0020
-1	Body	525	HARDUMMY	475	0	7	pl072_0000
-1	Body	526	HARDUMMY	476	170	11	pl072_0001
-1	Body	527	Unavailable	477	0	0	None
+1	Body	525	Azure Starlord Layered Chest	475	0	7	pl072_0000
+1	Body	526	Azure Age Haori<ICON ALPHA>+	476	170	11	pl072_0001
+1	Body	527	Rimeguard Mail<ICON GAMMA>+	477	180	11	pl085_0020
 1	Body	528	Frostfang Mail<ICON ALPHA>+	478	162	10	pl089_0500
 1	Body	529	Frostfang Mail<ICON BETA>+	479	162	10	pl089_0510
-1	Body	530	Unavailable	480	0	0	None
-1	Body	531	Unavailable	481	0	0	None
+1	Body	530	Dragonhide<ICON ALPHA>+	480	180	11	pl129_0000
+1	Body	531	Dragonhide<ICON BETA>+	481	180	11	pl129_0010
 1	Body	532	HARDUMMY	482	160	11	pl068_0020
 1	Body	533	Unavailable	483	0	0	None
 1	Body	534	Leon's Body<ICON ALPHA>+	484	150	11	pl130_0000
 1	Body	535	Claire's Body<ICON ALPHA>+	485	150	11	pl131_0000
-1	Body	536	Unavailable	486	0	0	None
-1	Body	537	Unavailable	487	0	0	None
+1	Body	536	Leon+ Layered Chest	486	0	11	pl130_0000
+1	Body	537	Claire+ Layered Chest	487	0	11	pl131_0000
 1	Body	539	Barnos Layered Chest	489	0	4	pl016_0000
 1	Body	540	Dodogama Layered Chest	490	0	4	pl039_0000
 1	Body	541	Ingot Layered Chest	491	0	5	pl031_0000
@@ -1134,127 +1134,127 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	592	Kulve<ICON ALPHA>Layered Chest	542	0	7	pl049_0000
 1	Body	593	Kulve<ICON BETA>Layered Chest	543	0	7	pl049_0010
 1	Body	594	Kulve<ICON GAMMA>Layered Chest	544	0	7	pl049_0020
-1	Body	595	Unavailable	546	0	0	None
-1	Body	596	Unavailable	547	0	0	None
-1	Body	598	Unavailable	549	0	0	None
-1	Body	599	Unavailable	550	0	0	None
-1	Body	600	Unavailable	551	0	0	None
-1	Body	601	Unavailable	552	0	0	None
-1	Body	602	Unavailable	553	0	0	None
-1	Body	603	Unavailable	554	0	0	None
-1	Body	604	Unavailable	555	0	0	None
-1	Body	605	Unavailable	556	0	0	None
-1	Body	606	Unavailable	557	0	0	None
-1	Body	607	Unavailable	558	0	0	None
-1	Body	608	Unavailable	559	0	0	None
-1	Body	609	Unavailable	560	0	0	None
-1	Body	610	Unavailable	561	0	0	None
-1	Body	611	Unavailable	562	0	0	None
-1	Body	612	Unavailable	563	0	0	None
-1	Body	613	Unavailable	564	0	0	None
-1	Body	614	Unavailable	565	0	0	None
-1	Body	615	Unavailable	566	0	0	None
-1	Body	616	Unavailable	567	0	0	None
-1	Body	617	Unavailable	568	0	0	None
-1	Body	618	Unavailable	569	0	0	None
-1	Body	619	Unavailable	570	0	0	None
-1	Body	620	Unavailable	571	0	0	None
-1	Body	621	Unavailable	572	0	0	None
-1	Body	622	Unavailable	573	0	0	None
-1	Body	623	Unavailable	574	0	0	None
+1	Body	595	Vespoid+ Layered Chest	546	0	8	pl007_0001
+1	Body	596	Hornetaur+ Layered Chest	547	0	8	pl017_0001
+1	Body	598	Cortos+ Layered Chest	549	0	8	pl103_0000
+1	Body	599	Jagras+ Layered Chest	550	0	8	pl008_0001
+1	Body	600	Tzitzi+ Layered Chest	551	0	8	pl023_0001
+1	Body	601	Girros+ Layered Chest	552	0	8	pl022_0001
+1	Body	602	Dodogama+ Layered Chest	553	0	8	pl039_0001
+1	Body	603	Kulu+ Layered Chest	554	0	8	pl009_0001
+1	Body	604	Pukei+ Layered Chest	555	0	8	pl010_0001
+1	Body	605	Coral Pukei+ Layered Chest	556	0	8	pl010_0101
+1	Body	606	Barroth+ Layered Chest	557	0	8	pl012_0001
+1	Body	607	Jyura+ Layered Chest	558	0	8	pl011_0001
+1	Body	608	Beo+ Layered Chest	559	0	8	pl110_0000
+1	Body	609	Kadachi+ Layered Chest	560	0	8	pl013_0001
+1	Body	610	Viper Kadachi+ Layered Chest	561	0	8	pl013_0101
+1	Body	611	Banbaro<ICON ALPHA>+ Layered Chest	562	0	8	pl084_0000
+1	Body	612	Banbaro<ICON BETA>+ Layered Chest	563	0	8	pl084_0010
+1	Body	613	Anja<ICON ALPHA>+ Layered Chest	564	0	8	pl020_0001
+1	Body	614	Anja<ICON BETA>+ Layered Chest	565	0	8	pl020_0011
+1	Body	615	Fulgur Anja<ICON ALPHA>+ Layered Chest	566	0	10	pl020_0101
+1	Body	616	Fulgur Anja<ICON BETA>+ Layered Chest	567	0	10	pl020_0111
+1	Body	617	Rathian<ICON ALPHA>+ Layered Chest	568	0	8	pl021_0001
+1	Body	618	Rathian<ICON BETA>+ Layered Chest	569	0	8	pl021_0011
+1	Body	619	Rath Heart<ICON ALPHA>+ Layered Chest	570	0	8	pl021_0101
+1	Body	620	Rath Heart<ICON BETA>+ Layered Chest	571	0	8	pl021_0111
+1	Body	621	Lumu+ Layered Chest	572	0	8	pl024_0001
+1	Body	622	Lumu Phantasm+ Layered Chest	573	0	8	pl024_0101
+1	Body	623	Radobaan+ Layered Chest	574	0	8	pl028_0001
 1	Body	624	Artian Layered Chest	575	0	9	pl091_0000
-1	Body	625	Unavailable	674	0	0	None
-1	Body	626	Unavailable	576	0	0	None
-1	Body	627	Unavailable	577	0	0	None
-1	Body	628	Unavailable	578	0	0	None
-1	Body	629	Unavailable	579	0	0	None
-1	Body	630	Unavailable	580	0	0	None
-1	Body	631	Unavailable	581	0	0	None
-1	Body	632	Unavailable	582	0	0	None
-1	Body	633	Unavailable	583	0	0	None
-1	Body	634	Unavailable	584	0	0	None
-1	Body	635	Unavailable	585	0	0	None
-1	Body	636	Unavailable	586	0	0	None
-1	Body	637	Unavailable	587	0	0	None
-1	Body	638	Unavailable	588	0	0	None
-1	Body	639	Unavailable	589	0	0	None
-1	Body	640	Unavailable	590	0	0	None
-1	Body	641	Unavailable	591	0	0	None
-1	Body	642	Unavailable	592	0	0	None
-1	Body	643	Unavailable	593	0	0	None
-1	Body	644	Unavailable	594	0	0	None
-1	Body	645	Unavailable	595	0	0	None
-1	Body	646	Unavailable	596	0	0	None
-1	Body	647	Unavailable	597	0	0	None
-1	Body	648	Unavailable	598	0	0	None
-1	Body	649	Unavailable	599	0	0	None
-1	Body	650	Unavailable	600	0	0	None
-1	Body	651	Unavailable	601	0	0	None
-1	Body	652	Unavailable	602	0	0	None
-1	Body	653	Unavailable	603	0	0	None
-1	Body	654	Unavailable	604	0	0	None
-1	Body	655	Unavailable	605	0	0	None
-1	Body	656	Unavailable	606	0	0	None
-1	Body	657	Unavailable	607	0	0	None
+1	Body	625	Clockwork<ICON BETA>+ Layered Chest	674	0	9	pl104_0000
+1	Body	626	Barioth<ICON ALPHA>+ Layered Chest	576	0	9	pl089_0000
+1	Body	627	Barioth<ICON BETA>+ Layered Chest	577	0	9	pl089_0010
+1	Body	628	Rathalos<ICON ALPHA>+ Layered Chest	578	0	9	pl033_0001
+1	Body	629	Rathalos<ICON BETA>+ Layered Chest	579	0	9	pl033_0011
+1	Body	630	Rath Soul<ICON ALPHA>+ Layered Chest	580	0	10	pl033_0101
+1	Body	631	Rath Soul<ICON BETA>+ Layered Chest	581	0	10	pl033_0111
+1	Body	632	Diablos<ICON ALPHA>+ Layered Chest	582	0	9	pl034_0001
+1	Body	633	Diablos<ICON BETA>+ Layered Chest	583	0	9	pl034_0011
+1	Body	634	Diablos Nero<ICON ALPHA>+ Layered Chest	584	0	10	pl034_0101
+1	Body	635	Diablos Nero<ICON BETA>+ Layered Chest	585	0	10	pl034_0111
+1	Body	636	Legia<ICON ALPHA>+ Layered Chest	586	0	9	pl027_0001
+1	Body	637	Legia<ICON BETA>+ Layered Chest	587	0	9	pl027_0011
+1	Body	638	Shrieking Legia<ICON ALPHA>+ Layered Chest	588	0	10	pl027_0500
+1	Body	639	Shrieking Legia<ICON BETA>+ Layered Chest	589	0	10	pl027_0510
+1	Body	640	Odogaron<ICON ALPHA>+ Layered Chest	590	0	9	pl029_0001
+1	Body	641	Odogaron<ICON BETA>+ Layered Chest	591	0	9	pl029_0011
+1	Body	642	Death Garon<ICON ALPHA>+ Layered Chest	592	0	10	pl029_0101
+1	Body	643	Death Garon<ICON BETA>+ Layered Chest	593	0	10	pl029_0111
+1	Body	644	Lavasioth+ Layered Chest	594	0	9	pl040_0001
+1	Body	645	Uragaan+ Layered Chest	595	0	9	pl041_0001
+1	Body	646	Nargacuga<ICON ALPHA>+ Layered Chest	596	0	9	pl080_0000
+1	Body	647	Nargacuga<ICON BETA>+ Layered Chest	597	0	9	pl080_0010
+1	Body	648	Glavenus<ICON ALPHA>+ Layered Chest	598	0	9	pl081_0000
+1	Body	649	Glavenus<ICON BETA>+ Layered Chest	599	0	9	pl081_0010
+1	Body	650	Acidic Glavenus<ICON ALPHA>+ Layered Chest	600	0	10	pl081_0100
+1	Body	651	Acidic Glavenus<ICON BETA>+ Layered Chest	601	0	10	pl081_0110
+1	Body	652	Brachydios<ICON ALPHA>+ Layered Chest	602	0	9	pl082_0000
+1	Body	653	Brachydios<ICON BETA>+ Layered Chest	603	0	9	pl082_0010
+1	Body	654	Tigrex<ICON ALPHA>+ Layered Chest	604	0	9	pl083_0000
+1	Body	655	Tigrex<ICON BETA>+ Layered Chest	605	0	9	pl083_0010
+1	Body	656	Rex Roar<ICON ALPHA>+ Layered Chest	606	0	10	pl083_0100
+1	Body	657	Rex Roar<ICON BETA>+ Layered Chest	607	0	10	pl083_0110
 1	Body	658	Black Belt Layered Chest	608	0	10	pl093_0000
-1	Body	659	Unavailable	609	0	0	None
-1	Body	660	Unavailable	610	0	0	None
-1	Body	661	Unavailable	611	0	0	None
-1	Body	662	Unavailable	612	0	0	None
-1	Body	663	Unavailable	613	0	0	None
-1	Body	664	Unavailable	614	0	0	None
-1	Body	665	Unavailable	615	0	0	None
-1	Body	666	Unavailable	616	0	0	None
-1	Body	667	Unavailable	617	0	0	None
-1	Body	668	Unavailable	618	0	0	None
-1	Body	669	Unavailable	619	0	0	None
-1	Body	670	Unavailable	620	0	0	None
-1	Body	671	Unavailable	621	0	0	None
-1	Body	672	Unavailable	622	0	0	None
-1	Body	673	Unavailable	623	0	0	None
-1	Body	674	Unavailable	624	0	0	None
-1	Body	675	Unavailable	625	0	0	None
-1	Body	678	Unavailable	628	0	0	None
-1	Body	679	Unavailable	629	0	0	None
-1	Body	680	Unavailable	630	0	0	None
-1	Body	681	Unavailable	631	0	0	None
-1	Body	682	Unavailable	632	0	0	None
-1	Body	683	Unavailable	633	0	0	None
-1	Body	684	Unavailable	634	0	0	None
-1	Body	685	Unavailable	635	0	0	None
-1	Body	686	Unavailable	636	0	0	None
-1	Body	687	Unavailable	637	0	0	None
-1	Body	688	Unavailable	638	0	0	None
-1	Body	689	Unavailable	639	0	0	None
-1	Body	690	Unavailable	640	0	0	None
-1	Body	691	Unavailable	641	0	0	None
-1	Body	692	Unavailable	642	0	0	None
-1	Body	693	Unavailable	643	0	0	None
-1	Body	694	Unavailable	644	0	0	None
-1	Body	695	Unavailable	645	0	0	None
-1	Body	696	Unavailable	646	0	0	None
-1	Body	697	Unavailable	647	0	0	None
-1	Body	698	Unavailable	648	0	0	None
-1	Body	699	Unavailable	649	0	0	None
-1	Body	700	Unavailable	650	0	0	None
-1	Body	701	Unavailable	651	0	0	None
-1	Body	702	Unavailable	652	0	0	None
-1	Body	703	Unavailable	653	0	0	None
-1	Body	704	Unavailable	654	0	0	None
-1	Body	705	Unavailable	655	0	0	None
-1	Body	706	Unavailable	656	0	0	None
-1	Body	707	Unavailable	657	0	0	None
-1	Body	708	Unavailable	658	0	0	None
-1	Body	709	Unavailable	659	0	0	None
-1	Body	710	Unavailable	660	0	0	None
-1	Body	715	Unavailable	665	0	0	None
-1	Body	716	Unavailable	666	0	0	None
+1	Body	659	Pride<ICON ALPHA>+ Layered Chest	609	0	10	pl042_0500
+1	Body	660	Pride<ICON BETA>+ Layered Chest	610	0	10	pl042_0510
+1	Body	661	Esurient<ICON ALPHA>+ Layered Chest	611	0	10	pl050_0500
+1	Body	662	Esurient<ICON BETA>+ Layered Chest	612	0	10	pl050_0510
+1	Body	663	Rimeguard<ICON ALPHA>+ Layered Chest	613	0	11	pl085_0000
+1	Body	664	Rimeguard<ICON BETA>+ Layered Chest	614	0	11	pl085_0010
+1	Body	665	Fellshroud<ICON ALPHA>+ Layered Chest	615	0	11	pl032_0500
+1	Body	666	Fellshroud<ICON BETA>+ Layered Chest	616	0	11	pl032_0510
+1	Body	667	Teostra<ICON ALPHA>+ Layered Chest	617	0	11	pl046_0001
+1	Body	668	Teostra<ICON BETA>+ Layered Chest	618	0	11	pl046_0011
+1	Body	669	Kushala<ICON ALPHA>+ Layered Chest	619	0	11	pl047_0001
+1	Body	670	Kushala<ICON BETA>+ Layered Chest	620	0	11	pl047_0011
+1	Body	671	Kirin<ICON ALPHA>+ Layered Chest	621	0	11	pl035_0001
+1	Body	672	Kirin<ICON BETA>+ Layered Chest	622	0	11	pl035_0011
+1	Body	673	Tentacle<ICON ALPHA>+ Layered Chest	623	0	11	pl086_0000
+1	Body	674	Tentacle<ICON BETA>+ Layered Chest	624	0	11	pl086_0010
+1	Body	675	Guild Palace+ Layered Chest	625	0	10	pl094_0000
+1	Body	678	Shara<ICON ALPHA>+ Layered Chest	628	0	11	pl088_0000
+1	Body	679	Shara<ICON BETA>+ Layered Chest	629	0	11	pl088_0010
+1	Body	680	Garuga<ICON ALPHA>+ Layered Chest	630	0	10	pl108_0000
+1	Body	681	Garuga<ICON BETA>+ Layered Chest	631	0	10	pl108_0010
+1	Body	682	Zinogre<ICON ALPHA>+ Layered Chest	632	0	10	pl107_0000
+1	Body	683	Zinogre<ICON BETA>+ Layered Chest	633	0	10	pl107_0010
+1	Body	684	Golden Lune<ICON ALPHA>+ Layered Chest	634	0	11	pl021_0200
+1	Body	685	Golden Lune<ICON BETA>+ Layered Chest	635	0	11	pl021_0210
+1	Body	686	Silver Sol<ICON ALPHA>+ Layered Chest	636	0	11	pl033_0200
+1	Body	687	Silver Sol<ICON BETA>+ Layered Chest	637	0	11	pl033_0210
+1	Body	688	Lunastra<ICON ALPHA>+ Layered Chest	638	0	11	pl051_0001
+1	Body	689	Lunastra<ICON BETA>+ Layered Chest	639	0	11	pl051_0011
+1	Body	690	Ruinous<ICON ALPHA>+ Layered Chest	640	0	11	pl030_0500
+1	Body	691	Ruinous<ICON BETA>+ Layered Chest	641	0	11	pl030_0510
+1	Body	692	Guildwork+ Layered Chest	642	0	11	pl092_0000
+1	Body	693	Rajang<ICON ALPHA>+ Layered Chest	643	0	10	pl109_0000
+1	Body	694	Rajang<ICON BETA>+ Layered Chest	644	0	10	pl109_0010
+1	Body	695	Stygian<ICON ALPHA>+ Layered Chest	645	0	10	pl107_0100
+1	Body	696	Stygian<ICON BETA>+ Layered Chest	646	0	10	pl107_0110
+1	Body	697	Safi<ICON ALPHA>+ Layered Chest	647	0	11	pl087_0000
+1	Body	698	Safi<ICON BETA>+ Layered Chest	648	0	11	pl087_0010
+1	Body	699	Furious Rajang<ICON ALPHA>+ Layered Chest	649	0	11	pl109_0500
+1	Body	700	Furious Rajang<ICON BETA>+ Layered Chest	650	0	11	pl109_0510
+1	Body	701	Brachydium<ICON ALPHA>+ Layered Chest	651	0	11	pl082_0500
+1	Body	702	Brachydium<ICON BETA>+ Layered Chest	652	0	11	pl082_0510
+1	Body	703	Frostfang<ICON ALPHA>+ Layered Chest	653	0	10	pl089_0500
+1	Body	704	Frostfang<ICON BETA>+ Layered Chest	654	0	10	pl089_0510
+1	Body	705	Escadora<ICON ALPHA>+ Layered Chest	655	0	11	pl052_0000
+1	Body	706	Escadora<ICON BETA>+ Layered Chest	656	0	11	pl052_0010
+1	Body	707	Dragon<ICON ALPHA>+ Layered Chest	657	0	11	pl129_0000
+1	Body	708	Dragon<ICON BETA>+ Layered Chest	658	0	11	pl129_0010
+1	Body	709	Kulve<ICON ALPHA>+ Layered Chest	659	0	11	pl049_0001
+1	Body	710	Kulve<ICON BETA>+ Layered Chest	660	0	11	pl049_0011
+1	Body	715	Buff Body<ICON ALPHA>+ Layered Chest	665	0	10	pl115_0000
+1	Body	716	Azure Age Layered Chest	666	0	11	pl072_0001
 1	Body	717	Unavailable	667	0	0	None
-1	Body	718	Unavailable	668	0	0	None
-1	Body	719	Unavailable	669	0	0	None
-1	Body	720	Unavailable	670	0	0	None
+1	Body	718	HARDUMMY	668	0	11	pl068_0020
+1	Body	719	Rimeguard<ICON GAMMA>+ Layered Chest	669	0	11	pl085_0020
+1	Body	720	Tentacle<ICON GAMMA>+ Layered Chest	670	0	11	pl086_0020
 1	Body	721	Unavailable	671	0	0	None
-1	Body	722	Unavailable	672	0	0	None
+1	Body	722	Buff Body<ICON GAMMA>+ Layered Chest	672	0	11	pl115_0001
 1	Body	723	Innerwear<ICON ALPHA>Layered Body	673	0	11	pl500_0000
 1	Body	724	Innerwear<ICON BETA>Layered Body	675	0	11	pl501_0000
 1	Body	725	Unavailable	676	0	0	None
@@ -1420,8 +1420,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	146	Orion Layered Arms	150	0	3	pl077_0000
 2	Arm	153	Gala Suit Layered Arms	153	0	3	pl078_0000
 2	Arm	299	HARDUMMY	154	0	7	pl068_0000
-2	Arm	291	HARDUMMY	155	0	7	pl069_0000
-2	Arm	292	HARDUMMY	156	0	7	pl070_0000
+2	Arm	291	Ryu Layered Arms	155	0	7	pl069_0000
+2	Arm	292	Sakura Layered Arms	156	0	7	pl070_0000
 2	Arm	141	Unavailable	177	2	0	pl001_0000
 2	Arm	142	Unavailable	179	2	0	pl001_0000
 2	Arm	143	Unavailable	180	2	0	pl001_0000
@@ -1465,9 +1465,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	223	Zorah Claws<ICON GAMMA>	213	72	7	pl038_0020
 2	Arm	224	Xeno'jiiva Claws<ICON GAMMA>	214	72	7	pl045_0020
 2	Arm	225	HARDUMMY	215	46	4	pl068_0000
-2	Arm	226	HARDUMMY	216	12	1	pl069_0000
-2	Arm	227	HARDUMMY	217	60	6	pl069_0000
-2	Arm	228	HARDUMMY	218	50	5	pl070_0000
+2	Arm	226	Ryu's Arms	216	12	1	pl069_0000
+2	Arm	227	Ryu's Arms<ICON ALPHA>	217	60	6	pl069_0000
+2	Arm	228	Sakura's Arms<ICON ALPHA>	218	50	5	pl070_0000
 2	Arm	229	Azure Starlord Gauntlets<ICON ALPHA>	219	56	6	pl072_0000
 2	Arm	230	Dante's Gloves<ICON ALPHA>	220	64	7	pl071_0000
 2	Arm	231	Empress Vambraces<ICON ALPHA>	221	70	7	pl051_0000
@@ -1613,7 +1613,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	443	Kirin Longarms<ICON BETA>+	393	154	11	pl035_0011
 2	Arm	444	Tentacle Gloves<ICON ALPHA>+	394	158	11	pl086_0000
 2	Arm	445	Tentacle Gloves<ICON BETA>+	395	158	11	pl086_0010
-2	Arm	446	Unavailable	396	0	0	None
+2	Arm	446	Clockwork<ICON ALPHA>+ Layered Arms	396	0	9	pl104_0000
 2	Arm	447	Barroth Layered Arms	397	0	4	pl012_0000
 2	Arm	448	Guild Palace Braces<ICON ALPHA>+	398	154	10	pl094_0000
 2	Arm	449	Guild Palace Braces<ICON BETA>+	399	154	10	pl094_0000
@@ -1661,7 +1661,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	497	Lumu Layered Arms	447	0	4	pl024_0000
 2	Arm	498	Passionate Arms<ICON ALPHA>+	448	156	9	pl125_0000
 2	Arm	499	Rathian<ICON ALPHA>Layered Arms	449	0	4	pl021_0000
-2	Arm	500	Unavailable	450	0	0	None
+2	Arm	500	Demonlord Blackarm<ICON ALPHA>+	450	162	10	pl126_0000
 2	Arm	501	Rathian<ICON BETA>Layered Arms	451	0	4	pl021_0010
 2	Arm	502	Oolong Sleeves<ICON ALPHA>+	452	120	8	pl127_0000
 2	Arm	503	Radobaan<ICON ALPHA>Layered Arms	453	0	5	pl028_0000
@@ -1669,7 +1669,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	505	Radobaan<ICON BETA>Layered Arms	455	0	5	pl028_0010
 2	Arm	506	Layered Rose Arms	456	0	9	pl124_0000
 2	Arm	507	Passionate Layered Arms	457	0	9	pl125_0000
-2	Arm	508	Unavailable	458	0	0	None
+2	Arm	508	Demonlord Layered Arms	458	0	10	pl126_0000
 2	Arm	509	Oolong Layered Arms	459	0	8	pl127_0000
 2	Arm	510	Astral Layered Arms	460	0	8	pl128_0000
 2	Arm	511	High Metal Layered Arms	461	0	5	pl025_0000
@@ -1682,19 +1682,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	522	Silver Knight Layered Arms	472	0	6	pl123_0000
 2	Arm	523	HARDUMMY	473	132	11	pl068_0010
 2	Arm	524	Tentacle Gloves<ICON GAMMA>+	474	176	11	pl086_0020
-2	Arm	525	HARDUMMY	475	0	7	pl072_0000
-2	Arm	526	HARDUMMY	476	170	11	pl072_0001
-2	Arm	527	Unavailable	477	0	0	None
+2	Arm	525	Azure Starlord Layered Arms	475	0	7	pl072_0000
+2	Arm	526	Azure Age Sleeve<ICON ALPHA>+	476	170	11	pl072_0001
+2	Arm	527	Rimeguard Vambraces<ICON GAMMA>+	477	180	11	pl085_0020
 2	Arm	528	Frostfang Vambraces<ICON ALPHA>+	478	162	10	pl089_0500
 2	Arm	529	Frostfang Vambraces<ICON BETA>+	479	162	10	pl089_0510
-2	Arm	530	Unavailable	480	0	0	None
-2	Arm	531	Unavailable	481	0	0	None
+2	Arm	530	Dragonclaws<ICON ALPHA>+	480	180	11	pl129_0000
+2	Arm	531	Dragonclaws<ICON BETA>+	481	180	11	pl129_0010
 2	Arm	532	HARDUMMY	482	160	11	pl068_0020
 2	Arm	533	Unavailable	483	0	0	None
 2	Arm	534	Leon's Arms<ICON ALPHA>+	484	150	11	pl130_0000
 2	Arm	535	Claire's Arms<ICON ALPHA>+	485	150	11	pl131_0000
-2	Arm	536	Unavailable	486	0	0	None
-2	Arm	537	Unavailable	487	0	0	None
+2	Arm	536	Leon+ Layered Arms	486	0	11	pl130_0000
+2	Arm	537	Claire+ Layered Arms	487	0	11	pl131_0000
 2	Arm	540	Dodogama Layered Arms	490	0	4	pl039_0000
 2	Arm	541	Ingot Layered Arms	491	0	5	pl031_0000
 2	Arm	542	Rath Heart<ICON ALPHA>Layered Arms	492	0	5	pl021_0100
@@ -1750,126 +1750,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	592	Kulve<ICON ALPHA>Layered Arms	542	0	7	pl049_0000
 2	Arm	593	Kulve<ICON BETA>Layered Arms	543	0	7	pl049_0010
 2	Arm	594	Kulve<ICON GAMMA>Layered Arms	544	0	7	pl049_0020
-2	Arm	595	Unavailable	546	0	0	None
-2	Arm	596	Unavailable	547	0	0	None
-2	Arm	599	Unavailable	550	0	0	None
-2	Arm	600	Unavailable	551	0	0	None
-2	Arm	601	Unavailable	552	0	0	None
-2	Arm	602	Unavailable	553	0	0	None
-2	Arm	603	Unavailable	554	0	0	None
-2	Arm	604	Unavailable	555	0	0	None
-2	Arm	605	Unavailable	556	0	0	None
-2	Arm	606	Unavailable	557	0	0	None
-2	Arm	607	Unavailable	558	0	0	None
-2	Arm	608	Unavailable	559	0	0	None
-2	Arm	609	Unavailable	560	0	0	None
-2	Arm	610	Unavailable	561	0	0	None
-2	Arm	611	Unavailable	562	0	0	None
-2	Arm	612	Unavailable	563	0	0	None
-2	Arm	613	Unavailable	564	0	0	None
-2	Arm	614	Unavailable	565	0	0	None
-2	Arm	615	Unavailable	566	0	0	None
-2	Arm	616	Unavailable	567	0	0	None
-2	Arm	617	Unavailable	568	0	0	None
-2	Arm	618	Unavailable	569	0	0	None
-2	Arm	619	Unavailable	570	0	0	None
-2	Arm	620	Unavailable	571	0	0	None
-2	Arm	621	Unavailable	572	0	0	None
-2	Arm	622	Unavailable	573	0	0	None
-2	Arm	623	Unavailable	574	0	0	None
+2	Arm	595	Vespoid+ Layered Arms	546	0	8	pl007_0001
+2	Arm	596	Hornetaur+ Layered Arms	547	0	8	pl017_0001
+2	Arm	599	Jagras+ Layered Arms	550	0	8	pl008_0001
+2	Arm	600	Tzitzi+ Layered Arms	551	0	8	pl023_0001
+2	Arm	601	Girros+ Layered Arms	552	0	8	pl022_0001
+2	Arm	602	Dodogama+ Layered Arms	553	0	8	pl039_0001
+2	Arm	603	Kulu+ Layered Arms	554	0	8	pl009_0001
+2	Arm	604	Pukei+ Layered Arms	555	0	8	pl010_0001
+2	Arm	605	Coral Pukei+ Layered Arms	556	0	8	pl010_0101
+2	Arm	606	Barroth+ Layered Arms	557	0	8	pl012_0001
+2	Arm	607	Jyura+ Layered Arms	558	0	8	pl011_0001
+2	Arm	608	Beo+ Layered Arms	559	0	8	pl110_0000
+2	Arm	609	Kadachi+ Layered Arms	560	0	8	pl013_0001
+2	Arm	610	Viper Kadachi+ Layered Arms	561	0	8	pl013_0101
+2	Arm	611	Banbaro<ICON ALPHA>+ Layered Arms	562	0	8	pl084_0000
+2	Arm	612	Banbaro<ICON BETA>+ Layered Arms	563	0	8	pl084_0010
+2	Arm	613	Anja<ICON ALPHA>+ Layered Arms	564	0	8	pl020_0001
+2	Arm	614	Anja<ICON BETA>+ Layered Arms	565	0	8	pl020_0011
+2	Arm	615	Fulgur Anja<ICON ALPHA>+ Layered Arms	566	0	10	pl020_0101
+2	Arm	616	Fulgur Anja<ICON BETA>+ Layered Arms	567	0	10	pl020_0111
+2	Arm	617	Rathian<ICON ALPHA>+ Layered Arms	568	0	8	pl021_0001
+2	Arm	618	Rathian<ICON BETA>+ Layered Arms	569	0	8	pl021_0011
+2	Arm	619	Rath Heart<ICON ALPHA>+ Layered Arms	570	0	8	pl021_0101
+2	Arm	620	Rath Heart<ICON BETA>+ Layered Arms	571	0	8	pl021_0111
+2	Arm	621	Lumu+ Layered Arms	572	0	8	pl024_0001
+2	Arm	622	Lumu Phantasm+ Layered Arms	573	0	8	pl024_0101
+2	Arm	623	Radobaan+ Layered Arms	574	0	8	pl028_0001
 2	Arm	624	Artian Layered Arms	575	0	9	pl091_0000
-2	Arm	625	Unavailable	674	0	0	None
-2	Arm	626	Unavailable	576	0	0	None
-2	Arm	627	Unavailable	577	0	0	None
-2	Arm	628	Unavailable	578	0	0	None
-2	Arm	629	Unavailable	579	0	0	None
-2	Arm	630	Unavailable	580	0	0	None
-2	Arm	631	Unavailable	581	0	0	None
-2	Arm	632	Unavailable	582	0	0	None
-2	Arm	633	Unavailable	583	0	0	None
-2	Arm	634	Unavailable	584	0	0	None
-2	Arm	635	Unavailable	585	0	0	None
-2	Arm	636	Unavailable	586	0	0	None
-2	Arm	637	Unavailable	587	0	0	None
-2	Arm	638	Unavailable	588	0	0	None
-2	Arm	639	Unavailable	589	0	0	None
-2	Arm	640	Unavailable	590	0	0	None
-2	Arm	641	Unavailable	591	0	0	None
-2	Arm	642	Unavailable	592	0	0	None
-2	Arm	643	Unavailable	593	0	0	None
-2	Arm	644	Unavailable	594	0	0	None
-2	Arm	645	Unavailable	595	0	0	None
-2	Arm	646	Unavailable	596	0	0	None
-2	Arm	647	Unavailable	597	0	0	None
-2	Arm	648	Unavailable	598	0	0	None
-2	Arm	649	Unavailable	599	0	0	None
-2	Arm	650	Unavailable	600	0	0	None
-2	Arm	651	Unavailable	601	0	0	None
-2	Arm	652	Unavailable	602	0	0	None
-2	Arm	653	Unavailable	603	0	0	None
-2	Arm	654	Unavailable	604	0	0	None
-2	Arm	655	Unavailable	605	0	0	None
-2	Arm	656	Unavailable	606	0	0	None
-2	Arm	657	Unavailable	607	0	0	None
+2	Arm	625	Clockwork<ICON BETA>+ Layered Arms	674	0	9	pl104_0000
+2	Arm	626	Barioth<ICON ALPHA>+ Layered Arms	576	0	9	pl089_0000
+2	Arm	627	Barioth<ICON BETA>+ Layered Arms	577	0	9	pl089_0010
+2	Arm	628	Rathalos<ICON ALPHA>+ Layered Arms	578	0	9	pl033_0001
+2	Arm	629	Rathalos<ICON BETA>+ Layered Arms	579	0	9	pl033_0011
+2	Arm	630	Rath Soul<ICON ALPHA>+ Layered Arms	580	0	10	pl033_0101
+2	Arm	631	Rath Soul<ICON BETA>+ Layered Arms	581	0	10	pl033_0111
+2	Arm	632	Diablos<ICON ALPHA>+ Layered Arms	582	0	9	pl034_0001
+2	Arm	633	Diablos<ICON BETA>+ Layered Arms	583	0	9	pl034_0011
+2	Arm	634	Diablos Nero<ICON ALPHA>+ Layered Arms	584	0	10	pl034_0101
+2	Arm	635	Diablos Nero<ICON BETA>+ Layered Arms	585	0	10	pl034_0111
+2	Arm	636	Legia<ICON ALPHA>+ Layered Arms	586	0	9	pl027_0001
+2	Arm	637	Legia<ICON BETA>+ Layered Arms	587	0	9	pl027_0011
+2	Arm	638	Shrieking Legia<ICON ALPHA>+ Layered Arms	588	0	10	pl027_0500
+2	Arm	639	Shrieking Legia<ICON BETA>+ Layered Arms	589	0	10	pl027_0510
+2	Arm	640	Odogaron<ICON ALPHA>+ Layered Arms	590	0	9	pl029_0001
+2	Arm	641	Odogaron<ICON BETA>+ Layered Arms	591	0	9	pl029_0011
+2	Arm	642	Death Garon<ICON ALPHA>+ Layered Arms	592	0	10	pl029_0101
+2	Arm	643	Death Garon<ICON BETA>+ Layered Arms	593	0	10	pl029_0111
+2	Arm	644	Lavasioth+ Layered Arms	594	0	9	pl040_0001
+2	Arm	645	Uragaan+ Layered Arms	595	0	9	pl041_0001
+2	Arm	646	Nargacuga<ICON ALPHA>+ Layered Arms	596	0	9	pl080_0000
+2	Arm	647	Nargacuga<ICON BETA>+ Layered Arms	597	0	9	pl080_0010
+2	Arm	648	Glavenus<ICON ALPHA>+ Layered Arms	598	0	9	pl081_0000
+2	Arm	649	Glavenus<ICON BETA>+ Layered Arms	599	0	9	pl081_0010
+2	Arm	650	Acidic Glavenus<ICON ALPHA>+ Layered Arms	600	0	10	pl081_0100
+2	Arm	651	Acidic Glavenus<ICON BETA>+ Layered Arms	601	0	10	pl081_0110
+2	Arm	652	Brachydios<ICON ALPHA>+ Layered Arms	602	0	9	pl082_0000
+2	Arm	653	Brachydios<ICON BETA>+ Layered Arms	603	0	9	pl082_0010
+2	Arm	654	Tigrex<ICON ALPHA>+ Layered Arms	604	0	9	pl083_0000
+2	Arm	655	Tigrex<ICON BETA>+ Layered Arms	605	0	9	pl083_0010
+2	Arm	656	Rex Roar<ICON ALPHA>+ Layered Arms	606	0	10	pl083_0100
+2	Arm	657	Rex Roar<ICON BETA>+ Layered Arms	607	0	10	pl083_0110
 2	Arm	658	Black Belt Layered Arms	608	0	10	pl093_0000
-2	Arm	659	Unavailable	609	0	0	None
-2	Arm	660	Unavailable	610	0	0	None
-2	Arm	661	Unavailable	611	0	0	None
-2	Arm	662	Unavailable	612	0	0	None
-2	Arm	663	Unavailable	613	0	0	None
-2	Arm	664	Unavailable	614	0	0	None
-2	Arm	665	Unavailable	615	0	0	None
-2	Arm	666	Unavailable	616	0	0	None
-2	Arm	667	Unavailable	617	0	0	None
-2	Arm	668	Unavailable	618	0	0	None
-2	Arm	669	Unavailable	619	0	0	None
-2	Arm	670	Unavailable	620	0	0	None
-2	Arm	671	Unavailable	621	0	0	None
-2	Arm	672	Unavailable	622	0	0	None
-2	Arm	673	Unavailable	623	0	0	None
-2	Arm	674	Unavailable	624	0	0	None
-2	Arm	675	Unavailable	625	0	0	None
-2	Arm	678	Unavailable	628	0	0	None
-2	Arm	679	Unavailable	629	0	0	None
-2	Arm	680	Unavailable	630	0	0	None
-2	Arm	681	Unavailable	631	0	0	None
-2	Arm	682	Unavailable	632	0	0	None
-2	Arm	683	Unavailable	633	0	0	None
-2	Arm	684	Unavailable	634	0	0	None
-2	Arm	685	Unavailable	635	0	0	None
-2	Arm	686	Unavailable	636	0	0	None
-2	Arm	687	Unavailable	637	0	0	None
-2	Arm	688	Unavailable	638	0	0	None
-2	Arm	689	Unavailable	639	0	0	None
-2	Arm	690	Unavailable	640	0	0	None
-2	Arm	691	Unavailable	641	0	0	None
-2	Arm	692	Unavailable	642	0	0	None
-2	Arm	693	Unavailable	643	0	0	None
-2	Arm	694	Unavailable	644	0	0	None
-2	Arm	695	Unavailable	645	0	0	None
-2	Arm	696	Unavailable	646	0	0	None
-2	Arm	697	Unavailable	647	0	0	None
-2	Arm	698	Unavailable	648	0	0	None
-2	Arm	699	Unavailable	649	0	0	None
-2	Arm	700	Unavailable	650	0	0	None
-2	Arm	701	Unavailable	651	0	0	None
-2	Arm	702	Unavailable	652	0	0	None
-2	Arm	703	Unavailable	653	0	0	None
-2	Arm	704	Unavailable	654	0	0	None
-2	Arm	705	Unavailable	655	0	0	None
-2	Arm	706	Unavailable	656	0	0	None
-2	Arm	707	Unavailable	657	0	0	None
-2	Arm	708	Unavailable	658	0	0	None
-2	Arm	709	Unavailable	659	0	0	None
-2	Arm	710	Unavailable	660	0	0	None
-2	Arm	715	Unavailable	665	0	0	None
-2	Arm	716	Unavailable	666	0	0	None
+2	Arm	659	Pride<ICON ALPHA>+ Layered Arms	609	0	10	pl042_0500
+2	Arm	660	Pride<ICON BETA>+ Layered Arms	610	0	10	pl042_0510
+2	Arm	661	Esurient<ICON ALPHA>+ Layered Arms	611	0	10	pl050_0500
+2	Arm	662	Esurient<ICON BETA>+ Layered Arms	612	0	10	pl050_0510
+2	Arm	663	Rimeguard<ICON ALPHA>+ Layered Arms	613	0	11	pl085_0000
+2	Arm	664	Rimeguard<ICON BETA>+ Layered Arms	614	0	11	pl085_0010
+2	Arm	665	Fellshroud<ICON ALPHA>+ Layered Arms	615	0	11	pl032_0500
+2	Arm	666	Fellshroud<ICON BETA>+ Layered Arms	616	0	11	pl032_0510
+2	Arm	667	Teostra<ICON ALPHA>+ Layered Arms	617	0	11	pl046_0001
+2	Arm	668	Teostra<ICON BETA>+ Layered Arms	618	0	11	pl046_0011
+2	Arm	669	Kushala<ICON ALPHA>+ Layered Arms	619	0	11	pl047_0001
+2	Arm	670	Kushala<ICON BETA>+ Layered Arms	620	0	11	pl047_0011
+2	Arm	671	Kirin<ICON ALPHA>+ Layered Arms	621	0	11	pl035_0001
+2	Arm	672	Kirin<ICON BETA>+ Layered Arms	622	0	11	pl035_0011
+2	Arm	673	Tentacle<ICON ALPHA>+ Layered Arms	623	0	11	pl086_0000
+2	Arm	674	Tentacle<ICON BETA>+ Layered Arms	624	0	11	pl086_0010
+2	Arm	675	Guild Palace+ Layered Arms	625	0	10	pl094_0000
+2	Arm	678	Shara<ICON ALPHA>+ Layered Arms	628	0	11	pl088_0000
+2	Arm	679	Shara<ICON BETA>+ Layered Arms	629	0	11	pl088_0010
+2	Arm	680	Garuga<ICON ALPHA>+ Layered Arms	630	0	10	pl108_0000
+2	Arm	681	Garuga<ICON BETA>+ Layered Arms	631	0	10	pl108_0010
+2	Arm	682	Zinogre<ICON ALPHA>+ Layered Arms	632	0	10	pl107_0000
+2	Arm	683	Zinogre<ICON BETA>+ Layered Arms	633	0	10	pl107_0010
+2	Arm	684	Golden Lune<ICON ALPHA>+ Layered Arms	634	0	11	pl021_0200
+2	Arm	685	Golden Lune<ICON BETA>+ Layered Arms	635	0	11	pl021_0210
+2	Arm	686	Silver Sol<ICON ALPHA>+ Layered Arms	636	0	11	pl033_0200
+2	Arm	687	Silver Sol<ICON BETA>+ Layered Arms	637	0	11	pl033_0210
+2	Arm	688	Lunastra<ICON ALPHA>+ Layered Arms	638	0	11	pl051_0001
+2	Arm	689	Lunastra<ICON BETA>+ Layered Arms	639	0	11	pl051_0011
+2	Arm	690	Ruinous<ICON ALPHA>+ Layered Arms	640	0	11	pl030_0500
+2	Arm	691	Ruinous<ICON BETA>+ Layered Arms	641	0	11	pl030_0510
+2	Arm	692	Guildwork+ Layered Arms	642	0	11	pl092_0000
+2	Arm	693	Rajang<ICON ALPHA>+ Layered Arms	643	0	10	pl109_0000
+2	Arm	694	Rajang<ICON BETA>+ Layered Arms	644	0	10	pl109_0010
+2	Arm	695	Stygian<ICON ALPHA>+ Layered Arms	645	0	10	pl107_0100
+2	Arm	696	Stygian<ICON BETA>+ Layered Arms	646	0	10	pl107_0110
+2	Arm	697	Safi<ICON ALPHA>+ Layered Arms	647	0	11	pl087_0000
+2	Arm	698	Safi<ICON BETA>+ Layered Arms	648	0	11	pl087_0010
+2	Arm	699	Furious Rajang<ICON ALPHA>+ Layered Arms	649	0	11	pl109_0500
+2	Arm	700	Furious Rajang<ICON BETA>+ Layered Arms	650	0	11	pl109_0510
+2	Arm	701	Brachydium<ICON ALPHA>+ Layered Arms	651	0	11	pl082_0500
+2	Arm	702	Brachydium<ICON BETA>+ Layered Arms	652	0	11	pl082_0510
+2	Arm	703	Frostfang<ICON ALPHA>+ Layered Arms	653	0	10	pl089_0500
+2	Arm	704	Frostfang<ICON BETA>+ Layered Arms	654	0	10	pl089_0510
+2	Arm	705	Escadora<ICON ALPHA>+ Layered Arms	655	0	11	pl052_0000
+2	Arm	706	Escadora<ICON BETA>+ Layered Arms	656	0	11	pl052_0010
+2	Arm	707	Dragon<ICON ALPHA>+ Layered Arms	657	0	11	pl129_0000
+2	Arm	708	Dragon<ICON BETA>+ Layered Arms	658	0	11	pl129_0010
+2	Arm	709	Kulve<ICON ALPHA>+ Layered Arms	659	0	11	pl049_0001
+2	Arm	710	Kulve<ICON BETA>+ Layered Arms	660	0	11	pl049_0011
+2	Arm	715	Buff Body<ICON ALPHA>+ Layered Arms	665	0	10	pl115_0000
+2	Arm	716	Azure Age Layered Arms	666	0	11	pl072_0001
 2	Arm	717	Unavailable	667	0	0	None
-2	Arm	718	Unavailable	668	0	0	None
-2	Arm	719	Unavailable	669	0	0	None
-2	Arm	720	Unavailable	670	0	0	None
+2	Arm	718	HARDUMMY	668	0	11	pl068_0020
+2	Arm	719	Rimeguard<ICON GAMMA>+ Layered Arms	669	0	11	pl085_0020
+2	Arm	720	Tentacle<ICON GAMMA>+ Layered Arms	670	0	11	pl086_0020
 2	Arm	721	Unavailable	671	0	0	None
-2	Arm	722	Unavailable	672	0	0	None
+2	Arm	722	Buff Body<ICON GAMMA>+ Layered Arms	672	0	11	pl115_0001
 2	Arm	723	Innerwear<ICON ALPHA>Layered Arms	673	0	11	pl500_0000
 2	Arm	724	Innerwear<ICON BETA>Layered Arms	675	0	11	pl501_0000
 2	Arm	725	Unavailable	676	0	0	None
@@ -2032,8 +2032,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	146	Orion Layered Coat	150	0	3	pl077_0000
 3	Waist	153	Gala Suit Layered Torso	153	0	3	pl078_0000
 3	Waist	299	HARDUMMY	154	0	7	pl068_0000
-3	Waist	291	HARDUMMY	155	0	7	pl069_0000
-3	Waist	292	HARDUMMY	156	0	7	pl070_0000
+3	Waist	291	Ryu Layered Torso	155	0	7	pl069_0000
+3	Waist	292	Sakura Layered Torso	156	0	7	pl070_0000
 3	Waist	141	Unavailable	177	2	0	pl001_0000
 3	Waist	142	Unavailable	179	2	0	pl001_0000
 3	Waist	143	Unavailable	180	2	0	pl001_0000
@@ -2077,9 +2077,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	224	Zorah Spine<ICON GAMMA>	213	72	7	pl038_0020
 3	Waist	226	Xeno'jiiva Spine<ICON GAMMA>	214	72	7	pl045_0020
 3	Waist	227	HARDUMMY	215	46	4	pl068_0000
-3	Waist	228	HARDUMMY	216	12	1	pl069_0000
-3	Waist	229	HARDUMMY	217	60	6	pl069_0000
-3	Waist	230	HARDUMMY	218	50	5	pl070_0000
+3	Waist	228	Ryu's Torso	216	12	1	pl069_0000
+3	Waist	229	Ryu's Torso<ICON ALPHA>	217	60	6	pl069_0000
+3	Waist	230	Sakura's Skirt<ICON ALPHA>	218	50	5	pl070_0000
 3	Waist	231	Azure Starlord Tassets<ICON ALPHA>	219	56	6	pl072_0000
 3	Waist	232	Dante's Belt<ICON ALPHA>	220	64	7	pl071_0000
 3	Waist	233	Empress Coil<ICON ALPHA>	221	70	7	pl051_0000
@@ -2222,7 +2222,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	443	Kirin Hoop<ICON BETA>+	393	154	11	pl035_0011
 3	Waist	444	Tentacle Coil<ICON ALPHA>+	394	158	11	pl086_0000
 3	Waist	445	Tentacle Coil<ICON BETA>+	395	158	11	pl086_0010
-3	Waist	446	Unavailable	396	0	0	None
+3	Waist	446	Clockwork<ICON ALPHA>+ Layered Torso	396	0	9	pl104_0000
 3	Waist	447	Barroth Layered Torso	397	0	4	pl012_0000
 3	Waist	448	Guild Palace Coil<ICON ALPHA>+	398	154	10	pl094_0000
 3	Waist	449	Guild Palace Coil<ICON BETA>+	399	154	10	pl094_0000
@@ -2270,7 +2270,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	497	Lumu Layered Torso	447	0	4	pl024_0000
 3	Waist	498	Passionate Belt<ICON ALPHA>+	448	156	9	pl125_0000
 3	Waist	499	Rathian<ICON ALPHA>Layered Torso	449	0	4	pl021_0000
-3	Waist	500	Unavailable	450	0	0	None
+3	Waist	500	Demonlord Leather Belt<ICON ALPHA>+	450	162	10	pl126_0000
 3	Waist	501	Rathian<ICON BETA>Layered Torso	451	0	4	pl021_0010
 3	Waist	502	Oolong Waist<ICON ALPHA>+	452	120	8	pl127_0000
 3	Waist	503	Radobaan<ICON ALPHA>Layered Torso	453	0	5	pl028_0000
@@ -2278,7 +2278,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	505	Radobaan<ICON BETA>Layered Torso	455	0	5	pl028_0010
 3	Waist	506	Layered Rose Torso	456	0	9	pl124_0000
 3	Waist	507	Passionate Layered Torso	457	0	9	pl125_0000
-3	Waist	508	Unavailable	458	0	0	None
+3	Waist	508	Demonlord Layered Torso	458	0	10	pl126_0000
 3	Waist	509	Oolong Layered Torso	459	0	8	pl127_0000
 3	Waist	510	Astral Layered Torso	460	0	8	pl128_0000
 3	Waist	511	High Metal Layered Torso	461	0	5	pl025_0000
@@ -2291,19 +2291,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	522	Silver Knight Layered Torso	472	0	6	pl123_0000
 3	Waist	523	HARDUMMY	473	132	11	pl068_0010
 3	Waist	524	Tentacle Coil<ICON GAMMA>+	474	176	11	pl086_0020
-3	Waist	525	HARDUMMY	475	0	7	pl072_0000
-3	Waist	526	HARDUMMY	476	170	11	pl072_0001
-3	Waist	527	Unavailable	477	0	0	None
+3	Waist	525	Azure Starlord Layered Torso	475	0	7	pl072_0000
+3	Waist	526	Azure Age Obi<ICON ALPHA>+	476	170	11	pl072_0001
+3	Waist	527	Rimeguard Coil<ICON GAMMA>+	477	180	11	pl085_0020
 3	Waist	528	Frostfang Coil<ICON ALPHA>+	478	162	10	pl089_0500
 3	Waist	529	Frostfang Coil<ICON BETA>+	479	162	10	pl089_0510
-3	Waist	530	Unavailable	480	0	0	None
-3	Waist	531	Unavailable	481	0	0	None
+3	Waist	530	Dragonbarbs<ICON ALPHA>+	480	180	11	pl129_0000
+3	Waist	531	Dragonbarbs<ICON BETA>+	481	180	11	pl129_0010
 3	Waist	532	HARDUMMY	482	160	11	pl068_0020
 3	Waist	533	Unavailable	483	0	0	None
 3	Waist	534	Leon's Torso<ICON ALPHA>+	484	150	11	pl130_0000
 3	Waist	535	Claire's Torso<ICON ALPHA>+	485	150	11	pl131_0000
-3	Waist	536	Unavailable	486	0	0	None
-3	Waist	537	Unavailable	487	0	0	None
+3	Waist	536	Leon+ Layered Torso	486	0	11	pl130_0000
+3	Waist	537	Claire+ Layered Torso	487	0	11	pl131_0000
 3	Waist	540	Dodogama Layered Torso	490	0	4	pl039_0000
 3	Waist	541	Ingot Layered Torso	491	0	5	pl031_0000
 3	Waist	542	Rath Heart<ICON ALPHA>Layered Torso	492	0	5	pl021_0100
@@ -2359,126 +2359,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	592	Kulve<ICON ALPHA>Layered Torso	542	0	7	pl049_0000
 3	Waist	593	Kulve<ICON BETA>Layered Torso	543	0	7	pl049_0010
 3	Waist	594	Kulve<ICON GAMMA>Layered Torso	544	0	7	pl049_0020
-3	Waist	595	Unavailable	546	0	0	None
-3	Waist	596	Unavailable	547	0	0	None
-3	Waist	599	Unavailable	550	0	0	None
-3	Waist	600	Unavailable	551	0	0	None
-3	Waist	601	Unavailable	552	0	0	None
-3	Waist	602	Unavailable	553	0	0	None
-3	Waist	603	Unavailable	554	0	0	None
-3	Waist	604	Unavailable	555	0	0	None
-3	Waist	605	Unavailable	556	0	0	None
-3	Waist	606	Unavailable	557	0	0	None
-3	Waist	607	Unavailable	558	0	0	None
-3	Waist	608	Unavailable	559	0	0	None
-3	Waist	609	Unavailable	560	0	0	None
-3	Waist	610	Unavailable	561	0	0	None
-3	Waist	611	Unavailable	562	0	0	None
-3	Waist	612	Unavailable	563	0	0	None
-3	Waist	613	Unavailable	564	0	0	None
-3	Waist	614	Unavailable	565	0	0	None
-3	Waist	615	Unavailable	566	0	0	None
-3	Waist	616	Unavailable	567	0	0	None
-3	Waist	617	Unavailable	568	0	0	None
-3	Waist	618	Unavailable	569	0	0	None
-3	Waist	619	Unavailable	570	0	0	None
-3	Waist	620	Unavailable	571	0	0	None
-3	Waist	621	Unavailable	572	0	0	None
-3	Waist	622	Unavailable	573	0	0	None
-3	Waist	623	Unavailable	574	0	0	None
+3	Waist	595	Vespoid+ Layered Torso	546	0	8	pl007_0001
+3	Waist	596	Hornetaur+ Layered Torso	547	0	8	pl017_0001
+3	Waist	599	Jagras+ Layered Torso	550	0	8	pl008_0001
+3	Waist	600	Tzitzi+ Layered Torso	551	0	8	pl023_0001
+3	Waist	601	Girros+ Layered Torso	552	0	8	pl022_0001
+3	Waist	602	Dodogama+ Layered Torso	553	0	8	pl039_0001
+3	Waist	603	Kulu+ Layered Torso	554	0	8	pl009_0001
+3	Waist	604	Pukei+ Layered Torso	555	0	8	pl010_0001
+3	Waist	605	Coral Pukei+ Layered Torso	556	0	8	pl010_0101
+3	Waist	606	Barroth+ Layered Torso	557	0	8	pl012_0001
+3	Waist	607	Jyura+ Layered Torso	558	0	8	pl011_0001
+3	Waist	608	Beo+ Layered Torso	559	0	8	pl110_0000
+3	Waist	609	Kadachi+ Layered Torso	560	0	8	pl013_0001
+3	Waist	610	Viper Kadachi+ Layered Torso	561	0	8	pl013_0101
+3	Waist	611	Banbaro<ICON ALPHA>+ Layered Torso	562	0	8	pl084_0000
+3	Waist	612	Banbaro<ICON BETA>+ Layered Torso	563	0	8	pl084_0010
+3	Waist	613	Anja<ICON ALPHA>+ Layered Torso	564	0	8	pl020_0001
+3	Waist	614	Anja<ICON BETA>+ Layered Torso	565	0	8	pl020_0011
+3	Waist	615	Fulgur Anja<ICON ALPHA>+ Layered Torso	566	0	10	pl020_0101
+3	Waist	616	Fulgur Anja<ICON BETA>+ Layered Torso	567	0	10	pl020_0111
+3	Waist	617	Rathian<ICON ALPHA>+ Layered Torso	568	0	8	pl021_0001
+3	Waist	618	Rathian<ICON BETA>+ Layered Torso	569	0	8	pl021_0011
+3	Waist	619	Rath Heart<ICON ALPHA>+ Layered Torso	570	0	8	pl021_0101
+3	Waist	620	Rath Heart<ICON BETA>+ Layered Torso	571	0	8	pl021_0111
+3	Waist	621	Lumu+ Layered Torso	572	0	8	pl024_0001
+3	Waist	622	Lumu Phantasm+ Layered Torso	573	0	8	pl024_0101
+3	Waist	623	Radobaan+ Layered Torso	574	0	8	pl028_0001
 3	Waist	624	Artian Layered Torso	575	0	9	pl091_0000
-3	Waist	625	Unavailable	674	0	0	None
-3	Waist	626	Unavailable	576	0	0	None
-3	Waist	627	Unavailable	577	0	0	None
-3	Waist	628	Unavailable	578	0	0	None
-3	Waist	629	Unavailable	579	0	0	None
-3	Waist	630	Unavailable	580	0	0	None
-3	Waist	631	Unavailable	581	0	0	None
-3	Waist	632	Unavailable	582	0	0	None
-3	Waist	633	Unavailable	583	0	0	None
-3	Waist	634	Unavailable	584	0	0	None
-3	Waist	635	Unavailable	585	0	0	None
-3	Waist	636	Unavailable	586	0	0	None
-3	Waist	637	Unavailable	587	0	0	None
-3	Waist	638	Unavailable	588	0	0	None
-3	Waist	639	Unavailable	589	0	0	None
-3	Waist	640	Unavailable	590	0	0	None
-3	Waist	641	Unavailable	591	0	0	None
-3	Waist	642	Unavailable	592	0	0	None
-3	Waist	643	Unavailable	593	0	0	None
-3	Waist	644	Unavailable	594	0	0	None
-3	Waist	645	Unavailable	595	0	0	None
-3	Waist	646	Unavailable	596	0	0	None
-3	Waist	647	Unavailable	597	0	0	None
-3	Waist	648	Unavailable	598	0	0	None
-3	Waist	649	Unavailable	599	0	0	None
-3	Waist	650	Unavailable	600	0	0	None
-3	Waist	651	Unavailable	601	0	0	None
-3	Waist	652	Unavailable	602	0	0	None
-3	Waist	653	Unavailable	603	0	0	None
-3	Waist	654	Unavailable	604	0	0	None
-3	Waist	655	Unavailable	605	0	0	None
-3	Waist	656	Unavailable	606	0	0	None
-3	Waist	657	Unavailable	607	0	0	None
+3	Waist	625	Clockwork<ICON BETA>+ Layered Torso	674	0	9	pl104_0000
+3	Waist	626	Barioth<ICON ALPHA>+ Layered Torso	576	0	9	pl089_0000
+3	Waist	627	Barioth<ICON BETA>+ Layered Torso	577	0	9	pl089_0010
+3	Waist	628	Rathalos<ICON ALPHA>+ Layered Torso	578	0	9	pl033_0001
+3	Waist	629	Rathalos<ICON BETA>+ Layered Torso	579	0	9	pl033_0011
+3	Waist	630	Rath Soul<ICON ALPHA>+ Layered Torso	580	0	10	pl033_0101
+3	Waist	631	Rath Soul<ICON BETA>+ Layered Torso	581	0	10	pl033_0111
+3	Waist	632	Diablos<ICON ALPHA>+ Layered Torso	582	0	9	pl034_0001
+3	Waist	633	Diablos<ICON BETA>+ Layered Torso	583	0	9	pl034_0011
+3	Waist	634	Diablos Nero<ICON ALPHA>+ Layered Torso	584	0	10	pl034_0101
+3	Waist	635	Diablos Nero<ICON BETA>+ Layered Torso	585	0	10	pl034_0111
+3	Waist	636	Legia<ICON ALPHA>+ Layered Torso	586	0	9	pl027_0001
+3	Waist	637	Legia<ICON BETA>+ Layered Torso	587	0	9	pl027_0011
+3	Waist	638	Shrieking Legia<ICON ALPHA>+ Layered Torso	588	0	10	pl027_0500
+3	Waist	639	Shrieking Legia<ICON BETA>+ Layered Torso	589	0	10	pl027_0510
+3	Waist	640	Odogaron<ICON ALPHA>+ Layered Torso	590	0	9	pl029_0001
+3	Waist	641	Odogaron<ICON BETA>+ Layered Torso	591	0	9	pl029_0011
+3	Waist	642	Death Garon<ICON ALPHA>+ Layered Torso	592	0	10	pl029_0101
+3	Waist	643	Death Garon<ICON BETA>+ Layered Torso	593	0	10	pl029_0111
+3	Waist	644	Lavasioth+ Layered Torso	594	0	9	pl040_0001
+3	Waist	645	Uragaan+ Layered Torso	595	0	9	pl041_0001
+3	Waist	646	Nargacuga<ICON ALPHA>+ Layered Torso	596	0	9	pl080_0000
+3	Waist	647	Nargacuga<ICON BETA>+ Layered Torso	597	0	9	pl080_0010
+3	Waist	648	Glavenus<ICON ALPHA>+ Layered Torso	598	0	9	pl081_0000
+3	Waist	649	Glavenus<ICON BETA>+ Layered Torso	599	0	9	pl081_0010
+3	Waist	650	Acidic Glavenus<ICON ALPHA>+ Layered Torso	600	0	10	pl081_0100
+3	Waist	651	Acidic Glavenus<ICON BETA>+ Layered Torso	601	0	10	pl081_0110
+3	Waist	652	Brachydios<ICON ALPHA>+ Layered Torso	602	0	9	pl082_0000
+3	Waist	653	Brachydios<ICON BETA>+ Layered Torso	603	0	9	pl082_0010
+3	Waist	654	Tigrex<ICON ALPHA>+ Layered Torso	604	0	9	pl083_0000
+3	Waist	655	Tigrex<ICON BETA>+ Layered Torso	605	0	9	pl083_0010
+3	Waist	656	Rex Roar<ICON ALPHA>+ Layered Torso	606	0	10	pl083_0100
+3	Waist	657	Rex Roar<ICON BETA>+ Layered Torso	607	0	10	pl083_0110
 3	Waist	658	Black Belt Layered Torso	608	0	10	pl093_0000
-3	Waist	659	Unavailable	609	0	0	None
-3	Waist	660	Unavailable	610	0	0	None
-3	Waist	661	Unavailable	611	0	0	None
-3	Waist	662	Unavailable	612	0	0	None
-3	Waist	663	Unavailable	613	0	0	None
-3	Waist	664	Unavailable	614	0	0	None
-3	Waist	665	Unavailable	615	0	0	None
-3	Waist	666	Unavailable	616	0	0	None
-3	Waist	667	Unavailable	617	0	0	None
-3	Waist	668	Unavailable	618	0	0	None
-3	Waist	669	Unavailable	619	0	0	None
-3	Waist	670	Unavailable	620	0	0	None
-3	Waist	671	Unavailable	621	0	0	None
-3	Waist	672	Unavailable	622	0	0	None
-3	Waist	673	Unavailable	623	0	0	None
-3	Waist	674	Unavailable	624	0	0	None
-3	Waist	675	Unavailable	625	0	0	None
-3	Waist	678	Unavailable	628	0	0	None
-3	Waist	679	Unavailable	629	0	0	None
-3	Waist	680	Unavailable	630	0	0	None
-3	Waist	681	Unavailable	631	0	0	None
-3	Waist	682	Unavailable	632	0	0	None
-3	Waist	683	Unavailable	633	0	0	None
-3	Waist	684	Unavailable	634	0	0	None
-3	Waist	685	Unavailable	635	0	0	None
-3	Waist	686	Unavailable	636	0	0	None
-3	Waist	687	Unavailable	637	0	0	None
-3	Waist	688	Unavailable	638	0	0	None
-3	Waist	689	Unavailable	639	0	0	None
-3	Waist	690	Unavailable	640	0	0	None
-3	Waist	691	Unavailable	641	0	0	None
-3	Waist	692	Unavailable	642	0	0	None
-3	Waist	693	Unavailable	643	0	0	None
-3	Waist	694	Unavailable	644	0	0	None
-3	Waist	695	Unavailable	645	0	0	None
-3	Waist	696	Unavailable	646	0	0	None
-3	Waist	697	Unavailable	647	0	0	None
-3	Waist	698	Unavailable	648	0	0	None
-3	Waist	699	Unavailable	649	0	0	None
-3	Waist	700	Unavailable	650	0	0	None
-3	Waist	701	Unavailable	651	0	0	None
-3	Waist	702	Unavailable	652	0	0	None
-3	Waist	703	Unavailable	653	0	0	None
-3	Waist	704	Unavailable	654	0	0	None
-3	Waist	705	Unavailable	655	0	0	None
-3	Waist	706	Unavailable	656	0	0	None
-3	Waist	707	Unavailable	657	0	0	None
-3	Waist	708	Unavailable	658	0	0	None
-3	Waist	709	Unavailable	659	0	0	None
-3	Waist	710	Unavailable	660	0	0	None
-3	Waist	715	Unavailable	665	0	0	None
-3	Waist	716	Unavailable	666	0	0	None
+3	Waist	659	Pride<ICON ALPHA>+ Layered Torso	609	0	10	pl042_0500
+3	Waist	660	Pride<ICON BETA>+ Layered Torso	610	0	10	pl042_0510
+3	Waist	661	Esurient<ICON ALPHA>+ Layered Torso	611	0	10	pl050_0500
+3	Waist	662	Esurient<ICON BETA>+ Layered Torso	612	0	10	pl050_0510
+3	Waist	663	Rimeguard<ICON ALPHA>+ Layered Torso	613	0	11	pl085_0000
+3	Waist	664	Rimeguard<ICON BETA>+ Layered Torso	614	0	11	pl085_0010
+3	Waist	665	Fellshroud<ICON ALPHA>+ Layered Torso	615	0	11	pl032_0500
+3	Waist	666	Fellshroud<ICON BETA>+ Layered Torso	616	0	11	pl032_0510
+3	Waist	667	Teostra<ICON ALPHA>+ Layered Torso	617	0	11	pl046_0001
+3	Waist	668	Teostra<ICON BETA>+ Layered Torso	618	0	11	pl046_0011
+3	Waist	669	Kushala<ICON ALPHA>+ Layered Torso	619	0	11	pl047_0001
+3	Waist	670	Kushala<ICON BETA>+ Layered Torso	620	0	11	pl047_0011
+3	Waist	671	Kirin<ICON ALPHA>+ Layered Torso	621	0	11	pl035_0001
+3	Waist	672	Kirin<ICON BETA>+ Layered Torso	622	0	11	pl035_0011
+3	Waist	673	Tentacle<ICON ALPHA>+ Layered Torso	623	0	11	pl086_0000
+3	Waist	674	Tentacle<ICON BETA>+ Layered Torso	624	0	11	pl086_0010
+3	Waist	675	Guild Palace+ Layered Torso	625	0	10	pl094_0000
+3	Waist	678	Shara<ICON ALPHA>+ Layered Torso	628	0	11	pl088_0000
+3	Waist	679	Shara<ICON BETA>+ Layered Torso	629	0	11	pl088_0010
+3	Waist	680	Garuga<ICON ALPHA>+ Layered Torso	630	0	10	pl108_0000
+3	Waist	681	Garuga<ICON BETA>+ Layered Torso	631	0	10	pl108_0010
+3	Waist	682	Zinogre<ICON ALPHA>+ Layered Torso	632	0	10	pl107_0000
+3	Waist	683	Zinogre<ICON BETA>+ Layered Torso	633	0	10	pl107_0010
+3	Waist	684	Golden Lune<ICON ALPHA>+ Layered Torso	634	0	11	pl021_0200
+3	Waist	685	Golden Lune<ICON BETA>+ Layered Torso	635	0	11	pl021_0210
+3	Waist	686	Silver Sol<ICON ALPHA>+ Layered Torso	636	0	11	pl033_0200
+3	Waist	687	Silver Sol<ICON BETA>+ Layered Torso	637	0	11	pl033_0210
+3	Waist	688	Lunastra<ICON ALPHA>+ Layered Torso	638	0	11	pl051_0001
+3	Waist	689	Lunastra<ICON BETA>+ Layered Torso	639	0	11	pl051_0011
+3	Waist	690	Ruinous<ICON ALPHA>+ Layered Torso	640	0	11	pl030_0500
+3	Waist	691	Ruinous<ICON BETA>+ Layered Torso	641	0	11	pl030_0510
+3	Waist	692	Guildwork+ Layered Torso	642	0	11	pl092_0000
+3	Waist	693	Rajang<ICON ALPHA>+ Layered Torso	643	0	10	pl109_0000
+3	Waist	694	Rajang<ICON BETA>+ Layered Torso	644	0	10	pl109_0010
+3	Waist	695	Stygian<ICON ALPHA>+ Layered Torso	645	0	10	pl107_0100
+3	Waist	696	Stygian<ICON BETA>+ Layered Torso	646	0	10	pl107_0110
+3	Waist	697	Safi<ICON ALPHA>+ Layered Torso	647	0	11	pl087_0000
+3	Waist	698	Safi<ICON BETA>+ Layered Torso	648	0	11	pl087_0010
+3	Waist	699	Furious Rajang<ICON ALPHA>+ Layered Torso	649	0	11	pl109_0500
+3	Waist	700	Furious Rajang<ICON BETA>+ Layered Torso	650	0	11	pl109_0510
+3	Waist	701	Brachydium<ICON ALPHA>+ Layered Torso	651	0	11	pl082_0500
+3	Waist	702	Brachydium<ICON BETA>+ Layered Torso	652	0	11	pl082_0510
+3	Waist	703	Frostfang<ICON ALPHA>+ Layered Torso	653	0	10	pl089_0500
+3	Waist	704	Frostfang<ICON BETA>+ Layered Torso	654	0	10	pl089_0510
+3	Waist	705	Escadora<ICON ALPHA>+ Layered Torso	655	0	11	pl052_0000
+3	Waist	706	Escadora<ICON BETA>+ Layered Torso	656	0	11	pl052_0010
+3	Waist	707	Dragon<ICON ALPHA>+ Layered Torso	657	0	11	pl129_0000
+3	Waist	708	Dragon<ICON BETA>+ Layered Torso	658	0	11	pl129_0010
+3	Waist	709	Kulve<ICON ALPHA>+ Layered Torso	659	0	11	pl049_0001
+3	Waist	710	Kulve<ICON BETA>+ Layered Torso	660	0	11	pl049_0011
+3	Waist	715	Buff Body<ICON ALPHA>+ Layered Torso	665	0	10	pl115_0000
+3	Waist	716	Azure Age Layered Torso	666	0	11	pl072_0001
 3	Waist	717	Unavailable	667	0	0	None
-3	Waist	718	Unavailable	668	0	0	None
-3	Waist	719	Unavailable	669	0	0	None
-3	Waist	720	Unavailable	670	0	0	None
+3	Waist	718	HARDUMMY	668	0	11	pl068_0020
+3	Waist	719	Rimeguard<ICON GAMMA>+ Layered Torso	669	0	11	pl085_0020
+3	Waist	720	Tentacle<ICON GAMMA>+ Layered Torso	670	0	11	pl086_0020
 3	Waist	721	Unavailable	671	0	0	None
-3	Waist	722	Unavailable	672	0	0	None
+3	Waist	722	Buff Body<ICON GAMMA>+ Layered Torso	672	0	11	pl115_0001
 3	Waist	723	Innerwear<ICON ALPHA>Layered Torso	673	0	11	pl500_0000
 3	Waist	724	Innerwear<ICON BETA>Layered Torso	675	0	11	pl501_0000
 3	Waist	725	Unavailable	676	0	0	None
@@ -2644,8 +2644,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	146	Orion Layered Boots	150	0	3	pl077_0000
 4	Leg	153	Gala Suit Layered Legs	153	0	3	pl078_0000
 4	Leg	299	HARDUMMY	154	0	7	pl068_0000
-4	Leg	291	HARDUMMY	155	0	7	pl069_0000
-4	Leg	292	HARDUMMY	156	0	7	pl070_0000
+4	Leg	291	Ryu Layered Legs	155	0	7	pl069_0000
+4	Leg	292	Sakura Layered Legs	156	0	7	pl070_0000
 4	Leg	141	Unavailable	143	2	0	pl001_0000
 4	Leg	142	Unavailable	179	2	0	pl001_0000
 4	Leg	143	Unavailable	180	2	0	pl001_0000
@@ -2689,9 +2689,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	223	Zorah Spurs<ICON GAMMA>	213	72	7	pl038_0020
 4	Leg	224	Xeno'jiiva Spurs<ICON GAMMA>	214	72	7	pl045_0020
 4	Leg	225	HARDUMMY	215	46	4	pl068_0000
-4	Leg	226	HARDUMMY	216	12	1	pl069_0000
-4	Leg	227	HARDUMMY	217	60	6	pl069_0000
-4	Leg	228	HARDUMMY	218	50	5	pl070_0000
+4	Leg	226	Ryu's Legs	216	12	1	pl069_0000
+4	Leg	227	Ryu's Legs<ICON ALPHA>	217	60	6	pl069_0000
+4	Leg	228	Sakura's Legs<ICON ALPHA>	218	50	5	pl070_0000
 4	Leg	229	Azure Starlord Guards<ICON ALPHA>	219	56	6	pl072_0000
 4	Leg	230	Dante's Leather Boots<ICON ALPHA>	220	64	7	pl071_0000
 4	Leg	231	Empress Greaves<ICON ALPHA>	221	70	7	pl051_0000
@@ -2837,7 +2837,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	443	Kirin Leg Guards<ICON BETA>+	393	154	11	pl035_0011
 4	Leg	444	Tentacle Greaves<ICON ALPHA>+	394	158	11	pl086_0000
 4	Leg	445	Tentacle Greaves<ICON BETA>+	395	158	11	pl086_0010
-4	Leg	446	Unavailable	396	0	0	None
+4	Leg	446	Clockwork<ICON ALPHA>+ Layered Legs	396	0	9	pl104_0000
 4	Leg	447	Barroth Layered Legs	397	0	4	pl012_0000
 4	Leg	448	Guild Palace Greaves<ICON ALPHA>+	398	154	10	pl094_0000
 4	Leg	449	Guild Palace Greaves<ICON BETA>+	399	154	10	pl094_0000
@@ -2885,7 +2885,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	497	Lumu Layered Legs	447	0	4	pl024_0000
 4	Leg	498	Passionate Leggings<ICON ALPHA>+	448	156	9	pl125_0000
 4	Leg	499	Rathian<ICON ALPHA>Layered Legs	449	0	4	pl021_0000
-4	Leg	500	Unavailable	450	0	0	None
+4	Leg	500	Demonlord Boots<ICON ALPHA>+	450	162	10	pl126_0000
 4	Leg	501	Rathian<ICON BETA>Layered Legs	451	0	4	pl021_0010
 4	Leg	502	Oolong Boots<ICON ALPHA>+	452	120	8	pl127_0000
 4	Leg	503	Radobaan<ICON ALPHA>Layered Legs	453	0	5	pl028_0000
@@ -2893,7 +2893,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	505	Radobaan<ICON BETA>Layered Legs	455	0	5	pl028_0010
 4	Leg	506	Layered Rose Legs	456	0	9	pl124_0000
 4	Leg	507	Passionate Layered Legs	457	0	9	pl125_0000
-4	Leg	508	Unavailable	458	0	0	None
+4	Leg	508	Demonlord Layered Legs	458	0	10	pl126_0000
 4	Leg	509	Oolong Layered Legs	459	0	8	pl127_0000
 4	Leg	510	Astral Layered Legs	460	0	8	pl128_0000
 4	Leg	511	High Metal Layered Legs	461	0	5	pl025_0000
@@ -2906,19 +2906,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	522	Silver Knight Layered Legs	472	0	6	pl123_0000
 4	Leg	523	HARDUMMY	473	132	11	pl068_0010
 4	Leg	524	Tentacle Greaves<ICON GAMMA>+	474	176	11	pl086_0020
-4	Leg	525	HARDUMMY	475	0	7	pl072_0000
-4	Leg	526	HARDUMMY	476	170	11	pl072_0001
-4	Leg	527	Unavailable	477	0	0	None
+4	Leg	525	Azure Starlord Layered Legs	475	0	7	pl072_0000
+4	Leg	526	Azure Age Geta<ICON ALPHA>+	476	170	11	pl072_0001
+4	Leg	527	Rimeguard Greaves<ICON GAMMA>+	477	180	11	pl085_0020
 4	Leg	528	Frostfang Greaves<ICON ALPHA>+	478	162	10	pl089_0500
 4	Leg	529	Frostfang Greaves<ICON BETA>+	479	162	10	pl089_0510
-4	Leg	530	Unavailable	480	0	0	None
-4	Leg	531	Unavailable	481	0	0	None
+4	Leg	530	Dragonfeet<ICON ALPHA>+	480	180	11	pl129_0000
+4	Leg	531	Dragonfeet<ICON BETA>+	481	180	11	pl129_0010
 4	Leg	532	HARDUMMY	482	160	11	pl068_0020
 4	Leg	533	Unavailable	483	0	0	None
 4	Leg	534	Leon's Legs<ICON ALPHA>+	484	150	11	pl130_0000
 4	Leg	535	Claire's Legs<ICON ALPHA>+	485	150	11	pl131_0000
-4	Leg	536	Unavailable	486	0	0	None
-4	Leg	537	Unavailable	487	0	0	None
+4	Leg	536	Leon+ Layered Legs	486	0	11	pl130_0000
+4	Leg	537	Claire+ Layered Legs	487	0	11	pl131_0000
 4	Leg	540	Dodogama Layered Legs	490	0	4	pl039_0000
 4	Leg	541	Ingot Layered Legs	491	0	5	pl031_0000
 4	Leg	542	Rath Heart<ICON ALPHA>Layered Legs	492	0	5	pl021_0100
@@ -2974,126 +2974,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	592	Kulve<ICON ALPHA>Layered Legs	542	0	7	pl049_0000
 4	Leg	593	Kulve<ICON BETA>Layered Legs	543	0	7	pl049_0010
 4	Leg	594	Kulve<ICON GAMMA>Layered Legs	544	0	7	pl049_0020
-4	Leg	595	Unavailable	546	0	0	None
-4	Leg	596	Unavailable	547	0	0	None
-4	Leg	599	Unavailable	550	0	0	None
-4	Leg	600	Unavailable	551	0	0	None
-4	Leg	601	Unavailable	552	0	0	None
-4	Leg	602	Unavailable	553	0	0	None
-4	Leg	603	Unavailable	554	0	0	None
-4	Leg	604	Unavailable	555	0	0	None
-4	Leg	605	Unavailable	556	0	0	None
-4	Leg	606	Unavailable	557	0	0	None
-4	Leg	607	Unavailable	558	0	0	None
-4	Leg	608	Unavailable	559	0	0	None
-4	Leg	609	Unavailable	560	0	0	None
-4	Leg	610	Unavailable	561	0	0	None
-4	Leg	611	Unavailable	562	0	0	None
-4	Leg	612	Unavailable	563	0	0	None
-4	Leg	613	Unavailable	564	0	0	None
-4	Leg	614	Unavailable	565	0	0	None
-4	Leg	615	Unavailable	566	0	0	None
-4	Leg	616	Unavailable	567	0	0	None
-4	Leg	617	Unavailable	568	0	0	None
-4	Leg	618	Unavailable	569	0	0	None
-4	Leg	619	Unavailable	570	0	0	None
-4	Leg	620	Unavailable	571	0	0	None
-4	Leg	621	Unavailable	572	0	0	None
-4	Leg	622	Unavailable	573	0	0	None
-4	Leg	623	Unavailable	574	0	0	None
+4	Leg	595	Vespoid+ Layered Legs	546	0	8	pl007_0001
+4	Leg	596	Hornetaur+ Layered Legs	547	0	8	pl017_0001
+4	Leg	599	Jagras+ Layered Legs	550	0	8	pl008_0001
+4	Leg	600	Tzitzi+ Layered Legs	551	0	8	pl023_0001
+4	Leg	601	Girros+ Layered Legs	552	0	8	pl022_0001
+4	Leg	602	Dodogama+ Layered Legs	553	0	8	pl039_0001
+4	Leg	603	Kulu+ Layered Legs	554	0	8	pl009_0001
+4	Leg	604	Pukei+ Layered Legs	555	0	8	pl010_0001
+4	Leg	605	Coral Pukei+ Layered Legs	556	0	8	pl010_0101
+4	Leg	606	Barroth+ Layered Legs	557	0	8	pl012_0001
+4	Leg	607	Jyura+ Layered Legs	558	0	8	pl011_0001
+4	Leg	608	Beo+ Layered Legs	559	0	8	pl110_0000
+4	Leg	609	Kadachi+ Layered Legs	560	0	8	pl013_0001
+4	Leg	610	Viper Kadachi+ Layered Legs	561	0	8	pl013_0101
+4	Leg	611	Banbaro<ICON ALPHA>+ Layered Legs	562	0	8	pl084_0000
+4	Leg	612	Banbaro<ICON BETA>+ Layered Legs	563	0	8	pl084_0010
+4	Leg	613	Anja<ICON ALPHA>+ Layered Legs	564	0	8	pl020_0001
+4	Leg	614	Anja<ICON BETA>+ Layered Legs	565	0	8	pl020_0011
+4	Leg	615	Fulgur Anja<ICON ALPHA>+ Layered Legs	566	0	10	pl020_0101
+4	Leg	616	Fulgur Anja<ICON BETA>+ Layered Legs	567	0	10	pl020_0111
+4	Leg	617	Rathian<ICON ALPHA>+ Layered Legs	568	0	8	pl021_0001
+4	Leg	618	Rathian<ICON BETA>+ Layered Legs	569	0	8	pl021_0011
+4	Leg	619	Rath Heart<ICON ALPHA>+ Layered Legs	570	0	8	pl021_0101
+4	Leg	620	Rath Heart<ICON BETA>+ Layered Legs	571	0	8	pl021_0111
+4	Leg	621	Lumu+ Layered Legs	572	0	8	pl024_0001
+4	Leg	622	Lumu Phantasm+ Layered Legs	573	0	8	pl024_0101
+4	Leg	623	Radobaan+ Layered Legs	574	0	8	pl028_0001
 4	Leg	624	Artian Layered Legs	575	0	9	pl091_0000
-4	Leg	625	Unavailable	674	0	0	None
-4	Leg	626	Unavailable	576	0	0	None
-4	Leg	627	Unavailable	577	0	0	None
-4	Leg	628	Unavailable	578	0	0	None
-4	Leg	629	Unavailable	579	0	0	None
-4	Leg	630	Unavailable	580	0	0	None
-4	Leg	631	Unavailable	581	0	0	None
-4	Leg	632	Unavailable	582	0	0	None
-4	Leg	633	Unavailable	583	0	0	None
-4	Leg	634	Unavailable	584	0	0	None
-4	Leg	635	Unavailable	585	0	0	None
-4	Leg	636	Unavailable	586	0	0	None
-4	Leg	637	Unavailable	587	0	0	None
-4	Leg	638	Unavailable	588	0	0	None
-4	Leg	639	Unavailable	589	0	0	None
-4	Leg	640	Unavailable	590	0	0	None
-4	Leg	641	Unavailable	591	0	0	None
-4	Leg	642	Unavailable	592	0	0	None
-4	Leg	643	Unavailable	593	0	0	None
-4	Leg	644	Unavailable	594	0	0	None
-4	Leg	645	Unavailable	595	0	0	None
-4	Leg	646	Unavailable	596	0	0	None
-4	Leg	647	Unavailable	597	0	0	None
-4	Leg	648	Unavailable	598	0	0	None
-4	Leg	649	Unavailable	599	0	0	None
-4	Leg	650	Unavailable	600	0	0	None
-4	Leg	651	Unavailable	601	0	0	None
-4	Leg	652	Unavailable	602	0	0	None
-4	Leg	653	Unavailable	603	0	0	None
-4	Leg	654	Unavailable	604	0	0	None
-4	Leg	655	Unavailable	605	0	0	None
-4	Leg	656	Unavailable	606	0	0	None
-4	Leg	657	Unavailable	607	0	0	None
+4	Leg	625	Clockwork<ICON BETA>+ Layered Legs	674	0	9	pl104_0000
+4	Leg	626	Barioth<ICON ALPHA>+ Layered Legs	576	0	9	pl089_0000
+4	Leg	627	Barioth<ICON BETA>+ Layered Legs	577	0	9	pl089_0010
+4	Leg	628	Rathalos<ICON ALPHA>+ Layered Legs	578	0	9	pl033_0001
+4	Leg	629	Rathalos<ICON BETA>+ Layered Legs	579	0	9	pl033_0011
+4	Leg	630	Rath Soul<ICON ALPHA>+ Layered Legs	580	0	10	pl033_0101
+4	Leg	631	Rath Soul<ICON BETA>+ Layered Legs	581	0	10	pl033_0111
+4	Leg	632	Diablos<ICON ALPHA>+ Layered Legs	582	0	9	pl034_0001
+4	Leg	633	Diablos<ICON BETA>+ Layered Legs	583	0	9	pl034_0011
+4	Leg	634	Diablos Nero<ICON ALPHA>+ Layered Legs	584	0	10	pl034_0101
+4	Leg	635	Diablos Nero<ICON BETA>+ Layered Legs	585	0	10	pl034_0111
+4	Leg	636	Legia<ICON ALPHA>+ Layered Legs	586	0	9	pl027_0001
+4	Leg	637	Legia<ICON BETA>+ Layered Legs	587	0	9	pl027_0011
+4	Leg	638	Shrieking Legia<ICON ALPHA>+ Layered Legs	588	0	10	pl027_0500
+4	Leg	639	Shrieking Legia<ICON BETA>+ Layered Legs	589	0	10	pl027_0510
+4	Leg	640	Odogaron<ICON ALPHA>+ Layered Legs	590	0	9	pl029_0001
+4	Leg	641	Odogaron<ICON BETA>+ Layered Legs	591	0	9	pl029_0011
+4	Leg	642	Death Garon<ICON ALPHA>+ Layered Legs	592	0	10	pl029_0101
+4	Leg	643	Death Garon<ICON BETA>+ Layered Legs	593	0	10	pl029_0111
+4	Leg	644	Lavasioth+ Layered Legs	594	0	9	pl040_0001
+4	Leg	645	Uragaan+ Layered Legs	595	0	9	pl041_0001
+4	Leg	646	Nargacuga<ICON ALPHA>+ Layered Legs	596	0	9	pl080_0000
+4	Leg	647	Nargacuga<ICON BETA>+ Layered Legs	597	0	9	pl080_0010
+4	Leg	648	Glavenus<ICON ALPHA>+ Layered Legs	598	0	9	pl081_0000
+4	Leg	649	Glavenus<ICON BETA>+ Layered Legs	599	0	9	pl081_0010
+4	Leg	650	Acidic Glavenus<ICON ALPHA>+ Layered Legs	600	0	10	pl081_0100
+4	Leg	651	Acidic Glavenus<ICON BETA>+ Layered Legs	601	0	10	pl081_0110
+4	Leg	652	Brachydios<ICON ALPHA>+ Layered Legs	602	0	9	pl082_0000
+4	Leg	653	Brachydios<ICON BETA>+ Layered Legs	603	0	9	pl082_0010
+4	Leg	654	Tigrex<ICON ALPHA>+ Layered Legs	604	0	9	pl083_0000
+4	Leg	655	Tigrex<ICON BETA>+ Layered Legs	605	0	9	pl083_0010
+4	Leg	656	Rex Roar<ICON ALPHA>+ Layered Legs	606	0	10	pl083_0100
+4	Leg	657	Rex Roar<ICON BETA>+ Layered Legs	607	0	10	pl083_0110
 4	Leg	658	Black Belt Layered Legs	608	0	10	pl093_0000
-4	Leg	659	Unavailable	609	0	0	None
-4	Leg	660	Unavailable	610	0	0	None
-4	Leg	661	Unavailable	611	0	0	None
-4	Leg	662	Unavailable	612	0	0	None
-4	Leg	663	Unavailable	613	0	0	None
-4	Leg	664	Unavailable	614	0	0	None
-4	Leg	665	Unavailable	615	0	0	None
-4	Leg	666	Unavailable	616	0	0	None
-4	Leg	667	Unavailable	617	0	0	None
-4	Leg	668	Unavailable	618	0	0	None
-4	Leg	669	Unavailable	619	0	0	None
-4	Leg	670	Unavailable	620	0	0	None
-4	Leg	671	Unavailable	621	0	0	None
-4	Leg	672	Unavailable	622	0	0	None
-4	Leg	673	Unavailable	623	0	0	None
-4	Leg	674	Unavailable	624	0	0	None
-4	Leg	675	Unavailable	625	0	0	None
-4	Leg	678	Unavailable	628	0	0	None
-4	Leg	679	Unavailable	629	0	0	None
-4	Leg	680	Unavailable	630	0	0	None
-4	Leg	681	Unavailable	631	0	0	None
-4	Leg	682	Unavailable	632	0	0	None
-4	Leg	683	Unavailable	633	0	0	None
-4	Leg	684	Unavailable	634	0	0	None
-4	Leg	685	Unavailable	635	0	0	None
-4	Leg	686	Unavailable	636	0	0	None
-4	Leg	687	Unavailable	637	0	0	None
-4	Leg	688	Unavailable	638	0	0	None
-4	Leg	689	Unavailable	639	0	0	None
-4	Leg	690	Unavailable	640	0	0	None
-4	Leg	691	Unavailable	641	0	0	None
-4	Leg	692	Unavailable	642	0	0	None
-4	Leg	693	Unavailable	643	0	0	None
-4	Leg	694	Unavailable	644	0	0	None
-4	Leg	695	Unavailable	645	0	0	None
-4	Leg	696	Unavailable	646	0	0	None
-4	Leg	697	Unavailable	647	0	0	None
-4	Leg	698	Unavailable	648	0	0	None
-4	Leg	699	Unavailable	649	0	0	None
-4	Leg	700	Unavailable	650	0	0	None
-4	Leg	701	Unavailable	651	0	0	None
-4	Leg	702	Unavailable	652	0	0	None
-4	Leg	703	Unavailable	653	0	0	None
-4	Leg	704	Unavailable	654	0	0	None
-4	Leg	705	Unavailable	655	0	0	None
-4	Leg	706	Unavailable	656	0	0	None
-4	Leg	707	Unavailable	657	0	0	None
-4	Leg	708	Unavailable	658	0	0	None
-4	Leg	709	Unavailable	659	0	0	None
-4	Leg	710	Unavailable	660	0	0	None
-4	Leg	715	Unavailable	665	0	0	None
-4	Leg	716	Unavailable	666	0	0	None
+4	Leg	659	Pride<ICON ALPHA>+ Layered Legs	609	0	10	pl042_0500
+4	Leg	660	Pride<ICON BETA>+ Layered Legs	610	0	10	pl042_0510
+4	Leg	661	Esurient<ICON ALPHA>+ Layered Legs	611	0	10	pl050_0500
+4	Leg	662	Esurient<ICON BETA>+ Layered Legs	612	0	10	pl050_0510
+4	Leg	663	Rimeguard<ICON ALPHA>+ Layered Legs	613	0	11	pl085_0000
+4	Leg	664	Rimeguard<ICON BETA>+ Layered Legs	614	0	11	pl085_0010
+4	Leg	665	Fellshroud<ICON ALPHA>+ Layered Legs	615	0	11	pl032_0500
+4	Leg	666	Fellshroud<ICON BETA>+ Layered Legs	616	0	11	pl032_0510
+4	Leg	667	Teostra<ICON ALPHA>+ Layered Legs	617	0	11	pl046_0001
+4	Leg	668	Teostra<ICON BETA>+ Layered Legs	618	0	11	pl046_0011
+4	Leg	669	Kushala<ICON ALPHA>+ Layered Legs	619	0	11	pl047_0001
+4	Leg	670	Kushala<ICON BETA>+ Layered Legs	620	0	11	pl047_0011
+4	Leg	671	Kirin<ICON ALPHA>+ Layered Legs	621	0	11	pl035_0001
+4	Leg	672	Kirin<ICON BETA>+ Layered Legs	622	0	11	pl035_0011
+4	Leg	673	Tentacle<ICON ALPHA>+ Layered Legs	623	0	11	pl086_0000
+4	Leg	674	Tentacle<ICON BETA>+ Layered Legs	624	0	11	pl086_0010
+4	Leg	675	Guild Palace+ Layered Legs	625	0	10	pl094_0000
+4	Leg	678	Shara<ICON ALPHA>+ Layered Legs	628	0	11	pl088_0000
+4	Leg	679	Shara<ICON BETA>+ Layered Legs	629	0	11	pl088_0010
+4	Leg	680	Garuga<ICON ALPHA>+ Layered Legs	630	0	10	pl108_0000
+4	Leg	681	Garuga<ICON BETA>+ Layered Legs	631	0	10	pl108_0010
+4	Leg	682	Zinogre<ICON ALPHA>+ Layered Legs	632	0	10	pl107_0000
+4	Leg	683	Zinogre<ICON BETA>+ Layered Legs	633	0	10	pl107_0010
+4	Leg	684	Golden Lune<ICON ALPHA>+ Layered Legs	634	0	11	pl021_0200
+4	Leg	685	Golden Lune<ICON BETA>+ Layered Legs	635	0	11	pl021_0210
+4	Leg	686	Silver Sol<ICON ALPHA>+ Layered Legs	636	0	11	pl033_0200
+4	Leg	687	Silver Sol<ICON BETA>+ Layered Legs	637	0	11	pl033_0210
+4	Leg	688	Lunastra<ICON ALPHA>+ Layered Legs	638	0	11	pl051_0001
+4	Leg	689	Lunastra<ICON BETA>+ Layered Legs	639	0	11	pl051_0011
+4	Leg	690	Ruinous<ICON ALPHA>+ Layered Legs	640	0	11	pl030_0500
+4	Leg	691	Ruinous<ICON BETA>+ Layered Legs	641	0	11	pl030_0510
+4	Leg	692	Guildwork+ Layered Legs	642	0	11	pl092_0000
+4	Leg	693	Rajang<ICON ALPHA>+ Layered Legs	643	0	10	pl109_0000
+4	Leg	694	Rajang<ICON BETA>+ Layered Legs	644	0	10	pl109_0010
+4	Leg	695	Stygian<ICON ALPHA>+ Layered Legs	645	0	10	pl107_0100
+4	Leg	696	Stygian<ICON BETA>+ Layered Legs	646	0	10	pl107_0110
+4	Leg	697	Safi<ICON ALPHA>+ Layered Legs	647	0	11	pl087_0000
+4	Leg	698	Safi<ICON BETA>+ Layered Legs	648	0	11	pl087_0010
+4	Leg	699	Furious Rajang<ICON ALPHA>+ Layered Legs	649	0	11	pl109_0500
+4	Leg	700	Furious Rajang<ICON BETA>+ Layered Legs	650	0	11	pl109_0510
+4	Leg	701	Brachydium<ICON ALPHA>+ Layered Legs	651	0	11	pl082_0500
+4	Leg	702	Brachydium<ICON BETA>+ Layered Legs	652	0	11	pl082_0510
+4	Leg	703	Frostfang<ICON ALPHA>+ Layered Legs	653	0	10	pl089_0500
+4	Leg	704	Frostfang<ICON BETA>+ Layered Legs	654	0	10	pl089_0510
+4	Leg	705	Escadora<ICON ALPHA>+ Layered Legs	655	0	11	pl052_0000
+4	Leg	706	Escadora<ICON BETA>+ Layered Legs	656	0	11	pl052_0010
+4	Leg	707	Dragon<ICON ALPHA>+ Layered Legs	657	0	11	pl129_0000
+4	Leg	708	Dragon<ICON BETA>+ Layered Legs	658	0	11	pl129_0010
+4	Leg	709	Kulve<ICON ALPHA>+ Layered Legs	659	0	11	pl049_0001
+4	Leg	710	Kulve<ICON BETA>+ Layered Legs	660	0	11	pl049_0011
+4	Leg	715	Buff Body<ICON ALPHA>+ Layered Legs	665	0	10	pl115_0000
+4	Leg	716	Azure Age Layered Legs	666	0	11	pl072_0001
 4	Leg	717	Unavailable	667	0	0	None
-4	Leg	718	Unavailable	668	0	0	None
-4	Leg	719	Unavailable	669	0	0	None
-4	Leg	720	Unavailable	670	0	0	None
+4	Leg	718	HARDUMMY	668	0	11	pl068_0020
+4	Leg	719	Rimeguard<ICON GAMMA>+ Layered Legs	669	0	11	pl085_0020
+4	Leg	720	Tentacle<ICON GAMMA>+ Layered Legs	670	0	11	pl086_0020
 4	Leg	721	Unavailable	671	0	0	None
-4	Leg	722	Unavailable	672	0	0	None
+4	Leg	722	Buff Body<ICON GAMMA>+ Layered Legs	672	0	11	pl115_0001
 4	Leg	723	Innerwear<ICON ALPHA>Layered Legs	673	0	11	pl500_0000
 4	Leg	724	Innerwear<ICON BETA>Layered Legs	675	0	11	pl501_0000
 4	Leg	725	Unavailable	676	0	0	None
@@ -3400,7 +3400,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	319	Frost Charm IV	0	0	10	None
 5	Charm	320	Frost Charm V	0	0	11	None
 5	Charm	321	Master's Charm IV	0	0	10	None
-5	Charm	322	Unavailable	0	0	0	None
+5	Charm	322	Master's Charm V	0	0	11	None
 5	Charm	323	Evasion Charm IV	0	0	11	None
 5	Charm	324	Evasion Charm V	0	0	11	None
 5	Charm	325	Wyrmsbane Charm IV	0	0	10	None
@@ -3414,11 +3414,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	333	Mushroom Charm III	0	0	10	None
 5	Charm	334	Awakening Charm III	0	0	11	None
 5	Charm	335	Handicraft Charm IV	0	0	11	None
-5	Charm	336	Unavailable	0	0	0	None
+5	Charm	336	Handicraft Charm V	0	0	11	None
 5	Charm	337	Earplugs Charm IV	0	0	11	None
-5	Charm	338	Unavailable	0	0	0	None
+5	Charm	338	Earplugs Charm V	0	0	11	None
 5	Charm	339	Tremor Charm III	0	0	11	None
-5	Charm	340	Unavailable	0	0	0	None
+5	Charm	340	Exploiter Charm III	0	0	11	None
 5	Charm	341	Focus Charm III	0	0	11	None
 5	Charm	342	Breaker Charm III	0	0	10	None
 5	Charm	343	Fury Charm III	0	0	10	None
@@ -3437,7 +3437,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	356	Mighty Charm III	0	0	11	None
 5	Charm	357	Impact Charm III	0	0	10	None
 5	Charm	358	Critical Charm II	0	0	11	None
-5	Charm	359	Unavailable	0	0	0	None
+5	Charm	359	Critical Charm III	0	0	11	None
 5	Charm	360	Invigorate Charm III	0	0	10	None
 5	Charm	361	Phoenix Charm I	0	0	10	None
 5	Charm	362	Phoenix Charm II	0	0	11	None
@@ -3461,7 +3461,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	380	Survival Charm II	0	0	2	None
 5	Charm	381	Survival Charm III	0	0	2	None
 5	Charm	382	Unavailable	0	0	2	None
-5	Charm	383	Unavailable	0	0	0	None
+5	Charm	383	Shaver Charm	0	0	8	None
 5	Charm	384	Unavailable	0	0	0	None
 5	Charm	385	Unavailable	0	0	0	None
 5	Charm	386	Unavailable	0	0	0	None

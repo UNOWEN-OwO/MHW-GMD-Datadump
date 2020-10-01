@@ -62,7 +62,7 @@ Pendant ID	Pendant Code	Pendant Name	Model
 60	CHARM_060_NAME	Símbolo Mestre Rosa Rathian	charm005
 61	CHARM_061_NAME	Buquê Florescente	charm006
 62	CHARM_062_NAME	Sol Escaldante	charm007
-63	DUMMY000000	Unavailable	charm001
+63	CHARM_063_NAME	Morcego Vampiresco	charm008
 64	CHARM_064_NAME	Tigre da Sorte Carmesim	charm009
 65	CHARM_065_NAME	Tufo de Prata Azul Celeste	charm010
 66	CHARM_066_NAME	Garras de Rajang	charm011
@@ -73,19 +73,19 @@ Pendant ID	Pendant Code	Pendant Name	Model
 71	CHARM_071_NAME	Fragmento de Alatreon	charm016
 72	CHARM_072_NAME	Garras de Rathian Dourada	charm017
 73	CHARM_073_NAME	Garras de Rathalos Prateado	charm018
-74	DUMMY000001	Unavailable	charm001
-75	DUMMY000002	Unavailable	charm001
-76	DUMMY000003	Unavailable	charm001
-77	DUMMY000004	Unavailable	charm001
-78	DUMMY000005	Unavailable	charm001
-79	DUMMY000006	Unavailable	charm001
-80	DUMMY000007	Unavailable	charm001
-81	DUMMY000008	Unavailable	charm001
+74	DUMMY000000	Unavailable	charm001
+75	DUMMY000001	Unavailable	charm001
+76	DUMMY000002	Unavailable	charm001
+77	DUMMY000003	Unavailable	charm001
+78	DUMMY000004	Unavailable	charm001
+79	DUMMY000005	Unavailable	charm001
+80	DUMMY000006	Unavailable	charm001
+81	CHARM_081_NAME	Fr. Velkhana Arquiaguerrido	charm026
 82	CHARM_082_NAME	Frag. Namielle Arquiaguerrido	charm027
-83	DUMMY000009	Unavailable	charm001
-84	DUMMY000010	Unavailable	charm001
-85	DUMMY000011	Unavailable	charm001
-86	CHARM_086_NAME	HARDUMMY	charm031
+83	DUMMY000007	Unavailable	charm001
+84	DUMMY000008	Unavailable	charm001
+85	CHARM_085_NAME	Símbolo de Fatalis Lendário	charm030
+86	CHARM_086_NAME	Sinos de Vento Era Lazúli	charm031
 87	CHARM_087_NAME	HARDUMMY	charm032
 88	CHARM_088_NAME	R.P.D.	charm033
 89	CHARM_089_NAME	Umbrella	charm034
@@ -108,10 +108,10 @@ Pendant ID	Pendant Code	Pendant Name	Model
 106	CHARM_106_NAME	Sol Escaldante (Uva)	charm007
 107	CHARM_107_NAME	Sol Escaldante (Dragão)	charm007
 108	CHARM_108_NAME	Sol Escaldante (Lichia)	charm007
-109	DUMMY000012	Unavailable	charm001
-110	DUMMY000013	Unavailable	charm001
-111	DUMMY000014	Unavailable	charm001
-112	DUMMY000015	Unavailable	charm001
+109	CHARM_109_NAME	Morcego Luminoso	charm008
+110	CHARM_110_NAME	Morcego Sílfide	charm008
+111	CHARM_111_NAME	Morcego Gélido	charm008
+112	CHARM_112_NAME	Morcego Fada	charm008
 113	CHARM_113_NAME	Tigre da Sorte Pêssego	charm009
 114	CHARM_114_NAME	Tigre da Sorte Verde	charm009
 115	CHARM_115_NAME	Tigre da Sorte Violeta	charm009
@@ -125,8 +125,8 @@ Pendant ID	Pendant Code	Pendant Name	Model
 123	CHARM_123_NAME	Buquê Florescente (roxo)	charm006
 124	CHARM_124_NAME	Sol Escaldante (Goiaba)	charm007
 125	CHARM_125_NAME	Sol Escaldante (Limão)	charm007
-126	DUMMY000016	Unavailable	charm001
-127	DUMMY000017	Unavailable	charm001
+126	CHARM_126_NAME	Morcego Elétrico	charm008
+127	CHARM_127_NAME	Morcego Espectral	charm008
 128	CHARM_128_NAME	Tigre da Sorte Verde Escuro	charm009
 129	CHARM_129_NAME	Tigre da Sorte Laranja	charm009
 130	CHARM_130_NAME	Tufo de Prata Roxo	charm010
@@ -172,26 +172,27 @@ Pendant ID	Pendant Code	Pendant Name	Model
 170	CHARM_170_NAME	Coração Topázio Kulve	charm062
 171	CHARM_171_NAME	Coração Safira Kulve	charm062
 172	CHARM_172_NAME	Coração Gema Rosa Kulve	charm062
-173	DUMMY000018	Unavailable	charm001
-174	DUMMY000019	Unavailable	charm001
+173	CHARM_173_NAME	Porco Celestial	charm065
+174	CHARM_174_NAME	Javalúcifer	charm066
 175	CHARM_175_NAME	Dragão Celestial Dourado	charm067
 176	CHARM_176_NAME	Dragão Celestial Prateado	charm068
-177	DUMMY000020	Unavailable	charm001
+177	CHARM_177_NAME	Porta-Ganhos do Miauscular	charm070
 178	CHARM_178_NAME	Borboletas Fantasmas Lazúli	charm071
 179	CHARM_179_NAME	Borboletas Fantasmas Jade	charm071
 180	CHARM_180_NAME	Borboletas Fantasmas Magenta	charm071
-181	DUMMY000021	Unavailable	charm001
-182	DUMMY000022	Unavailable	charm001
-183	DUMMY000023	Unavailable	charm001
-184	DUMMY000024	Unavailable	charm001
+181	CHARM_181_NAME	Relógio Mecânico de Ouro	charm075
+182	CHARM_182_NAME	Relógio Mecânico de Prata	charm076
+183	CHARM_183_NAME	Mini Super-8 (Jogador 1)	charm064
+184	CHARM_184_NAME	Mini Super-8 (Jogador 2)	charm063
 185	CHARM_185_NAME	Faca de Cristal Rubi	charm078
 186	CHARM_186_NAME	Faca de Cristal Âmbar	charm078
 187	CHARM_187_NAME	Faca de Cristal Lazúli	charm078
 188	CHARM_188_NAME	Fulgurinsetos	charm073
 189	CHARM_189_NAME	Insetos Dragofágicos	charm074
 190	CHARM_190_NAME	Talismã de Neve de Velkhana	charm080
-191	DUMMY000025	Unavailable	charm001
-192	DUMMY000026	Unavailable	charm001
-193	DUMMY000027	Unavailable	charm001
-194	DUMMY000028	Unavailable	charm001
-195	DUMMY000029	Unavailable	charm001
+191	CHARM_191_NAME	Vela Flamejante de Glavenus	charm077
+192	CHARM_192_NAME	Kulu-Ya-Ku Chocado	charm079
+193	DUMMY000009	Unavailable	charm001
+194	CHARM_194_NAME	Cristal Guilda Salvador	charm081
+195	CHARM_195_NAME	Cristal de Laço-Guia	charm082
+196	CHARM_196_NAME	HARDUMMY	charm083

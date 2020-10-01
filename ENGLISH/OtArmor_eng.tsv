@@ -124,12 +124,12 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	162	Felyne Kulve Fur<ICON ALPHA>+	otomo/equip/ot025/helm
 0	Helmet	163	Mega Man Helmet<ICON ALPHA>+	otomo/equip/ot035/helm
 0	Helmet	164	Moogle Head<ICON ALPHA>+	otomo/equip/ot038/helm
-0	Helmet	165	HARDUMMY	otomo/equip/ot037/helm
+0	Helmet	165	Felyne Azure Star Crown<ICON ALPHA>+	otomo/equip/ot037/helm
 0	Helmet	166	HARDUMMY	otomo/equip/ot036/helm
 0	Helmet	167	Felyne Samurai Helm<ICON ALPHA>+	otomo/equip/ot039/helm
 0	Helmet	168	Felyne Butterfly Hat<ICON ALPHA>+	otomo/equip/ot040/helm
 0	Helmet	169	Felyne Aloha Straw Hat<ICON ALPHA>+	otomo/equip/ot041/helm
-0	Helmet	170	Felyne Leather Cap	otomo/equip/ot000/helm
+0	Helmet	170	Felyne Meowloween Mask<ICON ALPHA>+	otomo/equip/ot042/helm
 0	Helmet	171	Felyne Snowcat Head<ICON ALPHA>+	otomo/equip/ot043/helm
 0	Helmet	172	Felyne Star Head<ICON ALPHA>+	otomo/equip/ot044/helm
 0	Helmet	173	Felyne Leather Cap<ICON ALPHA>+	otomo/equip/ot001/helm
@@ -141,18 +141,18 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	179	Felyne Guild Cap<ICON ALPHA>+	otomo/equip/ot063/helm
 0	Helmet	180	Felyne Rose Headgear<ICON ALPHA>+	otomo/equip/ot075/helm
 0	Helmet	181	Felyne Pukei Head<ICON ALPHA>+	otomo/equip/ot076/helm
-0	Helmet	182	Felyne Leather Cap	otomo/equip/ot000/helm
+0	Helmet	182	Felyne Frankie Head<ICON ALPHA>+	otomo/equip/ot077/helm
 0	Helmet	183	Felyne Shishi-mai Head<ICON ALPHA>+	otomo/equip/ot078/helm
 0	Helmet	184	Felyne Space Helmet<ICON ALPHA>+	otomo/equip/ot079/helm
 0	Helmet	185	Felyne Leather Cap	otomo/equip/ot000/helm
 0	Helmet	186	Felyne Leather Cap	otomo/equip/ot000/helm
 0	Helmet	187	Felyne Leather Cap	otomo/equip/ot000/helm
-0	Helmet	188	HARDUMMY	otomo/equip/ot080/helm
+0	Helmet	188	F Azure Era Lion's Head<ICON ALPHA>+	otomo/equip/ot080/helm
 0	Helmet	189	HARDUMMY	otomo/equip/ot081/helm
 0	Helmet	190	Felyne Wiggler Head<ICON ALPHA>+	otomo/equip/ot082/helm
 0	Helmet	191	Felyne Leather Cap	otomo/equip/ot000/helm
 0	Helmet	192	Felyne Frostfang Wig<ICON ALPHA>+	otomo/equip/ot083/helm
-0	Helmet	193	Felyne Leather Cap	otomo/equip/ot000/helm
+0	Helmet	193	Felyne Fatalis Head<ICON ALPHA>+	otomo/equip/ot084/helm
 0	Helmet	194	Felyne Leather Cap	otomo/equip/ot000/helm
 0	Helmet	195	Felyne Maestro Hair<ICON ALPHA>+	otomo/equip/ot085/helm
 0	Helmet	196	Felyne Leather Cap	otomo/equip/ot000/helm
@@ -286,12 +286,12 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	162	Felyne Kulve Suit<ICON ALPHA>+	otomo/equip/ot025/body
 1	Armor	163	Mega Man Suit<ICON ALPHA>+	otomo/equip/ot035/body
 1	Armor	164	Moogle Body<ICON ALPHA>+	otomo/equip/ot038/body
-1	Armor	165	HARDUMMY	otomo/equip/ot037/body
+1	Armor	165	Felyne Azure Star Armor<ICON ALPHA>+	otomo/equip/ot037/body
 1	Armor	166	HARDUMMY	otomo/equip/ot036/body
 1	Armor	167	Felyne Samurai Armor<ICON ALPHA>+	otomo/equip/ot039/body
 1	Armor	168	Felyne Butterfly Vest<ICON ALPHA>+	otomo/equip/ot040/body
 1	Armor	169	Felyne Aloha Shirt<ICON ALPHA>+	otomo/equip/ot041/body
-1	Armor	170	Felyne Leather Cap	otomo/equip/ot000/body
+1	Armor	170	Felyne Ghost Garb<ICON ALPHA>+	otomo/equip/ot042/body
 1	Armor	171	Felyne Snowcat Suit<ICON ALPHA>+	otomo/equip/ot043/body
 1	Armor	172	Felyne Starstruck Suit<ICON ALPHA>+	otomo/equip/ot044/body
 1	Armor	173	Felyne Leather Vest<ICON ALPHA>+	otomo/equip/ot001/body
@@ -303,18 +303,18 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	179	Felyne Guild Coat<ICON ALPHA>+	otomo/equip/ot063/body
 1	Armor	180	Felyne Rose Dress<ICON ALPHA>+	otomo/equip/ot075/body
 1	Armor	181	Felyne Pukei Body<ICON ALPHA>+	otomo/equip/ot076/body
-1	Armor	182	Felyne Leather Cap	otomo/equip/ot000/body
+1	Armor	182	Felyne Frankie Body<ICON ALPHA>+	otomo/equip/ot077/body
 1	Armor	183	Felyne Shishi-mai Body<ICON ALPHA>+	otomo/equip/ot078/body
 1	Armor	184	Felyne Space Suit<ICON ALPHA>+	otomo/equip/ot079/body
 1	Armor	185	Felyne Leather Cap	otomo/equip/ot000/body
 1	Armor	186	Felyne Leather Cap	otomo/equip/ot000/body
 1	Armor	187	Felyne Leather Cap	otomo/equip/ot000/body
-1	Armor	188	HARDUMMY	otomo/equip/ot080/body
+1	Armor	188	F Azure Era Kimono<ICON ALPHA>+	otomo/equip/ot080/body
 1	Armor	189	HARDUMMY	otomo/equip/ot081/body
 1	Armor	190	Felyne Wiggler Pot<ICON ALPHA>+	otomo/equip/ot082/body
 1	Armor	191	Felyne Leather Cap	otomo/equip/ot000/body
 1	Armor	192	Felyne Frostfang Uniform<ICON ALPHA>+	otomo/equip/ot083/body
-1	Armor	193	Felyne Leather Cap	otomo/equip/ot000/body
+1	Armor	193	Felyne Fatalis Body<ICON ALPHA>+	otomo/equip/ot084/body
 1	Armor	194	Felyne Leather Cap	otomo/equip/ot000/body
 1	Armor	195	Felyne Maestro Suit<ICON ALPHA>+	otomo/equip/ot085/body
 1	Armor	196	Felyne Acorn Mail<ICON ALPHA>+	otomo/equip/ot086/body

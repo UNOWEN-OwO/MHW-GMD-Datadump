@@ -128,12 +128,12 @@ Weapon ID	Weapon Name	File Path
 162	F Kulve-Fächer <ICON ALPHA>+	otomo/wp/ot_we025
 163	Mega Buster <ICON ALPHA>+	otomo/wp/ot_we035
 164	Gold-Chocobo-Stab <ICON ALPHA>+	otomo/wp/ot_we038
-165	HARDUMMY	otomo/wp/ot_we037
+165	F Azurstern-Stab <ICON ALPHA>+	otomo/wp/ot_we037
 166	HARDUMMY	otomo/wp/ot_we036
 167	F Samurai-Schwert <ICON ALPHA>+	otomo/wp/ot_we039
 168	F Schmetterling-Stab <ICON ALPHA>+	otomo/wp/ot_we040
 169	F Aloha-Ukulele <ICON ALPHA>+	otomo/wp/ot_we041
-170	F Eichelspaten	otomo/wp/ot_we000
+170	F Kürbisspalter <ICON ALPHA>+	otomo/wp/ot_we042
 171	F Schneekatzen-Glocke <ICON ALPHA>+	otomo/wp/ot_we043
 172	F Superstar-Mikroständer <ICON ALPHA>+	otomo/wp/ot_we044
 173	F Eichelspaten <ICON ALPHA>+	otomo/wp/ot_we001
@@ -145,18 +145,18 @@ Weapon ID	Weapon Name	File Path
 179	F Gildenbuch <ICON ALPHA>+	otomo/wp/ot_we063
 180	F Rosen-Korb <ICON ALPHA>+	otomo/wp/ot_we075
 181	F Pukei-Horn <ICON ALPHA>+	otomo/wp/ot_we076
-182	F Eichelspaten	otomo/wp/ot_we000
+182	F Frankie-Stahlball <ICON ALPHA>+	otomo/wp/ot_we077
 183	F Shishimai-Bonbori <ICON ALPHA>+	otomo/wp/ot_we078
 184	F Astral-UFO <ICON ALPHA>+	otomo/wp/ot_we079
 185	F Eichelspaten	otomo/wp/ot_we000
 186	F Eichelspaten	otomo/wp/ot_we000
 187	F Eichelspaten	otomo/wp/ot_we000
-188	HARDUMMY	otomo/wp/ot_we080
+188	F Azurära-Fächer <ICON ALPHA>+	otomo/wp/ot_we080
 189	HARDUMMY	otomo/wp/ot_we081
 190	F Wackelwurm-Koralle <ICON ALPHA>+	otomo/wp/ot_we082
 191	Boaboa-Knochenhammer	otomo/wp/ot_we062
 192	F Frosthauer-Säbel <ICON ALPHA>+	otomo/wp/ot_we083
-193	F Eichelspaten	otomo/wp/ot_we000
+193	F Fatalis-Jäger <ICON ALPHA>+	otomo/wp/ot_we084
 194	F Eichelspaten	otomo/wp/ot_we000
 195	F Maestro-Taktstock <ICON ALPHA>+	otomo/wp/ot_we085
 196	F Bäuerliche Spitzhacke <ICON ALPHA>+	otomo/wp/ot_we086

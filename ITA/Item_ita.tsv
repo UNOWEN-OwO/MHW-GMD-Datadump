@@ -320,7 +320,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 318	Pukei-Pukei: corazza	Material	3	Materiale di Pukei-Pukei.Spesso ottenuto tramite le ricompense.Solido, usato nelle armature.
 319	Pukei-Pukei: penna	Material	3	Materiale di Pukei-Pukei.Ottenuto rompendone le ali.Dai molteplici usi.
 320	Pukei-Pukei: sacca	Material	3	Materiale di Pukei-Pukei.Ottenuto rompendone la testa.Dona proprietà venefiche.
-321	Pukei-Pukei: coda	Material	3	Materiale raro di Pukei-Pukei.Ottenuto tramite il ricavo.Particolare, usato nelle armature.
+321	Pukei-Pukei: coda	Material	3	Materiale di Pukei-Pukei.Ottenuto tramite il ricavo.Particolare, usato nelle armature.
 322	Pukei-Pukei: scaglia+	Material	5	Materiale raro di Pukei-Pukei.Spesso ottenuto tramite il ricavo.Dall'ampio utilizzo.
 323	Pukei-Pukei: carapace	Material	5	Materiale raro di Pukei-Pukei.Spesso ottenuto tramite le ricompense.Solido, usato nelle armature.
 324	Pukei-Pukei: ala	Material	5	Materiale raro di Pukei-Pukei.Ottenuto rompendone le ali.Dai molteplici usi.
@@ -659,7 +659,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 657	Uovo d'erbivoro	Account Item	3	Uovo di erbivoro. Portaloall'accampamento... se ci riesci.<STYL MOJI_YELLOW_DEFAULT>(Oggetto punti)</STYL>
 658	Pezzo di carne	Account Item	3	Pezzo di carne rilasciato daun Odogaron. Attira i carnivori.<STYL MOJI_YELLOW_DEFAULT>(Oggetto punti)</STYL>
 659	Lepre pastore	Account Item	1	Animale spesso visto correre lungostretti sentieri secondari. Seguine unoe potresti scoprire una nuova scorciatoia.
-660	Lepre guida	Account Item	3	Una rara creatura che viene avvistatadurante le giornate soleggiate.Può aiutare i viaggiatori persi.
+660	Lepre pilota	Account Item	3	Una rara creatura che viene avvistatadurante le giornate soleggiate.Può aiutare i viaggiatori persi.
 661	Pteryx silvae	Account Item	1	Un uccello che vive nelle foreste.Possiede ossa e piume che ricordanoquelle di specie fossili.
 662	Pteryx nemoris	Account Item	3	Un uccello raro. Simile a speciefossili, possiede però alcunecaratteristiche mai viste prima.
 663	Sfarfalla blu	Account Item	1	Una splendida farfalla con alidi colore blu cobalto.
@@ -928,9 +928,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 926	HARDUMMY	Material	3	HARDUMMY
 927	HARDUMMY	Material	5	HARDUMMY
 928	Buono Mega Man	Material	5	Buono per una collaborazione specialecon Mega Man. Consente la creazionedi equipaggiamento compagni a 8-bit.
-929	HARDUMMY	Material	3	HARDUMMY
-930	HARDUMMY	Material	5	HARDUMMY
-931	HARDUMMY	Material	5	HARDUMMY
+929	Buono SFV	Material	3	Buono per una collaborazione specialecon Street Fighter. La risposta è nelcuore della lotta...
+930	Buono SFV III	Material	5	Buono per una collaborazione specialecon Street Fighter. Il lottatore leggendarioha forse raggiunto altre vette?
+931	Buono SFV II	Material	5	Buono per una collaborazione specialecon Street Fighter. Anche la giovanecombattente si unirà alla caccia?
 932	Frammento astro celeste	Material	3	Materiale speciale dato comericompensa a coloro che hannosuperato la sfida degli USJ.
 933	Gemma astro celeste	Material	5	Materiale speciale per coloroche hanno superato la sfida diUSJ. Emette un bagliore celeste.
 934	Gemma rossa	Material	7	Sangue cristallizzato di creaturedemoniache. Può essere usato perforgiare dell'equipaggiamento stiloso.
@@ -2272,9 +2272,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2270	Gioiello sopravvivenza 1	Jewel	8	Gioiello che potenzia l'effettodell'abilità <STYL MOJI_LIGHTBLUE_DEFAULT>Esperto disopravvivenza</STYL>.
 2271	Unavailable	Jewel	8	Gioiello che potenzia l'effettodell'abilità <STYL MOJI_LIGHTBLUE_DEFAULT>Mobilità acquatica/polare</STYL>.
 2272	Gioiello riscaldante 2	Jewel	8	Gioiello che potenzia l'effettodell'abilità <STYL MOJI_LIGHTBLUE_DEFAULT>Antifreddo</STYL>.
-2273	Unavailable	Item	3	Unavailable
-2274	Unavailable	Item	3	Unavailable
-2275	Unavailable	Item	3	Unavailable
+2273	Gioiello provocatore 3	Jewel	10	Gioiello che potenzia l'effettodell'abilità <STYL MOJI_LIGHTBLUE_DEFAULT>Provocatore</STYL>.
+2274	Gioiello atterraggio perfetto 3	Jewel	10	Gioiello che potenzia l'effettodell'abilità <STYL MOJI_LIGHTBLUE_DEFAULT>Atterraggio perfetto</STYL>.
+2275	Gioiello potenziamento rampino 3	Jewel	10	Gioiello che potenzia l'effettodell'abilità <STYL MOJI_LIGHTBLUE_DEFAULT>Potenziamento rampino</STYL>.
 2276	Unavailable	Item	3	Unavailable
 2277	Unavailable	Item	3	Unavailable
 2278	Unavailable	Item	3	Unavailable
@@ -2417,7 +2417,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2415	Decorazione floreale (piccola)	Room Decoration	3	Un assortimento di fiorisplendidi in un piccolo vaso.
 2416	Decorazione floreale (grande)	Room Decoration	3	Un assortimento di fiorisplendidi in un grande vaso.
 2417	Piante tropicali	Room Decoration	3	Vasi di piante che provengonoda una regione temperata.(Festival spezie sfrigolanti)
-2418	Unavailable	Item	3	Unavailable
+2418	Zucche brivido brioso	Room Decoration	3	Una zucca inquietantepoggiata su diverse zucche.(Festival brivido brioso)
 2419	Modellino della Quinta Flotta	Room Decoration	3	Un elaborato modellino di unanave della Quinta flotta.
 2420	Modellino nave modificata	Room Decoration	3	Un modellino della nave modificataper allontanare lo Zorah Magdaros.
 2421	Modellino della Base di ricerca	Room Decoration	3	Un modellino della Base di ricerca.I minuti dettagli sono il lavorodi un artigiano esperto.
@@ -2428,7 +2428,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2426	Maschera Rathalos	Room Decoration	3	Maschera ispirata al musodi un Rathalos.(Festival spezie sfrigolanti)
 2427	Maschera Rathian	Room Decoration	3	Maschera ispirata al musodi una Rathian.(Festival spezie sfrigolanti)
 2428	Maschera Kulu-Ya-Ku	Room Decoration	3	Maschera ispirata al musodi un Kulu-Ya-Ku.(Festival spezie sfrigolanti)
-2429	Unavailable	Item	3	Unavailable
+2429	Spettro brivido brioso	Room Decoration	3	Una decorazione spaventosache raffigura un fantasma.(Festival brivido brioso)
 2430	Palloncino Felyne	Room Decoration	3	Un palloncino decorativoche assomiglia a un Felyne.(Festival astrale)
 2431	Palloncino Grimalkyne (bianco)	Room Decoration	3	Un palloncino decorativoche assomiglia a un Grimalkyne.(Festival astrale)
 2432	Palloncino Grimalkyne (nero)	Room Decoration	3	Un palloncino decorativoche assomiglia a un Grimalkyne.(Festival astrale)
@@ -2461,7 +2461,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2459	Scorcio di Distese brinose 2	Room Decoration	3	Dipinto ispirato ai paesaggidelle Distese brinose.
 2460	Mappe del Nuovo Mondo	Room Decoration	3	Mappa del Nuovo Mondoe dell'Oltreterra con alcuneannotazioni.
 2461	Ritratti compagno 5	Room Decoration	3	Un ritratto di gruppo cheraffigura dei compagni(e un Poogie!).
-2462	Unavailable	Item	3	Unavailable
+2462	Stoffa brivido brioso	Room Decoration	3	Un pezzo di stoffa fluttuantee un po' inquietante.(Festival brivido brioso)
 2463	Vessillo della Prima flotta	Room Decoration	3	Il vessillo della Prima flotta.
 2464	Vessillo della Seconda flotta	Room Decoration	3	Il vessillo della Seconda flotta.
 2465	Vessillo della Terza flotta	Room Decoration	3	Il vessillo della Terza flotta.
@@ -2476,7 +2476,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2474	Lanterna di carta	Room Decoration	3	Una lanterna di carta dallaluce calda e fioca.(Festival gioioso)
 2475	Lampada Poogie	Room Decoration	3	Graziosa lampada ispirataad un Poogie.
 2476	Lanterne di carta rotonde	Room Decoration	3	Lampade semplici mapur sempre alla moda.(Festival astrale)
-2477	Unavailable	Item	3	Unavailable
+2477	Lanterna di zucca	Room Decoration	3	Una lanterna di zuccacon una faccia intagliata.(Festival brivido brioso)
 2478	Set base di ricerca	Room Decoration	3	Una selezione di strumentiutilizzati nella base di ricercadella Terza flotta.
 2479	Set da cucina	Room Decoration	3	Strumenti e ingredienti di variogenere, utilizzati nella mensa percreare pasti succulenti.
 2480	Busto Rathalos	Room Decoration	3	Un busto scolpito in pietradella testa di un Rathalos.
@@ -2557,12 +2557,12 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2555	Modellino Tzitzi-Ya-Ku	Room Decoration	3	Modellino da esposizione.Raffigura lo Tzitzi-Ya-Ku.
 2556	Modellino Rajang	Room Decoration	3	Modellino da esposizione.Raffigura il Rajang.
 2557	Modellino Kirin	Room Decoration	3	Modellino da esposizione.Raffigura il Kirin.
-2558	Unavailable	Item	3	Unavailable
+2558	Modellino Lunastra	Room Decoration	3	Modellino da esposizione.Raffigura la Lunastra.
 2559	Modellino Vaal Hazak	Room Decoration	3	Modellino da esposizione.Raffigura il Vaal Hazak.
 2560	Modellino Teostra	Room Decoration	3	Modellino da esposizione.Raffigura il Teostra.
-2561	Modellini Gajalaka	Room Decoration	3	Modellini da esposizione.Raffigurano i Gajalaka.
+2561	Modellini Gajalaka	Room Decoration	3	Modellini da esposizione.Raffigurano Gajalaka eRe Gajalaka.
 2562	Modellino Brachydios	Room Decoration	3	Modellino da esposizione.Raffigura il Brachydios.
-2563	Unavailable	Item	3	Unavailable
+2563	Modellino Uragaan	Room Decoration	3	Modellino da esposizione.Raffigura l'Uragaan.
 2564	Modellino Lavasioth	Room Decoration	3	Modellino da esposizione.Raffigura il Lavasioth.
 2565	Modellino astrale	Room Decoration	3	Un modellino che ritrae duemostri dallo spaventoso legame.(Festival astrale)
 2566	Parete di marmo (bianco)	Room Decoration	3	Unavailable
@@ -2578,17 +2578,17 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2576	Decorazione S.T.A.R.S. 2	Room Decoration	3	Una decorazione da parete ispirataalla divisione S.T.A.R.S. dell'R.P.D.<STYL MOJI_RED_DEFAULT>Collaborazione Raccoon City</STYL>
 2577	Macchina da scrivere	Room Decoration	3	Una macchina da scrivere, idealeper immortalare momenti di paura e sollievo.<STYL MOJI_RED_DEFAULT>Collaborazione Raccoon City</STYL>
 2578	Cassa oggetti	Room Decoration	3	Un baule che può conteneregli oggetti che non puoi trasportare.<STYL MOJI_RED_DEFAULT>Collaborazione Raccoon City</STYL>
-2579	Unavailable	Item	3	Unavailable
+2579	Piatto brivido brioso	Room Decoration	3	Una spaventosa raccolta dicaramelle e dolci colorati. (Piattospeciale del Festival brivido brioso)
 2580	Poogie dorato	Room Decoration	3	Una scintillante statua d'orodi Poogie.
 2581	Pupazzo di neve gioioso	Room Decoration	3	Un pupazzo di neve illuminato.Sembra normale, ma forse...(Festival gioioso)
 2582	Pupazzo di neve astrale	Room Decoration	3	Un pupazzo di neve blucon un disco misterioso.(Festival astrale)
 2583	Pupazzo di neve fiorito	Room Decoration	3	Un pupazzo realizzato con dei fiori.(Decorazione del Festival dellafioritura)
 2584	Pupazzo di neve sfrigolante	Room Decoration	3	Un simpatico pupazzo di neveche indossa una maschera.(Festival spezie sfrigolanti)
-2585	Unavailable	Item	3	Unavailable
+2585	Pupazzo di neve terrificante	Room Decoration	3	Un pupazzo di nevecon occhi che brillano.(Festival brivido brioso)
 2586	Lanterne volanti	Room Decoration	3	Luci che fluttuano nell'aria.(Festival astrale)
 2587	Bandiera sfarzosa	Room Decoration	3	Una bandiera usata come decorazione.
 2588	Vaso pensile di fiori colorati	Room Decoration	3	Un vaso pensile che traboccadi fiori colorati.
-2589	Unavailable	Item	3	Unavailable
+2589	Luminescenza brivido brioso	Room Decoration	3	Una strana decorazione cheemette un bagliore al buio.(Festival brivido brioso)
 2590	Rilievo	Room Decoration	3	Rilievo in bronzo di un Rathalos.
 2591	Dipinto dell'Ammiraglio	Room Decoration	3	Dipinto che cattura l'essenzarobusta dell'Ammiraglio.
 2592	Mensola sfarzosa	Room Decoration	3	Una mensola biancacon decorazioni in oro.
@@ -2598,7 +2598,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2596	Tappeti lussuosi (PT)	Room Decoration	3	Eleganti tappeti decorati condei petali di fiori.(Festival della fioritura)
 2597	Tappeti lussuosi (1P)	Room Decoration	3	Eleganti tappeti decorati condei petali di fiori.(Festival della fioritura)
 2598	Decorazione Pukei-Pukei	Room Decoration	3	Un'enorme e piumosadecorazione di Pukei-Pukei.
-2599	Unavailable	Item	3	Unavailable
+2599	Manichino brivido brioso	Room Decoration	3	Un manichino che richiamauno spettro.(Festival brivido brioso)
 2600	Modellino Jyuratodus	Room Decoration	3	Modellino da esposizione.Raffigura il Jyuratodus.
 2601	Modellino Barroth	Room Decoration	3	Modellino da esposizione.Raffigura il Barroth.
 2602	Modellino Diablos	Room Decoration	3	Modellino da esposizione.Raffigura il Diablos.
@@ -2606,13 +2606,13 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2604	Modellino Xeno'jiiva	Room Decoration	3	Modellino da esposizione.Raffigura lo Xeno'jiiva.
 2605	Modellini Wulg	Room Decoration	3	Modellino da esposizione.Raffigura il Wulg.
 2606	Modellini erbivori	Room Decoration	3	Modellino da esposizione.Raffigura Rallus mollis e Aptonoth.
-2607	Unavailable	Item	3	Unavailable
-2608	Unavailable	Item	3	Unavailable
-2609	Unavailable	Item	3	Unavailable
-2610	Unavailable	Item	3	Unavailable
-2611	Unavailable	Item	3	Unavailable
-2612	Unavailable	Item	3	Unavailable
-2613	Unavailable	Item	3	Unavailable
+2607	Modellino Kulve Taroth	Room Decoration	3	Modellino da esposizione.Raffigura la Kulve Taroth.
+2608	Modellino Bazelgeuse	Room Decoration	3	Modellino da esposizione.Raffigura il Bazelgeuse.
+2609	Modellino Deviljho	Room Decoration	3	Modellino da esposizione.Raffigura il Deviljho.
+2610	Modellino Shara Ishvalda 1	Room Decoration	3	Modellino da esposizione.Raffigura lo Shara Ishvalda.
+2611	Modellino Shara Ishvalda 2	Room Decoration	3	Modellino da esposizione.Raffigura lo Shara Ishvalda.
+2612	Modellino Alatreon	Room Decoration	3	Modellino da esposizione.Raffigura l'Alatreon.
+2613	Modellino Fatalis	Room Decoration	3	Modellino da esposizione.Raffigura il Fatalis.
 2614	The Bustling Heart of the Snowy Village (MH Swing)	Room Decoration	3	Monster Hunter Portable 2ndTema del villaggio, arrangiamentoMonster Hunter Swing.
 2615	Scat Cat Fever (MH Swing)	Room Decoration	3	Tema dell'arena di MonsterHunter, arrangiamentoMonster Hunter Swing.
 2616	In Search of Hidden Springs (MH Swing)	Room Decoration	3	Monster Hunter Portable 3rdTema del villaggio di Yukumo,arrangiamento Monster Hunter Swing.
@@ -2624,9 +2624,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2622	The Hunters' Secret Spring (MH The Jazz)	Room Decoration	3	Monster Hunter Portable 3rdTema riarrangiato sala del radunoMonster Hunter The Jazz.
 2623	Winds of Adventure (MH The Jazz)	Room Decoration	3	Monster Hunter 4 UltimateTema principale riarrangiatoMonster Hunter The Jazz.
 2624	Proof of a Hero (MH The Jazz)	Room Decoration	3	Monster HunterTema della serie riarrangiatoMonster Hunter The Jazz.
-2625	Unavailable	Item	3	Unavailable
-2626	Unavailable	Item	3	Unavailable
-2627	Unavailable	Item	3	Unavailable
+2625	The Legend Descends - Fatalis: World Version	Room Decoration	3	Monster Hunter World: IceborneTema scontro Fatalis 1.
+2626	Limitless Courage	Room Decoration	3	Monster Hunter World: IceborneTema scontro Fatalis 2.
+2627	The Final Confrontation	Room Decoration	3	Monster Hunter World: IceborneTema scontro Fatalis 3.
 2628	Banchetto Boaboa	Room Decoration	3	Delle portate ispirate albanchetto tradizionale Boaboa.
 2629	Scultura Popo	Room Decoration	3	Semplice scultura diun Popo.
 2630	Zattera Boaboa	Room Decoration	3	Decorazione che raffiguraun Boaboa su una zattera.
@@ -2639,22 +2639,22 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2637	Statue Felyne	Room Decoration	3	Tre statue Felyne.
 2638	Sculture di fango Grimalkyne.	Room Decoration	3	Un set di statue createdai Grimalkyne col fango.
 2639	Sculture Popo	Room Decoration	3	Un branco di Popo.
-2640	Unavailable	Item	3	Unavailable
+2640	Teschio di Beotodus	Room Decoration	3	Un enorme teschio di Beotodus,testimonianzia delle capacità dicaccia dei Boaboa.
 2641	Equipaggiamento Boaboa	Room Decoration	3	Un set di equipaggiamentoBoaboa.
-2642	Unavailable	Item	3	Unavailable
-2643	Unavailable	Item	3	Unavailable
-2644	Unavailable	Item	3	Unavailable
-2645	Unavailable	Item	3	Unavailable
-2646	Unavailable	Item	3	Unavailable
-2647	Unavailable	Item	3	Unavailable
-2648	Unavailable	Item	3	Unavailable
-2649	Unavailable	Item	3	Unavailable
-2650	Unavailable	Item	3	Unavailable
-2651	Unavailable	Item	3	Unavailable
-2652	Unavailable	Item	3	Unavailable
-2653	Unavailable	Item	3	Unavailable
-2654	Unavailable	Item	3	Unavailable
-2655	Unavailable	Item	3	Unavailable
+2642	Riunione di Lynian	Room Decoration	3	Un diorama che raffigura iLynian del Nuovo Mondoriuniti per socializzare.
+2643	Pupazzo Lumu (bianco)	Room Decoration	3	Un pupazzo che raffiguraun grazioso Paolumu.
+2644	Pupazzo Lumu (viola)	Room Decoration	3	Un pupazzo che raffiguraun grazioso Paolumu onirico.
+2645	Pupazzo Talpy	Room Decoration	3	Un pupazzo che raffigurauna Talpy dolce e graziosa.
+2646	Pupazzo Talpy (verde)	Room Decoration	3	Un pupazzo che raffigura unaTalpy appariscente e graziosa.
+2647	Pupazzo Talpy (giallo)	Room Decoration	3	Un pupazzo che raffigurauna Talpy rigida e graziosa.
+2648	Pupazzo Talpy (rosa)	Room Decoration	3	Un pupazzo che raffigurauna Talpy soffice e graziosa.
+2649	Pupazzo Talpy (nero)	Room Decoration	3	Un pupazzo che raffigurauna Talpy spettrale e graziosa.
+2650	Pupazzo Talpy (rosso)	Room Decoration	3	Un pupazzo che raffigura unaTalpy coraggiosa e graziosa.
+2651	Pupazzo Talpy (bianco)	Room Decoration	3	Un pupazzo che raffigurauna Talpy gentile e graziosa.
+2652	Dipinto di Fatalis	Room Decoration	3	Un dipinto che raffigura unagloriosa nazione disastrata.
+2653	Pupazzo Rajang (nero)	Room Decoration	3	Decorazione che raffiguraun Rajang che si dondola.
+2654	Pupazzo Rajang (oro)	Room Decoration	3	Decorazione che raffiguraun Rajang furioso che si dondola.
+2655	Stendardo di Schrade	Room Decoration	3	Lo stendardo che rappresentala gloriosa nazione di Schrade.
 2656	Unavailable	Item	3	Unavailable
 2657	Unavailable	Item	3	Unavailable
 2658	Unavailable	Item	3	Unavailable
@@ -2680,7 +2680,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2678	Pupazzo di neve	Item	3	Un pupazzo di neve gigante chepuò essere usato per creare palledi neve. Ottenuto al festival di Seliana.
 2679	Buono Namielle	Material	11	Un buono che raffigura il Namielle,signore del torrente. Consegnalo allaForgia per del nuovo equipaggiamento.
 2680	Unavailable	Item	3	Unavailable
-2681	Unavailable	Item	3	Unavailable
+2681	Buono Velkhana	Material	11	Un buono raffigurante il Velkhana,signore del gelo. Portalo allaForgia per qualcosa di speciale.
 2682	Buono assiderato	Material	10	Prova che hai cacciato un Bariothassiderato temprato. Portalo allaForgia per una sorpresa.
 2683	Pianta verde	Item	1	Una pianta verde nativa delle montagneArklay. Ripristina la salute e cura lazombificazione. (Solo in missione)
 2684	Pianta rossa	Item	1	Una pianta rossa nativa delle montagneArklay. Non puoi usarla così com'è.(Solo in missione)
@@ -2724,11 +2724,11 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2722	Buono sgombro-coltello	Material	9	Ottenuto dall'Esperto di pesca.Ci sono impronte di sgombro-coltello.Portalo alla forgia e vedi che succede.
 2723	Buono Rallus mollis II	Material	9	Un buono che raffigura unRallus mollis adulto.Portalo alla Forgia!
 2724	Buono spezie sfrigolanti	Material	8	Ottenuto per aver partecipatoal festival spezie sfrigolanti.Per equipaggiamento speciale o oggetti.
-2725	Buono lepre pilota	Material	9	Un buono per coloro chedesiderano diventare una leprepilota. Portalo alla Forgia e...
+2725	Buono lepre pastore	Material	9	Un buono per coloro chedesiderano diventare una leprepastore. Portalo alla Forgia e...
 2726	Buono mensa spiritata	Material	9	Un buono per un drink celebrativo,donato dallo Chef miauscoloso.Portalo alla Forgia e...
-2727	Unavailable	Item	3	Unavailable
-2728	Unavailable	Item	3	Unavailable
-2729	Unavailable	Item	3	Unavailable
+2727	Buono brivido brioso	Material	8	Buono ricevuto per aver partecipatoal festival brivido brioso. Scambialocon equipaggiamento speciale o oggetti.
+2728	Bandana nera	Material	9	Una bandana di stoffa resistente,che si coordina bene col bianco.Portala alla Forgia per qualcosa di speciale.
+2729	Buono sciarpa	Material	9	Uno schema ispirato al Tobi-Kadachicreato da un membro della Commissione.Portala alla Forgia per qualcosa di speciale.
 2730	Simbolo legame	Material	9	Sono arrivate notizie da amicilontani! Parlano di storie incredibili!Portalo alla forgia.
 2731	Unavailable	Item	3	Unavailable
 2732	Buono dorato	Material	9	Un buono che raffigura unMacaco dorato. Portaloalla Forgia per una sorpresa.
@@ -2736,9 +2736,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2734	Pelliccia splendida	Material	9	Ottenuta utilizzando il mantellofurfante. Ambita da ogni collezionista.<STYL MOJI_YELLOW_DEFAULT>(Oggetto scambio)</STYL>
 2735	Buono gioioso VIP	Material	11	Buono raro, ottenuto per aver partecipatoal festival gioioso. Usalo per forgiarestili armatura e pendenti.
 2736	Buono astrale VIP	Material	11	Buono raro, ottenuto per averpartecipato al festival astrale. Usaloper forgiare stili armatura e pendenti.
-2737	Buono VIP della fioritura	Material	11	Buono raro, ottenuto per aver partecipatoal festival della fioritura. Usalo per forgiarestili armatura e pendenti. 
+2737	Buono fioritura VIP	Material	11	Buono raro, ottenuto per aver partecipatoal festival della fioritura. Usalo per forgiarestili armatura e pendenti. 
 2738	Buono spezie sfrigolanti VIP	Material	11	Ottenuto per aver partecipatoal festival spezie sfrigolanti.Per equipaggiamento e amuleti.
-2739	Unavailable	Item	3	Unavailable
+2739	Buono brivido brioso VIP	Material	11	Buono raro, ottenuto per aver partecipatoal festival brivido brioso. Usalo per forgiarestili armatura e pendenti.
 2740	Sfera repellente	Item	8	Lancialo contro un mostro per allontanarlodalle Terre guida. <STYL MOJI_YELLOW_DEFAULT>Esclusivo per capogruppo.</STYL>
 2741	Unavailable	Item	3	Unavailable
 2742	Cumulo forzadrago (spada)	Material	11	Unavailable
@@ -2755,22 +2755,22 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2753	Cumulo forzadrago (colpo)	Material	11	Unavailable
 2754	Cumulo forzadrago (cannone)	Material	11	Unavailable
 2755	Cumulo forzadrago (arco)	Material	11	Unavailable
-2756	Unavailable	Item	3	Unavailable
-2757	Unavailable	Item	3	Unavailable
-2758	Unavailable	Item	3	Unavailable
-2759	Unavailable	Item	3	Unavailable
-2760	Unavailable	Item	3	Unavailable
-2761	Unavailable	Item	3	Unavailable
+2756	Fatalis: frammento	Material	10	Materiale raro di Fatalis.Spesso ottenuto tramite il ricavo.I suoi cerchi spessi mostrano l'età.
+2757	Fatalis: corteccia	Material	10	Materiale raro di Fatalis.I diversi strati da cui è compostonon vengono scalfiti da armi comuni.
+2758	Fatalis: pectus	Material	10	Materiale raro di Fatalis.Contiene l'equipaggiamento fusodi chi ha provato ad affrontarlo.
+2759	Fatalis: corno duro	Material	10	Materiale raro di Fatalis.Un corno estremamente forte.Il suo bagliore oscuro è ammaliante.
+2760	Fatalis: occhio demone	Material	11	Materiale raro di Fatalis.Un occhio circondato da un'aurainsolita. Forse è posseduto...
+2761	Fatalis: ala dura	Material	10	Materiale raro di Fatalis.Un'ala dura come il metallo, mamalleabile se in mani esperte.
 2762	Buono erbivori I	Material	9	Un buono raffigurante un Kelbiche scorrazza. Portalo allaForgia per una sorpresa.
 2763	Buono erbivori II	Material	9	Un buono raffigurante un brancodi Aptonoth al pascolo. Portaloalla Forgia per una sorpresa.
 2764	Buono occhio interiore	Material	10	Un buono che raffigura coluiin grado di vedere tutto. Portaloalla Forgia per una sorpresa.
-2765	Unavailable	Item	3	Unavailable
+2765	Buono palestrato+	Material	11	Questo buono ricorda le provesuperate per raggiungere la perfezione.Portalo alla Forgia per qualcosa di speciale.
 2766	Unavailable	Item	3	Unavailable
 2767	Unavailable	Item	3	Unavailable
 2768	Unavailable	Item	3	Unavailable
 2769	Unavailable	Item	3	Unavailable
-2770	Unavailable	Item	3	Unavailable
-2771	Unavailable	Item	3	Unavailable
+2770	Buono Zinogre	Material	9	Un buono raffigurante lo Zinogreche ulula alla luna. Portalo alla Forgiaper qualcosa di speciale.
+2771	Buono Tigrex brutale	Material	9	Un buono raffigurante il Tigrex brutaleche ruggisce verso il cielo. Portalo allaForgia per qualcosa di speciale.
 2772	Unavailable	Item	3	Unavailable
 2773	Unavailable	Item	3	Unavailable
 2774	Unavailable	Item	3	Unavailable

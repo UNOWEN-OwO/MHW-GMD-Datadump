@@ -115,8 +115,12 @@ N766_NPC_NAME	Pignola della Quarta	npc766
 N767_NPC_NAME	Zelante della Quinta	npc767
 N781_NPC_NAME	Giovane fabbro	npc781
 N782_NPC_NAME	Vicecapo biologo	npc782
+N785_NPC_NAME	Generale	npc785
+N786_NPC_NAME	Subordinato	npc786
+N787_NPC_NAME	Subordinata	npc787
 N792_NPC_NAME	Venditore della forgia	npc792
 N793_NPC_NAME	Risorse Terza flotta	npc793
+N788_NPC_NAME	Artemis	npc788
 HUNTER_00_NAME	Cacciatore novizio	
 HUNTER_01_NAME	Cacciatore inesperto	
 HUNTER_02_NAME	Cacciatore giovane	

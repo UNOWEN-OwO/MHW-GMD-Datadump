@@ -156,8 +156,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	159	Мн. шлем конц. костюма	153	0	3	pl078_0000
 0	Head	160	Unavailable	158	2	0	pl001_0000
 0	Head	299	HARDUMMY	154	0	7	pl068_0000
-0	Head	291	HARDUMMY	155	0	7	pl069_0000
-0	Head	292	HARDUMMY	156	0	7	pl070_0000
+0	Head	291	Многослойный шлем Ryu	155	0	7	pl069_0000
+0	Head	292	Многослойный шлем Sakura	156	0	7	pl070_0000
 0	Head	144	Unavailable	157	2	0	pl001_0000
 0	Head	297	Многосл. шлем Байека	159	0	7	pl120_0000
 0	Head	162	Unavailable	160	2	0	pl001_0000
@@ -198,9 +198,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	223	Шлем Дзоры<ICON GAMMA>	213	72	7	pl038_0020
 0	Head	224	Шлем ксено'джиивы<ICON GAMMA>	214	72	7	pl045_0020
 0	Head	225	HARDUMMY	215	46	4	pl068_0000
-0	Head	226	HARDUMMY	216	12	1	pl069_0000
-0	Head	227	HARDUMMY	217	60	6	pl069_0000
-0	Head	228	HARDUMMY	218	50	5	pl070_0000
+0	Head	226	Голова Ryu	216	12	1	pl069_0000
+0	Head	227	Голова Ryu<ICON ALPHA>	217	60	6	pl069_0000
+0	Head	228	Голова Sakura<ICON ALPHA>	218	50	5	pl070_0000
 0	Head	229	Звездная корона<ICON ALPHA>	219	56	6	pl072_0000
 0	Head	230	Волосы Данте<ICON ALPHA>	220	64	7	pl071_0000
 0	Head	231	Корона императрицы <ICON ALPHA>	221	70	7	pl051_0000
@@ -347,7 +347,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	422	Шлем кисл. главенуса<ICON BETA>+	372	150	10	pl081_0110
 0	Head	423	Артианский шлем<ICON ALPHA>+	373	142	9	pl091_0000
 0	Head	424	Артианский шлем<ICON BETA>+	374	142	9	pl091_0000
-0	Head	425	Unavailable	375	0	0	None
+0	Head	425	Многослойный шлем шарфа черепа	375	0	10	pl099_0000
 0	Head	426	Многослойный шлем поки<ICON ALPHA>	376	0	4	pl010_0000
 0	Head	427	Многослойный шлем поки<ICON BETA>	377	0	4	pl010_0010
 0	Head	428	Доберовый шлем<ICON ALPHA>+	378	152	10	pl044_0000
@@ -368,7 +368,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	443	Рог кирина<ICON BETA>+	393	154	11	pl035_0011
 0	Head	444	Ряса щупалец<ICON ALPHA>+	394	158	11	pl086_0000
 0	Head	445	Ряса щупалец<ICON BETA>+	395	158	11	pl086_0010
-0	Head	446	Unavailable	396	0	0	None
+0	Head	446	Многослойный часовой шлем<ICON ALPHA>+	396	0	9	pl104_0000
 0	Head	447	Многослойный шлем баррота	397	0	4	pl012_0000
 0	Head	448	Шлем гильд. дворца<ICON ALPHA>+	398	154	10	pl094_0000
 0	Head	449	Шлем гильд. дворца<ICON BETA>+	399	154	10	pl094_0000
@@ -422,7 +422,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	497	Многослойный шлем луму	447	0	4	pl024_0000
 0	Head	498	Страстный головной убор<ICON ALPHA>+	448	156	9	pl125_0000
 0	Head	499	Многослойный шлем ратианы<ICON ALPHA>	449	0	4	pl021_0000
-0	Head	500	Unavailable	450	0	0	None
+0	Head	500	Шерсть владыки демонов<ICON ALPHA>+	450	162	10	pl126_0000
 0	Head	501	Многослойный шлем ратианы<ICON BETA>	451	0	4	pl021_0010
 0	Head	502	Волосы улуна<ICON ALPHA>+	452	120	8	pl127_0000
 0	Head	503	Многослойный шлем радобаана<ICON ALPHA>	453	0	5	pl028_0000
@@ -430,7 +430,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	505	Многослойный шлем радобаана<ICON BETA>	455	0	5	pl028_0010
 0	Head	506	Многослойный шлем розы	456	0	9	pl124_0000
 0	Head	507	Страстный мног. шлем	457	0	9	pl125_0000
-0	Head	508	Unavailable	458	0	0	None
+0	Head	508	Мног. шлем владыки демонов	458	0	10	pl126_0000
 0	Head	509	Многослойный шлем улуна	459	0	8	pl127_0000
 0	Head	510	Многослойный шлем астрала	460	0	8	pl128_0000
 0	Head	511	Многосл. шлем из выс. металла	461	0	5	pl025_0000
@@ -438,7 +438,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	513	Мног. доспех кроличьих ушек	463	0	8	pl111_0000
 0	Head	514	Мног. шлем пухового коростеля	464	0	8	pl112_0000
 0	Head	515	Жемчужный источник<ICON ALPHA>+	465	120	8	pl113_0000
-0	Head	516	Unavailable	466	0	0	None
+0	Head	516	Многослойный шарф кадачи	466	0	8	pl114_0000
 0	Head	518	Шлем рева рекса<ICON ALPHA>+	468	158	10	pl083_0100
 0	Head	519	Шлем рева рекса<ICON BETA>+	469	158	10	pl083_0110
 0	Head	520	Шлем стража<ICON ALPHA>+	470	50	5	pl121_0000
@@ -446,19 +446,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	522	Мн. шлем серебр. рыцаря	472	0	6	pl123_0000
 0	Head	523	HARDUMMY	473	132	11	pl068_0010
 0	Head	524	Ряса щупалец<ICON GAMMA>+	474	176	11	pl086_0020
-0	Head	525	HARDUMMY	475	0	7	pl072_0000
-0	Head	526	HARDUMMY	476	170	11	pl072_0001
-0	Head	527	Unavailable	477	0	0	None
+0	Head	525	Мног. шлем лазурн. зв. лорда	475	0	7	pl072_0000
+0	Head	526	Прическа лазурного воина<ICON ALPHA>+	476	170	11	pl072_0001
+0	Head	527	Порубежный шлем<ICON GAMMA>+	477	180	11	pl085_0020
 0	Head	528	Шлем ледозубого<ICON ALPHA>+	478	162	10	pl089_0500
 0	Head	529	Шлем ледозубого<ICON BETA>+	479	162	10	pl089_0510
-0	Head	530	Unavailable	480	0	0	None
-0	Head	531	Unavailable	481	0	0	None
+0	Head	530	Драконий шлем<ICON ALPHA>+	480	180	11	pl129_0000
+0	Head	531	Драконий шлем<ICON BETA>+	481	180	11	pl129_0010
 0	Head	532	HARDUMMY	482	160	11	pl068_0020
 0	Head	533	Unavailable	483	0	0	None
 0	Head	534	Шлем Леона <ICON ALPHA>+	484	150	11	pl130_0000
 0	Head	535	Шлем Клэр <ICON ALPHA>+	485	150	11	pl131_0000
-0	Head	536	Unavailable	486	0	0	None
-0	Head	537	Unavailable	487	0	0	None
+0	Head	536	Многослойный шлем Леона+	486	0	11	pl130_0000
+0	Head	537	Многослойный шлем Клэр+	487	0	11	pl131_0000
 0	Head	538	Многослойный шлем гастодона	488	0	4	pl015_0000
 0	Head	540	Многослойный шлем додогамы	490	0	4	pl039_0000
 0	Head	541	Драг. многослойный шлем	491	0	5	pl031_0000
@@ -515,130 +515,130 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	592	Многослойный шлем Кулве<ICON ALPHA>	542	0	7	pl049_0000
 0	Head	593	Многослойный шлем Кулве<ICON BETA>	543	0	7	pl049_0010
 0	Head	594	Многослойный шлем Кулве<ICON GAMMA>	544	0	7	pl049_0020
-0	Head	595	Unavailable	546	0	0	None
-0	Head	596	Unavailable	547	0	0	None
-0	Head	597	Unavailable	548	0	0	None
-0	Head	599	Unavailable	550	0	0	None
-0	Head	600	Unavailable	551	0	0	None
-0	Head	601	Unavailable	552	0	0	None
-0	Head	602	Unavailable	553	0	0	None
-0	Head	603	Unavailable	554	0	0	None
-0	Head	604	Unavailable	555	0	0	None
-0	Head	605	Unavailable	556	0	0	None
-0	Head	606	Unavailable	557	0	0	None
-0	Head	607	Unavailable	558	0	0	None
-0	Head	608	Unavailable	559	0	0	None
-0	Head	609	Unavailable	560	0	0	None
-0	Head	610	Unavailable	561	0	0	None
-0	Head	611	Unavailable	562	0	0	None
-0	Head	612	Unavailable	563	0	0	None
-0	Head	613	Unavailable	564	0	0	None
-0	Head	614	Unavailable	565	0	0	None
-0	Head	615	Unavailable	566	0	0	None
-0	Head	616	Unavailable	567	0	0	None
-0	Head	617	Unavailable	568	0	0	None
-0	Head	618	Unavailable	569	0	0	None
-0	Head	619	Unavailable	570	0	0	None
-0	Head	620	Unavailable	571	0	0	None
-0	Head	621	Unavailable	572	0	0	None
-0	Head	622	Unavailable	573	0	0	None
-0	Head	623	Unavailable	574	0	0	None
+0	Head	595	Многослойный шлем осоида+	546	0	8	pl007_0001
+0	Head	596	Многослойный шлем роготавра+	547	0	8	pl017_0001
+0	Head	597	Многослойный шлем вальга+	548	0	8	pl102_0000
+0	Head	599	Многослойный шлем яграса+	550	0	8	pl008_0001
+0	Head	600	Многослойный шлем цици+	551	0	8	pl023_0001
+0	Head	601	Многослойный шлем гирроса+	552	0	8	pl022_0001
+0	Head	602	Многослойный шлем додогамы+	553	0	8	pl039_0001
+0	Head	603	Многослойный шлем кулу+	554	0	8	pl009_0001
+0	Head	604	Многослойный шлем поки+	555	0	8	pl010_0001
+0	Head	605	Мног. шлем кораллового поки+	556	0	8	pl010_0101
+0	Head	606	Многослойный шлем баррота+	557	0	8	pl012_0001
+0	Head	607	Многослойный шлем юратода+	558	0	8	pl011_0001
+0	Head	608	Многослойный шлем бео+	559	0	8	pl110_0000
+0	Head	609	Многослойный шлем кадачи+	560	0	8	pl013_0001
+0	Head	610	Мног. шлем аспидового кадачи+	561	0	8	pl013_0101
+0	Head	611	Многослойный шлем банбаро<ICON ALPHA>+	562	0	8	pl084_0000
+0	Head	612	Многослойный шлем банбаро<ICON BETA>+	563	0	8	pl084_0010
+0	Head	613	Многослойный шлем анья<ICON ALPHA>+	564	0	8	pl020_0001
+0	Head	614	Многослойный шлем анья<ICON BETA>+	565	0	8	pl020_0011
+0	Head	615	Мн. шлем громового аньяната<ICON ALPHA>+	566	0	10	pl020_0101
+0	Head	616	Мн. шлем громового аньяната<ICON BETA>+	567	0	10	pl020_0111
+0	Head	617	Многослойный шлем ратианы<ICON ALPHA>+	568	0	8	pl021_0001
+0	Head	618	Многослойный шлем ратианы<ICON BETA>+	569	0	8	pl021_0011
+0	Head	619	Мног. шлем сердца раты<ICON ALPHA>+	570	0	8	pl021_0101
+0	Head	620	Мног. шлем сердца раты<ICON BETA>+	571	0	8	pl021_0111
+0	Head	621	Многослойный шлем луму+	572	0	8	pl024_0001
+0	Head	622	Мног. шлем фантазма луму+	573	0	8	pl024_0101
+0	Head	623	Многослойный шлем радобаана+	574	0	8	pl028_0001
 0	Head	624	Многосл. артианский шлем	575	0	9	pl091_0000
-0	Head	625	Unavailable	674	0	0	None
-0	Head	626	Unavailable	576	0	0	None
-0	Head	627	Unavailable	577	0	0	None
-0	Head	628	Unavailable	578	0	0	None
-0	Head	629	Unavailable	579	0	0	None
-0	Head	630	Unavailable	580	0	0	None
-0	Head	631	Unavailable	581	0	0	None
-0	Head	632	Unavailable	582	0	0	None
-0	Head	633	Unavailable	583	0	0	None
-0	Head	634	Unavailable	584	0	0	None
-0	Head	635	Unavailable	585	0	0	None
-0	Head	636	Unavailable	586	0	0	None
-0	Head	637	Unavailable	587	0	0	None
-0	Head	638	Unavailable	588	0	0	None
-0	Head	639	Unavailable	589	0	0	None
-0	Head	640	Unavailable	590	0	0	None
-0	Head	641	Unavailable	591	0	0	None
-0	Head	642	Unavailable	592	0	0	None
-0	Head	643	Unavailable	593	0	0	None
-0	Head	644	Unavailable	594	0	0	None
-0	Head	645	Unavailable	595	0	0	None
-0	Head	646	Unavailable	596	0	0	None
-0	Head	647	Unavailable	597	0	0	None
-0	Head	648	Unavailable	598	0	0	None
-0	Head	649	Unavailable	599	0	0	None
-0	Head	650	Unavailable	600	0	0	None
-0	Head	651	Unavailable	601	0	0	None
-0	Head	652	Unavailable	602	0	0	None
-0	Head	653	Unavailable	603	0	0	None
-0	Head	654	Unavailable	604	0	0	None
-0	Head	655	Unavailable	605	0	0	None
-0	Head	656	Unavailable	606	0	0	None
-0	Head	657	Unavailable	607	0	0	None
+0	Head	625	Многослойный часовой шлем<ICON BETA>+	674	0	9	pl104_0010
+0	Head	626	Многослойный шлем бариота<ICON ALPHA>+	576	0	9	pl089_0000
+0	Head	627	Многослойный шлем бариота<ICON BETA>+	577	0	9	pl089_0010
+0	Head	628	Многослойный шлем раталоса<ICON ALPHA>+	578	0	9	pl033_0001
+0	Head	629	Многослойный шлем раталоса<ICON BETA>+	579	0	9	pl033_0011
+0	Head	630	Многослойный шлем души раты<ICON ALPHA>+	580	0	10	pl033_0101
+0	Head	631	Многослойный шлем души раты<ICON BETA>+	581	0	10	pl033_0111
+0	Head	632	Многослойный шлем диаблос<ICON ALPHA>+	582	0	9	pl034_0001
+0	Head	633	Многослойный шлем диаблос<ICON BETA>+	583	0	9	pl034_0011
+0	Head	634	Мног. шлем жуткой диаблос<ICON ALPHA>+	584	0	10	pl034_0101
+0	Head	635	Мног. шлем жуткой диаблос<ICON BETA>+	585	0	10	pl034_0111
+0	Head	636	Мног. шлем легианы<ICON ALPHA>+	586	0	9	pl027_0001
+0	Head	637	Мног. шлем легианы<ICON BETA>+	587	0	9	pl027_0011
+0	Head	638	Мн. шлем визжащей легианы<ICON ALPHA>+	588	0	10	pl027_0500
+0	Head	639	Мн. шлем визжащей легианы<ICON BETA>+	589	0	10	pl027_0510
+0	Head	640	Многослойный шлем одогарона<ICON ALPHA>+	590	0	9	pl029_0001
+0	Head	641	Многослойный шлем одогарона<ICON BETA>+	591	0	9	pl029_0011
+0	Head	642	Мн. шлем смерт. гарона<ICON ALPHA>+	592	0	10	pl029_0101
+0	Head	643	Мн. шлем смерт. гарона<ICON BETA>+	593	0	10	pl029_0111
+0	Head	644	Многослойный шлем лавасиота+	594	0	9	pl040_0001
+0	Head	645	Многослойный шлем урагаана+	595	0	9	pl041_0001
+0	Head	646	Многослойный шлем наргакуги<ICON ALPHA>+	596	0	9	pl080_0000
+0	Head	647	Многослойный шлем наргакуги<ICON BETA>+	597	0	9	pl080_0010
+0	Head	648	Многослойный шлем главенуса<ICON ALPHA>+	598	0	9	pl081_0000
+0	Head	649	Многослойный шлем главенуса<ICON BETA>+	599	0	9	pl081_0010
+0	Head	650	Мн. шлем кисл. главенуса<ICON ALPHA>+	600	0	10	pl081_0100
+0	Head	651	Мн. шлем кисл. главенуса<ICON BETA>+	601	0	10	pl081_0110
+0	Head	652	Многосл. шлем брахидиоса<ICON ALPHA>+	602	0	9	pl082_0000
+0	Head	653	Многосл. шлем брахидиоса<ICON BETA>+	603	0	9	pl082_0010
+0	Head	654	Многослойный шлем тигрекса<ICON ALPHA>+	604	0	9	pl083_0000
+0	Head	655	Многослойный шлем тигрекса<ICON BETA>+	605	0	9	pl083_0010
+0	Head	656	Многосл. шлем рева рекса<ICON ALPHA>+	606	0	10	pl083_0100
+0	Head	657	Многосл. шлем рева рекса<ICON BETA>+	607	0	10	pl083_0110
 0	Head	658	Мног. шлем черного пояса	608	0	10	pl093_0000
-0	Head	659	Unavailable	609	0	0	None
-0	Head	660	Unavailable	610	0	0	None
-0	Head	661	Unavailable	611	0	0	None
-0	Head	662	Unavailable	612	0	0	None
-0	Head	663	Unavailable	613	0	0	None
-0	Head	664	Unavailable	614	0	0	None
-0	Head	665	Unavailable	615	0	0	None
-0	Head	666	Unavailable	616	0	0	None
-0	Head	667	Unavailable	617	0	0	None
-0	Head	668	Unavailable	618	0	0	None
-0	Head	669	Unavailable	619	0	0	None
-0	Head	670	Unavailable	620	0	0	None
-0	Head	671	Unavailable	621	0	0	None
-0	Head	672	Unavailable	622	0	0	None
-0	Head	673	Unavailable	623	0	0	None
-0	Head	674	Unavailable	624	0	0	None
-0	Head	675	Unavailable	625	0	0	None
+0	Head	659	Многосл. шлем гордости<ICON ALPHA>+	609	0	10	pl042_0500
+0	Head	660	Многосл. шлем гордости<ICON BETA>+	610	0	10	pl042_0510
+0	Head	661	Многосл. шлем жадности<ICON ALPHA>+	611	0	10	pl050_0500
+0	Head	662	Многосл. шлем жадности<ICON BETA>+	612	0	10	pl050_0510
+0	Head	663	Многосл. порубежный шлем<ICON ALPHA>+	613	0	11	pl085_0000
+0	Head	664	Многосл. порубежный шлем<ICON BETA>+	614	0	11	pl085_0010
+0	Head	665	Многослойный шлем пелены<ICON ALPHA>+	615	0	11	pl032_0500
+0	Head	666	Многослойный шлем пелены<ICON BETA>+	616	0	11	pl032_0510
+0	Head	667	Многослойный шлем теостры<ICON ALPHA>+	617	0	11	pl046_0001
+0	Head	668	Многослойный шлем теостры<ICON BETA>+	618	0	11	pl046_0011
+0	Head	669	Многослойный шлем кушалы<ICON ALPHA>+	619	0	11	pl047_0001
+0	Head	670	Многослойный шлем кушалы<ICON BETA>+	620	0	11	pl047_0011
+0	Head	671	Многослойный шлем кирина<ICON ALPHA>+	621	0	11	pl035_0001
+0	Head	672	Многослойный шлем кирина<ICON BETA>+	622	0	11	pl035_0011
+0	Head	673	Многослойный шлем щупалец<ICON ALPHA>+	623	0	11	pl086_0000
+0	Head	674	Многослойный шлем щупалец<ICON BETA>+	624	0	11	pl086_0010
+0	Head	675	Мног. шлем дворца гильдии+	625	0	10	pl094_0000
 0	Head	676	Многослойные серьги акробата	626	0	10	pl095_0000
 0	Head	677	Многослойные серьги артиста	627	0	11	pl095_0010
-0	Head	678	Unavailable	628	0	0	None
-0	Head	679	Unavailable	629	0	0	None
-0	Head	680	Unavailable	630	0	0	None
-0	Head	681	Unavailable	631	0	0	None
-0	Head	682	Unavailable	632	0	0	None
-0	Head	683	Unavailable	633	0	0	None
-0	Head	684	Unavailable	634	0	0	None
-0	Head	685	Unavailable	635	0	0	None
-0	Head	686	Unavailable	636	0	0	None
-0	Head	687	Unavailable	637	0	0	None
-0	Head	688	Unavailable	638	0	0	None
-0	Head	689	Unavailable	639	0	0	None
-0	Head	690	Unavailable	640	0	0	None
-0	Head	691	Unavailable	641	0	0	None
-0	Head	692	Unavailable	642	0	0	None
-0	Head	693	Unavailable	643	0	0	None
-0	Head	694	Unavailable	644	0	0	None
-0	Head	695	Unavailable	645	0	0	None
-0	Head	696	Unavailable	646	0	0	None
-0	Head	697	Unavailable	647	0	0	None
-0	Head	698	Unavailable	648	0	0	None
-0	Head	699	Unavailable	649	0	0	None
-0	Head	700	Unavailable	650	0	0	None
-0	Head	701	Unavailable	651	0	0	None
-0	Head	702	Unavailable	652	0	0	None
-0	Head	703	Unavailable	653	0	0	None
-0	Head	704	Unavailable	654	0	0	None
-0	Head	705	Unavailable	655	0	0	None
-0	Head	706	Unavailable	656	0	0	None
-0	Head	707	Unavailable	657	0	0	None
-0	Head	708	Unavailable	658	0	0	None
-0	Head	709	Unavailable	659	0	0	None
-0	Head	710	Unavailable	660	0	0	None
-0	Head	711	Unavailable	661	0	0	None
-0	Head	712	Unavailable	662	0	0	None
-0	Head	713	Unavailable	663	0	0	None
-0	Head	714	Unavailable	664	0	0	None
-0	Head	716	Unavailable	666	0	0	None
+0	Head	678	Многослойный шлем шары<ICON ALPHA>+	628	0	11	pl088_0000
+0	Head	679	Многослойный шлем шары<ICON BETA>+	629	0	11	pl088_0010
+0	Head	680	Многослойный шлем гаруги<ICON ALPHA>+	630	0	10	pl108_0000
+0	Head	681	Многослойный шлем гаруги<ICON BETA>+	631	0	10	pl108_0010
+0	Head	682	Многослойный шлем зиногра<ICON ALPHA>+	632	0	10	pl107_0000
+0	Head	683	Многослойный шлем зиногра<ICON BETA>+	633	0	10	pl107_0010
+0	Head	684	Многосл. шлем золотой луны<ICON ALPHA>+	634	0	11	pl021_0200
+0	Head	685	Многосл. шлем золотой луны<ICON BETA>+	635	0	11	pl021_0210
+0	Head	686	Многосл. шлем серебр. рат.<ICON ALPHA>+	636	0	11	pl033_0200
+0	Head	687	Многосл. шлем серебр. рат.<ICON BETA>+	637	0	11	pl033_0210
+0	Head	688	Многослойный шлем лунастры<ICON ALPHA>+	638	0	11	pl051_0001
+0	Head	689	Многослойный шлем лунастры<ICON BETA>+	639	0	11	pl051_0011
+0	Head	690	Многослойный пагубный шлем<ICON ALPHA>+	640	0	11	pl030_0500
+0	Head	691	Многослойный пагубный шлем<ICON BETA>+	641	0	11	pl030_0510
+0	Head	692	Многослойный гильдейский шлем+	642	0	11	pl092_0000
+0	Head	693	Многослойный шлем раянга<ICON ALPHA>+	643	0	10	pl109_0000
+0	Head	694	Многослойный шлем раянга<ICON BETA>+	644	0	10	pl109_0010
+0	Head	695	Многосл. стигийский шлем<ICON ALPHA>+	645	0	10	pl107_0100
+0	Head	696	Многосл. стигийский шлем<ICON BETA>+	646	0	10	pl107_0110
+0	Head	697	Многослойный шлем сафи<ICON ALPHA>+	647	0	11	pl087_0000
+0	Head	698	Многослойный шлем сафи<ICON BETA>+	648	0	11	pl087_0010
+0	Head	699	Мног. шлем взбеш. раянга<ICON ALPHA>+	649	0	11	pl109_0500
+0	Head	700	Мног. шлем взбеш. раянга<ICON BETA>+	650	0	11	pl109_0510
+0	Head	701	Мног. шлем неист. брахидиоса<ICON ALPHA>+	651	0	11	pl082_0500
+0	Head	702	Мног. шлем неист. брахидиоса<ICON BETA>+	652	0	11	pl082_0510
+0	Head	703	Многосл. шлем ледозубого<ICON ALPHA>+	653	0	10	pl089_0500
+0	Head	704	Многосл. шлем ледозубого<ICON BETA>+	654	0	10	pl089_0510
+0	Head	705	Многослойный шлем эскадора<ICON ALPHA>+	655	0	11	pl052_0000
+0	Head	706	Многослойный шлем эскадора<ICON BETA>+	656	0	11	pl052_0010
+0	Head	707	Многослойный драконий шлем<ICON ALPHA>+	657	0	11	pl129_0000
+0	Head	708	Многослойный драконий шлем<ICON BETA>+	658	0	11	pl129_0010
+0	Head	709	Многослойный шлем кулве<ICON ALPHA>+	659	0	11	pl049_0001
+0	Head	710	Многослойный шлем кулве<ICON BETA>+	660	0	11	pl049_0011
+0	Head	711	Мн. шлем из ткани печати дракона	661	0	11	pl100_0000
+0	Head	712	"Мног. шлем ""Уши виверианца"""	662	0	8	pl101_0000
+0	Head	713	Мног. шлем пингвина-полярника	663	0	8	pl098_0000
+0	Head	714	Мн. шлем жемчужного источника	664	0	8	pl113_0000
+0	Head	716	Многосл. шлем лазурного воина	666	0	11	pl072_0001
 0	Head	717	Unavailable	667	0	0	None
-0	Head	718	Unavailable	668	0	0	None
-0	Head	719	Unavailable	669	0	0	None
-0	Head	720	Unavailable	670	0	0	None
+0	Head	718	HARDUMMY	668	0	11	pl068_0020
+0	Head	719	Многосл. порубежный шлем<ICON GAMMA>+	669	0	11	pl085_0020
+0	Head	720	Многослойный шлем щупалец<ICON GAMMA>+	670	0	11	pl086_0020
 0	Head	721	Unavailable	671	0	0	None
 0	Head	725	Unavailable	676	0	0	None
 0	Head	726	Unavailable	677	0	0	None
@@ -805,8 +805,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	155	Мн. нагр. конц. костюма	153	0	3	pl078_0000
 1	Body	156	Unavailable	158	2	0	pl001_0000
 1	Body	299	HARDUMMY	154	0	7	pl068_0000
-1	Body	291	HARDUMMY	155	0	7	pl069_0000
-1	Body	292	HARDUMMY	156	0	7	pl070_0000
+1	Body	291	Многосл. нагрудник Ryu	155	0	7	pl069_0000
+1	Body	292	Мн. нагрудник Sakura	156	0	7	pl070_0000
 1	Body	144	Unavailable	157	2	0	pl001_0000
 1	Body	297	Мн. нагрудник Байека	159	0	7	pl120_0000
 1	Body	158	Unavailable	160	2	0	pl001_0000
@@ -847,9 +847,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	223	Шкура Дзоры<ICON GAMMA>	213	72	7	pl038_0020
 1	Body	224	Шкура ксено'джиивы<ICON GAMMA>	214	72	7	pl045_0020
 1	Body	225	HARDUMMY	215	46	4	pl068_0000
-1	Body	226	HARDUMMY	216	12	1	pl069_0000
-1	Body	227	HARDUMMY	217	60	6	pl069_0000
-1	Body	228	HARDUMMY	218	50	5	pl070_0000
+1	Body	226	Кимоно Ryu	216	12	1	pl069_0000
+1	Body	227	Кимоно Ryu<ICON ALPHA>	217	60	6	pl069_0000
+1	Body	228	Костюм Sakura<ICON ALPHA>	218	50	5	pl070_0000
 1	Body	229	Звездный доспех<ICON ALPHA>	219	56	6	pl072_0000
 1	Body	230	Плащ Данте<ICON ALPHA>	220	64	7	pl071_0000
 1	Body	231	Кольчуга императрицы<ICON ALPHA>	221	70	7	pl051_0000
@@ -996,7 +996,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	443	Кириновая куртка<ICON BETA>+	393	154	11	pl035_0011
 1	Body	444	Плащ щупалец<ICON ALPHA>+	394	158	11	pl086_0000
 1	Body	445	Плащ щупалец<ICON BETA>+	395	158	11	pl086_0010
-1	Body	446	Unavailable	396	0	0	None
+1	Body	446	Многосл. часовой нагрудник<ICON ALPHA>+	396	0	9	pl104_0000
 1	Body	447	Многослойный нагрудник баррота	397	0	4	pl012_0000
 1	Body	448	Доспех гильд. дворца<ICON ALPHA>+	398	154	10	pl094_0000
 1	Body	449	Доспех гильд. дворца<ICON BETA>+	399	154	10	pl094_0000
@@ -1044,7 +1044,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	497	Многослойный нагрудник луму	447	0	4	pl024_0000
 1	Body	498	Страстный доспех<ICON ALPHA>+	448	156	9	pl125_0000
 1	Body	499	Многосл. нагрудник ратианы<ICON ALPHA>	449	0	4	pl021_0000
-1	Body	500	Unavailable	450	0	0	None
+1	Body	500	Плащ владыки демонов<ICON ALPHA>+	450	162	10	pl126_0000
 1	Body	501	Многосл. нагрудник ратианы<ICON BETA>	451	0	4	pl021_0010
 1	Body	502	Жилет улуна<ICON ALPHA>+	452	120	8	pl127_0000
 1	Body	503	Многосл. нагрудник радобаана<ICON ALPHA>	453	0	5	pl028_0000
@@ -1052,7 +1052,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	505	Многосл. нагрудник радобаана<ICON BETA>	455	0	5	pl028_0010
 1	Body	506	Многослойный нагрудник розы	456	0	9	pl124_0000
 1	Body	507	Страстный мног. нагрудник	457	0	9	pl125_0000
-1	Body	508	Unavailable	458	0	0	None
+1	Body	508	Мн. нагрудник владыки демонов	458	0	10	pl126_0000
 1	Body	509	Многослойный нагрудник улуна	459	0	8	pl127_0000
 1	Body	510	Многослойный нагрудник астрала	460	0	8	pl128_0000
 1	Body	511	Мног. нагруд. из выс. металла	461	0	5	pl025_0000
@@ -1065,19 +1065,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	522	Мн. нагрудник серебр. рыцаря	472	0	6	pl123_0000
 1	Body	523	HARDUMMY	473	132	11	pl068_0010
 1	Body	524	Плащ щупалец<ICON GAMMA>+	474	176	11	pl086_0020
-1	Body	525	HARDUMMY	475	0	7	pl072_0000
-1	Body	526	HARDUMMY	476	170	11	pl072_0001
-1	Body	527	Unavailable	477	0	0	None
+1	Body	525	Мног. нагрудник лаз. зв. лорда	475	0	7	pl072_0000
+1	Body	526	Хаори лазурного воина<ICON ALPHA>+	476	170	11	pl072_0001
+1	Body	527	Порубежный доспех<ICON GAMMA>+	477	180	11	pl085_0020
 1	Body	528	Доспех ледозубого<ICON ALPHA>+	478	162	10	pl089_0500
 1	Body	529	Доспех ледозубого<ICON BETA>+	479	162	10	pl089_0510
-1	Body	530	Unavailable	480	0	0	None
-1	Body	531	Unavailable	481	0	0	None
+1	Body	530	Шкура дракона<ICON ALPHA>+	480	180	11	pl129_0000
+1	Body	531	Шкура дракона<ICON BETA>+	481	180	11	pl129_0010
 1	Body	532	HARDUMMY	482	160	11	pl068_0020
 1	Body	533	Unavailable	483	0	0	None
 1	Body	534	Доспех Леона <ICON ALPHA>+	484	150	11	pl130_0000
 1	Body	535	Доспех Клэр <ICON ALPHA>+	485	150	11	pl131_0000
-1	Body	536	Unavailable	486	0	0	None
-1	Body	537	Unavailable	487	0	0	None
+1	Body	536	Многослойный нагрудник Леона+	486	0	11	pl130_0000
+1	Body	537	Многослойный нагрудник Клэр+	487	0	11	pl131_0000
 1	Body	539	Многослойный нагрудник барноса	489	0	4	pl016_0000
 1	Body	540	Многосл. нагрудник додогамы	490	0	4	pl039_0000
 1	Body	541	Драгоценный многосл. нагрудник	491	0	5	pl031_0000
@@ -1134,127 +1134,127 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	592	Многосл. нагрудник кулве<ICON ALPHA>	542	0	7	pl049_0000
 1	Body	593	Многосл. нагрудник кулве<ICON BETA>	543	0	7	pl049_0010
 1	Body	594	Многосл. нагрудник кулве<ICON GAMMA>	544	0	7	pl049_0020
-1	Body	595	Unavailable	546	0	0	None
-1	Body	596	Unavailable	547	0	0	None
-1	Body	598	Unavailable	549	0	0	None
-1	Body	599	Unavailable	550	0	0	None
-1	Body	600	Unavailable	551	0	0	None
-1	Body	601	Unavailable	552	0	0	None
-1	Body	602	Unavailable	553	0	0	None
-1	Body	603	Unavailable	554	0	0	None
-1	Body	604	Unavailable	555	0	0	None
-1	Body	605	Unavailable	556	0	0	None
-1	Body	606	Unavailable	557	0	0	None
-1	Body	607	Unavailable	558	0	0	None
-1	Body	608	Unavailable	559	0	0	None
-1	Body	609	Unavailable	560	0	0	None
-1	Body	610	Unavailable	561	0	0	None
-1	Body	611	Unavailable	562	0	0	None
-1	Body	612	Unavailable	563	0	0	None
-1	Body	613	Unavailable	564	0	0	None
-1	Body	614	Unavailable	565	0	0	None
-1	Body	615	Unavailable	566	0	0	None
-1	Body	616	Unavailable	567	0	0	None
-1	Body	617	Unavailable	568	0	0	None
-1	Body	618	Unavailable	569	0	0	None
-1	Body	619	Unavailable	570	0	0	None
-1	Body	620	Unavailable	571	0	0	None
-1	Body	621	Unavailable	572	0	0	None
-1	Body	622	Unavailable	573	0	0	None
-1	Body	623	Unavailable	574	0	0	None
+1	Body	595	Многосл. нагрудник осоида+	546	0	8	pl007_0001
+1	Body	596	Многосл. нагрудник роготавра+	547	0	8	pl017_0001
+1	Body	598	Многосл. нагрудник кортоса+	549	0	8	pl103_0000
+1	Body	599	Многослойный нагрудник яграса+	550	0	8	pl008_0001
+1	Body	600	Многослойный нагрудник цици+	551	0	8	pl023_0001
+1	Body	601	Многосл. нагрудник гирроса+	552	0	8	pl022_0001
+1	Body	602	Многосл. нагрудник додогамы+	553	0	8	pl039_0001
+1	Body	603	Многослойный нагрудник кулу+	554	0	8	pl009_0001
+1	Body	604	Многосл. нагрудник поки+	555	0	8	pl010_0001
+1	Body	605	Мн. нагрудник коралл. поки+	556	0	8	pl010_0101
+1	Body	606	Многосл. нагрудник баррота+	557	0	8	pl012_0001
+1	Body	607	Мног. нагрудник юратода+	558	0	8	pl011_0001
+1	Body	608	Многосл. нагрудник бео+	559	0	8	pl110_0000
+1	Body	609	Многослойный нагрудник кадачи+	560	0	8	pl013_0001
+1	Body	610	Мн. нагрудник аспид. кадачи+	561	0	8	pl013_0101
+1	Body	611	Мног. нагрудник банбаро<ICON ALPHA>+	562	0	8	pl084_0000
+1	Body	612	Мног. нагрудник банбаро<ICON BETA>+	563	0	8	pl084_0010
+1	Body	613	Многосл. нагрудник анья<ICON ALPHA>+	564	0	8	pl020_0001
+1	Body	614	Многосл. нагрудник анья<ICON BETA>+	565	0	8	pl020_0011
+1	Body	615	Мн. нагр. гром. аньяната<ICON ALPHA>+	566	0	10	pl020_0101
+1	Body	616	Мн. нагр. гром. аньяната<ICON BETA>+	567	0	10	pl020_0111
+1	Body	617	Многосл. нагрудник ратианы<ICON ALPHA>+	568	0	8	pl021_0001
+1	Body	618	Многосл. нагрудник ратианы<ICON BETA>+	569	0	8	pl021_0011
+1	Body	619	Мног. нагрудник сердца раты<ICON ALPHA>+	570	0	8	pl021_0101
+1	Body	620	Мног. нагрудник сердца раты<ICON BETA>+	571	0	8	pl021_0111
+1	Body	621	Многослойный нагрудник луму+	572	0	8	pl024_0001
+1	Body	622	Мн. нагрудник фантазма луму+	573	0	8	pl024_0101
+1	Body	623	Многосл. нагрудник радобаана+	574	0	8	pl028_0001
 1	Body	624	Многосл. артианский нагрудник	575	0	9	pl091_0000
-1	Body	625	Unavailable	674	0	0	None
-1	Body	626	Unavailable	576	0	0	None
-1	Body	627	Unavailable	577	0	0	None
-1	Body	628	Unavailable	578	0	0	None
-1	Body	629	Unavailable	579	0	0	None
-1	Body	630	Unavailable	580	0	0	None
-1	Body	631	Unavailable	581	0	0	None
-1	Body	632	Unavailable	582	0	0	None
-1	Body	633	Unavailable	583	0	0	None
-1	Body	634	Unavailable	584	0	0	None
-1	Body	635	Unavailable	585	0	0	None
-1	Body	636	Unavailable	586	0	0	None
-1	Body	637	Unavailable	587	0	0	None
-1	Body	638	Unavailable	588	0	0	None
-1	Body	639	Unavailable	589	0	0	None
-1	Body	640	Unavailable	590	0	0	None
-1	Body	641	Unavailable	591	0	0	None
-1	Body	642	Unavailable	592	0	0	None
-1	Body	643	Unavailable	593	0	0	None
-1	Body	644	Unavailable	594	0	0	None
-1	Body	645	Unavailable	595	0	0	None
-1	Body	646	Unavailable	596	0	0	None
-1	Body	647	Unavailable	597	0	0	None
-1	Body	648	Unavailable	598	0	0	None
-1	Body	649	Unavailable	599	0	0	None
-1	Body	650	Unavailable	600	0	0	None
-1	Body	651	Unavailable	601	0	0	None
-1	Body	652	Unavailable	602	0	0	None
-1	Body	653	Unavailable	603	0	0	None
-1	Body	654	Unavailable	604	0	0	None
-1	Body	655	Unavailable	605	0	0	None
-1	Body	656	Unavailable	606	0	0	None
-1	Body	657	Unavailable	607	0	0	None
+1	Body	625	Многосл. часовой нагрудник<ICON BETA>+	674	0	9	pl104_0000
+1	Body	626	Многосл. нагрудник бариота<ICON ALPHA>+	576	0	9	pl089_0000
+1	Body	627	Многосл. нагрудник бариота<ICON BETA>+	577	0	9	pl089_0010
+1	Body	628	Многосл. нагрудник раталоса<ICON ALPHA>+	578	0	9	pl033_0001
+1	Body	629	Многосл. нагрудник раталоса<ICON BETA>+	579	0	9	pl033_0011
+1	Body	630	Мн. нагрудник души раты<ICON ALPHA>+	580	0	10	pl033_0101
+1	Body	631	Мн. нагрудник души раты<ICON BETA>+	581	0	10	pl033_0111
+1	Body	632	Многосл. нагрудник диаблос<ICON ALPHA>+	582	0	9	pl034_0001
+1	Body	633	Многосл. нагрудник диаблос<ICON BETA>+	583	0	9	pl034_0011
+1	Body	634	Мног. нагр. жуткой диаблос<ICON ALPHA>+	584	0	10	pl034_0101
+1	Body	635	Мног. нагр. жуткой диаблос<ICON BETA>+	585	0	10	pl034_0111
+1	Body	636	Многосл. нагрудник легианы<ICON ALPHA>+	586	0	9	pl027_0001
+1	Body	637	Многосл. нагрудник легианы<ICON BETA>+	587	0	9	pl027_0011
+1	Body	638	Мн. нагр. визжащей легианы<ICON ALPHA>+	588	0	10	pl027_0500
+1	Body	639	Мн. нагр. визжащей легианы<ICON BETA>+	589	0	10	pl027_0510
+1	Body	640	Мног. нагрудник одогарона<ICON ALPHA>+	590	0	9	pl029_0001
+1	Body	641	Мног. нагрудник одогарона<ICON BETA>+	591	0	9	pl029_0011
+1	Body	642	Мн. нагрудник смерт. гарона<ICON ALPHA>+	592	0	10	pl029_0101
+1	Body	643	Мн. нагрудник смерт. гарона<ICON BETA>+	593	0	10	pl029_0111
+1	Body	644	Многосл. нагрудник лавасиота+	594	0	9	pl040_0001
+1	Body	645	Многосл. нагрудник урагаана+	595	0	9	pl041_0001
+1	Body	646	Мног. нагрудник наргакуги<ICON ALPHA>+	596	0	9	pl080_0000
+1	Body	647	Мног. нагрудник наргакуги<ICON BETA>+	597	0	9	pl080_0010
+1	Body	648	Мног. нагрудник главенуса<ICON ALPHA>+	598	0	9	pl081_0000
+1	Body	649	Мног. нагрудник главенуса<ICON BETA>+	599	0	9	pl081_0010
+1	Body	650	Мн. нагрудник кисл. главенуса<ICON ALPHA>+	600	0	10	pl081_0100
+1	Body	651	Мн. нагрудник кисл. главенуса<ICON BETA>+	601	0	10	pl081_0110
+1	Body	652	Мног. нагрудник брахидиоса<ICON ALPHA>+	602	0	9	pl082_0000
+1	Body	653	Мног. нагрудник брахидиоса<ICON BETA>+	603	0	9	pl082_0010
+1	Body	654	Мног. нагрудник тигрекса<ICON ALPHA>+	604	0	9	pl083_0000
+1	Body	655	Мног. нагрудник тигрекса<ICON BETA>+	605	0	9	pl083_0010
+1	Body	656	Мног. нагрудник рева рекса<ICON ALPHA>+	606	0	10	pl083_0100
+1	Body	657	Мног. нагрудник рева рекса<ICON BETA>+	607	0	10	pl083_0110
 1	Body	658	Мног. нагрудник черного пояса	608	0	10	pl093_0000
-1	Body	659	Unavailable	609	0	0	None
-1	Body	660	Unavailable	610	0	0	None
-1	Body	661	Unavailable	611	0	0	None
-1	Body	662	Unavailable	612	0	0	None
-1	Body	663	Unavailable	613	0	0	None
-1	Body	664	Unavailable	614	0	0	None
-1	Body	665	Unavailable	615	0	0	None
-1	Body	666	Unavailable	616	0	0	None
-1	Body	667	Unavailable	617	0	0	None
-1	Body	668	Unavailable	618	0	0	None
-1	Body	669	Unavailable	619	0	0	None
-1	Body	670	Unavailable	620	0	0	None
-1	Body	671	Unavailable	621	0	0	None
-1	Body	672	Unavailable	622	0	0	None
-1	Body	673	Unavailable	623	0	0	None
-1	Body	674	Unavailable	624	0	0	None
-1	Body	675	Unavailable	625	0	0	None
-1	Body	678	Unavailable	628	0	0	None
-1	Body	679	Unavailable	629	0	0	None
-1	Body	680	Unavailable	630	0	0	None
-1	Body	681	Unavailable	631	0	0	None
-1	Body	682	Unavailable	632	0	0	None
-1	Body	683	Unavailable	633	0	0	None
-1	Body	684	Unavailable	634	0	0	None
-1	Body	685	Unavailable	635	0	0	None
-1	Body	686	Unavailable	636	0	0	None
-1	Body	687	Unavailable	637	0	0	None
-1	Body	688	Unavailable	638	0	0	None
-1	Body	689	Unavailable	639	0	0	None
-1	Body	690	Unavailable	640	0	0	None
-1	Body	691	Unavailable	641	0	0	None
-1	Body	692	Unavailable	642	0	0	None
-1	Body	693	Unavailable	643	0	0	None
-1	Body	694	Unavailable	644	0	0	None
-1	Body	695	Unavailable	645	0	0	None
-1	Body	696	Unavailable	646	0	0	None
-1	Body	697	Unavailable	647	0	0	None
-1	Body	698	Unavailable	648	0	0	None
-1	Body	699	Unavailable	649	0	0	None
-1	Body	700	Unavailable	650	0	0	None
-1	Body	701	Unavailable	651	0	0	None
-1	Body	702	Unavailable	652	0	0	None
-1	Body	703	Unavailable	653	0	0	None
-1	Body	704	Unavailable	654	0	0	None
-1	Body	705	Unavailable	655	0	0	None
-1	Body	706	Unavailable	656	0	0	None
-1	Body	707	Unavailable	657	0	0	None
-1	Body	708	Unavailable	658	0	0	None
-1	Body	709	Unavailable	659	0	0	None
-1	Body	710	Unavailable	660	0	0	None
-1	Body	715	Unavailable	665	0	0	None
-1	Body	716	Unavailable	666	0	0	None
+1	Body	659	Мног. нагрудник гордости<ICON ALPHA>+	609	0	10	pl042_0500
+1	Body	660	Мног. нагрудник гордости<ICON BETA>+	610	0	10	pl042_0510
+1	Body	661	Мног. нагрудник жадности<ICON ALPHA>+	611	0	10	pl050_0500
+1	Body	662	Мног. нагрудник жадности<ICON BETA>+	612	0	10	pl050_0510
+1	Body	663	Мног. порубежный нагрудник<ICON ALPHA>+	613	0	11	pl085_0000
+1	Body	664	Мног. порубежный нагрудник<ICON BETA>+	614	0	11	pl085_0010
+1	Body	665	Многосл. нагрудник пелены<ICON ALPHA>+	615	0	11	pl032_0500
+1	Body	666	Многосл. нагрудник пелены<ICON BETA>+	616	0	11	pl032_0510
+1	Body	667	Мног. нагрудник теостры<ICON ALPHA>+	617	0	11	pl046_0001
+1	Body	668	Мног. нагрудник теостры<ICON BETA>+	618	0	11	pl046_0011
+1	Body	669	Многосл. нагрудник кушалы<ICON ALPHA>+	619	0	11	pl047_0001
+1	Body	670	Многосл. нагрудник кушалы<ICON BETA>+	620	0	11	pl047_0011
+1	Body	671	Многосл. нагрудник кирина<ICON ALPHA>+	621	0	11	pl035_0001
+1	Body	672	Многосл. нагрудник кирина<ICON BETA>+	622	0	11	pl035_0011
+1	Body	673	Многосл. нагрудник щупалец<ICON ALPHA>+	623	0	11	pl086_0000
+1	Body	674	Многосл. нагрудник щупалец<ICON BETA>+	624	0	11	pl086_0010
+1	Body	675	Мн. нагрудник дворца гильдии+	625	0	10	pl094_0000
+1	Body	678	Многослойный нагрудник шары<ICON ALPHA>+	628	0	11	pl088_0000
+1	Body	679	Многослойный нагрудник шары<ICON BETA>+	629	0	11	pl088_0010
+1	Body	680	Многосл. нагрудник гаруги<ICON ALPHA>+	630	0	10	pl108_0000
+1	Body	681	Многосл. нагрудник гаруги<ICON BETA>+	631	0	10	pl108_0010
+1	Body	682	Многосл. нагрудник зиногра<ICON ALPHA>+	632	0	10	pl107_0000
+1	Body	683	Многосл. нагрудник зиногра<ICON BETA>+	633	0	10	pl107_0010
+1	Body	684	Мн. нагрудник золотой луны<ICON ALPHA>+	634	0	11	pl021_0200
+1	Body	685	Мн. нагрудник золотой луны<ICON BETA>+	635	0	11	pl021_0210
+1	Body	686	Мн. нагрудник серебр. рат.<ICON ALPHA>+	636	0	11	pl033_0200
+1	Body	687	Мн. нагрудник серебр. рат.<ICON BETA>+	637	0	11	pl033_0210
+1	Body	688	Мног. нагрудник лунастры<ICON ALPHA>+	638	0	11	pl051_0001
+1	Body	689	Мног. нагрудник лунастры<ICON BETA>+	639	0	11	pl051_0011
+1	Body	690	Мног. пагубный нагрудник<ICON ALPHA>+	640	0	11	pl030_0500
+1	Body	691	Мног. пагубный нагрудник<ICON BETA>+	641	0	11	pl030_0510
+1	Body	692	Мног. гильдейский нагрудник +	642	0	11	pl092_0000
+1	Body	693	Мног. нагрудник раянга<ICON ALPHA>+	643	0	10	pl109_0000
+1	Body	694	Мног. нагрудник раянга<ICON BETA>+	644	0	10	pl109_0010
+1	Body	695	Мног. стигийский нагрудник<ICON ALPHA>+	645	0	10	pl107_0100
+1	Body	696	Мног. стигийский нагрудник<ICON BETA>+	646	0	10	pl107_0110
+1	Body	697	Многосл. нагрудник сафи<ICON ALPHA>+	647	0	11	pl087_0000
+1	Body	698	Многосл. нагрудник сафи<ICON BETA>+	648	0	11	pl087_0010
+1	Body	699	Мн. нагрудник взб. раянга<ICON ALPHA>+	649	0	11	pl109_0500
+1	Body	700	Мн. нагрудник взб. раянга<ICON BETA>+	650	0	11	pl109_0510
+1	Body	701	Мног. нагрудник неист. брахидиоса<ICON ALPHA>+	651	0	11	pl082_0500
+1	Body	702	Мног. нагрудник неист. брахидиоса<ICON BETA>+	652	0	11	pl082_0510
+1	Body	703	Мног. нагрудник ледозубого<ICON ALPHA>+	653	0	10	pl089_0500
+1	Body	704	Мног. нагрудник ледозубого<ICON BETA>+	654	0	10	pl089_0510
+1	Body	705	Многосл. нагрудник эскадора<ICON ALPHA>+	655	0	11	pl052_0000
+1	Body	706	Многосл. нагрудник эскадора<ICON BETA>+	656	0	11	pl052_0010
+1	Body	707	Мног. драконий нагрудник<ICON ALPHA>+	657	0	11	pl129_0000
+1	Body	708	Мног. драконий нагрудник<ICON BETA>+	658	0	11	pl129_0010
+1	Body	709	Многосл. нагрудник кулве<ICON ALPHA>+	659	0	11	pl049_0001
+1	Body	710	Многосл. нагрудник кулве<ICON BETA>+	660	0	11	pl049_0011
+1	Body	715	Мног. нагрудник мускулы<ICON ALPHA>+	665	0	10	pl115_0000
+1	Body	716	Мн. нагрудник лазурного воина	666	0	11	pl072_0001
 1	Body	717	Unavailable	667	0	0	None
-1	Body	718	Unavailable	668	0	0	None
-1	Body	719	Unavailable	669	0	0	None
-1	Body	720	Unavailable	670	0	0	None
+1	Body	718	HARDUMMY	668	0	11	pl068_0020
+1	Body	719	Мног. порубежный нагрудник<ICON GAMMA>+	669	0	11	pl085_0020
+1	Body	720	Многосл. нагрудник щупалец<ICON GAMMA>+	670	0	11	pl086_0020
 1	Body	721	Unavailable	671	0	0	None
-1	Body	722	Unavailable	672	0	0	None
+1	Body	722	Мног. нагрудник мускулы<ICON GAMMA>+	672	0	11	pl115_0001
 1	Body	723	Белье <ICON ALPHA>: многосл. доспех	673	0	11	pl500_0000
 1	Body	724	Белье <ICON BETA>: многосл. доспех	675	0	11	pl501_0000
 1	Body	725	Unavailable	676	0	0	None
@@ -1420,8 +1420,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	146	Многосл. наручи Ориона	150	0	3	pl077_0000
 2	Arm	153	Мн. наручи конц. костюма	153	0	3	pl078_0000
 2	Arm	299	HARDUMMY	154	0	7	pl068_0000
-2	Arm	291	HARDUMMY	155	0	7	pl069_0000
-2	Arm	292	HARDUMMY	156	0	7	pl070_0000
+2	Arm	291	Многослойные наручи Ryu	155	0	7	pl069_0000
+2	Arm	292	Многосл. наручи Sakura	156	0	7	pl070_0000
 2	Arm	141	Unavailable	177	2	0	pl001_0000
 2	Arm	142	Unavailable	179	2	0	pl001_0000
 2	Arm	143	Unavailable	180	2	0	pl001_0000
@@ -1465,9 +1465,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	223	Когти Дзоры<ICON GAMMA>	213	72	7	pl038_0020
 2	Arm	224	Когти ксено'джиивы<ICON GAMMA>	214	72	7	pl045_0020
 2	Arm	225	HARDUMMY	215	46	4	pl068_0000
-2	Arm	226	HARDUMMY	216	12	1	pl069_0000
-2	Arm	227	HARDUMMY	217	60	6	pl069_0000
-2	Arm	228	HARDUMMY	218	50	5	pl070_0000
+2	Arm	226	Наручи Ryu	216	12	1	pl069_0000
+2	Arm	227	Наручи Ryu<ICON ALPHA>	217	60	6	pl069_0000
+2	Arm	228	Наручи Sakura<ICON ALPHA>	218	50	5	pl070_0000
 2	Arm	229	Звездные рукавицы<ICON ALPHA>	219	56	6	pl072_0000
 2	Arm	230	Перчатки Данте<ICON ALPHA>	220	64	7	pl071_0000
 2	Arm	231	Наручи императрицы<ICON ALPHA>	221	70	7	pl051_0000
@@ -1613,7 +1613,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	443	Кириновые наручи<ICON BETA>+	393	154	11	pl035_0011
 2	Arm	444	Перчатки щупалец<ICON ALPHA>+	394	158	11	pl086_0000
 2	Arm	445	Перчатки щупалец<ICON BETA>+	395	158	11	pl086_0010
-2	Arm	446	Unavailable	396	0	0	None
+2	Arm	446	Многосл. часовые наручи<ICON ALPHA>+	396	0	9	pl104_0000
 2	Arm	447	Многослойные наручи баррота	397	0	4	pl012_0000
 2	Arm	448	Наручи гильд. дворца<ICON ALPHA>+	398	154	10	pl094_0000
 2	Arm	449	Наручи гильд. дворца<ICON BETA>+	399	154	10	pl094_0000
@@ -1661,7 +1661,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	497	Многослойные наручи луму	447	0	4	pl024_0000
 2	Arm	498	Страстные наручи<ICON ALPHA>+	448	156	9	pl125_0000
 2	Arm	499	Многослойные наручи ратианы<ICON ALPHA>	449	0	4	pl021_0000
-2	Arm	500	Unavailable	450	0	0	None
+2	Arm	500	Чернорукий владыка демонов<ICON ALPHA>+	450	162	10	pl126_0000
 2	Arm	501	Многослойные наручи ратианы<ICON BETA>	451	0	4	pl021_0010
 2	Arm	502	Наручи улуна<ICON ALPHA>+	452	120	8	pl127_0000
 2	Arm	503	Многосл. наручи радобаана<ICON ALPHA>	453	0	5	pl028_0000
@@ -1669,7 +1669,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	505	Многосл. наручи радобаана<ICON BETA>	455	0	5	pl028_0010
 2	Arm	506	Многослойные наручи розы	456	0	9	pl124_0000
 2	Arm	507	Страстные мног. наручи	457	0	9	pl125_0000
-2	Arm	508	Unavailable	458	0	0	None
+2	Arm	508	Мног. наручи владыки демонов	458	0	10	pl126_0000
 2	Arm	509	Многослойные наручи улуна	459	0	8	pl127_0000
 2	Arm	510	Многослойные наручи астрала	460	0	8	pl128_0000
 2	Arm	511	Мног. наручи из выс. металла	461	0	5	pl025_0000
@@ -1682,19 +1682,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	522	Мн. наручи серебр. рыцаря	472	0	6	pl123_0000
 2	Arm	523	HARDUMMY	473	132	11	pl068_0010
 2	Arm	524	Перчатки щупалец<ICON GAMMA>+	474	176	11	pl086_0020
-2	Arm	525	HARDUMMY	475	0	7	pl072_0000
-2	Arm	526	HARDUMMY	476	170	11	pl072_0001
-2	Arm	527	Unavailable	477	0	0	None
+2	Arm	525	Мног. наручи лазур. зв. лорда	475	0	7	pl072_0000
+2	Arm	526	Наручи лазурного воина<ICON ALPHA>+	476	170	11	pl072_0001
+2	Arm	527	Порубежные наручи<ICON GAMMA>+	477	180	11	pl085_0020
 2	Arm	528	Наручи ледозубого<ICON ALPHA>+	478	162	10	pl089_0500
 2	Arm	529	Наручи ледозубого<ICON BETA>+	479	162	10	pl089_0510
-2	Arm	530	Unavailable	480	0	0	None
-2	Arm	531	Unavailable	481	0	0	None
+2	Arm	530	Когти дракона<ICON ALPHA>+	480	180	11	pl129_0000
+2	Arm	531	Когти дракона<ICON BETA>+	481	180	11	pl129_0010
 2	Arm	532	HARDUMMY	482	160	11	pl068_0020
 2	Arm	533	Unavailable	483	0	0	None
 2	Arm	534	Наручи Леона <ICON ALPHA>+	484	150	11	pl130_0000
 2	Arm	535	Наручи Клэр <ICON ALPHA>+	485	150	11	pl131_0000
-2	Arm	536	Unavailable	486	0	0	None
-2	Arm	537	Unavailable	487	0	0	None
+2	Arm	536	Многослойные наручи Леона+	486	0	11	pl130_0000
+2	Arm	537	Многослойные наручи Клэр+	487	0	11	pl131_0000
 2	Arm	540	Многослойные наручи додогамы	490	0	4	pl039_0000
 2	Arm	541	Драгоц. многослойные наручи	491	0	5	pl031_0000
 2	Arm	542	Мног. наручи сердца раты<ICON ALPHA>	492	0	5	pl021_0100
@@ -1750,126 +1750,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	592	Многослойные наручи кулве<ICON ALPHA>	542	0	7	pl049_0000
 2	Arm	593	Многослойные наручи кулве<ICON BETA>	543	0	7	pl049_0010
 2	Arm	594	Многослойные наручи кулве<ICON GAMMA>	544	0	7	pl049_0020
-2	Arm	595	Unavailable	546	0	0	None
-2	Arm	596	Unavailable	547	0	0	None
-2	Arm	599	Unavailable	550	0	0	None
-2	Arm	600	Unavailable	551	0	0	None
-2	Arm	601	Unavailable	552	0	0	None
-2	Arm	602	Unavailable	553	0	0	None
-2	Arm	603	Unavailable	554	0	0	None
-2	Arm	604	Unavailable	555	0	0	None
-2	Arm	605	Unavailable	556	0	0	None
-2	Arm	606	Unavailable	557	0	0	None
-2	Arm	607	Unavailable	558	0	0	None
-2	Arm	608	Unavailable	559	0	0	None
-2	Arm	609	Unavailable	560	0	0	None
-2	Arm	610	Unavailable	561	0	0	None
-2	Arm	611	Unavailable	562	0	0	None
-2	Arm	612	Unavailable	563	0	0	None
-2	Arm	613	Unavailable	564	0	0	None
-2	Arm	614	Unavailable	565	0	0	None
-2	Arm	615	Unavailable	566	0	0	None
-2	Arm	616	Unavailable	567	0	0	None
-2	Arm	617	Unavailable	568	0	0	None
-2	Arm	618	Unavailable	569	0	0	None
-2	Arm	619	Unavailable	570	0	0	None
-2	Arm	620	Unavailable	571	0	0	None
-2	Arm	621	Unavailable	572	0	0	None
-2	Arm	622	Unavailable	573	0	0	None
-2	Arm	623	Unavailable	574	0	0	None
+2	Arm	595	Многослойные наручи осоида+	546	0	8	pl007_0001
+2	Arm	596	Многослойные наручи роготавра+	547	0	8	pl017_0001
+2	Arm	599	Многослойные наручи яграса+	550	0	8	pl008_0001
+2	Arm	600	Многослойные наручи цици+	551	0	8	pl023_0001
+2	Arm	601	Многослойные наручи гирроса+	552	0	8	pl022_0001
+2	Arm	602	Многослойные наручи додогамы+	553	0	8	pl039_0001
+2	Arm	603	Многослойные наручи кулу+	554	0	8	pl009_0001
+2	Arm	604	Многослойные наручи поки+	555	0	8	pl010_0001
+2	Arm	605	Мног. наручи кораллового поки+	556	0	8	pl010_0101
+2	Arm	606	Многослойные наручи баррота+	557	0	8	pl012_0001
+2	Arm	607	Многослойные наручи юратода+	558	0	8	pl011_0001
+2	Arm	608	Многослойные наручи бео+	559	0	8	pl110_0000
+2	Arm	609	Многослойные наручи кадачи+	560	0	8	pl013_0001
+2	Arm	610	Мн. наручи аспидового кадачи+	561	0	8	pl013_0101
+2	Arm	611	Многослойные наручи банбаро<ICON ALPHA>+	562	0	8	pl084_0000
+2	Arm	612	Многослойные наручи банбаро<ICON BETA>+	563	0	8	pl084_0010
+2	Arm	613	Многослойные наручи анья<ICON ALPHA>+	564	0	8	pl020_0001
+2	Arm	614	Многослойные наручи анья<ICON BETA>+	565	0	8	pl020_0011
+2	Arm	615	Мн. наручи гром. аньяната<ICON ALPHA>+	566	0	10	pl020_0101
+2	Arm	616	Мн. наручи гром. аньяната<ICON BETA>+	567	0	10	pl020_0111
+2	Arm	617	Многослойные наручи ратианы<ICON ALPHA>+	568	0	8	pl021_0001
+2	Arm	618	Многослойные наручи ратианы<ICON BETA>+	569	0	8	pl021_0011
+2	Arm	619	Мног. наручи сердца раты<ICON ALPHA>+	570	0	8	pl021_0101
+2	Arm	620	Мног. наручи сердца раты<ICON BETA>+	571	0	8	pl021_0111
+2	Arm	621	Многослойные наручи луму+	572	0	8	pl024_0001
+2	Arm	622	Мног. наручи фантазма луму+	573	0	8	pl024_0101
+2	Arm	623	Многосл. наручи радобаана+	574	0	8	pl028_0001
 2	Arm	624	Многосл. артианские наручи	575	0	9	pl091_0000
-2	Arm	625	Unavailable	674	0	0	None
-2	Arm	626	Unavailable	576	0	0	None
-2	Arm	627	Unavailable	577	0	0	None
-2	Arm	628	Unavailable	578	0	0	None
-2	Arm	629	Unavailable	579	0	0	None
-2	Arm	630	Unavailable	580	0	0	None
-2	Arm	631	Unavailable	581	0	0	None
-2	Arm	632	Unavailable	582	0	0	None
-2	Arm	633	Unavailable	583	0	0	None
-2	Arm	634	Unavailable	584	0	0	None
-2	Arm	635	Unavailable	585	0	0	None
-2	Arm	636	Unavailable	586	0	0	None
-2	Arm	637	Unavailable	587	0	0	None
-2	Arm	638	Unavailable	588	0	0	None
-2	Arm	639	Unavailable	589	0	0	None
-2	Arm	640	Unavailable	590	0	0	None
-2	Arm	641	Unavailable	591	0	0	None
-2	Arm	642	Unavailable	592	0	0	None
-2	Arm	643	Unavailable	593	0	0	None
-2	Arm	644	Unavailable	594	0	0	None
-2	Arm	645	Unavailable	595	0	0	None
-2	Arm	646	Unavailable	596	0	0	None
-2	Arm	647	Unavailable	597	0	0	None
-2	Arm	648	Unavailable	598	0	0	None
-2	Arm	649	Unavailable	599	0	0	None
-2	Arm	650	Unavailable	600	0	0	None
-2	Arm	651	Unavailable	601	0	0	None
-2	Arm	652	Unavailable	602	0	0	None
-2	Arm	653	Unavailable	603	0	0	None
-2	Arm	654	Unavailable	604	0	0	None
-2	Arm	655	Unavailable	605	0	0	None
-2	Arm	656	Unavailable	606	0	0	None
-2	Arm	657	Unavailable	607	0	0	None
+2	Arm	625	Многосл. часовые наручи<ICON BETA>+	674	0	9	pl104_0000
+2	Arm	626	Многослойные наручи бариота<ICON ALPHA>+	576	0	9	pl089_0000
+2	Arm	627	Многослойные наручи бариота<ICON BETA>+	577	0	9	pl089_0010
+2	Arm	628	Многосл. наручи раталоса<ICON ALPHA>+	578	0	9	pl033_0001
+2	Arm	629	Многосл. наручи раталоса<ICON BETA>+	579	0	9	pl033_0011
+2	Arm	630	Многосл. наручи души раты<ICON ALPHA>+	580	0	10	pl033_0101
+2	Arm	631	Многосл. наручи души раты<ICON BETA>+	581	0	10	pl033_0111
+2	Arm	632	Многослойные наручи диаблос<ICON ALPHA>+	582	0	9	pl034_0001
+2	Arm	633	Многослойные наручи диаблос<ICON BETA>+	583	0	9	pl034_0011
+2	Arm	634	Мног. наручи жуткой диаблос<ICON ALPHA>+	584	0	10	pl034_0101
+2	Arm	635	Мног. наручи жуткой диаблос<ICON BETA>+	585	0	10	pl034_0111
+2	Arm	636	Многослойные наручи легианы<ICON ALPHA>+	586	0	9	pl027_0001
+2	Arm	637	Многослойные наручи легианы<ICON BETA>+	587	0	9	pl027_0011
+2	Arm	638	Мн. наручи визжащей легианы<ICON ALPHA>+	588	0	10	pl027_0500
+2	Arm	639	Мн. наручи визжащей легианы<ICON BETA>+	589	0	10	pl027_0510
+2	Arm	640	Мног. наручи одогарона<ICON ALPHA>+	590	0	9	pl029_0001
+2	Arm	641	Мног. наручи одогарона<ICON BETA>+	591	0	9	pl029_0011
+2	Arm	642	Мн. наручи смерт. гарона<ICON ALPHA>+	592	0	10	pl029_0101
+2	Arm	643	Мн. наручи смерт. гарона<ICON BETA>+	593	0	10	pl029_0111
+2	Arm	644	Многосл. наручи лавасиота	594	0	9	pl040_0001
+2	Arm	645	Многослойные наручи урагаана+	595	0	9	pl041_0001
+2	Arm	646	Многосл. наручи наргакуги<ICON ALPHA>+	596	0	9	pl080_0000
+2	Arm	647	Многосл. наручи наргакуги<ICON BETA>+	597	0	9	pl080_0010
+2	Arm	648	Многосл. наручи главенуса<ICON ALPHA>+	598	0	9	pl081_0000
+2	Arm	649	Многосл. наручи главенуса<ICON BETA>+	599	0	9	pl081_0010
+2	Arm	650	Мн. наручи кисл. главенуса<ICON ALPHA>+	600	0	10	pl081_0100
+2	Arm	651	Мн. наручи кисл. главенуса<ICON BETA>+	601	0	10	pl081_0110
+2	Arm	652	Мног. наручи брахидиоса<ICON ALPHA>+	602	0	9	pl082_0000
+2	Arm	653	Мног. наручи брахидиоса<ICON BETA>+	603	0	9	pl082_0010
+2	Arm	654	Многосл. наручи тигрекса<ICON ALPHA>+	604	0	9	pl083_0000
+2	Arm	655	Многосл. наручи тигрекса<ICON BETA>+	605	0	9	pl083_0010
+2	Arm	656	Мног. наручи рева рекса<ICON ALPHA>+	606	0	10	pl083_0100
+2	Arm	657	Мног. наручи рева рекса<ICON BETA>+	607	0	10	pl083_0110
 2	Arm	658	Многосл. наручи черного пояса	608	0	10	pl093_0000
-2	Arm	659	Unavailable	609	0	0	None
-2	Arm	660	Unavailable	610	0	0	None
-2	Arm	661	Unavailable	611	0	0	None
-2	Arm	662	Unavailable	612	0	0	None
-2	Arm	663	Unavailable	613	0	0	None
-2	Arm	664	Unavailable	614	0	0	None
-2	Arm	665	Unavailable	615	0	0	None
-2	Arm	666	Unavailable	616	0	0	None
-2	Arm	667	Unavailable	617	0	0	None
-2	Arm	668	Unavailable	618	0	0	None
-2	Arm	669	Unavailable	619	0	0	None
-2	Arm	670	Unavailable	620	0	0	None
-2	Arm	671	Unavailable	621	0	0	None
-2	Arm	672	Unavailable	622	0	0	None
-2	Arm	673	Unavailable	623	0	0	None
-2	Arm	674	Unavailable	624	0	0	None
-2	Arm	675	Unavailable	625	0	0	None
-2	Arm	678	Unavailable	628	0	0	None
-2	Arm	679	Unavailable	629	0	0	None
-2	Arm	680	Unavailable	630	0	0	None
-2	Arm	681	Unavailable	631	0	0	None
-2	Arm	682	Unavailable	632	0	0	None
-2	Arm	683	Unavailable	633	0	0	None
-2	Arm	684	Unavailable	634	0	0	None
-2	Arm	685	Unavailable	635	0	0	None
-2	Arm	686	Unavailable	636	0	0	None
-2	Arm	687	Unavailable	637	0	0	None
-2	Arm	688	Unavailable	638	0	0	None
-2	Arm	689	Unavailable	639	0	0	None
-2	Arm	690	Unavailable	640	0	0	None
-2	Arm	691	Unavailable	641	0	0	None
-2	Arm	692	Unavailable	642	0	0	None
-2	Arm	693	Unavailable	643	0	0	None
-2	Arm	694	Unavailable	644	0	0	None
-2	Arm	695	Unavailable	645	0	0	None
-2	Arm	696	Unavailable	646	0	0	None
-2	Arm	697	Unavailable	647	0	0	None
-2	Arm	698	Unavailable	648	0	0	None
-2	Arm	699	Unavailable	649	0	0	None
-2	Arm	700	Unavailable	650	0	0	None
-2	Arm	701	Unavailable	651	0	0	None
-2	Arm	702	Unavailable	652	0	0	None
-2	Arm	703	Unavailable	653	0	0	None
-2	Arm	704	Unavailable	654	0	0	None
-2	Arm	705	Unavailable	655	0	0	None
-2	Arm	706	Unavailable	656	0	0	None
-2	Arm	707	Unavailable	657	0	0	None
-2	Arm	708	Unavailable	658	0	0	None
-2	Arm	709	Unavailable	659	0	0	None
-2	Arm	710	Unavailable	660	0	0	None
-2	Arm	715	Unavailable	665	0	0	None
-2	Arm	716	Unavailable	666	0	0	None
+2	Arm	659	Многосл. наручи гордости<ICON ALPHA>+	609	0	10	pl042_0500
+2	Arm	660	Многосл. наручи гордости<ICON BETA>+	610	0	10	pl042_0510
+2	Arm	661	Многосл. наручи жадности<ICON ALPHA>+	611	0	10	pl050_0500
+2	Arm	662	Многосл. наручи жадности<ICON BETA>+	612	0	10	pl050_0510
+2	Arm	663	Многосл. порубежные наручи<ICON ALPHA>+	613	0	11	pl085_0000
+2	Arm	664	Многосл. порубежные наручи<ICON BETA>+	614	0	11	pl085_0010
+2	Arm	665	Многослойные наручи пелены<ICON ALPHA>+	615	0	11	pl032_0500
+2	Arm	666	Многослойные наручи пелены<ICON BETA>+	616	0	11	pl032_0510
+2	Arm	667	Многослойные наручи теостры<ICON ALPHA>+	617	0	11	pl046_0001
+2	Arm	668	Многослойные наручи теостры<ICON BETA>+	618	0	11	pl046_0011
+2	Arm	669	Многослойные наручи кушалы<ICON ALPHA>+	619	0	11	pl047_0001
+2	Arm	670	Многослойные наручи кушалы<ICON BETA>+	620	0	11	pl047_0011
+2	Arm	671	Многослойные наручи кирина<ICON ALPHA>+	621	0	11	pl035_0001
+2	Arm	672	Многослойные наручи кирина<ICON BETA>+	622	0	11	pl035_0011
+2	Arm	673	Многослойные наручи щупалец<ICON ALPHA>+	623	0	11	pl086_0000
+2	Arm	674	Многослойные наручи щупалец<ICON BETA>+	624	0	11	pl086_0010
+2	Arm	675	Мн. наручи дворца гильдии+	625	0	10	pl094_0000
+2	Arm	678	Многослойные наручи шары<ICON ALPHA>+	628	0	11	pl088_0000
+2	Arm	679	Многослойные наручи шары<ICON BETA>+	629	0	11	pl088_0010
+2	Arm	680	Многослойные наручи гаруги<ICON ALPHA>+	630	0	10	pl108_0000
+2	Arm	681	Многослойные наручи гаруги<ICON BETA>+	631	0	10	pl108_0010
+2	Arm	682	Многослойные наручи зиногра<ICON ALPHA>+	632	0	10	pl107_0000
+2	Arm	683	Многослойные наручи зиногра<ICON BETA>+	633	0	10	pl107_0010
+2	Arm	684	Мног. наручи золотой луны<ICON ALPHA>+	634	0	11	pl021_0200
+2	Arm	685	Мног. наручи золотой луны<ICON BETA>+	635	0	11	pl021_0210
+2	Arm	686	Мног. наручи серебр. рат.<ICON ALPHA>+	636	0	11	pl033_0200
+2	Arm	687	Мног. наручи серебр. рат.<ICON BETA>+	637	0	11	pl033_0210
+2	Arm	688	Многосл. наручи лунастры<ICON ALPHA>+	638	0	11	pl051_0001
+2	Arm	689	Многосл. наручи лунастры<ICON BETA>+	639	0	11	pl051_0011
+2	Arm	690	Многосл. пагубные наручи<ICON ALPHA>+	640	0	11	pl030_0500
+2	Arm	691	Многосл. пагубные наручи<ICON BETA>+	641	0	11	pl030_0510
+2	Arm	692	Мног. гильдейские наручи+	642	0	11	pl092_0000
+2	Arm	693	Многослойные наручи раянга<ICON ALPHA>+	643	0	10	pl109_0000
+2	Arm	694	Многослойные наручи раянга<ICON BETA>+	644	0	10	pl109_0010
+2	Arm	695	Многосл. стигийские наручи<ICON ALPHA>+	645	0	10	pl107_0100
+2	Arm	696	Многосл. стигийские наручи<ICON BETA>+	646	0	10	pl107_0110
+2	Arm	697	Многослойные наручи сафи<ICON ALPHA>+	647	0	11	pl087_0000
+2	Arm	698	Многослойные наручи сафи<ICON BETA>+	648	0	11	pl087_0010
+2	Arm	699	Мн. наручи взбеш. раянга<ICON ALPHA>+	649	0	11	pl109_0500
+2	Arm	700	Мн. наручи взбеш. раянга<ICON BETA>+	650	0	11	pl109_0510
+2	Arm	701	Мног. наручи неист. брахидиоса<ICON ALPHA>+	651	0	11	pl082_0500
+2	Arm	702	Мног. наручи неист. брахидиоса<ICON BETA>+	652	0	11	pl082_0510
+2	Arm	703	Многосл. наручи ледозубого<ICON ALPHA>+	653	0	10	pl089_0500
+2	Arm	704	Многосл. наручи ледозубого<ICON BETA>+	654	0	10	pl089_0510
+2	Arm	705	Многосл. наручи эскадора<ICON ALPHA>+	655	0	11	pl052_0000
+2	Arm	706	Многосл. наручи эскадора<ICON BETA>+	656	0	11	pl052_0010
+2	Arm	707	Многосл. драконьи наручи<ICON ALPHA>+	657	0	11	pl129_0000
+2	Arm	708	Многосл. драконьи наручи<ICON BETA>+	658	0	11	pl129_0010
+2	Arm	709	Многослойные наручи кулве<ICON ALPHA>+	659	0	11	pl049_0001
+2	Arm	710	Многослойные наручи кулве<ICON BETA>+	660	0	11	pl049_0011
+2	Arm	715	Многослойные наручи мускулы<ICON ALPHA>+	665	0	10	pl115_0000
+2	Arm	716	Мног. наручи лазурного воина	666	0	11	pl072_0001
 2	Arm	717	Unavailable	667	0	0	None
-2	Arm	718	Unavailable	668	0	0	None
-2	Arm	719	Unavailable	669	0	0	None
-2	Arm	720	Unavailable	670	0	0	None
+2	Arm	718	HARDUMMY	668	0	11	pl068_0020
+2	Arm	719	Многосл. порубежные наручи<ICON GAMMA>+	669	0	11	pl085_0020
+2	Arm	720	Многослойные наручи щупалец<ICON GAMMA>+	670	0	11	pl086_0020
 2	Arm	721	Unavailable	671	0	0	None
-2	Arm	722	Unavailable	672	0	0	None
+2	Arm	722	Многослойные наручи мускулы<ICON GAMMA>+	672	0	11	pl115_0001
 2	Arm	723	Белье <ICON ALPHA>: многосл. наручи	673	0	11	pl500_0000
 2	Arm	724	Белье <ICON BETA>: многосл. наручи	675	0	11	pl501_0000
 2	Arm	725	Unavailable	676	0	0	None
@@ -2032,8 +2032,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	146	Многосл. кираса Ориона	150	0	3	pl077_0000
 3	Waist	153	Мн. кираса конц. костюма	153	0	3	pl078_0000
 3	Waist	299	HARDUMMY	154	0	7	pl068_0000
-3	Waist	291	HARDUMMY	155	0	7	pl069_0000
-3	Waist	292	HARDUMMY	156	0	7	pl070_0000
+3	Waist	291	Многосл. кираса Ryu	155	0	7	pl069_0000
+3	Waist	292	Многосл. кираса Sakura	156	0	7	pl070_0000
 3	Waist	141	Unavailable	177	2	0	pl001_0000
 3	Waist	142	Unavailable	179	2	0	pl001_0000
 3	Waist	143	Unavailable	180	2	0	pl001_0000
@@ -2077,9 +2077,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	224	Хребет Дзоры<ICON GAMMA>	213	72	7	pl038_0020
 3	Waist	226	Хребет ксено'джиивы<ICON GAMMA>	214	72	7	pl045_0020
 3	Waist	227	HARDUMMY	215	46	4	pl068_0000
-3	Waist	228	HARDUMMY	216	12	1	pl069_0000
-3	Waist	229	HARDUMMY	217	60	6	pl069_0000
-3	Waist	230	HARDUMMY	218	50	5	pl070_0000
+3	Waist	228	Торс Ryu	216	12	1	pl069_0000
+3	Waist	229	Торс Ryu<ICON ALPHA>	217	60	6	pl069_0000
+3	Waist	230	Юбка Sakura<ICON ALPHA>	218	50	5	pl070_0000
 3	Waist	231	Звездные набед. щитки<ICON ALPHA>	219	56	6	pl072_0000
 3	Waist	232	Ремень Данте<ICON ALPHA>	220	64	7	pl071_0000
 3	Waist	233	Пояс императрицы<ICON ALPHA>	221	70	7	pl051_0000
@@ -2222,7 +2222,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	443	Обод кирина<ICON BETA>+	393	154	11	pl035_0011
 3	Waist	444	Пояс щупалец<ICON ALPHA>+	394	158	11	pl086_0000
 3	Waist	445	Пояс щупалец<ICON BETA>+	395	158	11	pl086_0010
-3	Waist	446	Unavailable	396	0	0	None
+3	Waist	446	Многосл. часовая кираса<ICON ALPHA>+	396	0	9	pl104_0000
 3	Waist	447	Многослойный пояс баррота	397	0	4	pl012_0000
 3	Waist	448	Пояс гильд. дворца<ICON ALPHA>+	398	154	10	pl094_0000
 3	Waist	449	Пояс гильд. дворца<ICON BETA>+	399	154	10	pl094_0000
@@ -2270,7 +2270,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	497	Многослойный пояс луму	447	0	4	pl024_0000
 3	Waist	498	Страстный пояс<ICON ALPHA>+	448	156	9	pl125_0000
 3	Waist	499	Многослойный пояс ратианы<ICON ALPHA>	449	0	4	pl021_0000
-3	Waist	500	Unavailable	450	0	0	None
+3	Waist	500	Кожан. пояс владыки демонов<ICON ALPHA>+	450	162	10	pl126_0000
 3	Waist	501	Многослойный пояс ратианы<ICON BETA>	451	0	4	pl021_0010
 3	Waist	502	Пояс улуна<ICON ALPHA>+	452	120	8	pl127_0000
 3	Waist	503	Многослойный пояс радобаана<ICON ALPHA>	453	0	5	pl028_0000
@@ -2278,7 +2278,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	505	Многослойный пояс радобаана<ICON BETA>	455	0	5	pl028_0010
 3	Waist	506	Многослойная кираса розы	456	0	9	pl124_0000
 3	Waist	507	Страстный мног. доспех	457	0	9	pl125_0000
-3	Waist	508	Unavailable	458	0	0	None
+3	Waist	508	Мног. кираса владыки демонов	458	0	10	pl126_0000
 3	Waist	509	Многослойная кираса улуна	459	0	8	pl127_0000
 3	Waist	510	Многослойная кираса астрала	460	0	8	pl128_0000
 3	Waist	511	Многосл. пояс из выс. металла	461	0	5	pl025_0000
@@ -2291,19 +2291,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	522	Мн. кираса серебр. рыцаря	472	0	6	pl123_0000
 3	Waist	523	HARDUMMY	473	132	11	pl068_0010
 3	Waist	524	Пояс щупалец<ICON GAMMA>+	474	176	11	pl086_0020
-3	Waist	525	HARDUMMY	475	0	7	pl072_0000
-3	Waist	526	HARDUMMY	476	170	11	pl072_0001
-3	Waist	527	Unavailable	477	0	0	None
+3	Waist	525	Мног. кираса лазур. зв. лорда	475	0	7	pl072_0000
+3	Waist	526	Оби лазурного воина<ICON ALPHA>+	476	170	11	pl072_0001
+3	Waist	527	Порубежный пояс<ICON GAMMA>+	477	180	11	pl085_0020
 3	Waist	528	Пояс ледозубого<ICON ALPHA>+	478	162	10	pl089_0500
 3	Waist	529	Пояс ледозубого<ICON BETA>+	479	162	10	pl089_0510
-3	Waist	530	Unavailable	480	0	0	None
-3	Waist	531	Unavailable	481	0	0	None
+3	Waist	530	Шипы дракона<ICON ALPHA>+	480	180	11	pl129_0000
+3	Waist	531	Шипы дракона<ICON BETA>+	481	180	11	pl129_0010
 3	Waist	532	HARDUMMY	482	160	11	pl068_0020
 3	Waist	533	Unavailable	483	0	0	None
 3	Waist	534	Кираса Леона <ICON ALPHA>+	484	150	11	pl130_0000
 3	Waist	535	Кираса Клэр <ICON ALPHA>+	485	150	11	pl131_0000
-3	Waist	536	Unavailable	486	0	0	None
-3	Waist	537	Unavailable	487	0	0	None
+3	Waist	536	Многослойная кираса Леона+	486	0	11	pl130_0000
+3	Waist	537	Многослойная кираса Клэр+	487	0	11	pl131_0000
 3	Waist	540	Многослойная кираса додогамы	490	0	4	pl039_0000
 3	Waist	541	Драгоценная многосл. кираса	491	0	5	pl031_0000
 3	Waist	542	Мног. кираса сердца раты<ICON ALPHA>	492	0	5	pl021_0100
@@ -2359,126 +2359,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	592	Многослойная кираса кулве<ICON ALPHA>	542	0	7	pl049_0000
 3	Waist	593	Многослойная кираса кулве<ICON BETA>	543	0	7	pl049_0010
 3	Waist	594	Многослойная кираса кулве<ICON GAMMA>	544	0	7	pl049_0020
-3	Waist	595	Unavailable	546	0	0	None
-3	Waist	596	Unavailable	547	0	0	None
-3	Waist	599	Unavailable	550	0	0	None
-3	Waist	600	Unavailable	551	0	0	None
-3	Waist	601	Unavailable	552	0	0	None
-3	Waist	602	Unavailable	553	0	0	None
-3	Waist	603	Unavailable	554	0	0	None
-3	Waist	604	Unavailable	555	0	0	None
-3	Waist	605	Unavailable	556	0	0	None
-3	Waist	606	Unavailable	557	0	0	None
-3	Waist	607	Unavailable	558	0	0	None
-3	Waist	608	Unavailable	559	0	0	None
-3	Waist	609	Unavailable	560	0	0	None
-3	Waist	610	Unavailable	561	0	0	None
-3	Waist	611	Unavailable	562	0	0	None
-3	Waist	612	Unavailable	563	0	0	None
-3	Waist	613	Unavailable	564	0	0	None
-3	Waist	614	Unavailable	565	0	0	None
-3	Waist	615	Unavailable	566	0	0	None
-3	Waist	616	Unavailable	567	0	0	None
-3	Waist	617	Unavailable	568	0	0	None
-3	Waist	618	Unavailable	569	0	0	None
-3	Waist	619	Unavailable	570	0	0	None
-3	Waist	620	Unavailable	571	0	0	None
-3	Waist	621	Unavailable	572	0	0	None
-3	Waist	622	Unavailable	573	0	0	None
-3	Waist	623	Unavailable	574	0	0	None
+3	Waist	595	Многослойная кираса осоида+	546	0	8	pl007_0001
+3	Waist	596	Многослойная кираса роготавра+	547	0	8	pl017_0001
+3	Waist	599	Многослойная кираса яграса+	550	0	8	pl008_0001
+3	Waist	600	Многослойная кираса цици+	551	0	8	pl023_0001
+3	Waist	601	Многослойная кираса гирроса+	552	0	8	pl022_0001
+3	Waist	602	Многослойная кираса додогамы+	553	0	8	pl039_0001
+3	Waist	603	Многослойная кираса кулу+	554	0	8	pl009_0001
+3	Waist	604	Многослойная кираса поки+	555	0	8	pl010_0001
+3	Waist	605	Мног. кираса кораллового поки+	556	0	8	pl010_0101
+3	Waist	606	Многослойная кираса баррота+	557	0	8	pl012_0001
+3	Waist	607	Многослойная кираса юратода+	558	0	8	pl011_0001
+3	Waist	608	Многослойная кираса бео+	559	0	8	pl110_0000
+3	Waist	609	Многослойная кираса кадачи+	560	0	8	pl013_0001
+3	Waist	610	Мн. кираса аспидового кадачи+	561	0	8	pl013_0101
+3	Waist	611	Многослойная кираса банбаро<ICON ALPHA>+	562	0	8	pl084_0000
+3	Waist	612	Многослойная кираса банбаро<ICON BETA>+	563	0	8	pl084_0010
+3	Waist	613	Многослойная кираса анья+	564	0	8	pl020_0001
+3	Waist	614	Многосл. поножи анья+	565	0	8	pl020_0011
+3	Waist	615	Мн. кираса гром. аньяната<ICON ALPHA>+	566	0	10	pl020_0101
+3	Waist	616	Мн. кираса гром. аньяната<ICON BETA>+	567	0	10	pl020_0111
+3	Waist	617	Многослойная кираса ратианы<ICON ALPHA>+	568	0	8	pl021_0001
+3	Waist	618	Многослойная кираса ратианы<ICON BETA>+	569	0	8	pl021_0011
+3	Waist	619	Мног. кираса сердца раты<ICON ALPHA>+	570	0	8	pl021_0101
+3	Waist	620	Мног. кираса сердца раты<ICON BETA>+	571	0	8	pl021_0111
+3	Waist	621	Многослойная кираса луму+	572	0	8	pl024_0001
+3	Waist	622	Мног. кираса фантазма луму+	573	0	8	pl024_0101
+3	Waist	623	Многослойная кираса радобаана+	574	0	8	pl028_0001
 3	Waist	624	Многосл. артианская кираса	575	0	9	pl091_0000
-3	Waist	625	Unavailable	674	0	0	None
-3	Waist	626	Unavailable	576	0	0	None
-3	Waist	627	Unavailable	577	0	0	None
-3	Waist	628	Unavailable	578	0	0	None
-3	Waist	629	Unavailable	579	0	0	None
-3	Waist	630	Unavailable	580	0	0	None
-3	Waist	631	Unavailable	581	0	0	None
-3	Waist	632	Unavailable	582	0	0	None
-3	Waist	633	Unavailable	583	0	0	None
-3	Waist	634	Unavailable	584	0	0	None
-3	Waist	635	Unavailable	585	0	0	None
-3	Waist	636	Unavailable	586	0	0	None
-3	Waist	637	Unavailable	587	0	0	None
-3	Waist	638	Unavailable	588	0	0	None
-3	Waist	639	Unavailable	589	0	0	None
-3	Waist	640	Unavailable	590	0	0	None
-3	Waist	641	Unavailable	591	0	0	None
-3	Waist	642	Unavailable	592	0	0	None
-3	Waist	643	Unavailable	593	0	0	None
-3	Waist	644	Unavailable	594	0	0	None
-3	Waist	645	Unavailable	595	0	0	None
-3	Waist	646	Unavailable	596	0	0	None
-3	Waist	647	Unavailable	597	0	0	None
-3	Waist	648	Unavailable	598	0	0	None
-3	Waist	649	Unavailable	599	0	0	None
-3	Waist	650	Unavailable	600	0	0	None
-3	Waist	651	Unavailable	601	0	0	None
-3	Waist	652	Unavailable	602	0	0	None
-3	Waist	653	Unavailable	603	0	0	None
-3	Waist	654	Unavailable	604	0	0	None
-3	Waist	655	Unavailable	605	0	0	None
-3	Waist	656	Unavailable	606	0	0	None
-3	Waist	657	Unavailable	607	0	0	None
+3	Waist	625	Многосл. часовая кираса<ICON BETA>+	674	0	9	pl104_0000
+3	Waist	626	Многослойная кираса бариота<ICON ALPHA>+	576	0	9	pl089_0000
+3	Waist	627	Многослойная кираса бариота<ICON BETA>+	577	0	9	pl089_0010
+3	Waist	628	Многосл. кираса раталоса<ICON ALPHA>+	578	0	9	pl033_0001
+3	Waist	629	Многосл. кираса раталоса<ICON BETA>+	579	0	9	pl033_0011
+3	Waist	630	Многосл. кираса души раты<ICON ALPHA>+	580	0	10	pl033_0101
+3	Waist	631	Многосл. кираса души раты<ICON BETA>+	581	0	10	pl033_0111
+3	Waist	632	Многослойная кираса диаблос<ICON ALPHA>+	582	0	9	pl034_0001
+3	Waist	633	Многослойная кираса диаблос<ICON BETA>+	583	0	9	pl034_0011
+3	Waist	634	Мног. кираса жуткой диаблос<ICON ALPHA>+	584	0	10	pl034_0101
+3	Waist	635	Мног. кираса жуткой диаблос<ICON BETA>+	585	0	10	pl034_0111
+3	Waist	636	Многослойная кираса легианы<ICON ALPHA>+	586	0	9	pl027_0001
+3	Waist	637	Многослойная кираса легианы<ICON BETA>+	587	0	9	pl027_0011
+3	Waist	638	Мн. кираса визжащей легианы<ICON ALPHA>+	588	0	10	pl027_0500
+3	Waist	639	Мн. кираса визжащей легианы<ICON BETA>+	589	0	10	pl027_0510
+3	Waist	640	Мног. кираса одогарона<ICON ALPHA>+	590	0	9	pl029_0001
+3	Waist	641	Мног. кираса одогарона<ICON BETA>+	591	0	9	pl029_0011
+3	Waist	642	Мн. кираса смерт. гарона<ICON ALPHA>+	592	0	10	pl029_0101
+3	Waist	643	Мн. кираса смерт. гарона<ICON BETA>+	593	0	10	pl029_0111
+3	Waist	644	Многосл. кираса лавасиота+	594	0	9	pl040_0001
+3	Waist	645	Многослойная кираса урагаана+	595	0	9	pl041_0001
+3	Waist	646	Многосл. кираса наргакуги<ICON ALPHA>+	596	0	9	pl080_0000
+3	Waist	647	Многосл. кираса наргакуги<ICON BETA>+	597	0	9	pl080_0010
+3	Waist	648	Многосл. кираса главенуса<ICON ALPHA>+	598	0	9	pl081_0000
+3	Waist	649	Многосл. кираса главенуса<ICON BETA>+	599	0	9	pl081_0010
+3	Waist	650	Мн. кираса кисл. главенуса<ICON ALPHA>+	600	0	10	pl081_0100
+3	Waist	651	Мн. кираса кисл. главенуса<ICON BETA>+	601	0	10	pl081_0110
+3	Waist	652	Мног. кираса брахидиоса<ICON ALPHA>+	602	0	9	pl082_0000
+3	Waist	653	Мног. кираса брахидиоса<ICON BETA>+	603	0	9	pl082_0010
+3	Waist	654	Многосл. кираса тигрекса<ICON ALPHA>+	604	0	9	pl083_0000
+3	Waist	655	Многосл. кираса тигрекса<ICON BETA>+	605	0	9	pl083_0010
+3	Waist	656	Многосл. кираса рева рекса<ICON ALPHA>+	606	0	10	pl083_0100
+3	Waist	657	Многосл. кираса рева рекса<ICON BETA>+	607	0	10	pl083_0110
 3	Waist	658	Многосл. кираса черного пояса	608	0	10	pl093_0000
-3	Waist	659	Unavailable	609	0	0	None
-3	Waist	660	Unavailable	610	0	0	None
-3	Waist	661	Unavailable	611	0	0	None
-3	Waist	662	Unavailable	612	0	0	None
-3	Waist	663	Unavailable	613	0	0	None
-3	Waist	664	Unavailable	614	0	0	None
-3	Waist	665	Unavailable	615	0	0	None
-3	Waist	666	Unavailable	616	0	0	None
-3	Waist	667	Unavailable	617	0	0	None
-3	Waist	668	Unavailable	618	0	0	None
-3	Waist	669	Unavailable	619	0	0	None
-3	Waist	670	Unavailable	620	0	0	None
-3	Waist	671	Unavailable	621	0	0	None
-3	Waist	672	Unavailable	622	0	0	None
-3	Waist	673	Unavailable	623	0	0	None
-3	Waist	674	Unavailable	624	0	0	None
-3	Waist	675	Unavailable	625	0	0	None
-3	Waist	678	Unavailable	628	0	0	None
-3	Waist	679	Unavailable	629	0	0	None
-3	Waist	680	Unavailable	630	0	0	None
-3	Waist	681	Unavailable	631	0	0	None
-3	Waist	682	Unavailable	632	0	0	None
-3	Waist	683	Unavailable	633	0	0	None
-3	Waist	684	Unavailable	634	0	0	None
-3	Waist	685	Unavailable	635	0	0	None
-3	Waist	686	Unavailable	636	0	0	None
-3	Waist	687	Unavailable	637	0	0	None
-3	Waist	688	Unavailable	638	0	0	None
-3	Waist	689	Unavailable	639	0	0	None
-3	Waist	690	Unavailable	640	0	0	None
-3	Waist	691	Unavailable	641	0	0	None
-3	Waist	692	Unavailable	642	0	0	None
-3	Waist	693	Unavailable	643	0	0	None
-3	Waist	694	Unavailable	644	0	0	None
-3	Waist	695	Unavailable	645	0	0	None
-3	Waist	696	Unavailable	646	0	0	None
-3	Waist	697	Unavailable	647	0	0	None
-3	Waist	698	Unavailable	648	0	0	None
-3	Waist	699	Unavailable	649	0	0	None
-3	Waist	700	Unavailable	650	0	0	None
-3	Waist	701	Unavailable	651	0	0	None
-3	Waist	702	Unavailable	652	0	0	None
-3	Waist	703	Unavailable	653	0	0	None
-3	Waist	704	Unavailable	654	0	0	None
-3	Waist	705	Unavailable	655	0	0	None
-3	Waist	706	Unavailable	656	0	0	None
-3	Waist	707	Unavailable	657	0	0	None
-3	Waist	708	Unavailable	658	0	0	None
-3	Waist	709	Unavailable	659	0	0	None
-3	Waist	710	Unavailable	660	0	0	None
-3	Waist	715	Unavailable	665	0	0	None
-3	Waist	716	Unavailable	666	0	0	None
+3	Waist	659	Многосл. кираса гордости<ICON ALPHA>+	609	0	10	pl042_0500
+3	Waist	660	Многосл. кираса гордости<ICON BETA>+	610	0	10	pl042_0510
+3	Waist	661	Многосл. кираса жадности<ICON ALPHA>+	611	0	10	pl050_0500
+3	Waist	662	Многосл. кираса жадности<ICON BETA>+	612	0	10	pl050_0510
+3	Waist	663	Многосл. порубежная кираса<ICON ALPHA>+	613	0	11	pl085_0000
+3	Waist	664	Многосл. порубежная кираса<ICON BETA>+	614	0	11	pl085_0010
+3	Waist	665	Многослойная кираса пелены<ICON ALPHA>+	615	0	11	pl032_0500
+3	Waist	666	Многослойная кираса пелены<ICON BETA>+	616	0	11	pl032_0510
+3	Waist	667	Многослойная кираса теостры<ICON ALPHA>+	617	0	11	pl046_0001
+3	Waist	668	Многослойная кираса теостры<ICON BETA>+	618	0	11	pl046_0011
+3	Waist	669	Многослойная кираса кушалы<ICON ALPHA>+	619	0	11	pl047_0001
+3	Waist	670	Многослойная кираса кушалы<ICON BETA>+	620	0	11	pl047_0011
+3	Waist	671	Многослойная кираса кирина<ICON ALPHA>+	621	0	11	pl035_0001
+3	Waist	672	Многослойная кираса кирина<ICON BETA>+	622	0	11	pl035_0011
+3	Waist	673	Многослойная кираса щупалец<ICON ALPHA>+	623	0	11	pl086_0000
+3	Waist	674	Многослойная кираса щупалец<ICON BETA>+	624	0	11	pl086_0010
+3	Waist	675	Мног. кираса дворца гильдии+	625	0	10	pl094_0000
+3	Waist	678	Многослойная кираса шары<ICON ALPHA>+	628	0	11	pl088_0000
+3	Waist	679	Многослойная кираса шары<ICON BETA>+	629	0	11	pl088_0010
+3	Waist	680	Многослойная кираса гаруги<ICON ALPHA>+	630	0	10	pl108_0000
+3	Waist	681	Многослойная кираса гаруги<ICON BETA>+	631	0	10	pl108_0010
+3	Waist	682	Многослойная кираса зиногра<ICON ALPHA>+	632	0	10	pl107_0000
+3	Waist	683	Многослойная кираса зиногра<ICON BETA>+	633	0	10	pl107_0010
+3	Waist	684	Мног. кираса золотой луны<ICON ALPHA>+	634	0	11	pl021_0200
+3	Waist	685	Мног. кираса золотой луны<ICON BETA>+	635	0	11	pl021_0210
+3	Waist	686	Мног. кираса серебр. рат.<ICON ALPHA>+	636	0	11	pl033_0200
+3	Waist	687	Мног. кираса серебр. рат.<ICON BETA>+	637	0	11	pl033_0210
+3	Waist	688	Многосл. кираса лунастры<ICON ALPHA>+	638	0	11	pl051_0001
+3	Waist	689	Многосл. кираса лунастры<ICON BETA>+	639	0	11	pl051_0011
+3	Waist	690	Многосл. пагубная кираса<ICON ALPHA>+	640	0	11	pl030_0500
+3	Waist	691	Многосл. пагубная кираса<ICON BETA>+	641	0	11	pl030_0510
+3	Waist	692	Многосл. гильдейская кираса+	642	0	11	pl092_0000
+3	Waist	693	Многослойная кираса раянга<ICON ALPHA>+	643	0	10	pl109_0000
+3	Waist	694	Многослойная кираса раянга<ICON BETA>+	644	0	10	pl109_0010
+3	Waist	695	Мног. стигийская кираса<ICON ALPHA>+	645	0	10	pl107_0100
+3	Waist	696	Мног. стигийская кираса<ICON BETA>+	646	0	10	pl107_0110
+3	Waist	697	Многослойная кираса сафи<ICON ALPHA>+	647	0	11	pl087_0000
+3	Waist	698	Многослойная кираса сафи<ICON BETA>+	648	0	11	pl087_0010
+3	Waist	699	Мн. кираса взбеш. раянга<ICON ALPHA>+	649	0	11	pl109_0500
+3	Waist	700	Мн. кираса взбеш. раянга<ICON BETA>+	650	0	11	pl109_0510
+3	Waist	701	Многосл. Кираса неист. брахидиоса<ICON ALPHA>+	651	0	11	pl082_0500
+3	Waist	702	Многосл. кираса неист. брахидиоса<ICON BETA>+	652	0	11	pl082_0510
+3	Waist	703	Многосл. кираса ледозубого<ICON ALPHA>+	653	0	10	pl089_0500
+3	Waist	704	Многосл. кираса ледозубого<ICON BETA>+	654	0	10	pl089_0510
+3	Waist	705	Многосл. кираса эскадора<ICON ALPHA>+	655	0	11	pl052_0000
+3	Waist	706	Многосл. кираса эскадора<ICON BETA>+	656	0	11	pl052_0010
+3	Waist	707	Многосл. драконья кираса<ICON ALPHA>+	657	0	11	pl129_0000
+3	Waist	708	Многосл. драконья кираса<ICON BETA>+	658	0	11	pl129_0010
+3	Waist	709	Многослойная кираса кулве<ICON ALPHA>+	659	0	11	pl049_0001
+3	Waist	710	Многослойная кираса кулве<ICON BETA>+	660	0	11	pl049_0011
+3	Waist	715	Многослойная кираса мускулы<ICON ALPHA>+	665	0	10	pl115_0000
+3	Waist	716	Мног. кираса лазурного воина	666	0	11	pl072_0001
 3	Waist	717	Unavailable	667	0	0	None
-3	Waist	718	Unavailable	668	0	0	None
-3	Waist	719	Unavailable	669	0	0	None
-3	Waist	720	Unavailable	670	0	0	None
+3	Waist	718	HARDUMMY	668	0	11	pl068_0020
+3	Waist	719	Многосл. порубежная кираса<ICON GAMMA>+	669	0	11	pl085_0020
+3	Waist	720	Многослойная кираса щупалец<ICON GAMMA>+	670	0	11	pl086_0020
 3	Waist	721	Unavailable	671	0	0	None
-3	Waist	722	Unavailable	672	0	0	None
+3	Waist	722	Многослойная кираса мускулы<ICON GAMMA>+	672	0	11	pl115_0001
 3	Waist	723	Белье <ICON ALPHA>: многосл. кираса	673	0	11	pl500_0000
 3	Waist	724	Белье <ICON BETA>: многосл. кираса	675	0	11	pl501_0000
 3	Waist	725	Unavailable	676	0	0	None
@@ -2644,8 +2644,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	146	Многосл. поножи Ориона	150	0	3	pl077_0000
 4	Leg	153	Мн. поножи конц. костюма	153	0	3	pl078_0000
 4	Leg	299	HARDUMMY	154	0	7	pl068_0000
-4	Leg	291	HARDUMMY	155	0	7	pl069_0000
-4	Leg	292	HARDUMMY	156	0	7	pl070_0000
+4	Leg	291	Многосл. поножи Ryu	155	0	7	pl069_0000
+4	Leg	292	Многосл. поножи Sakura	156	0	7	pl070_0000
 4	Leg	141	Unavailable	143	2	0	pl001_0000
 4	Leg	142	Unavailable	179	2	0	pl001_0000
 4	Leg	143	Unavailable	180	2	0	pl001_0000
@@ -2689,9 +2689,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	223	Шпоры Дзоры<ICON GAMMA>	213	72	7	pl038_0020
 4	Leg	224	Шпоры ксено'джиивы<ICON GAMMA>	214	72	7	pl045_0020
 4	Leg	225	HARDUMMY	215	46	4	pl068_0000
-4	Leg	226	HARDUMMY	216	12	1	pl069_0000
-4	Leg	227	HARDUMMY	217	60	6	pl069_0000
-4	Leg	228	HARDUMMY	218	50	5	pl070_0000
+4	Leg	226	Ноги Ryu	216	12	1	pl069_0000
+4	Leg	227	Ноги Ryu<ICON ALPHA>	217	60	6	pl069_0000
+4	Leg	228	Ноги Sakura<ICON ALPHA>	218	50	5	pl070_0000
 4	Leg	229	Звездные поножи<ICON ALPHA>	219	56	6	pl072_0000
 4	Leg	230	Сапоги Данте<ICON ALPHA>	220	64	7	pl071_0000
 4	Leg	231	Поножи императрицы<ICON ALPHA>	221	70	7	pl051_0000
@@ -2837,7 +2837,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	443	Кириновые поножи<ICON BETA>+	393	154	11	pl035_0011
 4	Leg	444	Поножи щупалец<ICON ALPHA>+	394	158	11	pl086_0000
 4	Leg	445	Поножи щупалец<ICON BETA>+	395	158	11	pl086_0010
-4	Leg	446	Unavailable	396	0	0	None
+4	Leg	446	Многослойные часовые поножи<ICON ALPHA>+	396	0	9	pl104_0000
 4	Leg	447	Многослойные поножи баррота	397	0	4	pl012_0000
 4	Leg	448	Поножи гильд. дворца<ICON ALPHA>+	398	154	10	pl094_0000
 4	Leg	449	Поножи гильд. дворца<ICON BETA>+	399	154	10	pl094_0000
@@ -2885,7 +2885,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	497	Многослойные поножи луму	447	0	4	pl024_0000
 4	Leg	498	Страстные поножи<ICON ALPHA>+	448	156	9	pl125_0000
 4	Leg	499	Многослойные поножи ратианы<ICON ALPHA>	449	0	4	pl021_0000
-4	Leg	500	Unavailable	450	0	0	None
+4	Leg	500	Сапоги владыки демонов<ICON ALPHA>+	450	162	10	pl126_0000
 4	Leg	501	Многослойные поножи ратианы<ICON BETA>	451	0	4	pl021_0010
 4	Leg	502	Сапоги улуна<ICON ALPHA>+	452	120	8	pl127_0000
 4	Leg	503	Многосл. поножи радобаана<ICON ALPHA>	453	0	5	pl028_0000
@@ -2893,7 +2893,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	505	Многосл. поножи радобаана<ICON BETA>	455	0	5	pl028_0010
 4	Leg	506	Многослойные поножи розы	456	0	9	pl124_0000
 4	Leg	507	Страстные мног. поножи	457	0	9	pl125_0000
-4	Leg	508	Unavailable	458	0	0	None
+4	Leg	508	Мног. поножи владыки демонов	458	0	10	pl126_0000
 4	Leg	509	Многослойные поножи улуна	459	0	8	pl127_0000
 4	Leg	510	Многослойные поножи астрала	460	0	8	pl128_0000
 4	Leg	511	Мног. поножи из выс. металла	461	0	5	pl025_0000
@@ -2906,19 +2906,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	522	Мн. поножи серебр. рыцаря	472	0	6	pl123_0000
 4	Leg	523	HARDUMMY	473	132	11	pl068_0010
 4	Leg	524	Поножи щупалец<ICON GAMMA>+	474	176	11	pl086_0020
-4	Leg	525	HARDUMMY	475	0	7	pl072_0000
-4	Leg	526	HARDUMMY	476	170	11	pl072_0001
-4	Leg	527	Unavailable	477	0	0	None
+4	Leg	525	Мног. поножи лазур. зв. лорда	475	0	7	pl072_0000
+4	Leg	526	Гэта лазурного воина<ICON ALPHA>+	476	170	11	pl072_0001
+4	Leg	527	Порубежные поножи<ICON GAMMA>+	477	180	11	pl085_0020
 4	Leg	528	Поножи ледозубого<ICON ALPHA>+	478	162	10	pl089_0500
 4	Leg	529	Поножи ледозубого<ICON BETA>+	479	162	10	pl089_0510
-4	Leg	530	Unavailable	480	0	0	None
-4	Leg	531	Unavailable	481	0	0	None
+4	Leg	530	Лапы дракона<ICON ALPHA>+	480	180	11	pl129_0000
+4	Leg	531	Лапы дракона<ICON BETA>+	481	180	11	pl129_0010
 4	Leg	532	HARDUMMY	482	160	11	pl068_0020
 4	Leg	533	Unavailable	483	0	0	None
 4	Leg	534	Поножи Леона <ICON ALPHA>+	484	150	11	pl130_0000
 4	Leg	535	Поножи Клэр <ICON ALPHA>+	485	150	11	pl131_0000
-4	Leg	536	Unavailable	486	0	0	None
-4	Leg	537	Unavailable	487	0	0	None
+4	Leg	536	Многослойные поножи Леона+	486	0	11	pl130_0000
+4	Leg	537	Многослойные поножи Клэр+	487	0	11	pl131_0000
 4	Leg	540	Многослойные поножи додогамы	490	0	4	pl039_0000
 4	Leg	541	Драгоценные многосл. поножи	491	0	5	pl031_0000
 4	Leg	542	Мног. поножи сердца раты<ICON ALPHA>	492	0	5	pl021_0100
@@ -2974,126 +2974,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	592	Многослойные поножи кулве<ICON ALPHA>	542	0	7	pl049_0000
 4	Leg	593	Многослойные поножи кулве<ICON BETA>	543	0	7	pl049_0010
 4	Leg	594	Многослойные поножи кулве<ICON GAMMA>	544	0	7	pl049_0020
-4	Leg	595	Unavailable	546	0	0	None
-4	Leg	596	Unavailable	547	0	0	None
-4	Leg	599	Unavailable	550	0	0	None
-4	Leg	600	Unavailable	551	0	0	None
-4	Leg	601	Unavailable	552	0	0	None
-4	Leg	602	Unavailable	553	0	0	None
-4	Leg	603	Unavailable	554	0	0	None
-4	Leg	604	Unavailable	555	0	0	None
-4	Leg	605	Unavailable	556	0	0	None
-4	Leg	606	Unavailable	557	0	0	None
-4	Leg	607	Unavailable	558	0	0	None
-4	Leg	608	Unavailable	559	0	0	None
-4	Leg	609	Unavailable	560	0	0	None
-4	Leg	610	Unavailable	561	0	0	None
-4	Leg	611	Unavailable	562	0	0	None
-4	Leg	612	Unavailable	563	0	0	None
-4	Leg	613	Unavailable	564	0	0	None
-4	Leg	614	Unavailable	565	0	0	None
-4	Leg	615	Unavailable	566	0	0	None
-4	Leg	616	Unavailable	567	0	0	None
-4	Leg	617	Unavailable	568	0	0	None
-4	Leg	618	Unavailable	569	0	0	None
-4	Leg	619	Unavailable	570	0	0	None
-4	Leg	620	Unavailable	571	0	0	None
-4	Leg	621	Unavailable	572	0	0	None
-4	Leg	622	Unavailable	573	0	0	None
-4	Leg	623	Unavailable	574	0	0	None
+4	Leg	595	Многослойные поножи осоида+	546	0	8	pl007_0001
+4	Leg	596	Многослойные поножи роготавра+	547	0	8	pl017_0001
+4	Leg	599	Многослойные поножи яграса+	550	0	8	pl008_0001
+4	Leg	600	Многослойные поножи цици+	551	0	8	pl023_0001
+4	Leg	601	Многослойные поножи гирроса+	552	0	8	pl022_0001
+4	Leg	602	Многослойные поножи додогамы+	553	0	8	pl039_0001
+4	Leg	603	Многослойные поножи кулу+	554	0	8	pl009_0001
+4	Leg	604	Многослойные поножи поки+	555	0	8	pl010_0001
+4	Leg	605	Мног. поножи кораллового поки+	556	0	8	pl010_0101
+4	Leg	606	Многослойные поножи баррота+	557	0	8	pl012_0001
+4	Leg	607	Многослойные поножи юратода+	558	0	8	pl011_0001
+4	Leg	608	Многослойные поножи бео+	559	0	8	pl110_0000
+4	Leg	609	Многослойные поножи кадачи+	560	0	8	pl013_0001
+4	Leg	610	Мног. поножи аспид. кадачи+	561	0	8	pl013_0101
+4	Leg	611	Многослойные поножи банбаро<ICON ALPHA>+	562	0	8	pl084_0000
+4	Leg	612	Многослойные поножи банбаро<ICON BETA>+	563	0	8	pl084_0010
+4	Leg	613	Многослойные поножи анья<ICON ALPHA>+	564	0	8	pl020_0001
+4	Leg	614	Многослойные поножи анья<ICON BETA>+	565	0	8	pl020_0011
+4	Leg	615	Мн. поножи гром. аньяната<ICON ALPHA>+	566	0	10	pl020_0101
+4	Leg	616	Мн. поножи гром. аньяната<ICON BETA>+	567	0	10	pl020_0111
+4	Leg	617	Многослойные поножи ратианы<ICON ALPHA>+	568	0	8	pl021_0001
+4	Leg	618	Многослойные поножи ратианы<ICON BETA>+	569	0	8	pl021_0011
+4	Leg	619	Мног. поножи сердца раты<ICON ALPHA>+	570	0	8	pl021_0101
+4	Leg	620	Мног. поножи сердца раты<ICON BETA>+	571	0	8	pl021_0111
+4	Leg	621	Многослойные поножи луму+	572	0	8	pl024_0001
+4	Leg	622	Мног. поножи фантазма луму+	573	0	8	pl024_0101
+4	Leg	623	Многосл. поножи радобаана+	574	0	8	pl028_0001
 4	Leg	624	Многосл. артианские поножи	575	0	9	pl091_0000
-4	Leg	625	Unavailable	674	0	0	None
-4	Leg	626	Unavailable	576	0	0	None
-4	Leg	627	Unavailable	577	0	0	None
-4	Leg	628	Unavailable	578	0	0	None
-4	Leg	629	Unavailable	579	0	0	None
-4	Leg	630	Unavailable	580	0	0	None
-4	Leg	631	Unavailable	581	0	0	None
-4	Leg	632	Unavailable	582	0	0	None
-4	Leg	633	Unavailable	583	0	0	None
-4	Leg	634	Unavailable	584	0	0	None
-4	Leg	635	Unavailable	585	0	0	None
-4	Leg	636	Unavailable	586	0	0	None
-4	Leg	637	Unavailable	587	0	0	None
-4	Leg	638	Unavailable	588	0	0	None
-4	Leg	639	Unavailable	589	0	0	None
-4	Leg	640	Unavailable	590	0	0	None
-4	Leg	641	Unavailable	591	0	0	None
-4	Leg	642	Unavailable	592	0	0	None
-4	Leg	643	Unavailable	593	0	0	None
-4	Leg	644	Unavailable	594	0	0	None
-4	Leg	645	Unavailable	595	0	0	None
-4	Leg	646	Unavailable	596	0	0	None
-4	Leg	647	Unavailable	597	0	0	None
-4	Leg	648	Unavailable	598	0	0	None
-4	Leg	649	Unavailable	599	0	0	None
-4	Leg	650	Unavailable	600	0	0	None
-4	Leg	651	Unavailable	601	0	0	None
-4	Leg	652	Unavailable	602	0	0	None
-4	Leg	653	Unavailable	603	0	0	None
-4	Leg	654	Unavailable	604	0	0	None
-4	Leg	655	Unavailable	605	0	0	None
-4	Leg	656	Unavailable	606	0	0	None
-4	Leg	657	Unavailable	607	0	0	None
+4	Leg	625	Многослойные часовые поножи<ICON BETA>+	674	0	9	pl104_0000
+4	Leg	626	Многослойные поножи бариота<ICON ALPHA>+	576	0	9	pl089_0000
+4	Leg	627	Многослойные поножи бариота<ICON BETA>+	577	0	9	pl089_0010
+4	Leg	628	Многосл. поножи раталоса<ICON ALPHA>+	578	0	9	pl033_0001
+4	Leg	629	Многосл. поножи раталоса<ICON BETA>+	579	0	9	pl033_0011
+4	Leg	630	Многосл. поножи души раты<ICON ALPHA>+	580	0	10	pl033_0101
+4	Leg	631	Многосл. поножи души раты<ICON BETA>+	581	0	10	pl033_0111
+4	Leg	632	Многослойные поножи диаблос<ICON ALPHA>+	582	0	9	pl034_0001
+4	Leg	633	Многослойные поножи диаблос<ICON BETA>+	583	0	9	pl034_0011
+4	Leg	634	Мног. поножи жуткой диаблос<ICON ALPHA>+	584	0	10	pl034_0101
+4	Leg	635	Мног. поножи жуткой диаблос<ICON BETA>+	585	0	10	pl034_0111
+4	Leg	636	Многослойные поножи легианы<ICON ALPHA>+	586	0	9	pl027_0001
+4	Leg	637	Многослойные поножи легианы<ICON BETA>+	587	0	9	pl027_0011
+4	Leg	638	Мн. поножи визжащей легианы<ICON ALPHA>+	588	0	10	pl027_0500
+4	Leg	639	Мн. поножи визжащей легианы<ICON BETA>+	589	0	10	pl027_0510
+4	Leg	640	Многосл. поножи одогарона<ICON ALPHA>+	590	0	9	pl029_0001
+4	Leg	641	Многосл. поножи одогарона<ICON BETA>+	591	0	9	pl029_0011
+4	Leg	642	Мн. поножи смерт. гарона<ICON ALPHA>+	592	0	10	pl029_0101
+4	Leg	643	Мн. поножи смерт. гарона<ICON BETA>+	593	0	10	pl029_0111
+4	Leg	644	Многосл. поножи лавасиота+	594	0	9	pl040_0001
+4	Leg	645	Многослойные поножи урагаана+	595	0	9	pl041_0001
+4	Leg	646	Многосл. поножи наргакуги<ICON ALPHA>+	596	0	9	pl080_0000
+4	Leg	647	Многосл. поножи наргакуги<ICON BETA>+	597	0	9	pl080_0010
+4	Leg	648	Мног. поножи главенуса<ICON ALPHA>+	598	0	9	pl081_0000
+4	Leg	649	Мног. поножи главенуса<ICON BETA>+	599	0	9	pl081_0010
+4	Leg	650	Мн. поножи кисл. главенуса<ICON ALPHA>+	600	0	10	pl081_0100
+4	Leg	651	Мн. поножи кисл. главенуса<ICON BETA>+	601	0	10	pl081_0110
+4	Leg	652	Мног. поножи брахидиоса<ICON ALPHA>+	602	0	9	pl082_0000
+4	Leg	653	Мног. поножи брахидиоса<ICON BETA>+	603	0	9	pl082_0010
+4	Leg	654	Многосл. поножи тигрекса<ICON ALPHA>+	604	0	9	pl083_0000
+4	Leg	655	Многосл. поножи тигрекса<ICON BETA>+	605	0	9	pl083_0010
+4	Leg	656	Мног. поножи рева рекса<ICON ALPHA>+	606	0	10	pl083_0100
+4	Leg	657	Мног. поножи рева рекса<ICON BETA>+	607	0	10	pl083_0110
 4	Leg	658	Многосл. поножи черного пояса	608	0	10	pl093_0000
-4	Leg	659	Unavailable	609	0	0	None
-4	Leg	660	Unavailable	610	0	0	None
-4	Leg	661	Unavailable	611	0	0	None
-4	Leg	662	Unavailable	612	0	0	None
-4	Leg	663	Unavailable	613	0	0	None
-4	Leg	664	Unavailable	614	0	0	None
-4	Leg	665	Unavailable	615	0	0	None
-4	Leg	666	Unavailable	616	0	0	None
-4	Leg	667	Unavailable	617	0	0	None
-4	Leg	668	Unavailable	618	0	0	None
-4	Leg	669	Unavailable	619	0	0	None
-4	Leg	670	Unavailable	620	0	0	None
-4	Leg	671	Unavailable	621	0	0	None
-4	Leg	672	Unavailable	622	0	0	None
-4	Leg	673	Unavailable	623	0	0	None
-4	Leg	674	Unavailable	624	0	0	None
-4	Leg	675	Unavailable	625	0	0	None
-4	Leg	678	Unavailable	628	0	0	None
-4	Leg	679	Unavailable	629	0	0	None
-4	Leg	680	Unavailable	630	0	0	None
-4	Leg	681	Unavailable	631	0	0	None
-4	Leg	682	Unavailable	632	0	0	None
-4	Leg	683	Unavailable	633	0	0	None
-4	Leg	684	Unavailable	634	0	0	None
-4	Leg	685	Unavailable	635	0	0	None
-4	Leg	686	Unavailable	636	0	0	None
-4	Leg	687	Unavailable	637	0	0	None
-4	Leg	688	Unavailable	638	0	0	None
-4	Leg	689	Unavailable	639	0	0	None
-4	Leg	690	Unavailable	640	0	0	None
-4	Leg	691	Unavailable	641	0	0	None
-4	Leg	692	Unavailable	642	0	0	None
-4	Leg	693	Unavailable	643	0	0	None
-4	Leg	694	Unavailable	644	0	0	None
-4	Leg	695	Unavailable	645	0	0	None
-4	Leg	696	Unavailable	646	0	0	None
-4	Leg	697	Unavailable	647	0	0	None
-4	Leg	698	Unavailable	648	0	0	None
-4	Leg	699	Unavailable	649	0	0	None
-4	Leg	700	Unavailable	650	0	0	None
-4	Leg	701	Unavailable	651	0	0	None
-4	Leg	702	Unavailable	652	0	0	None
-4	Leg	703	Unavailable	653	0	0	None
-4	Leg	704	Unavailable	654	0	0	None
-4	Leg	705	Unavailable	655	0	0	None
-4	Leg	706	Unavailable	656	0	0	None
-4	Leg	707	Unavailable	657	0	0	None
-4	Leg	708	Unavailable	658	0	0	None
-4	Leg	709	Unavailable	659	0	0	None
-4	Leg	710	Unavailable	660	0	0	None
-4	Leg	715	Unavailable	665	0	0	None
-4	Leg	716	Unavailable	666	0	0	None
+4	Leg	659	Многосл. поножи гордости<ICON ALPHA>+	609	0	10	pl042_0500
+4	Leg	660	Многосл. поножи гордости<ICON BETA>+	610	0	10	pl042_0510
+4	Leg	661	Многосл. поножи жадности<ICON ALPHA>+	611	0	10	pl050_0500
+4	Leg	662	Многосл. поножи жадности<ICON BETA>+	612	0	10	pl050_0510
+4	Leg	663	Многосл. порубежные поножи<ICON ALPHA>+	613	0	11	pl085_0000
+4	Leg	664	Многосл. порубежные поножи<ICON BETA>+	614	0	11	pl085_0010
+4	Leg	665	Многослойные поножи пелены<ICON ALPHA>+	615	0	11	pl032_0500
+4	Leg	666	Многослойные поножи пелены<ICON BETA>+	616	0	11	pl032_0510
+4	Leg	667	Многослойные поножи теостры<ICON ALPHA>+	617	0	11	pl046_0001
+4	Leg	668	Многослойные поножи теостры<ICON BETA>+	618	0	11	pl046_0011
+4	Leg	669	Многослойные поножи кушалы<ICON ALPHA>+	619	0	11	pl047_0001
+4	Leg	670	Многослойные поножи кушалы<ICON BETA>+	620	0	11	pl047_0011
+4	Leg	671	Многослойные поножи кирина<ICON ALPHA>+	621	0	11	pl035_0001
+4	Leg	672	Многослойные поножи кирина<ICON BETA>+	622	0	11	pl035_0011
+4	Leg	673	Многослойные поножи щупалец<ICON ALPHA>+	623	0	11	pl086_0000
+4	Leg	674	Многослойные поножи щупалец<ICON BETA>+	624	0	11	pl086_0010
+4	Leg	675	Мног. поножи дворца гильдии+	625	0	10	pl094_0000
+4	Leg	678	Многослойные поножи шары<ICON ALPHA>+	628	0	11	pl088_0000
+4	Leg	679	Многослойные поножи шары<ICON BETA>+	629	0	11	pl088_0010
+4	Leg	680	Многослойные поножи гаруги<ICON ALPHA>+	630	0	10	pl108_0000
+4	Leg	681	Многослойные поножи гаруги<ICON BETA>+	631	0	10	pl108_0010
+4	Leg	682	Многослойные поножи зиногра<ICON ALPHA>+	632	0	10	pl107_0000
+4	Leg	683	Многослойные поножи зиногра<ICON BETA>+	633	0	10	pl107_0010
+4	Leg	684	Мног. поножи золотой луны<ICON ALPHA>+	634	0	11	pl021_0200
+4	Leg	685	Мног. поножи золотой луны<ICON BETA>+	635	0	11	pl021_0210
+4	Leg	686	Мног. поножи серебр. рат.<ICON ALPHA>+	636	0	11	pl033_0200
+4	Leg	687	Мног. поножи серебр. рат.<ICON BETA>+	637	0	11	pl033_0210
+4	Leg	688	Многосл. поножи лунастры<ICON ALPHA>+	638	0	11	pl051_0001
+4	Leg	689	Многосл. поножи лунастры<ICON BETA>+	639	0	11	pl051_0011
+4	Leg	690	Многосл. пагубные поножи<ICON ALPHA>+	640	0	11	pl030_0500
+4	Leg	691	Многосл. пагубные поножи<ICON BETA>+	641	0	11	pl030_0510
+4	Leg	692	Гильдейск. многосл. поножи+	642	0	11	pl092_0000
+4	Leg	693	Многослойные поножи раянга<ICON ALPHA>+	643	0	10	pl109_0000
+4	Leg	694	Многослойные поножи раянга<ICON BETA>+	644	0	10	pl109_0010
+4	Leg	695	Многосл. стигийские поножи<ICON ALPHA>+	645	0	10	pl107_0100
+4	Leg	696	Многосл. стигийские поножи<ICON BETA>+	646	0	10	pl107_0110
+4	Leg	697	Многослойные поножи сафи<ICON ALPHA>+	647	0	11	pl087_0000
+4	Leg	698	Многослойные поножи сафи<ICON BETA>+	648	0	11	pl087_0010
+4	Leg	699	Мног. поножи взбеш. раянга<ICON ALPHA>+	649	0	11	pl109_0500
+4	Leg	700	Мног. поножи взбеш. раянга<ICON BETA>+	650	0	11	pl109_0510
+4	Leg	701	Многосл. поножи брахидиоса<ICON ALPHA>+	651	0	11	pl082_0500
+4	Leg	702	Многосл. поножи брахидиоса<ICON BETA>+	652	0	11	pl082_0510
+4	Leg	703	Многосл. поножи ледозубого<ICON ALPHA>+	653	0	10	pl089_0500
+4	Leg	704	Многосл. поножи ледозубого<ICON BETA>+	654	0	10	pl089_0510
+4	Leg	705	Многосл. поножи эскадора<ICON ALPHA>+	655	0	11	pl052_0000
+4	Leg	706	Многосл. поножи эскадора<ICON BETA>+	656	0	11	pl052_0010
+4	Leg	707	Многослойные лапы дракона<ICON ALPHA>+	657	0	11	pl129_0000
+4	Leg	708	Многослойные лапы дракона<ICON BETA>+	658	0	11	pl129_0010
+4	Leg	709	Многослойные поножи кулве<ICON ALPHA>+	659	0	11	pl049_0001
+4	Leg	710	Многослойные поножи кулве<ICON BETA>+	660	0	11	pl049_0011
+4	Leg	715	Многослойные поножи мускулы<ICON ALPHA>+	665	0	10	pl115_0000
+4	Leg	716	Мног. поножи лазурного воина	666	0	11	pl072_0001
 4	Leg	717	Unavailable	667	0	0	None
-4	Leg	718	Unavailable	668	0	0	None
-4	Leg	719	Unavailable	669	0	0	None
-4	Leg	720	Unavailable	670	0	0	None
+4	Leg	718	HARDUMMY	668	0	11	pl068_0020
+4	Leg	719	Многосл. порубежные поножи<ICON GAMMA>+	669	0	11	pl085_0020
+4	Leg	720	Многослойные поножи щупалец<ICON GAMMA>+	670	0	11	pl086_0020
 4	Leg	721	Unavailable	671	0	0	None
-4	Leg	722	Unavailable	672	0	0	None
+4	Leg	722	Многослойные поножи мускулы<ICON GAMMA>+	672	0	11	pl115_0001
 4	Leg	723	Белье <ICON ALPHA>: многосл. поножи	673	0	11	pl500_0000
 4	Leg	724	Белье <ICON BETA>: многосл. поножи	675	0	11	pl501_0000
 4	Leg	725	Unavailable	676	0	0	None
@@ -3400,7 +3400,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	319	Оберег мороза 4	0	0	10	None
 5	Charm	320	Оберег мороза 5	0	0	11	None
 5	Charm	321	Оберег мастера 4	0	0	10	None
-5	Charm	322	Unavailable	0	0	0	None
+5	Charm	322	Оберег мастера 5	0	0	11	None
 5	Charm	323	Оберег уклонения 4	0	0	11	None
 5	Charm	324	Оберег уклонения 5	0	0	11	None
 5	Charm	325	Оберег змея 4	0	0	10	None
@@ -3414,11 +3414,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	333	Оберег грибника 3	0	0	10	None
 5	Charm	334	Оберег пробуждения 3	0	0	11	None
 5	Charm	335	Оберег остроты 4	0	0	11	None
-5	Charm	336	Unavailable	0	0	0	None
+5	Charm	336	Оберег остроты 5	0	0	11	None
 5	Charm	337	Оберег ушей 4	0	0	11	None
-5	Charm	338	Unavailable	0	0	0	None
+5	Charm	338	Оберег ушей 5	0	0	11	None
 5	Charm	339	Оберег от тряски 3	0	0	11	None
-5	Charm	340	Unavailable	0	0	0	None
+5	Charm	340	Оберег хитреца 3	0	0	11	None
 5	Charm	341	Оберег фокусировки 3	0	0	11	None
 5	Charm	342	Оберег рассекателя 3	0	0	10	None
 5	Charm	343	Оберег ярости 3	0	0	10	None
@@ -3437,7 +3437,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	356	Оберег могущества 3	0	0	11	None
 5	Charm	357	Оберег импульса 3	0	0	10	None
 5	Charm	358	Оберег критического урона 2	0	0	11	None
-5	Charm	359	Unavailable	0	0	0	None
+5	Charm	359	Оберег критического урона 3	0	0	11	None
 5	Charm	360	Оберег заряда 3	0	0	10	None
 5	Charm	361	Оберег феникса 1	0	0	10	None
 5	Charm	362	Оберег феникса 2	0	0	11	None
@@ -3461,7 +3461,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	380	Оберег выживания 2	0	0	2	None
 5	Charm	381	Оберег выживания 3	0	0	2	None
 5	Charm	382	Unavailable	0	0	2	None
-5	Charm	383	Unavailable	0	0	0	None
+5	Charm	383	Оберег брадобрея	0	0	8	None
 5	Charm	384	Unavailable	0	0	0	None
 5	Charm	385	Unavailable	0	0	0	None
 5	Charm	386	Unavailable	0	0	0	None

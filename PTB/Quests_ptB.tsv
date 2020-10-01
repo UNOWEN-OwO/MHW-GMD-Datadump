@@ -356,8 +356,8 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 51606	Minha Cólera Contra Todos	Mate um Brachydios Colérico	Tempo expirarDesmaiar 3 vezes
 51607	A Fúria Permanece	Cace um Rajang Furioso	Tempo expirarDesmaiar 3 vezes
 51611	Crepúsculo Sombrio Incandescente	Mate um Alatreon	Tempo expirarDesmaiar 3 vezes
-51612	Unavailable	Unavailable	Unavailable
-51613	Unavailable	Unavailable	Unavailable
+51612	O Dragão Sombrio	Mate Fatalis	Tempo expirarDesmaiar 5 vezes
+51613	Triunfo da Aurora	Mate um Alatreon	Tempo expirarDesmaiar 3 vezes
 51621	Arena Especial: Zinogre Tenebroso RM	Cace um Zinogre Tenebroso	Tempo expirarDesmaiar 3 vezes
 51622	Explosão de Sentimentos	Mate um Brachydios Colérico	Tempo expirarDesmaiar 3 vezes
 51623	Tudo o que Brilha é Furioso	Cace um Rajang Furioso	Tempo expirarDesmaiar 3 vezes
@@ -500,9 +500,23 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66834	Quando o Veloz Encara o Rugidor	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
 66835	A Fúria do Trovão Descende	Cace um Zinogre	Tempo expirarDesmaiar 3 vezes
 66836	Ode à Destruição	Mate um Nergigante Ferrenho	Tempo expirarDesmaiar 3 vezes
+66840	No Rastro da Tormenta	Mate um Kushala Daora	Tempo expirarDesmaiar 3 vezes
+66841	Dia da Ruína	Mate um Teostra	Tempo expirarDesmaiar 3 vezes
+66842	O Frio Nunca me Incomodou	Mate uma Lunastra	Tempo expirarDesmaiar 3 vezes
+66843	A Estrela do Anoitecer	Mate um Alatreon	Tempo expirarDesmaiar 3 vezes
+66844	Alvorada da Estrela da Morte	Mate um Alatreon	Tempo expirarDesmaiar 3 vezes
+66846	O Último Cavaleiro Branco	Cace um Barioth Presagélida	Tempo expirarDesmaiar 3 vezes
 66847	A Maré Sombria Distante	Mate um Namielle	Tempo expirarDesmaiar 3 vezes
+66853	Pérolas Suaves em Domicílio	Entregue 8 Pérolas Suaves	Tempo expirarDesmaiar 3 vezes
+66854	Camufalha	Cace uma Rathian	Tempo expirarDesmaiar 3 vezes
+66855	Ver para Crer	Cace um Tigrex	Tempo expirarDesmaiar 3 vezes
+66856	Não Esqueça os Tampões!	Cace um Yian Garuga	Tempo expirarDesmaiar 3 vezes
+66857	Macacadas	Cace um Rajang Furioso	Tempo expirarDesmaiar 3 vezes
+66858	A Verdade Nua e Crua	Mate um Shara Ishvalda	Tempo expirarDesmaiar 3 vezes
 66859	Que Estraga-festa...	Cace um Bazelgeuse Vulcânico	Tempo expirarDesmaiar 3 vezes
 66860	A Fúria do Trovão Descende	Cace um Zinogre	Tempo expirarDesmaiar 3 vezes
+66861	Miaulhor da Lista!	Cace um Rajang Furioso	Tempo expirarDesmaiar 5 vezes
+66867	Cão Velho, Truque Novo	Cace um Barioth Presagélida	Tempo expirarDesmaiar 3 vezes
 67101	A Provação	Cace um Anjanath	Tempo expirarDesmaiar 3 vezes
 67102	Lições da Natureza	Mate 8 Barnos	Tempo expirarDesmaiar 3 vezes
 67103	Rush de Sangue	Cace 2 Odogarons	Tempo expirarDesmaiar 3 vezes

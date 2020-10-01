@@ -928,9 +928,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 926	HARDUMMY	Material	3	HARDUMMY
 927	HARDUMMY	Material	5	HARDUMMY
 928	Ticket Mega Man	Material	5	Un ticket spécial collaborationMega Man.À présenter à la Forge !
-929	HARDUMMY	Material	3	HARDUMMY
-930	HARDUMMY	Material	5	HARDUMMY
-931	HARDUMMY	Material	5	HARDUMMY
+929	Ticket SFV	Material	3	Un ticket pour une collaboration avecStreet Fighter... Quoi ? Est-ce que legrand maître du karaté sera de la partie ?
+930	Ticket SFV III	Material	5	Un ticket pour une collaborationavec Street Fighter. Le guerrierlégendaire est-il de retour ?
+931	Ticket SFV II	Material	5	Un ticket pour une collaborationavec Street Fighter. Cette combattanteva aussi chasser des wyvernes ?
 932	Fragment d'astre bleu	Material	3	Matériau spécial donné à ceux quicomplètent un défi USJ. Brille d'unemagnifique couleur bleue cristalline.
 933	Gemme d'astre bleu	Material	5	Un matériau spécial récompensantceux qui ont surmonté le défi USJ.Brille d'un bleu surnaturel.
 934	Orbe rouge	Material	7	Du sang impur utilisé pour forgerdes équipements pour chasseursde démons. La classe !
@@ -2272,9 +2272,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2270	Joyau de la nature <STYL MOJI_YELLOW_DEFAULT>[1]</STYL>	Jewel	8	Augmente le talent <STYL MOJI_YELLOW_DEFAULT>Ami de la nature</STYL>.
 2271	Unavailable	Jewel	8	Augmente le talent <STYL MOJI_YELLOW_DEFAULT>Mobilité eau/neige</STYL>.
 2272	Joyau chauffant <STYL MOJI_YELLOW_DEFAULT>[2]</STYL>	Jewel	8	Augmente le talent <STYL MOJI_YELLOW_DEFAULT>Antifroid</STYL>.
-2273	Unavailable	Item	3	Unavailable
-2274	Unavailable	Item	3	Unavailable
-2275	Unavailable	Item	3	Unavailable
+2273	Joyau de la diversion <STYL MOJI_YELLOW_DEFAULT>[3]</STYL>	Jewel	10	Augmente le talent <STYL MOJI_YELLOW_DEFAULT>Provocateur</STYL>.
+2274	Joyau de l'acrobate <STYL MOJI_YELLOW_DEFAULT>[3]</STYL>	Jewel	10	Augmente le talent <STYL MOJI_YELLOW_DEFAULT>Atterrissage en douceur</STYL>.
+2275	Joyau du rasoir <STYL MOJI_YELLOW_DEFAULT>[3]</STYL>	Jewel	10	Augmente le talent <STYL MOJI_YELLOW_DEFAULT>Booster de griffe</STYL>.
 2276	Unavailable	Item	3	Unavailable
 2277	Unavailable	Item	3	Unavailable
 2278	Unavailable	Item	3	Unavailable
@@ -2417,7 +2417,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2415	Bouquet de roses (petit)	Room Decoration	3	De splendides rosesdans un petit pot.
 2416	Bouquet de roses (grand)	Room Decoration	3	De splendides rosesdans un grand pot.
 2417	Plantes tropicales	Room Decoration	3	Une plante originaired'une région chaude.<STYL MOJI_YELLOW_DEFAULT>Carnaval de Seliana</STYL>
-2418	Unavailable	Item	3	Unavailable
+2418	Citrouilles terrifiantes	Room Decoration	3	Des citrouilles légèrementinquiétantes.<STYL MOJI_YELLOW_DEFAULT>Festival de la terreur</STYL>
 2419	Maquette - Navire de la Cinquième	Room Decoration	3	Une maquette en bois d'un bateaude la Cinquième flotte.
 2420	Maquette - Navire de combat	Room Decoration	3	Une maquette en bois d'un bateauutilisé durant le combat contrele Zorah Magdaros.
 2421	Maquette - Poste de recherche	Room Decoration	3	Une spectaculaire maquette en boisdu Poste de recherche fabriquée parla main d'un véritable expert.
@@ -2428,7 +2428,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2426	Masque Rathalos	Room Decoration	3	Un masque de carnavalinspiré par le Rathalos.<STYL MOJI_YELLOW_DEFAULT>Carnaval de Seliana</STYL>
 2427	Masque Rathian	Room Decoration	3	Un masque de carnavalinspiré par la Rathian.<STYL MOJI_YELLOW_DEFAULT>Carnaval de Seliana</STYL>
 2428	Masque Kulu-Ya-Ku	Room Decoration	3	Un masque de carnavalinspiré par le Kulu-Ya-Ku.<STYL MOJI_YELLOW_DEFAULT>Carnaval de Seliana</STYL>
-2429	Unavailable	Item	3	Unavailable
+2429	Drap fantôme	Room Decoration	3	Une déco effrayantebasée sur un fantôme.<STYL MOJI_YELLOW_DEFAULT>Festival de la terreur</STYL>
 2430	Tête Felyne	Room Decoration	3	Un mignon coussin suspenduen forme de Felyne.<STYL MOJI_YELLOW_DEFAULT>Festival cosmique</STYL>
 2431	Tête Grimalkyne (blanc)	Room Decoration	3	Un mignon coussin suspenduen forme de Grimalkyne.<STYL MOJI_YELLOW_DEFAULT>Festival cosmique</STYL>
 2432	Tête Grimalkyne (noir)	Room Decoration	3	Un mignon coussin suspenduen forme de Grimalkyne.<STYL MOJI_YELLOW_DEFAULT>Festival cosmique</STYL>
@@ -2461,7 +2461,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2459	Tableau Givre éternel 2	Room Decoration	3	Un tableau représentant un paysagedu Givre éternel.
 2460	Cartes du Nouveau Monde	Room Decoration	3	Des cartes du Nouveau Monde et desTerres perdues, ainsi que des notes.
 2461	Portraits de Palico 5	Room Decoration	3	Une collection de portraitsreprésentant des Palicos.(Et aussi un Poogie !)
-2462	Unavailable	Item	3	Unavailable
+2462	Tissu terrifiant	Room Decoration	3	Un bout de tissu déchiré inquiétant.<STYL MOJI_YELLOW_DEFAULT>Festival de la terreur</STYL>
 2463	Bannière de la Première flotte	Room Decoration	3	La bannière de la Première flotte.
 2464	Bannière de la Deuxième flotte	Room Decoration	3	La bannière de la Deuxième flotte.
 2465	Bannière de la Troisième flotte	Room Decoration	3	La bannière de la Troisième flotte.
@@ -2476,7 +2476,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2474	Lampe de papier	Room Decoration	3	Une lampe de chevet traditionnelletrès populaire.<STYL MOJI_YELLOW_DEFAULT>Festival de la prospérité</STYL>
 2475	Lampe Poogie	Room Decoration	3	Une lampe super mignonnebasée sur un Poogie.
 2476	Lanternes de papier	Room Decoration	3	Des lampes simples, mais conférantà la lumière une texture unique.<STYL MOJI_YELLOW_DEFAULT>Festival cosmique</STYL>
-2477	Unavailable	Item	3	Unavailable
+2477	Lanterne-citrouille	Room Decoration	3	Une lampe en forme de citrouilleavec un visage grimaçant.<STYL MOJI_YELLOW_DEFAULT>Festival de la terreur</STYL>
 2478	Laboratorium	Room Decoration	3	Des outils et accessoiresscientifiques utilisés à la Base derecherche de la Troisième flotte.
 2479	Kitchenette	Room Decoration	3	Une mini-cuisine parfaitementéquipée. Préparez les mêmesplats qu'à la Cantine !
 2480	Buste Rathalos	Room Decoration	3	Une représentation en pierrede la tête d'un Rathalos.
@@ -2557,12 +2557,12 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2555	Figurine - Tzitzi-Ya-Ku	Room Decoration	3	"Figurine de monstre""Tzitzi-Ya-Ku"""
 2556	Figurine - Rajang	Room Decoration	3	"Figurine de monstre""Rajang"""
 2557	Figurine - Kirin	Room Decoration	3	"Figurine de monstre""Kirin"""
-2558	Unavailable	Item	3	Unavailable
+2558	Figurine - Lunastra	Room Decoration	3	"Figurine de monstre""Lunastra"""
 2559	Figurine - Vaal Hazak	Room Decoration	3	"Figurine de monstre""Vaal Hazak"""
 2560	Figurine - Teostra	Room Decoration	3	"Figurine de monstre""Teostra"""
-2561	Figurines - Gajalaka	Room Decoration	3	"Figurine de monstre""Gajalaka"""
+2561	Figurines - Gajalaka	Room Decoration	3	"Figurine de monstre""Gajalaka et Roi Gajalaka"""
 2562	Figurine - Brachydios	Room Decoration	3	"Figurine de monstre""Brachydios"""
-2563	Unavailable	Item	3	Unavailable
+2563	Figurine - Uragaan	Room Decoration	3	"Figurine de monstre""Uragaan"""
 2564	Figurine - Lavasioth	Room Decoration	3	"Figurine de monstre""Lavasioth"""
 2565	Figurines - Lune et Soleil	Room Decoration	3	Ce célèbre couple de monstres est redoutépar tous les chasseurs. Qui vole un œuf...<STYL MOJI_YELLOW_DEFAULT>Festival cosmique</STYL>
 2566	Mur en marbre (blanc)	Room Decoration	3	Unavailable
@@ -2578,17 +2578,17 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2576	Mur d'honneur S.T.A.R.S. 2	Room Decoration	3	Des plaques et certificats remises auxforces spéciales du R.P.D., le S.T.A.R.S.<STYL MOJI_YELLOW_DEFAULT>Collaboration Raccoon City</STYL>
 2577	Machine à écrire	Room Decoration	3	Indispensable pour immortaliserdes fables sanglantes.<STYL MOJI_YELLOW_DEFAULT>Collaboration Raccoon City</STYL>
 2578	Coffre à objets	Room Decoration	3	Une grosse boîte permettant destocker vos objets en surplus.<STYL MOJI_YELLOW_DEFAULT>Collaboration Raccoon City</STYL>
-2579	Unavailable	Item	3	Unavailable
+2579	Friandises de l'épouvante	Room Decoration	3	Un assortiment de délicieuxdesserts colorés.<STYL MOJI_YELLOW_DEFAULT>Festival de la terreur</STYL>
 2580	Poogie en or	Room Decoration	3	Une statue en or d'un éclat étincelant,représentant un Poogie.
 2581	Mini bonhomme de neige	Room Decoration	3	Un bonhomme de neige lumineux.Il n'a pas l'air très joyeux...<STYL MOJI_YELLOW_DEFAULT>Festival de la prospérité</STYL>
 2582	Extra-terrestre de neige	Room Decoration	3	Un bonhomme de neigevenu d'une autre planète.<STYL MOJI_YELLOW_DEFAULT>Festival cosmique</STYL>
 2583	Bonhomme de neige floral	Room Decoration	3	Un bonhomme de neigeorné de jolies fleurs.<STYL MOJI_YELLOW_DEFAULT>Festival de la floraison</STYL>
 2584	Bonhomme de neige fêtard	Room Decoration	3	Un bonhomme de neigesouriant portant un masque.<STYL MOJI_YELLOW_DEFAULT>Carnaval de Seliana</STYL>
-2585	Unavailable	Item	3	Unavailable
+2585	Bonhomme de neige terrifiant	Room Decoration	3	Un bonhomme de neigeeffrayant aux yeux lumineux.<STYL MOJI_YELLOW_DEFAULT>Festival de la terreur</STYL>
 2586	Lanternes célestes	Room Decoration	3	Des lampions mystérieux capablesde s'élever dans les airs.<STYL MOJI_YELLOW_DEFAULT>Festival cosmique</STYL>
 2587	Bannière somptueuse	Room Decoration	3	Une magnifique bannière utiliséecomme décoration.
 2588	Assortiment de roses	Room Decoration	3	Un pot contenant des rosesde différentes couleurs.
-2589	Unavailable	Item	3	Unavailable
+2589	Lueur spectrale	Room Decoration	3	Une déco étrange quiémet une faible lueur.<STYL MOJI_YELLOW_DEFAULT>Festival de la terreur</STYL>
 2590	Relief	Room Decoration	3	Une gravure de bronzereprésentant un Rathalos.
 2591	L'Amiral	Room Decoration	3	Un tableau représentant l'Amiraldans toute sa splendeur.
 2592	Bannière murale somptueuse	Room Decoration	3	Une bannière murale blanche ornéed'un magnifique écusson doré.
@@ -2598,7 +2598,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2596	Tapis floral (RC)	Room Decoration	3	Des tapis flamboyants parsemésde pétales de fleurs.<STYL MOJI_YELLOW_DEFAULT>Festival de la floraison</STYL>
 2597	Tapis floral (ETG)	Room Decoration	3	Des tapis flamboyants parsemésde pétales de fleurs.<STYL MOJI_YELLOW_DEFAULT>Festival de la floraison</STYL>
 2598	Char de carnaval Pukei-Pukei	Room Decoration	3	Un char de défilé représentantun Pukei-Pukei.
-2599	Unavailable	Item	3	Unavailable
+2599	Pantin terrifiant	Room Decoration	3	Un leurre effrayant enforme de fantôme.<STYL MOJI_YELLOW_DEFAULT>Festival de la terreur</STYL>
 2600	Figurine - Jyuratodus	Room Decoration	3	"Figurine de monstre""Jyuratodus"""
 2601	Figurine - Barroth	Room Decoration	3	"Figurine de monstre""Barroth"""
 2602	Figurine - Diablos	Room Decoration	3	"Figurine de monstre""Diablos"""
@@ -2606,13 +2606,13 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2604	Figurine - Xeno'jiiva	Room Decoration	3	"Figurine de monstre""Xeno'jiiva"""
 2605	Figurines - Wulg	Room Decoration	3	"Figurine de monstre""Wulg"""
 2606	Figurines - Herbivores	Room Decoration	3	"Figurines de monstre""Aptonoth et marouettes douces"""
-2607	Unavailable	Item	3	Unavailable
-2608	Unavailable	Item	3	Unavailable
-2609	Unavailable	Item	3	Unavailable
-2610	Unavailable	Item	3	Unavailable
-2611	Unavailable	Item	3	Unavailable
-2612	Unavailable	Item	3	Unavailable
-2613	Unavailable	Item	3	Unavailable
+2607	Figurine - Kulve Taroth	Room Decoration	3	"Figurine de monstre""Kulve Taroth"""
+2608	Figurine - Bazelgeuse	Room Decoration	3	"Figurine de monstre""Bazelgeuse"""
+2609	Figurine - Deviljho	Room Decoration	3	"Figurine de monstre""Deviljho"""
+2610	Figurine - Shara Ishvalda 1	Room Decoration	3	"Figurine de monstre""Shara Ishvalda"""
+2611	Figurine - Shara Ishvalda 2	Room Decoration	3	"Figurine de monstre""Shara Ishvalda"""
+2612	Figurine - Alatreon	Room Decoration	3	"Figurine de monstre""Alatreon"""
+2613	Figurine - Fatalis	Room Decoration	3	"Figurine de monstre""Fatalis"""
 2614	The Bustling Heart of the Snowy Village (MH Swing)	Room Decoration	3	<STYL MOJI_LIGHTBLUE_DEFAULT>Arrangement Monster Hunter Swing</STYL>La musique du village Pokke dansMonster Hunter Portable 2nd.
 2615	Scat Cat Fever (MH Swing)	Room Decoration	3	<STYL MOJI_LIGHTBLUE_DEFAULT>Arrangement Monster Hunter Swing</STYL>La musique de l'Arène.
 2616	In Search of Hidden Springs (MH Swing)	Room Decoration	3	<STYL MOJI_LIGHTBLUE_DEFAULT>Arrangement Monster Hunter Swing</STYL>La musique du village Yukumo dansMonster Hunter Portable 3rd.
@@ -2624,9 +2624,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2622	The Hunters' Secret Spring (MH The Jazz)	Room Decoration	3	<STYL MOJI_LIGHTBLUE_DEFAULT>Arrangement Monster Hunter The Jazz</STYL>La musique de la Grand-Salle dansMonster Hunter Portable 3rd.
 2623	Winds of Adventure (MH The Jazz)	Room Decoration	3	<STYL MOJI_LIGHTBLUE_DEFAULT>Arrangement Monster Hunter The Jazz</STYL>La musique principale deMonster Hunter 4 Ultimate.
 2624	Proof of a Hero (MH The Jazz)	Room Decoration	3	<STYL MOJI_LIGHTBLUE_DEFAULT>Arrangement Monster Hunter The Jazz</STYL>La musique principale dela série Monster Hunter.
-2625	Unavailable	Item	3	Unavailable
-2626	Unavailable	Item	3	Unavailable
-2627	Unavailable	Item	3	Unavailable
+2625	The Legend Descends - Fatalis: World Version	Room Decoration	3	<STYL MOJI_LIGHTBLUE_DEFAULT>Monster Hunter World: Iceborne</STYL>La musique 1 du combat contrele Fatalis.
+2626	Limitless Courage	Room Decoration	3	<STYL MOJI_LIGHTBLUE_DEFAULT>Monster Hunter World: Iceborne</STYL>La musique 2 du combat contrele Fatalis.
+2627	The Final Confrontation	Room Decoration	3	<STYL MOJI_LIGHTBLUE_DEFAULT>Monster Hunter World: Iceborne</STYL>La musique 3 du combat contrele Fatalis.
 2628	Festin Boaboa	Room Decoration	3	Des plats traditionnelsde la tribu Boaboa.
 2629	Sculpture Popo	Room Decoration	3	Une sculpture simpled'un Popo.
 2630	Radeau Boaboa	Room Decoration	3	Une petite décorationreprésentant un Boaboasur un radeau.
@@ -2639,22 +2639,22 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2637	Statues Felynes	Room Decoration	3	Des statues primitivesreprésentant des Felynes.
 2638	Statues Grimalkynes	Room Decoration	3	Des sortes de statues sculptéesavec de la boue par des Grimalkynes.
 2639	Sculptures Popo	Room Decoration	3	Une représentation rudimentaired'un troupeau de Popo.
-2640	Unavailable	Item	3	Unavailable
+2640	Crâne de Beotodus	Room Decoration	3	Un crâne géant de Beotodus.La preuve des exploits dela tribu Boaboa.
 2641	Équipement Boaboa	Room Decoration	3	Une reproduction très fidèledes équipements utiliséspar la tribu Boaboa.
-2642	Unavailable	Item	3	Unavailable
-2643	Unavailable	Item	3	Unavailable
-2644	Unavailable	Item	3	Unavailable
-2645	Unavailable	Item	3	Unavailable
-2646	Unavailable	Item	3	Unavailable
-2647	Unavailable	Item	3	Unavailable
-2648	Unavailable	Item	3	Unavailable
-2649	Unavailable	Item	3	Unavailable
-2650	Unavailable	Item	3	Unavailable
-2651	Unavailable	Item	3	Unavailable
-2652	Unavailable	Item	3	Unavailable
-2653	Unavailable	Item	3	Unavailable
-2654	Unavailable	Item	3	Unavailable
-2655	Unavailable	Item	3	Unavailable
+2642	Lyniens, rassemblement !	Room Decoration	3	Un diorama représentant des lyniensvenus des quatre coins du mondepour une sorte d'événement.
+2643	Poupée Paolumu	Room Decoration	3	Une poupée adorablePaolumu.
+2644	Poupée Paolumu belladone	Room Decoration	3	Une poupée adorablePaolumu belladone.
+2645	Poupée taupinette	Room Decoration	3	Une poupée mignonnede taupinette.
+2646	Poupée taupinette des mousses	Room Decoration	3	Une poupée flamboyantede taupinette.
+2647	Poupée taupinette des roches	Room Decoration	3	Une poupée robustede taupinette.
+2648	Poupée taupinette soyeuse	Room Decoration	3	Une poupée moelleusede taupinette.
+2649	Poupée taupinette épineuse	Room Decoration	3	Une poupée mystérieusede taupinette.
+2650	Poupée taupinette bagarreuse	Room Decoration	3	Une poupée courageusede taupinette.
+2651	Poupée taupinette des neiges	Room Decoration	3	Une poupée délicatede taupinette.
+2652	Peinture Fatalis	Room Decoration	3	Une œuvre représentant la destructiond'une nation glorieuse.
+2653	Poupée Rajang	Room Decoration	3	Un Rajang en train des'amuser sur une balançoire.
+2654	Poupée Rajang orage	Room Decoration	3	Un Rajang orage en train des'amuser sur une balançoire.
+2655	Bannière de Schrade	Room Decoration	3	Une bannière symbolisant le glorieuxpays de Schrade.
 2656	Unavailable	Item	3	Unavailable
 2657	Unavailable	Item	3	Unavailable
 2658	Unavailable	Item	3	Unavailable
@@ -2680,7 +2680,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2678	Bonhomme de neige	Item	3	À utiliser pour créer des boulesde neige. Obtenu lorsque vousparticipez au Festival de Seliana.
 2679	Ticket Namielle	Material	11	Un ticket représentant le Namielle,maître des torrents.À présenter à la Forge !
 2680	Unavailable	Item	3	Unavailable
-2681	Unavailable	Item	3	Unavailable
+2681	Ticket Velkana	Material	11	Un ticket représentant le Velkana,l'empereur de la glace.À présenter à la Forge !
 2682	Ticket Barioth crocgivre	Material	10	Attribué à ceux qui ont chasséun Barioth crocgivre.À présenter à la Forge !
 2683	Plante verte	Item	1	Une plante verte native des montagnesArklay. Restaure légèrement la vie etguérit de la zombification. <STYL MOJI_YELLOW_DEFAULT>(Quête)</STYL>
 2684	Plante rouge	Item	1	Une plante rouge native des montagnesArklay. Ne peut être utilisée tellequelle. <STYL MOJI_YELLOW_DEFAULT>(Quête)</STYL>
@@ -2724,11 +2724,11 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2722	Ticket Poissaiguiseur	Material	9	Un ticket donné par le Roi de la pêche,représentant des poissaiguiseurs.À présenter à la Forge !
 2723	Ticket Marouette douce II	Material	9	Un ticket représentant une magnifiquemarouette douce adulte.À présenter à la Forge !
 2724	Ticket Carnaval	Material	8	Un ticket obtenu durant le Carnavalde Seliana. À échanger contre deséquipements ou des feux d'artifice.
-2725	Ticket Lièvre des steppes	Material	9	Attribué à ceux qui rêvent dedevenir un lièvre des steppes.À présenter à la Forge !
+2725	Ticket Lièvre des prairies	Material	9	Attribué à ceux qui rêvent dedevenir un lièvre des prairies.À présenter à la Forge !
 2726	Ticket Cantine (liqueur)	Material	9	À présenter à la Forge !
-2727	Unavailable	Item	3	Unavailable
-2728	Unavailable	Item	3	Unavailable
-2729	Unavailable	Item	3	Unavailable
+2727	Ticket Terreur	Material	8	Un ticket obtenu durant le Festivalde la terreur. À échanger contre deséquipements ou objets spéciaux.
+2728	Bandana noir	Material	9	Un bandana fait à partird'un tissu résistant.À présenter à la Forge !
+2729	Ticket Écharpe	Material	9	Un schéma inspiré du Tobi-Kadachi,conçu par un membre de la Commission.À présenter à la Forge !
 2730	Symbole d'amitié	Material	9	Des nouvelles d'amis du monde entier.Elles parlent d'aventures incroyables !À présenter à la Forge !
 2731	Unavailable	Item	3	Unavailable
 2732	Ticket Macaque d'or	Material	9	Un ticket représentantun macaque d'or.À présenter à la Forge !
@@ -2738,7 +2738,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2736	Ticket Cosmos VIP	Material	11	Un ticket rare obtenu durant le Festivalcosmique. Utilisé pour forger desarmures spéciales ou amulettes.
 2737	Ticket Floraison VIP	Material	11	Un ticket rare obtenu durant le Festivalde la floraison. Utilisé pour forger desarmures spéciales ou amulettes.
 2738	Ticket Carnaval VIP	Material	11	Un ticket rare obtenu durant le Carnavalde Seliana. Utilisé pour forger desarmures spéciales ou amulettes.
-2739	Unavailable	Item	3	Unavailable
+2739	Ticket Terreur VIP	Material	11	Un ticket rare obtenu durant le Festivalde la terreur. Utilisé pour forger desarmures spéciales ou amulettes.
 2740	Capsule puante	Item	8	Munition pour fronde. Peut forcer ungrand monstre à quitter le Fief glorieux.<STYL MOJI_YELLOW_DEFAULT>Leader du Fief glorieux seulement.</STYL>
 2741	Unavailable	Item	3	Unavailable
 2742	Draconite - Trancheur	Material	11	Unavailable
@@ -2755,22 +2755,22 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2753	Draconite - Fusil	Material	11	Unavailable
 2754	Draconite - Obusier	Material	11	Unavailable
 2755	Draconite - Arc	Material	11	Unavailable
-2756	Unavailable	Item	3	Unavailable
-2757	Unavailable	Item	3	Unavailable
-2758	Unavailable	Item	3	Unavailable
-2759	Unavailable	Item	3	Unavailable
-2760	Unavailable	Item	3	Unavailable
-2761	Unavailable	Item	3	Unavailable
+2756	Éclat Fatalis	Material	10	Matériau Fatalis très rare.Aussi ancien que la nuit des temps.<STYL MOJI_YELLOW_DEFAULT>(Dépeçage)</STYL>
+2757	Cortex Fatalis	Material	10	Matériau Fatalis très rare.Ne peut être endommagé par les armesconventionnelles.
+2758	Pectus Fatalis	Material	10	Matériau Fatalis très rare.Une carapace diabolique arborant lesarmes fondues des adversaires vaincus.
+2759	Vouge Fatalis	Material	10	Matériau Fatalis très rare.Une corne noire à la puissanceimmense, étrangement attirante.
+2760	Œil maudit Fatalis	Material	11	Matériau Fatalis très rare.Un œil enveloppé d'une aura mystérieuse.On dirait qu'il est possédé...
+2761	Égide Fatalis	Material	10	Matériau Fatalis très rare.Une aile plus dure que le métal,mais pourtant très malléable.
 2762	Ticket Herbivore	Material	9	Un ticket représentantun gentil Kelbi.À présenter à la Forge !
 2763	Ticket Herbivore II	Material	9	Un ticket représentantun docile Aptonoth.À présenter à la Forge !
 2764	Ticket Troisième œil	Material	10	Attribué à ceux qui ont le donde déceler la vérité.À présenter à la Forge !
-2765	Unavailable	Item	3	Unavailable
+2765	Ticket Musclor +	Material	11	Un ticket où est écrit l'histoirede vos prouesses musclées.À présenter à la Forge !
 2766	Unavailable	Item	3	Unavailable
 2767	Unavailable	Item	3	Unavailable
 2768	Unavailable	Item	3	Unavailable
 2769	Unavailable	Item	3	Unavailable
-2770	Unavailable	Item	3	Unavailable
-2771	Unavailable	Item	3	Unavailable
+2770	Ticket Zinogre	Material	9	Un ticket représentant un Zinogrehurlant au clair de lune.À présenter à la Forge !
+2771	Ticket Tigrex berserk	Material	9	Un ticket représentant un Tigrexberserk fonçant et rugissant.À présenter à la Forge !
 2772	Unavailable	Item	3	Unavailable
 2773	Unavailable	Item	3	Unavailable
 2774	Unavailable	Item	3	Unavailable

@@ -356,8 +356,8 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 51606	...Wszechogarniający szał	Zabij Rozgniewanego Brachydiosa	Koniec czasuTrzykrotne zemdlenie
 51607	Nienasycona furia	Upoluj Wściekłego Rajanga	Koniec czasuTrzykrotne zemdlenie
 51611	Płonący czernią zmierzch	Zabij Alatreona	Koniec czasuTrzykrotne zemdlenie
-51612	Unavailable	Unavailable	Unavailable
-51613	Unavailable	Unavailable	Unavailable
+51612	Czarny smok	Zabij Fatalisa	Koniec czasuPięciokrotne zemdlenie
+51613	Triumf świtu	Zabij Alatreona	Koniec czasuTrzykrotne zemdlenie
 51621	Specjalna Arena: Stygijski Zinogr RM	Upoluj Stygijskiego Zinogra	Koniec czasuTrzykrotne zemdlenie
 51622	Serce Brachydiosa	Zabij Rozgniewanego Brachydiosa	Koniec czasuTrzykrotne zemdlenie
 51623	Lśniąca wściekłość	Upoluj Wściekłego Rajanga	Koniec czasuTrzykrotne zemdlenie
@@ -500,9 +500,23 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66834	Szybkość i ryk	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
 66835	Gniew burzy	Upoluj Zinogra	Koniec czasuTrzykrotne zemdlenie
 66836	Oda do zniszczenia	Zabij Niszcz. Nergiganta	Koniec czasuTrzykrotne zemdlenie
+66840	Cisza przed burzą	Zabij Kushalę Daorę	Koniec czasuTrzykrotne zemdlenie
+66841	Dzień zniszczenia	Zabij Teostrę	Koniec czasuTrzykrotne zemdlenie
+66842	Coś w objęcia chłodu mnie pcha	Zabij Lunastrę	Koniec czasuTrzykrotne zemdlenie
+66843	Gwiazda wieczorna	Zabij Alatreona	Koniec czasuTrzykrotne zemdlenie
+66844	Brzask gwiazdy śmierci	Zabij Alatreona	Koniec czasuTrzykrotne zemdlenie
+66846	Ostatni biały rycerz	Upoluj Bariotha Mrozokła	Koniec czasuTrzykrotne zemdlenie
 66847	Odległa mroczna fala	Zabij Namiella	Koniec czasuTrzykrotne zemdlenie
+66853	Połów jasnych pereł	Dostarcz 8 jasnych pereł	Koniec czasuTrzykrotne zemdlenie
+66854	Nieudany kamuflaż	Upoluj Rathianę	Koniec czasuTrzykrotne zemdlenie
+66855	Włos Tigrexa	Upoluj Tigrexa	Koniec czasuTrzykrotne zemdlenie
+66856	Pamiętaj o zatyczkach do uszu!	Upoluj Yian Garugę	Koniec czasuTrzykrotne zemdlenie
+66857	Małpie przekręty	Upoluj Wściekłego Rajanga	Koniec czasuTrzykrotne zemdlenie
+66858	Naga prawda	Zabij Shar Ishvalda	Koniec czasuTrzykrotne zemdlenie
 66859	Tak się nie robi...	Upoluj Rozzłoszczonego Bazelgeza	Koniec czasuTrzykrotne zemdlenie
 66860	Gniew burzy	Upoluj Zinogra	Koniec czasuTrzykrotne zemdlenie
+66861	Miau nadzieję na zwycięstwo!	Upoluj Wściekłego Rajanga	Koniec czasuPięciokrotne zemdlenie
+66867	Stary pies, nowa sztuczka	Upoluj Bariotha Mrozokła	Koniec czasuTrzykrotne zemdlenie
 67101	Próba	Upoluj Anjanatha	Koniec czasuTrzykrotne zemdlenie
 67102	Nauki z dziczy	Zabij 8 Barnosów	Koniec czasuTrzykrotne zemdlenie
 67103	Przypływ krwi	Upoluj 2 Odogarony	Koniec czasuTrzykrotne zemdlenie

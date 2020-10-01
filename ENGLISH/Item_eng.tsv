@@ -320,7 +320,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 318	Pukei-Pukei Shell	Material	3	Pukei-Pukei material.Mostly obtained as a reward.Solid, used to craft gear.
 319	Pukei-Pukei Quill	Material	3	Pukei-Pukei material.Obtained by breaking its wings.Used for many purposes.
 320	Pukei-Pukei Sac	Material	3	Pukei-Pukei material.Obtained by breaking its head.Grants poisonous properties.
-321	Pukei-Pukei Tail	Material	3	Rare Pukei-Pukei material.Obtained by carving its severedtail. Unusual, used to craft gear.
+321	Pukei-Pukei Tail	Material	3	Pukei-Pukei material.Obtained by carving its severedtail. Unusual, used to craft gear.
 322	Pukei-Pukei Scale+	Material	5	Rare Pukei-Pukei material.Mostly obtained by carving.Broadly used for many purposes.
 323	Pukei-Pukei Carapace	Material	5	Rare Pukei-Pukei material.Mostly obtained as a reward.Solid, used to craft gear.
 324	Pukei-Pukei Wing	Material	5	Rare Pukei-Pukei material.Obtained by breaking its wings.Used for many purposes.
@@ -928,9 +928,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 926	HARDUMMY	Material	3	HARDUMMY
 927	HARDUMMY	Material	5	HARDUMMY
 928	Mega Man Ticket	Material	5	A ticket for a special Mega Mantie-in. Gives you access to special8-bit retro Palico equipment.
-929	HARDUMMY	Material	3	HARDUMMY
-930	HARDUMMY	Material	5	HARDUMMY
-931	HARDUMMY	Material	5	HARDUMMY
+929	SFV Ticket	Material	3	A ticket for a special Street Fightertie-in. Wait...does that mean thatlegendary fighter is going to...!?
+930	SFV Ticket III	Material	5	A Street Fighter V collaborationticket. Has that legendary worldwarrior leveled up his game!?
+931	SFV Ticket II	Material	5	A Street Fighter V collaborationticket. Wait, that female fighteris also going to hunt monsters!?
 932	Azure Star Shard	Material	3	Special material given to those whocomplete USJ's challenge. Glowsa beautiful, transparent blue.
 933	Azure Stargem	Material	5	Special material for those whoovercome the USJ challenge.Shines a miraculous blue.
 934	Red Orb	Material	7	Blood of demonic beings condensedinto stone. Can be used to craftstylish devil hunter equipment.
@@ -2272,9 +2272,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2270	Survival Jewel 1	Jewel	8	A decoration that enhances theSurvival Expert skill.
 2271	Unavailable	Jewel	8	A decoration that enhances theAquatic/Polar Mobility skill.
 2272	Warming Jewel 2	Jewel	8	A decoration that enhances theColdproof skill.
-2273	Unavailable	Item	3	Unavailable
-2274	Unavailable	Item	3	Unavailable
-2275	Unavailable	Item	3	Unavailable
+2273	Diversion Jewel 3	Jewel	10	A decoration that enhancesthe Provoker skill.
+2274	Acrobat Jewel 3	Jewel	10	A decoration that enhancesthe Safe Landing skill.
+2275	Shaver Jewel 3	Jewel	10	A decoration that enhancesthe Clutch Claw Boost skill.
 2276	Unavailable	Item	3	Unavailable
 2277	Unavailable	Item	3	Unavailable
 2278	Unavailable	Item	3	Unavailable
@@ -2417,7 +2417,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2415	Flower Decoration (Small)	Room Decoration	3	An assortment of splendid flowersin a small flower pot.
 2416	Flower Decoration (Large)	Room Decoration	3	An assortment of splendid flowersin a large flower pot.
 2417	Tropical Planting	Room Decoration	3	Potted plants said to have beenraised in a warm region.(Sizzling Spice decor)
-2418	Unavailable	Item	3	Unavailable
+2418	Fun Fright Pumpkins	Room Decoration	3	A slightly eerie pumpkinsitting atop a pile of pumpkins.(Fun Fright decor)
 2419	Model Fifth Fleet Ship	Room Decoration	3	An elaborate model of a Fifth Fleetship.
 2420	Model Modified Ship	Room Decoration	3	A model of a ship modifiedto repel Zorah Magdaros.
 2421	Model Research Base	Room Decoration	3	A model of the Research Base.The intricate details are the workof an expert craftsman.
@@ -2428,7 +2428,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2426	Rathalos Mask	Room Decoration	3	A mask fashioned aftera Rathalos's face.(Sizzling Spice decor)
 2427	Rathian Mask	Room Decoration	3	A mask fashioned aftera Rathian's face.(Sizzling Spice decor)
 2428	Kulu-Ya-Ku Mask	Room Decoration	3	A mask fashioned aftera Kulu-Ya-Ku's face.(Sizzling Spice decor)
-2429	Unavailable	Item	3	Unavailable
+2429	Ghostly Fun Fright Ornament	Room Decoration	3	A scary decoration fashionedafter a ghost.(Fun Fright decor)
 2430	Felyne Balloon	Room Decoration	3	A cute hanging balloon that lookslike a Felyne.(Grand Appreciation decor)
 2431	Grimalkyne Balloon (White)	Room Decoration	3	A cute hanging balloon that lookslike a Grimalkyne.(Grand Appreciation decor)
 2432	Grimalkyne Balloon (Black)	Room Decoration	3	A cute hanging balloon that lookslike a Grimalkyne.(Grand Appreciation decor)
@@ -2461,7 +2461,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2459	Hoarfrost Reach Painting 2	Room Decoration	3	A painting of the Hoarfrost Reachlandscape.
 2460	New World Maps	Room Decoration	3	Maps of the New Worldand the Hinterlands withscattered notes.
 2461	Palico Portraits 5	Room Decoration	3	A collection of Palico portraits.(And a Poogie too!)
-2462	Unavailable	Item	3	Unavailable
+2462	Fun Fright Cloth	Room Decoration	3	An unsettling, floating pieceof torn cloth.(Fun Fright decor)
 2463	1st Fleet Banner	Room Decoration	3	The banner of the 1st Fleet.
 2464	2nd Fleet Banner	Room Decoration	3	The banner of the 2nd Fleet.
 2465	3rd Fleet Banner	Room Decoration	3	The banner of the 3rd Fleet.
@@ -2476,7 +2476,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2474	Paper Lantern	Room Decoration	3	A paper lantern that dimlyshines with a close warmth.(Holiday Joy decor)
 2475	Poogie Lamp	Room Decoration	3	A super cute lamp fashioned aftera Poogie.
 2476	Round Paper Lanterns	Room Decoration	3	A simple, but fashionable lamp.(Grand Appreciation decor)
-2477	Unavailable	Item	3	Unavailable
+2477	Pumpkin Lantern	Room Decoration	3	A pumpkin lamp with ascary face carved into it.(Fun Fright decor)
 2478	Research Set	Room Decoration	3	A collection of research toolsused at the Third Fleet'sResearch Base.
 2479	Kitchen Set	Room Decoration	3	Various tools and ingredientsused in the Canteen to whipup tasty meals for hunters.
 2480	Rathalos Bust	Room Decoration	3	A stone-carved bustof a Rathalos head.
@@ -2557,12 +2557,12 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2555	Tzitzi-Ya-Ku Figure	Room Decoration	3	Monster FigureTzitzi-Ya-Ku
 2556	Rajang Figure	Room Decoration	3	Monster FigureRajang
 2557	Kirin Figure	Room Decoration	3	Monster FigureKirin
-2558	Unavailable	Item	3	Unavailable
+2558	Lunastra Figure	Room Decoration	3	Monster FigureLunastra
 2559	Vaal Hazak Figure	Room Decoration	3	Monster FigureVaal Hazak
 2560	Teostra Figure	Room Decoration	3	Monster FigureTeostra
-2561	Gajalaka Figures	Room Decoration	3	Monster FigureGajalaka
+2561	Gajalaka Figures	Room Decoration	3	Monster FigureGajalaka & King Gajalaka
 2562	Brachydios Figure	Room Decoration	3	Monster FigureBrachydios
-2563	Unavailable	Item	3	Unavailable
+2563	Uragaan Figure	Room Decoration	3	Monster FigureUragaan
 2564	Lavasioth Figure	Room Decoration	3	Monster FigureLavasioth
 2565	Grand Appreciation Figure	Room Decoration	3	A figure of two fearsomelyintimate monsters.(Grand Appreciation decor)
 2566	Marble Wall (White)	Room Decoration	3	Unavailable
@@ -2578,17 +2578,17 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2576	S.T.A.R.S. Plaque Set 2	Room Decoration	3	A collection of S.T.A.R.S.plaques and awards from R.P.D.<STYL MOJI_RED_DEFAULT>Raccoon City Collaboration</STYL>
 2577	Typewriter	Room Decoration	3	A typewriter built for chroniclingboth tales of fear and of relief.<STYL MOJI_RED_DEFAULT>Raccoon City Collaboration</STYL>
 2578	Item Box	Room Decoration	3	A handy box that storesyour surplus items.<STYL MOJI_RED_DEFAULT>Raccoon City Collaboration</STYL>
-2579	Unavailable	Item	3	Unavailable
+2579	Fun Fright Platter	Room Decoration	3	A collection of delicious,frightfully sweet goodies!(Fun Fright Fest Special Platter)
 2580	Gold Poogie	Room Decoration	3	A golden, glittering Poogie statue.
 2581	Joyful Snowman	Room Decoration	3	An illuminated snowman thatlooks a bit normal, but...?(Holiday Joy decor)
 2582	Appreciative Snowman	Room Decoration	3	A curious blue snowman with amysterious disc attached to it.(Grand Appreciation decor)
 2583	Blooming Snowman	Room Decoration	3	A snowman made by clumpingflowers togethers.(Full Bloom Fest decor)
 2584	Sizzling Snowman	Room Decoration	3	A cheerful snowmanwearing a mask.(Sizzling Spice decor)
-2585	Unavailable	Item	3	Unavailable
+2585	Frightful Snowman	Room Decoration	3	A scary snowman withglowing eyes.(Fun Fright decor)
 2586	Sky Lanterns	Room Decoration	3	Skylights that float curiouslyin the air.(Grand Appreciation decor)
 2587	Splendid Flag	Room Decoration	3	A decorative flag of splendid design.
 2588	Hanging Assorted Flowers	Room Decoration	3	A hanging flower pot overflowingwith an assortment of flowers.
-2589	Unavailable	Item	3	Unavailable
+2589	Glowing Fun Fright Ornament	Room Decoration	3	A weird decoration that givesoff a dim glow in dark places.(Fun Fright decor)
 2590	Relief	Room Decoration	3	A bronze relief of a Rathalos.
 2591	Admiral Painting	Room Decoration	3	A painting that captures thebrawny image of the Admiral.
 2592	Splendid Wall Hanging	Room Decoration	3	A white wall hanging adornedwith a golden design.
@@ -2598,7 +2598,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2596	Showy Rugs (1F)	Room Decoration	3	Showy rugs decorated withscattered flower petals.(Full Bloom Fest decor)
 2597	Showy Rugs (2F)	Room Decoration	3	Showy rugs decorated withscattered flower petals.(Full Bloom Fest decor)
 2598	Pukei-Pukei Decoration	Room Decoration	3	A giant, fun and featheryPukei-Pukei decoration.
-2599	Unavailable	Item	3	Unavailable
+2599	Fun Fright Stooge	Room Decoration	3	A scary, ghost-like decoy.(Fun Fright decor)
 2600	Jyuratodus Figure	Room Decoration	3	Monster FigureJyuratodus
 2601	Barroth Figure	Room Decoration	3	Monster FigureBarroth
 2602	Diablos Figure	Room Decoration	3	Monster FigureDiablos
@@ -2606,13 +2606,13 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2604	Xeno'jiiva Figure	Room Decoration	3	Monster FigureXeno'jiiva
 2605	Wulg Figures	Room Decoration	3	Monster FigureWulg
 2606	Herbivore Figures	Room Decoration	3	Monster FigureAptonoth and Downy Crakes
-2607	Unavailable	Item	3	Unavailable
-2608	Unavailable	Item	3	Unavailable
-2609	Unavailable	Item	3	Unavailable
-2610	Unavailable	Item	3	Unavailable
-2611	Unavailable	Item	3	Unavailable
-2612	Unavailable	Item	3	Unavailable
-2613	Unavailable	Item	3	Unavailable
+2607	Kulve Taroth Figure	Room Decoration	3	Monster FigureKulve Taroth
+2608	Bazelgeuse Figure	Room Decoration	3	Monster FigureBazelgeuse
+2609	Deviljho Figure	Room Decoration	3	Monster FigureDeviljho
+2610	Shara Ishvalda Figure 1	Room Decoration	3	Monster FigureShara Ishvalda
+2611	Shara Ishvalda Figure 2	Room Decoration	3	Monster FigureShara Ishvalda
+2612	Alatreon Figure	Room Decoration	3	Monster FigureAlatreon
+2613	Fatalis Figure	Room Decoration	3	Monster FigureFatalis
 2614	The Bustling Heart of the Snowy Village (MH Swing)	Room Decoration	3	Monster Hunter Portable 2nd PokkeVillage Hub Theme - ArrangementMonster Hunter Swing
 2615	Scat Cat Fever (MH Swing)	Room Decoration	3	Monster Hunter Arena Theme -ArrangementMonster Hunter Swing
 2616	In Search of Hidden Springs (MH Swing)	Room Decoration	3	Monster Hunter Portable 3rdYukumo Village Theme - ArrangementMonster Hunter Swing
@@ -2624,9 +2624,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2622	The Hunters' Secret Spring (MH The Jazz)	Room Decoration	3	Monster Hunter Portable 3rdGathering Hub BGM ArrangedMonster Hunter The Jazz
 2623	Winds of Adventure (MH The Jazz)	Room Decoration	3	Monster Hunter 4 UltimateMain Theme ArrangedMonster Hunter The Jazz
 2624	Proof of a Hero (MH The Jazz)	Room Decoration	3	Monster HunterSeries Theme ArrangedMonster Hunter The Jazz
-2625	Unavailable	Item	3	Unavailable
-2626	Unavailable	Item	3	Unavailable
-2627	Unavailable	Item	3	Unavailable
+2625	The Legend Descends - Fatalis: World Version	Room Decoration	3	Monster Hunter World: IceborneFatalis Battle Theme 1
+2626	Limitless Courage	Room Decoration	3	Monster Hunter World: IceborneFatalis Battle Theme 2
+2627	The Final Confrontation	Room Decoration	3	Monster Hunter World: IceborneFatalis Battle Theme 3
 2628	Boaboa Feast	Room Decoration	3	A spread based on a traditionalBoaboa feast.
 2629	Popo Sculpture	Room Decoration	3	A simple sculptureof a Popo.
 2630	Boaboa Raft	Room Decoration	3	A decoration featuringa Boaboa riding in a raft.
@@ -2639,22 +2639,22 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2637	Felyne Statues	Room Decoration	3	A trio of Felyne statues.
 2638	Grimalkyne Mud Sculptures	Room Decoration	3	A set of statues created frommud by Grimalkynes.
 2639	Popo Sculptures	Room Decoration	3	A sculptured herd of Popo.
-2640	Unavailable	Item	3	Unavailable
+2640	Beotodus Skull	Room Decoration	3	A gigantic Beotodus skull,the proof of a Boaboa'shunting prowess.
 2641	Boaboa Gear	Room Decoration	3	A display of Boaboaequipment.
-2642	Unavailable	Item	3	Unavailable
-2643	Unavailable	Item	3	Unavailable
-2644	Unavailable	Item	3	Unavailable
-2645	Unavailable	Item	3	Unavailable
-2646	Unavailable	Item	3	Unavailable
-2647	Unavailable	Item	3	Unavailable
-2648	Unavailable	Item	3	Unavailable
-2649	Unavailable	Item	3	Unavailable
-2650	Unavailable	Item	3	Unavailable
-2651	Unavailable	Item	3	Unavailable
-2652	Unavailable	Item	3	Unavailable
-2653	Unavailable	Item	3	Unavailable
-2654	Unavailable	Item	3	Unavailable
-2655	Unavailable	Item	3	Unavailable
+2642	Lynian Gathering!	Room Decoration	3	A diorama that shows Lynians fromall corners of the New Worldgathering for some social bonding.
+2643	Lumu Doll (White)	Room Decoration	3	A cute, adorable inflatedPaolumu doll.
+2644	Lumu Doll (Purple)	Room Decoration	3	A cute, adorable inflatedNightshade Paolumu doll.
+2645	Moly Doll	Room Decoration	3	A sweet and cuteMoly doll.
+2646	Moly Doll (Green)	Room Decoration	3	A showy and cuteMoly doll.
+2647	Moly Doll (Yellow)	Room Decoration	3	A sturdy and cuteMoly doll.
+2648	Moly Doll (Peach)	Room Decoration	3	A fluffy and cuteMoly doll.
+2649	Moly Doll (Black)	Room Decoration	3	An eerie but cuteMoly doll.
+2650	Moly Doll (Red)	Room Decoration	3	A courageous andcute Moly doll.
+2651	Moly Doll (White)	Room Decoration	3	A gentle and cuteMoly doll.
+2652	Fatalis Painting	Room Decoration	3	A painting that depicts a gloriousnation befallen by disaster.
+2653	Rajang Doll (Black)	Room Decoration	3	Decor depicting a Rajanghaving fun on a swing.
+2654	Rajang Doll (Gold)	Room Decoration	3	Decor depicting a Furious Rajanghaving fun on a swing.
+2655	Schrade Banner	Room Decoration	3	The banner representing theglorious country of Schrade.
 2656	Unavailable	Item	3	Unavailable
 2657	Unavailable	Item	3	Unavailable
 2658	Unavailable	Item	3	Unavailable
@@ -2680,7 +2680,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2678	Snowman	Item	3	A giant snowman which you can use tocreate snowballs. Given to you whenyou join the Seliana Fest.
 2679	Namielle Ticket	Material	11	A ticket bearing Namielle, masterof the torrent. Redeem at theSmithy to make novel equipment.
 2680	Unavailable	Item	3	Unavailable
-2681	Unavailable	Item	3	Unavailable
+2681	Velkhana Ticket	Material	11	A ticket depicting Velkhana, rulerof the frost. Redeem at the Smithyto make novel equipment.
 2682	Frostfang Ticket	Material	10	Proof that you've hunted a temperedFrostfang Barioth. Bring it to theSmithy for a nice surprise!
 2683	Green Herb	Item	1	A green herb native to the ArklayMountains. Restores health andcures zombification. <STYL MOJI_YELLOW_DEFAULT>(Quest Only)</STYL>
 2684	Red Herb	Item	1	A red herb native to the ArklayMountains. It can't be used as is.<STYL MOJI_YELLOW_DEFAULT>(Quest Only)</STYL>
@@ -2724,11 +2724,11 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2722	Whetfish Ticket	Material	9	A ticket from the Piscine Researcher,with various Whetfish prints. Show itto the Smithy and see what happens!
 2723	Downy Crake Ticket II	Material	9	A ticket featuring an adult DownyCrake, drawn with care. Show it tothe Smithy and see what happens!
 2724	Sizzling Spice Ticket	Material	8	A ticket you receive for attending theSizzling Spice Fest. Can be exchangedfor special equipment or items.
-2725	Pilot Hare Ticket	Material	9	A ticket for those who wish to fulfilltheir dream of becoming a Pilot Hare.Redeem it at the Smithy and...!?
+2725	Shepherd Hare Ticket	Material	9	A ticket for those who wish to fulfilltheir dream of becoming a Shepherd Hare.Redeem it at the Smithy and...!?
 2726	Spirited Canteen Ticket	Material	9	A voucher for a celebratory drink,courtesy of the Meowscular Chef!Redeem it at the Smithy and...!?
-2727	Unavailable	Item	3	Unavailable
-2728	Unavailable	Item	3	Unavailable
-2729	Unavailable	Item	3	Unavailable
+2727	Fun Fright Ticket	Material	8	A ticket you receive for attendingthe Fun Fright Fest. Exchange itfor special equipment or items.
+2728	Black Bandana	Material	9	A bandana made from durable fabricthat goes well with white paint.Show it to the Smithy and...!?
+2729	Scarf Ticket	Material	9	A Tobi-Kadachi inspired blueprintcreated by a Commission member.Show it to the Smithy and...!?
 2730	Unity Symbol	Material	9	Recent good tidings from friendsthe world over. They speak ofunreal tales! Show it to the Smithy!
 2731	Unavailable	Item	3	Unavailable
 2732	Goldspring Ticket	Material	9	A ticket with a Goldspring Macaquefinely drawn on it. Bring it to theSmithy for a nice surprise!
@@ -2738,7 +2738,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2736	VIP Gratitude Ticket	Material	11	A rare ticket obtained during theGrand Appreciation Fest. Can be usedto craft layered armor and charms.
 2737	VIP Full Bloom Ticket	Material	11	A rare ticket obtained during theFull Bloom Fest. Can be used tocraft layered armor and charms.
 2738	VIP Sizzling Spice Ticket	Material	11	A rare ticket obtained during theSizzling Spice Fest. Can be usedto craft layered armor and charms.
-2739	Unavailable	Item	3	Unavailable
+2739	VIP Fun Fright Ticket	Material	11	A rare ticket obtained during theFun Fright Fest. Can be used tocraft layered armor and charms.
 2740	Banishing Ball	Item	8	Throw this at a large monster tomake it leave the Guiding Lands.<STYL MOJI_YELLOW_DEFAULT>Guiding Lands leader only.</STYL>
 2741	Unavailable	Item	3	Unavailable
 2742	Dragonforce Chunk (Sword)	Material	11	Unavailable
@@ -2755,22 +2755,22 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2753	Dragonforce Chunk (Shot)	Material	11	Unavailable
 2754	Dragonforce Chunk (Cannon)	Material	11	Unavailable
 2755	Dragonforce Chunk (Bow)	Material	11	Unavailable
-2756	Unavailable	Item	3	Unavailable
-2757	Unavailable	Item	3	Unavailable
-2758	Unavailable	Item	3	Unavailable
-2759	Unavailable	Item	3	Unavailable
-2760	Unavailable	Item	3	Unavailable
-2761	Unavailable	Item	3	Unavailable
+2756	Fatalis Shard	Material	10	Very rare Fatalis material.Mostly obtained by carving. Itsthick rings show its old age.
+2757	Fatalis Cortex	Material	10	Very rare Fatalis material.Its multiple layers cannot bedamaged by normal weaponry.
+2758	Fatalis Pectus	Material	10	Very rare Fatalis material. A trulyfiendish carapace that sports themelted gear of its fallen foes.
+2759	Fatalis Hardhorn	Material	10	Very rare Fatalis material. A horn ofimmense strength. The horn's blackglow gives off a strange attraction.
+2760	Fatalis Evil Eye	Material	11	Very rare Fatalis material. Anunusual aura surrounds the eye ofFatalis. Perhaps it's possessed...
+2761	Fatalis Fellwing	Material	10	Very rare Fatalis material. A winghard as any metal, yet still verymalleable, if the craftsman is skilled.
 2762	Herbivore Ticket I	Material	9	A ticket with a herd of free-roamingKelbi printed on it. Bring it to theSmithy for a nice surprise!
 2763	Herbivore Ticket II	Material	9	A ticket with a herd of free-roamingAptonoth printed on it. Bring it tothe Smithy for a nice surprise!
 2764	Inner Eye Ticket	Material	10	A ticket bearing the likeness ofone who sees all. Bring it to theSmithy for a nice surprise!
-2765	Unavailable	Item	3	Unavailable
+2765	Buff Ticket+	Material	11	A story of testing your limits in thename of perfection is inscribed onthis ticket. Show the Smithy and...!?
 2766	Unavailable	Item	3	Unavailable
 2767	Unavailable	Item	3	Unavailable
 2768	Unavailable	Item	3	Unavailable
 2769	Unavailable	Item	3	Unavailable
-2770	Unavailable	Item	3	Unavailable
-2771	Unavailable	Item	3	Unavailable
+2770	Zinogre Ticket	Material	9	A ticket with a drawing of Zinogre,howling at the moon. Bring it tothe Smithy and...!?
+2771	Brute Tigrex Ticket	Material	9	A ticket depicting Brute Tigrex,rushing around and roaring skywards.Bring it to the Smithy and...!?
 2772	Unavailable	Item	3	Unavailable
 2773	Unavailable	Item	3	Unavailable
 2774	Unavailable	Item	3	Unavailable

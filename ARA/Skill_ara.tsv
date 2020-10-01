@@ -215,13 +215,13 @@ Skill ID	Skill Code	Skill Name	Skill Desc
 213	PT_ANNIVERSARY_S_SKILL_PT	مباركة التقدير	Unavailable
 214	PT_SPRING_SKILL_PT	مباركة الازدهار الكامل	Unavailable
 215	PT_SUMMER_SKILL_PT	مباركة ساخنة	Unavailable
-216	DUMMY000130	Unavailable	Unavailable
+216	PT_AUTUMN_SKILL_PT	مباركة الذعر الممتع	Unavailable
 217	PT_EX23_SKILL_PT	إرادة راجانغ	Unavailable
 218	PT_EX24_SKILL_PT	إرادة براكيديوس	Unavailable
 219	PT_EX25_SKILL_PT	عصارة كولف تاروث	Unavailable
 220	PT_EX26_SKILL_PT	فن مطلق لأنياب الصقيع	Unavailable
 221	PT_EX27_SKILL_PT	عظمة ألاتريون	Unavailable
-222	DUMMY000138	Unavailable	Unavailable
-223	DUMMY000141	Unavailable	Unavailable
-224	DUMMY000144	Unavailable	Unavailable
-225	DUMMY000147	Unavailable	Unavailable
+222	PT_EX28_SKILL_PT	أسطورة فاتاليس	Unavailable
+223	PT_CLAW_SKILL_PT	تعزيز المخلب القابض	تصيب هجمات سلاح المخلب القابضالوحوش بسهولة وتتمتع بفرصة أفضللإسقاط ذخيرة نبلة معصم.
+224	DUMMY000137	Unavailable	Unavailable
+225	DUMMY000140	Unavailable	Unavailable

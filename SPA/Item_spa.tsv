@@ -320,7 +320,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 318	Caparazón de Pukei-Pukei	Material	3	Material de Pukei-Pukei, recibidosobre todo como recompensa.Sólido, útil para crear equipo.
 319	Péndola de Pukei-Pukei	Material	3	Material de Pukei-Pukei,obtenido al romperle las alas.Tiene muchas propiedades.
 320	Vesícula de Pukei-Pukei	Material	3	Material de Pukei-Pukei,obtenido al romperle el cráneo.Añade propiedades venenosas.
-321	Cola de Pukei-Pukei	Material	3	Raro material de Pukei-Pukei,obtenido cortando su cola cercenada.Raro, para equipo muy selecto.
+321	Cola de Pukei-Pukei	Material	3	Material de Pukei-Pukei,obtenido cortando su cola cercenada.Raro, para equipo muy selecto.
 322	Escama de Pukei-Pukei+	Material	5	Raro material de Pukei-Pukei.Obtenido cortando al monstruotras abatirlo, de usos muy diversos.
 323	Coraza de Pukei-Pukei	Material	5	Raro material de Pukei-Pukei,obtenido sobre todo como recompensa,útil para crear equipo.
 324	Ala de Pukei-Pukei	Material	5	Raro material de Pukei-Pukei,obtenido al romperle las alas.Tiene muchas propiedades.
@@ -928,9 +928,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 926	HARDUMMY	Material	3	HARDUMMY
 927	HARDUMMY	Material	5	HARDUMMY
 928	Vale de Mega Man	Material	5	Un vale para una colaboraciónespecial con Mega Man. Te daacceso a cierto equipo de 8 bits.
-929	HARDUMMY	Material	3	HARDUMMY
-930	HARDUMMY	Material	5	HARDUMMY
-931	HARDUMMY	Material	5	HARDUMMY
+929	Vale de SFV	Material	3	Un vale acordado especialmente conStreet Fighter. Espera, ¿significa estoque el legendario guerrero va a...?
+930	Vale de SFV III	Material	5	Un vale en colaboración con StreetFighter V. ¿Sigue en forma esecampeón de las artes marciales?
+931	Vale de SFV II	Material	5	Un vale en colaboración con StreetFighter V. ¿Cómo? ¿Esa luchadoratambién va a cazar monstruos?
 932	Fragmento de estrella celeste	Material	3	Material especial dado a quienescompletan el desafío de USJ. Brillacon un precioso color azul cristalino.
 933	Gema estrella celeste	Material	5	Material especial para quienessuperen el desafío de USJ. Tieneun brillo de color azul milagroso.
 934	Orbe rojo	Material	7	Sangre petrificada de seresdemoníacos. Útil para crear equipode cazademonios muy elegante.
@@ -2272,9 +2272,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2270	Joya de supervivencia 1	Jewel	8	Un adorno con el que potenciarla habilidad <STYL MOJI_YELLOW_DEFAULT>experto en supervivencia</STYL>.
 2271	Unavailable	Jewel	8	Un adorno con el que potenciarla habilidad <STYL MOJI_YELLOW_DEFAULT>movilidad acuática/polar</STYL>.
 2272	Joya cálida 2	Jewel	8	Un adorno con el que potenciarla habilidad <STYL MOJI_YELLOW_DEFAULT>anti frío</STYL>.
-2273	Unavailable	Item	3	Unavailable
-2274	Unavailable	Item	3	Unavailable
-2275	Unavailable	Item	3	Unavailable
+2273	Joya de distracción 3	Jewel	10	Un adorno con el que potenciarla habilidad <STYL MOJI_YELLOW_DEFAULT>provocación</STYL>.
+2274	Joya acróbata 3	Jewel	10	Un adorno con el que potenciarla habilidad <STYL MOJI_YELLOW_DEFAULT>aterrizaje seguro</STYL>.
+2275	Joya trepadora 3	Jewel	10	Un adorno con el que potenciarla habilidad <STYL MOJI_YELLOW_DEFAULT>bonus garra retráctil</STYL>.
 2276	Unavailable	Item	3	Unavailable
 2277	Unavailable	Item	3	Unavailable
 2278	Unavailable	Item	3	Unavailable
@@ -2417,7 +2417,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2415	Adorno de flores (pequeño)	Room Decoration	3	Un surtido de espléndidas florespuestas en un florero pequeño.
 2416	Adorno de flores (grande)	Room Decoration	3	Un surtido de espléndidas florespuestas en un florero grande.
 2417	Plantas tropicales	Room Decoration	3	Macetas de plantas que al parecercrecieron en una cálida región.(Mobiliario del festival samba sabroso).
-2418	Unavailable	Item	3	Unavailable
+2418	Calabazas de miedo	Room Decoration	3	Una calabaza algo tétrica,sobre una pila con más calabazas.(Mobiliario del festival de miedo).
 2419	Modelo de la nave de la 5.ª flota	Room Decoration	3	Un modelo a escala muy detalladode la nave de la 5.ª flota.
 2420	Modelo de nave modificada	Room Decoration	3	El modelo a escala de una navemodificada para repeler aZorah Magdaros.
 2421	Modelo de base de investigación	Room Decoration	3	Un modelo a escala de la base deinvestigación. El nivel de detalle solopuede ser obra de un artesano experto.
@@ -2428,7 +2428,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2426	Máscara Rathalos	Room Decoration	3	Una máscara hecha imitandola cara de un Rathalos. (Mobiliariodel festival samba sabroso).
 2427	Máscara Rathian	Room Decoration	3	Una máscara hecha imitandola cara de una Rathian. (Mobiliariodel festival samba sabroso).
 2428	Máscara Kulu-Ya-Ku	Room Decoration	3	Una máscara hecha imitandola cara de un Kulu-Ya-Ku. (Mobiliariodel festival samba sabroso).
-2429	Unavailable	Item	3	Unavailable
+2429	Adorno fantasmal de miedo	Room Decoration	3	Un terrorífico adornohecho a imagen de un fantasma.(Mobiliario del festival de miedo).
 2430	Cabeza de Felyne	Room Decoration	3	Un gracioso cojín colgantecon aspecto de Felyne.(Mobiliario del festival astral).
 2431	Cabeza de Grimalkyne (blanca)	Room Decoration	3	Un gracioso cojín colgantecon aspecto de Grimalkyne.(Mobiliario del festival astral).
 2432	Cabeza de Grimalkyne (negra)	Room Decoration	3	Un gracioso cojín colgantecon aspecto de Grimalkyne.(Mobiliario del festival astral).
@@ -2461,7 +2461,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2459	Cuadro: Arroyo de Escarcha 2	Room Decoration	3	Un cuadro del Arroyo de Escarcha.
 2460	Mapas del Nuevo Mundo	Room Decoration	3	Mapas del Nuevo Mundoy del Páramo Helado,con algunas notas.
 2461	Retratos de camaradas 5	Room Decoration	3	Una colección de retratosde camaradas. (¡Y tambiénuno de un Poogie!).
-2462	Unavailable	Item	3	Unavailable
+2462	Sábana de miedo	Room Decoration	3	Una tétrica sábana rasgadaque ondea inexplicablemente.(Mobiliario del festival de miedo).
 2463	Estandarte de la 1.ª flota	Room Decoration	3	El estandarte de la 1.ª flota.
 2464	Estandarte de la 2.ª flota	Room Decoration	3	El estandarte de la 2.ª flota.
 2465	Estandarte de la 3.ª flota	Room Decoration	3	El estandarte de la 3.ª flota.
@@ -2476,7 +2476,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2474	Farolillo de papel	Room Decoration	3	Un farolillo de papel que brillacon luz tenue y cálida.(Mobiliario del festival lunar).
 2475	Lámpara de Poogie	Room Decoration	3	Una graciosa lámpara con formade Poogie.
 2476	Farolillos de papel redondos	Room Decoration	3	Unos farolillos simples,pero de buen gusto.(Mobiliario del festival astral).
-2477	Unavailable	Item	3	Unavailable
+2477	Lámpara de calabaza	Room Decoration	3	Una lámpara de calabazacon una aterradora cara labrada.(Mobiliario del festival de miedo).
 2478	Set de observación	Room Decoration	3	Una serie de herramientasutilizadas en la base deinvestigación de la 3.ª flota.
 2479	Set de cocina	Room Decoration	3	Utensilios e ingredientes utilizadosen la cantina para elaborar susdeliciosos menús para cazadores.
 2480	Busto de Rathalos	Room Decoration	3	Un busto tallado en piedracon la cabeza de un Rathalos.
@@ -2557,12 +2557,12 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2555	Figura de Tzitzi-Ya-Ku	Room Decoration	3	Figura de monstruoTzitzi-Ya-Ku
 2556	Figura de Rajang	Room Decoration	3	Figura de monstruoRajang
 2557	Figura de Kirin	Room Decoration	3	Figura de monstruoKirin
-2558	Unavailable	Item	3	Unavailable
+2558	Figura de Lunastra	Room Decoration	3	Figura de monstruoLunastra
 2559	Figura de Vaal Hazak	Room Decoration	3	Figura de monstruoVaal Hazak
 2560	Figura de Teostra	Room Decoration	3	Figura de monstruoTeostra
-2561	Figuras de Gajalaka	Room Decoration	3	Figura de monstruoGajalaka
+2561	Figuras de Gajalaka	Room Decoration	3	Figura de monstruoGajalaka y rey Gajalaka
 2562	Figura de Brachydios	Room Decoration	3	Figura de monstruoBrachydios
-2563	Unavailable	Item	3	Unavailable
+2563	Figura de Uragaan	Room Decoration	3	Figura de monstruoUragaan
 2564	Figura de Lavasioth	Room Decoration	3	Figura de monstruoLavasioth
 2565	Figura astral	Room Decoration	3	Una figura de dos monstruosterroríficamente cercanos.(Mobiliario del festival astral).
 2566	Pared de mármol (blanca)	Room Decoration	3	Unavailable
@@ -2578,17 +2578,17 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2576	Decoración de S.T.A.R.S. 2	Room Decoration	3	Un adorno inspirado en S.T.A.R.S.,la división especial del R.P.D.<STYL MOJI_RED_DEFAULT>Colaboración con Raccoon City</STYL>
 2577	Máquina de escribir	Room Decoration	3	Una máquina de escribir para contarhistorias de miedo y de salvación.<STYL MOJI_RED_DEFAULT>Colaboración con Raccoon City</STYL>
 2578	Baúl	Room Decoration	3	Un baúl en el que almacenarlos objetos que te sobren.<STYL MOJI_RED_DEFAULT>Colaboración con Raccoon City</STYL>
-2579	Unavailable	Item	3	Unavailable
+2579	Menú de miedo	Room Decoration	3	Un montón de deliciosas ycoloridas chucherías. (Menúespecial del festival de miedo).
 2580	Poogie dorado	Room Decoration	3	La reluciente estatua doradade un Poogie.
 2581	Muñeco lunar	Room Decoration	3	Un muñeco iluminado quemedio parece normal, pero...(Mobiliario del festival lunar).
 2582	Muñeco astral	Room Decoration	3	Un muñeco de curioso colorsobresaliendo de un disco extraño.(Mobiliario del festival astral).
 2583	Muñeco de nieve en flor	Room Decoration	3	Un muñeco de nieve hecho juntandouna buena cantidad de flores.(Mobiliario del festival floral)
 2584	Muñeco de nieve sabroso	Room Decoration	3	Un alegre muñeco de nievecon una máscara. (Mobiliariodel festival samba sabroso).
-2585	Unavailable	Item	3	Unavailable
+2585	Muñeco de nieve de miedo	Room Decoration	3	Un terrorífico muñeco de nievecon ojos brillantes.(Mobiliario del festival de miedo).
 2586	Farolillos flotantes	Room Decoration	3	Unos bonitos farolillosque flotan grácilmente.(Mobiliario del festival astral).
 2587	Bandera fastuosa	Room Decoration	3	Una bandera decorativa.Su diseño tiene un aire de grandeza.
 2588	Flores surtidas colgantes	Room Decoration	3	Una maceta colgante llenade diversos tipos de flores.
-2589	Unavailable	Item	3	Unavailable
+2589	Adorno brillante de miedo	Room Decoration	3	Una extraña decoración quebrilla en los rincones oscuros.(Mobiliario del festival de miedo).
 2590	Relieve	Room Decoration	3	Un relieve de bronce de un Rathalos
 2591	Cuadro del Almirante	Room Decoration	3	Un cuadro que refleja el aspectomusculoso del Almirante.
 2592	Bandera de pared fastuosa	Room Decoration	3	Un estandarte blanco decoradocon espléndidos adornos.
@@ -2598,7 +2598,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2596	Alfombras vistosas (PB)	Room Decoration	3	Unas vistosas alfombrasdecoradas con pétalos de flores.(Mobiliario del festival floral)
 2597	Alfombras vistosas (P1)	Room Decoration	3	Unas vistosas alfombrasdecoradas con pétalos de flores.(Mobiliario del festival floral)
 2598	Adorno de Pukei-Pukei	Room Decoration	3	Un gigantesco, divertido y muyemplumado adorno de Pukei-Pukei.
-2599	Unavailable	Item	3	Unavailable
+2599	Señuelo de miedo	Room Decoration	3	Un señuelo con forma de fantasma.(Mobiliario del festival de miedo).
 2600	Figura de Jyuratodus	Room Decoration	3	Figura de monstruoJyuratodus
 2601	Figura de Barroth	Room Decoration	3	Figura de monstruoBarroth
 2602	Figura de Diablos	Room Decoration	3	Figura de monstruoDiablos
@@ -2606,13 +2606,13 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2604	Figura de Xeno'jiiva	Room Decoration	3	Figura de monstruoXeno'jiiva
 2605	Figura de Wulgs	Room Decoration	3	Figura de monstruoWulgs
 2606	Figuras de herbívoros	Room Decoration	3	Figura de monstruoAptonoth y carraos algodón
-2607	Unavailable	Item	3	Unavailable
-2608	Unavailable	Item	3	Unavailable
-2609	Unavailable	Item	3	Unavailable
-2610	Unavailable	Item	3	Unavailable
-2611	Unavailable	Item	3	Unavailable
-2612	Unavailable	Item	3	Unavailable
-2613	Unavailable	Item	3	Unavailable
+2607	Figura de Kulve Taroth	Room Decoration	3	Figura de monstruoKulve Taroth
+2608	Figura de Bazelgeuse	Room Decoration	3	Figura de monstruoBazelgeuse
+2609	Figura de Deviljho	Room Decoration	3	Figura de monstruoDeviljho
+2610	Figura de Shara Ishvalda 1	Room Decoration	3	Figura de monstruoShara Ishvalda
+2611	Figura de Shara Ishvalda 2	Room Decoration	3	Figura de monstruoShara Ishvalda
+2612	Figura de Alatreon	Room Decoration	3	Figura de monstruoAlatreon
+2613	Figura de Fatalis	Room Decoration	3	Figura de monstruoFatalis
 2614	The Bustling Heart of the Snowy Village (MH Swing)	Room Decoration	3	Monster Hunter Portable 2ndArreglo del tema de la aldea de Pokke(Monster Hunter Swing)
 2615	Scat Cat Fever (MH Swing)	Room Decoration	3	Arreglo del tema de la Arenade Monster Hunter(Monster Hunter Swing)
 2616	In Search of Hidden Springs (MH Swing)	Room Decoration	3	Monster Hunter Portable 3rdArreglo del tema de la aldea de Yukumo(Monster Hunter Swing)
@@ -2624,9 +2624,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2622	The Hunters' Secret Spring (MH The Jazz)	Room Decoration	3	Monster Hunter Portable 3rdArreglo del tema de la sala de reunión(Monster Hunter The Jazz)
 2623	Winds of Adventure (MH The Jazz)	Room Decoration	3	Monster Hunter 4 UltimateArreglo del tema principal(Monster Hunter The Jazz)
 2624	Proof of a Hero (MH The Jazz)	Room Decoration	3	Monster HunterArreglo del tema de la saga(Monster Hunter The Jazz)
-2625	Unavailable	Item	3	Unavailable
-2626	Unavailable	Item	3	Unavailable
-2627	Unavailable	Item	3	Unavailable
+2625	The Legend Descends - Fatalis: World version	Room Decoration	3	Monster Hunter World: Iceborne- Tema de combate de Fatalis 1
+2626	Limitless Courage	Room Decoration	3	Monster Hunter World: Iceborne- Tema de combate de Fatalis 2
+2627	The Final Confrontation	Room Decoration	3	Monster Hunter World: Iceborne- Tema de combate de Fatalis 3
 2628	Festín Boaboa	Room Decoration	3	Un menú basado enun festín tradicional Boaboa.
 2629	Escultura de popo	Room Decoration	3	Una sencilla escultura de un popo.
 2630	Balsa Boaboa	Room Decoration	3	Un adorno de un Boaboa subidoa una balsa.
@@ -2639,22 +2639,22 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2637	Estatuas de Felynes	Room Decoration	3	Tres estatuas de Felynes.
 2638	Esculturas de arcilla de Grimalkyne	Room Decoration	3	Un set de estatuas de arcillamodelada por Grimalkynes.
 2639	Esculturas de popo	Room Decoration	3	Una escultura de un rebañode popos.
-2640	Unavailable	Item	3	Unavailable
+2640	Cráneo de Beotodus	Room Decoration	3	Un gigantesco cráneo de Beotodus,prueba de la habilidad de caza deun Boaboa.
 2641	Equipo de Boaboa	Room Decoration	3	Una pieza de equipo de Boaboa.
-2642	Unavailable	Item	3	Unavailable
-2643	Unavailable	Item	3	Unavailable
-2644	Unavailable	Item	3	Unavailable
-2645	Unavailable	Item	3	Unavailable
-2646	Unavailable	Item	3	Unavailable
-2647	Unavailable	Item	3	Unavailable
-2648	Unavailable	Item	3	Unavailable
-2649	Unavailable	Item	3	Unavailable
-2650	Unavailable	Item	3	Unavailable
-2651	Unavailable	Item	3	Unavailable
-2652	Unavailable	Item	3	Unavailable
-2653	Unavailable	Item	3	Unavailable
-2654	Unavailable	Item	3	Unavailable
-2655	Unavailable	Item	3	Unavailable
+2642	¡Ceremonia lynian!	Room Decoration	3	Diorama con lynian de cada rincóndel Nuevo Mundo, reunidos paraalgún tipo de ceremonia social.
+2643	Muñeco de Lumu (blanco)	Room Decoration	3	Un adorable muñecoinflable de Paolumu.
+2644	Muñeco de Lumu (morado)	Room Decoration	3	Un adorable muñecoinflable de Paolumu Somnus.
+2645	Muñeco de topi	Room Decoration	3	Un gracioso y dulcemuñeco de topi.
+2646	Muñeco de topi (verde)	Room Decoration	3	Un vistoso y graciosomuñeco de topi.
+2647	Muñeco de topi (amarillo)	Room Decoration	3	Un gracioso y resistentemuñeco de topi.
+2648	Muñeco de topi (salmón)	Room Decoration	3	Un suave y graciosomuñeco de topi.
+2649	Muñeco de topi (negro)	Room Decoration	3	Un tétrico pero graciosomuñeco de topi.
+2650	Muñeco de topi (rojo)	Room Decoration	3	Un valiente y graciosomuñeco de topi.
+2651	Muñeco de topi (blanco)	Room Decoration	3	Un amable y graciosomuñeco de topi.
+2652	Cuadro de Fatalis	Room Decoration	3	Un cuadro de una gloriosa naciónsumida en una catástrofe.
+2653	Muñeco de Rajang (negro)	Room Decoration	3	Pieza de mobiliario con un Rajangpasándolo bien en un columpio.
+2654	Muñeco de Rajang (dorado)	Room Decoration	3	Pieza de mobiliario con un Rajang Rabiosopasándolo bien en un columpio.
+2655	Estandarte de Skrad	Room Decoration	3	Un estandarte que representaa la gloriosa nación de Skrad.
 2656	Unavailable	Item	3	Unavailable
 2657	Unavailable	Item	3	Unavailable
 2658	Unavailable	Item	3	Unavailable
@@ -2680,7 +2680,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2678	Muñeco de nieve	Item	3	Un gran muñeco con el que hacerbolas de nieve. Recibido al participaren el festival en Seliana.
 2679	Vale de Namielle	Material	11	Un vale con la figura de Namielle,maestro del torrente. Canjéaloen la forja por nuevo equipo.
 2680	Unavailable	Item	3	Unavailable
-2681	Unavailable	Item	3	Unavailable
+2681	Vale de Velkhana	Material	11	Un vale con la figura de Velkhana,soberano del hielo. Canjéaloen la forja por nuevo equipo.
 2682	Vale Cynodon	Material	10	Prueba de que conseguiste cazar a unBarioth Cynodon curtido. ¿Quizá podríascambiarlo en la forja por algo bueno?
 2683	Hierba verde	Item	1	Una hierba verde nativa de las montañasArklay. Restaura parte de tu salud y curael estado zombi. <STYL MOJI_YELLOW_DEFAULT>(Solo durante misiones).</STYL>
 2684	Hierba roja	Item	1	Una hierba roja nativa de las montañasArklay. No puede usarse tal cual.<STYL MOJI_YELLOW_DEFAULT>(Solo durante misiones).</STYL>
@@ -2724,11 +2724,11 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2722	Vale de caballa cuchillo	Material	9	Vale recibido del experto en pesca,con varias caballas cuchillo.¡Llévalo a la forja y verás!
 2723	Vale de carrao algodón II	Material	9	Un vale con un carrao algodón,dibujado cuidadosamente.¡Llévalo a la forja y verás!
 2724	Vale samba sabroso	Material	8	Vale recibido por asistir al festivalsamba sabroso. Canjeable por equipoespecial u objetos.
-2725	Vale de liebre piloto	Material	9	Un vale para quienes sueñan conconvertirse en una liebre piloto.¿Quizá si lo canjearas en la forja...?
+2725	Vale de liebre guía	Material	9	Un vale para quienes sueñan conconvertirse en una liebre guía.¿Quizá si lo canjearas en la forja...?
 2726	Vale de bebida en la cantina	Material	9	¡Un vale para tomarse algoinvitado por el Chef miausculoso!¿Quizá si lo canjearas en la forja...?
-2727	Unavailable	Item	3	Unavailable
-2728	Unavailable	Item	3	Unavailable
-2729	Unavailable	Item	3	Unavailable
+2727	Vale de miedo	Material	8	Vale recibido por asistir al festivalde miedo. Canjeable por equipoespecial u objetos.
+2728	Pañuelo negro	Material	9	Una cinta de tejido duradero.Combina bien con pintura blanca.¡Llévala a la forja!
+2729	Vale de bufanda	Material	9	Un plano para una bufanda deTobi-Kadachi, creado por un miembrode la comisión. ¡Llévalo a la forja!
 2730	Símbolo de unidad	Material	9	Símbolo de amistad con cazadores detodo el mundo. ¡Todos tienen historiasincreíbles! ¡Llévalo a la forja!
 2731	Unavailable	Item	3	Unavailable
 2732	Vale termáureo	Material	9	Vale con el dibujo de un macacotermáureo. ¿Quizá podrías cambiarloen la forja por algo bueno?
@@ -2738,7 +2738,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2736	Vale astral VIP	Material	11	Un vale escaso, obtenido duranteel festival astral. Útil para creararmaduras superpuestas y ciguas.
 2737	Vale floral VIP	Material	11	Raro vale recibido por asistir alfestival floral. Puedes usarlo paracrear ciguas o armadura superpuesta.
 2738	Vale samba sabroso VIP	Material	11	Un vale escaso, obtenido duranteel festival samba sabroso. Útil paracrear armadura superpuesta y ciguas.
-2739	Unavailable	Item	3	Unavailable
+2739	Vale de miedo VIP	Material	11	Un vale escaso, obtenido duranteel festival de miedo. Útil paracrear armadura superpuesta y ciguas.
 2740	Cápsula de expulsión	Item	8	Munición de eslinga. Incita a monstruosgrandes a irse de las Tierras Destino.<STYL MOJI_YELLOW_DEFAULT>Solo para el líder - Tierras Destino.</STYL>
 2741	Unavailable	Item	3	Unavailable
 2742	Pedazo de dracofuerza (espada)	Material	11	Unavailable
@@ -2755,22 +2755,22 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2753	Pedazo de dracofuerza (saeta)	Material	11	Unavailable
 2754	Pedazo de dracofuerza (cañón)	Material	11	Unavailable
 2755	Pedazo de dracofuerza (arco)	Material	11	Unavailable
-2756	Unavailable	Item	3	Unavailable
-2757	Unavailable	Item	3	Unavailable
-2758	Unavailable	Item	3	Unavailable
-2759	Unavailable	Item	3	Unavailable
-2760	Unavailable	Item	3	Unavailable
-2761	Unavailable	Item	3	Unavailable
+2756	Esquirla de Fatalis	Material	10	Material muy raro de Fatalis,obtenido sobre todo cortándolo trasabatirlo. Los anillos indican su edad.
+2757	Córtex de Fatalis	Material	10	Material muy raro de Fatalis.Es imposible dañar sus múltiplescapas con armas normales.
+2758	Pectus de Fatalis	Material	10	Material muy raro de Fatalis.Una formidable coraza, con armaduraderretida de viejos rivales.
+2759	Asta de Fatalis	Material	10	Material muy raro de Fatalis.Asta de inmensa fortaleza. Su brillonegruzco es extrañamente atractivo.
+2760	Ojo maligno de Fatalis	Material	11	Material muy raro de Fatalis. El ojodel Fatalis está rodeado por un auraextraña. Puede que esté poseído...
+2761	Aladura de Fatalis	Material	10	Material muy raro de Fatalis. Un alatan dura como el metal, pero muymaleable, si el artesano es hábil.
 2762	Vale de herbívoro I	Material	9	Vale con el dibujo de un rebañode Kelbi salvajes. ¿Quizá podríascambiarlo en la forja por algo bueno?
 2763	Vale de herbívoro II	Material	9	Vale con el dibujo de un rebañode Aptonoth salvajes. ¿Quizá podríascambiarlo en la forja por algo bueno?
 2764	Vale de ojo interior	Material	10	Vale con el dibujo de alguien capazde verlo todo. ¿Quizá podríascambiarlo en la forja por algo bueno?
-2765	Unavailable	Item	3	Unavailable
+2765	Vale fortachón+	Material	11	Este vale da fe de tu historialde mejoras constantes, en buscade la perfección. ¡Llévalo a la forja!
 2766	Unavailable	Item	3	Unavailable
 2767	Unavailable	Item	3	Unavailable
 2768	Unavailable	Item	3	Unavailable
 2769	Unavailable	Item	3	Unavailable
-2770	Unavailable	Item	3	Unavailable
-2771	Unavailable	Item	3	Unavailable
+2770	Vale de Zinogre	Material	9	Un vale con la figura deZinogre aullando a la luna.¡Llévalo a la forja y verás!
+2771	Vale de Tigrex Pardo	Material	9	Un vale con uan figura de TigrexPardo a la carrera, y rugiendo al cielo.¡Llévalo a la forja y verás!
 2772	Unavailable	Item	3	Unavailable
 2773	Unavailable	Item	3	Unavailable
 2774	Unavailable	Item	3	Unavailable

@@ -215,13 +215,13 @@ Skill ID	Skill Code	Skill Name	Skill Desc
 213	PT_ANNIVERSARY_S_SKILL_PT	대감사의 축복	Unavailable
 214	PT_SPRING_SKILL_PT	만개의 축복	Unavailable
 215	PT_SUMMER_SKILL_PT	정열의 축복	Unavailable
-216	DUMMY000130	Unavailable	Unavailable
+216	PT_AUTUMN_SKILL_PT	호러나이트의 축복	Unavailable
 217	PT_EX23_SKILL_PT	금사자의 투지	Unavailable
 218	PT_EX24_SKILL_PT	쇄룡의 투지	Unavailable
 219	PT_EX25_SKILL_PT	난휘룡의 진수	Unavailable
 220	PT_EX26_SKILL_PT	빙아룡의 절기	Unavailable
 221	PT_EX27_SKILL_PT	황흑룡의 신비	Unavailable
-222	DUMMY000138	Unavailable	Unavailable
-223	DUMMY000141	Unavailable	Unavailable
-224	DUMMY000144	Unavailable	Unavailable
-225	DUMMY000147	Unavailable	Unavailable
+222	PT_EX28_SKILL_PT	흑룡 전설	Unavailable
+223	PT_CLAW_SKILL_PT	클러치 공격 강화	클러치 중 무기공격으로 몬스터에게상처를 입히기 쉬워지며, 슬링어 탄도떨어뜨리기 쉬워진다.
+224	DUMMY000137	Unavailable	Unavailable
+225	DUMMY000140	Unavailable	Unavailable

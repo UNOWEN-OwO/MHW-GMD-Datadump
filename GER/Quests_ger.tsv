@@ -356,8 +356,8 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 51606	Meine Wut trifft alle	Töte einen Wütigen Brachydios.	Zeit abgelaufen3-mal ohnmächtig geworden
 51607	Meine Wut bleibt	Erjage einen Zornigen Rajang.	Zeit abgelaufen3-mal ohnmächtig geworden
 51611	Feuerschwarzes Zwielicht	Töte den Alatreon.	Zeit abgelaufen3-mal ohnmächtig geworden
-51612	Unavailable	Unavailable	Unavailable
-51613	Unavailable	Unavailable	Unavailable
+51612	Der schwarze Drache	Töte den Fatalis.	Zeit abgelaufen5-mal ohnmächtig geworden
+51613	Triumph des Morgengrauens	Töte den Alatreon.	Zeit abgelaufen3-mal ohnmächtig geworden
 51621	Spezialarena: MR Höllen-Zinogre	Erjage einen Höllen-Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
 51622	Brachyale Gegenwehr	Töte einen Wütigen Brachydios.	Zeit abgelaufen3-mal ohnmächtig geworden
 51623	Blind vor Zorn und Gier	Erjage einen Zornigen Rajang.	Zeit abgelaufen3-mal ohnmächtig geworden
@@ -500,9 +500,23 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66834	Promptes Brüllen	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
 66835	Der Zorn des Donners blitzt auf	Erjage einen Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
 66836	Ode an die Zerstörung	Töte einen Ruinen-Nergigante.	Zeit abgelaufen3-mal ohnmächtig geworden
+66840	Im Angesicht des Sturms	Töte einen Kushala Daora.	Zeit abgelaufen3-mal ohnmächtig geworden
+66841	Der Tag des Untergangs	Töte einen Teostra.	Zeit abgelaufen3-mal ohnmächtig geworden
+66842	Die Kälte macht mir nichts aus	Töte eine Lunastra.	Zeit abgelaufen3-mal ohnmächtig geworden
+66843	Der Abendstern	Töte einen Alatreon.	Zeit abgelaufen3-mal ohnmächtig geworden
+66844	Dämmerung des Todessterns	Töte einen Alatreon.	Zeit abgelaufen3-mal ohnmächtig geworden
+66846	Der letzte weiße Ritter	Erjage einen Frosthauer-Barioth.	Zeit abgelaufen3-mal ohnmächtig geworden
 66847	Die ferne dunkle Flut	Töte einen Namielle.	Zeit abgelaufen3-mal ohnmächtig geworden
+66853	Lichtperle	Liefere acht Lichtperlen.	Zeit abgelaufen3-mal ohnmächtig geworden
+66854	Tarnung und Täuschung	Erjage eine Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
+66855	Sehen ist glauben	Erjage einen Tigrex.	Zeit abgelaufen3-mal ohnmächtig geworden
+66856	Ohrstöpsel nicht vergessen!	Erjage einen Yian Garuga.	Zeit abgelaufen3-mal ohnmächtig geworden
+66857	Affenzirkus	Erjage einen Zornigen Rajang.	Zeit abgelaufen3-mal ohnmächtig geworden
+66858	Die nackte Wahrheit	Töte einen Shara Ishvalda.	Zeit abgelaufen3-mal ohnmächtig geworden
 66859	Eine übelriechende Party	Erjage einen Brodelnden Bazelgeuse.	Zeit abgelaufen3-mal ohnmächtig geworden
 66860	Der Zorn des Donners blitzt auf	Erjage einen Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
+66861	Du bist Nummer eins!	Erjage einen Zornigen Rajang.	Zeit abgelaufen5-mal ohnmächtig geworden
+66867	Alter Hund, neuer Trick	Erjage einen Frosthauer-Barioth.	Zeit abgelaufen3-mal ohnmächtig geworden
 67101	Die Erprobung	Erjage einen Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
 67102	Lektionen der Wildnis	Töte acht Barnos.	Zeit abgelaufen3-mal ohnmächtig geworden
 67103	Rushs Blutrausch	Erjage zwei Odogaron.	Zeit abgelaufen3-mal ohnmächtig geworden

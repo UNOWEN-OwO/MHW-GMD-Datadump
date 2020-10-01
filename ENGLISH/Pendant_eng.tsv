@@ -62,7 +62,7 @@ Pendant ID	Pendant Code	Pendant Name	Model
 60	CHARM_060_NAME	Rathian Pink Master Symbol	charm005
 61	CHARM_061_NAME	Blooming Bouquet	charm006
 62	CHARM_062_NAME	Sizzling Sun	charm007
-63	DUMMY000000	Unavailable	charm001
+63	CHARM_063_NAME	Vampy Nightbat	charm008
 64	CHARM_064_NAME	Lucky Crimson Tiger	charm009
 65	CHARM_065_NAME	Sky Blue Silverwisp	charm010
 66	CHARM_066_NAME	Rajang Claws	charm011
@@ -73,19 +73,19 @@ Pendant ID	Pendant Code	Pendant Name	Model
 71	CHARM_071_NAME	Alatreon Shard	charm016
 72	CHARM_072_NAME	Gold Rathian Claws	charm017
 73	CHARM_073_NAME	Silver Rathalos Claws	charm018
-74	DUMMY000001	Unavailable	charm001
-75	DUMMY000002	Unavailable	charm001
-76	DUMMY000003	Unavailable	charm001
-77	DUMMY000004	Unavailable	charm001
-78	DUMMY000005	Unavailable	charm001
-79	DUMMY000006	Unavailable	charm001
-80	DUMMY000007	Unavailable	charm001
-81	DUMMY000008	Unavailable	charm001
+74	DUMMY000000	Unavailable	charm001
+75	DUMMY000001	Unavailable	charm001
+76	DUMMY000002	Unavailable	charm001
+77	DUMMY000003	Unavailable	charm001
+78	DUMMY000004	Unavailable	charm001
+79	DUMMY000005	Unavailable	charm001
+80	DUMMY000006	Unavailable	charm001
+81	CHARM_081_NAME	Arch-tempered Velkhana Shard	charm026
 82	CHARM_082_NAME	Arch-tempered Namielle Shard	charm027
-83	DUMMY000009	Unavailable	charm001
-84	DUMMY000010	Unavailable	charm001
-85	DUMMY000011	Unavailable	charm001
-86	CHARM_086_NAME	HARDUMMY	charm031
+83	DUMMY000007	Unavailable	charm001
+84	DUMMY000008	Unavailable	charm001
+85	CHARM_085_NAME	Fatalis Legendary Symbol	charm030
+86	CHARM_086_NAME	Azure Era Wind Chime	charm031
 87	CHARM_087_NAME	HARDUMMY	charm032
 88	CHARM_088_NAME	R.P.D.	charm033
 89	CHARM_089_NAME	Umbrella	charm034
@@ -108,10 +108,10 @@ Pendant ID	Pendant Code	Pendant Name	Model
 106	CHARM_106_NAME	Sizzling Sun (Grape)	charm007
 107	CHARM_107_NAME	Sizzling Sun (Dragon)	charm007
 108	CHARM_108_NAME	Sizzling Sun (Litchi)	charm007
-109	DUMMY000012	Unavailable	charm001
-110	DUMMY000013	Unavailable	charm001
-111	DUMMY000014	Unavailable	charm001
-112	DUMMY000015	Unavailable	charm001
+109	CHARM_109_NAME	Lantern Nightbat	charm008
+110	CHARM_110_NAME	Sylph Nightbat	charm008
+111	CHARM_111_NAME	Frost Nightbat	charm008
+112	CHARM_112_NAME	Pixie Nightbat	charm008
 113	CHARM_113_NAME	Lucky Peach Tiger	charm009
 114	CHARM_114_NAME	Lucky Green Tiger	charm009
 115	CHARM_115_NAME	Lucky Violet Tiger	charm009
@@ -125,8 +125,8 @@ Pendant ID	Pendant Code	Pendant Name	Model
 123	CHARM_123_NAME	Blooming Bouquet (Purple)	charm006
 124	CHARM_124_NAME	Sizzling Sun (Guava)	charm007
 125	CHARM_125_NAME	Sizzling Sun (Lemon)	charm007
-126	DUMMY000016	Unavailable	charm001
-127	DUMMY000017	Unavailable	charm001
+126	CHARM_126_NAME	Volt Nightbat	charm008
+127	CHARM_127_NAME	Wisp Nightbat	charm008
 128	CHARM_128_NAME	Lucky Dark Green Tiger	charm009
 129	CHARM_129_NAME	Lucky Orange Tiger	charm009
 130	CHARM_130_NAME	Purple Silverwisp	charm010
@@ -172,26 +172,27 @@ Pendant ID	Pendant Code	Pendant Name	Model
 170	CHARM_170_NAME	Topaz Kulve Heart	charm062
 171	CHARM_171_NAME	Sapphire Kulve Heart	charm062
 172	CHARM_172_NAME	Rosegem Kulve Heart	charm062
-173	DUMMY000018	Unavailable	charm001
-174	DUMMY000019	Unavailable	charm001
+173	CHARM_173_NAME	Heavenly Hog	charm065
+174	CHARM_174_NAME	Beelzeboar	charm066
 175	CHARM_175_NAME	Gold Heavenly Dragon	charm067
 176	CHARM_176_NAME	Silver Heavenly Dragon	charm068
-177	DUMMY000020	Unavailable	charm001
+177	CHARM_177_NAME	Meowscular Gains Chain	charm070
 178	CHARM_178_NAME	Phantom Azure Butterflies	charm071
 179	CHARM_179_NAME	Phantom Jade Butterflies	charm071
 180	CHARM_180_NAME	Phantom Magenta Butterflies	charm071
-181	DUMMY000021	Unavailable	charm001
-182	DUMMY000022	Unavailable	charm001
-183	DUMMY000023	Unavailable	charm001
-184	DUMMY000024	Unavailable	charm001
+181	CHARM_181_NAME	Mechanical Gold Watch	charm075
+182	CHARM_182_NAME	Mechanical Silver Watch	charm076
+183	CHARM_183_NAME	Super-8 Mini (Player 1)	charm064
+184	CHARM_184_NAME	Super-8 Mini (Player 2)	charm063
 185	CHARM_185_NAME	Ruby Crystal Knife	charm078
 186	CHARM_186_NAME	Amber Crystal Knife	charm078
 187	CHARM_187_NAME	Azure Crystal Knife	charm078
 188	CHARM_188_NAME	Fulgurbugs	charm073
 189	CHARM_189_NAME	Dracophage Bugs	charm074
 190	CHARM_190_NAME	Velkhana Snow Talisman	charm080
-191	DUMMY000025	Unavailable	charm001
-192	DUMMY000026	Unavailable	charm001
-193	DUMMY000027	Unavailable	charm001
-194	DUMMY000028	Unavailable	charm001
-195	DUMMY000029	Unavailable	charm001
+191	CHARM_191_NAME	Blazing Glavenus Candle	charm077
+192	CHARM_192_NAME	Shocked Kulu-Ya-Ku	charm079
+193	DUMMY000009	Unavailable	charm001
+194	CHARM_194_NAME	Savior's Guild Crystal	charm081
+195	CHARM_195_NAME	Guiding Bond Crystal	charm082
+196	CHARM_196_NAME	HARDUMMY	charm083

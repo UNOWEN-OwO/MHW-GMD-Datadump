@@ -124,12 +124,12 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	162	Fourrure Kulve Felyne <ICON ALPHA>+	otomo/equip/ot025/helm
 0	Helmet	163	Mega Man - Tête <ICON ALPHA>+	otomo/equip/ot035/helm
 0	Helmet	164	Mog - Tête <ICON ALPHA>+	otomo/equip/ot038/helm
-0	Helmet	165	HARDUMMY	otomo/equip/ot037/helm
+0	Helmet	165	Kabuto Astre bleu Felyne <ICON ALPHA>+	otomo/equip/ot037/helm
 0	Helmet	166	HARDUMMY	otomo/equip/ot036/helm
 0	Helmet	167	Kabuto samouraï Felyne <ICON ALPHA>+	otomo/equip/ot039/helm
 0	Helmet	168	Chapeau Papillon Felyne <ICON ALPHA>+	otomo/equip/ot040/helm
 0	Helmet	169	Chapeau Aloha Felyne <ICON ALPHA>+	otomo/equip/ot041/helm
-0	Helmet	170	Coiffe en cuir Felyne	otomo/equip/ot000/helm
+0	Helmet	170	Citrouille Felyne <ICON ALPHA>+	otomo/equip/ot042/helm
 0	Helmet	171	Tête bonhomme de neige <ICON ALPHA>+	otomo/equip/ot043/helm
 0	Helmet	172	Chapeau Constellation <ICON ALPHA>+	otomo/equip/ot044/helm
 0	Helmet	173	Coiffe en cuir Felyne <ICON ALPHA>+	otomo/equip/ot001/helm
@@ -141,18 +141,18 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	179	Chapka de Guilde Felyne <ICON ALPHA>+	otomo/equip/ot063/helm
 0	Helmet	180	Chapeau de la rose Felyne <ICON ALPHA>+	otomo/equip/ot075/helm
 0	Helmet	181	Tête Pukei-Pukei Felyne <ICON ALPHA>+	otomo/equip/ot076/helm
-0	Helmet	182	Coiffe en cuir Felyne	otomo/equip/ot000/helm
+0	Helmet	182	Casque Frankie Felyne <ICON ALPHA>+	otomo/equip/ot077/helm
 0	Helmet	183	Masque de lion Felyne <ICON ALPHA>+	otomo/equip/ot078/helm
 0	Helmet	184	Tête d'alien Felyne <ICON ALPHA>+	otomo/equip/ot079/helm
 0	Helmet	185	Coiffe en cuir Felyne	otomo/equip/ot000/helm
 0	Helmet	186	Coiffe en cuir Felyne	otomo/equip/ot000/helm
 0	Helmet	187	Coiffe en cuir Felyne	otomo/equip/ot000/helm
-0	Helmet	188	HARDUMMY	otomo/equip/ot080/helm
+0	Helmet	188	Tête de lion Ère d'azur Felyne <ICON ALPHA>+	otomo/equip/ot080/helm
 0	Helmet	189	HARDUMMY	otomo/equip/ot081/helm
 0	Helmet	190	Tête de tortilleur Felyne <ICON ALPHA>+	otomo/equip/ot082/helm
 0	Helmet	191	Coiffe en cuir Felyne	otomo/equip/ot000/helm
 0	Helmet	192	Perruque crocgivre Felyne <ICON ALPHA>+	otomo/equip/ot083/helm
-0	Helmet	193	Coiffe en cuir Felyne	otomo/equip/ot000/helm
+0	Helmet	193	Tête Fatalis Felyne <ICON ALPHA>+	otomo/equip/ot084/helm
 0	Helmet	194	Coiffe en cuir Felyne	otomo/equip/ot000/helm
 0	Helmet	195	Coiffure de maestro Felyne <ICON ALPHA>+	otomo/equip/ot085/helm
 0	Helmet	196	Coiffe en cuir Felyne	otomo/equip/ot000/helm
@@ -286,12 +286,12 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	162	Cuirasse Kulve Felyne <ICON ALPHA>+	otomo/equip/ot025/body
 1	Armor	163	Mega Man - Corps <ICON ALPHA>+	otomo/equip/ot035/body
 1	Armor	164	Mog - Corps <ICON ALPHA>+	otomo/equip/ot038/body
-1	Armor	165	HARDUMMY	otomo/equip/ot037/body
+1	Armor	165	Armure Astre bleu Felyne <ICON ALPHA>+	otomo/equip/ot037/body
 1	Armor	166	HARDUMMY	otomo/equip/ot036/body
 1	Armor	167	Armure samouraï Felyne <ICON ALPHA>+	otomo/equip/ot039/body
 1	Armor	168	Veste Papillon Felyne <ICON ALPHA>+	otomo/equip/ot040/body
 1	Armor	169	Chemise Aloha Felyne <ICON ALPHA>+	otomo/equip/ot041/body
-1	Armor	170	Coiffe en cuir Felyne	otomo/equip/ot000/body
+1	Armor	170	Drap fantôme Felyne <ICON ALPHA>+	otomo/equip/ot042/body
 1	Armor	171	Costume bonhomme de neige <ICON ALPHA>+	otomo/equip/ot043/body
 1	Armor	172	Tenue disco Felyne <ICON ALPHA>+	otomo/equip/ot044/body
 1	Armor	173	Veste en cuir Felyne <ICON ALPHA>+	otomo/equip/ot001/body
@@ -303,18 +303,18 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	179	Veste de Guilde Felyne <ICON ALPHA>+	otomo/equip/ot063/body
 1	Armor	180	Robe de la rose Felyne <ICON ALPHA>+	otomo/equip/ot075/body
 1	Armor	181	Corps Pukei-Pukei Felyne <ICON ALPHA>+	otomo/equip/ot076/body
-1	Armor	182	Coiffe en cuir Felyne	otomo/equip/ot000/body
+1	Armor	182	Costume Frankie Felyne <ICON ALPHA>+	otomo/equip/ot077/body
 1	Armor	183	Costume de lion Felyne <ICON ALPHA>+	otomo/equip/ot078/body
 1	Armor	184	Corps d'alien Felyne <ICON ALPHA>+	otomo/equip/ot079/body
 1	Armor	185	Coiffe en cuir Felyne	otomo/equip/ot000/body
 1	Armor	186	Coiffe en cuir Felyne	otomo/equip/ot000/body
 1	Armor	187	Coiffe en cuir Felyne	otomo/equip/ot000/body
-1	Armor	188	HARDUMMY	otomo/equip/ot080/body
+1	Armor	188	Kimono Ère d'azur Felyne <ICON ALPHA>+	otomo/equip/ot080/body
 1	Armor	189	HARDUMMY	otomo/equip/ot081/body
 1	Armor	190	Pot tortilleur Felyne <ICON ALPHA>+	otomo/equip/ot082/body
 1	Armor	191	Coiffe en cuir Felyne	otomo/equip/ot000/body
 1	Armor	192	Uniforme crocgivre Felyne <ICON ALPHA>+	otomo/equip/ot083/body
-1	Armor	193	Coiffe en cuir Felyne	otomo/equip/ot000/body
+1	Armor	193	Corps Fatalis Felyne <ICON ALPHA>+	otomo/equip/ot084/body
 1	Armor	194	Coiffe en cuir Felyne	otomo/equip/ot000/body
 1	Armor	195	Costume de maestro Felyne <ICON ALPHA>+	otomo/equip/ot085/body
 1	Armor	196	Gland géant Felyne <ICON ALPHA>+	otomo/equip/ot086/body

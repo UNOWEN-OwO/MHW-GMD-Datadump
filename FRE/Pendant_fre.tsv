@@ -62,7 +62,7 @@ Pendant ID	Pendant Code	Pendant Name	Model
 60	CHARM_060_NAME	Conquérant - sakura	charm005
 61	CHARM_061_NAME	Bouquet de roses	charm006
 62	CHARM_062_NAME	Carnaval - papaye	charm007
-63	DUMMY000000	Unavailable	charm001
+63	CHARM_063_NAME	Chauve-souris - vampire	charm008
 64	CHARM_064_NAME	Tigre porte-bonheur - écarlate	charm009
 65	CHARM_065_NAME	Pixie - ciel	charm010
 66	CHARM_066_NAME	Griffe - Rajang	charm011
@@ -73,19 +73,19 @@ Pendant ID	Pendant Code	Pendant Name	Model
 71	CHARM_071_NAME	Éclat - Alatreon	charm016
 72	CHARM_072_NAME	Griffe - Rathian d'or	charm017
 73	CHARM_073_NAME	Griffe - Rathalos d'argent	charm018
-74	DUMMY000001	Unavailable	charm001
-75	DUMMY000002	Unavailable	charm001
-76	DUMMY000003	Unavailable	charm001
-77	DUMMY000004	Unavailable	charm001
-78	DUMMY000005	Unavailable	charm001
-79	DUMMY000006	Unavailable	charm001
-80	DUMMY000007	Unavailable	charm001
-81	DUMMY000008	Unavailable	charm001
+74	DUMMY000000	Unavailable	charm001
+75	DUMMY000001	Unavailable	charm001
+76	DUMMY000002	Unavailable	charm001
+77	DUMMY000003	Unavailable	charm001
+78	DUMMY000004	Unavailable	charm001
+79	DUMMY000005	Unavailable	charm001
+80	DUMMY000006	Unavailable	charm001
+81	CHARM_081_NAME	Éclat suprême - Velkhana	charm026
 82	CHARM_082_NAME	Éclat - Namielle alpha suprême	charm027
-83	DUMMY000009	Unavailable	charm001
-84	DUMMY000010	Unavailable	charm001
-85	DUMMY000011	Unavailable	charm001
-86	CHARM_086_NAME	HARDUMMY	charm031
+83	DUMMY000007	Unavailable	charm001
+84	DUMMY000008	Unavailable	charm001
+85	CHARM_085_NAME	Cœur du Fatalis	charm030
+86	CHARM_086_NAME	Carillon à vent Ère d'azur	charm031
 87	CHARM_087_NAME	HARDUMMY	charm032
 88	CHARM_088_NAME	Raccoon City - R.P.D.	charm033
 89	CHARM_089_NAME	Raccoon City - Umbrella	charm034
@@ -108,10 +108,10 @@ Pendant ID	Pendant Code	Pendant Name	Model
 106	CHARM_106_NAME	Carnaval - raisin	charm007
 107	CHARM_107_NAME	Carnaval - pitaya	charm007
 108	CHARM_108_NAME	Carnaval - litchi	charm007
-109	DUMMY000012	Unavailable	charm001
-110	DUMMY000013	Unavailable	charm001
-111	DUMMY000014	Unavailable	charm001
-112	DUMMY000015	Unavailable	charm001
+109	CHARM_109_NAME	Chauve-souris - lanterne	charm008
+110	CHARM_110_NAME	Chauve-souris - sylphe	charm008
+111	CHARM_111_NAME	Chauve-souris - glace	charm008
+112	CHARM_112_NAME	Chauve-souris - lutin	charm008
 113	CHARM_113_NAME	Tigre porte-bonheur - pêche	charm009
 114	CHARM_114_NAME	Tigre porte-bonheur - vert	charm009
 115	CHARM_115_NAME	Tigre porte-bonheur - violet	charm009
@@ -125,8 +125,8 @@ Pendant ID	Pendant Code	Pendant Name	Model
 123	CHARM_123_NAME	Bouquet de roses - pourpre	charm006
 124	CHARM_124_NAME	Carnaval - goyave	charm007
 125	CHARM_125_NAME	Carnaval - citron	charm007
-126	DUMMY000016	Unavailable	charm001
-127	DUMMY000017	Unavailable	charm001
+126	CHARM_126_NAME	Chauve-souris - volt	charm008
+127	CHARM_127_NAME	Chauve-souris - feu follet	charm008
 128	CHARM_128_NAME	Tigre porte-bonheur - pistache	charm009
 129	CHARM_129_NAME	Tigre porte-bonheur - orange	charm009
 130	CHARM_130_NAME	Pixie - pourpre	charm010
@@ -172,26 +172,27 @@ Pendant ID	Pendant Code	Pendant Name	Model
 170	CHARM_170_NAME	Cœur Kulve - topaze	charm062
 171	CHARM_171_NAME	Cœur Kulve - saphir	charm062
 172	CHARM_172_NAME	Cœur Kulve - quartz rose	charm062
-173	DUMMY000018	Unavailable	charm001
-174	DUMMY000019	Unavailable	charm001
+173	CHARM_173_NAME	Porcelet angélique	charm065
+174	CHARM_174_NAME	Cochon satanique	charm066
 175	CHARM_175_NAME	Dragon divin - or	charm067
 176	CHARM_176_NAME	Dragon divin - argent	charm068
-177	DUMMY000020	Unavailable	charm001
+177	CHARM_177_NAME	Casse-croûte miaousse	charm070
 178	CHARM_178_NAME	Papillons enchantés - azur	charm071
 179	CHARM_179_NAME	Papillons enchantés - jade	charm071
 180	CHARM_180_NAME	Papillons enchantés - magenta	charm071
-181	DUMMY000021	Unavailable	charm001
-182	DUMMY000022	Unavailable	charm001
-183	DUMMY000023	Unavailable	charm001
-184	DUMMY000024	Unavailable	charm001
+181	CHARM_181_NAME	Montre mécanique - or	charm075
+182	CHARM_182_NAME	Montre mécanique - argent	charm076
+183	CHARM_183_NAME	Mini Super-8 (joueur 1)	charm064
+184	CHARM_184_NAME	Mini Super-8 (joueur 2)	charm063
 185	CHARM_185_NAME	Dague de cristal - rubis	charm078
 186	CHARM_186_NAME	Dague de cristal - ambre	charm078
 187	CHARM_187_NAME	Dague de cristal - azur	charm078
 188	CHARM_188_NAME	Fulgurinsectes	charm073
 189	CHARM_189_NAME	Insectes dracophages	charm074
 190	CHARM_190_NAME	Talisman - Velkhana	charm080
-191	DUMMY000025	Unavailable	charm001
-192	DUMMY000026	Unavailable	charm001
-193	DUMMY000027	Unavailable	charm001
-194	DUMMY000028	Unavailable	charm001
-195	DUMMY000029	Unavailable	charm001
+191	CHARM_191_NAME	Bougie Glavenus	charm077
+192	CHARM_192_NAME	Jouet Kulu-Ya-Ku	charm079
+193	DUMMY000009	Unavailable	charm001
+194	CHARM_194_NAME	Cristal - sauveur	charm081
+195	CHARM_195_NAME	Cristal - unité	charm082
+196	CHARM_196_NAME	HARDUMMY	charm083

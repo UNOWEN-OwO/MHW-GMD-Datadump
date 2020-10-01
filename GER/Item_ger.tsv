@@ -320,7 +320,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 318	Pukei-Pukei-Panzer	Material	3	Pukei-Pukei-Material, meist alsBelohnung erhalten. Stabil, fürdie Herstellung von Ausrüstung.
 319	Pukei-Pukei-Feder	Material	3	Pukei-Pukei-Material, durchdas Brechen der Flügel erhalten.Wird vielseitig verwendet.
 320	Pukei-Pukei-Beutel	Material	3	Pukei-Pukei-Material, erhaltendurch das Brechen seines Kopfs.Verleiht Gift-Eigenschaften.
-321	Pukei-Pukei-Schwanz	Material	3	Seltenes Pukei-Pukei-Material, erhaltendurch das Zerlegen des abgetrenntenSchwanzes; ungewöhnlich.
+321	Pukei-Pukei-Schwanz	Material	3	Pukei-Pukei-Material, erhaltendurch das Zerlegen des abgetrenntenSchwanzes; ungewöhnlich.
 322	Pukei-Pukei-Schuppe+	Material	5	Seltenes Pukei-Pukei-Material, meistdurch Zerlegen erhalten; für eineVielzahl von Dingen verwendet.
 323	Pukei-Pukei-Rückenpanzer	Material	5	Seltenes Pukei-Pukei-Material, meistals Belohnung erhalten. Stabil,für die Herstellung von Ausrüstung.
 324	Pukei-Pukei-Flügel	Material	5	Seltenes Pukei-Pukei-Material, durchdas Brechen der Flügel erhalten.Wird vielseitig verwendet.
@@ -928,9 +928,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 926	HARDUMMY	Material	3	HARDUMMY
 927	HARDUMMY	Material	5	HARDUMMY
 928	Mega-Man-Ticket	Material	5	Mit diesem Schein erhältst duZugriff auf Palico-Ausrüstungim 8-Bit-Stil von Mega Man.
-929	HARDUMMY	Material	3	HARDUMMY
-930	HARDUMMY	Material	5	HARDUMMY
-931	HARDUMMY	Material	5	HARDUMMY
+929	SFV-Ticket	Material	3	Ein Ticket für einen Spezialauftrittvon Street Fighter. Bedeutet dasetwa, dass der legendäre Kämpfer...?!
+930	SFV-Ticket III	Material	5	Ein SFV-Kooperationsticket. Hatder legendäre World Warrioretwa das Spiel hochgelevelt?
+931	SFV-Ticket II	Material	5	Ein SFV-Kooperationsticket. Moment,diese weibliche Kämpferin wird alsoauch Monster jagen gehen?
 932	Azurstern-Scherbe	Material	3	Blau leuchtendes Material für jene,die die USJ-Herausforderungerfolgreich abgeschlossen haben.
 933	Azurstern-Juwel	Material	5	Spezielles Material für jene, die sicherfolgreich der USJ-Herausforderunggestellt haben. Es leuchtet blau.
 934	Rote Kugel	Material	7	Das Blut dämonischer Geschöpfe,in Stein verdichtet. Für stylisheDämonenjäger-Ausrüstung.
@@ -2272,9 +2272,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2270	Überleben-Juwel 1	Jewel	8	Diese Dekoration verstärkt dieÜberlebensexperte-Fähigkeit.
 2271	Unavailable	Jewel	8	Diese Dekoration verstärkt dieWasser-/Polarbeweglichkeit-Fähigkeit.
 2272	Wärme-Juwel 2	Jewel	8	Diese Dekoration verstärkt deineKälteschutz-Fähigkeit.
-2273	Unavailable	Item	3	Unavailable
-2274	Unavailable	Item	3	Unavailable
-2275	Unavailable	Item	3	Unavailable
+2273	Ablenkung-Juwel 3	Jewel	10	Diese Dekoration verstärkt deineProvozierer-Fähigkeit.
+2274	Akrobaten-Juwel 3	Jewel	10	Diese Dekoration verstärkt deineSichere-Landung-Fähigkeit.
+2275	Rasierer-Juwel 3	Jewel	10	Diese Dekoration verstärkt deineKlammerklauen-Boost-Fähigkeit.
 2276	Unavailable	Item	3	Unavailable
 2277	Unavailable	Item	3	Unavailable
 2278	Unavailable	Item	3	Unavailable
@@ -2417,7 +2417,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2415	Dekadente Vase (klein)	Room Decoration	3	Eine wunderschöne kleineVase, veredelt von zweimakellosen Rosen.
 2416	Dekadente Vase (groß)	Room Decoration	3	Eine wunderschöne großeVase, veredelt von gelben,rosa und roten Rosen.
 2417	Tropische Pflanzen	Room Decoration	3	Topfpflanzen, die angeblich auseiner warmen Region stammen.(Lebensfreude-Fest-Einrichtung)
-2418	Unavailable	Item	3	Unavailable
+2418	Spuk-Kürbisse	Room Decoration	3	Eine Auswahl an Herbstkürbissen,einer davon dezent unheimlich.(Spuk-Fest-Einrichtung)
 2419	Schiff der 5. Flotte (Modell)	Room Decoration	3	Ein detailliertes Modell desSchiffs der 5. Flotte.
 2420	Modifiziertes Schiff (Modell)	Room Decoration	3	Das Modell eines Schiffs, das zurAbwehr des Zorah Magdarosmodifiziert wurde.
 2421	Forschungsbasis (Modell)	Room Decoration	3	Ein Modell der Forschungsbasis.Die beeindruckenden Details sinddas Werk eines Kunsthandwerkers.
@@ -2428,7 +2428,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2426	Rathalos-Maske	Room Decoration	3	Eine detaillierte Maske, dem Gesichteines Rathalos nachempfunden.(Lebensfreude-Fest-Einrichtung)
 2427	Rathian-Maske	Room Decoration	3	Eine detaillierte Maske, dem Gesichteiner Rathian nachempfunden.(Lebensfreude-Fest-Einrichtung)
 2428	Kulu-Ya-Ku-Maske	Room Decoration	3	Eine detaillierte Maske, dem Gesichteines Kulu-Ya-Ku nachempfunden.(Lebensfreude-Fest-Einrichtung)
-2429	Unavailable	Item	3	Unavailable
+2429	Spuk-Geist	Room Decoration	3	Ein gruseliges Dekorationsobjekt,einem Geist nachempfunden.(Spuk-Fest-Einrichtung)
 2430	Felynen-Kopf	Room Decoration	3	Die stilisierte Nachbildung einesFelynen-Kopfs aus Stoff.(Astral-Fest-Einrichtung)
 2431	Grimalkynen-Kopf (weiß)	Room Decoration	3	Die stilisierte Nachbildung eineshellen Grimalkynen-Kopfs ausStoff. (Astral-Fest-Einrichtung)
 2432	Grimalkynen-Kopf (schwarz)	Room Decoration	3	Die stilisierte Nachbildung einesdunklen Grimalkynen-Kopfs ausStoff. (Astral-Fest-Einrichtung)
@@ -2461,7 +2461,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2459	Düsteres Raureif-Weiten-Gemälde	Room Decoration	3	Ein Landschaftsgemälde derRaureif-Weite.
 2460	Karten der Neuen Welt	Room Decoration	3	Diese Karten der Neuen Weltzeigen auch die Hinterlande undsind mit Anmerkungen versehen.
 2461	Viele Palico-Porträts	Room Decoration	3	Eine Sammlung von Palico-Porträts... und einem Poogie!
-2462	Unavailable	Item	3	Unavailable
+2462	Spuk-Tuch	Room Decoration	3	Ein verstörendes Stückzerrissenen Stoffs.(Spuk-Fest-Einrichtung)
 2463	Banner der 1. Flotte	Room Decoration	3	Das Banner der 1. Flotte.
 2464	Banner der 2. Flotte	Room Decoration	3	Das Banner der 2. Flotte.
 2465	Banner der 3. Flotte	Room Decoration	3	Das Banner der 3. Flotte.
@@ -2476,7 +2476,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2474	Andon	Room Decoration	3	Eine traditionelle Holz- und Papier-laterne, die ein warmes Licht aus-strahlt. (Lunar-Fest-Einrichtung)
 2475	Poogie-Lampe	Room Decoration	3	Eine supersüße Lampe,deren Design auf unser allerLieblingsschwein basiert.
 2476	Runde Papierlampen	Room Decoration	3	Einfache, eher traditionellePapierlampen.(Astral-Fest-Einrichtung)
-2477	Unavailable	Item	3	Unavailable
+2477	Kürbiskopf	Room Decoration	3	Ein beleuchteter Kürbis miteinem ausgeschnittenen Gesicht.(Spuk-Fest-Einrichtung)
 2478	Laboratorium	Room Decoration	3	Eine kleine Auswahl anDokumenten und Gerätenaus der Forschungsbasis.
 2479	Feldküche	Room Decoration	3	Ob Expedition oder Camping-ausflug, mit dieser Küchen-ausstattung werden alle satt!
 2480	Rathalos-Büste	Room Decoration	3	Eine aus Stein gemeißelteBüste eines Rathalos-Kopfs.
@@ -2557,12 +2557,12 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2555	Tzitzi-Ya-Ku-Modell	Room Decoration	3	MonstermodellTzitzi-Ya-Ku
 2556	Rajang-Modell	Room Decoration	3	MonstermodellRajang
 2557	Kirin-Modell	Room Decoration	3	MonstermodellKirin
-2558	Unavailable	Item	3	Unavailable
+2558	Lunastra-Modell	Room Decoration	3	MonstermodellLunastra
 2559	Vaal-Hazak-Modell	Room Decoration	3	MonstermodellVaal Hazak
 2560	Teostra-Modell	Room Decoration	3	MonstermodellTeostra
-2561	Gajalaka-Modell	Room Decoration	3	MonstermodellGajalaka
+2561	Gajalaka-Modell	Room Decoration	3	MonstermodellGajalaka & König Gajalaka
 2562	Brachydios-Modell	Room Decoration	3	MonstermodellBrachydios
-2563	Unavailable	Item	3	Unavailable
+2563	Uragaan-Modell	Room Decoration	3	MonstermodellUragaan
 2564	Lavasioth-Modell	Room Decoration	3	MonstermodellLavasioth
 2565	Wahre Liebe (Modell)	Room Decoration	3	Ein stattliches Modell von zweiungewöhnlichen Liebenden.(Astral-Fest-Einrichtung)
 2566	Marmorwand (weiß)	Room Decoration	3	Unavailable
@@ -2578,17 +2578,17 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2576	S.T.A.R.S. Wandschmuck 2	Room Decoration	3	Memorabilia der Spezialeinheitdes Raccoon Police Departments.<STYL MOJI_RED_DEFAULT>Raccoon-City-Kooperation</STYL>
 2577	Schreibmaschine	Room Decoration	3	Eine Maschine, um Geschichten überAngst und Erleichterung festzuhalten.<STYL MOJI_RED_DEFAULT>Raccoon-City-Kooperation</STYL>
 2578	Inventarbox	Room Decoration	3	Eine praktische Kiste, in der duüberzählige Objekte lagern kannst.<STYL MOJI_RED_DEFAULT>Raccoon-City-Kooperation</STYL>
-2579	Unavailable	Item	3	Unavailable
+2579	Süßer Abschluss	Room Decoration	3	Eine Auswahl an leckerem,farbenfrohem Süßkram.(Spezialgericht des Spuk-Fests.)
 2580	Goldenes Ferkel	Room Decoration	3	Eine goldene Poogie-Statue.Man möchte sie auf den Bodenstellen und um sie herumtanzen!
 2581	Mini-Schneemann	Room Decoration	3	Ein Schneemann mit Lichterkette,insgesamt eher traditionell...(Lunar-Fest-Einrichtung)
 2582	Astral-Schneemann	Room Decoration	3	Ein ungewöhnlicher, bläulichleuchtender... Schneemann?(Astral-Fest-Einrichtung)
 2583	Flor-Schneemann	Room Decoration	3	Ein mit Kerzen und DutzendenBlüten geschmückter Schneemann.(Flor-Fest-Einrichtung)
 2584	Lebensfreude-Schneemann	Room Decoration	3	Ein heiterer Schneemann,der eine Maske trägt.(Lebensfreude-Fest-Einrichtung)
-2585	Unavailable	Item	3	Unavailable
+2585	Spuk-Schneemann	Room Decoration	3	Ein schauriger Schneemannmit glühenden Augen.(Spuk-Fest-Einrichtung)
 2586	Schwebende Laternen	Room Decoration	3	Himmelslichter, die wie durchein Wunder in der Luft hängen.(Astral-Fest-Einrichtung)
 2587	Dekadente Flagge	Room Decoration	3	Eine dekorative Flagge mitdekadentem Design.
 2588	Hängende Blumen	Room Decoration	3	Gelbe, rosa und rote Rosen,die geradezu aus ihremhängenden Topf quellen.
-2589	Unavailable	Item	3	Unavailable
+2589	Spuk-Leuchtsack	Room Decoration	3	Ein seltsames Dekorationsobjekt,das dunkle Ecken erleuchtet.(Spuk-Fest-Einrichtung)
 2590	Rathalos-Relief	Room Decoration	3	Das Metallrelief eines Rathalos.
 2591	Porträt des Admirals	Room Decoration	3	Ein Gemälde, das die Ausstrahlungdes Admirals perfekt einfängt.
 2592	Dekadentes Banner	Room Decoration	3	Ein goldverziertes Seidenbanner –geht es noch dekadenter?
@@ -2598,7 +2598,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2596	Florale Läufer	Room Decoration	3	Wundervolle Teppiche, mit echtenBlüten verschönert.(Flor-Fest-Einrichtung)
 2597	Florale Läufer	Room Decoration	3	Wundervolle Teppiche, mit echtenBlüten verschönert.(Flor-Fest-Einrichtung)
 2598	Pukei-Pukei-Dekoration	Room Decoration	3	Eine riesige freundlich-fedrigePukei-Pukei-Dekoration.
-2599	Unavailable	Item	3	Unavailable
+2599	Spuk-Attrappe	Room Decoration	3	Eine angsteinflößende,geisterhafte Attrappe.(Spuk-Fest-Einrichtung)
 2600	Jyuratodus-Modell	Room Decoration	3	MonstermodellJyuratodus
 2601	Barroth-Modell	Room Decoration	3	MonstermodellBarroth
 2602	Diablos-Modell	Room Decoration	3	MonstermodellDiablos
@@ -2606,13 +2606,13 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2604	Xeno'jiiva-Modell	Room Decoration	3	MonstermodellXeno'jiiva
 2605	Wulg-Rotte-Modell	Room Decoration	3	MonstermodellWulg-Rotte
 2606	Pflanzenfresser-Modelle	Room Decoration	3	MonstermodelleAptonoth und Flauschhühner
-2607	Unavailable	Item	3	Unavailable
-2608	Unavailable	Item	3	Unavailable
-2609	Unavailable	Item	3	Unavailable
-2610	Unavailable	Item	3	Unavailable
-2611	Unavailable	Item	3	Unavailable
-2612	Unavailable	Item	3	Unavailable
-2613	Unavailable	Item	3	Unavailable
+2607	Kulve-Taroth-Modell	Room Decoration	3	MonstermodellKulve Taroth
+2608	Bazelgeuse-Modell	Room Decoration	3	MonstermodellBazelgeuse
+2609	Dämonjho-Modell	Room Decoration	3	MonstermodellDämonjho
+2610	Shara-Ishvalda-Modell 1	Room Decoration	3	MonstermodellShara Ishvalda
+2611	Shara-Ishvalda-Modell 2	Room Decoration	3	MonstermodellShara Ishvalda
+2612	Alatreon-Modell	Room Decoration	3	MonstermodellAlatreon
+2613	Fatalis-Modell	Room Decoration	3	MonstermodellFatalis
 2614	The Bustling Heart of the Snowy Village (MH Swing)	Room Decoration	3	Monster Hunter Portable 2nd PokkeVillage Hub Theme - ArrangementMonster Hunter Swing
 2615	Scat Cat Fever (MH Swing)	Room Decoration	3	Monster Hunter Arena Theme -ArrangementMonster Hunter Swing
 2616	In Search of Hidden Springs (MH Swing)	Room Decoration	3	Monster Hunter Portable 3rdYukumo Village Theme - ArrangementMonster Hunter Swing
@@ -2624,9 +2624,9 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2622	The Hunters' Secret Spring (MH The Jazz)	Room Decoration	3	Monster Hunter Portable 3rdGathering Hub BGM ArrangedMonster Hunter The Jazz
 2623	Winds of Adventure (MH The Jazz)	Room Decoration	3	Monster Hunter 4 UltimateMain Theme ArrangedMonster Hunter The Jazz
 2624	Proof of a Hero (MH The Jazz)	Room Decoration	3	Monster HunterSeries Theme ArrangedMonster Hunter The Jazz
-2625	Unavailable	Item	3	Unavailable
-2626	Unavailable	Item	3	Unavailable
-2627	Unavailable	Item	3	Unavailable
+2625	The Legend Descends - Fatalis: World Version	Room Decoration	3	Monster Hunter World: IceborneFatalis Battle Theme 1
+2626	Limitless Courage	Room Decoration	3	Monster Hunter World: IceborneFatalis Battle Theme 2
+2627	The Final Confrontation	Room Decoration	3	Monster Hunter World: IceborneFatalis Battle Theme 3
 2628	Boah, boah	Room Decoration	3	Dieses Gericht von beein-druckender Größe basiertauf einem Boaboa-Festmahl.
 2629	Pepe-Skulptur	Room Decoration	3	Eine recht einfache Skulptur,die einen Pepe darstellt.
 2630	Boaboa-Floß	Room Decoration	3	Die Figur eines Boaboain einem traditionellen Floß.
@@ -2639,22 +2639,22 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2637	Felynen-Statuen	Room Decoration	3	Felynen-Statuen in holderDreisamkeit.
 2638	Grimalkynen-Lehmskulpturen	Room Decoration	3	Verschiedene Lehmskulpturen,geschaffen von Grimalkynen.
 2639	Pepe-Herde	Room Decoration	3	Die künstlerische Umsetzungeiner Herde von Pepe.
-2640	Unavailable	Item	3	Unavailable
+2640	Beotodus-Schädel	Room Decoration	3	Ein riesiger Beotodus-Schädel,Beweis für die Jagdfähigkeitender Boaboa.
 2641	Boaboa-Ausrüstung	Room Decoration	3	Diese urigen Ausstellungs-stücke sind echter Boaboa-Ausrüstung nachempfunden.
-2642	Unavailable	Item	3	Unavailable
-2643	Unavailable	Item	3	Unavailable
-2644	Unavailable	Item	3	Unavailable
-2645	Unavailable	Item	3	Unavailable
-2646	Unavailable	Item	3	Unavailable
-2647	Unavailable	Item	3	Unavailable
-2648	Unavailable	Item	3	Unavailable
-2649	Unavailable	Item	3	Unavailable
-2650	Unavailable	Item	3	Unavailable
-2651	Unavailable	Item	3	Unavailable
-2652	Unavailable	Item	3	Unavailable
-2653	Unavailable	Item	3	Unavailable
-2654	Unavailable	Item	3	Unavailable
-2655	Unavailable	Item	3	Unavailable
+2642	Lynianer-Versammlung	Room Decoration	3	Ein Diorama, das Lynianeraus allen Ecken der NeuenWelt zeigt.
+2643	Häkel-Paolumu (weiß)	Room Decoration	3	Ein zu seiner vollen Größeaufgeblasener Häkel-Paolumu.
+2644	Häkel-Paolumu (lila)	Room Decoration	3	Ein zu seiner vollen Größeaufgeblasener Häkel-Nachtschatten-Paolumu.
+2645	Mauli-Puppe	Room Decoration	3	Eine niedliche Mauli-Puppe.Sie ist wirklich goldig.
+2646	Moos-Mauli-Puppe	Room Decoration	3	Eine niedliche Mauli-Puppe.Sie ist ziemlich grüüüüüün.
+2647	Stein-Mauli-Puppe	Room Decoration	3	Eine niedliche Mauli-Puppe.Sie scheint sehr sicher zu sein.
+2648	Flausch-Mauli-Puppe	Room Decoration	3	Eine niedliche Mauli-Puppe.Sie ist angenehm flauschig.
+2649	Stachel-Mauli-Puppe	Room Decoration	3	Eine niedliche Mauli-Puppe.Sie ist irgendwie gruselig.
+2650	Wild-Mauli-Puppe	Room Decoration	3	Eine niedliche Mauli-Puppe.Sie wirkt mutig.
+2651	Frost-Mauli-Puppe	Room Decoration	3	Eine niedliche Mauli-Puppe.Sie fühlt sich sanft an.
+2652	Fatalis-Gemälde	Room Decoration	3	Dieses Gemälde zeigt die Zerstörungeines großartigen Königreichs durchein schreckliches Monster.
+2653	Schaukel-Rajang (brünett)	Room Decoration	3	Ein Rajang, der sich aufeiner Schaukel vergnügt.
+2654	Schaukel-Rajang (blond)	Room Decoration	3	Ein Zorniger Rajang, der sichauf einer Schaukel vergnügt.
+2655	Schrade-Banner	Room Decoration	3	Ein das herrliche KönigreichSchrade repräsentierendesBanner.
 2656	Unavailable	Item	3	Unavailable
 2657	Unavailable	Item	3	Unavailable
 2658	Unavailable	Item	3	Unavailable
@@ -2680,7 +2680,7 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2678	Schneemann	Item	3	Ein riesiger Schneemann, aus demdu Schneebälle machen kannst;nimm am Seliana-Fest teil!
 2679	Namielle-Ticket	Material	11	Ein Ticket mit einem Namielle,dem Meister der Strömung; kannbeim Schmied eingelöst werden.
 2680	Unavailable	Item	3	Unavailable
-2681	Unavailable	Item	3	Unavailable
+2681	Velkhana-Ticket	Material	11	Ein Ticket mit der Zeichnung einesVelkhana, Herrscher des Frosts; kannbei der Schmiede eingelöst werden.
 2682	Frosthauer-Ticket	Material	10	Der Beweis dafür, dass du einen Gehär-teten Frosthauer-Barioth erjagt hast;kann beim Schmied eingelöst werden.
 2683	Grünes Kraut	Item	1	Ein in den Arklay-Bergen beheimatetesgrünes Kraut. Stellt Gesundheit wiederher, heilt Zombifizierung (nur auf Quests).
 2684	Rotes Kraut	Item	1	Ein in den Arklay-Bergen beheimatetesrotes Kraut. Kann in dieser Form nichtgenutzt werden (nur auf Quests).
@@ -2724,11 +2724,11 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2722	Wetzfisch-Ticket	Material	9	Ein Ticket des Fischforschersmit Wetzfischen; kann bei derSchmiede eingelöst werden.
 2723	Flauschhuhn-Ticket II	Material	9	Ein Ticket mit einem erwachsenenFlauschhuhn; kann bei derSchmiede eingelöst werden.
 2724	Lebensfreude-Ticket	Material	8	Ein für die Teilnahme am Lebens-freude-Fest erhaltenes Ticket; wirdgegen andere Dinge eingetauscht.
-2725	Pilotenhase-Ticket	Material	9	Ein Ticket für alle, die schon immermal ein Pilotenhase sein wollten.Bringe es zum Schmied und...
+2725	Schäferhase-Ticket	Material	9	Ein Ticket für alle, die schon immermal ein Schäferhase sein wollten.Bringe es zum Schmied und...
 2726	Geisttropfen-Ticket	Material	9	Ein Gutschein für einen edlenTropfen - vom Miauskulären Koch.Bringe ihn zum Schmied und...
-2727	Unavailable	Item	3	Unavailable
-2728	Unavailable	Item	3	Unavailable
-2729	Unavailable	Item	3	Unavailable
+2727	Spuk-Ticket	Material	8	Ein für die Teilnahme am Spuk-Festerhaltenes Ticket; wird gegenandere Dinge eingetauscht.
+2728	Schwarzes Bandana	Material	9	Ein aus strapazierfähigem Materialhergestelltes Bandana. Zeige esdem Schmied und...?
+2729	Schal-Ticket	Material	9	Ein vom Tobi-Kadachi inspirierterEntwurf. Zeige ihn dem Schmiedund...?
 2730	Einheits-Symbol	Material	9	Gute Neuigkeiten von Freunden aus derganzen Welt, man spricht über surrealeGeschichten. Zeige es dem Schmied!
 2731	Unavailable	Item	3	Unavailable
 2732	Goldquell-Ticket	Material	9	Ein Ticket mit einem badendenGoldquell-Makaken; kann beider Schmiede eingelöst werden.
@@ -2737,8 +2737,8 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2735	VIP Lunar-Ticket	Material	11	Ein seltenes Ticket, erhalten währenddes Lunar-Fests. Kann gegen Talismaneund Dekorrüstungen eingetauscht werden.
 2736	VIP Astral-Ticket	Material	11	Ein seltenes Ticket, erhalten währenddes Astral-Fests. Kann gegen Talismaneund Dekorrüstungen eingetauscht werden.
 2737	VIP Flor-Ticket	Material	11	Ein seltenes Ticket, erhalten währenddes Flor-Fests. Kann gegen Talismaneund Dekorrüstungen eingetauscht werden.
-2738	VIP-Lebensfreude-Ticket	Material	11	Ein seltenes Ticket, erhalten während desLebensfreude-Fests. Kann gegen Talismaneund Dekorrüstungen eingetauscht werden.
-2739	Unavailable	Item	3	Unavailable
+2738	VIP Lebensfreude-Ticket	Material	11	Ein seltenes Ticket, erhalten während desLebensfreude-Fests. Kann gegen Talismaneund Dekorrüstungen eingetauscht werden.
+2739	VIP Spuk-Ticket	Material	11	Ein seltenes Ticket, erhalten währenddes Spuk-Fests. Kann gegen Talismaneund Dekorrüstungen eingetauscht werden.
 2740	Bannball	Item	8	Wirf dies auf ein großes Monster,damit es die Leitlande verlässt.<STYL MOJI_YELLOW_DEFAULT>Nur Leitlande-Leiter!</STYL>
 2741	Unavailable	Item	3	Unavailable
 2742	Drachenmacht-Klumpen (Spalter)	Material	11	Unavailable
@@ -2755,22 +2755,22 @@ Item ID	Item Name	Item Type	Rare	Item Desc
 2753	Drachenmacht-Klumpen (Schuss)	Material	11	Unavailable
 2754	Drachenmacht-Klumpen (Kanone)	Material	11	Unavailable
 2755	Drachenmacht-Klumpen (Bogen)	Material	11	Unavailable
-2756	Unavailable	Item	3	Unavailable
-2757	Unavailable	Item	3	Unavailable
-2758	Unavailable	Item	3	Unavailable
-2759	Unavailable	Item	3	Unavailable
-2760	Unavailable	Item	3	Unavailable
-2761	Unavailable	Item	3	Unavailable
+2756	Fatalis-Scherbe	Material	10	Sehr seltenes Fatalis-Material,meist durch Zerlegen erhalten. Diedicken Ringe sind Zeichen des Alters.
+2757	Fatalis-Kortex	Material	10	Sehr seltenes Fatalis-Material.Normale Waffen können der mehr-schichtigen Substanz nichts anhaben.
+2758	Fatalis-Pectus	Material	10	Sehr seltenes Fatalis-Material. Einteuflischer Panzer mit der geschmol-zenen Ausrüstung von Feinden.
+2759	Fatalis-Harthorn	Material	10	Sehr seltenes Fatalis-Material. EinHorn von enormer Stärke, dessendunkler Glanz seltsam betört.
+2760	Böses Fatalis-Auge	Material	11	Sehr seltenes Fatalis-Material.Eine ungewöhnliche Aura derBesessenheit umgibt dieses Auge.
+2761	Fatalis-Balgflügel	Material	10	Sehr seltenes Fatalis-Material.Dieser Flügel ist hart wie Stahl,lässt sich jedoch einfach formen.
 2762	Pflanzenfresser-Ticket I	Material	9	Ein Ticket mit der Zeichnung einerfreilaufenden Herde von Kelbi; kannbei der Schmiede eingelöst werden.
 2763	Pflanzenfresser-Ticket II	Material	9	Ein Ticket mit der Zeichnung einerfreilaufenden Aptonoth-Herde; kannbei der Schmiede eingelöst werden.
 2764	Inneres-Auge-Ticket	Material	10	Ein Ticket mit dem Antlitz von jeman-dem, der alles sehen kann. Es kannbeim Schmied eingelöst werden.
-2765	Unavailable	Item	3	Unavailable
+2765	Kraft-Ticket+	Material	11	Auf diesem Ticket steht, wie mansich an die körperlichen Grenzenbringt. Zeige es dem Schmied und...?
 2766	Unavailable	Item	3	Unavailable
 2767	Unavailable	Item	3	Unavailable
 2768	Unavailable	Item	3	Unavailable
 2769	Unavailable	Item	3	Unavailable
-2770	Unavailable	Item	3	Unavailable
-2771	Unavailable	Item	3	Unavailable
+2770	Zinogre-Ticket	Material	9	Ein Ticket mit der Zeichnung einesZinogre, der den Mond anheult; kannbei der Schmiede eingelöst werden.
+2771	Brachial-Tigrex-Ticket	Material	9	Ein Ticket mit der Zeichnung einesBrachial-Tigrex, der gen Himmel brüllt;kann bei der Schmiede eingelöst werden.
 2772	Unavailable	Item	3	Unavailable
 2773	Unavailable	Item	3	Unavailable
 2774	Unavailable	Item	3	Unavailable

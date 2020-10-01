@@ -156,8 +156,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	159	Hełm warst. stroju gal.	153	0	3	pl078_0000
 0	Head	160	Unavailable	158	2	0	pl001_0000
 0	Head	299	HARDUMMY	154	0	7	pl068_0000
-0	Head	291	HARDUMMY	155	0	7	pl069_0000
-0	Head	292	HARDUMMY	156	0	7	pl070_0000
+0	Head	291	Hełm warstwowy Ryu	155	0	7	pl069_0000
+0	Head	292	Hełm warstwowy Sakury	156	0	7	pl070_0000
 0	Head	144	Unavailable	157	2	0	pl001_0000
 0	Head	297	Hełm warstwowy Bayeka	159	0	7	pl120_0000
 0	Head	162	Unavailable	160	2	0	pl001_0000
@@ -198,9 +198,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	223	Hełm Zoraha<ICON GAMMA>	213	72	7	pl038_0020
 0	Head	224	Hełm Xeno'jiiva<ICON GAMMA>	214	72	7	pl045_0020
 0	Head	225	HARDUMMY	215	46	4	pl068_0000
-0	Head	226	HARDUMMY	216	12	1	pl069_0000
-0	Head	227	HARDUMMY	217	60	6	pl069_0000
-0	Head	228	HARDUMMY	218	50	5	pl070_0000
+0	Head	226	Głowa Ryu	216	12	1	pl069_0000
+0	Head	227	Głowa Ryu<ICON ALPHA>	217	60	6	pl069_0000
+0	Head	228	Głowa Sakury<ICON ALPHA>	218	50	5	pl070_0000
 0	Head	229	Korona Lazurowego Pana<ICON ALPHA>	219	56	6	pl072_0000
 0	Head	230	Włosy Dantego<ICON ALPHA>	220	64	7	pl071_0000
 0	Head	231	Korona Luny<ICON ALPHA>	221	70	7	pl051_0000
@@ -347,7 +347,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	422	Hełm z Kwas. Glavenusa<ICON BETA>+	372	150	10	pl081_0110
 0	Head	423	Hełm z artianu<ICON ALPHA>+	373	142	9	pl091_0000
 0	Head	424	Hełm z artianu<ICON BETA>+	374	142	9	pl091_0000
-0	Head	425	Unavailable	375	0	0	None
+0	Head	425	Szal warstwowy z czaszką	375	0	10	pl099_0000
 0	Head	426	Hełm warstwowy z Pukei<ICON ALPHA>	376	0	4	pl010_0000
 0	Head	427	Hełm warstwowy z Pukei<ICON BETA>	377	0	4	pl010_0010
 0	Head	428	Hełm z Dobera<ICON ALPHA>+	378	152	10	pl044_0000
@@ -368,7 +368,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	443	Róg Kirina<ICON BETA>+	393	154	11	pl035_0011
 0	Head	444	Kaptur z macek<ICON ALPHA>+	394	158	11	pl086_0000
 0	Head	445	Kaptur z macek<ICON BETA>+	395	158	11	pl086_0010
-0	Head	446	Unavailable	396	0	0	None
+0	Head	446	Zegarowy<ICON ALPHA>+ hełm warstwowy	396	0	9	pl104_0000
 0	Head	447	Hełm warstwowy z Barrotha	397	0	4	pl012_0000
 0	Head	448	Hełm pałacu Gildii<ICON ALPHA>+	398	154	10	pl094_0000
 0	Head	449	Hełm pałacu Gildii<ICON BETA>+	399	154	10	pl094_0000
@@ -422,7 +422,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	497	Hełm warstwowy z Lumu	447	0	4	pl024_0000
 0	Head	498	Żarliwe przybranie<ICON ALPHA>+	448	156	9	pl125_0000
 0	Head	499	Hełm warstw. z Rathiany<ICON ALPHA>	449	0	4	pl021_0000
-0	Head	500	Unavailable	450	0	0	None
+0	Head	500	Włosy władcy demonów<ICON ALPHA>+	450	162	10	pl126_0000
 0	Head	501	Hełm warstw. z Rathiany<ICON BETA>	451	0	4	pl021_0010
 0	Head	502	Włosy ulung<ICON ALPHA>+	452	120	8	pl127_0000
 0	Head	503	Hełm warstw. z Radobaana<ICON ALPHA>	453	0	5	pl028_0000
@@ -430,7 +430,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	505	Hełm warstw. z Radobaana<ICON BETA>	455	0	5	pl028_0010
 0	Head	506	Różany hełm warstwowy	456	0	9	pl124_0000
 0	Head	507	Żarliwy hełm warstwowy	457	0	9	pl125_0000
-0	Head	508	Unavailable	458	0	0	None
+0	Head	508	Hełm warst. władcy demonów	458	0	10	pl126_0000
 0	Head	509	Hełm warstwowy ulung	459	0	8	pl127_0000
 0	Head	510	Gwiezdny hełm warstwowy	460	0	8	pl128_0000
 0	Head	511	Hełm warstwowy z metalu	461	0	5	pl025_0000
@@ -438,7 +438,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	513	Panc. wars. Zajęcza opaska	463	0	8	pl111_0000
 0	Head	514	Hełm wars. derk. puchat.	464	0	8	pl112_0000
 0	Head	515	Perłowy<ICON ALPHA>+	465	120	8	pl113_0000
-0	Head	516	Unavailable	466	0	0	None
+0	Head	516	Szal warstwowy z Kadachi	466	0	8	pl114_0000
 0	Head	518	Hełm ryku<ICON ALPHA>+	468	158	10	pl083_0100
 0	Head	519	Hełm ryku<ICON BETA>+	469	158	10	pl083_0110
 0	Head	520	Hełm strażnika<ICON ALPHA>+	470	50	5	pl121_0000
@@ -446,19 +446,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	522	Hełm war. Srebrnego Rycerza	472	0	6	pl123_0000
 0	Head	523	HARDUMMY	473	132	11	pl068_0010
 0	Head	524	Kaptur z macek<ICON GAMMA>+	474	176	11	pl086_0020
-0	Head	525	HARDUMMY	475	0	7	pl072_0000
-0	Head	526	HARDUMMY	476	170	11	pl072_0001
-0	Head	527	Unavailable	477	0	0	None
+0	Head	525	Hełm war. Pana Lazur. Gw.	475	0	7	pl072_0000
+0	Head	526	Fryzura Lazurowej Ery<ICON ALPHA>+	476	170	11	pl072_0001
+0	Head	527	Szronowy hełm<ICON GAMMA>+	477	180	11	pl085_0020
 0	Head	528	Hełm z Mrozokła<ICON ALPHA>+	478	162	10	pl089_0500
 0	Head	529	Hełm z Mrozokła<ICON BETA>+	479	162	10	pl089_0510
-0	Head	530	Unavailable	480	0	0	None
-0	Head	531	Unavailable	481	0	0	None
+0	Head	530	Smocza głowa<ICON ALPHA>+	480	180	11	pl129_0000
+0	Head	531	Smocza głowa<ICON BETA>+	481	180	11	pl129_0010
 0	Head	532	HARDUMMY	482	160	11	pl068_0020
 0	Head	533	Unavailable	483	0	0	None
 0	Head	534	Głowa Leona <ICON ALPHA>+	484	150	11	pl130_0000
 0	Head	535	Głowa Claire <ICON ALPHA>+	485	150	11	pl131_0000
-0	Head	536	Unavailable	486	0	0	None
-0	Head	537	Unavailable	487	0	0	None
+0	Head	536	Hełm warstwowy Leona+	486	0	11	pl130_0000
+0	Head	537	Hełm warstwowy Claire+	487	0	11	pl131_0000
 0	Head	538	Hełm warstwowy Gastodona	488	0	4	pl015_0000
 0	Head	540	Hełm warstwowy Dodogamy	490	0	4	pl039_0000
 0	Head	541	Hełm warstwowy sztabek	491	0	5	pl031_0000
@@ -515,130 +515,130 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	592	Hełm warstwowy Kulve<ICON ALPHA>	542	0	7	pl049_0000
 0	Head	593	Hełm warstwowy Kulve<ICON BETA>	543	0	7	pl049_0010
 0	Head	594	Hełm warstwowy Kulve<ICON GAMMA>	544	0	7	pl049_0020
-0	Head	595	Unavailable	546	0	0	None
-0	Head	596	Unavailable	547	0	0	None
-0	Head	597	Unavailable	548	0	0	None
-0	Head	599	Unavailable	550	0	0	None
-0	Head	600	Unavailable	551	0	0	None
-0	Head	601	Unavailable	552	0	0	None
-0	Head	602	Unavailable	553	0	0	None
-0	Head	603	Unavailable	554	0	0	None
-0	Head	604	Unavailable	555	0	0	None
-0	Head	605	Unavailable	556	0	0	None
-0	Head	606	Unavailable	557	0	0	None
-0	Head	607	Unavailable	558	0	0	None
-0	Head	608	Unavailable	559	0	0	None
-0	Head	609	Unavailable	560	0	0	None
-0	Head	610	Unavailable	561	0	0	None
-0	Head	611	Unavailable	562	0	0	None
-0	Head	612	Unavailable	563	0	0	None
-0	Head	613	Unavailable	564	0	0	None
-0	Head	614	Unavailable	565	0	0	None
-0	Head	615	Unavailable	566	0	0	None
-0	Head	616	Unavailable	567	0	0	None
-0	Head	617	Unavailable	568	0	0	None
-0	Head	618	Unavailable	569	0	0	None
-0	Head	619	Unavailable	570	0	0	None
-0	Head	620	Unavailable	571	0	0	None
-0	Head	621	Unavailable	572	0	0	None
-0	Head	622	Unavailable	573	0	0	None
-0	Head	623	Unavailable	574	0	0	None
+0	Head	595	Hełm warstwowy z Vespoida+	546	0	8	pl007_0001
+0	Head	596	Hełm warstwowy Hornetaura+	547	0	8	pl017_0001
+0	Head	597	Hełm warstwowy z Wulga+	548	0	8	pl102_0000
+0	Head	599	Hełm warstwowy z Jagrasa+	550	0	8	pl008_0001
+0	Head	600	Hełm warstwowy z Tzitzi+	551	0	8	pl023_0001
+0	Head	601	Hełm warstwowy z Girrosa+	552	0	8	pl022_0001
+0	Head	602	Hełm warstwowy Dodogamy+	553	0	8	pl039_0001
+0	Head	603	Hełm warstwowy Kulu+	554	0	8	pl009_0001
+0	Head	604	Hełm warstwowy z Pukei+	555	0	8	pl010_0001
+0	Head	605	Hełm warstw. z Kor. Pukei+	556	0	8	pl010_0101
+0	Head	606	Hełm warstw. z Barrotha+	557	0	8	pl012_0001
+0	Head	607	Hełm warstwowy z Jyura+	558	0	8	pl011_0001
+0	Head	608	Hełm warstwowy z Beo+	559	0	8	pl110_0000
+0	Head	609	Hełm warstwowy z Kadachi+	560	0	8	pl013_0001
+0	Head	610	Hełm wars. ze Żm. Kadachi+	561	0	8	pl013_0101
+0	Head	611	Hełm warstw. z Banbaro<ICON ALPHA>+	562	0	8	pl084_0000
+0	Head	612	Hełm warstw. z Banbaro<ICON BETA>+	563	0	8	pl084_0010
+0	Head	613	Hełm warstwowy z Anja<ICON ALPHA>+	564	0	8	pl020_0001
+0	Head	614	Hełm warstwowy z Anja<ICON BETA>+	565	0	8	pl020_0011
+0	Head	615	Hełm wars. Piorun. Anja<ICON ALPHA>+	566	0	10	pl020_0101
+0	Head	616	Hełm wars. Piorun. Anja<ICON BETA>+	567	0	10	pl020_0111
+0	Head	617	Hełm warstw. z Rathiany<ICON ALPHA>+	568	0	8	pl021_0001
+0	Head	618	Hełm warstw. z Rathiany<ICON BETA>+	569	0	8	pl021_0011
+0	Head	619	Hełm warstw. serca Ratha<ICON ALPHA>+	570	0	8	pl021_0101
+0	Head	620	Hełm warstw. serca Ratha<ICON BETA>+	571	0	8	pl021_0111
+0	Head	621	Hełm warstwowy Lumu+	572	0	8	pl024_0001
+0	Head	622	Hełm warstw. fant. z Lumu+	573	0	8	pl024_0101
+0	Head	623	Hełm warstwowy Radobaana+	574	0	8	pl028_0001
 0	Head	624	Hełm warstwowy z artianu	575	0	9	pl091_0000
-0	Head	625	Unavailable	674	0	0	None
-0	Head	626	Unavailable	576	0	0	None
-0	Head	627	Unavailable	577	0	0	None
-0	Head	628	Unavailable	578	0	0	None
-0	Head	629	Unavailable	579	0	0	None
-0	Head	630	Unavailable	580	0	0	None
-0	Head	631	Unavailable	581	0	0	None
-0	Head	632	Unavailable	582	0	0	None
-0	Head	633	Unavailable	583	0	0	None
-0	Head	634	Unavailable	584	0	0	None
-0	Head	635	Unavailable	585	0	0	None
-0	Head	636	Unavailable	586	0	0	None
-0	Head	637	Unavailable	587	0	0	None
-0	Head	638	Unavailable	588	0	0	None
-0	Head	639	Unavailable	589	0	0	None
-0	Head	640	Unavailable	590	0	0	None
-0	Head	641	Unavailable	591	0	0	None
-0	Head	642	Unavailable	592	0	0	None
-0	Head	643	Unavailable	593	0	0	None
-0	Head	644	Unavailable	594	0	0	None
-0	Head	645	Unavailable	595	0	0	None
-0	Head	646	Unavailable	596	0	0	None
-0	Head	647	Unavailable	597	0	0	None
-0	Head	648	Unavailable	598	0	0	None
-0	Head	649	Unavailable	599	0	0	None
-0	Head	650	Unavailable	600	0	0	None
-0	Head	651	Unavailable	601	0	0	None
-0	Head	652	Unavailable	602	0	0	None
-0	Head	653	Unavailable	603	0	0	None
-0	Head	654	Unavailable	604	0	0	None
-0	Head	655	Unavailable	605	0	0	None
-0	Head	656	Unavailable	606	0	0	None
-0	Head	657	Unavailable	607	0	0	None
+0	Head	625	Zegarowy<ICON BETA>+ hełm warstwowy	674	0	9	pl104_0010
+0	Head	626	Hełm warstw. z Bariotha<ICON ALPHA>+	576	0	9	pl089_0000
+0	Head	627	Hełm warstw. z Bariotha<ICON BETA>+	577	0	9	pl089_0010
+0	Head	628	Hełm warstw. z Rathalosa<ICON ALPHA>+	578	0	9	pl033_0001
+0	Head	629	Hełm warstw. z Rathalosa<ICON BETA>+	579	0	9	pl033_0011
+0	Head	630	Hełm warstw. duszy Ratha<ICON ALPHA>+	580	0	10	pl033_0101
+0	Head	631	Hełm warstw. duszy Ratha<ICON BETA>+	581	0	10	pl033_0111
+0	Head	632	Hełm warstw. z Diablosa<ICON ALPHA>+	582	0	9	pl034_0001
+0	Head	633	Hełm warstw. z Diablosa<ICON BETA>+	583	0	9	pl034_0011
+0	Head	634	Hełm war. Czarnej Diabli<ICON ALPHA>+	584	0	10	pl034_0101
+0	Head	635	Hełm war. Czarnej Diabli<ICON BETA>+	585	0	10	pl034_0111
+0	Head	636	Hełm warstwowy z Legii<ICON ALPHA>+	586	0	9	pl027_0001
+0	Head	637	Hełm warstwowy z Legii<ICON BETA>+	587	0	9	pl027_0011
+0	Head	638	Hełm warst. z wrz. Legii<ICON ALPHA>+	588	0	10	pl027_0500
+0	Head	639	Hełm warst. z wrz. Legii<ICON BETA>+	589	0	10	pl027_0510
+0	Head	640	Hełm warstw. z Odogarona<ICON ALPHA>+	590	0	9	pl029_0001
+0	Head	641	Hełm warstw. z Odogarona<ICON BETA>+	591	0	9	pl029_0011
+0	Head	642	Hełm warst. z Garona Śm.<ICON ALPHA>+	592	0	10	pl029_0101
+0	Head	643	Hełm warst. z Garona Śm.<ICON BETA>+	593	0	10	pl029_0111
+0	Head	644	Hełm warstw. Lavasiotha+	594	0	9	pl040_0001
+0	Head	645	Hełm warstwowy Uragaana+	595	0	9	pl041_0001
+0	Head	646	Hełm warstw. z Nargacuga<ICON ALPHA>+	596	0	9	pl080_0000
+0	Head	647	Hełm warstw. z Nargacuga<ICON BETA>+	597	0	9	pl080_0010
+0	Head	648	Hełm warstw. z Glavenusa<ICON ALPHA>+	598	0	9	pl081_0000
+0	Head	649	Hełm warstw. z Glavenusa<ICON BETA>+	599	0	9	pl081_0010
+0	Head	650	Hełm w. z Kw. Glavenusa<ICON ALPHA>+	600	0	10	pl081_0100
+0	Head	651	Hełm w. z Kw. Glavenusa<ICON BETA>+	601	0	10	pl081_0110
+0	Head	652	Hełm war. z Brachydiosa<ICON ALPHA>+	602	0	9	pl082_0000
+0	Head	653	Hełm war. z Brachydiosa<ICON BETA>+	603	0	9	pl082_0010
+0	Head	654	Hełm warstwowy z Tigrexa<ICON ALPHA>+	604	0	9	pl083_0000
+0	Head	655	Hełm warstwowy z Tigrexa<ICON BETA>+	605	0	9	pl083_0010
+0	Head	656	Hełm warstw. ryku<ICON ALPHA>+	606	0	10	pl083_0100
+0	Head	657	Hełm warstw. ryku<ICON BETA>+	607	0	10	pl083_0110
 0	Head	658	Hełm warstw. czarn. pasa	608	0	10	pl093_0000
-0	Head	659	Unavailable	609	0	0	None
-0	Head	660	Unavailable	610	0	0	None
-0	Head	661	Unavailable	611	0	0	None
-0	Head	662	Unavailable	612	0	0	None
-0	Head	663	Unavailable	613	0	0	None
-0	Head	664	Unavailable	614	0	0	None
-0	Head	665	Unavailable	615	0	0	None
-0	Head	666	Unavailable	616	0	0	None
-0	Head	667	Unavailable	617	0	0	None
-0	Head	668	Unavailable	618	0	0	None
-0	Head	669	Unavailable	619	0	0	None
-0	Head	670	Unavailable	620	0	0	None
-0	Head	671	Unavailable	621	0	0	None
-0	Head	672	Unavailable	622	0	0	None
-0	Head	673	Unavailable	623	0	0	None
-0	Head	674	Unavailable	624	0	0	None
-0	Head	675	Unavailable	625	0	0	None
+0	Head	659	Hełm warstw. dumy<ICON ALPHA>+	609	0	10	pl042_0500
+0	Head	660	Hełm warstw. dumy<ICON BETA>+	610	0	10	pl042_0510
+0	Head	661	Hełm warstw. żądzy<ICON ALPHA>+	611	0	10	pl050_0500
+0	Head	662	Hełm warstw. żądzy<ICON BETA>+	612	0	10	pl050_0510
+0	Head	663	Szronowy hełm warstw.<ICON ALPHA>+	613	0	11	pl085_0000
+0	Head	664	Szronowy hełm warstw.<ICON BETA>+	614	0	11	pl085_0010
+0	Head	665	Hełm warstw. całunu<ICON ALPHA>+	615	0	11	pl032_0500
+0	Head	666	Hełm warstw. całunu<ICON BETA>+	616	0	11	pl032_0510
+0	Head	667	Hełm warstw. z Teostry<ICON ALPHA>+	617	0	11	pl046_0001
+0	Head	668	Hełm warstw. z Teostry<ICON BETA>+	618	0	11	pl046_0011
+0	Head	669	Hełm warstw. Kushali<ICON ALPHA>+	619	0	11	pl047_0001
+0	Head	670	Hełm warstw. Kushali<ICON BETA>+	620	0	11	pl047_0011
+0	Head	671	Hełm warstw. Kirina<ICON ALPHA>+	621	0	11	pl035_0001
+0	Head	672	Hełm warstw. Kirina<ICON BETA>+	622	0	11	pl035_0011
+0	Head	673	Hełm warstw. z macek<ICON ALPHA>+	623	0	11	pl086_0000
+0	Head	674	Hełm warstw. z macek<ICON BETA>+	624	0	11	pl086_0010
+0	Head	675	Hełm warst. pałacu Gildii+	625	0	10	pl094_0000
 0	Head	676	Kolczyki warstw. akrobaty	626	0	10	pl095_0000
 0	Head	677	Kolczyki warstw. showmana	627	0	11	pl095_0010
-0	Head	678	Unavailable	628	0	0	None
-0	Head	679	Unavailable	629	0	0	None
-0	Head	680	Unavailable	630	0	0	None
-0	Head	681	Unavailable	631	0	0	None
-0	Head	682	Unavailable	632	0	0	None
-0	Head	683	Unavailable	633	0	0	None
-0	Head	684	Unavailable	634	0	0	None
-0	Head	685	Unavailable	635	0	0	None
-0	Head	686	Unavailable	636	0	0	None
-0	Head	687	Unavailable	637	0	0	None
-0	Head	688	Unavailable	638	0	0	None
-0	Head	689	Unavailable	639	0	0	None
-0	Head	690	Unavailable	640	0	0	None
-0	Head	691	Unavailable	641	0	0	None
-0	Head	692	Unavailable	642	0	0	None
-0	Head	693	Unavailable	643	0	0	None
-0	Head	694	Unavailable	644	0	0	None
-0	Head	695	Unavailable	645	0	0	None
-0	Head	696	Unavailable	646	0	0	None
-0	Head	697	Unavailable	647	0	0	None
-0	Head	698	Unavailable	648	0	0	None
-0	Head	699	Unavailable	649	0	0	None
-0	Head	700	Unavailable	650	0	0	None
-0	Head	701	Unavailable	651	0	0	None
-0	Head	702	Unavailable	652	0	0	None
-0	Head	703	Unavailable	653	0	0	None
-0	Head	704	Unavailable	654	0	0	None
-0	Head	705	Unavailable	655	0	0	None
-0	Head	706	Unavailable	656	0	0	None
-0	Head	707	Unavailable	657	0	0	None
-0	Head	708	Unavailable	658	0	0	None
-0	Head	709	Unavailable	659	0	0	None
-0	Head	710	Unavailable	660	0	0	None
-0	Head	711	Unavailable	661	0	0	None
-0	Head	712	Unavailable	662	0	0	None
-0	Head	713	Unavailable	663	0	0	None
-0	Head	714	Unavailable	664	0	0	None
-0	Head	716	Unavailable	666	0	0	None
+0	Head	678	Hełm warstwowy Shara<ICON ALPHA>+	628	0	11	pl088_0000
+0	Head	679	Hełm warstwowy Shara<ICON BETA>+	629	0	11	pl088_0010
+0	Head	680	Hełm warstw. z Garugi<ICON ALPHA>+	630	0	10	pl108_0000
+0	Head	681	Hełm warstw. z Garugi<ICON BETA>+	631	0	10	pl108_0010
+0	Head	682	Hełm warstw. z Zinogra<ICON ALPHA>+	632	0	10	pl107_0000
+0	Head	683	Hełm warstw. z Zinogra<ICON BETA>+	633	0	10	pl107_0010
+0	Head	684	Hełm war. złot. księż.<ICON ALPHA>+	634	0	11	pl021_0200
+0	Head	685	Hełm war. złot. księż.<ICON BETA>+	635	0	11	pl021_0210
+0	Head	686	Hełm war. sreb. słońca<ICON ALPHA>+	636	0	11	pl033_0200
+0	Head	687	Hełm war. sreb. słońca<ICON BETA>+	637	0	11	pl033_0210
+0	Head	688	Hełm warstw. z Lunastry<ICON ALPHA>+	638	0	11	pl051_0001
+0	Head	689	Hełm warstw. z Lunastry<ICON BETA>+	639	0	11	pl051_0011
+0	Head	690	Niszczyc. hełm warstw.<ICON ALPHA>+	640	0	11	pl030_0500
+0	Head	691	Niszczyc. hełm warstw.<ICON BETA>+	641	0	11	pl030_0510
+0	Head	692	Hełm warstwowy Gildii+	642	0	11	pl092_0000
+0	Head	693	Hełm warstw. Rajanga<ICON ALPHA>+	643	0	10	pl109_0000
+0	Head	694	Hełm warstw. Rajanga<ICON BETA>+	644	0	10	pl109_0010
+0	Head	695	Stygijski hełm warstw.<ICON ALPHA>+	645	0	10	pl107_0100
+0	Head	696	Stygijski hełm warstw.<ICON BETA>+	646	0	10	pl107_0110
+0	Head	697	Hełm warstwowy Safi<ICON ALPHA>+	647	0	11	pl087_0000
+0	Head	698	Hełm warstwowy Safi<ICON BETA>+	648	0	11	pl087_0010
+0	Head	699	Hełm war. Wściek. Raj.<ICON ALPHA>+	649	0	11	pl109_0500
+0	Head	700	Hełm war. Wściek. Raj.<ICON BETA>+	650	0	11	pl109_0510
+0	Head	701	Brachydyjski hełm war.<ICON ALPHA>+	651	0	11	pl082_0500
+0	Head	702	Brachydyjski hełm war.<ICON BETA>+	652	0	11	pl082_0510
+0	Head	703	Hełm warst. z Mrozokła<ICON ALPHA>+	653	0	10	pl089_0500
+0	Head	704	Hełm warst. z Mrozokła<ICON BETA>+	654	0	10	pl089_0510
+0	Head	705	Hełm warstw. głodu<ICON ALPHA>+	655	0	11	pl052_0000
+0	Head	706	Hełm warstw. głodu<ICON BETA>+	656	0	11	pl052_0010
+0	Head	707	Smoczy hełm warstw.<ICON ALPHA>+	657	0	11	pl129_0000
+0	Head	708	Smoczy hełm warstw.<ICON BETA>+	658	0	11	pl129_0010
+0	Head	709	Hełm warstw. Kulve<ICON ALPHA>+	659	0	11	pl049_0001
+0	Head	710	Hełm warstw. Kulve<ICON BETA>+	660	0	11	pl049_0011
+0	Head	711	Hełm war. z tk. zap. smoka	661	0	11	pl100_0000
+0	Head	712	Hełm warstw. z wiw. uszu	662	0	8	pl101_0000
+0	Head	713	Hełm warstw. z pingw. baj.	663	0	8	pl098_0000
+0	Head	714	Perłowy hełm warstwowy	664	0	8	pl113_0000
+0	Head	716	Hełm warstw. Lazur. Ery	666	0	11	pl072_0001
 0	Head	717	Unavailable	667	0	0	None
-0	Head	718	Unavailable	668	0	0	None
-0	Head	719	Unavailable	669	0	0	None
-0	Head	720	Unavailable	670	0	0	None
+0	Head	718	HARDUMMY	668	0	11	pl068_0020
+0	Head	719	Szronowy hełm warstw.<ICON GAMMA>+	669	0	11	pl085_0020
+0	Head	720	Hełm warstw. z macek<ICON GAMMA>+	670	0	11	pl086_0020
 0	Head	721	Unavailable	671	0	0	None
 0	Head	725	Unavailable	676	0	0	None
 0	Head	726	Unavailable	677	0	0	None
@@ -805,8 +805,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	155	Nap. warst. stroju gal.	153	0	3	pl078_0000
 1	Body	156	Unavailable	158	2	0	pl001_0000
 1	Body	299	HARDUMMY	154	0	7	pl068_0000
-1	Body	291	HARDUMMY	155	0	7	pl069_0000
-1	Body	292	HARDUMMY	156	0	7	pl070_0000
+1	Body	291	Nap. warst. Ryu	155	0	7	pl069_0000
+1	Body	292	Nap. warstwowy Sakury	156	0	7	pl070_0000
 1	Body	144	Unavailable	157	2	0	pl001_0000
 1	Body	297	Napierśnik war. Bayeka	159	0	7	pl120_0000
 1	Body	158	Unavailable	160	2	0	pl001_0000
@@ -847,9 +847,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	223	Skóra Zoraha<ICON GAMMA>	213	72	7	pl038_0020
 1	Body	224	Skóra Xeno'jiiva<ICON GAMMA>	214	72	7	pl045_0020
 1	Body	225	HARDUMMY	215	46	4	pl068_0000
-1	Body	226	HARDUMMY	216	12	1	pl069_0000
-1	Body	227	HARDUMMY	217	60	6	pl069_0000
-1	Body	228	HARDUMMY	218	50	5	pl070_0000
+1	Body	226	Strój karateki Ryu	216	12	1	pl069_0000
+1	Body	227	Strój karateki Ryu<ICON ALPHA>	217	60	6	pl069_0000
+1	Body	228	Strój roboczy Sakury<ICON ALPHA>	218	50	5	pl070_0000
 1	Body	229	Pancerz Lazurowego Pana<ICON ALPHA>	219	56	6	pl072_0000
 1	Body	230	Płaszcz Dantego<ICON ALPHA>	220	64	7	pl071_0000
 1	Body	231	Zbroja Luny<ICON ALPHA>	221	70	7	pl051_0000
@@ -996,7 +996,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	443	Kubrak z Kirina<ICON BETA>+	393	154	11	pl035_0011
 1	Body	444	Zbroja z macek<ICON ALPHA>+	394	158	11	pl086_0000
 1	Body	445	Zbroja z macek<ICON BETA>+	395	158	11	pl086_0010
-1	Body	446	Unavailable	396	0	0	None
+1	Body	446	Zegarowy<ICON ALPHA>+ napierś. wars.	396	0	9	pl104_0000
 1	Body	447	Napierśnik war. z Barrotha	397	0	4	pl012_0000
 1	Body	448	Zbroja pałacu Gildii<ICON ALPHA>+	398	154	10	pl094_0000
 1	Body	449	Zbroja pałacu Gildii<ICON BETA>+	399	154	10	pl094_0000
@@ -1044,7 +1044,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	497	Napierśnik warstw. z Lumu	447	0	4	pl024_0000
 1	Body	498	Żarliwe ciało<ICON ALPHA>+	448	156	9	pl125_0000
 1	Body	499	Napierś. war. z Rathiany<ICON ALPHA>	449	0	4	pl021_0000
-1	Body	500	Unavailable	450	0	0	None
+1	Body	500	Płaszcz władcy demon.<ICON ALPHA>+	450	162	10	pl126_0000
 1	Body	501	Napierś. war. z Rathiany<ICON BETA>	451	0	4	pl021_0010
 1	Body	502	Kamizela ulung<ICON ALPHA>+	452	120	8	pl127_0000
 1	Body	503	Napier. war. z Radobaana<ICON ALPHA>	453	0	5	pl028_0000
@@ -1052,7 +1052,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	505	Napier. war. z Radobaana<ICON BETA>	455	0	5	pl028_0010
 1	Body	506	Różany napierśnik warst.	456	0	9	pl124_0000
 1	Body	507	Żarliwy napierś. warstwowy	457	0	9	pl125_0000
-1	Body	508	Unavailable	458	0	0	None
+1	Body	508	Napier. war. władcy demon.	458	0	10	pl126_0000
 1	Body	509	Napierśnik warstw. ulung	459	0	8	pl127_0000
 1	Body	510	Gwiezdny napierśnik warst.	460	0	8	pl128_0000
 1	Body	511	Napierśnik warst. z metalu	461	0	5	pl025_0000
@@ -1065,19 +1065,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	522	Napierśnik war. Srebrnego Rycerza	472	0	6	pl123_0000
 1	Body	523	HARDUMMY	473	132	11	pl068_0010
 1	Body	524	Zbroja z macek<ICON GAMMA>+	474	176	11	pl086_0020
-1	Body	525	HARDUMMY	475	0	7	pl072_0000
-1	Body	526	HARDUMMY	476	170	11	pl072_0001
-1	Body	527	Unavailable	477	0	0	None
+1	Body	525	Nap. war. Pana Lazur. Gw.	475	0	7	pl072_0000
+1	Body	526	Haori Lazurowej Ery<ICON ALPHA>+	476	170	11	pl072_0001
+1	Body	527	Szronowa zbroja<ICON GAMMA>+	477	180	11	pl085_0020
 1	Body	528	Zbroja z Mrozokła<ICON ALPHA>+	478	162	10	pl089_0500
 1	Body	529	Zbroja z Mrozokła<ICON BETA>+	479	162	10	pl089_0510
-1	Body	530	Unavailable	480	0	0	None
-1	Body	531	Unavailable	481	0	0	None
+1	Body	530	Smocza skóra<ICON ALPHA>+	480	180	11	pl129_0000
+1	Body	531	Smocza skóra<ICON BETA>+	481	180	11	pl129_0010
 1	Body	532	HARDUMMY	482	160	11	pl068_0020
 1	Body	533	Unavailable	483	0	0	None
 1	Body	534	Ciało Leona <ICON ALPHA>+	484	150	11	pl130_0000
 1	Body	535	Ciało Claire <ICON ALPHA>+	485	150	11	pl131_0000
-1	Body	536	Unavailable	486	0	0	None
-1	Body	537	Unavailable	487	0	0	None
+1	Body	536	Nap. warstwowy Leona+	486	0	11	pl130_0000
+1	Body	537	Nap. warst. Claire+	487	0	11	pl131_0000
 1	Body	539	Napierśnik warstw. Barnosa	489	0	4	pl016_0000
 1	Body	540	Napierśnik warst. Dodogamy	490	0	4	pl039_0000
 1	Body	541	Napierśnik warstw. sztabek	491	0	5	pl031_0000
@@ -1134,127 +1134,127 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	592	Napierśnik warstw. Kulve<ICON ALPHA>	542	0	7	pl049_0000
 1	Body	593	Napierśnik warstw. Kulve<ICON BETA>	543	0	7	pl049_0010
 1	Body	594	Napierśnik warstw. Kulve<ICON GAMMA>	544	0	7	pl049_0020
-1	Body	595	Unavailable	546	0	0	None
-1	Body	596	Unavailable	547	0	0	None
-1	Body	598	Unavailable	549	0	0	None
-1	Body	599	Unavailable	550	0	0	None
-1	Body	600	Unavailable	551	0	0	None
-1	Body	601	Unavailable	552	0	0	None
-1	Body	602	Unavailable	553	0	0	None
-1	Body	603	Unavailable	554	0	0	None
-1	Body	604	Unavailable	555	0	0	None
-1	Body	605	Unavailable	556	0	0	None
-1	Body	606	Unavailable	557	0	0	None
-1	Body	607	Unavailable	558	0	0	None
-1	Body	608	Unavailable	559	0	0	None
-1	Body	609	Unavailable	560	0	0	None
-1	Body	610	Unavailable	561	0	0	None
-1	Body	611	Unavailable	562	0	0	None
-1	Body	612	Unavailable	563	0	0	None
-1	Body	613	Unavailable	564	0	0	None
-1	Body	614	Unavailable	565	0	0	None
-1	Body	615	Unavailable	566	0	0	None
-1	Body	616	Unavailable	567	0	0	None
-1	Body	617	Unavailable	568	0	0	None
-1	Body	618	Unavailable	569	0	0	None
-1	Body	619	Unavailable	570	0	0	None
-1	Body	620	Unavailable	571	0	0	None
-1	Body	621	Unavailable	572	0	0	None
-1	Body	622	Unavailable	573	0	0	None
-1	Body	623	Unavailable	574	0	0	None
+1	Body	595	Napierśn. war. z Vespoida+	546	0	8	pl007_0001
+1	Body	596	Napierś. w. z Hornetaura+	547	0	8	pl017_0001
+1	Body	598	Nap. warstwowy z Cortosa+	549	0	8	pl103_0000
+1	Body	599	Napierśnik war. z Jagrasa+	550	0	8	pl008_0001
+1	Body	600	Napierśnik wars. z Tzitzi+	551	0	8	pl023_0001
+1	Body	601	Napierśnik war. z Girrosa+	552	0	8	pl022_0001
+1	Body	602	Napierśnik wars. Dodogamy+	553	0	8	pl039_0001
+1	Body	603	Napierśnik warstw. z Kulu+	554	0	8	pl009_0001
+1	Body	604	Napierśnik wars. z Pukei+	555	0	8	pl010_0001
+1	Body	605	Napierś. wars. z K. Pukei+	556	0	8	pl010_0101
+1	Body	606	Napierśn. war. z Barrotha+	557	0	8	pl012_0001
+1	Body	607	Napierśnik wars. z Jyura+	558	0	8	pl011_0001
+1	Body	608	Nap. warstwowy z Beo+	559	0	8	pl110_0000
+1	Body	609	Napierśnik war. z Kadachi+	560	0	8	pl013_0001
+1	Body	610	Napier. w. ze Żm. Kadachi+	561	0	8	pl013_0101
+1	Body	611	Napierś. wars. z Banbaro<ICON ALPHA>+	562	0	8	pl084_0000
+1	Body	612	Napierś. wars. z Banbaro<ICON BETA>+	563	0	8	pl084_0010
+1	Body	613	Napierśnik wars. z Anja<ICON ALPHA>+	564	0	8	pl020_0001
+1	Body	614	Napierśnik wars. z Anja<ICON BETA>+	565	0	8	pl020_0011
+1	Body	615	Napierś. w. z Pior. Anja<ICON ALPHA>+	566	0	10	pl020_0101
+1	Body	616	Napierś. w. z Pior. Anja<ICON BETA>+	567	0	10	pl020_0111
+1	Body	617	Napierś. war. z Rathiany<ICON ALPHA>+	568	0	8	pl021_0001
+1	Body	618	Napierś. war. z Rathiany<ICON BETA>+	569	0	8	pl021_0011
+1	Body	619	Nap. warstw. serca Ratha<ICON ALPHA>+	570	0	8	pl021_0101
+1	Body	620	Nap. warstw. serca Ratha<ICON BETA>+	571	0	8	pl021_0111
+1	Body	621	Napierśnik warstw z Lumu+	572	0	8	pl024_0001
+1	Body	622	Napier. war. fant. z Lumu+	573	0	8	pl024_0101
+1	Body	623	Napier. war. z Radobaana+	574	0	8	pl028_0001
 1	Body	624	Nap. warstwowy z artianu	575	0	9	pl091_0000
-1	Body	625	Unavailable	674	0	0	None
-1	Body	626	Unavailable	576	0	0	None
-1	Body	627	Unavailable	577	0	0	None
-1	Body	628	Unavailable	578	0	0	None
-1	Body	629	Unavailable	579	0	0	None
-1	Body	630	Unavailable	580	0	0	None
-1	Body	631	Unavailable	581	0	0	None
-1	Body	632	Unavailable	582	0	0	None
-1	Body	633	Unavailable	583	0	0	None
-1	Body	634	Unavailable	584	0	0	None
-1	Body	635	Unavailable	585	0	0	None
-1	Body	636	Unavailable	586	0	0	None
-1	Body	637	Unavailable	587	0	0	None
-1	Body	638	Unavailable	588	0	0	None
-1	Body	639	Unavailable	589	0	0	None
-1	Body	640	Unavailable	590	0	0	None
-1	Body	641	Unavailable	591	0	0	None
-1	Body	642	Unavailable	592	0	0	None
-1	Body	643	Unavailable	593	0	0	None
-1	Body	644	Unavailable	594	0	0	None
-1	Body	645	Unavailable	595	0	0	None
-1	Body	646	Unavailable	596	0	0	None
-1	Body	647	Unavailable	597	0	0	None
-1	Body	648	Unavailable	598	0	0	None
-1	Body	649	Unavailable	599	0	0	None
-1	Body	650	Unavailable	600	0	0	None
-1	Body	651	Unavailable	601	0	0	None
-1	Body	652	Unavailable	602	0	0	None
-1	Body	653	Unavailable	603	0	0	None
-1	Body	654	Unavailable	604	0	0	None
-1	Body	655	Unavailable	605	0	0	None
-1	Body	656	Unavailable	606	0	0	None
-1	Body	657	Unavailable	607	0	0	None
+1	Body	625	Zegarowy<ICON BETA>+ napierś. wars.	674	0	9	pl104_0000
+1	Body	626	Napierś. war. z Bariotha<ICON ALPHA>+	576	0	9	pl089_0000
+1	Body	627	Napierś. war. z Bariotha<ICON BETA>+	577	0	9	pl089_0010
+1	Body	628	Napierś. w. z Rathalosa<ICON ALPHA>+	578	0	9	pl033_0001
+1	Body	629	Napierś. w. z Rathalosa<ICON BETA>+	579	0	9	pl033_0011
+1	Body	630	Nap. warstw. duszy Ratha<ICON ALPHA>+	580	0	10	pl033_0101
+1	Body	631	Nap. warstw. duszy Ratha<ICON BETA>+	581	0	10	pl033_0111
+1	Body	632	Napierś. war. z Diablosa<ICON ALPHA>+	582	0	9	pl034_0001
+1	Body	633	Napierś. war. z Diablosa<ICON BETA>+	583	0	9	pl034_0011
+1	Body	634	Nap. war. Czarnej Diabli<ICON ALPHA>+	584	0	10	pl034_0101
+1	Body	635	Nap. war. Czarnej Diabli<ICON BETA>+	585	0	10	pl034_0111
+1	Body	636	Napierśnik wars. z Legii<ICON ALPHA>+	586	0	9	pl027_0001
+1	Body	637	Napierśnik wars. z Legii<ICON BETA>+	587	0	9	pl027_0011
+1	Body	638	Nap. warst. z wrz. Legii<ICON ALPHA>+	588	0	10	pl027_0500
+1	Body	639	Nap. warst. z wrz. Legii<ICON BETA>+	589	0	10	pl027_0510
+1	Body	640	Nap. warstw. z Odogarona<ICON ALPHA>+	590	0	9	pl029_0001
+1	Body	641	Nap. warstw. z Odogarona<ICON BETA>+	591	0	9	pl029_0011
+1	Body	642	Nap. warst. z Garona Śm.<ICON ALPHA>+	592	0	10	pl029_0101
+1	Body	643	Nap. warst. z Garona Śm.<ICON BETA>+	593	0	10	pl029_0111
+1	Body	644	Napierś. war. Lavasiotha+	594	0	9	pl040_0001
+1	Body	645	Napierśnik war. Uragaana+	595	0	9	pl041_0001
+1	Body	646	Napier. war. z Nargacuga<ICON ALPHA>+	596	0	9	pl080_0000
+1	Body	647	Napier. war. z Nargacuga<ICON BETA>+	597	0	9	pl080_0010
+1	Body	648	Napier. war. z Glavenusa<ICON ALPHA>+	598	0	9	pl081_0000
+1	Body	649	Napier. war. z Glavenusa<ICON BETA>+	599	0	9	pl081_0010
+1	Body	650	Napier. w. z Kw. Glaven.<ICON ALPHA>+	600	0	10	pl081_0100
+1	Body	651	Napier. w. z Kw. Glaven.<ICON BETA>+	601	0	10	pl081_0110
+1	Body	652	Napierś. war. z Brachyd.<ICON ALPHA>+	602	0	9	pl082_0000
+1	Body	653	Napierś. war. z Brachyd.<ICON BETA>+	603	0	9	pl082_0010
+1	Body	654	Napierś. wars. z Tigrexa<ICON ALPHA>+	604	0	9	pl083_0000
+1	Body	655	Napierś. wars. z Tigrexa<ICON BETA>+	605	0	9	pl083_0010
+1	Body	656	Napierśnik warst. ryku<ICON ALPHA>+	606	0	10	pl083_0100
+1	Body	657	Napierśnik warst. ryku<ICON BETA>+	607	0	10	pl083_0110
 1	Body	658	Nap. warstw. czarn. pasa	608	0	10	pl093_0000
-1	Body	659	Unavailable	609	0	0	None
-1	Body	660	Unavailable	610	0	0	None
-1	Body	661	Unavailable	611	0	0	None
-1	Body	662	Unavailable	612	0	0	None
-1	Body	663	Unavailable	613	0	0	None
-1	Body	664	Unavailable	614	0	0	None
-1	Body	665	Unavailable	615	0	0	None
-1	Body	666	Unavailable	616	0	0	None
-1	Body	667	Unavailable	617	0	0	None
-1	Body	668	Unavailable	618	0	0	None
-1	Body	669	Unavailable	619	0	0	None
-1	Body	670	Unavailable	620	0	0	None
-1	Body	671	Unavailable	621	0	0	None
-1	Body	672	Unavailable	622	0	0	None
-1	Body	673	Unavailable	623	0	0	None
-1	Body	674	Unavailable	624	0	0	None
-1	Body	675	Unavailable	625	0	0	None
-1	Body	678	Unavailable	628	0	0	None
-1	Body	679	Unavailable	629	0	0	None
-1	Body	680	Unavailable	630	0	0	None
-1	Body	681	Unavailable	631	0	0	None
-1	Body	682	Unavailable	632	0	0	None
-1	Body	683	Unavailable	633	0	0	None
-1	Body	684	Unavailable	634	0	0	None
-1	Body	685	Unavailable	635	0	0	None
-1	Body	686	Unavailable	636	0	0	None
-1	Body	687	Unavailable	637	0	0	None
-1	Body	688	Unavailable	638	0	0	None
-1	Body	689	Unavailable	639	0	0	None
-1	Body	690	Unavailable	640	0	0	None
-1	Body	691	Unavailable	641	0	0	None
-1	Body	692	Unavailable	642	0	0	None
-1	Body	693	Unavailable	643	0	0	None
-1	Body	694	Unavailable	644	0	0	None
-1	Body	695	Unavailable	645	0	0	None
-1	Body	696	Unavailable	646	0	0	None
-1	Body	697	Unavailable	647	0	0	None
-1	Body	698	Unavailable	648	0	0	None
-1	Body	699	Unavailable	649	0	0	None
-1	Body	700	Unavailable	650	0	0	None
-1	Body	701	Unavailable	651	0	0	None
-1	Body	702	Unavailable	652	0	0	None
-1	Body	703	Unavailable	653	0	0	None
-1	Body	704	Unavailable	654	0	0	None
-1	Body	705	Unavailable	655	0	0	None
-1	Body	706	Unavailable	656	0	0	None
-1	Body	707	Unavailable	657	0	0	None
-1	Body	708	Unavailable	658	0	0	None
-1	Body	709	Unavailable	659	0	0	None
-1	Body	710	Unavailable	660	0	0	None
-1	Body	715	Unavailable	665	0	0	None
-1	Body	716	Unavailable	666	0	0	None
+1	Body	659	Napierśnik warst. dumy<ICON ALPHA>+	609	0	10	pl042_0500
+1	Body	660	Napierśnik warst. dumy<ICON BETA>+	610	0	10	pl042_0510
+1	Body	661	Napierśnik warst. żądzy<ICON ALPHA>+	611	0	10	pl050_0500
+1	Body	662	Napierśnik warst. żądzy<ICON BETA>+	612	0	10	pl050_0510
+1	Body	663	Szronowy napierś. warst.<ICON ALPHA>+	613	0	11	pl085_0000
+1	Body	664	Szronowy napierś. warst.<ICON BETA>+	614	0	11	pl085_0010
+1	Body	665	Napierś. warst. całunu<ICON ALPHA>+	615	0	11	pl032_0500
+1	Body	666	Napierś. warst. całunu<ICON BETA>+	616	0	11	pl032_0510
+1	Body	667	Napierś. war. z Teostry<ICON ALPHA>+	617	0	11	pl046_0001
+1	Body	668	Napierś. war. z Teostry<ICON BETA>+	618	0	11	pl046_0011
+1	Body	669	Napierś. war. Kushali<ICON ALPHA>+	619	0	11	pl047_0001
+1	Body	670	Napierś. war. Kushali<ICON BETA>+	620	0	11	pl047_0011
+1	Body	671	Napierś. warstw. Kirina<ICON ALPHA>+	621	0	11	pl035_0001
+1	Body	672	Napierś. warstw. Kirina<ICON BETA>+	622	0	11	pl035_0011
+1	Body	673	Napierś. wars. z macek<ICON ALPHA>+	623	0	11	pl086_0000
+1	Body	674	Napierś. wars. z macek<ICON BETA>+	624	0	11	pl086_0010
+1	Body	675	Napierś. war. pał. Gildii+	625	0	10	pl094_0000
+1	Body	678	Napierś. warstw. Shara<ICON ALPHA>+	628	0	11	pl088_0000
+1	Body	679	Napierś. warstw. Shara<ICON BETA>+	629	0	11	pl088_0010
+1	Body	680	Napierś. war. z Garugi<ICON ALPHA>+	630	0	10	pl108_0000
+1	Body	681	Napierś. war. z Garugi<ICON BETA>+	631	0	10	pl108_0010
+1	Body	682	Napierś. war. z Zinogra<ICON ALPHA>+	632	0	10	pl107_0000
+1	Body	683	Napierś. war. z Zinogra<ICON BETA>+	633	0	10	pl107_0010
+1	Body	684	Nap. war. złot. księż.<ICON ALPHA>+	634	0	11	pl021_0200
+1	Body	685	Nap. war. złot. księż.<ICON BETA>+	635	0	11	pl021_0210
+1	Body	686	Nap. war. sreb. słońca<ICON ALPHA>+	636	0	11	pl033_0200
+1	Body	687	Nap. war. sreb. słońca<ICON BETA>+	637	0	11	pl033_0210
+1	Body	688	Napier. war. z Lunastry<ICON ALPHA>+	638	0	11	pl051_0001
+1	Body	689	Napier. war. z Lunastry<ICON BETA>+	639	0	11	pl051_0011
+1	Body	690	Niszczyc. napier. war.<ICON ALPHA>+	640	0	11	pl030_0500
+1	Body	691	Niszczyc. napier. war.<ICON BETA>+	641	0	11	pl030_0510
+1	Body	692	Napierś. warstwowy Gildii+	642	0	11	pl092_0000
+1	Body	693	Napierś. war. Rajanga<ICON ALPHA>+	643	0	10	pl109_0000
+1	Body	694	Napierś. war. Rajanga<ICON BETA>+	644	0	10	pl109_0010
+1	Body	695	Stygijski napier. war.<ICON ALPHA>+	645	0	10	pl107_0100
+1	Body	696	Stygijski napier. war.<ICON BETA>+	646	0	10	pl107_0110
+1	Body	697	Napierśnik warstw. Safi<ICON ALPHA>+	647	0	11	pl087_0000
+1	Body	698	Napierśnik warstw. Safi<ICON BETA>+	648	0	11	pl087_0010
+1	Body	699	Nap. war. Wściek. Raj.<ICON ALPHA>+	649	0	11	pl109_0500
+1	Body	700	Nap. war. Wściek. Raj.<ICON BETA>+	650	0	11	pl109_0510
+1	Body	701	Brachyd. napierś. war.<ICON ALPHA>+	651	0	11	pl082_0500
+1	Body	702	Brachyd. napierś. war.<ICON BETA>+	652	0	11	pl082_0510
+1	Body	703	Napier. war. z Mrozokła<ICON ALPHA>+	653	0	10	pl089_0500
+1	Body	704	Napier. war. z Mrozokła<ICON BETA>+	654	0	10	pl089_0510
+1	Body	705	Napier. warstw. głodu<ICON ALPHA>+	655	0	11	pl052_0000
+1	Body	706	Napier. warstw. głodu<ICON BETA>+	656	0	11	pl052_0010
+1	Body	707	Smoczy napierś. warst.<ICON ALPHA>+	657	0	11	pl129_0000
+1	Body	708	Smoczy napierś. warst.<ICON BETA>+	658	0	11	pl129_0010
+1	Body	709	Napier. warstw. Kulve<ICON ALPHA>+	659	0	11	pl049_0001
+1	Body	710	Napier. warstw. Kulve<ICON BETA>+	660	0	11	pl049_0011
+1	Body	715	Napierś. w. niez. rzeźby<ICON ALPHA>+	665	0	10	pl115_0000
+1	Body	716	Napierś. warst. Lazur. Ery	666	0	11	pl072_0001
 1	Body	717	Unavailable	667	0	0	None
-1	Body	718	Unavailable	668	0	0	None
-1	Body	719	Unavailable	669	0	0	None
-1	Body	720	Unavailable	670	0	0	None
+1	Body	718	HARDUMMY	668	0	11	pl068_0020
+1	Body	719	Szronowy napierś. warst.<ICON GAMMA>+	669	0	11	pl085_0020
+1	Body	720	Napierś. wars. z macek<ICON GAMMA>+	670	0	11	pl086_0020
 1	Body	721	Unavailable	671	0	0	None
-1	Body	722	Unavailable	672	0	0	None
+1	Body	722	Napier. w. niez. rzeźby<ICON GAMMA>+	672	0	11	pl115_0001
 1	Body	723	Bieliźniany<ICON ALPHA>korp. warstw.	673	0	11	pl500_0000
 1	Body	724	Bieliźniany<ICON BETA>korp. warstw.	675	0	11	pl501_0000
 1	Body	725	Unavailable	676	0	0	None
@@ -1420,8 +1420,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	146	Naram. warstwowy Oriona	150	0	3	pl077_0000
 2	Arm	153	Ram. warst. stroju gal.	153	0	3	pl078_0000
 2	Arm	299	HARDUMMY	154	0	7	pl068_0000
-2	Arm	291	HARDUMMY	155	0	7	pl069_0000
-2	Arm	292	HARDUMMY	156	0	7	pl070_0000
+2	Arm	291	Nar. warst. Ryu	155	0	7	pl069_0000
+2	Arm	292	Naram. warstwowy Sakury	156	0	7	pl070_0000
 2	Arm	141	Unavailable	177	2	0	pl001_0000
 2	Arm	142	Unavailable	179	2	0	pl001_0000
 2	Arm	143	Unavailable	180	2	0	pl001_0000
@@ -1465,9 +1465,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	223	Pazury Zoraha<ICON GAMMA>	213	72	7	pl038_0020
 2	Arm	224	Pazury Xeno'jiiva<ICON GAMMA>	214	72	7	pl045_0020
 2	Arm	225	HARDUMMY	215	46	4	pl068_0000
-2	Arm	226	HARDUMMY	216	12	1	pl069_0000
-2	Arm	227	HARDUMMY	217	60	6	pl069_0000
-2	Arm	228	HARDUMMY	218	50	5	pl070_0000
+2	Arm	226	Ramiona Ryu	216	12	1	pl069_0000
+2	Arm	227	Ramiona Ryu<ICON ALPHA>	217	60	6	pl069_0000
+2	Arm	228	Ramiona Sakury<ICON ALPHA>	218	50	5	pl070_0000
 2	Arm	229	Rękawice Lazurowego Pana<ICON ALPHA>	219	56	6	pl072_0000
 2	Arm	230	Rękawice Dantego<ICON ALPHA>	220	64	7	pl071_0000
 2	Arm	231	Zarękawia Luny<ICON ALPHA>	221	70	7	pl051_0000
@@ -1613,7 +1613,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	443	Zarękawia z Kirina<ICON BETA>+	393	154	11	pl035_0011
 2	Arm	444	Rękawice z macek<ICON ALPHA>+	394	158	11	pl086_0000
 2	Arm	445	Rękawice z macek<ICON BETA>+	395	158	11	pl086_0010
-2	Arm	446	Unavailable	396	0	0	None
+2	Arm	446	Zegarowe<ICON ALPHA>+ naramien. wars.	396	0	9	pl104_0000
 2	Arm	447	Ramiona warstw. z Barrotha	397	0	4	pl012_0000
 2	Arm	448	Zaręk. pałacu Gildii<ICON ALPHA>+	398	154	10	pl094_0000
 2	Arm	449	Zaręk. pałacu Gildii<ICON BETA>+	399	154	10	pl094_0000
@@ -1661,7 +1661,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	497	Ramiona warstwowe z Lumu	447	0	4	pl024_0000
 2	Arm	498	Żarliwe naramienniki<ICON ALPHA>+	448	156	9	pl125_0000
 2	Arm	499	Ramiona wars. z Rathiany<ICON ALPHA>	449	0	4	pl021_0000
-2	Arm	500	Unavailable	450	0	0	None
+2	Arm	500	Zbroja władcy demonów<ICON ALPHA>+	450	162	10	pl126_0000
 2	Arm	501	Ramiona wars. z Rathiany<ICON BETA>	451	0	4	pl021_0010
 2	Arm	502	Rękawy ulung<ICON ALPHA>+	452	120	8	pl127_0000
 2	Arm	503	Ramiona war. z Radobaana<ICON ALPHA>	453	0	5	pl028_0000
@@ -1669,7 +1669,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	505	Ramiona war. z Radobaana<ICON BETA>	455	0	5	pl028_0010
 2	Arm	506	Różane naramien. warstw.	456	0	9	pl124_0000
 2	Arm	507	Żarliwe naram. warstw.	457	0	9	pl125_0000
-2	Arm	508	Unavailable	458	0	0	None
+2	Arm	508	Nar. warstw. władcy demon.	458	0	10	pl126_0000
 2	Arm	509	Naram. warstwowe ulung	459	0	8	pl127_0000
 2	Arm	510	Gwiezdny naram. warstwowy	460	0	8	pl128_0000
 2	Arm	511	Ramiona warstwowe z metalu	461	0	5	pl025_0000
@@ -1682,19 +1682,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	522	Rękawice war. Srebrnego Rycerza	472	0	6	pl123_0000
 2	Arm	523	HARDUMMY	473	132	11	pl068_0010
 2	Arm	524	Rękawice z macek<ICON GAMMA>+	474	176	11	pl086_0020
-2	Arm	525	HARDUMMY	475	0	7	pl072_0000
-2	Arm	526	HARDUMMY	476	170	11	pl072_0001
-2	Arm	527	Unavailable	477	0	0	None
+2	Arm	525	Naram. war. Pana Lazur. Gw.	475	0	7	pl072_0000
+2	Arm	526	Rękaw Lazurowej Ery<ICON ALPHA>+	476	170	11	pl072_0001
+2	Arm	527	Szronowe zarękawia<ICON GAMMA>+	477	180	11	pl085_0020
 2	Arm	528	Zarękawia z Mrozokła<ICON ALPHA>+	478	162	10	pl089_0500
 2	Arm	529	Zarękawia z Mrozokła<ICON BETA>+	479	162	10	pl089_0510
-2	Arm	530	Unavailable	480	0	0	None
-2	Arm	531	Unavailable	481	0	0	None
+2	Arm	530	Smocze szpony<ICON ALPHA>+	480	180	11	pl129_0000
+2	Arm	531	Smocze szpony<ICON BETA>+	481	180	11	pl129_0010
 2	Arm	532	HARDUMMY	482	160	11	pl068_0020
 2	Arm	533	Unavailable	483	0	0	None
 2	Arm	534	Ramiona Leona <ICON ALPHA>+	484	150	11	pl130_0000
 2	Arm	535	Ramiona Claire <ICON ALPHA>+	485	150	11	pl131_0000
-2	Arm	536	Unavailable	486	0	0	None
-2	Arm	537	Unavailable	487	0	0	None
+2	Arm	536	Naram. warstwowe Leona+	486	0	11	pl130_0000
+2	Arm	537	Naram. warstwowe Claire+	487	0	11	pl131_0000
 2	Arm	540	Naramienniki war. Dodogamy	490	0	4	pl039_0000
 2	Arm	541	Naramienniki wars. sztabek	491	0	5	pl031_0000
 2	Arm	542	Nar. warstw. serca Ratha<ICON ALPHA>	492	0	5	pl021_0100
@@ -1750,126 +1750,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	592	Naram. warstwowe Kulve<ICON ALPHA>	542	0	7	pl049_0000
 2	Arm	593	Naram. warstwowe Kulve<ICON BETA>	543	0	7	pl049_0010
 2	Arm	594	Naram. warstwowe Kulve<ICON GAMMA>	544	0	7	pl049_0020
-2	Arm	595	Unavailable	546	0	0	None
-2	Arm	596	Unavailable	547	0	0	None
-2	Arm	599	Unavailable	550	0	0	None
-2	Arm	600	Unavailable	551	0	0	None
-2	Arm	601	Unavailable	552	0	0	None
-2	Arm	602	Unavailable	553	0	0	None
-2	Arm	603	Unavailable	554	0	0	None
-2	Arm	604	Unavailable	555	0	0	None
-2	Arm	605	Unavailable	556	0	0	None
-2	Arm	606	Unavailable	557	0	0	None
-2	Arm	607	Unavailable	558	0	0	None
-2	Arm	608	Unavailable	559	0	0	None
-2	Arm	609	Unavailable	560	0	0	None
-2	Arm	610	Unavailable	561	0	0	None
-2	Arm	611	Unavailable	562	0	0	None
-2	Arm	612	Unavailable	563	0	0	None
-2	Arm	613	Unavailable	564	0	0	None
-2	Arm	614	Unavailable	565	0	0	None
-2	Arm	615	Unavailable	566	0	0	None
-2	Arm	616	Unavailable	567	0	0	None
-2	Arm	617	Unavailable	568	0	0	None
-2	Arm	618	Unavailable	569	0	0	None
-2	Arm	619	Unavailable	570	0	0	None
-2	Arm	620	Unavailable	571	0	0	None
-2	Arm	621	Unavailable	572	0	0	None
-2	Arm	622	Unavailable	573	0	0	None
-2	Arm	623	Unavailable	574	0	0	None
+2	Arm	595	Naram. warstw. z Vespoida+	546	0	8	pl007_0001
+2	Arm	596	Naram. wars. z Hornetaura+	547	0	8	pl017_0001
+2	Arm	599	Naram. warstw. z Jagrasa+	550	0	8	pl008_0001
+2	Arm	600	Naram. warstwowe z Tzitzi+	551	0	8	pl023_0001
+2	Arm	601	Naram. warstw. z Girrosa+	552	0	8	pl022_0001
+2	Arm	602	Naramien. war. Dodogamy+	553	0	8	pl039_0001
+2	Arm	603	Naramienniki war. z Kulu+	554	0	8	pl009_0001
+2	Arm	604	Naramienniki war. z Pukei+	555	0	8	pl010_0001
+2	Arm	605	Naram. wars. z K. Pukei+	556	0	8	pl010_0101
+2	Arm	606	Naramien. war. z Barrotha+	557	0	8	pl012_0001
+2	Arm	607	Naramienniki war. z Jyura+	558	0	8	pl011_0001
+2	Arm	608	Naramienniki war. z Beo+	559	0	8	pl110_0000
+2	Arm	609	Naram. warstw. z Kadachi+	560	0	8	pl013_0001
+2	Arm	610	Naram. w. ze Żm. Kadachi+	561	0	8	pl013_0101
+2	Arm	611	Naram. warstw. z Banbaro<ICON ALPHA>+	562	0	8	pl084_0000
+2	Arm	612	Naram. warstw. z Banbaro<ICON BETA>+	563	0	8	pl084_0010
+2	Arm	613	Naramien. wars. z Anja<ICON ALPHA>+	564	0	8	pl020_0001
+2	Arm	614	Naramien. wars. z Anja<ICON BETA>+	565	0	8	pl020_0011
+2	Arm	615	Naram. war. z Pior. Anja<ICON ALPHA>+	566	0	10	pl020_0101
+2	Arm	616	Naram. war. z Pior. Anja<ICON BETA>+	567	0	10	pl020_0111
+2	Arm	617	Naram. wars. z Rathiany<ICON ALPHA>+	568	0	8	pl021_0001
+2	Arm	618	Naram. wars. z Rathiany<ICON BETA>+	569	0	8	pl021_0011
+2	Arm	619	Nar. warstw. serca Ratha<ICON ALPHA>+	570	0	8	pl021_0101
+2	Arm	620	Nar. warstw. serca Ratha<ICON BETA>+	571	0	8	pl021_0111
+2	Arm	621	Naram. warstwowe z Lumu+	572	0	8	pl024_0001
+2	Arm	622	Naram. war. fant. z Lumu+	573	0	8	pl024_0101
+2	Arm	623	Naram. war. z Radobaana	574	0	8	pl028_0001
 2	Arm	624	Naram. warstwowy z artianu	575	0	9	pl091_0000
-2	Arm	625	Unavailable	674	0	0	None
-2	Arm	626	Unavailable	576	0	0	None
-2	Arm	627	Unavailable	577	0	0	None
-2	Arm	628	Unavailable	578	0	0	None
-2	Arm	629	Unavailable	579	0	0	None
-2	Arm	630	Unavailable	580	0	0	None
-2	Arm	631	Unavailable	581	0	0	None
-2	Arm	632	Unavailable	582	0	0	None
-2	Arm	633	Unavailable	583	0	0	None
-2	Arm	634	Unavailable	584	0	0	None
-2	Arm	635	Unavailable	585	0	0	None
-2	Arm	636	Unavailable	586	0	0	None
-2	Arm	637	Unavailable	587	0	0	None
-2	Arm	638	Unavailable	588	0	0	None
-2	Arm	639	Unavailable	589	0	0	None
-2	Arm	640	Unavailable	590	0	0	None
-2	Arm	641	Unavailable	591	0	0	None
-2	Arm	642	Unavailable	592	0	0	None
-2	Arm	643	Unavailable	593	0	0	None
-2	Arm	644	Unavailable	594	0	0	None
-2	Arm	645	Unavailable	595	0	0	None
-2	Arm	646	Unavailable	596	0	0	None
-2	Arm	647	Unavailable	597	0	0	None
-2	Arm	648	Unavailable	598	0	0	None
-2	Arm	649	Unavailable	599	0	0	None
-2	Arm	650	Unavailable	600	0	0	None
-2	Arm	651	Unavailable	601	0	0	None
-2	Arm	652	Unavailable	602	0	0	None
-2	Arm	653	Unavailable	603	0	0	None
-2	Arm	654	Unavailable	604	0	0	None
-2	Arm	655	Unavailable	605	0	0	None
-2	Arm	656	Unavailable	606	0	0	None
-2	Arm	657	Unavailable	607	0	0	None
+2	Arm	625	Zegarowe<ICON BETA>+ naramien. wars.	674	0	9	pl104_0000
+2	Arm	626	Naram. warst. z Bariotha<ICON ALPHA>+	576	0	9	pl089_0000
+2	Arm	627	Naram. warst. z Bariotha<ICON BETA>+	577	0	9	pl089_0010
+2	Arm	628	Naram. wars. z Rathalosa<ICON ALPHA>+	578	0	9	pl033_0001
+2	Arm	629	Naram. wars. z Rathalosa<ICON BETA>+	579	0	9	pl033_0011
+2	Arm	630	Nar. warstw. duszy Ratha<ICON ALPHA>+	580	0	10	pl033_0101
+2	Arm	631	Nar. warstw. duszy Ratha<ICON BETA>+	581	0	10	pl033_0111
+2	Arm	632	Naram. warst. z Diablosa<ICON ALPHA>+	582	0	9	pl034_0001
+2	Arm	633	Naram. warst. z Diablosa<ICON BETA>+	583	0	9	pl034_0011
+2	Arm	634	Nar. war. Czarnej Diabli<ICON ALPHA>+	584	0	10	pl034_0101
+2	Arm	635	Nar. war. Czarnej Diabli<ICON BETA>+	585	0	10	pl034_0111
+2	Arm	636	Naramien. wars. z Legii<ICON ALPHA>+	586	0	9	pl027_0001
+2	Arm	637	Naramien. wars. z Legii<ICON BETA>+	587	0	9	pl027_0011
+2	Arm	638	Naram. war. z wrz. Legii<ICON ALPHA>+	588	0	10	pl027_0500
+2	Arm	639	Naram. war. z wrz. Legii<ICON BETA>+	589	0	10	pl027_0510
+2	Arm	640	Naram. war. z Odogarona<ICON ALPHA>+	590	0	9	pl029_0001
+2	Arm	641	Naram. war. z Odogarona<ICON BETA>+	591	0	9	pl029_0011
+2	Arm	642	Naram. war. z Garona Śm.<ICON ALPHA>+	592	0	10	pl029_0101
+2	Arm	643	Naram. war. z Garona Śm.<ICON BETA>+	593	0	10	pl029_0111
+2	Arm	644	Naram. warstw. Lavasiotha+	594	0	9	pl040_0001
+2	Arm	645	Naram. warstw. Uragaana+	595	0	9	pl041_0001
+2	Arm	646	Naram. war. z Nargacuga<ICON ALPHA>+	596	0	9	pl080_0000
+2	Arm	647	Naram. war. z Nargacuga<ICON BETA>+	597	0	9	pl080_0010
+2	Arm	648	Naram. war. z Glavenusa<ICON ALPHA>+	598	0	9	pl081_0000
+2	Arm	649	Naram. war. z Glavenusa<ICON BETA>+	599	0	9	pl081_0010
+2	Arm	650	Naram. w. z Kw. Glaven.<ICON ALPHA>+	600	0	10	pl081_0100
+2	Arm	651	Naram. w. z Kw. Glaven.<ICON BETA>+	601	0	10	pl081_0110
+2	Arm	652	Naram. war. z Brachyd.<ICON ALPHA>+	602	0	9	pl082_0000
+2	Arm	653	Naram. war. z Brachyd.<ICON BETA>+	603	0	9	pl082_0010
+2	Arm	654	Naramien. war. z Tigrexa<ICON ALPHA>+	604	0	9	pl083_0000
+2	Arm	655	Naramien. war. z Tigrexa<ICON BETA>+	605	0	9	pl083_0010
+2	Arm	656	Naramien. warst. ryku<ICON ALPHA>+	606	0	10	pl083_0100
+2	Arm	657	Naramien. warst. ryku<ICON BETA>+	607	0	10	pl083_0110
 2	Arm	658	Naram. warstw. czarn. pasa	608	0	10	pl093_0000
-2	Arm	659	Unavailable	609	0	0	None
-2	Arm	660	Unavailable	610	0	0	None
-2	Arm	661	Unavailable	611	0	0	None
-2	Arm	662	Unavailable	612	0	0	None
-2	Arm	663	Unavailable	613	0	0	None
-2	Arm	664	Unavailable	614	0	0	None
-2	Arm	665	Unavailable	615	0	0	None
-2	Arm	666	Unavailable	616	0	0	None
-2	Arm	667	Unavailable	617	0	0	None
-2	Arm	668	Unavailable	618	0	0	None
-2	Arm	669	Unavailable	619	0	0	None
-2	Arm	670	Unavailable	620	0	0	None
-2	Arm	671	Unavailable	621	0	0	None
-2	Arm	672	Unavailable	622	0	0	None
-2	Arm	673	Unavailable	623	0	0	None
-2	Arm	674	Unavailable	624	0	0	None
-2	Arm	675	Unavailable	625	0	0	None
-2	Arm	678	Unavailable	628	0	0	None
-2	Arm	679	Unavailable	629	0	0	None
-2	Arm	680	Unavailable	630	0	0	None
-2	Arm	681	Unavailable	631	0	0	None
-2	Arm	682	Unavailable	632	0	0	None
-2	Arm	683	Unavailable	633	0	0	None
-2	Arm	684	Unavailable	634	0	0	None
-2	Arm	685	Unavailable	635	0	0	None
-2	Arm	686	Unavailable	636	0	0	None
-2	Arm	687	Unavailable	637	0	0	None
-2	Arm	688	Unavailable	638	0	0	None
-2	Arm	689	Unavailable	639	0	0	None
-2	Arm	690	Unavailable	640	0	0	None
-2	Arm	691	Unavailable	641	0	0	None
-2	Arm	692	Unavailable	642	0	0	None
-2	Arm	693	Unavailable	643	0	0	None
-2	Arm	694	Unavailable	644	0	0	None
-2	Arm	695	Unavailable	645	0	0	None
-2	Arm	696	Unavailable	646	0	0	None
-2	Arm	697	Unavailable	647	0	0	None
-2	Arm	698	Unavailable	648	0	0	None
-2	Arm	699	Unavailable	649	0	0	None
-2	Arm	700	Unavailable	650	0	0	None
-2	Arm	701	Unavailable	651	0	0	None
-2	Arm	702	Unavailable	652	0	0	None
-2	Arm	703	Unavailable	653	0	0	None
-2	Arm	704	Unavailable	654	0	0	None
-2	Arm	705	Unavailable	655	0	0	None
-2	Arm	706	Unavailable	656	0	0	None
-2	Arm	707	Unavailable	657	0	0	None
-2	Arm	708	Unavailable	658	0	0	None
-2	Arm	709	Unavailable	659	0	0	None
-2	Arm	710	Unavailable	660	0	0	None
-2	Arm	715	Unavailable	665	0	0	None
-2	Arm	716	Unavailable	666	0	0	None
+2	Arm	659	Naramien. warstw. dumy<ICON ALPHA>+	609	0	10	pl042_0500
+2	Arm	660	Naramien. warstw. dumy<ICON BETA>+	610	0	10	pl042_0510
+2	Arm	661	Naramien. warst. żądzy<ICON ALPHA>+	611	0	10	pl050_0500
+2	Arm	662	Naramien. warst. żądzy<ICON BETA>+	612	0	10	pl050_0510
+2	Arm	663	Szronowe naram. wars.<ICON ALPHA>+	613	0	11	pl085_0000
+2	Arm	664	Szronowe naram. wars.<ICON BETA>+	614	0	11	pl085_0010
+2	Arm	665	Naram. warst. całunu<ICON ALPHA>+	615	0	11	pl032_0500
+2	Arm	666	Naram. warst. całunu<ICON BETA>+	616	0	11	pl032_0510
+2	Arm	667	Naram. wars. z Teostry<ICON ALPHA>+	617	0	11	pl046_0001
+2	Arm	668	Naram. wars. z Teostry<ICON BETA>+	618	0	11	pl046_0011
+2	Arm	669	Naramien. war. Kushali<ICON ALPHA>+	619	0	11	pl047_0001
+2	Arm	670	Naramien. war. Kushali<ICON BETA>+	620	0	11	pl047_0011
+2	Arm	671	Naram. warstw. Kirina<ICON ALPHA>+	621	0	11	pl035_0001
+2	Arm	672	Naram. warstw. Kirina<ICON BETA>+	622	0	11	pl035_0011
+2	Arm	673	Naram. warstw. z macek<ICON ALPHA>+	623	0	11	pl086_0000
+2	Arm	674	Naram. warstw. z macek<ICON BETA>+	624	0	11	pl086_0010
+2	Arm	675	Naram. warst. pał. Gildii+	625	0	10	pl094_0000
+2	Arm	678	Naram. warstw. Shara<ICON ALPHA>+	628	0	11	pl088_0000
+2	Arm	679	Naram. warstw. Shara<ICON BETA>+	629	0	11	pl088_0010
+2	Arm	680	Naram. warst. z Garugi<ICON ALPHA>+	630	0	10	pl108_0000
+2	Arm	681	Naram. warst. z Garugi<ICON BETA>+	631	0	10	pl108_0010
+2	Arm	682	Naram. warst. z Zinogra<ICON ALPHA>+	632	0	10	pl107_0000
+2	Arm	683	Naram. warst. z Zinogra<ICON BETA>+	633	0	10	pl107_0010
+2	Arm	684	Nar. war. złot. księż.<ICON ALPHA>+	634	0	11	pl021_0200
+2	Arm	685	Nar. war. złot. księż.<ICON BETA>+	635	0	11	pl021_0210
+2	Arm	686	Nar. war. sreb. słońca<ICON ALPHA>+	636	0	11	pl033_0200
+2	Arm	687	Nar. war. sreb. słońca<ICON BETA>+	637	0	11	pl033_0210
+2	Arm	688	Naram. wars. z Lunastry<ICON ALPHA>+	638	0	11	pl051_0001
+2	Arm	689	Naram. wars. z Lunastry<ICON BETA>+	639	0	11	pl051_0011
+2	Arm	690	Niszczyc. naram. war.<ICON ALPHA>+	640	0	11	pl030_0500
+2	Arm	691	Niszczyc. naram. war.<ICON BETA>+	641	0	11	pl030_0510
+2	Arm	692	Naramien. warst. Gildii+	642	0	11	pl092_0000
+2	Arm	693	Naram. warst. Rajanga<ICON ALPHA>+	643	0	10	pl109_0000
+2	Arm	694	Naram. warst. Rajanga<ICON BETA>+	644	0	10	pl109_0010
+2	Arm	695	Stygijskie naram. war.<ICON ALPHA>+	645	0	10	pl107_0100
+2	Arm	696	Stygijskie naram. war.<ICON BETA>+	646	0	10	pl107_0110
+2	Arm	697	Naramien. warstw. Safi<ICON ALPHA>+	647	0	11	pl087_0000
+2	Arm	698	Naramien. warstw. Safi<ICON BETA>+	648	0	11	pl087_0010
+2	Arm	699	Nar. war. Wściek. Raj.<ICON ALPHA>+	649	0	11	pl109_0500
+2	Arm	700	Nar. war. Wściek. Raj.<ICON BETA>+	650	0	11	pl109_0510
+2	Arm	701	Brachyd. naram. war.<ICON ALPHA>+	651	0	11	pl082_0500
+2	Arm	702	Brachyd. naram. war.<ICON BETA>+	652	0	11	pl082_0510
+2	Arm	703	Naram. war. z Mrozokła<ICON ALPHA>+	653	0	10	pl089_0500
+2	Arm	704	Naram. war. z Mrozokła<ICON BETA>+	654	0	10	pl089_0510
+2	Arm	705	Naram. warstw. głodu<ICON ALPHA>+	655	0	11	pl052_0000
+2	Arm	706	Naram. warstw. głodu<ICON BETA>+	656	0	11	pl052_0010
+2	Arm	707	Smocze naram. warst.<ICON ALPHA>+	657	0	11	pl129_0000
+2	Arm	708	Smocze naram. warst.<ICON BETA>+	658	0	11	pl129_0010
+2	Arm	709	Naram. warstw. Kulve<ICON ALPHA>+	659	0	11	pl049_0001
+2	Arm	710	Naram. warstw. Kulve<ICON BETA>+	660	0	11	pl049_0011
+2	Arm	715	Naram. w. niezłej rzeźby<ICON ALPHA>+	665	0	10	pl115_0000
+2	Arm	716	Naram. warstw. Lazur. Ery	666	0	11	pl072_0001
 2	Arm	717	Unavailable	667	0	0	None
-2	Arm	718	Unavailable	668	0	0	None
-2	Arm	719	Unavailable	669	0	0	None
-2	Arm	720	Unavailable	670	0	0	None
+2	Arm	718	HARDUMMY	668	0	11	pl068_0020
+2	Arm	719	Szronowe naram. wars.<ICON GAMMA>+	669	0	11	pl085_0020
+2	Arm	720	Naram. warstw. z macek<ICON GAMMA>+	670	0	11	pl086_0020
 2	Arm	721	Unavailable	671	0	0	None
-2	Arm	722	Unavailable	672	0	0	None
+2	Arm	722	Naram. w. niez. rzeźby<ICON GAMMA>+	672	0	11	pl115_0001
 2	Arm	723	Bieliz.<ICON ALPHA>naram. warstw.	673	0	11	pl500_0000
 2	Arm	724	Bieliz.<ICON BETA>naram. warstw.	675	0	11	pl501_0000
 2	Arm	725	Unavailable	676	0	0	None
@@ -2032,8 +2032,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	146	Pas warstwowy Oriona	150	0	3	pl077_0000
 3	Waist	153	Pas warst. stroju gal.	153	0	3	pl078_0000
 3	Waist	299	HARDUMMY	154	0	7	pl068_0000
-3	Waist	291	HARDUMMY	155	0	7	pl069_0000
-3	Waist	292	HARDUMMY	156	0	7	pl070_0000
+3	Waist	291	Pas warstwowy Ryu	155	0	7	pl069_0000
+3	Waist	292	Pas warstwowy Sakury	156	0	7	pl070_0000
 3	Waist	141	Unavailable	177	2	0	pl001_0000
 3	Waist	142	Unavailable	179	2	0	pl001_0000
 3	Waist	143	Unavailable	180	2	0	pl001_0000
@@ -2077,9 +2077,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	224	Kręgosłup Zoraha<ICON GAMMA>	213	72	7	pl038_0020
 3	Waist	226	Kręgosłup Xeno'jiiva<ICON GAMMA>	214	72	7	pl045_0020
 3	Waist	227	HARDUMMY	215	46	4	pl068_0000
-3	Waist	228	HARDUMMY	216	12	1	pl069_0000
-3	Waist	229	HARDUMMY	217	60	6	pl069_0000
-3	Waist	230	HARDUMMY	218	50	5	pl070_0000
+3	Waist	228	Tułów Ryu	216	12	1	pl069_0000
+3	Waist	229	Tułów Ryu<ICON ALPHA>	217	60	6	pl069_0000
+3	Waist	230	Spódnica Sakury<ICON ALPHA>	218	50	5	pl070_0000
 3	Waist	231	Nabiodrki Lazurowego Pana<ICON ALPHA>	219	56	6	pl072_0000
 3	Waist	232	Pas Dantego<ICON ALPHA>	220	64	7	pl071_0000
 3	Waist	233	Pas Luny<ICON ALPHA>	221	70	7	pl051_0000
@@ -2222,7 +2222,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	443	Obręcz z Kirina<ICON BETA>+	393	154	11	pl035_0011
 3	Waist	444	Pas z macek<ICON ALPHA>+	394	158	11	pl086_0000
 3	Waist	445	Pas z macek<ICON BETA>+	395	158	11	pl086_0010
-3	Waist	446	Unavailable	396	0	0	None
+3	Waist	446	Zegarowy<ICON ALPHA>+ pas warstwowy	396	0	9	pl104_0000
 3	Waist	447	Pas warstwowy z Barrotha	397	0	4	pl012_0000
 3	Waist	448	Pas pałacu Gildii<ICON ALPHA>+	398	154	10	pl094_0000
 3	Waist	449	Pas pałacu Gildii<ICON BETA>+	399	154	10	pl094_0000
@@ -2270,7 +2270,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	497	Pas warstwowy z Lumu	447	0	4	pl024_0000
 3	Waist	498	Żarliwy pas<ICON ALPHA>+	448	156	9	pl125_0000
 3	Waist	499	Pas warstwowy z Rathiany<ICON ALPHA>	449	0	4	pl021_0000
-3	Waist	500	Unavailable	450	0	0	None
+3	Waist	500	Skórz. pas władcy dem.<ICON ALPHA>+	450	162	10	pl126_0000
 3	Waist	501	Pas warstwowy z Rathiany<ICON BETA>	451	0	4	pl021_0010
 3	Waist	502	Pas ulung<ICON ALPHA>+	452	120	8	pl127_0000
 3	Waist	503	Pas warstw. z Radobaana<ICON ALPHA>	453	0	5	pl028_0000
@@ -2278,7 +2278,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	505	Pas warstw. z Radobaana<ICON BETA>	455	0	5	pl028_0010
 3	Waist	506	Różany pas warstwowy	456	0	9	pl124_0000
 3	Waist	507	Żarliwy pas warstwowy	457	0	9	pl125_0000
-3	Waist	508	Unavailable	458	0	0	None
+3	Waist	508	Pas warstw. władcy demon.	458	0	10	pl126_0000
 3	Waist	509	Pas warstwowy ulung	459	0	8	pl127_0000
 3	Waist	510	Gwiezdny pas warstwowy	460	0	8	pl128_0000
 3	Waist	511	Pas warstwowy z metalu	461	0	5	pl025_0000
@@ -2291,19 +2291,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	522	Pas warst. Srebrnego Rycerza	472	0	6	pl123_0000
 3	Waist	523	HARDUMMY	473	132	11	pl068_0010
 3	Waist	524	Pas z macek<ICON GAMMA>+	474	176	11	pl086_0020
-3	Waist	525	HARDUMMY	475	0	7	pl072_0000
-3	Waist	526	HARDUMMY	476	170	11	pl072_0001
-3	Waist	527	Unavailable	477	0	0	None
+3	Waist	525	Pas war. Pana Lazur. Gw.	475	0	7	pl072_0000
+3	Waist	526	Obi Lazurowej Ery<ICON ALPHA>+	476	170	11	pl072_0001
+3	Waist	527	Szronowy pas<ICON GAMMA>+	477	180	11	pl085_0020
 3	Waist	528	Pas z Mrozokła<ICON ALPHA>+	478	162	10	pl089_0500
 3	Waist	529	Pas z Mrozokła<ICON BETA>+	479	162	10	pl089_0510
-3	Waist	530	Unavailable	480	0	0	None
-3	Waist	531	Unavailable	481	0	0	None
+3	Waist	530	Smocze kolce<ICON ALPHA>+	480	180	11	pl129_0000
+3	Waist	531	Smocze kolce<ICON BETA>+	481	180	11	pl129_0010
 3	Waist	532	HARDUMMY	482	160	11	pl068_0020
 3	Waist	533	Unavailable	483	0	0	None
 3	Waist	534	Tułów Leona <ICON ALPHA>+	484	150	11	pl130_0000
 3	Waist	535	Tułów Claire <ICON ALPHA>+	485	150	11	pl131_0000
-3	Waist	536	Unavailable	486	0	0	None
-3	Waist	537	Unavailable	487	0	0	None
+3	Waist	536	Pas warstwowy Leona+	486	0	11	pl130_0000
+3	Waist	537	Pas warstwowy Claire+	487	0	11	pl131_0000
 3	Waist	540	Pas warstwowy Dodogamy	490	0	4	pl039_0000
 3	Waist	541	Pas warstwowy sztabek	491	0	5	pl031_0000
 3	Waist	542	Pas warstw. serca Ratha<ICON ALPHA>	492	0	5	pl021_0100
@@ -2359,126 +2359,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	592	Pas warstwowy Kulve<ICON ALPHA>	542	0	7	pl049_0000
 3	Waist	593	Pas warstwowy Kulve<ICON BETA>	543	0	7	pl049_0010
 3	Waist	594	Pas warstwowy Kulve<ICON GAMMA>	544	0	7	pl049_0020
-3	Waist	595	Unavailable	546	0	0	None
-3	Waist	596	Unavailable	547	0	0	None
-3	Waist	599	Unavailable	550	0	0	None
-3	Waist	600	Unavailable	551	0	0	None
-3	Waist	601	Unavailable	552	0	0	None
-3	Waist	602	Unavailable	553	0	0	None
-3	Waist	603	Unavailable	554	0	0	None
-3	Waist	604	Unavailable	555	0	0	None
-3	Waist	605	Unavailable	556	0	0	None
-3	Waist	606	Unavailable	557	0	0	None
-3	Waist	607	Unavailable	558	0	0	None
-3	Waist	608	Unavailable	559	0	0	None
-3	Waist	609	Unavailable	560	0	0	None
-3	Waist	610	Unavailable	561	0	0	None
-3	Waist	611	Unavailable	562	0	0	None
-3	Waist	612	Unavailable	563	0	0	None
-3	Waist	613	Unavailable	564	0	0	None
-3	Waist	614	Unavailable	565	0	0	None
-3	Waist	615	Unavailable	566	0	0	None
-3	Waist	616	Unavailable	567	0	0	None
-3	Waist	617	Unavailable	568	0	0	None
-3	Waist	618	Unavailable	569	0	0	None
-3	Waist	619	Unavailable	570	0	0	None
-3	Waist	620	Unavailable	571	0	0	None
-3	Waist	621	Unavailable	572	0	0	None
-3	Waist	622	Unavailable	573	0	0	None
-3	Waist	623	Unavailable	574	0	0	None
+3	Waist	595	Pas warstwowy z Vespoida+	546	0	8	pl007_0001
+3	Waist	596	Pas warstw. z Hornetaura+	547	0	8	pl017_0001
+3	Waist	599	Pas warstwowy z Jagrasa+	550	0	8	pl008_0001
+3	Waist	600	Pas warstwowy z Tzitzi+	551	0	8	pl023_0001
+3	Waist	601	Pas warstwowy z Girrosa+	552	0	8	pl022_0001
+3	Waist	602	Pas warstwowy z Dodogamy+	553	0	8	pl039_0001
+3	Waist	603	Pas warstwowy z Kulu+	554	0	8	pl009_0001
+3	Waist	604	Pas warstwowy z Pukei+	555	0	8	pl010_0001
+3	Waist	605	Pas warstwowy z K. Pukei+	556	0	8	pl010_0101
+3	Waist	606	Pas warstwowy z Barrotha+	557	0	8	pl012_0001
+3	Waist	607	Pas warstwowy z Jyura+	558	0	8	pl011_0001
+3	Waist	608	Pas warstwowy z Beo+	559	0	8	pl110_0000
+3	Waist	609	Pas warstwowy z Kadachi+	560	0	8	pl013_0001
+3	Waist	610	Pas wars. ze Żm. Kadachi+	561	0	8	pl013_0101
+3	Waist	611	Pas warstwowy z Banbaro<ICON ALPHA>+	562	0	8	pl084_0000
+3	Waist	612	Pas warstwowy z Banbaro<ICON BETA>+	563	0	8	pl084_0010
+3	Waist	613	Pas warstwowy z Anja<ICON ALPHA>+	564	0	8	pl020_0001
+3	Waist	614	Pas warstwowy z Anja<ICON BETA>+	565	0	8	pl020_0011
+3	Waist	615	Pas warstw. z Pior. Anja<ICON ALPHA>+	566	0	10	pl020_0101
+3	Waist	616	Pas warstw. z Pior. Anja<ICON BETA>+	567	0	10	pl020_0111
+3	Waist	617	Pas warstw. z Rathiany<ICON ALPHA>+	568	0	8	pl021_0001
+3	Waist	618	Pas warstw. z Rathiany<ICON BETA>+	569	0	8	pl021_0011
+3	Waist	619	Pas warstw. serca Ratha<ICON ALPHA>+	570	0	8	pl021_0101
+3	Waist	620	Pas warstw. serca Ratha<ICON BETA>+	571	0	8	pl021_0111
+3	Waist	621	Pas warstwowy z Lumu+	572	0	8	pl024_0001
+3	Waist	622	Pas warstw. fant. z Lumu+	573	0	8	pl024_0101
+3	Waist	623	Pas warstw. z Radobaana+	574	0	8	pl028_0001
 3	Waist	624	Pas warstwowy z artianu	575	0	9	pl091_0000
-3	Waist	625	Unavailable	674	0	0	None
-3	Waist	626	Unavailable	576	0	0	None
-3	Waist	627	Unavailable	577	0	0	None
-3	Waist	628	Unavailable	578	0	0	None
-3	Waist	629	Unavailable	579	0	0	None
-3	Waist	630	Unavailable	580	0	0	None
-3	Waist	631	Unavailable	581	0	0	None
-3	Waist	632	Unavailable	582	0	0	None
-3	Waist	633	Unavailable	583	0	0	None
-3	Waist	634	Unavailable	584	0	0	None
-3	Waist	635	Unavailable	585	0	0	None
-3	Waist	636	Unavailable	586	0	0	None
-3	Waist	637	Unavailable	587	0	0	None
-3	Waist	638	Unavailable	588	0	0	None
-3	Waist	639	Unavailable	589	0	0	None
-3	Waist	640	Unavailable	590	0	0	None
-3	Waist	641	Unavailable	591	0	0	None
-3	Waist	642	Unavailable	592	0	0	None
-3	Waist	643	Unavailable	593	0	0	None
-3	Waist	644	Unavailable	594	0	0	None
-3	Waist	645	Unavailable	595	0	0	None
-3	Waist	646	Unavailable	596	0	0	None
-3	Waist	647	Unavailable	597	0	0	None
-3	Waist	648	Unavailable	598	0	0	None
-3	Waist	649	Unavailable	599	0	0	None
-3	Waist	650	Unavailable	600	0	0	None
-3	Waist	651	Unavailable	601	0	0	None
-3	Waist	652	Unavailable	602	0	0	None
-3	Waist	653	Unavailable	603	0	0	None
-3	Waist	654	Unavailable	604	0	0	None
-3	Waist	655	Unavailable	605	0	0	None
-3	Waist	656	Unavailable	606	0	0	None
-3	Waist	657	Unavailable	607	0	0	None
+3	Waist	625	Zegarowy<ICON BETA>+ pas warstwowy	674	0	9	pl104_0000
+3	Waist	626	Pas warstwowy z Bariotha<ICON ALPHA>+	576	0	9	pl089_0000
+3	Waist	627	Pas warstwowy z Bariotha<ICON BETA>+	577	0	9	pl089_0010
+3	Waist	628	Pas warstw. z Rathalosa<ICON ALPHA>+	578	0	9	pl033_0001
+3	Waist	629	Pas warstw. z Rathalosa<ICON BETA>+	579	0	9	pl033_0011
+3	Waist	630	Pas warstw. duszy Ratha<ICON ALPHA>+	580	0	10	pl033_0101
+3	Waist	631	Pas warstw. duszy Ratha<ICON BETA>+	581	0	10	pl033_0111
+3	Waist	632	Pas warstw. z Diablosa<ICON ALPHA>+	582	0	9	pl034_0001
+3	Waist	633	Pas warstw. z Diablosa<ICON BETA>+	583	0	9	pl034_0011
+3	Waist	634	Pas wars. Czarnej Diabli<ICON ALPHA>+	584	0	10	pl034_0101
+3	Waist	635	Pas wars. Czarnej Diabli<ICON BETA>+	585	0	10	pl034_0111
+3	Waist	636	Pas warstwowy z Legii<ICON ALPHA>+	586	0	9	pl027_0001
+3	Waist	637	Pas warstwowy z Legii<ICON BETA>+	587	0	9	pl027_0011
+3	Waist	638	Pas warstw. z wrz. Legii<ICON ALPHA>+	588	0	10	pl027_0500
+3	Waist	639	Pas warstw. z wrz. Legii<ICON BETA>+	589	0	10	pl027_0510
+3	Waist	640	Pas warstw. z Odogarona<ICON ALPHA>+	590	0	9	pl029_0001
+3	Waist	641	Pas warstw. z Odogarona<ICON BETA>+	591	0	9	pl029_0011
+3	Waist	642	Pas warstw. z Garona Śm.<ICON ALPHA>+	592	0	10	pl029_0101
+3	Waist	643	Pas warstw. z Garona Śm.<ICON BETA>+	593	0	10	pl029_0111
+3	Waist	644	Pas warstwowy Lavasiotha+	594	0	9	pl040_0001
+3	Waist	645	Pas warstwowy Uragaana+	595	0	9	pl041_0001
+3	Waist	646	Pas warstw. z Nargacuga<ICON ALPHA>+	596	0	9	pl080_0000
+3	Waist	647	Pas warstw. z Nargacuga<ICON BETA>+	597	0	9	pl080_0010
+3	Waist	648	Pas warstw. z Glavenusa<ICON ALPHA>+	598	0	9	pl081_0000
+3	Waist	649	Pas warstw. z Glavenusa<ICON BETA>+	599	0	9	pl081_0010
+3	Waist	650	Pas warst. z Kw. Glaven.<ICON ALPHA>+	600	0	10	pl081_0100
+3	Waist	651	Pas warst. z Kw. Glaven.<ICON BETA>+	601	0	10	pl081_0110
+3	Waist	652	Pas warst. z Brachydiosa<ICON ALPHA>+	602	0	9	pl082_0000
+3	Waist	653	Pas warst. z Brachydiosa<ICON BETA>+	603	0	9	pl082_0010
+3	Waist	654	Pas warstwowy z Tigrexa<ICON ALPHA>+	604	0	9	pl083_0000
+3	Waist	655	Pas warstwowy z Tigrexa<ICON BETA>+	605	0	9	pl083_0010
+3	Waist	656	Pas warstwowy ryku<ICON ALPHA>+	606	0	10	pl083_0100
+3	Waist	657	Pas warstwowy ryku<ICON BETA>+	607	0	10	pl083_0110
 3	Waist	658	Pas warstw. czarn. pasa	608	0	10	pl093_0000
-3	Waist	659	Unavailable	609	0	0	None
-3	Waist	660	Unavailable	610	0	0	None
-3	Waist	661	Unavailable	611	0	0	None
-3	Waist	662	Unavailable	612	0	0	None
-3	Waist	663	Unavailable	613	0	0	None
-3	Waist	664	Unavailable	614	0	0	None
-3	Waist	665	Unavailable	615	0	0	None
-3	Waist	666	Unavailable	616	0	0	None
-3	Waist	667	Unavailable	617	0	0	None
-3	Waist	668	Unavailable	618	0	0	None
-3	Waist	669	Unavailable	619	0	0	None
-3	Waist	670	Unavailable	620	0	0	None
-3	Waist	671	Unavailable	621	0	0	None
-3	Waist	672	Unavailable	622	0	0	None
-3	Waist	673	Unavailable	623	0	0	None
-3	Waist	674	Unavailable	624	0	0	None
-3	Waist	675	Unavailable	625	0	0	None
-3	Waist	678	Unavailable	628	0	0	None
-3	Waist	679	Unavailable	629	0	0	None
-3	Waist	680	Unavailable	630	0	0	None
-3	Waist	681	Unavailable	631	0	0	None
-3	Waist	682	Unavailable	632	0	0	None
-3	Waist	683	Unavailable	633	0	0	None
-3	Waist	684	Unavailable	634	0	0	None
-3	Waist	685	Unavailable	635	0	0	None
-3	Waist	686	Unavailable	636	0	0	None
-3	Waist	687	Unavailable	637	0	0	None
-3	Waist	688	Unavailable	638	0	0	None
-3	Waist	689	Unavailable	639	0	0	None
-3	Waist	690	Unavailable	640	0	0	None
-3	Waist	691	Unavailable	641	0	0	None
-3	Waist	692	Unavailable	642	0	0	None
-3	Waist	693	Unavailable	643	0	0	None
-3	Waist	694	Unavailable	644	0	0	None
-3	Waist	695	Unavailable	645	0	0	None
-3	Waist	696	Unavailable	646	0	0	None
-3	Waist	697	Unavailable	647	0	0	None
-3	Waist	698	Unavailable	648	0	0	None
-3	Waist	699	Unavailable	649	0	0	None
-3	Waist	700	Unavailable	650	0	0	None
-3	Waist	701	Unavailable	651	0	0	None
-3	Waist	702	Unavailable	652	0	0	None
-3	Waist	703	Unavailable	653	0	0	None
-3	Waist	704	Unavailable	654	0	0	None
-3	Waist	705	Unavailable	655	0	0	None
-3	Waist	706	Unavailable	656	0	0	None
-3	Waist	707	Unavailable	657	0	0	None
-3	Waist	708	Unavailable	658	0	0	None
-3	Waist	709	Unavailable	659	0	0	None
-3	Waist	710	Unavailable	660	0	0	None
-3	Waist	715	Unavailable	665	0	0	None
-3	Waist	716	Unavailable	666	0	0	None
+3	Waist	659	Pas warstwowy dumy<ICON ALPHA>+	609	0	10	pl042_0500
+3	Waist	660	Pas warstwowy dumy<ICON BETA>+	610	0	10	pl042_0510
+3	Waist	661	Pas warstwowy żądzy<ICON ALPHA>+	611	0	10	pl050_0500
+3	Waist	662	Pas warstwowy żądzy<ICON BETA>+	612	0	10	pl050_0510
+3	Waist	663	Szronowy pas warstwowy<ICON ALPHA>+	613	0	11	pl085_0000
+3	Waist	664	Szronowy pas warstwowy<ICON BETA>+	614	0	11	pl085_0010
+3	Waist	665	Pas warstwowy całunu<ICON ALPHA>+	615	0	11	pl032_0500
+3	Waist	666	Pas warstwowy całunu<ICON BETA>+	616	0	11	pl032_0510
+3	Waist	667	Pas warstw. z Teostry<ICON ALPHA>+	617	0	11	pl046_0001
+3	Waist	668	Pas warstw. z Teostry<ICON BETA>+	618	0	11	pl046_0011
+3	Waist	669	Pas warstwowy Kushali<ICON ALPHA>+	619	0	11	pl047_0001
+3	Waist	670	Pas warstwowy Kushali<ICON BETA>+	620	0	11	pl047_0011
+3	Waist	671	Pas warstwowy Kirina<ICON ALPHA>+	621	0	11	pl035_0001
+3	Waist	672	Pas warstwowy Kirina<ICON BETA>+	622	0	11	pl035_0011
+3	Waist	673	Pas warstwowy z macek<ICON ALPHA>+	623	0	11	pl086_0000
+3	Waist	674	Pas warstwowy z macek<ICON BETA>+	624	0	11	pl086_0010
+3	Waist	675	Pas warst. pałacu Gildii+	625	0	10	pl094_0000
+3	Waist	678	Pas warstw. Shara<ICON ALPHA>+	628	0	11	pl088_0000
+3	Waist	679	Pas warstw. Shara<ICON BETA>+	629	0	11	pl088_0010
+3	Waist	680	Pas warstw. z Garugi<ICON ALPHA>+	630	0	10	pl108_0000
+3	Waist	681	Pas warstw. z Garugi<ICON BETA>+	631	0	10	pl108_0010
+3	Waist	682	Pas warst. z Zinogra<ICON ALPHA>+	632	0	10	pl107_0000
+3	Waist	683	Pas warst. z Zinogra<ICON BETA>+	633	0	10	pl107_0010
+3	Waist	684	Pas warst. złot. księż.<ICON ALPHA>+	634	0	11	pl021_0200
+3	Waist	685	Pas warst. złot. księż.<ICON BETA>+	635	0	11	pl021_0210
+3	Waist	686	Pas warst. sreb. słońca<ICON ALPHA>+	636	0	11	pl033_0200
+3	Waist	687	Pas warst. sreb. słońca<ICON BETA>+	637	0	11	pl033_0210
+3	Waist	688	Pas warstw. z Lunastry<ICON ALPHA>+	638	0	11	pl051_0001
+3	Waist	689	Pas warstw. z Lunastry<ICON BETA>+	639	0	11	pl051_0011
+3	Waist	690	Niszczyc. pas warstw.<ICON ALPHA>+	640	0	11	pl030_0500
+3	Waist	691	Niszczyc. pas warstw.<ICON BETA>+	641	0	11	pl030_0510
+3	Waist	692	Pas warstwowy Gildii+	642	0	11	pl092_0000
+3	Waist	693	Pas warstwowy Rajanga<ICON ALPHA>+	643	0	10	pl109_0000
+3	Waist	694	Pas warstwowy Rajanga<ICON BETA>+	644	0	10	pl109_0010
+3	Waist	695	Stygijski pas warstwowy<ICON ALPHA>+	645	0	10	pl107_0100
+3	Waist	696	Stygijski pas warstwowy<ICON BETA>+	646	0	10	pl107_0110
+3	Waist	697	Pas warstwowy Safi<ICON ALPHA>+	647	0	11	pl087_0000
+3	Waist	698	Pas warstwowy Safi<ICON BETA>+	648	0	11	pl087_0010
+3	Waist	699	Pas war. Wściek. Raj.<ICON ALPHA>+	649	0	11	pl109_0500
+3	Waist	700	Pas war. Wściek. Raj.<ICON BETA>+	650	0	11	pl109_0510
+3	Waist	701	Brachydyj. pas warstw.<ICON ALPHA>+	651	0	11	pl082_0500
+3	Waist	702	Brachydyj. pas warstw.<ICON BETA>+	652	0	11	pl082_0510
+3	Waist	703	Pas warstw. z Mrozokła<ICON ALPHA>+	653	0	10	pl089_0500
+3	Waist	704	Pas warstw. z Mrozokła<ICON BETA>+	654	0	10	pl089_0510
+3	Waist	705	Pas warstwowy głodu<ICON ALPHA>+	655	0	11	pl052_0000
+3	Waist	706	Pas warstwowy głodu<ICON BETA>+	656	0	11	pl052_0010
+3	Waist	707	Smoczy pas warstwowy<ICON ALPHA>+	657	0	11	pl129_0000
+3	Waist	708	Smoczy pas warstwowy<ICON BETA>+	658	0	11	pl129_0010
+3	Waist	709	Pas warstw. Kulve<ICON ALPHA>+	659	0	11	pl049_0001
+3	Waist	710	Pas warstw. Kulve<ICON BETA>+	660	0	11	pl049_0011
+3	Waist	715	Pas wars. niezłej rzeźby<ICON ALPHA>+	665	0	10	pl115_0000
+3	Waist	716	Pas warstwowy Lazur. Ery	666	0	11	pl072_0001
 3	Waist	717	Unavailable	667	0	0	None
-3	Waist	718	Unavailable	668	0	0	None
-3	Waist	719	Unavailable	669	0	0	None
-3	Waist	720	Unavailable	670	0	0	None
+3	Waist	718	HARDUMMY	668	0	11	pl068_0020
+3	Waist	719	Szronowy pas warstwowy<ICON GAMMA>+	669	0	11	pl085_0020
+3	Waist	720	Pas warstwowy z macek<ICON GAMMA>+	670	0	11	pl086_0020
 3	Waist	721	Unavailable	671	0	0	None
-3	Waist	722	Unavailable	672	0	0	None
+3	Waist	722	Pas war. niezłej rzeźby<ICON GAMMA>+	672	0	11	pl115_0001
 3	Waist	723	Bieliz.<ICON ALPHA>pas warstwowy	673	0	11	pl500_0000
 3	Waist	724	Bieliz.<ICON BETA>pas warstwowy	675	0	11	pl501_0000
 3	Waist	725	Unavailable	676	0	0	None
@@ -2644,8 +2644,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	146	Nag. warstwowe Oriona	150	0	3	pl077_0000
 4	Leg	153	Nogi warst. stroju gal.	153	0	3	pl078_0000
 4	Leg	299	HARDUMMY	154	0	7	pl068_0000
-4	Leg	291	HARDUMMY	155	0	7	pl069_0000
-4	Leg	292	HARDUMMY	156	0	7	pl070_0000
+4	Leg	291	Nag. warst. Ryu	155	0	7	pl069_0000
+4	Leg	292	Nag. warstwowe Sakury	156	0	7	pl070_0000
 4	Leg	141	Unavailable	143	2	0	pl001_0000
 4	Leg	142	Unavailable	179	2	0	pl001_0000
 4	Leg	143	Unavailable	180	2	0	pl001_0000
@@ -2689,9 +2689,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	223	Ostrogi Zoraha<ICON GAMMA>	213	72	7	pl038_0020
 4	Leg	224	Ostrogi Xeno'jiiva<ICON GAMMA>	214	72	7	pl045_0020
 4	Leg	225	HARDUMMY	215	46	4	pl068_0000
-4	Leg	226	HARDUMMY	216	12	1	pl069_0000
-4	Leg	227	HARDUMMY	217	60	6	pl069_0000
-4	Leg	228	HARDUMMY	218	50	5	pl070_0000
+4	Leg	226	Nogi Ryu	216	12	1	pl069_0000
+4	Leg	227	Nogi Ryu<ICON ALPHA>	217	60	6	pl069_0000
+4	Leg	228	Nogi Sakury<ICON ALPHA>	218	50	5	pl070_0000
 4	Leg	229	Nogawice Lazurowego Pana<ICON ALPHA>	219	56	6	pl072_0000
 4	Leg	230	Skórzane Buty Dantego<ICON ALPHA>	220	64	7	pl071_0000
 4	Leg	231	Nagolenice Luny<ICON ALPHA>	221	70	7	pl051_0000
@@ -2837,7 +2837,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	443	Nogawice z Kirina<ICON BETA>+	393	154	11	pl035_0011
 4	Leg	444	Nagolenice z macek<ICON ALPHA>+	394	158	11	pl086_0000
 4	Leg	445	Nagolenice z macek<ICON BETA>+	395	158	11	pl086_0010
-4	Leg	446	Unavailable	396	0	0	None
+4	Leg	446	Zegarowe<ICON ALPHA>+ nagolenice war.	396	0	9	pl104_0000
 4	Leg	447	Nogi warstwowe z Barrotha	397	0	4	pl012_0000
 4	Leg	448	Nagol. pałacu Gildii<ICON ALPHA>+	398	154	10	pl094_0000
 4	Leg	449	Nagol. pałacu Gildii<ICON BETA>+	399	154	10	pl094_0000
@@ -2885,7 +2885,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	497	Nogi warstwowe z Lumu	447	0	4	pl024_0000
 4	Leg	498	Żarliwe nagolenice<ICON ALPHA>+	448	156	9	pl125_0000
 4	Leg	499	Nogi warstw. z Rathiany<ICON ALPHA>	449	0	4	pl021_0000
-4	Leg	500	Unavailable	450	0	0	None
+4	Leg	500	Buty władcy demonów<ICON ALPHA>+	450	162	10	pl126_0000
 4	Leg	501	Nogi warstw. z Rathiany<ICON BETA>	451	0	4	pl021_0010
 4	Leg	502	Buty ulung<ICON ALPHA>+	452	120	8	pl127_0000
 4	Leg	503	Nogi warstw. z Radobaana<ICON ALPHA>	453	0	5	pl028_0000
@@ -2893,7 +2893,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	505	Nogi warstw. z Radobaana<ICON BETA>	455	0	5	pl028_0010
 4	Leg	506	Różane nagolenniki warst.	456	0	9	pl124_0000
 4	Leg	507	Żarliwe nagol. warstwowe	457	0	9	pl125_0000
-4	Leg	508	Unavailable	458	0	0	None
+4	Leg	508	Nagol. war. władcy demonów	458	0	10	pl126_0000
 4	Leg	509	Nagolenice warstw. ulung	459	0	8	pl127_0000
 4	Leg	510	Gwiezdne nagolenice warst.	460	0	8	pl128_0000
 4	Leg	511	Nogi warstwowe z metalu	461	0	5	pl025_0000
@@ -2906,19 +2906,19 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	522	Nagolenice warst. Srebrnego Rycerza	472	0	6	pl123_0000
 4	Leg	523	HARDUMMY	473	132	11	pl068_0010
 4	Leg	524	Nagolenice z macek<ICON GAMMA>+	474	176	11	pl086_0020
-4	Leg	525	HARDUMMY	475	0	7	pl072_0000
-4	Leg	526	HARDUMMY	476	170	11	pl072_0001
-4	Leg	527	Unavailable	477	0	0	None
+4	Leg	525	Nagol. war. Pana Lazur. Gw.	475	0	7	pl072_0000
+4	Leg	526	Geta Lazurowej Ery<ICON ALPHA>+	476	170	11	pl072_0001
+4	Leg	527	Szronowe nagolenice<ICON GAMMA>+	477	180	11	pl085_0020
 4	Leg	528	Nagolenice z Mrozokła<ICON ALPHA>+	478	162	10	pl089_0500
 4	Leg	529	Nagolenice z Mrozokła<ICON BETA>+	479	162	10	pl089_0510
-4	Leg	530	Unavailable	480	0	0	None
-4	Leg	531	Unavailable	481	0	0	None
+4	Leg	530	Smocze stopy<ICON ALPHA>+	480	180	11	pl129_0000
+4	Leg	531	Smocze stopy<ICON BETA>+	481	180	11	pl129_0010
 4	Leg	532	HARDUMMY	482	160	11	pl068_0020
 4	Leg	533	Unavailable	483	0	0	None
 4	Leg	534	Nogi Leona <ICON ALPHA>+	484	150	11	pl130_0000
 4	Leg	535	Nogi Claire <ICON ALPHA>+	485	150	11	pl131_0000
-4	Leg	536	Unavailable	486	0	0	None
-4	Leg	537	Unavailable	487	0	0	None
+4	Leg	536	Nag. warstwowe Leona+	486	0	11	pl130_0000
+4	Leg	537	Nag. warstwowe Claire+	487	0	11	pl131_0000
 4	Leg	540	Nagolenice warst. Dodogamy	490	0	4	pl039_0000
 4	Leg	541	Nagolenice warstw. sztabek	491	0	5	pl031_0000
 4	Leg	542	Nag. warstw. serca Ratha<ICON ALPHA>	492	0	5	pl021_0100
@@ -2974,126 +2974,126 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	592	Nagolenice warstw. Kulve<ICON ALPHA>	542	0	7	pl049_0000
 4	Leg	593	Nagolenice warstw. Kulve<ICON BETA>	543	0	7	pl049_0010
 4	Leg	594	Nagolenice warstw. Kulve<ICON GAMMA>	544	0	7	pl049_0020
-4	Leg	595	Unavailable	546	0	0	None
-4	Leg	596	Unavailable	547	0	0	None
-4	Leg	599	Unavailable	550	0	0	None
-4	Leg	600	Unavailable	551	0	0	None
-4	Leg	601	Unavailable	552	0	0	None
-4	Leg	602	Unavailable	553	0	0	None
-4	Leg	603	Unavailable	554	0	0	None
-4	Leg	604	Unavailable	555	0	0	None
-4	Leg	605	Unavailable	556	0	0	None
-4	Leg	606	Unavailable	557	0	0	None
-4	Leg	607	Unavailable	558	0	0	None
-4	Leg	608	Unavailable	559	0	0	None
-4	Leg	609	Unavailable	560	0	0	None
-4	Leg	610	Unavailable	561	0	0	None
-4	Leg	611	Unavailable	562	0	0	None
-4	Leg	612	Unavailable	563	0	0	None
-4	Leg	613	Unavailable	564	0	0	None
-4	Leg	614	Unavailable	565	0	0	None
-4	Leg	615	Unavailable	566	0	0	None
-4	Leg	616	Unavailable	567	0	0	None
-4	Leg	617	Unavailable	568	0	0	None
-4	Leg	618	Unavailable	569	0	0	None
-4	Leg	619	Unavailable	570	0	0	None
-4	Leg	620	Unavailable	571	0	0	None
-4	Leg	621	Unavailable	572	0	0	None
-4	Leg	622	Unavailable	573	0	0	None
-4	Leg	623	Unavailable	574	0	0	None
+4	Leg	595	Nagolen. wars. z Vespoida+	546	0	8	pl007_0001
+4	Leg	596	Nag. warstw. z Hornetaura+	547	0	8	pl017_0001
+4	Leg	599	Nag. warstwowe z Jagrasa+	550	0	8	pl008_0001
+4	Leg	600	Nag. warstwowe z Tzitzi+	551	0	8	pl023_0001
+4	Leg	601	Nag. warstwowe z Girrosa+	552	0	8	pl022_0001
+4	Leg	602	Nagolenice wars. Dodogamy+	553	0	8	pl039_0001
+4	Leg	603	Nagolen. warstwowe z Kulu+	554	0	8	pl009_0001
+4	Leg	604	Nag. warstwowe z Pukei+	555	0	8	pl010_0001
+4	Leg	605	Nagol. wars. z Kor. Pukei+	556	0	8	pl010_0101
+4	Leg	606	Nag. warstwowe z Barrotha+	557	0	8	pl012_0001
+4	Leg	607	Nagol. warstwowe z Jyura+	558	0	8	pl011_0001
+4	Leg	608	Nagolenice warst. z Beo+	559	0	8	pl110_0000
+4	Leg	609	Nag. warstwowe z Kadachi+	560	0	8	pl013_0001
+4	Leg	610	Nag. war. ze Żm. Kadachi+	561	0	8	pl013_0101
+4	Leg	611	Nagol. warstw. z Banbaro<ICON ALPHA>+	562	0	8	pl084_0000
+4	Leg	612	Nagol. warstw. z Banbaro<ICON BETA>+	563	0	8	pl084_0010
+4	Leg	613	Nagolenice wars. z Anja<ICON ALPHA>+	564	0	8	pl020_0001
+4	Leg	614	Nagolenice wars. z Anja<ICON BETA>+	565	0	8	pl020_0011
+4	Leg	615	Nagol. war. z Pior. Anja<ICON ALPHA>+	566	0	10	pl020_0101
+4	Leg	616	Nagol. war. z Pior. Anja<ICON BETA>+	567	0	10	pl020_0111
+4	Leg	617	Nagol. wars. z Rathiany<ICON ALPHA>+	568	0	8	pl021_0001
+4	Leg	618	Nagol. wars. z Rathiany<ICON BETA>+	569	0	8	pl021_0011
+4	Leg	619	Nag. warstw. serca Ratha<ICON ALPHA>+	570	0	8	pl021_0101
+4	Leg	620	Nag. warstw. serca Ratha<ICON BETA>+	571	0	8	pl021_0111
+4	Leg	621	Nagol. warstwowe z Lumu+	572	0	8	pl024_0001
+4	Leg	622	Nagol. war. fant. z Lumu+	573	0	8	pl024_0101
+4	Leg	623	Nogi warstw. z Radobaana+	574	0	8	pl028_0001
 4	Leg	624	Nag. warstwowe z artianu	575	0	9	pl091_0000
-4	Leg	625	Unavailable	674	0	0	None
-4	Leg	626	Unavailable	576	0	0	None
-4	Leg	627	Unavailable	577	0	0	None
-4	Leg	628	Unavailable	578	0	0	None
-4	Leg	629	Unavailable	579	0	0	None
-4	Leg	630	Unavailable	580	0	0	None
-4	Leg	631	Unavailable	581	0	0	None
-4	Leg	632	Unavailable	582	0	0	None
-4	Leg	633	Unavailable	583	0	0	None
-4	Leg	634	Unavailable	584	0	0	None
-4	Leg	635	Unavailable	585	0	0	None
-4	Leg	636	Unavailable	586	0	0	None
-4	Leg	637	Unavailable	587	0	0	None
-4	Leg	638	Unavailable	588	0	0	None
-4	Leg	639	Unavailable	589	0	0	None
-4	Leg	640	Unavailable	590	0	0	None
-4	Leg	641	Unavailable	591	0	0	None
-4	Leg	642	Unavailable	592	0	0	None
-4	Leg	643	Unavailable	593	0	0	None
-4	Leg	644	Unavailable	594	0	0	None
-4	Leg	645	Unavailable	595	0	0	None
-4	Leg	646	Unavailable	596	0	0	None
-4	Leg	647	Unavailable	597	0	0	None
-4	Leg	648	Unavailable	598	0	0	None
-4	Leg	649	Unavailable	599	0	0	None
-4	Leg	650	Unavailable	600	0	0	None
-4	Leg	651	Unavailable	601	0	0	None
-4	Leg	652	Unavailable	602	0	0	None
-4	Leg	653	Unavailable	603	0	0	None
-4	Leg	654	Unavailable	604	0	0	None
-4	Leg	655	Unavailable	605	0	0	None
-4	Leg	656	Unavailable	606	0	0	None
-4	Leg	657	Unavailable	607	0	0	None
+4	Leg	625	Zegarowe<ICON BETA>+ nagolenice war.	674	0	9	pl104_0000
+4	Leg	626	Nagol. warst. z Bariotha<ICON ALPHA>+	576	0	9	pl089_0000
+4	Leg	627	Nagol. warst. z Bariotha<ICON BETA>+	577	0	9	pl089_0010
+4	Leg	628	Nagol. wars. z Rathalosa<ICON ALPHA>+	578	0	9	pl033_0001
+4	Leg	629	Nagol. wars. z Rathalosa<ICON BETA>+	579	0	9	pl033_0011
+4	Leg	630	Nag. warstw. duszy Ratha<ICON ALPHA>+	580	0	10	pl033_0101
+4	Leg	631	Nag. warstw. duszy Ratha<ICON BETA>+	581	0	10	pl033_0111
+4	Leg	632	Nagol. warst. z Diablosa<ICON ALPHA>+	582	0	9	pl034_0001
+4	Leg	633	Nagol. warst. z Diablosa<ICON BETA>+	583	0	9	pl034_0011
+4	Leg	634	Nag. war. Czarnej Diabli<ICON ALPHA>+	584	0	10	pl034_0101
+4	Leg	635	Nag. war. Czarnej Diabli<ICON BETA>+	585	0	10	pl034_0111
+4	Leg	636	Nagolenice war. z Legii<ICON ALPHA>+	586	0	9	pl027_0001
+4	Leg	637	Nagolenice war. z Legii<ICON BETA>+	587	0	9	pl027_0011
+4	Leg	638	Nagol. war. z wrz. Legii<ICON ALPHA>+	588	0	10	pl027_0500
+4	Leg	639	Nagol. war. z wrz. Legii<ICON BETA>+	589	0	10	pl027_0510
+4	Leg	640	Nagol. war. z Odogarona<ICON ALPHA>+	590	0	9	pl029_0001
+4	Leg	641	Nagol. war. z Odogarona<ICON BETA>+	591	0	9	pl029_0011
+4	Leg	642	Nagol. war. z Garona Śm.<ICON ALPHA>+	592	0	10	pl029_0101
+4	Leg	643	Nagol. war. z Garona Śm.<ICON BETA>+	593	0	10	pl029_0111
+4	Leg	644	Nagolen. war. Lavasiotha+	594	0	9	pl040_0001
+4	Leg	645	Nagolenice war. Uragaana+	595	0	9	pl041_0001
+4	Leg	646	Nagol. war. z Nargacuga<ICON ALPHA>+	596	0	9	pl080_0000
+4	Leg	647	Nagol. war. z Nargacuga<ICON BETA>+	597	0	9	pl080_0010
+4	Leg	648	Nagol. war. z Glavenusa<ICON ALPHA>+	598	0	9	pl081_0000
+4	Leg	649	Nagol. war. z Glavenusa<ICON BETA>+	599	0	9	pl081_0010
+4	Leg	650	Nagol. w. z Kw. Glaven.<ICON ALPHA>+	600	0	10	pl081_0100
+4	Leg	651	Nagol. w. z Kw. Glaven.<ICON BETA>+	601	0	10	pl081_0110
+4	Leg	652	Nagol. war. z Brachyd.<ICON ALPHA>+	602	0	9	pl082_0000
+4	Leg	653	Nagol. war. z Brachyd.<ICON BETA>+	603	0	9	pl082_0010
+4	Leg	654	Nagol. war. z Tigrexa<ICON ALPHA>+	604	0	9	pl083_0000
+4	Leg	655	Nagol. war. z Tigrexa<ICON BETA>+	605	0	9	pl083_0010
+4	Leg	656	Nagolenice warst. ryku<ICON ALPHA>+	606	0	10	pl083_0100
+4	Leg	657	Nagolenice warst. ryku<ICON BETA>+	607	0	10	pl083_0110
 4	Leg	658	Nag. warstw. czarn. pasa	608	0	10	pl093_0000
-4	Leg	659	Unavailable	609	0	0	None
-4	Leg	660	Unavailable	610	0	0	None
-4	Leg	661	Unavailable	611	0	0	None
-4	Leg	662	Unavailable	612	0	0	None
-4	Leg	663	Unavailable	613	0	0	None
-4	Leg	664	Unavailable	614	0	0	None
-4	Leg	665	Unavailable	615	0	0	None
-4	Leg	666	Unavailable	616	0	0	None
-4	Leg	667	Unavailable	617	0	0	None
-4	Leg	668	Unavailable	618	0	0	None
-4	Leg	669	Unavailable	619	0	0	None
-4	Leg	670	Unavailable	620	0	0	None
-4	Leg	671	Unavailable	621	0	0	None
-4	Leg	672	Unavailable	622	0	0	None
-4	Leg	673	Unavailable	623	0	0	None
-4	Leg	674	Unavailable	624	0	0	None
-4	Leg	675	Unavailable	625	0	0	None
-4	Leg	678	Unavailable	628	0	0	None
-4	Leg	679	Unavailable	629	0	0	None
-4	Leg	680	Unavailable	630	0	0	None
-4	Leg	681	Unavailable	631	0	0	None
-4	Leg	682	Unavailable	632	0	0	None
-4	Leg	683	Unavailable	633	0	0	None
-4	Leg	684	Unavailable	634	0	0	None
-4	Leg	685	Unavailable	635	0	0	None
-4	Leg	686	Unavailable	636	0	0	None
-4	Leg	687	Unavailable	637	0	0	None
-4	Leg	688	Unavailable	638	0	0	None
-4	Leg	689	Unavailable	639	0	0	None
-4	Leg	690	Unavailable	640	0	0	None
-4	Leg	691	Unavailable	641	0	0	None
-4	Leg	692	Unavailable	642	0	0	None
-4	Leg	693	Unavailable	643	0	0	None
-4	Leg	694	Unavailable	644	0	0	None
-4	Leg	695	Unavailable	645	0	0	None
-4	Leg	696	Unavailable	646	0	0	None
-4	Leg	697	Unavailable	647	0	0	None
-4	Leg	698	Unavailable	648	0	0	None
-4	Leg	699	Unavailable	649	0	0	None
-4	Leg	700	Unavailable	650	0	0	None
-4	Leg	701	Unavailable	651	0	0	None
-4	Leg	702	Unavailable	652	0	0	None
-4	Leg	703	Unavailable	653	0	0	None
-4	Leg	704	Unavailable	654	0	0	None
-4	Leg	705	Unavailable	655	0	0	None
-4	Leg	706	Unavailable	656	0	0	None
-4	Leg	707	Unavailable	657	0	0	None
-4	Leg	708	Unavailable	658	0	0	None
-4	Leg	709	Unavailable	659	0	0	None
-4	Leg	710	Unavailable	660	0	0	None
-4	Leg	715	Unavailable	665	0	0	None
-4	Leg	716	Unavailable	666	0	0	None
+4	Leg	659	Nagolenice warstw. dumy<ICON ALPHA>+	609	0	10	pl042_0500
+4	Leg	660	Nagolenice warstw. dumy<ICON BETA>+	610	0	10	pl042_0510
+4	Leg	661	Nagolenice warst. żądzy<ICON ALPHA>+	611	0	10	pl050_0500
+4	Leg	662	Nagolenice warst. żądzy<ICON BETA>+	612	0	10	pl050_0510
+4	Leg	663	Szronowe nagol. warstw.<ICON ALPHA>+	613	0	11	pl085_0000
+4	Leg	664	Szronowe nagol. warstw.<ICON BETA>+	614	0	11	pl085_0010
+4	Leg	665	Nagolen. warst. całunu<ICON ALPHA>+	615	0	11	pl032_0500
+4	Leg	666	Nagolen. warst. całunu<ICON BETA>+	616	0	11	pl032_0510
+4	Leg	667	Nagol. wars. z Teostry<ICON ALPHA>+	617	0	11	pl046_0001
+4	Leg	668	Nagol. wars. z Teostry<ICON BETA>+	618	0	11	pl046_0011
+4	Leg	669	Nagolen. war. Kushali<ICON ALPHA>+	619	0	11	pl047_0001
+4	Leg	670	Nagolen. war. Kushali<ICON BETA>+	620	0	11	pl047_0011
+4	Leg	671	Nagol. warstw. Kirina<ICON ALPHA>+	621	0	11	pl035_0001
+4	Leg	672	Nagol. warstw. Kirina<ICON BETA>+	622	0	11	pl035_0011
+4	Leg	673	Nagol. warstw. z macek<ICON ALPHA>+	623	0	11	pl086_0000
+4	Leg	674	Nagol. warstw. z macek<ICON BETA>+	624	0	11	pl086_0010
+4	Leg	675	Nagol. warst. pał. Gildii+	625	0	10	pl094_0000
+4	Leg	678	Nagol. warstw. Shara<ICON ALPHA>+	628	0	11	pl088_0000
+4	Leg	679	Nagol. warstw. Shara<ICON BETA>+	629	0	11	pl088_0010
+4	Leg	680	Nagol. warst. z Garugi<ICON ALPHA>+	630	0	10	pl108_0000
+4	Leg	681	Nagol. warst. z Garugi<ICON BETA>+	631	0	10	pl108_0010
+4	Leg	682	Nagol. warst. z Zinogra<ICON ALPHA>+	632	0	10	pl107_0000
+4	Leg	683	Nagol. warst. z Zinogra<ICON BETA>+	633	0	10	pl107_0010
+4	Leg	684	Nag. wars. złot. księż.<ICON ALPHA>+	634	0	11	pl021_0200
+4	Leg	685	Nag. wars. złot. księż.<ICON BETA>+	635	0	11	pl021_0210
+4	Leg	686	Nag. wars. sreb. słońca<ICON ALPHA>+	636	0	11	pl033_0200
+4	Leg	687	Nag. wars. sreb. słońca<ICON BETA>+	637	0	11	pl033_0210
+4	Leg	688	Nagol. wars. z Lunastry<ICON ALPHA>+	638	0	11	pl051_0001
+4	Leg	689	Nagol. wars. z Lunastry<ICON BETA>+	639	0	11	pl051_0011
+4	Leg	690	Niszczyc. nagol. war.<ICON ALPHA>+	640	0	11	pl030_0500
+4	Leg	691	Niszczyc. nagol. war.<ICON BETA>+	641	0	11	pl030_0510
+4	Leg	692	Nagol. warst. Gildii+	642	0	11	pl092_0000
+4	Leg	693	Nagol. warstw. Rajanga<ICON ALPHA>+	643	0	10	pl109_0000
+4	Leg	694	Nagol. warstw. Rajanga<ICON BETA>+	644	0	10	pl109_0010
+4	Leg	695	Stygijskie nagol. war.<ICON ALPHA>+	645	0	10	pl107_0100
+4	Leg	696	Stygijskie nagol. war.<ICON BETA>+	646	0	10	pl107_0110
+4	Leg	697	Nagolen. warstw. Safi<ICON ALPHA>+	647	0	11	pl087_0000
+4	Leg	698	Nagolen. warstw. Safi<ICON BETA>+	648	0	11	pl087_0010
+4	Leg	699	Nag. wars. Wściek. Raj.<ICON ALPHA>+	649	0	11	pl109_0500
+4	Leg	700	Nag. wars. Wściek. Raj.<ICON BETA>+	650	0	11	pl109_0510
+4	Leg	701	Brachydyj. nagol. wars.<ICON ALPHA>+	651	0	11	pl082_0500
+4	Leg	702	Brachydyj. nagol. wars.<ICON BETA>+	652	0	11	pl082_0510
+4	Leg	703	Nagol. wars. z Mrozokła<ICON ALPHA>+	653	0	10	pl089_0500
+4	Leg	704	Nagol. wars. z Mrozokła<ICON BETA>+	654	0	10	pl089_0510
+4	Leg	705	Nagol. warstw. głodu<ICON ALPHA>+	655	0	11	pl052_0000
+4	Leg	706	Nagol. warstw. głodu<ICON BETA>+	656	0	11	pl052_0010
+4	Leg	707	Smocze nagol. warstw.<ICON ALPHA>+	657	0	11	pl129_0000
+4	Leg	708	Smocze nagol. warstw.<ICON BETA>+	658	0	11	pl129_0010
+4	Leg	709	Nagol. warstw. Kulve<ICON ALPHA>+	659	0	11	pl049_0001
+4	Leg	710	Nagol. warstw. Kulve<ICON BETA>+	660	0	11	pl049_0011
+4	Leg	715	Nagol. w. niezłej rzeźby<ICON ALPHA>+	665	0	10	pl115_0000
+4	Leg	716	Nagol. warstw. Lazur. Ery	666	0	11	pl072_0001
 4	Leg	717	Unavailable	667	0	0	None
-4	Leg	718	Unavailable	668	0	0	None
-4	Leg	719	Unavailable	669	0	0	None
-4	Leg	720	Unavailable	670	0	0	None
+4	Leg	718	HARDUMMY	668	0	11	pl068_0020
+4	Leg	719	Szronowe nagol. warstw.<ICON GAMMA>+	669	0	11	pl085_0020
+4	Leg	720	Nagol. warstw. z macek<ICON GAMMA>+	670	0	11	pl086_0020
 4	Leg	721	Unavailable	671	0	0	None
-4	Leg	722	Unavailable	672	0	0	None
+4	Leg	722	Nagol. w. niezł. rzeźby<ICON GAMMA>+	672	0	11	pl115_0001
 4	Leg	723	Bieliz.<ICON ALPHA>nagolen. warstw.	673	0	11	pl500_0000
 4	Leg	724	Bieliz.<ICON BETA>nagolen. warstw.	675	0	11	pl501_0000
 4	Leg	725	Unavailable	676	0	0	None
@@ -3400,7 +3400,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	319	Amulet mrozu IV	0	0	10	None
 5	Charm	320	Amulet mrozu V	0	0	11	None
 5	Charm	321	Amulet mistrza IV	0	0	10	None
-5	Charm	322	Unavailable	0	0	0	None
+5	Charm	322	Amulet mistrza V	0	0	11	None
 5	Charm	323	Amulet uniku IV	0	0	11	None
 5	Charm	324	Amulet uniku V	0	0	11	None
 5	Charm	325	Amulet smokozmory IV	0	0	10	None
@@ -3414,11 +3414,11 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	333	Amulet grzybów III	0	0	10	None
 5	Charm	334	Amulet przebudzenia III	0	0	11	None
 5	Charm	335	Amulet rękodzieła IV	0	0	11	None
-5	Charm	336	Unavailable	0	0	0	None
+5	Charm	336	Amulet rękodzieła V	0	0	11	None
 5	Charm	337	Amulet zatyczek IV	0	0	11	None
-5	Charm	338	Unavailable	0	0	0	None
+5	Charm	338	Amulet zatyczek V	0	0	11	None
 5	Charm	339	Amulet wstrząsów III	0	0	11	None
-5	Charm	340	Unavailable	0	0	0	None
+5	Charm	340	Amulet spryciarza III	0	0	11	None
 5	Charm	341	Amulet skupienia III	0	0	11	None
 5	Charm	342	Amulet łamacza III	0	0	10	None
 5	Charm	343	Amulet furii III	0	0	10	None
@@ -3437,7 +3437,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	356	Am. mocarności III	0	0	11	None
 5	Charm	357	Amulet uderzenia III	0	0	10	None
 5	Charm	358	Amulet krytyczny II	0	0	11	None
-5	Charm	359	Unavailable	0	0	0	None
+5	Charm	359	Amulet krytyczny III	0	0	11	None
 5	Charm	360	Am. orzeźwienia III	0	0	10	None
 5	Charm	361	Amulet feniksa I	0	0	10	None
 5	Charm	362	Amulet feniksa II	0	0	11	None
@@ -3461,7 +3461,7 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 5	Charm	380	Amulet przetrwania II	0	0	2	None
 5	Charm	381	Amulet przetrwania III	0	0	2	None
 5	Charm	382	Unavailable	0	0	2	None
-5	Charm	383	Unavailable	0	0	0	None
+5	Charm	383	Amulet młokosa	0	0	8	None
 5	Charm	384	Unavailable	0	0	0	None
 5	Charm	385	Unavailable	0	0	0	None
 5	Charm	386	Unavailable	0	0	0	None

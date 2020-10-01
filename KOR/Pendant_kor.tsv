@@ -62,7 +62,7 @@ Pendant ID	Pendant Code	Pendant Name	Model
 60	CHARM_060_NAME	패자의 증표-레이아 로즈	charm005
 61	CHARM_061_NAME	활짝 핀 부케	charm006
 62	CHARM_062_NAME	정열의 태양	charm007
-63	DUMMY000000	Unavailable	charm001
+63	CHARM_063_NAME	나이트 배트-뱀프	charm008
 64	CHARM_064_NAME	만복의 호랑이-주홍	charm009
 65	CHARM_065_NAME	대감사 은장식-하늘	charm010
 66	CHARM_066_NAME	강자의 손톱 장식【금사자】	charm011
@@ -73,19 +73,19 @@ Pendant ID	Pendant Code	Pendant Name	Model
 71	CHARM_071_NAME	영웅의 휘석【황흑룡】	charm016
 72	CHARM_072_NAME	용자의 손톱 장식【금화룡】	charm017
 73	CHARM_073_NAME	용자의 손톱 장식【은화룡】	charm018
-74	DUMMY000001	Unavailable	charm001
-75	DUMMY000002	Unavailable	charm001
-76	DUMMY000003	Unavailable	charm001
-77	DUMMY000004	Unavailable	charm001
-78	DUMMY000005	Unavailable	charm001
-79	DUMMY000006	Unavailable	charm001
-80	DUMMY000007	Unavailable	charm001
-81	DUMMY000008	Unavailable	charm001
+74	DUMMY000000	Unavailable	charm001
+75	DUMMY000001	Unavailable	charm001
+76	DUMMY000002	Unavailable	charm001
+77	DUMMY000003	Unavailable	charm001
+78	DUMMY000004	Unavailable	charm001
+79	DUMMY000005	Unavailable	charm001
+80	DUMMY000006	Unavailable	charm001
+81	CHARM_081_NAME	역전왕의 휘석【빙룡】	charm026
 82	CHARM_082_NAME	역전왕의 휘석【명룡】	charm027
-83	DUMMY000009	Unavailable	charm001
-84	DUMMY000010	Unavailable	charm001
-85	DUMMY000011	Unavailable	charm001
-86	CHARM_086_NAME	HARDUMMY	charm031
+83	DUMMY000007	Unavailable	charm001
+84	DUMMY000008	Unavailable	charm001
+85	CHARM_085_NAME	전설의 증표【흑룡】	charm030
+86	CHARM_086_NAME	푸른빛 풍경	charm031
 87	CHARM_087_NAME	HARDUMMY	charm032
 88	CHARM_088_NAME	R.P.D.	charm033
 89	CHARM_089_NAME	엄브렐러	charm034
@@ -108,10 +108,10 @@ Pendant ID	Pendant Code	Pendant Name	Model
 106	CHARM_106_NAME	정열의 태양-그레이프	charm007
 107	CHARM_107_NAME	정열의 태양-드래곤	charm007
 108	CHARM_108_NAME	정열의 태양-리치	charm007
-109	DUMMY000012	Unavailable	charm001
-110	DUMMY000013	Unavailable	charm001
-111	DUMMY000014	Unavailable	charm001
-112	DUMMY000015	Unavailable	charm001
+109	CHARM_109_NAME	나이트 배트-랜턴	charm008
+110	CHARM_110_NAME	나이트 배트-실프	charm008
+111	CHARM_111_NAME	나이트 배트-프로스트	charm008
+112	CHARM_112_NAME	나이트 배트-픽시	charm008
 113	CHARM_113_NAME	만복의 호랑이-분홍	charm009
 114	CHARM_114_NAME	만복의 호랑이-연두	charm009
 115	CHARM_115_NAME	만복의 호랑이-연보라	charm009
@@ -125,8 +125,8 @@ Pendant ID	Pendant Code	Pendant Name	Model
 123	CHARM_123_NAME	활짝 핀 부케-퍼플	charm006
 124	CHARM_124_NAME	정열의 태양-구아바	charm007
 125	CHARM_125_NAME	정열의 태양-레몬	charm007
-126	DUMMY000016	Unavailable	charm001
-127	DUMMY000017	Unavailable	charm001
+126	CHARM_126_NAME	나이트 배트-볼트	charm008
+127	CHARM_127_NAME	나이트 배트-위스프	charm008
 128	CHARM_128_NAME	만복의 호랑이-짙은 초록	charm009
 129	CHARM_129_NAME	만복의 호랑이-오렌지	charm009
 130	CHARM_130_NAME	대감사 동장식-보라	charm010
@@ -172,26 +172,27 @@ Pendant ID	Pendant Code	Pendant Name	Model
 170	CHARM_170_NAME	플래티넘맘하트-황옥	charm062
 171	CHARM_171_NAME	플래티넘맘하트-청옥	charm062
 172	CHARM_172_NAME	플래티넘맘하트-벚꽃	charm062
-173	DUMMY000018	Unavailable	charm001
-174	DUMMY000019	Unavailable	charm001
+173	CHARM_173_NAME	대천사 푸기엘☆	charm065
+174	CHARM_174_NAME	대마왕 푸기퍼★	charm066
 175	CHARM_175_NAME	하늘의 관측룡-금	charm067
 176	CHARM_176_NAME	하늘의 관측룡-은	charm068
-177	DUMMY000020	Unavailable	charm001
+177	CHARM_177_NAME	주방장의 안주 세트	charm070
 178	CHARM_178_NAME	환상호접-청	charm071
 179	CHARM_179_NAME	환상호접-비취	charm071
 180	CHARM_180_NAME	환상호접-홍	charm071
-181	DUMMY000021	Unavailable	charm001
-182	DUMMY000022	Unavailable	charm001
-183	DUMMY000023	Unavailable	charm001
-184	DUMMY000024	Unavailable	charm001
+181	CHARM_181_NAME	기계식 금시계	charm075
+182	CHARM_182_NAME	기계식 은시계	charm076
+183	CHARM_183_NAME	슈퍼 에이트미니-1P	charm064
+184	CHARM_184_NAME	슈퍼 에이트미니-2P	charm063
 185	CHARM_185_NAME	크리스털나이프-홍옥	charm078
 186	CHARM_186_NAME	크리스털나이프-호박	charm078
 187	CHARM_187_NAME	크리스털나이프-유리	charm078
 188	CHARM_188_NAME	초전뇌광충	charm073
 189	CHARM_189_NAME	식룡충	charm074
 190	CHARM_190_NAME	얼음꽃 부적【빙룡】	charm080
-191	DUMMY000025	Unavailable	charm001
-192	DUMMY000026	Unavailable	charm001
-193	DUMMY000027	Unavailable	charm001
-194	DUMMY000028	Unavailable	charm001
-195	DUMMY000029	Unavailable	charm001
+191	CHARM_191_NAME	뜨거운 촛대【참룡】	charm077
+192	CHARM_192_NAME	화들짝 쿠루루야크	charm079
+193	DUMMY000009	Unavailable	charm001
+194	CHARM_194_NAME	길드 포상-구원의 헌터	charm081
+195	CHARM_195_NAME	인도하는 결정-인연	charm082
+196	CHARM_196_NAME	HARDUMMY	charm083

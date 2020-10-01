@@ -124,12 +124,12 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	162	Melena Kulve F <ICON ALPHA>+	otomo/equip/ot025/helm
 0	Helmet	163	Casco de Mega Man <ICON ALPHA>+	otomo/equip/ot035/helm
 0	Helmet	164	Cabeza de moguri <ICON ALPHA>+	otomo/equip/ot038/helm
-0	Helmet	165	HARDUMMY	otomo/equip/ot037/helm
+0	Helmet	165	Yelmo estr. celeste F <ICON ALPHA>+	otomo/equip/ot037/helm
 0	Helmet	166	HARDUMMY	otomo/equip/ot036/helm
 0	Helmet	167	Yelmo samurái F <ICON ALPHA>+	otomo/equip/ot039/helm
 0	Helmet	168	Sombrero primaveral F <ICON ALPHA>+	otomo/equip/ot040/helm
 0	Helmet	169	Sombrero hawaiano F <ICON ALPHA>+	otomo/equip/ot041/helm
-0	Helmet	170	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	170	Cabeza Mialloween F <ICON ALPHA>+	otomo/equip/ot042/helm
 0	Helmet	171	Cabeza gato nival F <ICON ALPHA>+	otomo/equip/ot043/helm
 0	Helmet	172	Cabeza de estrella F <ICON ALPHA>+	otomo/equip/ot044/helm
 0	Helmet	173	Cubrecabeza cuero F <ICON ALPHA>+	otomo/equip/ot001/helm
@@ -141,18 +141,18 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	179	Gorro del gremio F <ICON ALPHA>+	otomo/equip/ot063/helm
 0	Helmet	180	Sombrero de rosas F <ICON ALPHA>+	otomo/equip/ot075/helm
 0	Helmet	181	Cabeza de Pukei F <ICON ALPHA>+	otomo/equip/ot076/helm
-0	Helmet	182	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	182	Cabeza Frankie F <ICON ALPHA>+	otomo/equip/ot077/helm
 0	Helmet	183	Cabeza Shishi-mai F <ICON ALPHA>+	otomo/equip/ot078/helm
 0	Helmet	184	Casco espacial F <ICON ALPHA>+	otomo/equip/ot079/helm
 0	Helmet	185	Cubrecabeza cuero F	otomo/equip/ot000/helm
 0	Helmet	186	Cubrecabeza cuero F	otomo/equip/ot000/helm
 0	Helmet	187	Cubrecabeza cuero F	otomo/equip/ot000/helm
-0	Helmet	188	HARDUMMY	otomo/equip/ot080/helm
+0	Helmet	188	Cza. león Era Celeste F <ICON ALPHA>+	otomo/equip/ot080/helm
 0	Helmet	189	HARDUMMY	otomo/equip/ot081/helm
 0	Helmet	190	Cabeza de gorgasia F <ICON ALPHA>+	otomo/equip/ot082/helm
 0	Helmet	191	Cubrecabeza cuero F	otomo/equip/ot000/helm
 0	Helmet	192	Peluca Cynodon F <ICON ALPHA>+	otomo/equip/ot083/helm
-0	Helmet	193	Cubrecabeza cuero F	otomo/equip/ot000/helm
+0	Helmet	193	Cabeza de Fatalis F <ICON ALPHA>+	otomo/equip/ot084/helm
 0	Helmet	194	Cubrecabeza cuero F	otomo/equip/ot000/helm
 0	Helmet	195	Pelo de director F <ICON ALPHA>+	otomo/equip/ot085/helm
 0	Helmet	196	Cubrecabeza cuero F	otomo/equip/ot000/helm
@@ -286,12 +286,12 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	162	Traje de Kulve F <ICON ALPHA>+	otomo/equip/ot025/body
 1	Armor	163	Traje de Mega Man <ICON ALPHA>+	otomo/equip/ot035/body
 1	Armor	164	Cuerpo de moguri <ICON ALPHA>+	otomo/equip/ot038/body
-1	Armor	165	HARDUMMY	otomo/equip/ot037/body
+1	Armor	165	Coraza estr. celeste F <ICON ALPHA>+	otomo/equip/ot037/body
 1	Armor	166	HARDUMMY	otomo/equip/ot036/body
 1	Armor	167	Armadura samurái F <ICON ALPHA>+	otomo/equip/ot039/body
 1	Armor	168	Traje primaveral F <ICON ALPHA>+	otomo/equip/ot040/body
 1	Armor	169	Camisa hawaiana F <ICON ALPHA>+	otomo/equip/ot041/body
-1	Armor	170	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	170	Atuendo fantasmal F <ICON ALPHA>+	otomo/equip/ot042/body
 1	Armor	171	Traje gato nival F <ICON ALPHA>+	otomo/equip/ot043/body
 1	Armor	172	Traje de estrella F <ICON ALPHA>+	otomo/equip/ot044/body
 1	Armor	173	Chaleco de cuero F <ICON ALPHA>+	otomo/equip/ot001/body
@@ -303,18 +303,18 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	179	Chaqueta gremio F <ICON ALPHA>+	otomo/equip/ot063/body
 1	Armor	180	Vestido de rosas F <ICON ALPHA>+	otomo/equip/ot075/body
 1	Armor	181	Cuerpo de Pukei F <ICON ALPHA>+	otomo/equip/ot076/body
-1	Armor	182	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	182	Cuerpo Frankie F <ICON ALPHA>+	otomo/equip/ot077/body
 1	Armor	183	Cuerpo Shishi-mai F <ICON ALPHA>+	otomo/equip/ot078/body
 1	Armor	184	Traje espacial F <ICON ALPHA>+	otomo/equip/ot079/body
 1	Armor	185	Cubrecabeza cuero F	otomo/equip/ot000/body
 1	Armor	186	Cubrecabeza cuero F	otomo/equip/ot000/body
 1	Armor	187	Cubrecabeza cuero F	otomo/equip/ot000/body
-1	Armor	188	HARDUMMY	otomo/equip/ot080/body
+1	Armor	188	Kimono Era Celeste F <ICON ALPHA>+	otomo/equip/ot080/body
 1	Armor	189	HARDUMMY	otomo/equip/ot081/body
 1	Armor	190	Cazuela de gorgasia F <ICON ALPHA>+	otomo/equip/ot082/body
 1	Armor	191	Cubrecabeza cuero F	otomo/equip/ot000/body
 1	Armor	192	Uniforme Cynodon F <ICON ALPHA>+	otomo/equip/ot083/body
-1	Armor	193	Cubrecabeza cuero F	otomo/equip/ot000/body
+1	Armor	193	Cuerpo de Fatalis F <ICON ALPHA>+	otomo/equip/ot084/body
 1	Armor	194	Cubrecabeza cuero F	otomo/equip/ot000/body
 1	Armor	195	Traje de director F <ICON ALPHA>+	otomo/equip/ot085/body
 1	Armor	196	Cota bellota F <ICON ALPHA>+	otomo/equip/ot086/body

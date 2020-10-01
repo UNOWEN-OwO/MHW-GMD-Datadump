@@ -356,8 +356,8 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 51606	Qui sème le vent récolte la tempête	Tuer un Brachydios tempête	Temps imparti écouléS'évanouir 3 fois
 51607	De l’orage dans l’air	Chasser un Rajang orage	Temps imparti écouléS'évanouir 3 fois
 51611	Crépuscule ardent	Tuer un Alatreon	Temps imparti écouléS'évanouir 3 fois
-51612	Unavailable	Unavailable	Unavailable
-51613	Unavailable	Unavailable	Unavailable
+51612	Le dragon noir	Tuer le Fatalis	Temps imparti écouléS'évanouir 5 fois
+51613	Triomphe de l'aube	Tuer l'Alatreon	Temps imparti écouléS'évanouir 3 fois
 51621	Arène spéciale : Zinogre stygien	Chasser un Zinogre stygien	Temps imparti écouléS'évanouir 3 fois
 51622	Cœur blessé	Tuer un Brachydios tempête	Temps imparti écouléS'évanouir 3 fois
 51623	Tout ce qui brille n'est pas d'or	Chasser un Rajang orage	Temps imparti écouléS'évanouir 3 fois
@@ -500,9 +500,23 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66834	Vitesse et rugissement	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
 66835	La colère du tonnerre	Chasser un Zinogre	Temps imparti écouléS'évanouir 3 fois
 66836	Ode à la destruction	Tuer un Nergigante chaos	Temps imparti écouléS'évanouir 3 fois
+66840	Avis de tempête	Tuer un Kushala Daora	Temps imparti écouléS'évanouir 3 fois
+66841	Un soleil de plomb	Tuer un Teostra	Temps imparti écouléS'évanouir 3 fois
+66842	Tout feu tout flammes	Tuer une Lunastra	Temps imparti écouléS'évanouir 3 fois
+66843	L'étoile du soir	Tuer un Alatreon	Temps imparti écouléS'évanouir 3 fois
+66844	Crépuscule de l'étoile de la mort	Tuer un Alatreon	Temps imparti écouléS'évanouir 3 fois
+66846	Le dernier chevalier blanc	Chasser un Barioth crocgivre	Temps imparti écouléS'évanouir 3 fois
 66847	Contre vents et marées	Tuer un Namielle	Temps imparti écouléS'évanouir 3 fois
+66853	Enfiler des perles	Livrer 8 perles de lumière	Temps imparti écouléS'évanouir 3 fois
+66854	Camouflop	Chasser un Rathian	Temps imparti écouléS'évanouir 3 fois
+66855	Voir c'est croire	Chasser un Tigrex	Temps imparti écouléS'évanouir 3 fois
+66856	Ce matin un lapin a tué un chasseur	Chasser un Yian Garuga	Temps imparti écouléS'évanouir 3 fois
+66857	Malin comme un singe	Chasser un Rajang orage	Temps imparti écouléS'évanouir 3 fois
+66858	Toute vérité n’est pas bonne à dire	Tuer un Shara Ishvalda	Temps imparti écouléS'évanouir 3 fois
 66859	Ménage de printemps	Chasser un Bazelgeuse vulcan	Temps imparti écouléS'évanouir 3 fois
 66860	La colère du tonnerre	Chasser un Zinogre	Temps imparti écouléS'évanouir 3 fois
+66861	Numero uno !	Chasser un Rajang orage	Temps imparti écouléS'évanouir 5 fois
+66867	Conflit des générations	Chasser un Barioth crocgivre	Temps imparti écouléS'évanouir 3 fois
 67101	L'Éclosion	Chasser un Anjanath	Temps imparti écouléS'évanouir 3 fois
 67102	Leçon des terres sauvages	Tuer 8 Barnos	Temps imparti écouléS'évanouir 3 fois
 67103	Sang pour Sang	Chasser 2 Odogaron	Temps imparti écouléS'évanouir 3 fois

@@ -236,8 +236,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 0	GreatSword	235	꽁꽁 순간냉동 참치	10	Unique Model	wp/two/two025	
 0	GreatSword	236	옥계의 단죄부+	11	Combined Model	wp/two/bs_two003	wp/two/parts/op_two023
 0	GreatSword	237	그라슈오거	10	Unique Model	wp/two/two028	
-0	GreatSword	238	Unavailable	0	Combined Model	wp/two/bs_two002	
-0	GreatSword	239	Unavailable	0	Combined Model	wp/two/bs_two002	
+0	GreatSword	238	밀라블레이드	10	Unique Model	wp/two/two029	
+0	GreatSword	239	블랙밀라블레이드	11	Unique Model	wp/two/two029	
 0	GreatSword	240	궁정왕검【금성】	11	Unique Model	wp/two/two026	
 0	GreatSword	241	Unavailable	0	Combined Model	wp/two/bs_two002	
 0	GreatSword	242	Unavailable	0	Combined Model	wp/two/bs_two002	
@@ -417,7 +417,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 1	Sword&Shield	90	흑강의검Ⅰ	4	Combined Model	wp/one/bs_one002	
 1	Sword&Shield	91	흑강의검Ⅱ	5	Combined Model	wp/one/bs_one002	
 1	Sword&Shield	92	테오스파다	6	Unique Model	wp/one/one001	
-1	Sword&Shield	93	테오엠블렘	7	Unique Model	wp/one/one001	
+1	Sword&Shield	93	테오엠블럼	7	Unique Model	wp/one/one001	
 1	Sword&Shield	94	제노마부라	7	Combined Model	wp/one/bs_one001	wp/one/parts/op_one011
 1	Sword&Shield	103	페이털조	5	Unique Model	wp/one/one009	
 1	Sword&Shield	104	페이털바이트	6	Unique Model	wp/one/one009	
@@ -447,10 +447,10 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 1	Sword&Shield	128	가이라슬라이서-물	7	Combined Model (KT Weapon)	wp/one/bs_one008	
 1	Sword&Shield	129	가이라슬라이서-용	7	Combined Model (KT Weapon)	wp/one/bs_one008	
 1	Sword&Shield	130	가이라슬라이서-폭파	7	Combined Model (KT Weapon)	wp/one/bs_one008	
-1	Sword&Shield	131	엠프리스엣지	6	Combined Model	wp/one/bs_one009	
-1	Sword&Shield	132	엠프리스엣지-염비	7	Combined Model	wp/one/bs_one009	
-1	Sword&Shield	133	엠프리스엣지-멸진	7	Combined Model	wp/one/bs_one009	wp/one/parts/op_one005
-1	Sword&Shield	134	엠프리스엣지-명등	7	Combined Model	wp/one/bs_one009	wp/one/parts/op_one011
+1	Sword&Shield	131	엠프리스에지	6	Combined Model	wp/one/bs_one009	
+1	Sword&Shield	132	엠프리스에지-염비	7	Combined Model	wp/one/bs_one009	
+1	Sword&Shield	133	엠프리스에지-멸진	7	Combined Model	wp/one/bs_one009	wp/one/parts/op_one005
+1	Sword&Shield	134	엠프리스에지-명등	7	Combined Model	wp/one/bs_one009	wp/one/parts/op_one011
 1	Sword&Shield	135	가이라슬라이서-불	7	Combined Model (KT Weapon)	wp/one/bs_one008	
 1	Sword&Shield	136	황제금 검-비적	7	Combined Model (KT Weapon)	wp/one/bs_one013	wp/one/parts/op_one013
 1	Sword&Shield	137	황제금 검-풍표	7	Combined Model (KT Weapon)	wp/one/bs_one013	wp/one/parts/op_one007
@@ -496,13 +496,13 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 1	Sword&Shield	177	라그나블로섬Ⅱ	9	Combined Model	wp/one/bs_one002	wp/one/parts/op_one014
 1	Sword&Shield	178	나가삭스Ⅰ	8	Combined Model	wp/one/bs_one010	wp/one/parts/op_one013
 1	Sword&Shield	179	나가삭스Ⅱ	9	Combined Model	wp/one/bs_one010	wp/one/parts/op_one013
-1	Sword&Shield	180	히든엣지	9	Unique Model	wp/one/one014	
-1	Sword&Shield	181	히든엣지+	9	Unique Model	wp/one/one014	
+1	Sword&Shield	180	히든에지	9	Unique Model	wp/one/one014	
+1	Sword&Shield	181	히든에지+	9	Unique Model	wp/one/one014	
 1	Sword&Shield	182	암야검【혼명】	10	Unique Model	wp/one/one014	
 1	Sword&Shield	183	라그도스애쉬Ⅰ	8	Combined Model	wp/one/bs_one011	
 1	Sword&Shield	184	라그도스애쉬Ⅱ	9	Combined Model	wp/one/bs_one011	
 1	Sword&Shield	185	라그도스애쉬Ⅲ	10	Combined Model	wp/one/bs_one011	
-1	Sword&Shield	186	아이스브리즈	10	Combined Model	wp/one/bs_one012	
+1	Sword&Shield	186	아이스브리제	10	Combined Model	wp/one/bs_one012	
 1	Sword&Shield	187	빙제 안나팰리스	11	Combined Model	wp/one/bs_one012	
 1	Sword&Shield	188	라그도스발킨Ⅰ	8	Combined Model	wp/one/bs_one006	wp/one/parts/op_one008
 1	Sword&Shield	189	라그도스발킨Ⅱ	9	Combined Model	wp/one/bs_one006	wp/one/parts/op_one008
@@ -523,8 +523,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 1	Sword&Shield	204	디노버틀러Ⅱ	9	Combined Model	wp/one/bs_one005	wp/one/parts/op_one018
 1	Sword&Shield	205	볼보스크럼블Ⅰ	8	Combined Model	wp/one/bs_one011	wp/one/parts/op_one003
 1	Sword&Shield	206	볼보스크럼블Ⅱ	9	Combined Model	wp/one/bs_one011	wp/one/parts/op_one003
-1	Sword&Shield	207	디오스엣지	9	Unique Model	wp/one/one015	
-1	Sword&Shield	208	폭검 서모바렛지	10	Unique Model	wp/one/one015	
+1	Sword&Shield	207	디오스에지	9	Unique Model	wp/one/one015	
+1	Sword&Shield	208	폭검 서모버라지	10	Unique Model	wp/one/one015	
 1	Sword&Shield	209	쇄광의 항검	11	Unique Model	wp/one/one025	
 1	Sword&Shield	210	만악검플람시커+	8	Unique Model	wp/one/one006	
 1	Sword&Shield	211	만염검 로긴시커	9	Unique Model	wp/one/one006	
@@ -553,8 +553,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 1	Sword&Shield	234	길드팰리스소드	9	Unique Model	wp/one/one031	
 1	Sword&Shield	235	금수곤【금기】	11	Unique Model	wp/one/one023	
 1	Sword&Shield	236	실버보슈	10	Unique Model	wp/one/one033	
-1	Sword&Shield	237	Unavailable	0	Combined Model	wp/one/bs_one001	
-1	Sword&Shield	238	Unavailable	0	Combined Model	wp/one/bs_one001	
+1	Sword&Shield	237	흑룡검	10	Unique Model	wp/one/one034	
+1	Sword&Shield	238	진-흑룡검	11	Unique Model	wp/one/one034	
 1	Sword&Shield	239	궁정계검【신성】	11	Unique Model	wp/one/one031	
 1	Sword&Shield	240	Unavailable	0	Combined Model	wp/one/bs_one001	
 1	Sword&Shield	241	Unavailable	0	Combined Model	wp/one/bs_one001	
@@ -873,8 +873,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 2	DualBlades	238	투신귀【오타케마루】	11	Unique Model	wp/sou/sou023	
 2	DualBlades	239	Unavailable	0	Combined Model	wp/sou/bs_sou001	
 2	DualBlades	240	베르겔바토라	10	Unique Model	wp/sou/sou031	
-2	DualBlades	241	Unavailable	0	Combined Model	wp/sou/bs_sou001	
-2	DualBlades	242	Unavailable	0	Combined Model	wp/sou/bs_sou001	
+2	DualBlades	241	흑룡쌍인	10	Unique Model	wp/sou/sou032	
+2	DualBlades	242	흑룡쌍인【이천】	11	Unique Model	wp/sou/sou032	
 2	DualBlades	243	Unavailable	0	Combined Model	wp/sou/bs_sou001	
 2	DualBlades	244	헤롱헤롱 맥주	9	Unique Model	wp/sou/sou033	
 2	DualBlades	245	고주망태 맥주	10	Unique Model	wp/sou/sou033	
@@ -1173,7 +1173,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 3	LongSword	222	제노사이퍼+	11	Combined Model	wp/swo/bs_swo003	wp/swo/parts/op_swo011
 3	LongSword	223	천상천하천지무쌍도	10	Unique Model	wp/swo/swo001	
 3	LongSword	224	업도 다인슬레이브	11	Unique Model	wp/swo/swo018	
-3	LongSword	225	HARDUMMY	11	Unique Model	wp/swo/swo010	
+3	LongSword	225	진-파란별 태도【무룡】	11	Unique Model	wp/swo/swo010	
 3	LongSword	226	귀치도	10	Unique Model	wp/swo/swo024	
 3	LongSword	227	귀신치도【아수라】	11	Unique Model	wp/swo/swo025	
 3	LongSword	228	칠흑의 발톱	10	Unique Model	wp/swo/swo027	
@@ -1188,8 +1188,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 3	LongSword	237	길드팰리스사벨	9	Unique Model	wp/swo/swo031	
 3	LongSword	238	대귀치도	11	Unique Model	wp/swo/swo024	
 3	LongSword	239	아듀럴에지	10	Unique Model	wp/swo/swo033	
-3	LongSword	240	Unavailable	0	Combined Model	wp/swo/bs_swo001	
-3	LongSword	241	Unavailable	0	Combined Model	wp/swo/bs_swo001	
+3	LongSword	240	밀라드레파논	10	Unique Model	wp/swo/swo034	
+3	LongSword	241	밀라자게스파논	11	Unique Model	wp/swo/swo034	
 3	LongSword	242	Unavailable	0	Combined Model	wp/swo/bs_swo001	
 3	LongSword	243	궁정예도【장성】	11	Unique Model	wp/swo/swo031	
 3	LongSword	244	Unavailable	0	Combined Model	wp/swo/bs_swo001	
@@ -1416,7 +1416,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 4	Hammer	152	쿠로가네Ⅲ	10	Combined Model	wp/ham/bs_ham002	
 4	Hammer	153	레드비트	9	Unique Model	wp/ham/ham022	
 4	Hammer	154	화룡쇄 프라칸	9	Unique Model	wp/ham/ham022	
-4	Hammer	155	별부수기 프로메테올	11	Unique Model	wp/ham/ham023	
+4	Hammer	155	성쇄 프로메테올	11	Unique Model	wp/ham/ham023	
 4	Hammer	156	궤멸의일격【괴】	11	Unique Model	wp/ham/ham011	
 4	Hammer	157	코키토스+	9	Unique Model	wp/ham/ham007	
 4	Hammer	158	빙철 하바쿠	10	Unique Model	wp/ham/ham007	
@@ -1439,8 +1439,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 4	Hammer	175	왕퇴 카미나리	9	Unique Model	wp/ham/ham020	
 4	Hammer	176	왕퇴 카미나리+	10	Unique Model	wp/ham/ham020	
 4	Hammer	177	왕아퇴【대뢰】	11	Unique Model	wp/ham/ham020	
-4	Hammer	178	옥퇴 류가쿠	10	Unique Model	wp/ham/ham021	
-4	Hammer	179	낭아퇴【식옥】	11	Unique Model	wp/ham/ham021	
+4	Hammer	178	옥추 류가쿠	10	Unique Model	wp/ham/ham021	
+4	Hammer	179	낭아추【식옥】	11	Unique Model	wp/ham/ham021	
 4	Hammer	180	가이아크로저Ⅰ	8	Combined Model	wp/ham/bs_ham009	
 4	Hammer	181	가이아크로저Ⅱ	9	Combined Model	wp/ham/bs_ham009	
 4	Hammer	182	가이아크로저Ⅲ	10	Combined Model	wp/ham/bs_ham009	
@@ -1452,12 +1452,12 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 4	Hammer	188	발킨크로저Ⅱ	9	Combined Model	wp/ham/bs_ham009	wp/ham/parts/op_ham007
 4	Hammer	189	스트라이프스트라이크	9	Unique Model	wp/ham/ham019	
 4	Hammer	190	스트라이프스트라이크+	9	Unique Model	wp/ham/ham019	
-4	Hammer	191	굉퇴【호환】	10	Unique Model	wp/ham/ham019	
+4	Hammer	191	굉추【호환】	10	Unique Model	wp/ham/ham019	
 4	Hammer	192	중갑퇴 간킨Ⅰ	9	Combined Model	wp/ham/bs_ham004	wp/ham/parts/op_ham010
 4	Hammer	193	중갑퇴 간킨Ⅱ	9	Combined Model	wp/ham/bs_ham004	wp/ham/parts/op_ham010
 4	Hammer	194	작염의 이샤타	9	Unique Model	wp/ham/ham014	
 4	Hammer	195	작염의 이샤타+	9	Unique Model	wp/ham/ham014	
-4	Hammer	196	참룡퇴 우르가	10	Unique Model	wp/ham/ham014	
+4	Hammer	196	참룡추 우르가	10	Unique Model	wp/ham/ham014	
 4	Hammer	197	네스루마클럽Ⅰ	8	Combined Model	wp/ham/bs_ham009	wp/ham/parts/op_ham001
 4	Hammer	198	네스루마클럽Ⅱ	9	Combined Model	wp/ham/bs_ham009	wp/ham/parts/op_ham001
 4	Hammer	199	거우의 대제Ⅰ	8	Combined Model	wp/ham/bs_ham004	wp/ham/parts/op_ham019
@@ -1470,7 +1470,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 4	Hammer	206	볼보임팩트Ⅰ	8	Combined Model	wp/ham/bs_ham009	wp/ham/parts/op_ham003
 4	Hammer	207	볼보임팩트Ⅱ	9	Combined Model	wp/ham/bs_ham009	wp/ham/parts/op_ham003
 4	Hammer	208	디오스테일	9	Unique Model	wp/ham/ham013	
-4	Hammer	209	폭퇴 즈니테일	10	Unique Model	wp/ham/ham013	
+4	Hammer	209	폭추 즈니테일	10	Unique Model	wp/ham/ham013	
 4	Hammer	210	쇄광의 멸퇴	11	Unique Model	wp/ham/ham026	
 4	Hammer	211	만악룡의 맹퇴Ⅰ	8	Combined Model	wp/ham/bs_ham009	wp/ham/parts/op_ham004
 4	Hammer	212	만악룡의 맹퇴Ⅱ	9	Combined Model	wp/ham/bs_ham009	wp/ham/parts/op_ham004
@@ -1485,7 +1485,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 4	Hammer	221	바인드코핀	10	Unique Model	wp/ham/ham003	
 4	Hammer	222	업퇴 다구자	11	Unique Model	wp/ham/ham017	
 4	Hammer	223	뻣뻣 지옥	10	Unique Model	wp/ham/ham018	
-4	Hammer	224	노발퇴	10	Unique Model	wp/ham/ham024	
+4	Hammer	224	노발추	10	Unique Model	wp/ham/ham024	
 4	Hammer	225	귀신퇴【금귀】	11	Unique Model	wp/ham/ham025	
 4	Hammer	226	황흑의 견퇴	10	Unique Model	wp/ham/ham028	
 4	Hammer	227	황흑견퇴 알메타	11	Unique Model	wp/ham/ham028	
@@ -1503,8 +1503,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 4	Hammer	239	검은깃털의 흉퇴Ⅰ	9	Combined Model	wp/ham/bs_ham009	wp/ham/parts/op_ham021
 4	Hammer	240	검은깃털의 흉퇴Ⅱ	10	Combined Model	wp/ham/bs_ham009	wp/ham/parts/op_ham021
 4	Hammer	241	폴라리스배시	10	Unique Model	wp/ham/ham032	
-4	Hammer	242	Unavailable	0	Combined Model	wp/ham/bs_ham001	
-4	Hammer	243	Unavailable	0	Combined Model	wp/ham/bs_ham001	
+4	Hammer	242	밀라버스터	10	Unique Model	wp/ham/ham033	
+4	Hammer	243	밀라디몰리셔	11	Unique Model	wp/ham/ham033	
 4	Hammer	244	Unavailable	0	Combined Model	wp/ham/bs_ham001	
 4	Hammer	245	궁정십자퇴【단성】	11	Unique Model	wp/ham/ham031	
 4	Hammer	246	Unavailable	0	Combined Model	wp/ham/bs_ham001	
@@ -1650,7 +1650,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 5	HuntingHorn	69	우르무바로네Ⅱ	5	Combined Model	wp/hue/bs_hue004	wp/hue/parts/op_hue007
 5	HuntingHorn	70	우르무바로네Ⅲ	5	Combined Model	wp/hue/bs_hue004	wp/hue/parts/op_hue007
 5	HuntingHorn	71	폭린의태고	5	Unique Model	wp/hue/hue006	
-5	HuntingHorn	72	폭린고바제르라이드	7	Unique Model	wp/hue/hue006	
+5	HuntingHorn	72	폭린고 바젤라이드	7	Unique Model	wp/hue/hue006	
 5	HuntingHorn	73	소닉호른Ⅰ	1	Combined Model	wp/hue/bs_hue004	wp/hue/parts/op_hue009
 5	HuntingHorn	74	소닉호른Ⅱ	2	Combined Model	wp/hue/bs_hue004	wp/hue/parts/op_hue009
 5	HuntingHorn	75	소닉호른Ⅲ	3	Combined Model	wp/hue/bs_hue004	wp/hue/parts/op_hue009
@@ -1756,7 +1756,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 5	HuntingHorn	180	매드본호른Ⅱ	9	Combined Model	wp/hue/bs_hue009	
 5	HuntingHorn	181	매드본호른Ⅲ	10	Combined Model	wp/hue/bs_hue009	
 5	HuntingHorn	182	아이스슈필	10	Combined Model	wp/hue/bs_hue010	
-5	HuntingHorn	183	빙금 아이스필드	11	Combined Model	wp/hue/bs_hue010	
+5	HuntingHorn	183	빙금 아이스필	11	Combined Model	wp/hue/bs_hue010	
 5	HuntingHorn	184	가마루코라스Ⅰ	8	Combined Model	wp/hue/bs_hue003	wp/hue/parts/op_hue006
 5	HuntingHorn	185	가마루코라스Ⅱ	9	Combined Model	wp/hue/bs_hue003	wp/hue/parts/op_hue006
 5	HuntingHorn	186	작염의 프랑아니마	9	Unique Model	wp/hue/hue014	
@@ -1806,8 +1806,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 5	HuntingHorn	230	길드팰리스버드	9	Unique Model	wp/hue/hue026	
 5	HuntingHorn	231	전전태고【뇌굉】	11	Unique Model	wp/hue/hue022	
 5	HuntingHorn	232	귀라키에이스	10	Unique Model	wp/hue/hue028	
-5	HuntingHorn	233	Unavailable	0	Combined Model	wp/hue/bs_hue001	
-5	HuntingHorn	234	Unavailable	0	Combined Model	wp/hue/bs_hue001	
+5	HuntingHorn	233	밀라메너스	10	Unique Model	wp/hue/hue029	
+5	HuntingHorn	234	밀라메너스아기카	11	Unique Model	wp/hue/hue029	
 5	HuntingHorn	235	궁정주금【향성】	11	Unique Model	wp/hue/hue026	
 5	HuntingHorn	236	Unavailable	0	Combined Model	wp/hue/bs_hue001	
 5	HuntingHorn	237	Unavailable	0	Combined Model	wp/hue/bs_hue001	
@@ -2119,8 +2119,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 6	Lance	231	라이트닝볼트Ⅱ	9	Combined Model	wp/lan/bs_lan010	
 6	Lance	232	옥계의 전창+	11	Combined Model	wp/lan/bs_lan010	wp/lan/parts/op_lan024
 6	Lance	233	세이버로도스	10	Unique Model	wp/lan/lan029	
-6	Lance	234	Unavailable	0	Combined Model	wp/lan/bs_lan001	
-6	Lance	235	Unavailable	0	Combined Model	wp/lan/bs_lan001	
+6	Lance	234	흑룡창	10	Unique Model	wp/lan/lan030	
+6	Lance	235	진-흑룡창	11	Unique Model	wp/lan/lan030	
 6	Lance	236	궁정려창【현성】	11	Unique Model	wp/lan/lan028	
 6	Lance	237	Unavailable	0	Combined Model	wp/lan/bs_lan001	
 6	Lance	238	Unavailable	0	Combined Model	wp/lan/bs_lan001	
@@ -2292,7 +2292,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 7	GunLance	85	다오라블리지아	7	Unique Model	wp/gun/gun003	
 7	GunLance	86	제노헴타	7	Combined Model	wp/gun/bs_gun003	wp/gun/parts/op_gun011
 7	GunLance	100	우욕의 건랜스	5	Unique Model	wp/gun/gun009	
-7	GunLance	101	폭총창 그라그리드	6	Unique Model	wp/gun/gun009	
+7	GunLance	101	폭총창 굴라그리드	6	Unique Model	wp/gun/gun009	
 7	GunLance	102	금빛 건랜스-물	5	Combined Model (KT Weapon)	wp/gun/bs_gun007	
 7	GunLance	103	금빛 건랜스-독	5	Combined Model (KT Weapon)	wp/gun/bs_gun007	
 7	GunLance	104	금빛 건랜스-수면	5	Combined Model (KT Weapon)	wp/gun/bs_gun007	
@@ -2429,8 +2429,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 7	GunLance	235	Unavailable	0	Combined Model	wp/gun/bs_gun001	
 7	GunLance	236	Unavailable	0	Combined Model	wp/gun/bs_gun001	
 7	GunLance	237	화이트나이트	10	Unique Model	wp/gun/gun029	
-7	GunLance	238	Unavailable	0	Combined Model	wp/gun/bs_gun001	
-7	GunLance	239	Unavailable	0	Combined Model	wp/gun/bs_gun001	
+7	GunLance	238	흑룡총창	10	Unique Model	wp/gun/gun030	
+7	GunLance	239	진-흑룡총창	11	Unique Model	wp/gun/gun030	
 7	GunLance	240	궁정총창【호성】	11	Unique Model	wp/gun/gun027	
 7	GunLance	241	Unavailable	0	Combined Model	wp/gun/bs_gun001	
 7	GunLance	242	Unavailable	0	Combined Model	wp/gun/bs_gun001	
@@ -2739,8 +2739,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 8	SwitchAxe	238	금강각부 뇌신	11	Unique Model	wp/saxe/saxe019	
 8	SwitchAxe	239	옥계의 참렬부+	11	Combined Model	wp/saxe/bs_saxe002	wp/saxe/parts/op_saxe026
 8	SwitchAxe	240	고어프로스트올레리아	10	Unique Model	wp/saxe/saxe024	
-8	SwitchAxe	241	Unavailable	0	Combined Model	wp/saxe/bs_saxe001	
-8	SwitchAxe	242	Unavailable	0	Combined Model	wp/saxe/bs_saxe001	
+8	SwitchAxe	241	흑룡검부	10	Unique Model	wp/saxe/saxe025	
+8	SwitchAxe	242	진-흑룡검부	11	Unique Model	wp/saxe/saxe025	
 8	SwitchAxe	243	궁정위검부【거성】	11	Unique Model	wp/saxe/saxe023	
 8	SwitchAxe	244	Unavailable	0	Combined Model	wp/saxe/bs_saxe001	
 8	SwitchAxe	245	Unavailable	0	Combined Model	wp/saxe/bs_saxe001	
@@ -3030,8 +3030,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 9	ChargeBlade	227	Unavailable	0	Combined Model	wp/caxe/bs_caxe001	
 9	ChargeBlade	228	Unavailable	0	Combined Model	wp/caxe/bs_caxe001	
 9	ChargeBlade	229	레이징볼프	10	Unique Model	wp/caxe/caxe029	
-9	ChargeBlade	230	Unavailable	0	Combined Model	wp/caxe/bs_caxe001	
-9	ChargeBlade	231	Unavailable	0	Combined Model	wp/caxe/bs_caxe001	
+9	ChargeBlade	230	흑룡순부	10	Unique Model	wp/caxe/caxe031	
+9	ChargeBlade	231	진-흑룡순부	11	Unique Model	wp/caxe/caxe031	
 9	ChargeBlade	232	다크 이글	9	Unique Model	wp/caxe/caxe030	
 9	ChargeBlade	233	뇌광의 다크 이글	11	Unique Model	wp/caxe/caxe030	
 9	ChargeBlade	234	궁정경순【기성】	11	Unique Model	wp/caxe/caxe028	
@@ -3352,8 +3352,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 10	InsectGlaive	240	Unavailable	0	Combined Model	wp/rod/bs_rod001	
 10	InsectGlaive	241	Unavailable	0	Combined Model	wp/rod/bs_rod001	
 10	InsectGlaive	242	펜릴프로즈	10	Unique Model	wp/rod/rod028	
-10	InsectGlaive	243	Unavailable	0	Combined Model	wp/rod/bs_rod001	
-10	InsectGlaive	244	Unavailable	0	Combined Model	wp/rod/bs_rod001	
+10	InsectGlaive	243	흑룡곤	10	Unique Model	wp/rod/rod029	
+10	InsectGlaive	244	진-흑룡곤	11	Unique Model	wp/rod/rod029	
 10	InsectGlaive	245	궁정기장【연성】	11	Unique Model	wp/rod/rod027	
 10	InsectGlaive	246	Unavailable	0	Combined Model	wp/rod/bs_rod001	
 10	InsectGlaive	247	Unavailable	0	Combined Model	wp/rod/bs_rod001	
@@ -3438,9 +3438,9 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 11	Bow	8	Unavailable	0	Combined Model	wp/bow/bs_bow001	
 11	Bow	9	Unavailable	0	Combined Model	wp/bow/bs_bow001	
 11	Bow	10	Unavailable	0	Combined Model	wp/bow/bs_bow001	
-11	Bow	20	강궁Ⅰ	100	Combined Model	wp/bow/bs_bow001	
-11	Bow	21	강궁Ⅱ	200	Combined Model	wp/bow/bs_bow001	
-11	Bow	22	강궁Ⅲ	232	Combined Model	wp/bow/bs_bow001	
+11	Bow	20	철궁Ⅰ	100	Combined Model	wp/bow/bs_bow001	
+11	Bow	21	철궁Ⅱ	200	Combined Model	wp/bow/bs_bow001	
+11	Bow	22	철궁Ⅲ	232	Combined Model	wp/bow/bs_bow001	
 11	Bow	23	강철궁Ⅰ	208	Combined Model	wp/bow/bs_bow001	
 11	Bow	24	강철궁Ⅱ	160	Combined Model	wp/bow/bs_bow001	
 11	Bow	25	강철궁Ⅲ	112	Combined Model	wp/bow/bs_bow001	
@@ -3513,8 +3513,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 11	Bow	96	제노메토라	192	Combined Model	wp/bow/bs_bow001	wp/bow/parts/op_bow003
 11	Bow	97	크로스헌터보우	128	Unique Model	wp/bow/bow007	
 11	Bow	98	그레이트헌터보우	192	Unique Model	wp/bow/bow007	
-11	Bow	100	폭주의 흉노	224	Unique Model	wp/bow/bow009	
-11	Bow	101	뷔란 블레이즈	0	Unique Model	wp/bow/bow009	
+11	Bow	100	폭주의 흉궁	224	Unique Model	wp/bow/bow009	
+11	Bow	101	빌런블레이즈	0	Unique Model	wp/bow/bow009	
 11	Bow	102	HARDUMMY	64	Unique Model	wp/bow/bow010	
 11	Bow	103	HARDUMMY	0	Unique Model	wp/bow/bow010	
 11	Bow	104	금빛 활-물	184	Combined Model (KT Weapon)	wp/bow/bs_bow005	
@@ -3647,10 +3647,10 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 11	Bow	231	뇌궁【백수왕】	128	Unique Model	wp/bow/bow021	
 11	Bow	232	Unavailable	0	Combined Model	wp/bow/bs_bow001	
 11	Bow	233	에델에스타	64	Unique Model	wp/bow/bow027	
-11	Bow	234	Unavailable	0	Combined Model	wp/bow/bs_bow001	
-11	Bow	235	Unavailable	0	Combined Model	wp/bow/bs_bow001	
-11	Bow	236	HARDUMMY	128	Unique Model	wp/bow/bow028	
-11	Bow	237	HARDUMMY	128	Unique Model	wp/bow/bow028	
+11	Bow	234	섬멸과 파괴의 강궁	96	Unique Model	wp/bow/bow029	
+11	Bow	235	단멸과 붕괴의 강렬궁	128	Unique Model	wp/bow/bow029	
+11	Bow	236	푸른빛용궁【천상】	128	Unique Model	wp/bow/bow028	
+11	Bow	237	진-푸른빛용궁【천상】	128	Unique Model	wp/bow/bow028	
 11	Bow	238	궁정익궁【극성】	128	Unique Model	wp/bow/bow026	
 11	Bow	239	Unavailable	0	Combined Model	wp/bow/bs_bow001	
 11	Bow	240	Unavailable	0	Combined Model	wp/bow/bs_bow001	
@@ -3946,8 +3946,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 12	HeavyBowGun	222	길드팰리스라이플	128	Unique Model	wp/hbg/hbg027	
 12	HeavyBowGun	223	금사자포【중뢰】	128	Unique Model	wp/hbg/hbg022	
 12	HeavyBowGun	224	게릴라스피네	64	Unique Model	wp/hbg/hbg029	
-12	HeavyBowGun	225	Unavailable	0	Combined Model	wp/hbg/bs_hbg001	
-12	HeavyBowGun	226	Unavailable	0	Combined Model	wp/hbg/bs_hbg001	
+12	HeavyBowGun	225	볼캐넌	96	Unique Model	wp/hbg/hbg030	
+12	HeavyBowGun	226	볼버스터	128	Unique Model	wp/hbg/hbg030	
 12	HeavyBowGun	227	궁정의장【휘성】	128	Unique Model	wp/hbg/hbg027	
 12	HeavyBowGun	228	Unavailable	0	Combined Model	wp/hbg/bs_hbg001	
 12	HeavyBowGun	229	Unavailable	0	Combined Model	wp/hbg/bs_hbg001	
@@ -4270,8 +4270,8 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 13	LightBowGun	233	Unavailable	0	Combined Model	wp/lbg/bs_lbg001	
 13	LightBowGun	234	Unavailable	0	Combined Model	wp/lbg/bs_lbg001	
 13	LightBowGun	235	블리자드가스트	64	Unique Model	wp/lbg/lbg023	
-13	LightBowGun	236	Unavailable	0	Combined Model	wp/lbg/bs_lbg001	
-13	LightBowGun	237	Unavailable	0	Combined Model	wp/lbg/bs_lbg001	
+13	LightBowGun	236	흑룡익노 	96	Unique Model	wp/lbg/lbg025	
+13	LightBowGun	237	진-흑룡익노 	128	Unique Model	wp/lbg/lbg025	
 13	LightBowGun	238	HARDUMMY	128	Unique Model	wp/lbg/lbg024	
 13	LightBowGun	239	HARDUMMY	128	Unique Model	wp/lbg/lbg024	
 13	LightBowGun	240	궁정경노【저성】	128	Unique Model	wp/lbg/lbg022	

@@ -124,12 +124,12 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	162	F Kulve-Fell <ICON ALPHA>+	otomo/equip/ot025/helm
 0	Helmet	163	Mega-Man-Helm <ICON ALPHA>+	otomo/equip/ot035/helm
 0	Helmet	164	Mogry-Kopf <ICON ALPHA>+	otomo/equip/ot038/helm
-0	Helmet	165	HARDUMMY	otomo/equip/ot037/helm
+0	Helmet	165	F Azurstern-Krone <ICON ALPHA>+	otomo/equip/ot037/helm
 0	Helmet	166	HARDUMMY	otomo/equip/ot036/helm
 0	Helmet	167	F Samurai-Helm <ICON ALPHA>+	otomo/equip/ot039/helm
 0	Helmet	168	F Schmetterling-Hut <ICON ALPHA>	otomo/equip/ot040/helm
 0	Helmet	169	F Aloha-Strohhut <ICON ALPHA>+	otomo/equip/ot041/helm
-0	Helmet	170	F Leder-Kappe	otomo/equip/ot000/helm
+0	Helmet	170	F Herbstspuk-Maske <ICON ALPHA>+	otomo/equip/ot042/helm
 0	Helmet	171	F Schneekatzen-Kopf <ICON ALPHA>+	otomo/equip/ot043/helm
 0	Helmet	172	F Superstar-Kopf <ICON ALPHA>+	otomo/equip/ot044/helm
 0	Helmet	173	F Leder-Kappe <ICON ALPHA>+	otomo/equip/ot001/helm
@@ -141,18 +141,18 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 0	Helmet	179	F Gildenmütze <ICON ALPHA>+	otomo/equip/ot063/helm
 0	Helmet	180	F Rosen-Haube <ICON ALPHA>+	otomo/equip/ot075/helm
 0	Helmet	181	F Pukei-Kopf <ICON ALPHA>+	otomo/equip/ot076/helm
-0	Helmet	182	F Leder-Kappe	otomo/equip/ot000/helm
+0	Helmet	182	F Frankie-Helm <ICON ALPHA>+	otomo/equip/ot077/helm
 0	Helmet	183	F Shishimai-Kopf <ICON ALPHA>+	otomo/equip/ot078/helm
 0	Helmet	184	F Astral-Kopf <ICON ALPHA>+	otomo/equip/ot079/helm
 0	Helmet	185	F Leder-Kappe	otomo/equip/ot000/helm
 0	Helmet	186	F Leder-Kappe	otomo/equip/ot000/helm
 0	Helmet	187	F Leder-Kappe	otomo/equip/ot000/helm
-0	Helmet	188	HARDUMMY	otomo/equip/ot080/helm
+0	Helmet	188	F Azurära-Perücke <ICON ALPHA>+	otomo/equip/ot080/helm
 0	Helmet	189	HARDUMMY	otomo/equip/ot081/helm
 0	Helmet	190	F Wackelwurm-Kopf <ICON ALPHA>+	otomo/equip/ot082/helm
 0	Helmet	191	F Leder-Kappe	otomo/equip/ot000/helm
 0	Helmet	192	F Frosthauer-Perücke <ICON ALPHA>+	otomo/equip/ot083/helm
-0	Helmet	193	F Leder-Kappe	otomo/equip/ot000/helm
+0	Helmet	193	F Fatalis-Kopf <ICON ALPHA>+	otomo/equip/ot084/helm
 0	Helmet	194	F Leder-Kappe	otomo/equip/ot000/helm
 0	Helmet	195	F Maestro-Haar <ICON ALPHA>+	otomo/equip/ot085/helm
 0	Helmet	196	F Leder-Kappe	otomo/equip/ot000/helm
@@ -286,12 +286,12 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	162	F Kulve-Anzug <ICON ALPHA>+	otomo/equip/ot025/body
 1	Armor	163	Mega-Man-Anzug <ICON ALPHA>+	otomo/equip/ot035/body
 1	Armor	164	Mogry-Körper <ICON ALPHA>+	otomo/equip/ot038/body
-1	Armor	165	HARDUMMY	otomo/equip/ot037/body
+1	Armor	165	F Azurstern-Rüstung <ICON ALPHA>+	otomo/equip/ot037/body
 1	Armor	166	HARDUMMY	otomo/equip/ot036/body
 1	Armor	167	F Samurai-Rüstung <ICON ALPHA>+	otomo/equip/ot039/body
 1	Armor	168	F Schmetterling-Weste <ICON ALPHA>+	otomo/equip/ot040/body
 1	Armor	169	F Aloha-Hemd <ICON ALPHA>+	otomo/equip/ot041/body
-1	Armor	170	F Leder-Kappe	otomo/equip/ot000/body
+1	Armor	170	F Geistergewand <ICON ALPHA>+	otomo/equip/ot042/body
 1	Armor	171	F Schneekatzen-Anzug <ICON ALPHA>+	otomo/equip/ot043/body
 1	Armor	172	F Superstar-Anzug <ICON ALPHA>+	otomo/equip/ot044/body
 1	Armor	173	F Leder-Weste <ICON ALPHA>+	otomo/equip/ot001/body
@@ -303,18 +303,18 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	File Path
 1	Armor	179	F Gildenmantel <ICON ALPHA>+	otomo/equip/ot063/body
 1	Armor	180	F Rosen-Kleid <ICON ALPHA>+	otomo/equip/ot075/body
 1	Armor	181	F Pukei-Körper <ICON ALPHA>+	otomo/equip/ot076/body
-1	Armor	182	F Leder-Kappe	otomo/equip/ot000/body
+1	Armor	182	F Frankie-Kleidung <ICON ALPHA>+	otomo/equip/ot077/body
 1	Armor	183	F Shishimai-Körper <ICON ALPHA>+	otomo/equip/ot078/body
 1	Armor	184	F Astral-Körper <ICON ALPHA>+	otomo/equip/ot079/body
 1	Armor	185	F Leder-Kappe	otomo/equip/ot000/body
 1	Armor	186	F Leder-Kappe	otomo/equip/ot000/body
 1	Armor	187	F Leder-Kappe	otomo/equip/ot000/body
-1	Armor	188	HARDUMMY	otomo/equip/ot080/body
+1	Armor	188	F Azurära-Kimono <ICON ALPHA>+	otomo/equip/ot080/body
 1	Armor	189	HARDUMMY	otomo/equip/ot081/body
 1	Armor	190	F Wackelwurm-Vase <ICON ALPHA>+	otomo/equip/ot082/body
 1	Armor	191	F Leder-Kappe	otomo/equip/ot000/body
 1	Armor	192	F Frosthauer-Uniform <ICON ALPHA>+	otomo/equip/ot083/body
-1	Armor	193	F Leder-Kappe	otomo/equip/ot000/body
+1	Armor	193	F Fatalis-Körper <ICON ALPHA>+	otomo/equip/ot084/body
 1	Armor	194	F Leder-Kappe	otomo/equip/ot000/body
 1	Armor	195	F Maestro-Anzug <ICON ALPHA>+	otomo/equip/ot085/body
 1	Armor	196	F Eichelpanzerung <ICON ALPHA>+	otomo/equip/ot086/body

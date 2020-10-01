@@ -215,13 +215,13 @@ Skill ID	Skill Code	Skill Name	Skill Desc
 213	PT_ANNIVERSARY_S_SKILL_PT	Astral-Dankbarkeit	Unavailable
 214	PT_SPRING_SKILL_PT	Flor-Segen	Unavailable
 215	PT_SUMMER_SKILL_PT	Lebensfreude-Segen	Unavailable
-216	DUMMY000130	Unavailable	Unavailable
+216	PT_AUTUMN_SKILL_PT	Spuk-Segen	Unavailable
 217	PT_EX23_SKILL_PT	Rajang-Wille	Unavailable
 218	PT_EX24_SKILL_PT	Brachydios-Wille	Unavailable
 219	PT_EX25_SKILL_PT	Kulve-Taroth-Essenz	Unavailable
 220	PT_EX26_SKILL_PT	Frosthauer-Absolutkunst	Unavailable
 221	PT_EX27_SKILL_PT	Alatreon-Göttlichkeit	Unavailable
-222	DUMMY000138	Unavailable	Unavailable
-223	DUMMY000141	Unavailable	Unavailable
-224	DUMMY000144	Unavailable	Unavailable
-225	DUMMY000147	Unavailable	Unavailable
+222	PT_EX28_SKILL_PT	Fatalis-Legende	Unavailable
+223	PT_CLAW_SKILL_PT	Klammerklauen-Boost	Klammerklauen-Waffenangriffe verwundenMonster leichter und erhöhen die Chance,dass Schleudermunition hinterlassen wird.
+224	DUMMY000137	Unavailable	Unavailable
+225	DUMMY000140	Unavailable	Unavailable
