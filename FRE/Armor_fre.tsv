@@ -451,8 +451,8 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	527	Heaume Velkhana <ICON GAMMA>+	477	180	11	pl085_0020
 0	Head	528	Casque crocgivre <ICON ALPHA>+	478	162	10	pl089_0500
 0	Head	529	Coiffure crocgivre <ICON BETA>+	479	162	10	pl089_0510
-0	Head	530	Tête de Dragon <ICON ALPHA>+	480	180	11	pl129_0000
-0	Head	531	Tête de Dragon <ICON BETA>+	481	180	11	pl129_0010
+0	Head	530	Tête de dragon <ICON ALPHA>+	480	180	11	pl129_0000
+0	Head	531	Tête de dragon <ICON BETA>+	481	180	11	pl129_0010
 0	Head	532	HARDUMMY	482	160	11	pl068_0020
 0	Head	533	Unavailable	483	0	0	None
 0	Head	534	Leon - Tête <ICON ALPHA>+	484	150	11	pl130_0000
@@ -640,9 +640,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	719	Velkhana <ICON GAMMA> - Tête +	669	0	11	pl085_0020
 0	Head	720	Namielle <ICON GAMMA> - Tête +	670	0	11	pl086_0020
 0	Head	721	Unavailable	671	0	0	None
-0	Head	725	Unavailable	676	0	0	None
-0	Head	726	Unavailable	677	0	0	None
-0	Head	727	Unavailable	678	0	0	None
+0	Head	725	Coiffure Artemis <ICON ALPHA>+	676	140	10	pl133_0000
+0	Head	726	Artemis - Tête	677	0	10	pl133_0000
+0	Head	727	Visage Artemis <ICON ALPHA>+	678	140	10	pl132_0010
 0	Head	728	Unavailable	0	0	0	None
 0	Head	729	Unavailable	0	0	0	None
 0	Head	730	Unavailable	0	0	0	None
@@ -1257,9 +1257,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	722	Fitness <ICON GAMMA> - Torse +	672	0	11	pl115_0001
 1	Body	723	Sous-vêtements <ICON ALPHA> - Torse	673	0	11	pl500_0000
 1	Body	724	Sous-vêtements <ICON BETA> - Torse	675	0	11	pl501_0000
-1	Body	725	Unavailable	676	0	0	None
-1	Body	726	Unavailable	677	0	0	None
-1	Body	727	Unavailable	678	0	0	None
+1	Body	725	Armure Artemis <ICON ALPHA>+	676	140	10	pl133_0000
+1	Body	726	Artemis - Torse	677	0	10	pl133_0000
+1	Body	727	Armure Artemis <ICON ALPHA>+	678	140	10	pl132_0010
 1	Body	728	Unavailable	0	0	0	None
 1	Body	729	Unavailable	0	0	0	None
 1	Body	730	Unavailable	0	0	0	None
@@ -1872,9 +1872,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	722	Fitness <ICON GAMMA> - Bras +	672	0	11	pl115_0001
 2	Arm	723	Sous-vêtements <ICON ALPHA> - Bras	673	0	11	pl500_0000
 2	Arm	724	Sous-vêtements <ICON BETA> - Bras	675	0	11	pl501_0000
-2	Arm	725	Unavailable	676	0	0	None
-2	Arm	726	Unavailable	677	0	0	None
-2	Arm	727	Unavailable	678	0	0	None
+2	Arm	725	Gants Artemis <ICON ALPHA>+	676	140	10	pl133_0000
+2	Arm	726	Artemis - Bras	677	0	10	pl133_0000
+2	Arm	727	Gants Artemis <ICON ALPHA>+	678	140	10	pl132_0010
 2	Arm	728	Unavailable	0	0	0	None
 2	Arm	729	Unavailable	0	0	0	None
 2	Arm	730	Unavailable	0	0	0	None
@@ -2481,9 +2481,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	722	Fitness <ICON GAMMA> - Taille +	672	0	11	pl115_0001
 3	Waist	723	Sous-vêtements <ICON ALPHA> - Taille	673	0	11	pl500_0000
 3	Waist	724	Sous-vêtements <ICON BETA> - Taille	675	0	11	pl501_0000
-3	Waist	725	Unavailable	676	0	0	None
-3	Waist	726	Unavailable	677	0	0	None
-3	Waist	727	Unavailable	678	0	0	None
+3	Waist	725	Ceinture Artemis <ICON ALPHA>+	676	140	10	pl133_0000
+3	Waist	726	Artemis - Taille	677	0	10	pl133_0000
+3	Waist	727	Ceinture Artemis <ICON ALPHA>+	678	140	10	pl132_0010
 3	Waist	728	Unavailable	0	0	0	None
 3	Waist	729	Unavailable	0	0	0	None
 3	Waist	730	Unavailable	0	0	0	None
@@ -3096,9 +3096,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	722	Fitness <ICON GAMMA> - Jambes +	672	0	11	pl115_0001
 4	Leg	723	Sous-vêtements <ICON ALPHA> - Jambes	673	0	11	pl500_0000
 4	Leg	724	Sous-vêtements <ICON BETA> - Jambes	675	0	11	pl501_0000
-4	Leg	725	Unavailable	676	0	0	None
-4	Leg	726	Unavailable	677	0	0	None
-4	Leg	727	Unavailable	678	0	0	None
+4	Leg	725	Jambières Artemis <ICON ALPHA>+	676	140	10	pl133_0000
+4	Leg	726	Artemis - Jambes	677	0	10	pl133_0000
+4	Leg	727	Jambes Artemis <ICON ALPHA>+	678	140	10	pl132_0010
 4	Leg	728	Unavailable	0	0	0	None
 4	Leg	729	Unavailable	0	0	0	None
 4	Leg	730	Unavailable	0	0	0	None

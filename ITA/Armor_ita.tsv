@@ -640,9 +640,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	719	Stile testa Velkhana <ICON GAMMA>+	669	0	11	pl085_0020
 0	Head	720	Stile testa Namielle <ICON ALPHA>+	670	0	11	pl086_0020
 0	Head	721	Unavailable	671	0	0	None
-0	Head	725	Unavailable	676	0	0	None
-0	Head	726	Unavailable	677	0	0	None
-0	Head	727	Unavailable	678	0	0	None
+0	Head	725	Testa di Artemis <ICON ALPHA>+	676	140	10	pl133_0000
+0	Head	726	Stile testa di Artemis	677	0	10	pl133_0000
+0	Head	727	Viso di Artemis <ICON ALPHA>+	678	140	10	pl132_0010
 0	Head	728	Unavailable	0	0	0	None
 0	Head	729	Unavailable	0	0	0	None
 0	Head	730	Unavailable	0	0	0	None
@@ -1257,9 +1257,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	722	Stile torace palestrato <ICON GAMMA>+	672	0	11	pl115_0001
 1	Body	723	Stile torace intimo <ICON ALPHA>	673	0	11	pl500_0000
 1	Body	724	Stile torace intimo <ICON BETA>	675	0	11	pl501_0000
-1	Body	725	Unavailable	676	0	0	None
-1	Body	726	Unavailable	677	0	0	None
-1	Body	727	Unavailable	678	0	0	None
+1	Body	725	Cotta di Artemis <ICON ALPHA>+	676	140	10	pl133_0000
+1	Body	726	Stile torace di Artemis	677	0	10	pl133_0000
+1	Body	727	Corpo di Artemis <ICON ALPHA>+	678	140	10	pl132_0010
 1	Body	728	Unavailable	0	0	0	None
 1	Body	729	Unavailable	0	0	0	None
 1	Body	730	Unavailable	0	0	0	None
@@ -1872,9 +1872,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	722	Stile braccia palestrato <ICON GAMMA>+	672	0	11	pl115_0001
 2	Arm	723	Stile braccia intimo <ICON ALPHA>	673	0	11	pl500_0000
 2	Arm	724	Stile braccia intimo <ICON BETA>	675	0	11	pl501_0000
-2	Arm	725	Unavailable	676	0	0	None
-2	Arm	726	Unavailable	677	0	0	None
-2	Arm	727	Unavailable	678	0	0	None
+2	Arm	725	Parabraccia di Artemis <ICON ALPHA>+	676	140	10	pl133_0000
+2	Arm	726	Stile braccia di Artemis	677	0	10	pl133_0000
+2	Arm	727	Braccia di Artemis <ICON ALPHA>+	678	140	10	pl132_0010
 2	Arm	728	Unavailable	0	0	0	None
 2	Arm	729	Unavailable	0	0	0	None
 2	Arm	730	Unavailable	0	0	0	None
@@ -2481,9 +2481,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	722	Stile vita palestrato <ICON GAMMA>+	672	0	11	pl115_0001
 3	Waist	723	Stile vita intimo <ICON ALPHA>	673	0	11	pl500_0000
 3	Waist	724	Stile vita intimo <ICON BETA>	675	0	11	pl501_0000
-3	Waist	725	Unavailable	676	0	0	None
-3	Waist	726	Unavailable	677	0	0	None
-3	Waist	727	Unavailable	678	0	0	None
+3	Waist	725	Spira di Artemis <ICON ALPHA>+	676	140	10	pl133_0000
+3	Waist	726	Stile vita di Artemis	677	0	10	pl133_0000
+3	Waist	727	Vita di Artemis <ICON ALPHA>+	678	140	10	pl132_0010
 3	Waist	728	Unavailable	0	0	0	None
 3	Waist	729	Unavailable	0	0	0	None
 3	Waist	730	Unavailable	0	0	0	None
@@ -3096,9 +3096,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	722	Stile gambe palestrato <ICON GAMMA>+	672	0	11	pl115_0001
 4	Leg	723	Stile gambe intimo <ICON ALPHA>	673	0	11	pl500_0000
 4	Leg	724	Stile gambe intimo <ICON BETA>	675	0	11	pl501_0000
-4	Leg	725	Unavailable	676	0	0	None
-4	Leg	726	Unavailable	677	0	0	None
-4	Leg	727	Unavailable	678	0	0	None
+4	Leg	725	Schinieri di Artemis <ICON ALPHA>+	676	140	10	pl133_0000
+4	Leg	726	Stile gambe di Artemis	677	0	10	pl133_0000
+4	Leg	727	Gambe di Artemis <ICON ALPHA>+	678	140	10	pl132_0010
 4	Leg	728	Unavailable	0	0	0	None
 4	Leg	729	Unavailable	0	0	0	None
 4	Leg	730	Unavailable	0	0	0	None

@@ -436,6 +436,13 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 63130	La dura legge della guerra	Uccidi un Bazelgeuse	- Tempo scaduto- Nove svenimenti
 63131	Cacciatore e imperatrice blu	Uccidi una Lunastra	- Tempo scaduto- Nove svenimenti
 63142	Addio al freddo	Uccidi un Velkhana	- Tempo scaduto- Nove svenimenti
+63143	Chi indossa la corona di Iceborne	Uccidi un Velkhana	- Tempo scaduto- Nove svenimenti
+63144	Il vero tiranno	Uccidi un Tigrex	- Tempo scaduto- Nove svenimenti
+63145	Una stella eterna	Uccidi un Namielle	- Tempo scaduto- Nove svenimenti
+63146	Puntando alla luce	Uccidi un Namielle	- Tempo scaduto- Nove svenimenti
+63147	Cicatrici non vi temo	Uccidi uno Yian Garuga deturpato	- Tempo scaduto- Nove svenimenti
+63149	Potenza e tecnica	Uccidi tutti i mostri assegnati	- Tempo scaduto- Nove svenimenti
+63150	Addio al freddo	Uccidi un Velkhana	- Tempo scaduto- Nove svenimenti
 64101	Disputa selvaggia	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
 64601	Giramenti di Uragaan	Caccia 2 Uragaan	- Tempo scaduto- Tre svenimenti
 64801	Guerra di palloncini	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
@@ -505,8 +512,12 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66842	Il freddo non la importuna	Uccidi una Lunastra	- Tempo scaduto- Tre svenimenti
 66843	Stella crepuscolare	Uccidi un Alatreon	- Tempo scaduto- Tre svenimenti
 66844	Alba della stella ardente	Uccidi un Alatreon	- Tempo scaduto- Tre svenimenti
+66845	La favola oscura	Uccidi il Fatalis	- Tempo scaduto- Tre svenimenti
 66846	L'ultimo cavaliere bianco	Caccia un Barioth assiderato	- Tempo scaduto- Tre svenimenti
 66847	L'oscura marea distante	Uccidi un Namielle	- Tempo scaduto- Tre svenimenti
+66850	Dove l'inverno riposa	Uccidi un Velkhana	- Tempo scaduto- Tre svenimenti
+66851	Il Nuovo Mondo	Raggiungi la zona 8	- Tempo scaduto- Tre svenimenti
+66852	Verso il nostro mondo	Uccidi un Rathalos	- Tempo scaduto- Tre svenimenti
 66853	A caccia di perle leggere	Ottieni 8 perle leggere	- Tempo scaduto- Tre svenimenti
 66854	Mimetica memetica	Caccia una Rathian	- Tempo scaduto- Tre svenimenti
 66855	Vedere è credere	Caccia un Tigrex	- Tempo scaduto- Tre svenimenti
@@ -516,6 +527,11 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66859	Il guastafeste	Caccia un Bazelgeuse vulcanico	- Tempo scaduto- Tre svenimenti
 66860	Fulmine a ciel sereno	Caccia uno Zinogre	- Tempo scaduto- Tre svenimenti
 66861	Siamo i miaogliori!	Caccia un Rajang furioso	- Tempo scaduto- 5 svenimenti
+66862	I gemelli Kadachi	Caccia tutti i mostri assegnati	- Tempo scaduto- Tre svenimenti
+66863	Lacrime dal nirvana	Uccidi un Vaal Hazak funereo	- Tempo scaduto- Tre svenimenti
+66864	Palestra scimmiesca potenziata	Caccia 2 Rajang furiosi	- Tempo scaduto- Tre svenimenti
+66865	Addio allo Zinogre	Caccia uno Zinogre	- Tempo scaduto- Tre svenimenti
+66866	Brutale ma poco popolare	Caccia un Tigrex brutale	- Tempo scaduto- Tre svenimenti
 66867	Non è mai troppo tardi	Caccia un Barioth assiderato	- Tempo scaduto- Tre svenimenti
 67101	La Prova	Caccia un Anjanath	- Tempo scaduto- Tre svenimenti
 67102	Lezione selvaggia	Uccidi 8 Barnos	- Tempo scaduto- Tre svenimenti
@@ -533,4 +549,6 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67802	Nelle terre gelate	Caccia uno Zinogre	- Tempo scaduto- Tre svenimenti
 67803	La sopravvissuta	Caccia uno Zinogre stigeo	- Tempo scaduto- Tre svenimenti
 67804	Firebreak	Caccia un Deviljho selvaggio	- Tempo scaduto- Tre svenimenti
+67806	USJ: Brilla in eterno	Uccidi un Velkhana	- Tempo scaduto- Tre svenimenti
 67807	L'assassino	Caccia un Nargacuga	- Tempo scaduto- Tre svenimenti
+67809	USJ: Danza del ghiaccio	Caccia un Barioth assiderato	- Tempo scaduto- Tre svenimenti

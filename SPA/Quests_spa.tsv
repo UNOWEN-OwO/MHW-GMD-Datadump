@@ -436,6 +436,13 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 63130	En la ley y en la guerra	Abate un Bazelgeuse	Se te acaba el tiempoTe has desmayado nueve veces
 63131	La caza de la emperatriz azul	Abate una Lunastra	Se te acaba el tiempoTe has desmayado nueve veces
 63142	Despedida helada	Abate a Velkhana	Se te acaba el tiempoTe has desmayado nueve veces
+63143	Portador de la corona de Iceborne	Abate a un Velkhana	Se te acaba el tiempoTe has desmayado nueve veces
+63144	El verdadero tirano	Abate a un Tigrex	Se te acaba el tiempoTe has desmayado nueve veces
+63145	Una estrella que nunca se apaga	Abate a un Namielle	Se te acaba el tiempoTe has desmayado nueve veces
+63146	Apuntando a la luz	Abate a un Namielle	Se te acaba el tiempoTe has desmayado nueve veces
+63147	¡Me ha mirado mal!	Abate a un Yian Garuga Naevus	Se te acaba el tiempoTe has desmayado nueve veces
+63149	Técnica y potencia	Abate a todos los objetivos	Se te acaba el tiempoTe has desmayado nueve veces
+63150	Despedida helada	Abate a Velkhana	Se te acaba el tiempoTe has desmayado nueve veces
 64101	Lucha territorial en el yermo	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
 64601	Deja hecho un flan al Uragaan	Caza 2 Uragaan	Se te acaba el tiempoTe has desmayado tres veces
 64801	Batalla de globos	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
@@ -505,8 +512,12 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66842	El frío a mí nunca me molestó	Abate a una Lunastra	Se te acaba el tiempoTe has desmayado tres veces
 66843	Estrella del anochecer	Abate a un Alatreon	Se te acaba el tiempoTe has desmayado tres veces
 66844	Albor de la estrella de la muerte	Abate a un Alatreon	Se te acaba el tiempoTe has desmayado tres veces
+66845	Fundido a negro	Abate a Fatalis	Se te acaba el tiempoTe has desmayado tres veces
 66846	El último caballero blanco	Caza un Barioth Cynodon	Se te acaba el tiempoTe has desmayado tres veces
 66847	Lejana marea negra	Abate a un Namielle	Se te acaba el tiempoTe has desmayado tres veces
+66850	Allí donde duerme el invierno	Abate a un Velkhana	Se te acaba el tiempoTe has desmayado tres veces
+66851	El Nuevo Mundo	Ve a la zona 8	Se te acaba el tiempoTe has desmayado tres veces
+66852	A nuestro mundo	Abate a un Rathalos	Se te acaba el tiempoTe has desmayado tres veces
 66853	He visto perlas brillar	Entrega 8 perlas de luz	Se te acaba el tiempoTe has desmayado tres veces
 66854	Disfraz de cena	Caza una Rathian	Se te acaba el tiempoTe has desmayado tres veces
 66855	Ojos que no ven	Caza un Tigrex	Se te acaba el tiempoTe has desmayado tres veces
@@ -516,6 +527,11 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66859	El típico brasas	Caza un Bazelgeuse Magma	Se te acaba el tiempoTe has desmayado tres veces
 66860	Desciende la furia del trueno	Caza un Zinogre	Se te acaba el tiempoTe has desmayado tres veces
 66861	¡Nadie es miaujor que tú!	Caza un Rajang Rabioso	Se te acaba el tiempoTe has desmayado cinco veces
+66862	Gemelos Kadachi	Caza todos los objetivos	Se te acaba el tiempoTe has desmayado tres veces
+66863	Lágrimas del nirvana	Abate a un Vaal Hazak Espóreo	Se te acaba el tiempoTe has desmayado tres veces
+66864	Más monos muy mazados	Caza a 2 Rajang Rabiosos	Se te acaba el tiempoTe has desmayado tres veces
+66865	Adiós al Zinogre	Caza un Zinogre	Se te acaba el tiempoTe has desmayado tres veces
+66866	Nadie la lía parda	Caza un Tigrex Pardo	Se te acaba el tiempoTe has desmayado tres veces
 66867	Perro viejo, trucos nuevos	Caza un Barioth Cynodon	Se te acaba el tiempoTe has desmayado tres veces
 67101	La prueba	Caza un Anjanath	Se te acaba el tiempoTe has desmayado tres veces
 67102	Lecciones de un mundo hostil	Abate 8 Barnos	Se te acaba el tiempoTe has desmayado tres veces
@@ -533,4 +549,6 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67802	Hacia las tierras heladas	Caza un Zinogre	Se te acaba el tiempoTe has desmayado tres veces
 67803	Superviviente	Caza un Zinogre Estigio	Se te acaba el tiempoTe has desmayado tres veces
 67804	Firebreak	Caza un Deviljho Salvaje	Se te acaba el tiempoTe has desmayado tres veces
+67806	USJ: sigue brillando siempre	Abate un Velkhana	Se te acaba el tiempoTe has desmayado tres veces
 67807	El asesino	Caza un Nargacuga	Se te acaba el tiempoTe has desmayado tres veces
+67809	USJ: ballet sobre hielo	Caza un Barioth Cynodon	Se te acaba el tiempoTe has desmayado tres veces

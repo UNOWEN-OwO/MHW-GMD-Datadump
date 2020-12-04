@@ -640,9 +640,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	719	【EX라비나γ】의상-머리	669	0	11	pl085_0020
 0	Head	720	【EX텐터클γ】의상-머리	670	0	11	pl086_0020
 0	Head	721	Unavailable	671	0	0	None
-0	Head	725	Unavailable	676	0	0	None
-0	Head	726	Unavailable	677	0	0	None
-0	Head	727	Unavailable	678	0	0	None
+0	Head	725	EX아르테미스헤드α	676	140	10	pl133_0000
+0	Head	726	【아르테미스】의상-머리	677	0	10	pl133_0000
+0	Head	727	EX아르테미스페이스α	678	140	10	pl132_0010
 0	Head	728	Unavailable	0	0	0	None
 0	Head	729	Unavailable	0	0	0	None
 0	Head	730	Unavailable	0	0	0	None
@@ -1257,9 +1257,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	722	【머슬γ】의상-몸통	672	0	11	pl115_0001
 1	Body	723	【이너α】의상-몸통	673	0	11	pl500_0000
 1	Body	724	【이너β】의상-몸통	675	0	11	pl501_0000
-1	Body	725	Unavailable	676	0	0	None
-1	Body	726	Unavailable	677	0	0	None
-1	Body	727	Unavailable	678	0	0	None
+1	Body	725	EX아르테미스메일α	676	140	10	pl133_0000
+1	Body	726	【아르테미스】의상-몸통	677	0	10	pl133_0000
+1	Body	727	EX아르테미스보디α	678	140	10	pl132_0010
 1	Body	728	Unavailable	0	0	0	None
 1	Body	729	Unavailable	0	0	0	None
 1	Body	730	Unavailable	0	0	0	None
@@ -1872,9 +1872,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	722	【머슬γ】의상-팔	672	0	11	pl115_0001
 2	Arm	723	【이너α】의상-팔	673	0	11	pl500_0000
 2	Arm	724	【이너β】의상-팔	675	0	11	pl501_0000
-2	Arm	725	Unavailable	676	0	0	None
-2	Arm	726	Unavailable	677	0	0	None
-2	Arm	727	Unavailable	678	0	0	None
+2	Arm	725	EX아르테미스가드α	676	140	10	pl133_0000
+2	Arm	726	【아르테미스】의상-팔	677	0	10	pl133_0000
+2	Arm	727	EX아르테미스암α	678	140	10	pl132_0010
 2	Arm	728	Unavailable	0	0	0	None
 2	Arm	729	Unavailable	0	0	0	None
 2	Arm	730	Unavailable	0	0	0	None
@@ -2481,9 +2481,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	722	【머슬γ】의상-허리	672	0	11	pl115_0001
 3	Waist	723	【이너α】 의상-허리	673	0	11	pl500_0000
 3	Waist	724	【이너β】의상-허리	675	0	11	pl501_0000
-3	Waist	725	Unavailable	676	0	0	None
-3	Waist	726	Unavailable	677	0	0	None
-3	Waist	727	Unavailable	678	0	0	None
+3	Waist	725	EX아르테미스코일α	676	140	10	pl133_0000
+3	Waist	726	【아르테미스】의상-허리	677	0	10	pl133_0000
+3	Waist	727	EX아르테미스웨스트α	678	140	10	pl132_0010
 3	Waist	728	Unavailable	0	0	0	None
 3	Waist	729	Unavailable	0	0	0	None
 3	Waist	730	Unavailable	0	0	0	None
@@ -3096,9 +3096,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	722	【머슬γ】의상-다리	672	0	11	pl115_0001
 4	Leg	723	【이너α】 의상-다리	673	0	11	pl500_0000
 4	Leg	724	【이너β】 의상-다리	675	0	11	pl501_0000
-4	Leg	725	Unavailable	676	0	0	None
-4	Leg	726	Unavailable	677	0	0	None
-4	Leg	727	Unavailable	678	0	0	None
+4	Leg	725	EX아르테미스그리브α	676	140	10	pl133_0000
+4	Leg	726	【아르테미스】의상-다리	677	0	10	pl133_0000
+4	Leg	727	EX아르테미스레그α	678	140	10	pl132_0010
 4	Leg	728	Unavailable	0	0	0	None
 4	Leg	729	Unavailable	0	0	0	None
 4	Leg	730	Unavailable	0	0	0	None

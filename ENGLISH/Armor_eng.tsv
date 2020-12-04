@@ -640,9 +640,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	719	Rimeguard<ICON GAMMA>+ Layered Head	669	0	11	pl085_0020
 0	Head	720	Tentacle<ICON GAMMA>+ Layered Head	670	0	11	pl086_0020
 0	Head	721	Unavailable	671	0	0	None
-0	Head	725	Unavailable	676	0	0	None
-0	Head	726	Unavailable	677	0	0	None
-0	Head	727	Unavailable	678	0	0	None
+0	Head	725	Artemis Head<ICON ALPHA>+	676	140	10	pl133_0000
+0	Head	726	Artemis Layered Head	677	0	10	pl133_0000
+0	Head	727	Artemis's Face<ICON ALPHA>+	678	140	10	pl132_0010
 0	Head	728	Unavailable	0	0	0	None
 0	Head	729	Unavailable	0	0	0	None
 0	Head	730	Unavailable	0	0	0	None
@@ -1257,9 +1257,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	722	Buff Body<ICON GAMMA>+ Layered Chest	672	0	11	pl115_0001
 1	Body	723	Innerwear<ICON ALPHA>Layered Body	673	0	11	pl500_0000
 1	Body	724	Innerwear<ICON BETA>Layered Body	675	0	11	pl501_0000
-1	Body	725	Unavailable	676	0	0	None
-1	Body	726	Unavailable	677	0	0	None
-1	Body	727	Unavailable	678	0	0	None
+1	Body	725	Artemis Mail<ICON ALPHA>+	676	140	10	pl133_0000
+1	Body	726	Artemis Layered Chest	677	0	10	pl133_0000
+1	Body	727	Artemis's Body<ICON ALPHA>+	678	140	10	pl132_0010
 1	Body	728	Unavailable	0	0	0	None
 1	Body	729	Unavailable	0	0	0	None
 1	Body	730	Unavailable	0	0	0	None
@@ -1872,9 +1872,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	722	Buff Body<ICON GAMMA>+ Layered Arms	672	0	11	pl115_0001
 2	Arm	723	Innerwear<ICON ALPHA>Layered Arms	673	0	11	pl500_0000
 2	Arm	724	Innerwear<ICON BETA>Layered Arms	675	0	11	pl501_0000
-2	Arm	725	Unavailable	676	0	0	None
-2	Arm	726	Unavailable	677	0	0	None
-2	Arm	727	Unavailable	678	0	0	None
+2	Arm	725	Artemis Guards<ICON ALPHA>+	676	140	10	pl133_0000
+2	Arm	726	Artemis Layered Arms	677	0	10	pl133_0000
+2	Arm	727	Artemis's Arms<ICON ALPHA>+	678	140	10	pl132_0010
 2	Arm	728	Unavailable	0	0	0	None
 2	Arm	729	Unavailable	0	0	0	None
 2	Arm	730	Unavailable	0	0	0	None
@@ -2481,9 +2481,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	722	Buff Body<ICON GAMMA>+ Layered Torso	672	0	11	pl115_0001
 3	Waist	723	Innerwear<ICON ALPHA>Layered Torso	673	0	11	pl500_0000
 3	Waist	724	Innerwear<ICON BETA>Layered Torso	675	0	11	pl501_0000
-3	Waist	725	Unavailable	676	0	0	None
-3	Waist	726	Unavailable	677	0	0	None
-3	Waist	727	Unavailable	678	0	0	None
+3	Waist	725	Artemis Coil<ICON ALPHA>+	676	140	10	pl133_0000
+3	Waist	726	Artemis Layered Torso	677	0	10	pl133_0000
+3	Waist	727	Artemis's Waist<ICON ALPHA>+	678	140	10	pl132_0010
 3	Waist	728	Unavailable	0	0	0	None
 3	Waist	729	Unavailable	0	0	0	None
 3	Waist	730	Unavailable	0	0	0	None
@@ -3096,9 +3096,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	722	Buff Body<ICON GAMMA>+ Layered Legs	672	0	11	pl115_0001
 4	Leg	723	Innerwear<ICON ALPHA>Layered Legs	673	0	11	pl500_0000
 4	Leg	724	Innerwear<ICON BETA>Layered Legs	675	0	11	pl501_0000
-4	Leg	725	Unavailable	676	0	0	None
-4	Leg	726	Unavailable	677	0	0	None
-4	Leg	727	Unavailable	678	0	0	None
+4	Leg	725	Artemis Greaves<ICON ALPHA>+	676	140	10	pl133_0000
+4	Leg	726	Artemis Layered Legs	677	0	10	pl133_0000
+4	Leg	727	Artemis's Legs<ICON ALPHA>+	678	140	10	pl132_0010
 4	Leg	728	Unavailable	0	0	0	None
 4	Leg	729	Unavailable	0	0	0	None
 4	Leg	730	Unavailable	0	0	0	None

@@ -299,7 +299,7 @@
 0	大剑	298	Unavailable	0	组合模型	wp/two/bs_two002	
 0	大剑	299	Unavailable	0	组合模型	wp/two/bs_two002	
 0	大剑	300	Unavailable	0	组合模型	wp/two/bs_two002	
-0	大剑	301	Unavailable	0	组合模型	wp/two/bs_two002	
+0	大剑	301	大龙颚	10	组合模型	wp/two/bs_two006	
 0	大剑	302	Unavailable	0	组合模型	wp/two/bs_two002	
 0	大剑	303	Unavailable	0	组合模型	wp/two/bs_two002	
 0	大剑	304	Unavailable	0	组合模型	wp/two/bs_two002	
@@ -617,7 +617,7 @@
 1	片手剑	298	Unavailable	0	组合模型	wp/one/bs_one001	
 1	片手剑	299	Unavailable	0	组合模型	wp/one/bs_one001	
 1	片手剑	300	Unavailable	0	组合模型	wp/one/bs_one001	
-1	片手剑	301	Unavailable	0	组合模型	wp/one/bs_one001	
+1	片手剑	301	猎人匕首	10	组合模型	wp/one/bs_one001	
 1	片手剑	302	Unavailable	0	组合模型	wp/one/bs_one001	
 1	片手剑	303	Unavailable	0	组合模型	wp/one/bs_one001	
 1	片手剑	304	Unavailable	0	组合模型	wp/one/bs_one001	
@@ -936,7 +936,7 @@
 2	双剑	301	皇金双剑·水	11	组合模型 (凯罗武器)	wp/sou/bs_sou014	
 2	双剑	302	皇金双剑·冰	11	组合模型 (凯罗武器)	wp/sou/bs_sou014	
 2	双剑	303	皇金双剑·龙	11	组合模型 (凯罗武器)	wp/sou/bs_sou014	
-2	双剑	304	Unavailable	0	组合模型	wp/sou/bs_sou001	
+2	双剑	304	阿尔忒弥斯的双剑	10	独立模型	wp/sou/sou036	
 2	双剑	305	Unavailable	0	组合模型	wp/sou/bs_sou001	
 2	双剑	306	Unavailable	0	组合模型	wp/sou/bs_sou001	
 2	双剑	307	Unavailable	0	组合模型	wp/sou/bs_sou001	
@@ -1249,7 +1249,7 @@
 3	太刀	298	皇金太刀·麻痹	11	组合模型 (凯罗武器)	wp/swo/bs_swo014	
 3	太刀	299	Unavailable	0	组合模型	wp/swo/bs_swo001	
 3	太刀	300	Unavailable	0	组合模型	wp/swo/bs_swo001	
-3	太刀	301	Unavailable	0	组合模型	wp/swo/bs_swo001	
+3	太刀	301	骨镰	10	组合模型	wp/swo/bs_swo006	
 3	太刀	302	Unavailable	0	组合模型	wp/swo/bs_swo001	
 3	太刀	303	Unavailable	0	组合模型	wp/swo/bs_swo001	
 3	太刀	304	Unavailable	0	组合模型	wp/swo/bs_swo001	
@@ -1562,7 +1562,7 @@
 4	大锤	298	皇金锤·爆破	11	组合模型 (凯罗武器)	wp/ham/bs_ham012	
 4	大锤	299	Unavailable	0	组合模型	wp/ham/bs_ham001	
 4	大锤	300	Unavailable	0	组合模型	wp/ham/bs_ham001	
-4	大锤	301	Unavailable	0	组合模型	wp/ham/bs_ham001	
+4	大锤	301	铁锤	10	组合模型	wp/ham/bs_ham001	
 4	大锤	302	Unavailable	0	组合模型	wp/ham/bs_ham001	
 4	大锤	303	Unavailable	0	组合模型	wp/ham/bs_ham001	
 4	大锤	304	Unavailable	0	组合模型	wp/ham/bs_ham001	
@@ -1874,7 +1874,7 @@
 5	狩猎笛	298	Unavailable	0	组合模型	wp/hue/bs_hue001	
 5	狩猎笛	299	Unavailable	0	组合模型	wp/hue/bs_hue001	
 5	狩猎笛	300	Unavailable	0	组合模型	wp/hue/bs_hue001	
-5	狩猎笛	301	Unavailable	0	组合模型	wp/hue/bs_hue001	
+5	狩猎笛	301	骨制号角	10	组合模型	wp/hue/bs_hue003	
 5	狩猎笛	302	Unavailable	0	组合模型	wp/hue/bs_hue001	
 5	狩猎笛	303	Unavailable	0	组合模型	wp/hue/bs_hue001	
 5	狩猎笛	304	Unavailable	0	组合模型	wp/hue/bs_hue001	
@@ -2110,8 +2110,8 @@
 6	长枪	222	煌黑之锐枪	10	独立模型	wp/lan/lan026	
 6	长枪	223	煌黑枪致命	11	独立模型	wp/lan/lan026	
 6	长枪	224	魂焰龙枪·炎妃	11	组合模型	wp/lan/bs_lan009	
-6	长枪	225	魂焰龙刃·灭尽	11	组合模型	wp/lan/bs_lan009	wp/lan/parts/op_lan004
-6	长枪	226	魂焰龙刃·冥灯	11	组合模型	wp/lan/bs_lan009	wp/lan/parts/op_lan011
+6	长枪	225	魂焰龙枪·灭尽	11	组合模型	wp/lan/bs_lan009	wp/lan/parts/op_lan004
+6	长枪	226	魂焰龙枪·冥灯	11	组合模型	wp/lan/bs_lan009	wp/lan/parts/op_lan011
 6	长枪	227	劫难之刺	10	独立模型	wp/lan/lan027	
 6	长枪	228	吼枪【逆咬】	11	独立模型	wp/lan/lan027	
 6	长枪	229	公会宫殿高塔	9	独立模型	wp/lan/lan028	
@@ -2186,7 +2186,7 @@
 6	长枪	298	Unavailable	0	组合模型	wp/lan/bs_lan001	
 6	长枪	299	Unavailable	0	组合模型	wp/lan/bs_lan001	
 6	长枪	300	Unavailable	0	组合模型	wp/lan/bs_lan001	
-6	长枪	301	Unavailable	0	组合模型	wp/lan/bs_lan001	
+6	长枪	301	铁枪	10	组合模型	wp/lan/bs_lan001	
 6	长枪	302	Unavailable	0	组合模型	wp/lan/bs_lan001	
 6	长枪	303	Unavailable	0	组合模型	wp/lan/bs_lan001	
 6	长枪	304	Unavailable	0	组合模型	wp/lan/bs_lan001	
@@ -2492,7 +2492,7 @@
 7	铳枪	298	Unavailable	0	组合模型	wp/gun/bs_gun001	
 7	铳枪	299	Unavailable	0	组合模型	wp/gun/bs_gun001	
 7	铳枪	300	Unavailable	0	组合模型	wp/gun/bs_gun001	
-7	铳枪	301	Unavailable	0	组合模型	wp/gun/bs_gun001	
+7	铳枪	301	骨铳枪	10	组合模型	wp/gun/bs_gun004	
 7	铳枪	302	Unavailable	0	组合模型	wp/gun/bs_gun001	
 7	铳枪	303	Unavailable	0	组合模型	wp/gun/bs_gun001	
 7	铳枪	304	Unavailable	0	组合模型	wp/gun/bs_gun001	
@@ -2799,7 +2799,7 @@
 8	斩斧	298	皇金剑斧·麻痹	11	组合模型 (凯罗武器)	wp/saxe/bs_saxe012	
 8	斩斧	299	Unavailable	0	组合模型	wp/saxe/bs_saxe001	
 8	斩斧	300	Unavailable	0	组合模型	wp/saxe/bs_saxe001	
-8	斩斧	301	Unavailable	0	组合模型	wp/saxe/bs_saxe001	
+8	斩斧	301	骨制剑斧	10	组合模型	wp/saxe/bs_saxe003	
 8	斩斧	302	Unavailable	0	组合模型	wp/saxe/bs_saxe001	
 8	斩斧	303	Unavailable	0	组合模型	wp/saxe/bs_saxe001	
 8	斩斧	304	Unavailable	0	组合模型	wp/saxe/bs_saxe001	
@@ -3101,7 +3101,7 @@
 9	盾斧	298	Unavailable	0	组合模型	wp/caxe/bs_caxe001	
 9	盾斧	299	Unavailable	0	组合模型	wp/caxe/bs_caxe001	
 9	盾斧	300	Unavailable	0	组合模型	wp/caxe/bs_caxe001	
-9	盾斧	301	Unavailable	0	组合模型	wp/caxe/bs_caxe001	
+9	盾斧	301	骨制兵装	10	组合模型	wp/caxe/bs_caxe003	
 9	盾斧	302	Unavailable	0	组合模型	wp/caxe/bs_caxe001	
 9	盾斧	303	Unavailable	0	组合模型	wp/caxe/bs_caxe001	
 9	盾斧	304	Unavailable	0	组合模型	wp/caxe/bs_caxe001	
@@ -3410,7 +3410,7 @@
 10	操虫棍	298	皇金长刀·冰	11	组合模型 (凯罗武器)	wp/rod/bs_rod012	
 10	操虫棍	299	皇金长刀·麻痹	11	组合模型 (凯罗武器)	wp/rod/bs_rod012	
 10	操虫棍	300	Unavailable	0	组合模型	wp/rod/bs_rod001	
-10	操虫棍	301	Unavailable	0	组合模型	wp/rod/bs_rod001	
+10	操虫棍	301	铁制长刀	10	组合模型	wp/rod/bs_rod001	
 10	操虫棍	302	Unavailable	0	组合模型	wp/rod/bs_rod001	
 10	操虫棍	303	Unavailable	0	组合模型	wp/rod/bs_rod001	
 10	操虫棍	304	Unavailable	0	组合模型	wp/rod/bs_rod001	
@@ -3604,7 +3604,7 @@
 11	弓	188	严冰雷击	192	组合模型	wp/bow/bs_bow010	
 11	弓	189	冰妖艳射	128	组合模型	wp/bow/bs_bow010	
 11	弓	190	Unavailable	0	组合模型	wp/bow/bs_bow001	
-11	弓	191	死灭矢尸弓	192	组合模型	wp/bow/bs_bow009	wp/bow/parts/op_bow002
+11	弓	191	死灭矢尸弓	192	组合模型	wp/bow/bs_bow009	wp/bow/parts/op_bow015
 11	弓	192	水螅·浮浪	192	独立模型	wp/bow/bow016	
 11	弓	193	暴君·浮浪	128	独立模型	wp/bow/bow016	
 11	弓	194	角王弓疾风·改	192	独立模型	wp/bow/bow008	
@@ -3714,7 +3714,7 @@
 11	弓	298	Unavailable	0	组合模型	wp/bow/bs_bow001	
 11	弓	299	Unavailable	0	组合模型	wp/bow/bs_bow001	
 11	弓	300	Unavailable	0	组合模型	wp/bow/bs_bow001	
-11	弓	301	Unavailable	0	组合模型	wp/bow/bs_bow001	
+11	弓	301	猎弓	192	独立模型	wp/bow/bow007	
 11	弓	302	Unavailable	0	组合模型	wp/bow/bs_bow001	
 11	弓	303	Unavailable	0	组合模型	wp/bow/bs_bow001	
 11	弓	304	Unavailable	0	组合模型	wp/bow/bs_bow001	
@@ -3993,7 +3993,7 @@
 12	重弩炮	269	皇金炮筒·熔山	48	组合模型 (凯罗武器)	wp/hbg/bs_hbg009	wp/hbg/parts/op_hbg011
 12	重弩炮	270	皇金炮筒·水	48	组合模型 (凯罗武器)	wp/hbg/bs_hbg010	
 12	重弩炮	271	皇金炮筒·冰	48	组合模型 (凯罗武器)	wp/hbg/bs_hbg010	
-12	重弩炮	272	Unavailable	0	组合模型	wp/hbg/bs_hbg001	
+12	重弩炮	272	骨制发射器	192	组合模型	wp/hbg/bs_hbg002	
 12	重弩炮	273	Unavailable	0	组合模型	wp/hbg/bs_hbg001	
 12	重弩炮	274	Unavailable	0	组合模型	wp/hbg/bs_hbg001	
 12	重弩炮	275	Unavailable	0	组合模型	wp/hbg/bs_hbg001	
@@ -4335,7 +4335,7 @@
 13	轻弩炮	298	Unavailable	0	组合模型	wp/lbg/bs_lbg001	
 13	轻弩炮	299	Unavailable	0	组合模型	wp/lbg/bs_lbg001	
 13	轻弩炮	300	Unavailable	0	组合模型	wp/lbg/bs_lbg001	
-13	轻弩炮	301	Unavailable	0	组合模型	wp/lbg/bs_lbg001	
+13	轻弩炮	301	迅击炼弩	192	组合模型	wp/lbg/bs_lbg001	
 13	轻弩炮	302	Unavailable	0	组合模型	wp/lbg/bs_lbg001	
 13	轻弩炮	303	Unavailable	0	组合模型	wp/lbg/bs_lbg001	
 13	轻弩炮	304	Unavailable	0	组合模型	wp/lbg/bs_lbg001	

@@ -675,9 +675,9 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 673	Белье <ICON ALPHA>	pl500_0000
 674	Часовые<ICON BETA>+	pl104_0000
 675	Белье <ICON BETA>	pl501_0000
-676	Unavailable	None
-677	Unavailable	None
-678	Unavailable	None
+676	Артемис<ICON ALPHA>+	pl133_0000
+677	Артемис	pl133_0000
+678	Артемис<ICON ALPHA>+	pl132_0010
 679	Unavailable	None
 680	Unavailable	None
 681	Unavailable	None

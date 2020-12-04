@@ -436,6 +436,13 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 63130	La loi de la guerre	Tuer un Bazelgeuse	Temps imparti écouléS'évanouir 9 fois
 63131	La chasse à l'Impératrice bleue	Tuer une Lunastra	Temps imparti écouléS'évanouir 9 fois
 63142	Adieu à la glace	Tuer un Velkhana	Temps imparti écouléS'évanouir 9 fois
+63143	Le souverain des terres gelées	Tuer un Velkhana	Temps imparti écouléS'évanouir 9 fois
+63144	Le tyran implacable	Tuer un Tigrex	Temps imparti écouléS'évanouir 9 fois
+63145	Une étoile éternelle	Tuer un Namielle	Temps imparti écouléS'évanouir 9 fois
+63146	Vers la lumière	Tuer un Namielle	Temps imparti écouléS'évanouir 9 fois
+63147	Ce qui ne tue pas rend plus fort	Tuer un Yian Garuga balafré	Temps imparti écouléS'évanouir 9 fois
+63149	Puissance et maîtrise	Tuer tous les monstres	Temps imparti écouléS'évanouir 9 fois
+63150	Adieu à la glace	Tuer un Velkhana	Temps imparti écouléS'évanouir 9 fois
 64101	Désert en désordre	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
 64601	Autant en emporte l'Uragaan	Chasser 2 Uragaan	Temps imparti écouléS'évanouir 3 fois
 64801	À fond les ballons !	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
@@ -505,8 +512,12 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66842	Tout feu tout flammes	Tuer une Lunastra	Temps imparti écouléS'évanouir 3 fois
 66843	L'étoile du soir	Tuer un Alatreon	Temps imparti écouléS'évanouir 3 fois
 66844	Crépuscule de l'étoile de la mort	Tuer un Alatreon	Temps imparti écouléS'évanouir 3 fois
+66845	Le conte des ténèbres	Tuer le Fatalis	Temps imparti écouléS'évanouir 3 fois
 66846	Le dernier chevalier blanc	Chasser un Barioth crocgivre	Temps imparti écouléS'évanouir 3 fois
 66847	Contre vents et marées	Tuer un Namielle	Temps imparti écouléS'évanouir 3 fois
+66850	Là où l'hiver dort	Tuer un Velkhana	Temps imparti écouléS'évanouir 3 fois
+66851	Le Nouveau Monde	Aller à la zone 8	Temps imparti écouléS'évanouir 3 fois
+66852	Bienvenue dans notre monde	Tuer un Rathalos	Temps imparti écouléS'évanouir 3 fois
 66853	Enfiler des perles	Livrer 8 perles de lumière	Temps imparti écouléS'évanouir 3 fois
 66854	Camouflop	Chasser un Rathian	Temps imparti écouléS'évanouir 3 fois
 66855	Voir c'est croire	Chasser un Tigrex	Temps imparti écouléS'évanouir 3 fois
@@ -516,6 +527,11 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66859	Ménage de printemps	Chasser un Bazelgeuse vulcan	Temps imparti écouléS'évanouir 3 fois
 66860	La colère du tonnerre	Chasser un Zinogre	Temps imparti écouléS'évanouir 3 fois
 66861	Numero uno !	Chasser un Rajang orage	Temps imparti écouléS'évanouir 5 fois
+66862	Jumeaux Kadachi	Chasser tous les monstres	Temps imparti écouléS'évanouir 3 fois
+66863	Les larmes du Nirvana	Tuer un Vaal Hazak fléau	Temps imparti écouléS'évanouir 3 fois
+66864	La folie des muscles, le retour	Chasser 2 Rajang orage	Temps imparti écouléS'évanouir 3 fois
+66865	L'adieu au Zinogre	Chasser un Zinogre	Temps imparti écouléS'évanouir 3 fois
+66866	Une brute flambant neuve	Chasser un Tigrex berserk	Temps imparti écouléS'évanouir 3 fois
 66867	Conflit des générations	Chasser un Barioth crocgivre	Temps imparti écouléS'évanouir 3 fois
 67101	L'Éclosion	Chasser un Anjanath	Temps imparti écouléS'évanouir 3 fois
 67102	Leçon des terres sauvages	Tuer 8 Barnos	Temps imparti écouléS'évanouir 3 fois
@@ -533,4 +549,6 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67802	Au cœur des contrées gelées	Chasser un Zinogre	Temps imparti écouléS'évanouir 3 fois
 67803	La survivante	Chasser un Zinogre stygien	Temps imparti écouléS'évanouir 3 fois
 67804	Embrasement	Chasser un Deviljho carnage	Temps imparti écouléS'évanouir 3 fois
+67806	USJ : Briller comme les étoiles	Tuer un Velkhana	Temps imparti écouléS'évanouir 3 fois
 67807	L'assassin	Chasser un Nargacuga	Temps imparti écouléS'évanouir 3 fois
+67809	USJ : Ballet de glace	Chasser un Barioth crocgivre	Temps imparti écouléS'évanouir 3 fois

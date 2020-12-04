@@ -436,6 +436,13 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 63130	Quando a Lei Encontra a Guerra	Mate o Bazelgeuse	Tempo expirarDesmaiar 9 vezes
 63131	O Caçador e a Imperatriz Azul	Mate a Lunastra	Tempo expirarDesmaiar 9 vezes
 63142	Adeus ao Congelado	Mate um Velkhana	Tempo expirarDesmaiar 9 vezes
+63143	Detentor da Coroa de Iceborne	Mate um Velkhana	Tempo expirarDesmaiar 9 vezes
+63144	O Verdadeiro Tirano	Mate um Tigrex	Tempo expirarDesmaiar 9 vezes
+63145	Uma Estrela que Nunca se Apagará	Mate um Namielle	Tempo expirarDesmaiar 9 vezes
+63146	Em Busca da Luz	Mate um Namielle	Tempo expirarDesmaiar 9 vezes
+63147	Sem Medo de Cicatrizes	Mate um Yian Garuga Escoriado	Tempo expirarDesmaiar 9 vezes
+63149	Poder e Técnica	Mate todos os monstros-alvo	Tempo expirarDesmaiar 9 vezes
+63150	Adeus ao Congelado	Mate um Velkhana	Tempo expirarDesmaiar 9 vezes
 64101	Guerra Cruel na Selvagulha	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
 64601	Rolê com o Uragaan	Cace 2 Uragaans	Tempo expirarDesmaiar 3 vezes
 64801	Briga de Balões	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
@@ -505,8 +512,12 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66842	O Frio Nunca me Incomodou	Mate uma Lunastra	Tempo expirarDesmaiar 3 vezes
 66843	A Estrela do Anoitecer	Mate um Alatreon	Tempo expirarDesmaiar 3 vezes
 66844	Alvorada da Estrela da Morte	Mate um Alatreon	Tempo expirarDesmaiar 3 vezes
+66845	Trevas Evanescentes	Mate Fatalis	Tempo expirarDesmaiar 3 vezes
 66846	O Último Cavaleiro Branco	Cace um Barioth Presagélida	Tempo expirarDesmaiar 3 vezes
 66847	A Maré Sombria Distante	Mate um Namielle	Tempo expirarDesmaiar 3 vezes
+66850	Onde o Inverno Repousa	Mate um Velkhana	Tempo expirarDesmaiar 3 vezes
+66851	O Novo Mundo	Vá para a Área 8	Tempo expirarDesmaiar 3 vezes
+66852	Ao Nosso Mundo	Mate um Rathalos	Tempo expirarDesmaiar 3 vezes
 66853	Pérolas Suaves em Domicílio	Entregue 8 Pérolas Suaves	Tempo expirarDesmaiar 3 vezes
 66854	Camufalha	Cace uma Rathian	Tempo expirarDesmaiar 3 vezes
 66855	Ver para Crer	Cace um Tigrex	Tempo expirarDesmaiar 3 vezes
@@ -516,6 +527,11 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66859	Que Estraga-festa...	Cace um Bazelgeuse Vulcânico	Tempo expirarDesmaiar 3 vezes
 66860	A Fúria do Trovão Descende	Cace um Zinogre	Tempo expirarDesmaiar 3 vezes
 66861	Miaulhor da Lista!	Cace um Rajang Furioso	Tempo expirarDesmaiar 5 vezes
+66862	Gêmeos Kadachi	Cace todos os monstros-alvo	Tempo expirarDesmaiar 3 vezes
+66863	Lágrimas de Nirvana	Mate um Vaal Hazak Velado	Tempo expirarDesmaiar 3 vezes
+66864	Maluquice Musculosa Monumental	Cace 2 Rajangs Furiosos	Tempo expirarDesmaiar 3 vezes
+66865	Adeus ao Zinogre	Cace um Zinogre	Tempo expirarDesmaiar 3 vezes
+66866	Novo Bruto no Bairro	Cace um Tigrex Bruto	Tempo expirarDesmaiar 3 vezes
 66867	Cão Velho, Truque Novo	Cace um Barioth Presagélida	Tempo expirarDesmaiar 3 vezes
 67101	A Provação	Cace um Anjanath	Tempo expirarDesmaiar 3 vezes
 67102	Lições da Natureza	Mate 8 Barnos	Tempo expirarDesmaiar 3 vezes
@@ -533,4 +549,6 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67802	Para as Frozen Wilds	Cace um Zinogre	Tempo expirarDesmaiar 3 vezes
 67803	A Sobrevivente	Cace um Zinogre Tenebroso	Tempo expirarDesmaiar 3 vezes
 67804	Firebreak	Cace um Deviljho Selvagem	Tempo expirarDesmaiar 3 vezes
+67806	USJ: Brilhe Eternamente	Mate um Velkhana	Tempo expirarDesmaiar 3 vezes
 67807	O Assassino	Cace um Nargacuga	Tempo expirarDesmaiar 3 vezes
+67809	USJ: Balé do Gelo	Cace um Barioth Presagélida	Tempo expirarDesmaiar 3 vezes

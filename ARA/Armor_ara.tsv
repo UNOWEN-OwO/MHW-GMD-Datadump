@@ -640,9 +640,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	719	درع رأس حارس الصقيع<ICON GAMMA>+ سميك	669	0	11	pl085_0020
 0	Head	720	درع رأس مجس<ICON GAMMA>+ سميك	670	0	11	pl086_0020
 0	Head	721	Unavailable	671	0	0	None
-0	Head	725	Unavailable	676	0	0	None
-0	Head	726	Unavailable	677	0	0	None
-0	Head	727	Unavailable	678	0	0	None
+0	Head	725	رأس أرتميس<ICON ALPHA>+	676	140	10	pl133_0000
+0	Head	726	قصة شعر كثيفة لأرتميس	677	0	10	pl133_0000
+0	Head	727	وجه أرتميس<ICON ALPHA>+	678	140	10	pl132_0010
 0	Head	728	Unavailable	0	0	0	None
 0	Head	729	Unavailable	0	0	0	None
 0	Head	730	Unavailable	0	0	0	None
@@ -1257,9 +1257,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	722	درع صدر هيكل تقوية<ICON GAMMA>+ سميك	672	0	11	pl115_0001
 1	Body	723	زي جسد<ICON ALPHA> السميك الداخلي	673	0	11	pl500_0000
 1	Body	724	زي جسد<ICON BETA> السميك الداخلي	675	0	11	pl501_0000
-1	Body	725	Unavailable	676	0	0	None
-1	Body	726	Unavailable	677	0	0	None
-1	Body	727	Unavailable	678	0	0	None
+1	Body	725	درع أرتميس<ICON ALPHA>+	676	140	10	pl133_0000
+1	Body	726	درع صدر أرتميس السميك	677	0	10	pl133_0000
+1	Body	727	عتاد جسد أرتميس<ICON ALPHA>+	678	140	10	pl132_0010
 1	Body	728	Unavailable	0	0	0	None
 1	Body	729	Unavailable	0	0	0	None
 1	Body	730	Unavailable	0	0	0	None
@@ -1872,9 +1872,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	722	درع أذرع هيكل تقوية<ICON GAMMA>+ سميك	672	0	11	pl115_0001
 2	Arm	723	زي أذرع<ICON ALPHA> السميك الداخلي	673	0	11	pl500_0000
 2	Arm	724	زي أذرع<ICON BETA> السميك الداخلي	675	0	11	pl501_0000
-2	Arm	725	Unavailable	676	0	0	None
-2	Arm	726	Unavailable	677	0	0	None
-2	Arm	727	Unavailable	678	0	0	None
+2	Arm	725	واقيات أرتميس<ICON ALPHA>+	676	140	10	pl133_0000
+2	Arm	726	درع ذراعي أرتميس السميك	677	0	10	pl133_0000
+2	Arm	727	درع ذراعي أرتميس<ICON ALPHA>+	678	140	10	pl132_0010
 2	Arm	728	Unavailable	0	0	0	None
 2	Arm	729	Unavailable	0	0	0	None
 2	Arm	730	Unavailable	0	0	0	None
@@ -2481,9 +2481,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	722	درع جذع هيكل تقوية<ICON GAMMA>+ سميك	672	0	11	pl115_0001
 3	Waist	723	زي جذع<ICON ALPHA> السميك الداخلي	673	0	11	pl500_0000
 3	Waist	724	زي جذع<ICON BETA> السميك الداخلي	675	0	11	pl501_0000
-3	Waist	725	Unavailable	676	0	0	None
-3	Waist	726	Unavailable	677	0	0	None
-3	Waist	727	Unavailable	678	0	0	None
+3	Waist	725	لفيفة أرتميس<ICON ALPHA>+	676	140	10	pl133_0000
+3	Waist	726	درع جذع أرتميس السميك	677	0	10	pl133_0000
+3	Waist	727	درع خصر أرتميس<ICON ALPHA>+	678	140	10	pl132_0010
 3	Waist	728	Unavailable	0	0	0	None
 3	Waist	729	Unavailable	0	0	0	None
 3	Waist	730	Unavailable	0	0	0	None
@@ -3096,9 +3096,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	722	درع أرجل هيكل تقوية<ICON GAMMA>+ سميك	672	0	11	pl115_0001
 4	Leg	723	زي أرجل<ICON ALPHA> السميكة الداخلية	673	0	11	pl500_0000
 4	Leg	724	زي أرجل<ICON BETA> السميكة الداخلية	675	0	11	pl501_0000
-4	Leg	725	Unavailable	676	0	0	None
-4	Leg	726	Unavailable	677	0	0	None
-4	Leg	727	Unavailable	678	0	0	None
+4	Leg	725	درع ساق أرتميس<ICON ALPHA>+	676	140	10	pl133_0000
+4	Leg	726	عتاد ساقي أرتميس السميك	677	0	10	pl133_0000
+4	Leg	727	عتاد ساقي أرتميس<ICON ALPHA>+	678	140	10	pl132_0010
 4	Leg	728	Unavailable	0	0	0	None
 4	Leg	729	Unavailable	0	0	0	None
 4	Leg	730	Unavailable	0	0	0	None

@@ -640,9 +640,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 0	Head	719	Многосл. порубежный шлем<ICON GAMMA>+	669	0	11	pl085_0020
 0	Head	720	Многослойный шлем щупалец<ICON GAMMA>+	670	0	11	pl086_0020
 0	Head	721	Unavailable	671	0	0	None
-0	Head	725	Unavailable	676	0	0	None
-0	Head	726	Unavailable	677	0	0	None
-0	Head	727	Unavailable	678	0	0	None
+0	Head	725	Образ Артемис<ICON ALPHA>+	676	140	10	pl133_0000
+0	Head	726	Многослойный образ Артемис	677	0	10	pl133_0000
+0	Head	727	Лик Артемис<ICON ALPHA>+	678	140	10	pl132_0010
 0	Head	728	Unavailable	0	0	0	None
 0	Head	729	Unavailable	0	0	0	None
 0	Head	730	Unavailable	0	0	0	None
@@ -1257,9 +1257,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 1	Body	722	Мног. нагрудник мускулы<ICON GAMMA>+	672	0	11	pl115_0001
 1	Body	723	Белье <ICON ALPHA>: многосл. доспех	673	0	11	pl500_0000
 1	Body	724	Белье <ICON BETA>: многосл. доспех	675	0	11	pl501_0000
-1	Body	725	Unavailable	676	0	0	None
-1	Body	726	Unavailable	677	0	0	None
-1	Body	727	Unavailable	678	0	0	None
+1	Body	725	Доспех Артемис<ICON ALPHA>+	676	140	10	pl133_0000
+1	Body	726	Многосл. нагрудник Артемис	677	0	10	pl133_0000
+1	Body	727	Доспех Артемис<ICON ALPHA>+	678	140	10	pl132_0010
 1	Body	728	Unavailable	0	0	0	None
 1	Body	729	Unavailable	0	0	0	None
 1	Body	730	Unavailable	0	0	0	None
@@ -1872,9 +1872,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 2	Arm	722	Многослойные наручи мускулы<ICON GAMMA>+	672	0	11	pl115_0001
 2	Arm	723	Белье <ICON ALPHA>: многосл. наручи	673	0	11	pl500_0000
 2	Arm	724	Белье <ICON BETA>: многосл. наручи	675	0	11	pl501_0000
-2	Arm	725	Unavailable	676	0	0	None
-2	Arm	726	Unavailable	677	0	0	None
-2	Arm	727	Unavailable	678	0	0	None
+2	Arm	725	Наручи Артемис<ICON ALPHA>+	676	140	10	pl133_0000
+2	Arm	726	Многослойные наручи Артемис	677	0	10	pl133_0000
+2	Arm	727	Наручи Артемис<ICON ALPHA>+	678	140	10	pl132_0010
 2	Arm	728	Unavailable	0	0	0	None
 2	Arm	729	Unavailable	0	0	0	None
 2	Arm	730	Unavailable	0	0	0	None
@@ -2481,9 +2481,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 3	Waist	722	Многослойная кираса мускулы<ICON GAMMA>+	672	0	11	pl115_0001
 3	Waist	723	Белье <ICON ALPHA>: многосл. кираса	673	0	11	pl500_0000
 3	Waist	724	Белье <ICON BETA>: многосл. кираса	675	0	11	pl501_0000
-3	Waist	725	Unavailable	676	0	0	None
-3	Waist	726	Unavailable	677	0	0	None
-3	Waist	727	Unavailable	678	0	0	None
+3	Waist	725	Пояс Артемис<ICON ALPHA>+	676	140	10	pl133_0000
+3	Waist	726	Многослойная кираса Артемис	677	0	10	pl133_0000
+3	Waist	727	Пояс Артемис<ICON ALPHA>+	678	140	10	pl132_0010
 3	Waist	728	Unavailable	0	0	0	None
 3	Waist	729	Unavailable	0	0	0	None
 3	Waist	730	Unavailable	0	0	0	None
@@ -3096,9 +3096,9 @@ Equip Type ID	Equip Type	Equip ID	Equip Name	Transmog ID	Defense	Rare	File Path
 4	Leg	722	Многослойные поножи мускулы<ICON GAMMA>+	672	0	11	pl115_0001
 4	Leg	723	Белье <ICON ALPHA>: многосл. поножи	673	0	11	pl500_0000
 4	Leg	724	Белье <ICON BETA>: многосл. поножи	675	0	11	pl501_0000
-4	Leg	725	Unavailable	676	0	0	None
-4	Leg	726	Unavailable	677	0	0	None
-4	Leg	727	Unavailable	678	0	0	None
+4	Leg	725	Поножи Артемис<ICON ALPHA>+	676	140	10	pl133_0000
+4	Leg	726	Многослойные поножи Артемис	677	0	10	pl133_0000
+4	Leg	727	Поножи Артемис<ICON ALPHA>+	678	140	10	pl132_0010
 4	Leg	728	Unavailable	0	0	0	None
 4	Leg	729	Unavailable	0	0	0	None
 4	Leg	730	Unavailable	0	0	0	None

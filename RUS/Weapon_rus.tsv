@@ -299,7 +299,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 0	GreatSword	298	Unavailable	0	Combined Model	wp/two/bs_two002	
 0	GreatSword	299	Unavailable	0	Combined Model	wp/two/bs_two002	
 0	GreatSword	300	Unavailable	0	Combined Model	wp/two/bs_two002	
-0	GreatSword	301	Unavailable	0	Combined Model	wp/two/bs_two002	
+0	GreatSword	301	Зубоскал	10	Combined Model	wp/two/bs_two006	
 0	GreatSword	302	Unavailable	0	Combined Model	wp/two/bs_two002	
 0	GreatSword	303	Unavailable	0	Combined Model	wp/two/bs_two002	
 0	GreatSword	304	Unavailable	0	Combined Model	wp/two/bs_two002	
@@ -617,7 +617,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 1	Sword&Shield	298	Unavailable	0	Combined Model	wp/one/bs_one001	
 1	Sword&Shield	299	Unavailable	0	Combined Model	wp/one/bs_one001	
 1	Sword&Shield	300	Unavailable	0	Combined Model	wp/one/bs_one001	
-1	Sword&Shield	301	Unavailable	0	Combined Model	wp/one/bs_one001	
+1	Sword&Shield	301	Охотничий нож	10	Combined Model	wp/one/bs_one001	
 1	Sword&Shield	302	Unavailable	0	Combined Model	wp/one/bs_one001	
 1	Sword&Shield	303	Unavailable	0	Combined Model	wp/one/bs_one001	
 1	Sword&Shield	304	Unavailable	0	Combined Model	wp/one/bs_one001	
@@ -936,7 +936,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 2	DualBlades	301	Имп. ножи: вода	11	Combined Model (KT Weapon)	wp/sou/bs_sou014	
 2	DualBlades	302	Имп. ножи: лед	11	Combined Model (KT Weapon)	wp/sou/bs_sou014	
 2	DualBlades	303	Имп. ножи: дракон	11	Combined Model (KT Weapon)	wp/sou/bs_sou014	
-2	DualBlades	304	Unavailable	0	Combined Model	wp/sou/bs_sou001	
+2	DualBlades	304	Двойные клинки Артемис	10	Unique Model	wp/sou/sou036	
 2	DualBlades	305	Unavailable	0	Combined Model	wp/sou/bs_sou001	
 2	DualBlades	306	Unavailable	0	Combined Model	wp/sou/bs_sou001	
 2	DualBlades	307	Unavailable	0	Combined Model	wp/sou/bs_sou001	
@@ -1249,7 +1249,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 3	LongSword	298	Имп. меч: паралич	11	Combined Model (KT Weapon)	wp/swo/bs_swo014	
 3	LongSword	299	Unavailable	0	Combined Model	wp/swo/bs_swo001	
 3	LongSword	300	Unavailable	0	Combined Model	wp/swo/bs_swo001	
-3	LongSword	301	Unavailable	0	Combined Model	wp/swo/bs_swo001	
+3	LongSword	301	Костяной жнец	10	Combined Model	wp/swo/bs_swo006	
 3	LongSword	302	Unavailable	0	Combined Model	wp/swo/bs_swo001	
 3	LongSword	303	Unavailable	0	Combined Model	wp/swo/bs_swo001	
 3	LongSword	304	Unavailable	0	Combined Model	wp/swo/bs_swo001	
@@ -1562,7 +1562,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 4	Hammer	298	Имп. молот: взрыв	11	Combined Model (KT Weapon)	wp/ham/bs_ham012	
 4	Hammer	299	Unavailable	0	Combined Model	wp/ham/bs_ham001	
 4	Hammer	300	Unavailable	0	Combined Model	wp/ham/bs_ham001	
-4	Hammer	301	Unavailable	0	Combined Model	wp/ham/bs_ham001	
+4	Hammer	301	Железный молот	10	Combined Model	wp/ham/bs_ham001	
 4	Hammer	302	Unavailable	0	Combined Model	wp/ham/bs_ham001	
 4	Hammer	303	Unavailable	0	Combined Model	wp/ham/bs_ham001	
 4	Hammer	304	Unavailable	0	Combined Model	wp/ham/bs_ham001	
@@ -1874,7 +1874,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 5	HuntingHorn	298	Unavailable	0	Combined Model	wp/hue/bs_hue001	
 5	HuntingHorn	299	Unavailable	0	Combined Model	wp/hue/bs_hue001	
 5	HuntingHorn	300	Unavailable	0	Combined Model	wp/hue/bs_hue001	
-5	HuntingHorn	301	Unavailable	0	Combined Model	wp/hue/bs_hue001	
+5	HuntingHorn	301	Костяной рог	10	Combined Model	wp/hue/bs_hue003	
 5	HuntingHorn	302	Unavailable	0	Combined Model	wp/hue/bs_hue001	
 5	HuntingHorn	303	Unavailable	0	Combined Model	wp/hue/bs_hue001	
 5	HuntingHorn	304	Unavailable	0	Combined Model	wp/hue/bs_hue001	
@@ -2186,7 +2186,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 6	Lance	298	Unavailable	0	Combined Model	wp/lan/bs_lan001	
 6	Lance	299	Unavailable	0	Combined Model	wp/lan/bs_lan001	
 6	Lance	300	Unavailable	0	Combined Model	wp/lan/bs_lan001	
-6	Lance	301	Unavailable	0	Combined Model	wp/lan/bs_lan001	
+6	Lance	301	Железное копье	10	Combined Model	wp/lan/bs_lan001	
 6	Lance	302	Unavailable	0	Combined Model	wp/lan/bs_lan001	
 6	Lance	303	Unavailable	0	Combined Model	wp/lan/bs_lan001	
 6	Lance	304	Unavailable	0	Combined Model	wp/lan/bs_lan001	
@@ -2492,7 +2492,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 7	GunLance	298	Unavailable	0	Combined Model	wp/gun/bs_gun001	
 7	GunLance	299	Unavailable	0	Combined Model	wp/gun/bs_gun001	
 7	GunLance	300	Unavailable	0	Combined Model	wp/gun/bs_gun001	
-7	GunLance	301	Unavailable	0	Combined Model	wp/gun/bs_gun001	
+7	GunLance	301	Костяная копьепушка	10	Combined Model	wp/gun/bs_gun004	
 7	GunLance	302	Unavailable	0	Combined Model	wp/gun/bs_gun001	
 7	GunLance	303	Unavailable	0	Combined Model	wp/gun/bs_gun001	
 7	GunLance	304	Unavailable	0	Combined Model	wp/gun/bs_gun001	
@@ -2799,7 +2799,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 8	SwitchAxe	298	Имп. топор: паралич	11	Combined Model (KT Weapon)	wp/saxe/bs_saxe012	
 8	SwitchAxe	299	Unavailable	0	Combined Model	wp/saxe/bs_saxe001	
 8	SwitchAxe	300	Unavailable	0	Combined Model	wp/saxe/bs_saxe001	
-8	SwitchAxe	301	Unavailable	0	Combined Model	wp/saxe/bs_saxe001	
+8	SwitchAxe	301	Костяной топор	10	Combined Model	wp/saxe/bs_saxe003	
 8	SwitchAxe	302	Unavailable	0	Combined Model	wp/saxe/bs_saxe001	
 8	SwitchAxe	303	Unavailable	0	Combined Model	wp/saxe/bs_saxe001	
 8	SwitchAxe	304	Unavailable	0	Combined Model	wp/saxe/bs_saxe001	
@@ -3101,7 +3101,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 9	ChargeBlade	298	Unavailable	0	Combined Model	wp/caxe/bs_caxe001	
 9	ChargeBlade	299	Unavailable	0	Combined Model	wp/caxe/bs_caxe001	
 9	ChargeBlade	300	Unavailable	0	Combined Model	wp/caxe/bs_caxe001	
-9	ChargeBlade	301	Unavailable	0	Combined Model	wp/caxe/bs_caxe001	
+9	ChargeBlade	301	Костяной штык-нож	10	Combined Model	wp/caxe/bs_caxe003	
 9	ChargeBlade	302	Unavailable	0	Combined Model	wp/caxe/bs_caxe001	
 9	ChargeBlade	303	Unavailable	0	Combined Model	wp/caxe/bs_caxe001	
 9	ChargeBlade	304	Unavailable	0	Combined Model	wp/caxe/bs_caxe001	
@@ -3410,7 +3410,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 10	InsectGlaive	298	Имп. глефа: лед	11	Combined Model (KT Weapon)	wp/rod/bs_rod012	
 10	InsectGlaive	299	Имп. глефа: паралич	11	Combined Model (KT Weapon)	wp/rod/bs_rod012	
 10	InsectGlaive	300	Unavailable	0	Combined Model	wp/rod/bs_rod001	
-10	InsectGlaive	301	Unavailable	0	Combined Model	wp/rod/bs_rod001	
+10	InsectGlaive	301	Железный клинок	10	Combined Model	wp/rod/bs_rod001	
 10	InsectGlaive	302	Unavailable	0	Combined Model	wp/rod/bs_rod001	
 10	InsectGlaive	303	Unavailable	0	Combined Model	wp/rod/bs_rod001	
 10	InsectGlaive	304	Unavailable	0	Combined Model	wp/rod/bs_rod001	
@@ -3604,7 +3604,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 11	Bow	188	Ледомет	192	Combined Model	wp/bow/bs_bow010	
 11	Bow	189	Чарующая Эвелия	128	Combined Model	wp/bow/bs_bow010	
 11	Bow	190	Unavailable	0	Combined Model	wp/bow/bs_bow001	
-11	Bow	191	Лук смерти ваал-велоса	192	Combined Model	wp/bow/bs_bow009	wp/bow/parts/op_bow002
+11	Bow	191	Лук смерти ваал-велоса	192	Combined Model	wp/bow/bs_bow009	wp/bow/parts/op_bow015
 11	Bow	192	Планула гидры	192	Unique Model	wp/bow/bow016	
 11	Bow	193	Черная планула	128	Unique Model	wp/bow/bow016	
 11	Bow	194	Клещи сера+	192	Unique Model	wp/bow/bow008	
@@ -3714,7 +3714,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 11	Bow	298	Unavailable	0	Combined Model	wp/bow/bs_bow001	
 11	Bow	299	Unavailable	0	Combined Model	wp/bow/bs_bow001	
 11	Bow	300	Unavailable	0	Combined Model	wp/bow/bs_bow001	
-11	Bow	301	Unavailable	0	Combined Model	wp/bow/bs_bow001	
+11	Bow	301	Лук охотника	192	Unique Model	wp/bow/bow007	
 11	Bow	302	Unavailable	0	Combined Model	wp/bow/bs_bow001	
 11	Bow	303	Unavailable	0	Combined Model	wp/bow/bs_bow001	
 11	Bow	304	Unavailable	0	Combined Model	wp/bow/bs_bow001	
@@ -3993,7 +3993,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 12	HeavyBowGun	269	Имп. штурм: Дзора	48	Combined Model (KT Weapon)	wp/hbg/bs_hbg009	wp/hbg/parts/op_hbg011
 12	HeavyBowGun	270	Имп. штурм: вода	48	Combined Model (KT Weapon)	wp/hbg/bs_hbg010	
 12	HeavyBowGun	271	Имп. штурм: лед	48	Combined Model (KT Weapon)	wp/hbg/bs_hbg010	
-12	HeavyBowGun	272	Unavailable	0	Combined Model	wp/hbg/bs_hbg001	
+12	HeavyBowGun	272	Костяной пистолет	192	Combined Model	wp/hbg/bs_hbg002	
 12	HeavyBowGun	273	Unavailable	0	Combined Model	wp/hbg/bs_hbg001	
 12	HeavyBowGun	274	Unavailable	0	Combined Model	wp/hbg/bs_hbg001	
 12	HeavyBowGun	275	Unavailable	0	Combined Model	wp/hbg/bs_hbg001	
@@ -4335,7 +4335,7 @@ Weapon Type ID	Weapon Type	Weapon ID	Weapon Name	Rare	Model Type	Main Model Path
 13	LightBowGun	298	Unavailable	0	Combined Model	wp/lbg/bs_lbg001	
 13	LightBowGun	299	Unavailable	0	Combined Model	wp/lbg/bs_lbg001	
 13	LightBowGun	300	Unavailable	0	Combined Model	wp/lbg/bs_lbg001	
-13	LightBowGun	301	Unavailable	0	Combined Model	wp/lbg/bs_lbg001	
+13	LightBowGun	301	Разящая цепь	192	Combined Model	wp/lbg/bs_lbg001	
 13	LightBowGun	302	Unavailable	0	Combined Model	wp/lbg/bs_lbg001	
 13	LightBowGun	303	Unavailable	0	Combined Model	wp/lbg/bs_lbg001	
 13	LightBowGun	304	Unavailable	0	Combined Model	wp/lbg/bs_lbg001	

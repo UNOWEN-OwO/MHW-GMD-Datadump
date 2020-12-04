@@ -436,6 +436,13 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 63130	When Law Meets War	Slay a Bazelgeuse	Time expiresFaint 9 times
 63131	The Hunter and The Blue Empress	Slay a Lunastra	Time expiresFaint 9 times
 63142	Farewell to the Frozen	Slay a Velkhana	Time expiresFaint 9 times
+63143	Wearer of the Iceborne Crown	Slay a Velkhana	Time expiresFaint 9 times
+63144	The True Tyrant	Slay a Tigrex	Time expiresFaint 9 times
+63145	A Star That Will Never Dim	Slay a Namielle	Time expiresFaint 9 times
+63146	Aiming for the Light	Slay a Namielle	Time expiresFaint 9 times
+63147	Fear No Scars	Slay a Scarred Yian Garuga	Time expiresFaint 9 times
+63149	Power and Technique	Slay all target monsters	Time expiresFaint 9 times
+63150	Farewell to the Frozen	Slay a Velkhana	Time expiresFaint 9 times
 64101	Wicked Wildspire Warfare	Hunt all target monsters	Time expiresFaint 3 times
 64601	Rollin' With The Uragaan	Hunt 2 Uragaan	Time expiresFaint 3 times
 64801	Balloon Fight	Hunt all target monsters	Time expiresFaint 3 times
@@ -505,8 +512,12 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66842	The Cold Never Bothered Me	Slay a Lunastra	Time expiresFaint 3 times
 66843	The Evening Star	Slay an Alatreon	Time expiresFaint 3 times
 66844	Dawn of the Death Star	Slay an Alatreon	Time expiresFaint 3 times
+66845	Fade to Black	Slay Fatalis	Time expiresFaint 3 times
 66846	The Last White Knight	Hunt a Frostfang Barioth	Time expiresFaint 3 times
 66847	The Distant Dark Tide	Slay a Namielle	Time expiresFaint 3 times
+66850	The Place Where Winter Sleeps	Slay a Velkhana	Time expiresFaint 3 times
+66851	The New World	Head to Area 8	Time expiresFaint 3 times
+66852	To Our World	Slay a Rathalos	Time expiresFaint 3 times
 66853	Fetching Light Pearls	Deliver 8 Light Pearls	Time expiresFaint 3 times
 66854	Camoflawed	Hunt a Rathian	Time expiresFaint 3 times
 66855	Seeing is Believing	Hunt a Tigrex	Time expiresFaint 3 times
@@ -516,6 +527,11 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66859	Talk About a Party Foul...	Hunt a Seething Bazelgeuse	Time expiresFaint 3 times
 66860	The Wrath of Thunder Descends	Hunt a Zinogre	Time expiresFaint 3 times
 66861	Mew are Number One!	Hunt a Furious Rajang	Time expiresFaint 5 times
+66862	Kadachi Twins	Hunt all target monsters	Time expiresFaint 3 times
+66863	Tears from Nirvana	Slay a Blackveil Vaal Hazak	Time expiresFaint 3 times
+66864	Mighty Muscle Monkey Madness	Hunt 2 Furious Rajang	Time expiresFaint 3 times
+66865	A Farewell to Zinogre	Hunt a Zinogre	Time expiresFaint 3 times
+66866	Brand New Brute	Hunt a Brute Tigrex	Time expiresFaint 3 times
 66867	Old Dog, New Trick	Hunt a Frostfang Barioth	Time expiresFaint 3 times
 67101	The Proving	Hunt an Anjanath	Time expiresFaint 3 times
 67102	Lessons of the Wild	Slay 8 Barnos	Time expiresFaint 3 times
@@ -533,4 +549,6 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67802	Into the Frozen Wilds	Hunt a Zinogre	Time expiresFaint 3 times
 67803	The Survivor	Hunt a Stygian Zinogre	Time expiresFaint 3 times
 67804	Firebreak	Hunt a Savage Deviljho	Time expiresFaint 3 times
+67806	USJ: Shine On Forever	Slay a Velkhana	Time expiresFaint 3 times
 67807	The Assassin	Hunt a Nargacuga	Time expiresFaint 3 times
+67809	USJ: Ballet of Frost	Hunt a Frostfang Barioth	Time expiresFaint 3 times

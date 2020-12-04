@@ -436,6 +436,13 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 63130	Na styku prawa i wojny	Upoluj Bazelgeza	Koniec czasuDziewięciokrotne zemdlenie
 63131	Łowca i niebieska cesarzowa	Zabij Lunastrę	Koniec czasuDziewięciokrotne zemdlenie
 63142	Pożegnanie z mrozem	Zabij Velkhana	Koniec czasuDziewięciokrotne zemdlenie
+63143	Lodowa korona na skroniach	Zabij Velkhana	Koniec czasuDziewięciokrotne zemdlenie
+63144	Prawdziwy tyran	Zabij Tigrexa	Koniec czasuDziewięciokrotne zemdlenie
+63145	Gwiazda, która nie zagaśnie	Zabij Namiella	Koniec czasuDziewięciokrotne zemdlenie
+63146	Mierząc w stronę światła	Zabij Namiella	Koniec czasuDziewięciokrotne zemdlenie
+63147	Nie bój się blizn	Zabij Oszpeconego Yian Garugę	Koniec czasuDziewięciokrotne zemdlenie
+63149	Moc i technika	Zabij wszystkie cele	Koniec czasuDziewięciokrotne zemdlenie
+63150	Pożegnanie z mrozem	Zabij Velkhana	Koniec czasuDziewięciokrotne zemdlenie
 64101	Dzielne Działania w Dzikowieży	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
 64601	Harce z Uragaanami	Upoluj dwa Uragaany	Koniec czasuTrzykrotne zemdlenie
 64801	Balonowa walka	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
@@ -505,8 +512,12 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66842	Coś w objęcia chłodu mnie pcha	Zabij Lunastrę	Koniec czasuTrzykrotne zemdlenie
 66843	Gwiazda wieczorna	Zabij Alatreona	Koniec czasuTrzykrotne zemdlenie
 66844	Brzask gwiazdy śmierci	Zabij Alatreona	Koniec czasuTrzykrotne zemdlenie
+66845	Tylko czerń	Zabij Fatalisa	Koniec czasuTrzykrotne zemdlenie
 66846	Ostatni biały rycerz	Upoluj Bariotha Mrozokła	Koniec czasuTrzykrotne zemdlenie
 66847	Odległa mroczna fala	Zabij Namiella	Koniec czasuTrzykrotne zemdlenie
+66850	Tam, gdzie śpi zima	Zabij Velkhana	Koniec czasuTrzykrotne zemdlenie
+66851	Nowy Świat	Idź do Obszaru 8	Koniec czasuTrzykrotne zemdlenie
+66852	Do naszego świata	Zabij Rathalosa	Koniec czasuTrzykrotne zemdlenie
 66853	Połów jasnych pereł	Dostarcz 8 jasnych pereł	Koniec czasuTrzykrotne zemdlenie
 66854	Nieudany kamuflaż	Upoluj Rathianę	Koniec czasuTrzykrotne zemdlenie
 66855	Włos Tigrexa	Upoluj Tigrexa	Koniec czasuTrzykrotne zemdlenie
@@ -516,6 +527,11 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66859	Tak się nie robi...	Upoluj Rozzłoszczonego Bazelgeza	Koniec czasuTrzykrotne zemdlenie
 66860	Gniew burzy	Upoluj Zinogra	Koniec czasuTrzykrotne zemdlenie
 66861	Miau nadzieję na zwycięstwo!	Upoluj Wściekłego Rajanga	Koniec czasuPięciokrotne zemdlenie
+66862	Bliźnięta Kadachi	Upoluj wszystkie cele	Koniec czasuTrzykrotne zemdlenie
+66863	Łzy z nirwany	Zabij Welonowego Vaal Hazaka	Koniec czasuTrzykrotne zemdlenie
+66864	Mania mocnych muskularnych małp	Polowanie na Wściekłego Rajanga	Koniec czasuTrzykrotne zemdlenie
+66865	Pożegnanie z Zinogrem	Upoluj Zinogra	Koniec czasuTrzykrotne zemdlenie
+66866	Całkiem nowa zwalista bestia	Upoluj Zwalistego Tigrexa	Koniec czasuTrzykrotne zemdlenie
 66867	Stary pies, nowa sztuczka	Upoluj Bariotha Mrozokła	Koniec czasuTrzykrotne zemdlenie
 67101	Próba	Upoluj Anjanatha	Koniec czasuTrzykrotne zemdlenie
 67102	Nauki z dziczy	Zabij 8 Barnosów	Koniec czasuTrzykrotne zemdlenie
@@ -533,4 +549,6 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67802	Na Mroźne Pustkowia	Upoluj Zinogra	Koniec czasuTrzykrotne zemdlenie
 67803	Ocalona istota	Upoluj Stygijskiego Zinogra	Koniec czasuTrzykrotne zemdlenie
 67804	Przecinka	Upoluj Dzikiego Deviljho	Koniec czasuTrzykrotne zemdlenie
+67806	USJ: Wieczny blask	Zabij Velkhana	Koniec czasuTrzykrotne zemdlenie
 67807	Asasyn	Upoluj Nargacuga	Koniec czasuTrzykrotne zemdlenie
+67809	USJ: Mroźny balet	Upoluj Bariotha Mrozokła	Koniec czasuTrzykrotne zemdlenie

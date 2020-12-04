@@ -223,5 +223,5 @@ Skill ID	Skill Code	Skill Name	Skill Desc
 221	PT_EX27_SKILL_PT	Божество-алатреон	Unavailable
 222	PT_EX28_SKILL_PT	Легенда о Фаталисе	Unavailable
 223	PT_CLAW_SKILL_PT	Усиление хватательного когтя	При атаке хватательным когтем чудовищелегче ранить, увеличивается вероятностьполучения снарядов для самострела.
-224	DUMMY000137	Unavailable	Unavailable
-225	DUMMY000140	Unavailable	Unavailable
+224	PT_EX29_SKILL_PT	Новый Cвет	Unavailable
+225	DUMMY000138	Unavailable	Unavailable

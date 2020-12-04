@@ -675,9 +675,9 @@ Equip Series ID / Transmog ID	Equip Name	Model Path
 673	Roupa Íntima<ICON ALPHA>	pl500_0000
 674	Mecânico<ICON BETA>+	pl104_0000
 675	Roupa Íntima<ICON BETA>	pl501_0000
-676	Unavailable	None
-677	Unavailable	None
-678	Unavailable	None
+676	Artemis<ICON ALPHA>+	pl133_0000
+677	Artemis	pl133_0000
+678	Artemis<ICON ALPHA>+	pl132_0010
 679	Unavailable	None
 680	Unavailable	None
 681	Unavailable	None

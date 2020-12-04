@@ -436,6 +436,13 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 63130	Wenn Recht auf Krieg trifft	Töte einen Bazelgeuse.	Zeit abgelaufen9-mal ohnmächtig geworden
 63131	Die Jagd auf die Blaue Königin	Töte eine Lunastra.	Zeit abgelaufen9-mal ohnmächtig geworden
 63142	Frostiger Abschied	Töte einen Velkhana.	Zeit abgelaufen9-mal ohnmächtig geworden
+63143	Träger der eisgeborenen Krone	Töte den Velkhana.	Zeit abgelaufen9-mal ohnmächtig geworden
+63144	Der wahre Tyrann	Töte den Tigrex.	Zeit abgelaufen9-mal ohnmächtig geworden
+63145	Ein Stern wird ewig strahlen	Töte einen Namielle.	Zeit abgelaufen9-mal ohnmächtig geworden
+63146	Immer dem Licht nach	Töte einen Namielle.	Zeit abgelaufen9-mal ohnmächtig geworden
+63147	Keine Angst vor Wunden	Töte einen Wundmal-Yian-Garuga.	Zeit abgelaufen9-mal ohnmächtig geworden
+63149	Kraft und Technik	Töte alle Zielmonster.	Zeit abgelaufen9-mal ohnmächtig geworden
+63150	Frostiger Abschied	Töte einen Velkhana.	Zeit abgelaufen9-mal ohnmächtig geworden
 64101	Wildturm-Aufregung	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
 64601	Uragaaanz schwindelig	Erjage zwei Uragaan.	Zeit abgelaufen3-mal ohnmächtig geworden
 64801	Ballonkampf	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
@@ -505,8 +512,12 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66842	Die Kälte macht mir nichts aus	Töte eine Lunastra.	Zeit abgelaufen3-mal ohnmächtig geworden
 66843	Der Abendstern	Töte einen Alatreon.	Zeit abgelaufen3-mal ohnmächtig geworden
 66844	Dämmerung des Todessterns	Töte einen Alatreon.	Zeit abgelaufen3-mal ohnmächtig geworden
+66845	Dunkle Ohnmacht	Töte den Fatalis.	Zeit abgelaufen3-mal ohnmächtig geworden
 66846	Der letzte weiße Ritter	Erjage einen Frosthauer-Barioth.	Zeit abgelaufen3-mal ohnmächtig geworden
 66847	Die ferne dunkle Flut	Töte einen Namielle.	Zeit abgelaufen3-mal ohnmächtig geworden
+66850	Wo der wilde Winter nächtigt	Töte den Velkhana.	Zeit abgelaufen3-mal ohnmächtig geworden
+66851	Die Neue Welt	Gehe ins Gebiet 8.	Zeit abgelaufen3-mal ohnmächtig geworden
+66852	In unsere Welt	Töte einen Rathalos.	Zeit abgelaufen3-mal ohnmächtig geworden
 66853	Lichtperle	Liefere acht Lichtperlen.	Zeit abgelaufen3-mal ohnmächtig geworden
 66854	Tarnung und Täuschung	Erjage eine Rathian.	Zeit abgelaufen3-mal ohnmächtig geworden
 66855	Sehen ist glauben	Erjage einen Tigrex.	Zeit abgelaufen3-mal ohnmächtig geworden
@@ -516,6 +527,11 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 66859	Eine übelriechende Party	Erjage einen Brodelnden Bazelgeuse.	Zeit abgelaufen3-mal ohnmächtig geworden
 66860	Der Zorn des Donners blitzt auf	Erjage einen Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
 66861	Du bist Nummer eins!	Erjage einen Zornigen Rajang.	Zeit abgelaufen5-mal ohnmächtig geworden
+66862	Kadachi-Zwillinge	Erjage alle Zielmonster.	Zeit abgelaufen3-mal ohnmächtig geworden
+66863	Velum, Valum, Löffelstiel	Töte einen Velum-Vaal-Hazak.	Zeit abgelaufen3-mal ohnmächtig geworden
+66864	Absoluter Affenantagonistenaberwitz	Erjage zwei Zornige Rajang.	Zeit abgelaufen3-mal ohnmächtig geworden
+66865	Habe die Ehre, Zinogre!	Erjage einen Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
+66866	Brandneu und brachial	Erjage einen Brachial-Tigrex.	Zeit abgelaufen3-mal ohnmächtig geworden
 66867	Alter Hund, neuer Trick	Erjage einen Frosthauer-Barioth.	Zeit abgelaufen3-mal ohnmächtig geworden
 67101	Die Erprobung	Erjage einen Anjanath.	Zeit abgelaufen3-mal ohnmächtig geworden
 67102	Lektionen der Wildnis	Töte acht Barnos.	Zeit abgelaufen3-mal ohnmächtig geworden
@@ -533,4 +549,6 @@ Quest ID	Quest Name	Quest Target	Fail Condition
 67802	Auf in die eisige Wildnis	Erjage einen Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
 67803	Die Überlebende	Erjage einen Höllen-Zinogre.	Zeit abgelaufen3-mal ohnmächtig geworden
 67804	Firebreak	Erjage einen Wilden Dämonjho.	Zeit abgelaufen3-mal ohnmächtig geworden
+67806	USJ: Ewige Strahlkraft	Töte den Velkhana.	Zeit abgelaufen3-mal ohnmächtig geworden
 67807	Der Assassine	Erjage einen Nargacuga.	Zeit abgelaufen3-mal ohnmächtig geworden
+67809	USJ: Ballett des Frosts	Erjage einen Frosthauer-Barioth.	Zeit abgelaufen3-mal ohnmächtig geworden
